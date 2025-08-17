@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Daily Brief — Malaysia & Global</title>
+  <style>
+    body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#f6f7f9}
+    header{background:#0B132B;color:#fff;padding:20px;text-align:center}
+    .muted{color:#cbd5e1;font-size:12px}
+    main{max-width:900px;margin:0 auto;padding:10px}
+    iframe{width:100%;height:85vh;border:0;background:#fff;border-radius:10px;box-shadow:0 1px 4px rgba(0,0,0,.08)}
+    .bar{display:flex;gap:10px;align-items:center;justify-content:space-between;margin:10px 0}
+    .btn{background:#2563EB;color:#fff;padding:8px 12px;border-radius:8px;text-decoration:none;font-weight:700}
+    .select{padding:8px;border-radius:8px;border:1px solid #e5e7eb;background:#fff}
+  </style>
+</head>
+<body>
+  <header>
+    <h1 style="margin:0">Daily Brief — Malaysia & Global</h1>
+    <div class="muted" id="today"></div>
+  </header>
+  <main>
+    <div class="bar">
+      <div>
+        <label for="issueSelect">Archive:</label>
+        <select id="issueSelect" class="select"></select>
+      </div>
+      <a id="openRaw" class="btn" target="_blank" rel="noopener">Open raw HTML</a>
+    </div>
+    <iframe id="viewer" title="Newsletter"></iframe>
+  </main>
+  <script>
+    // Config: set your username/repo
+    const USER = location.hostname.split('.')[0]; // works for <user>.github.io
+    const REPO = location.pathname.split('/')[1] || 'daily-brief';
+
+    document.getElementById('today').textContent =
+      new Date().toLocaleString('en-MY',{timeZone:'Asia/Kuala_Lumpur',dateStyle:'full',timeStyle:'short'});
+
+    async function loadIssues() {
+      const api = `https://api.github.com/repos/${USER}/${REPO}/contents/`;
+      const res = await fetch(api);
+      const files = await res.json();
+      const issues = (Array.isArray(files)?files:[])
+        .filter(f => /^\d{4}-\d{2}-\d{2}\.html$/.test(f.name))
+        .map(f => f.name)
+        .sort().reverse(); // newest first
+
+      const sel = document.getElementById('issueSelect');
+      sel.innerHTML = issues.map(n => `<option value="${n}">${n.replace('.html','')}</option>`).join('');
+      const latest = issues[0];
+      if (latest) show(latest);
+      sel.addEventListener('change', e => show(e.target.value));
+    }
+
+    function show(filename) {
+      const base = `https://${USER}.github.io/${REPO}/`;
+      document.getElementById('viewer').src = base + filename;
+      document.getElementById('openRaw').href = base + filename;
+    }
+
+    loadIssues().catch(console.error);
+  </script>
+</body>
+</html>
