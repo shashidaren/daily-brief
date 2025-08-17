@@ -1,0 +1,27 @@
+name: Archive Daily Issue
+on:
+  push:
+    paths:
+      - incoming/daily.html
+    branches: [ main ]
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Move to dated filename
+        run: |
+          DATE=$(TZ=Asia/Kuala_Lumpur date +'%Y-%m-%d')
+          mkdir -p incoming
+          test -f incoming/daily.html
+          cp incoming/daily.html "${DATE}.html"
+
+      - name: Commit archive
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add .
+          git commit -m "Archive issue for $(TZ=Asia/Kuala_Lumpur date +'%Y-%m-%d')" || echo "Nothing to commit"
+          git push
