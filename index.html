@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Daily Brief</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>Daily Brief</h1>
+    <p class="subtitle">Malaysia · World · Tech — auto-updated</p>
+  </header>
+
+  <main id="app">
+    <section class="controls">
+      <input id="search" type="search" placeholder="Search headlines…" aria-label="Search headlines" />
+      <select id="category">
+        <option value="all">All</option>
+        <option value="malaysia">Malaysia</option>
+        <option value="world">World</option>
+        <option value="tech">Tech</option>
+      </select>
+      <button id="refresh" title="Force refresh JSON">↻ Refresh</button>
+      <span id="updatedAt" class="updated">Updated: —</span>
+    </section>
+
+    <section id="feed" class="grid"></section>
+  </main>
+
+  <footer class="site-footer">
+    <small>Built with GitHub Pages · Auto-updated by Actions</small>
+  </footer>
+
+  <script src="assets/script.js"></script>
+</body>
+</html>
