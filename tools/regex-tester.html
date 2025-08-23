@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Regex Tester</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>Regex Tester</h1>
+    <nav class="nav"><a href="index.html">← Tools</a></nav>
+  </header>
+  <main class="section">
+    <div class="row">
+      <div class="col">
+        <label>Pattern</label>
+        <input id="pat" placeholder="^hello\s+(\w+)$" />
+        <label>Flags</label>
+        <input id="flags" placeholder="gi" />
+        <label>Input text</label>
+        <textarea id="text" rows="12" placeholder="hello world\nhello Malaysia"></textarea>
+        <div class="row"><button id="run">Run</button></div>
+      </div>
+      <div class="col">
+        <label>Matches</label>
+        <pre id="out"></pre>
+      </div>
+    </div>
+  </main>
+  <script>
+    document.getElementById('run').onclick = ()=>{
+      const pat = document.getElementById('pat').value;
+      const flags = document.getElementById('flags').value;
+      const text = document.getElementById('text').value;
+      try{
+        const re = new RegExp(pat, flags);
+        const lines = text.split('\n');
+        const results = [];
+        lines.forEach((line, idx)=>{
+          let m; let last = 0;
+          if (flags.includes('g')){
+            while((m = re.exec(line))){
+              results.push({line: idx+1, match: m[0], groups: m.slice(1)});
+              if (m[0]==='') { re.lastIndex++; } // avoid zero-length loops
+            }
+          } else {
+            m = re.exec(line);
+            if (m) results.push({line: idx+1, match: m[0], groups: m.slice(1)});
+          }
+        });
+        document.getElementById('out').textContent = JSON.stringify(results, null, 2);
+      }catch(e){
+        document.getElementById('out').textContent = 'Invalid regex: ' + e.message;
+      }
+    };
+  </script>
+</body>
+</html>

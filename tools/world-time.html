@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>World Time</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>World Time</h1>
+    <nav class="nav"><a href="index.html">← Tools</a></nav>
+  </header>
+  <main class="section">
+    <div id="clocks" class="grid"></div>
+  </main>
+  <script>
+    const zones = [
+      { label: "Malaysia (MYT)", tz: "Asia/Kuala_Lumpur" },
+      { label: "GMT/UTC", tz: "UTC" },
+      { label: "Eastern (US)", tz: "America/New_York" },
+      { label: "Pacific (US)", tz: "America/Los_Angeles" },
+      { label: "London (UK)", tz: "Europe/London" },
+      { label: "Tokyo (JP)", tz: "Asia/Tokyo" }
+    ];
+    function updateClocks() {
+      const now = new Date();
+      const clocks = document.getElementById("clocks");
+      clocks.innerHTML = "";
+      zones.forEach(z => {
+        const fmt = new Intl.DateTimeFormat("en-GB", {
+          hour: "2-digit", minute: "2-digit", second: "2-digit",
+          weekday: "short", day: "2-digit", month: "short", year: "numeric",
+          timeZone: z.tz
+        });
+        const card = document.createElement("div");
+        card.className = "card";
+        card.innerHTML = `<h2>${z.label}</h2><p>${fmt.format(now)}</p>`;
+        clocks.appendChild(card);
+      });
+    }
+    setInterval(updateClocks, 1000);
+    updateClocks();
+  </script>
+</body>
+</html>

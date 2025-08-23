@@ -1,0 +1,61 @@
+{
+  "generatedAt": "2025-08-23T07:04:54.545756+00:00",
+  "items": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "NASDAQ"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "NASDAQ"
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "NASDAQ"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "NASDAQ"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "NASDAQ"
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "NASDAQ"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "NASDAQ"
+    }
+  ]
+}
