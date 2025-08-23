@@ -1,62 +1,17 @@
 {
-  "generatedAt": "2025-08-23T06:39:30.242354+00:00",
+  "generatedAt": "2025-08-23T07:19:36.392834+00:00",
   "counts": {
-    "total": 6
+    "total": 1
   },
   "items": [
     {
-      "id": "sample-1",
-      "title": "Malaysia morning brief: Key headlines to start your day",
-      "link": "https://www.bernama.com/",
-      "summary": "A quick round-up from national outlets covering government, markets, and community updates.",
-      "published": "2025-08-23T06:39:30.242370+00:00",
-      "source": "Bernama",
+      "id": "sample",
+      "title": "Sample item \u2014 run Fetch News to refresh",
+      "link": "https://example.com",
+      "summary": "This is a placeholder. The workflow will replace it with live headlines.",
+      "published": "2025-08-23T07:19:36.392846+00:00",
+      "source": "Daily Brief",
       "category": "malaysia"
-    },
-    {
-      "id": "sample-2",
-      "title": "Kuala Lumpur traffic & weather snapshot",
-      "link": "https://www.malaymail.com/",
-      "summary": "Met service update and commuting advisory for Klang Valley.",
-      "published": "2025-08-23T06:39:30.242375+00:00",
-      "source": "Malay Mail",
-      "category": "malaysia"
-    },
-    {
-      "id": "sample-3",
-      "title": "World markets open mixed amid policy watch",
-      "link": "https://www.reuters.com/",
-      "summary": "Investors look ahead to key central bank remarks and earnings.",
-      "published": "2025-08-23T06:39:30.242378+00:00",
-      "source": "Reuters",
-      "category": "world"
-    },
-    {
-      "id": "sample-4",
-      "title": "Global briefing: headlines you should know today",
-      "link": "https://www.bbc.com/news",
-      "summary": "Conflict updates, climate events, and major diplomatic meetings.",
-      "published": "2025-08-23T06:39:30.242380+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "sample-5",
-      "title": "Tech roundup: new devices and developer tools",
-      "link": "https://techcrunch.com/",
-      "summary": "Startups and Big Tech unveil hardware, AI features, and SDK updates.",
-      "published": "2025-08-23T06:39:30.242383+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "sample-6",
-      "title": "AI in focus: research and product launches",
-      "link": "https://www.theverge.com/",
-      "summary": "A digest of notable AI features, safety updates, and ecosystem news.",
-      "published": "2025-08-23T06:39:30.242385+00:00",
-      "source": "The Verge",
-      "category": "tech"
     }
   ]
 }
