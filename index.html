@@ -1,65 +1,170 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Daily Brief — Magazine</title>
-  <link rel="icon" href="assets/logo.svg" type="image/svg+xml" />
-  <link rel="stylesheet" href="assets/theme.css" />
-  <script defer src="assets/theme.js"></script>
-  <script defer src="assets/script.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Brief – Your Personal News Portal</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header class="header">
-  <div class="container row">
-    <div class="brand">
-      <img src="assets/logo.svg" alt="logo" />
-      <span class="title">Daily Brief</span>
-      <span class="badge">auto-updated</span>
+  <!-- Header & Navigation -->
+  <header class="site-header">
+    <div class="container">
+      <h1 class="site-title">Daily&nbsp;Brief</h1>
+      <nav>
+        <ul class="nav-list">
+          <li><a href="#malaysia">Malaysia</a></li>
+          <li><a href="#world">World</a></li>
+          <li><a href="#tech-ai">Tech &amp; AI</a></li>
+          <li><a href="#gold-stocks">Gold &amp; Stocks</a></li>
+          <li><a href="#deals">Deals</a></li>
+          <li><a href="#devops">DevOps</a></li>
+        </ul>
+      </nav>
     </div>
-    <nav class="nav">
-      <a href="index.html" style="background:var(--card);border-color:var(--border)">News</a>
-      <a href="tools/index.html" >Tools</a>
-      <a href="useful/index.html" >Useful</a>
-      <button class="btn" onclick="__toggleTheme()">Theme</button>
-    </nav>
-  </div>
-</header>
-  <section class="hero">
-    <div class="container inner">
-      <p class="kicker">Malaysia · World · Tech</p>
-      <h1>Magazine Feed</h1>
-      <div class="controls">
-        <input id="search" placeholder="Search headlines…" />
-        <select id="category"><option value="all">All</option><option value="malaysia">Malaysia</option><option value="world">World</option><option value="tech">Tech</option></select>
-        <button id="refresh" class="btn">Refresh</button>
-        <span id="updatedAt" class="updated">Updated: —</span>
-      </div>
-    </div>
-  </section>
-  <main class="container">
-    <div class="layout sidebar">
-      <aside class="sidebar">
-        <div class="panel">
-          <h3>Quick Links</h3>
-          <ul>
-            <li><a href="tools/index.html">Tools</a></li>
-            <li><a href="useful/index.html">Useful</a></li>
-            <li><a href="tools/world-time.html">World Time</a></li>
-            <li><a href="tools/tech-stocks.html">Tech Stocks</a></li>
-          </ul>
-        </div>
-        <div class="panel">
-          <h3>About</h3>
-          <p class="muted">Auto-updated hourly via GitHub Actions. No login, no tracking.</p>
-        </div>
-      </aside>
-      <section id="feed" class="grid"></section>
-    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="main-content container">
+    <!-- Malaysia News Section -->
+    <section id="malaysia" class="news-section">
+      <h2>Malaysia News</h2>
+      <article>
+        <p>
+          On <strong>August&nbsp;27,&nbsp;2025</strong> a minor <em>3.2‑magnitude earthquake</em> struck near
+          the town of Segamat in Johor at 8:59&nbsp;a.m. local time.  The quake,
+          centred about 18&nbsp;km south of Segamat along the Mersing Fault Zone, did not
+          cause any deaths or injuries, according to Malaysia’s Meteorological
+          Department【512616299735638†L1537-L1583】.  Officials reported the tremor
+          was likely an aftershock and urged residents to remain calm.  Minor
+          earthquakes like this are occasionally felt in Peninsular Malaysia but
+          rarely cause significant damage.
+        </p>
+      </article>
+    </section>
+
+    <!-- World News Section -->
+    <section id="world" class="news-section">
+      <h2>World News</h2>
+      <article>
+        <p>
+          Heavy rains from <strong>Tropical Storm Kajiki</strong> brought extensive flooding
+          and landslides across Vietnam and Thailand.  Authorities reported at
+          least eight deaths (seven in Vietnam and one in Thailand).  Rainfall
+          totals reached around 20&nbsp;cm in some provinces, prompting warnings of
+          flash floods and landslides and forcing thousands to evacuate【170648680819398†L2090-L2115】.
+        </p>
+      </article>
+    </section>
+
+    <!-- Tech & AI News Section -->
+    <section id="tech-ai" class="news-section">
+      <h2>Tech &amp; AI Updates</h2>
+      <article>
+        <p>
+          The technology sector continues to surge, with investors pricing in
+          potential interest‑rate cuts and seeking high‑growth companies.  Market
+          analysts note that innovative small‑cap tech firms remain resilient
+          despite economic uncertainty【23887844582502†L614-L620】.  Meanwhile,
+          enthusiasm around artificial intelligence has pushed AI‑linked stocks up
+          roughly <strong>170&nbsp;%</strong> since late&nbsp;2022; however, analysts caution
+          that valuations are elevated and concentrated among a few mega‑cap
+          companies【994445388511939†L160-L198】.
+        </p>
+        <p>
+          In Asia, Chinese chipmakers plan to <em>triple</em> their AI chip output by
+          2026.  Huawei is developing a dedicated fabrication plant, slated to
+          start production by late&nbsp;2025, and the industry plans to build two
+          more plants by 2026【660467574806593†L153-L176】.  These expansions are
+          intended to reduce reliance on foreign technology and support the
+          country’s growing AI industry.
+        </p>
+      </article>
+    </section>
+
+    <!-- Gold & Stocks Section -->
+    <section id="gold-stocks" class="news-section">
+      <h2>Gold &amp; Stocks</h2>
+      <article>
+        <p>
+          Gold prices eased as investors booked profits and the U.S. dollar
+          strengthened.  On Aug&nbsp;27&nbsp;2025, spot gold slipped to around
+          <strong>$3,382&nbsp;per&nbsp;ounce</strong>, while December futures fell to
+          <strong>$3,430.80</strong>.  Analysts attributed the pull‑back to profit‑taking
+          after gold reached a two‑week high【534385162405093†L159-L179】.
+        </p>
+      </article>
+    </section>
+
+    <!-- Deals & Promotions Section -->
+    <section id="deals" class="news-section">
+      <h2>Malaysia Deals &amp; Discounts</h2>
+      <article>
+        <ul>
+          <li>
+            The <strong>Big Bad Wolf Book Sale</strong> at Paradigm Mall Johor Bahru offers
+            up to 95&nbsp;% off books【616150188422525†L42-L55】.
+          </li>
+          <li>
+            <strong>AEON MaxValu Prime</strong> runs a Mid‑Autumn promotion (Aug&nbsp;22 –
+            Oct&nbsp;6) featuring mooncakes and snacks【616150188422525†L42-L55】.
+          </li>
+          <li>
+            <strong>Lotus’s</strong> supermarkets have deals on house‑brand products
+            valid from Aug&nbsp;27 to Sep&nbsp;3【616150188422525†L59-L69】.
+          </li>
+          <li>
+            <strong>7‑Eleven’s 7Meals combo</strong> is priced at RM9.90 for selected meals
+            and drinks【616150188422525†L59-L69】.
+          </li>
+          <li>
+            <strong>Richeese Factory</strong> offers a combo promotion for set meals
+            through Aug&nbsp;29【616150188422525†L77-L90】, while <strong>Marrybrown</strong>
+            provides a FoodPanda discount using the code SYOK10【616150188422525†L77-L90】.
+          </li>
+          <li>
+            <strong>MYDIN</strong> features snack promotions until Aug&nbsp;28 and
+            <strong>BananaBro</strong> has a RM5 Craving Set from Aug&nbsp;27 – Sep&nbsp;2【616150188422525†L96-L107】.
+          </li>
+          <li>
+            Couples dining at <strong>Haidilao</strong> during the Qixi festival (Aug&nbsp;27 –
+            29) receive a free Miniso plush, and AEON’s Time Out promotion (Aug&nbsp;29 –
+            Sep&nbsp;1) offers RM5 vouchers and member deals【616150188422525†L115-L127】.
+          </li>
+        </ul>
+      </article>
+    </section>
+
+    <!-- DevOps & Learning Section -->
+    <section id="devops" class="news-section">
+      <h2>DevOps &amp; Learning</h2>
+      <article>
+        <p>
+          As part of your daily learning, review these essential Linux commands
+          every system administrator should know:
+        </p>
+        <ul>
+          <li><code>sudo</code> – execute commands with superuser privileges【114164316936810†L46-L64】</li>
+          <li><code>useradd</code>, <code>usermod</code> and <code>userdel</code> – manage user accounts【114164316936810†L46-L64】</li>
+          <li><code>groupadd</code>, <code>chown</code>, <code>chmod</code> and <code>chgrp</code> – manage groups and permissions【114164316936810†L46-L64】</li>
+          <li><code>systemctl</code> and <code>journalctl</code> – control services and view logs【114164316936810†L74-L103】</li>
+        </ul>
+        <p>
+          Practising these commands regularly will improve your familiarity with
+          Linux administration and help you streamline everyday tasks.
+        </p>
+      </article>
+    </section>
   </main>
-  <footer class="footer">
-  <div class="container inner">
-    <small>Built on GitHub Pages • Updated by GitHub Actions • © You</small>
-  </div>
-</footer>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <p>
+      &copy; 2025 Daily&nbsp;Brief.  Information compiled on 27&nbsp;August&nbsp;2025 with
+      sources cited inline.
+    </p>
+  </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
