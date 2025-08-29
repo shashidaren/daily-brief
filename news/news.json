@@ -1,1 +1,21 @@
-{"generatedAt": "2025-08-29T03:53:00.210251+00:00", "items": []}
+{
+  "generatedAt": "2025-08-29T04:50:15.674565+00:00",
+  "items": [
+    {
+      "title": "Sample Malaysia News",
+      "link": "https://www.malaymail.com",
+      "summary": "Placeholder news",
+      "published": "2025-08-29T04:50:15.674578+00:00",
+      "source": "Malay Mail",
+      "category": "malaysia"
+    },
+    {
+      "title": "Sample Tech News",
+      "link": "https://techcrunch.com",
+      "summary": "Placeholder tech news",
+      "published": "2025-08-29T04:50:15.674581+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    }
+  ]
+}

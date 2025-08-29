@@ -2,58 +2,32 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Daily Brief — News</title>
+  <title>Daily Brief</title>
   <link rel="stylesheet" href="assets/theme.css">
   <script defer src="assets/theme.js"></script>
-  <script defer src="assets/script.js"></script>
 </head>
 <body>
-  <header class="header">
-    <div class="container row">
-      <div class="brand">
-        <img src="assets/logo.svg" alt="logo"/>
-        <span class="title">Daily Brief</span>
-      </div>
-      <nav class="nav">
-        <a href="index.html">News</a>
-        <a href="tools/index.html">Tools</a>
-        <a href="useful/index.html">Useful</a>
-        <button class="btn" onclick="__toggleTheme()">Theme</button>
-      </nav>
-    </div>
+  <header>
+    <h1>Daily Brief — News</h1>
+    <nav>
+      <a href="index.html">News</a> |
+      <a href="tools/index.html">Tools</a> |
+      <a href="useful/index.html">Useful</a>
+      <button onclick="__toggleTheme()">Toggle Theme</button>
+    </nav>
   </header>
-
-  <main class="container">
-    <h1>Latest News</h1>
-    <div id="feed" class="grid"></div>
-  </main>
-
-  <footer class="footer">
-    <div class="container inner">
-      <small>Built on GitHub Pages • Auto-updated by Actions</small>
-    </div>
-  </footer>
-
+  <main id="feed"></main>
   <script>
-    async function loadNews() {
-      const res = await fetch("news/news.json?cb=" + Date.now());
-      const data = await res.json();
-      const feed = document.getElementById("feed");
-      feed.innerHTML = "";
-      (data.items || []).forEach(item => {
-        const card = document.createElement("article");
-        card.className = "card";
-        card.innerHTML = `
-          <a href="${item.link}" target="_blank"><h2>${item.title}</h2></a>
-          <p class="meta">${item.source} — ${new Date(item.published).toLocaleString()}</p>
-          <p>${item.summary || ""}</p>
-        `;
-        feed.appendChild(card);
+    fetch('news/news.json').then(r=>r.json()).then(data=>{
+      const feed=document.getElementById('feed');
+      (data.items||[]).forEach(item=>{
+        const div=document.createElement('div');div.className='card';
+        div.innerHTML='<a href="'+item.link+'" target="_blank">'+item.title+'</a><p>'+item.summary+'</p>';
+        feed.appendChild(div);
       });
-    }
-    loadNews();
+    }).catch(e=>{
+      document.getElementById('feed').textContent='No news yet';
+    });
   </script>
 </body>
 </html>
-
