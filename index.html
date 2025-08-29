@@ -1,5 +1,59 @@
 <!doctype html>
 <html lang="en">
-<head><meta charset="utf-8"><title>Daily Brief</title></head>
-<body><h1>Daily Brief</h1><p>News homepage placeholder.</p></body>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Daily Brief — News</title>
+  <link rel="stylesheet" href="assets/theme.css">
+  <script defer src="assets/theme.js"></script>
+  <script defer src="assets/script.js"></script>
+</head>
+<body>
+  <header class="header">
+    <div class="container row">
+      <div class="brand">
+        <img src="assets/logo.svg" alt="logo"/>
+        <span class="title">Daily Brief</span>
+      </div>
+      <nav class="nav">
+        <a href="index.html">News</a>
+        <a href="tools/index.html">Tools</a>
+        <a href="useful/index.html">Useful</a>
+        <button class="btn" onclick="__toggleTheme()">Theme</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <h1>Latest News</h1>
+    <div id="feed" class="grid"></div>
+  </main>
+
+  <footer class="footer">
+    <div class="container inner">
+      <small>Built on GitHub Pages • Auto-updated by Actions</small>
+    </div>
+  </footer>
+
+  <script>
+    async function loadNews() {
+      const res = await fetch("news/news.json?cb=" + Date.now());
+      const data = await res.json();
+      const feed = document.getElementById("feed");
+      feed.innerHTML = "";
+      (data.items || []).forEach(item => {
+        const card = document.createElement("article");
+        card.className = "card";
+        card.innerHTML = `
+          <a href="${item.link}" target="_blank"><h2>${item.title}</h2></a>
+          <p class="meta">${item.source} — ${new Date(item.published).toLocaleString()}</p>
+          <p>${item.summary || ""}</p>
+        `;
+        feed.appendChild(card);
+      });
+    }
+    loadNews();
+  </script>
+</body>
 </html>
+
