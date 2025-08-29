@@ -1,21 +1,62 @@
 {
-  "generatedAt": "2025-08-29T04:50:15.674565+00:00",
+  "generatedAt": "2025-08-29T05:03:12.053851+00:00",
+  "counts": {
+    "total": 6
+  },
   "items": [
     {
-      "title": "Sample Malaysia News",
-      "link": "https://www.malaymail.com",
-      "summary": "Placeholder news",
-      "published": "2025-08-29T04:50:15.674578+00:00",
-      "source": "Malay Mail",
+      "id": "sample-my",
+      "title": "Malaysia sample headline",
+      "link": "https://www.bernama.com/",
+      "summary": "Placeholder \u2014 will be replaced on first run.",
+      "published": "2025-08-29T05:03:12.053869+00:00",
+      "source": "Bernama",
       "category": "malaysia"
     },
     {
-      "title": "Sample Tech News",
-      "link": "https://techcrunch.com",
-      "summary": "Placeholder tech news",
-      "published": "2025-08-29T04:50:15.674581+00:00",
+      "id": "sample-world",
+      "title": "World sample headline",
+      "link": "https://www.reuters.com/",
+      "summary": "Placeholder \u2014 will be replaced on first run.",
+      "published": "2025-08-29T05:03:12.053873+00:00",
+      "source": "Reuters",
+      "category": "world"
+    },
+    {
+      "id": "sample-tech",
+      "title": "Tech sample headline",
+      "link": "https://techcrunch.com/",
+      "summary": "Placeholder \u2014 will be replaced on first run.",
+      "published": "2025-08-29T05:03:12.053876+00:00",
       "source": "TechCrunch",
       "category": "tech"
+    },
+    {
+      "id": "sample-ai",
+      "title": "AI sample headline",
+      "link": "https://www.technologyreview.com/",
+      "summary": "Placeholder \u2014 will be replaced on first run.",
+      "published": "2025-08-29T05:03:12.053878+00:00",
+      "source": "MIT Tech Review",
+      "category": "ai"
+    },
+    {
+      "id": "sample-events",
+      "title": "Event sample",
+      "link": "https://www.producthunt.com/",
+      "summary": "Placeholder \u2014 will be replaced on first run.",
+      "published": "2025-08-29T05:03:12.053881+00:00",
+      "source": "Product Hunt",
+      "category": "events"
+    },
+    {
+      "id": "sample-deals",
+      "title": "Deals sample",
+      "link": "https://www.lowyat.net/",
+      "summary": "Placeholder \u2014 will be replaced on first run.",
+      "published": "2025-08-29T05:03:12.053884+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
     }
   ]
 }

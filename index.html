@@ -1,33 +1,15 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Daily Brief</title>
-  <link rel="stylesheet" href="assets/theme.css">
-  <script defer src="assets/theme.js"></script>
-</head>
-<body>
-  <header>
-    <h1>Daily Brief — News</h1>
-    <nav>
-      <a href="index.html">News</a> |
-      <a href="tools/index.html">Tools</a> |
-      <a href="useful/index.html">Useful</a>
-      <button onclick="__toggleTheme()">Toggle Theme</button>
-    </nav>
-  </header>
-  <main id="feed"></main>
-  <script>
-    fetch('news/news.json').then(r=>r.json()).then(data=>{
-      const feed=document.getElementById('feed');
-      (data.items||[]).forEach(item=>{
-        const div=document.createElement('div');div.className='card';
-        div.innerHTML='<a href="'+item.link+'" target="_blank">'+item.title+'</a><p>'+item.summary+'</p>';
-        feed.appendChild(div);
-      });
-    }).catch(e=>{
-      document.getElementById('feed').textContent='No news yet';
-    });
-  </script>
-</body>
-</html>
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>Daily Brief</title><link rel="icon" href="assets/logo.svg" type="image/svg+xml"/><link rel="stylesheet" href="assets/theme.css"/><script defer src="assets/theme.js"></script><script defer src="assets/script.js"></script></head><body>
+<header class="header"><div class="container row"><div class="brand"><img src="assets/logo.svg" alt="logo"/><span class="title">Daily Brief</span><span class="badge" style="border:1px solid var(--border);padding:2px 8px;border-radius:999px;color:var(--muted);font-size:12px">auto-updated</span></div><nav class="nav"><a href="index.html">News</a><a href="tools/index.html">Tools</a><a href="useful/index.html">Useful</a><button class="btn" onclick="__toggleTheme()">Theme</button></nav></div></header>
+<section class="hero"><div class="container inner"><p class="kicker">Malaysia · World · Tech · AI · Events · Deals</p><h1>Your Daily Snapshot</h1><div class="controls"><input id="search" placeholder="Search headlines…"/><select id="category"><option value="all">All</option><option value="malaysia">Malaysia</option><option value="world">World</option><option value="tech">Tech</option><option value="ai">AI</option><option value="events">Events</option><option value="deals">Deals</option><option value="gadgets">Gadgets</option></select><button id="refresh" class="btn">Refresh</button><span id="updatedAt" class="updated">Updated: —</span></div></div></section>
+<main class="container"><div class="layout sidebar">
+<aside class="sidebar">
+  <div class="panel"><h3>Markets & Metals</h3><div id="ticker" class="ticker"><div class="track" id="tickerTrack">Loading…</div></div><div style="margin-top:8px;font-size:12px;color:var(--muted)">Data refreshes on schedule.</div></div>
+  <div class="panel"><h3>Weather — Kuala Lumpur</h3><a class="weatherwidget-io" href="https://forecast7.com/en/3d14101d69/kuala-lumpur/" data-label_1="KUALA LUMPUR" data-label_2="WEATHER" data-theme="dark">KUALA LUMPUR WEATHER</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');</script></div>
+  <div class="panel"><h3>Quick Links</h3><ul><li><a href="tools/world-time.html">World Time</a></li><li><a href="tools/tech-stocks.html">Tech Stocks</a></li><li><a href="tools/json-formatter.html">JSON Formatter</a></li><li><a href="tools/regex-tester.html">Regex Tester</a></li></ul></div>
+</aside>
+<section id="feed" class="grid"></section></div>
+<section class="card" style="margin:16px 0;"><h2>Tech & AI Highlights</h2><div id="techHighlights" class="grid"></div></section>
+<section class="card" style="margin:16px 0;"><h2>Events & Deals</h2><div id="eventsDeals" class="grid"></div></section>
+</main>
+<footer class="footer"><div class="container inner"><small>Built on GitHub Pages • Updated by GitHub Actions • © You</small></div></footer>
+</body></html>
