@@ -1,1 +1,21 @@
-{"generatedAt": "2025-08-29T03:53:00.210307+00:00", "items": []}
+{
+  "generatedAt": "2025-08-29T04:50:15.674686+00:00",
+  "items": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "price": 150.0,
+      "change": 1.2,
+      "percent": 0.8,
+      "exchange": "NASDAQ"
+    },
+    {
+      "ticker": "XAUUSD=X",
+      "name": "Gold",
+      "price": 1900.0,
+      "change": -5.0,
+      "percent": -0.2,
+      "exchange": "\u2014"
+    }
+  ]
+}
