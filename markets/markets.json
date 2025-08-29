@@ -1,117 +1,194 @@
 {
-  "generatedAt": "2025-08-29T05:03:12.054554+00:00",
+  "generatedAt": "2025-08-29T06:16:50.686460+00:00",
   "items": [
     {
       "ticker": "AAPL",
       "name": "Apple Inc.",
-      "price": 189.33,
-      "change": 1.24,
-      "percent": 0.66,
-      "exchange": "NASDAQ"
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft Corp.",
-      "price": 428.41,
-      "change": -0.75,
-      "percent": -0.17,
-      "exchange": "NASDAQ"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corp.",
-      "price": 113.22,
-      "change": 2.31,
-      "percent": 2.08,
-      "exchange": "NASDAQ"
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla, Inc.",
-      "price": 212.08,
-      "change": -1.11,
-      "percent": -0.52,
-      "exchange": "NASDAQ"
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet Inc.",
-      "price": 162.19,
-      "change": 0.52,
-      "percent": 0.32,
-      "exchange": "NASDAQ"
-    },
-    {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "price": 508.23,
-      "change": 3.11,
-      "percent": 0.62,
-      "exchange": "NASDAQ"
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "ticker": "AMZN",
       "name": "Amazon.com, Inc.",
-      "price": 176.55,
-      "change": 0.98,
-      "percent": 0.56,
-      "exchange": "NASDAQ"
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corp.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "IBM",
+      "name": "IBM",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corp.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "ticker": "MAYBANK.KL",
       "name": "Malayan Banking (Maybank)",
-      "price": 10.95,
-      "change": 0.02,
-      "percent": 0.18,
-      "exchange": "MYX"
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "ticker": "CIMB.KL",
       "name": "CIMB Group",
-      "price": 6.74,
-      "change": 0.01,
-      "percent": 0.15,
-      "exchange": "MYX"
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "ticker": "TENAGA.KL",
       "name": "Tenaga Nasional",
-      "price": 14.22,
-      "change": -0.04,
-      "percent": -0.28,
-      "exchange": "MYX"
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "ticker": "PETDAG.KL",
       "name": "Petronas Dagangan",
-      "price": 22.66,
-      "change": 0.05,
-      "percent": 0.22,
-      "exchange": "MYX"
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "ticker": "TOPGLOV.KL",
       "name": "Top Glove",
-      "price": 1.32,
-      "change": 0.01,
-      "percent": 0.76,
-      "exchange": "MYX"
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "GENTING.KL",
+      "name": "Genting Bhd",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "AXIATA.KL",
+      "name": "Axiata Group",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "DIGI.KL",
+      "name": "Digi.Com Bhd",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "ticker": "XAUUSD=X",
       "name": "Gold Spot USD",
-      "price": 2450.1,
-      "change": -5.2,
-      "percent": -0.21,
-      "exchange": "\u2014"
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "ticker": "XAGUSD=X",
       "name": "Silver Spot USD",
-      "price": 29.85,
-      "change": 0.1,
-      "percent": 0.34,
-      "exchange": "\u2014"
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
     }
   ]
 }
