@@ -1,62 +1,1574 @@
 {
-  "generatedAt": "2025-08-29T05:03:12.053851+00:00",
+  "generatedAt": "2025-08-29T06:17:46.558094+00:00",
   "counts": {
-    "total": 6
+    "total": 174
   },
   "items": [
     {
-      "id": "sample-my",
-      "title": "Malaysia sample headline",
-      "link": "https://www.bernama.com/",
-      "summary": "Placeholder \u2014 will be replaced on first run.",
-      "published": "2025-08-29T05:03:12.053869+00:00",
-      "source": "Bernama",
+      "id": "987514ad383751d268f2f52ca5b2c6fd3c03bae1",
+      "title": "Fourth tremor in a week: Johor calls for prayers after 3.4-magnitude quake in Segamat",
+      "link": "https://www.malaymail.com/news/malaysia/2025/08/29/fourth-tremor-in-a-week-johor-calls-for-prayers-after-34-magnitude-quake-in-segamat/189289",
+      "summary": "JOHOR BAHRU, Aug 29 &mdash; The Johor Islamic Religious Department has directed 1,038 mosques and Friday surau across th...",
+      "published": "2025-08-29T06:16:37+00:00",
+      "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
-      "id": "sample-world",
-      "title": "World sample headline",
-      "link": "https://www.reuters.com/",
-      "summary": "Placeholder \u2014 will be replaced on first run.",
-      "published": "2025-08-29T05:03:12.053873+00:00",
-      "source": "Reuters",
+      "id": "f47b593221c95a864a00dafc1ce3a96526fd133c",
+      "title": "New Moda president Cyrus Chin pushes for longer terms and stronger platform for designers",
+      "link": "https://www.malaymail.com/news/life/2025/08/29/new-moda-president-cyrus-chin-pushes-for-longer-terms-and-stronger-platform-for-designers/189288",
+      "summary": "KUALA LUMPUR, August 28 &mdash; Empowering and elevating Malaysian designers will be the main focus of Cyrus Chin as he...",
+      "published": "2025-08-29T06:11:50+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "8887192145fc7b3ecc2137db9dc952fc1c441ea5",
+      "title": "Former AG Tommy Thomas challenges sections of Najib’s witness statement in Altantuya defamation suit",
+      "link": "https://www.malaymail.com/news/malaysia/2025/08/29/former-ag-tommy-thomas-challenges-sections-of-najibs-witness-statement-in-altantuya-defamation-suit/189285",
+      "summary": "SHAH ALAM, Aug 29 &mdash; Former Attorney-General Tan Sri Tommy Thomas has objected to several parts of Datuk Seri Najib...",
+      "published": "2025-08-29T06:02:14+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "5dcda3a13c49144309e4d867e9e9b557d63145cf",
+      "title": "Police are investigating a murder-suicide in what appears to be the first documented murder involving someone who engaged extensively with an AI chatbot (Wall Street Journal)",
+      "link": "http://www.techmeme.com/250829/p3#a250829p3",
+      "summary": "<a href=\"https://www.wsj.com/tech/ai/chatgpt-ai-stein-erik-soelberg-murder-suicide-6b67dbfb?st=Hp4Ajw&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250829/i3.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250829/p3#a250829p3\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/tech/ai/chatgpt-ai-stein-erik-soelberg-murder-suicide-6b67dbfb?st=Hp4Ajw&amp;reflink=desktopwebshare_permalink\">Police are investigating a murder-suicide in what appears to be the first documented murder involving someone who engaged extensively with an AI chatbot</a></b></span>&nbsp; &mdash;&nbsp; &ldquo;Erik, you're not crazy.&rdquo;&nbsp; ChatGPT fueled a 56-year-old tech industry veteran's paranoia, encouraging his suspicions that his mother was plotting against him.</p>",
+      "published": "2025-08-29T06:00:35+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "ca3f13b6196f57390f5ef9c71f4b6a44eb92b29e",
+      "title": "Malay Mail’s Top 10 Picks: ‘Legasi: Bomba The Movie’ debuts at No. 4 as ‘Demon Slayer’ dominates local cinemas",
+      "link": "https://www.malaymail.com/news/showbiz/2025/08/29/malay-mails-top-10-picks-legasi-bomba-the-movie-debuts-at-no-4-as-demon-slayer-dominates-local-cinemas/189274",
+      "summary": "KUALA LUMPUR, Aug 29 &mdash; Local film Legasi: Bomba The Movie &mdash; directed by James Lee and Frank See &mdash; debu...",
+      "published": "2025-08-29T06:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "21ef3287211583d353ac6d1ac9ce7aaa98da9ee0",
+      "title": "Indonesian students vow more protests after one killed in Jakarta demonstration",
+      "link": "https://www.thestar.com.my/news/world/2025/08/29/indonesian-students-vow-more-protests-after-one-killed-in-jakarta-demonstration",
+      "summary": "JAKARTA (Reuters) -Indonesian students said they will protest at Jakarta's police headquarters on Friday after a motorcycle rider died when he was hit by a police vehicle during violent clashes following a demonstration outside the parliament the day before. <a href=\"https://www.thestar.com.my/news/world/2025/08/29/indonesian-students-vow-more-protests-after-one-killed-in-jakarta-demonstration\">Read full story</a>",
+      "published": "2025-08-29T05:54:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "e95ec365c9eb0099c03687b8e8faaaa955eac862",
+      "title": "World Bank: Malaysia&#039;s success in lifting millions from poverty often overlooked",
+      "link": "https://www.thestar.com.my/news/nation/2025/08/29/world-bank-malaysia039s-success-in-lifting-millions-from-poverty-often-overlooked",
+      "summary": "KUALA LUMPUR: Malaysia's success in lifting millions out of poverty, without creating permanent slums, is often overlooked. <a href=\"https://www.thestar.com.my/news/nation/2025/08/29/world-bank-malaysia039s-success-in-lifting-millions-from-poverty-often-overlooked\">Read full story</a>",
+      "published": "2025-08-29T05:48:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "d61a05d1e0855d10f51ebb4dac410c92cbb90e98",
+      "title": "Terengganu civil servant loses RM120,000 in forex scam pitched by social media contact",
+      "link": "https://www.malaymail.com/news/malaysia/2025/08/29/terengganu-civil-servant-loses-rm120000-in-forex-scam-pitched-by-social-media-contact/189284",
+      "summary": "KUALA TERENGGANU, Aug 29 &mdash; A civil servant lost RM120,000 after falling victim to a non-existent foreign currency...",
+      "published": "2025-08-29T05:47:42+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "d52491ef3ea86f1a58bbadc13750daa32f67758d",
+      "title": "Tommy Thomas objects to parts of Najib&#039;s statement in defamation suit",
+      "link": "https://www.thestar.com.my/news/nation/2025/08/29/tommy-thomas-objects-to-parts-of-najib039s-statement-in-defamation-suit",
+      "summary": "SHAH ALAM: Former attorney general Tan Sri Tommy Thomas has objected to several parts of Datuk Seri Najib Razak's witness statement in his suit over alleged defamatory statements about the murder of a Mongolian woman published in the book My Story: Justice in the Wilderness. <a href=\"https://www.thestar.com.my/news/nation/2025/08/29/tommy-thomas-objects-to-parts-of-najib039s-statement-in-defamation-suit\">Read full story</a>",
+      "published": "2025-08-29T05:40:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "e0d62e16f99668f924aae757beae51bf3d7a4758",
+      "title": "Form Four boy charged with raping younger schoolmate in Seremban classroom",
+      "link": "https://www.malaymail.com/news/malaysia/2025/08/29/form-four-boy-charged-with-raping-younger-schoolmate-in-seremban-classroom/189283",
+      "summary": "KUALA LUMPUR, Aug 29 &mdash; A Form Four student pleaded not guilty to rape charges at the Juvenile Court in Seremban to...",
+      "published": "2025-08-29T05:36:07+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "ada26c0f2b5351cb0c179338149a5a0624afd858",
+      "title": "Johor govt orders probe into viral video on deviant teachings",
+      "link": "https://www.thestar.com.my/news/nation/2025/08/29/johor-govt-orders-probe-into-viral-video-on-deviant-teachings",
+      "summary": "JOHOR BAHRU: The Johor Islamic Religious Department and the police have been ordered to investigate a viral video of an alleged deviant teaching in Parit Raja, Batu Pahat. <a href=\"https://www.thestar.com.my/news/nation/2025/08/29/johor-govt-orders-probe-into-viral-video-on-deviant-teachings\">Read full story</a>",
+      "published": "2025-08-29T05:36:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "31da5469e56cdaa3e9c9528a12ad4711c461e598",
+      "title": "Sold out in minutes: Pop Mart’s new Labubu series sparks global rush, WeChat store crashes in China",
+      "link": "https://www.malaymail.com/news/money/2025/08/29/sold-out-in-minutes-pop-marts-new-labubu-series-sparks-global-rush-wechat-store-crashes-in-china/189281",
+      "summary": "BEIJING, Aug 29 &mdash; The mini Labubu craze is showing no signs of slowing down as the latest series from Chinese toym...",
+      "published": "2025-08-29T05:33:13+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "f7a08230e36459efe6b8fc40c506d08a6bf0b4d6",
+      "title": "World Bank hails Malaysia’s overlooked success in lifting 14 million from poverty, GDP per capita now 3.6 times that of Philippines, nine times Zambia",
+      "link": "https://www.malaymail.com/news/malaysia/2025/08/29/world-bank-hails-malaysias-overlooked-success-in-lifting-14-million-from-poverty-gdp-per-capita-now-36-times-that-of-philippines-nine-times-zambia/189282",
+      "summary": "KUALA LUMPUR, Aug 29 &mdash; Malaysia&rsquo;s success in lifting millions out of poverty, without creating permanent slu...",
+      "published": "2025-08-29T05:31:35+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "e8a1c5534e34a60aaaa6d484cead7bfee9cce7ab",
+      "title": "Govt Procurement Bill to take effect in early 2026, no early amendments expected, says Treasury sec-gen",
+      "link": "https://www.thestar.com.my/news/nation/2025/08/29/govt-procurement-bill-to-take-effect-in-early-2026-no-early-amendments-expected-says-treasury-sec-gen",
+      "summary": "KUALA LUMPUR: The newly passed Government Procurement Bill may not be amended in the near future, said Treasury secretary-general Datuk Johan Mahmood Merican. <a href=\"https://www.thestar.com.my/news/nation/2025/08/29/govt-procurement-bill-to-take-effect-in-early-2026-no-early-amendments-expected-says-treasury-sec-gen\">Read full story</a>",
+      "published": "2025-08-29T05:31:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "c6b572de6ff493e4bc9bc6c1a36386081a7948ea",
+      "title": "Lahad Datu college murder: Jailing of youths sends clear message, says victim&#039;s mum",
+      "link": "https://www.thestar.com.my/news/nation/2025/08/29/lahad-datu-college-murder-jailing-of-youths-sends-clear-message-says-victim039s-mum",
+      "summary": "KOTA KINABALU: The jailing of 13 Lahad Datu Vocational College students for the murder of Mohamad Nazmie Aizzat Mohd Narul Azwan, 17, sends a message to all bullies, says his mother Siti Hamidah Jumari. <a href=\"https://www.thestar.com.my/news/nation/2025/08/29/lahad-datu-college-murder-jailing-of-youths-sends-clear-message-says-victim039s-mum\">Read full story</a>",
+      "published": "2025-08-29T05:25:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "7ab0cbd8eba500115144830a9ab589f7c16dd817",
+      "title": "JPJ launches cashless payment via e-wallet at all counters nationwide",
+      "link": "https://www.thestar.com.my/news/nation/2025/08/29/jpj-launches-cashless-payment-via-e-wallet-at-all-counters-nationwide",
+      "summary": "PUTRAJAYA: The Road Transport Department (JPJ) has officially rolled out cashless payment services at all its counters nationwide, enabling transactions to be made through popular e-wallet apps such as Touch 'n Go, GrabPay, MAE and Boost. <a href=\"https://www.thestar.com.my/news/nation/2025/08/29/jpj-launches-cashless-payment-via-e-wallet-at-all-counters-nationwide\">Read full story</a>",
+      "published": "2025-08-29T05:22:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "31415f4e3b5eec14355dc14a8f75b4eb59723f35",
+      "title": "Police crack down on online love scammers, five foreigners arrested",
+      "link": "https://www.thestar.com.my/news/nation/2025/08/29/police-crack-down-on-online-love-scammers-five-foreigners-arrested",
+      "summary": "NILAI: Police have detained five foreigners for allegedly engaging in online love scams involving more than RM1mil. <a href=\"https://www.thestar.com.my/news/nation/2025/08/29/police-crack-down-on-online-love-scammers-five-foreigners-arrested\">Read full story</a>",
+      "published": "2025-08-29T05:22:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "cbc6d3400981bf0c42fa9a9e0dda817165f04067",
+      "title": "Microsoft Word To Autosave New Documents To The Cloud",
+      "link": "https://www.lowyat.net/2025/364480/microsoft-word-autosave-new-documents-cloud/",
+      "summary": "<p>For those whose lives are inseparable from consumer tech, it&#8217;s sometimes difficult to imagine how the other half lives. While we&#8217;ll never know the reason for sure, it perhaps serves as a stopgap explanation to why Microsoft is doing what it recently announced. Soon, it will be making new Word documents automatically save to the [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/364480/microsoft-word-autosave-new-documents-cloud/\">Microsoft Word To Autosave New Documents To The Cloud</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2025-08-29T05:17:01+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "09b6c4957c05dee8b0e557644a8b67ff30ce4abe",
+      "title": "Johor MB orders probe into viral ‘Kuda Kepang’ video alleging non-Islamic practices in Batu Pahat",
+      "link": "https://www.malaymail.com/news/malaysia/2025/08/29/johor-mb-orders-probe-into-viral-kuda-kepang-video-alleging-non-islamic-practices-in-batu-pahat/189280",
+      "summary": "JOHOR BAHRU, Aug 28 &mdash; The Johor Islamic Religious Department (JAINJ) and the police have been ordered to immediate...",
+      "published": "2025-08-29T05:16:17+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "6482abbc2219e704484541b6d8ad633f3c491c32",
+      "title": "S&#039;wak to amend housing rules for stronger buyer protection",
+      "link": "https://www.thestar.com.my/news/nation/2025/08/29/s039wak-to-amend-housing-rules-for-stronger-buyer-protection",
+      "summary": "<a href=\"https://www.thestar.com.my/news/nation/2025/08/29/s039wak-to-amend-housing-rules-for-stronger-buyer-protection\">Read full story</a>",
+      "published": "2025-08-29T05:10:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "6717d120dfddf6e6d7139889304560ea9177ac30",
+      "title": "QJMotor E-LRT Electric Scooter Lands In Malaysia At RM6,999",
+      "link": "https://www.lowyat.net/2025/364499/qjmotor-e-lrt-electric-scooter/",
+      "summary": "<p>The electric scooter scene is seeing an expansion in the Malaysian market, with many players introducing their own brand of electrical zippiness. The most recent brand to jump on the bandwagon is QJMotor with its E-LTR electric scooter. Priced at RM6,999 before insurance and registration fees, the e-scooter is also eligible for the RM2,400 MARiiCas [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/364499/qjmotor-e-lrt-electric-scooter/\">QJMotor E-LRT Electric Scooter Lands In Malaysia At RM6,999</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2025-08-29T05:09:18+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "215d9c91337056bdc4503d36e80cd02825d4413a",
+      "title": "Segamat quake: Johor mosques, surau told to hold special prayers",
+      "link": "https://www.thestar.com.my/news/nation/2025/08/29/segamat-quake-johor-mosques-surau-told-to-hold-special-prayers",
+      "summary": "JOHOR BAHRU: The Johor Islamic Religious Department has directed 1,038 mosques and Friday surau across the state to perform solat hajat and doa selamat prayers following a weak earthquake in Segamat early on Friday (Aug 29). <a href=\"https://www.thestar.com.my/news/nation/2025/08/29/segamat-quake-johor-mosques-surau-told-to-hold-special-prayers\">Read full story</a>",
+      "published": "2025-08-29T05:06:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "281a46080410452203d80f22713b26a383e0983a",
+      "title": "RM254m in revenue, RM3.8m in tax: MoF clarifies crypto trading, mining and exchange taxable under Income Tax Act after Luno query",
+      "link": "https://www.malaymail.com/news/malaysia/2025/08/29/rm254m-in-revenue-rm38m-in-tax-mof-clarifies-crypto-trading-mining-and-exchange-taxable-under-income-tax-act-after-luno-query/189278",
+      "summary": "KUALA LUMPUR, Aug 29 &mdash; Income derived from digital cryptocurrency activities such as trading, mining, and exchange...",
+      "published": "2025-08-29T05:01:56+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "f67e4832d5ce12acad4a4e42b2065a57bb3f596a",
+      "title": "Elon Musk files a motion to dismiss a US SEC suit over his 2022 Twitter stake disclosure, calling allegations that he cheated investors a government overreach (Nicola M White/Bloomberg)",
+      "link": "http://www.techmeme.com/250829/p2#a250829p2",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-08-29/musk-seeks-dismissal-of-sec-suit-over-twitter-stake-disclosure\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250829/i2.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250829/p2#a250829p2\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Nicola M White / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-08-29/musk-seeks-dismissal-of-sec-suit-over-twitter-stake-disclosure\">Elon Musk files a motion to dismiss a US SEC suit over his 2022 Twitter stake disclosure, calling allegations that he cheated investors a government overreach</a></b></span>&nbsp; &mdash;&nbsp; Elon Musk asked a federal judge to dismiss a US Securities and Exchange Commission lawsuit over his growing stake in Twitter Inc. in 2022 &hellip; </p>",
+      "published": "2025-08-29T05:00:15+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "a855f3074a46d6f49c598a608b803ba6294349e9",
+      "title": "Referring the Urban Renewal Bill to a parliamentary select committee is a step in the right direction — Hafiz Hassan",
+      "link": "https://www.malaymail.com/news/what-you-think/2025/08/29/referring-the-urban-renewal-bill-to-a-parliamentary-select-committee-is-a-step-in-the-right-direction-hafiz-hassan/189269",
+      "summary": "AUGUST 29 &mdash; Three years ago, in &ldquo;Leading by listening&rdquo; I commended then Health Minister Khairy Jamalud...",
+      "published": "2025-08-29T05:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "6b56754fff14b832d5dd75225c0ba4806622b221",
+      "title": "Microsoft Brings Super Wideband Stereo For Bluetooth LE Audio To Windows 11",
+      "link": "https://www.lowyat.net/2025/364482/super-wideband-stereo-windows-11/",
+      "summary": "<p>Microsoft is officially bringing support for super wideband stereo for Bluetooth Low Energy (LE) Audio devices to Windows 11. The update will now allow Bluetooth LE devices to play high quality stereo sound while using the microphone, as well as play audio at 32kHz same rate, as the technology intended. &#8220;LE Audio uses improved audio compression [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/364482/super-wideband-stereo-windows-11/\">Microsoft Brings Super Wideband Stereo For Bluetooth LE Audio To Windows 11</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2025-08-29T04:51:10+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "9700dfc9be30070ce97bddd251e5d666d872f117",
+      "title": "White House names RFK Jr deputy as replacement CDC director",
+      "link": "https://www.bbc.com/news/articles/cwy3zjxy3dwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lawyers for Dr Susan Monarez say only the president can remove her from her job running the US Centers for Disease Control and Prevention.",
+      "published": "2025-08-29T04:48:30+00:00",
+      "source": "BBC News",
       "category": "world"
     },
     {
-      "id": "sample-tech",
-      "title": "Tech sample headline",
-      "link": "https://techcrunch.com/",
-      "summary": "Placeholder \u2014 will be replaced on first run.",
-      "published": "2025-08-29T05:03:12.053876+00:00",
+      "id": "de86ba014e2493e17665dda2d699fc24358faf8f",
+      "title": "Court filing: the UK sought broad access to Apple user data, including bulk iCloud interception beyond ADP, and hasn't dropped the mandate as the US claimed (Financial Times)",
+      "link": "http://www.techmeme.com/250829/p1#a250829p1",
+      "summary": "<a href=\"https://t.co/YbSy5i0YPX\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250829/i1.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250829/p1#a250829p1\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://t.co/YbSy5i0YPX\">Court filing: the UK sought broad access to Apple user data, including bulk iCloud interception beyond ADP, and hasn't dropped the mandate as the US claimed</a></b></span>&nbsp; &mdash;&nbsp; Document suggests British government's &lsquo;back-door&rsquo; demand was not limited to the company's most secure iCloud service</p>",
+      "published": "2025-08-29T04:45:04+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "1b49d4bc05a1b1088a55a84c933ed57589b8ae53",
+      "title": "Unemployed man pleads not guilty to alleged Jackie Gang ties in Johor Bahru court",
+      "link": "https://www.malaymail.com/news/malaysia/2025/08/29/unemployed-man-pleads-not-guilty-to-alleged-jackie-gang-ties-in-johor-bahru-court/189276",
+      "summary": "JOHOR BAHRU, Aug 28 &mdash; A 50-year-old unemployed man claimed trial at the Sessions Court here today to a charge of b...",
+      "published": "2025-08-29T04:38:28+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "e5bc8f6d7c92e32f9cb70c75d4a17ad725b4c7d3",
+      "title": "Xiaomi Unveils HyperOS 3 With Super Island",
+      "link": "https://www.lowyat.net/2025/364484/xiaomi-unveils-hyperos-3-with-super-island/",
+      "summary": "<p>Xiaomi has officially introduced HyperOS 3 as its newest operating system. The software is based on Android 16 and comes with a visual refresh. More importantly, though, it brings some new features like Super Island, as well as improvements to overall performance. To start off, Super Island is a notification hub not unlike the Dynamic [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/364484/xiaomi-unveils-hyperos-3-with-super-island/\">Xiaomi Unveils HyperOS 3 With Super Island</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2025-08-29T04:34:26+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "080ceddfafe4e64559a8930c96d94e98df7655ef",
+      "title": "U Mobile turns on ULTRA5G network in Kota Kinabalu, Sabah",
+      "link": "https://soyacincau.com/2025/08/29/u-mobile-turns-on-ultra5g-network-in-kota-kinabalu-sabah/",
+      "summary": "Sabah&#8217;s state capital, Kota Kinabalu, is now covered by U Mobile&#8217;s own ULTRA5G network ahead of the Merdeka Day and Sabah Day celebration on 31st August 2025. U Mobile users in Sabah can enjoy ULTRA5G when their devices show UM ULTRA5G as the network name. Malaysia&#8217;s second 5G network rollout in Kota Kinabalu comes just [&#8230;]",
+      "published": "2025-08-29T04:32:27+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "81056b4f9612ad2a52b8df22130a35c0e7ae5808",
+      "title": "PDRM Launches e-Police Reporting Pilot Along North-South Highway",
+      "link": "https://www.lowyat.net/2025/364463/pdrm-launches-e-police-reporting-pilot-along-north-south-highway/",
+      "summary": "<p>Bukit Aman’s Traffic Investigation and Enforcement Department (JSPT) has collaborated with Bank Negara Malaysia to launch a new initiative called e-Police Reporting. This allows the public to report accidents without the need to go to the nearest police station. A pilot project will be implemented from 1 September 2025 along the North-South Highway (PLUS). However, [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/364463/pdrm-launches-e-police-reporting-pilot-along-north-south-highway/\">PDRM Launches e-Police Reporting Pilot Along North-South Highway</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2025-08-29T04:26:03+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "127c337dcb064c8665408e3579fbb5fb19c285e3",
+      "title": "E-invoicing push continues as MoF rejects RM500 exemption for hardware trade",
+      "link": "https://www.malaymail.com/news/malaysia/2025/08/29/e-invoicing-push-continues-as-mof-rejects-rm500-exemption-for-hardware-trade/189273",
+      "summary": "KUALA LUMPUR, Aug 29 &mdash; The government does not intend to exempt e-Invoices for transactions under RM500 at hardwar...",
+      "published": "2025-08-29T03:58:54+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "2ef2230d37d6d5b039870e1216bd7da56ce7c9a1",
+      "title": "Melaka targets bullying-free schools with new prevention campaign",
+      "link": "https://www.malaymail.com/news/malaysia/2025/08/29/melaka-targets-bullying-free-schools-with-new-prevention-campaign/189272",
+      "summary": "MELAKA, Aug 29 &mdash; Melaka is committed to becoming a bullying-free state by launching the Anti-Bullying Movement for...",
+      "published": "2025-08-29T03:51:45+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "f9f109fd86e0883dabc5dfb0c32a6f2498e7bab1",
+      "title": "New video appears to show New Zealand fugitive dad with his child",
+      "link": "https://www.bbc.com/news/articles/c4g6knz7e65o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police believe the CCTV footage shows Tom Phillips and his child breaking into a store.",
+      "published": "2025-08-29T03:49:25+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "803bffb6cddaad16ed25c2562c1eea74daee8f01",
+      "title": "Infinix Hot 60 Pro Plus Holds Thinnest 3d Curved Display Smartphone World Record",
+      "link": "https://www.lowyat.net/2025/364474/infinix-hot-60-pro-plus-thinnest-3d-curved-display-smartphone/",
+      "summary": "<p>It&#8217;s not often we see a smartphone making the news for being holding a Guinness World Record. But We&#8217;ve got one recently, with the Infinix Hot 60 Pro Plus, being awarded one during its launch in Indonesia. The award in question is for the world&#8217;s thinnest 3D curved display smartphone. At its thinnest, the Infinix [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/364474/infinix-hot-60-pro-plus-thinnest-3d-curved-display-smartphone/\">Infinix Hot 60 Pro Plus Holds Thinnest 3d Curved Display Smartphone World Record</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2025-08-29T03:44:19+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "c377ebdf76c91a0e540cdf4337439901ffaeedb0",
+      "title": "Second autopsy set for UTM cadet Syamsul Haris after exhumation",
+      "link": "https://www.malaymail.com/news/malaysia/2025/08/29/second-autopsy-set-for-utm-cadet-syamsul-haris-after-exhumation/189270",
+      "summary": "KUALA LUMPUR, Aug 29 &mdash; The body of 22-year-old Universiti Teknologi Malaysia (UTM) Reserve Officers Training Unit...",
+      "published": "2025-08-29T03:25:05+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "0c36b7fe4b9122db57b58a900b691da6ee0a9ba7",
+      "title": "Minneapolis school attacker 'obsessed with idea of killing children', officials say",
+      "link": "https://www.bbc.com/news/articles/c4g0lyny7ydo?at_medium=RSS&at_campaign=rss",
+      "summary": "The two children killed in the shooting have been identified as Fletcher Merkel, eight, and Harper Moyski, 10.",
+      "published": "2025-08-29T03:13:39+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "5bf003c98a2bd0f0df613a595f0f512f9ce393ba",
+      "title": "Sources: Pinecone, which provides an AI-compatible vector database, is exploring a sale after receiving takeover interest; Pinecone was valued at $750M in 2023 (The Information)",
+      "link": "http://www.techmeme.com/250828/p44#a250828p44",
+      "summary": "<a href=\"https://www.theinformation.com/articles/top-funded-ai-database-startup-pinecone-considers-sale\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250828/i44.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250828/p44#a250828p44\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/articles/top-funded-ai-database-startup-pinecone-considers-sale\">Sources: Pinecone, which provides an AI-compatible vector database, is exploring a sale after receiving takeover interest; Pinecone was valued at $750M in 2023</a></b></span>&nbsp; &mdash;&nbsp; When the artificial intelligence boom began a few years ago, investors flocked to startups that helped businesses transform &hellip; </p>",
+      "published": "2025-08-29T03:05:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "f3e67621fe66006c4dbf70018da37755cde7fe6b",
+      "title": "Climate security in Asean and the South Pacific: When regional responses fall short — Phar Kim Beng",
+      "link": "https://www.malaymail.com/news/what-you-think/2025/08/29/climate-security-in-asean-and-the-south-pacific-when-regional-responses-fall-short-phar-kim-beng/189267",
+      "summary": "AUGUST 29 &mdash; The unrelenting march of climate change is nowhere more palpable than in Southeast Asia and the South...",
+      "published": "2025-08-29T03:03:25+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "931cad5c9a4725bf6a0332d7520c82e2197bd533",
+      "title": "Sze Fei-Izzuddin crash out of World Championships, Wei Chong-Kai Wun through to last eight",
+      "link": "https://www.malaymail.com/news/sports/2025/08/29/sze-fei-izzuddin-crash-out-of-world-championships-wei-chong-kai-wun-through-to-last-eight/189268",
+      "summary": "KUALA LUMPUR, Aug 29 &mdash;&nbsp;Professional men&rsquo;s doubles pair, Goh Sze Fei-Nur Izzuddin Rumsani, saw their cam...",
+      "published": "2025-08-29T03:01:30+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "7943457ce8b4e30da1511e7d3b755f4508cab942",
+      "title": "Rakuten’s Instapaper Integration Now Live On All Kobo e-Readers",
+      "link": "https://www.lowyat.net/2025/364467/rakuten-kobo-instapaper-integration-live/",
+      "summary": "<p>Rakuten has officially rolled out Instapaper support to Kobo e-readers, giving users a direct replacement for Pocket, which Mozilla will be discontinuing in October 2025. The move comes after months of uncertainty for Kobo owners, many of whom had relied heavily on Pocket integration as a way to save and read articles offline. Kobo confirmed [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/364467/rakuten-kobo-instapaper-integration-live/\">Rakuten’s Instapaper Integration Now Live On All Kobo e-Readers</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2025-08-29T03:00:26+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "3551e05147fefcd2869eab47301c5128c98c6668",
+      "title": "Brazil prepares to hit back after Trump’s sweeping tariffs on steel",
+      "link": "https://www.malaymail.com/news/world/2025/08/29/brazil-prepares-to-hit-back-after-trumps-sweeping-tariffs-on-steel/189264",
+      "summary": "BRASILIA, Aug 29 &mdash;&nbsp;Brazil is considering retaliatory trade measures against the United States, including tari...",
+      "published": "2025-08-29T02:50:05+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "652fd13d7323bba536375b6b842ce09ed4cd6f63",
+      "title": "Are we truly free if bullying still thrives? — Chow Kah Yong",
+      "link": "https://www.malaymail.com/news/what-you-think/2025/08/29/are-we-truly-free-if-bullying-still-thrives-chow-kah-yong/189266",
+      "summary": "AUGUST 29 &mdash; Every year, Malaysians proudly celebrate Independence Day on August 31 and Malaysia Day on September 1...",
+      "published": "2025-08-29T02:48:23+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "5d5095d228438f5d44da943087c01a3f624d4831",
+      "title": "Can you store liquor at home legally? Customs clears the air after big raids",
+      "link": "https://www.malaymail.com/news/malaysia/2025/08/29/can-you-store-liquor-at-home-legally-customs-clears-the-air-after-big-raids/189265",
+      "summary": "KUALA LUMPUR, Aug 29 &mdash; The Royal Malaysian Customs Department (JKDM) conducted raids on 55 cases of uncustomed liq...",
+      "published": "2025-08-29T02:45:17+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "ebffd5f3f4994c23ad935cb565ab2f493cbd8e1d",
+      "title": "Powerbee’s 14-bay EV charging hub at Design Village Outlet Mall Penang now open, promo rate up to 50% off",
+      "link": "https://soyacincau.com/2025/08/29/powerbee-ev-charger-design-village-outlet-mall-penang/",
+      "summary": "Powerbee has just turned on its largest EV charging hub located at Design Village Outlet Mall Penang. The Charge Point Operator has deployed a total of 14 EV charging bays at its &#8220;EV Charging Hive&#8221; which consists of both AC and DC charge points. As part of its introductory and Merdeka promo, they are offering [&#8230;]",
+      "published": "2025-08-29T02:33:04+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "ae853ecbef0752800de356cced675ff6f3ee4103",
+      "title": "Huawei Showcases Mate XTs In New Teasers",
+      "link": "https://www.lowyat.net/2025/364450/huawei-showcases-mate-xts-in-new-teasers/",
+      "summary": "<p>Huawei is gearing up to release the Mate XTs in its home market next week. Ahead of the launch, the company has published new teasers for its second tri-fold smartphone, showcasing the device’s new colourways. A post on the brand’s official Weibo account features an image of the three-paneled foldable in white. This model was [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/364450/huawei-showcases-mate-xts-in-new-teasers/\">Huawei Showcases Mate XTs In New Teasers</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2025-08-29T02:32:37+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "bc4ec7707e7d837c1faa132fa1af8ce882a97ea2",
+      "title": "DJI Mic 3 Launches In Malaysia; Starts From RM879",
+      "link": "https://www.lowyat.net/2025/364452/dji-mic-3-launches-in-malaysia/",
+      "summary": "<p>DJI has officially launched the DJI Mic 3, which is touted to be its most advanced mini wireless microphone to date. The new device brings expanded multi-device support, now accommodating up to four transmitters and eight receivers for smoother group recordings and multi-camera productions. According to the company, the Mic 3&#8217;s transmitters now weigh just [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/364452/dji-mic-3-launches-in-malaysia/\">DJI Mic 3 Launches In Malaysia; Starts From RM879</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2025-08-29T02:07:24+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "5a19f64cf7b6a0469c42756140ea93b1f3b79218",
+      "title": "Marvell reports Q2 revenue up 58% YoY to $2.01B, in line with estimates, and forecasts Q3 revenue at $2.06B, below $2.11B est.; MRVL drops 11%+ after hours (Mike Wheatley/SiliconANGLE)",
+      "link": "http://www.techmeme.com/250828/p43#a250828p43",
+      "summary": "<a href=\"https://siliconangle.com/2025/08/28/marvells-stock-slumps-concerns-custom-silicon-long-term-prospects-look-strong/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250828/i43.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250828/p43#a250828p43\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Mike Wheatley / <a href=\"http://siliconangle.com/\">SiliconANGLE</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://siliconangle.com/2025/08/28/marvells-stock-slumps-concerns-custom-silicon-long-term-prospects-look-strong/\">Marvell reports Q2 revenue up 58% YoY to $2.01B, in line with estimates, and forecasts Q3 revenue at $2.06B, below $2.11B est.; MRVL drops 11%+ after hours</a></b></span>&nbsp; &mdash;&nbsp; Marvell Technology Inc. could only match Wall Street's expectations on earnings and revenue as it delivered its latest financial results today &hellip; </p>",
+      "published": "2025-08-29T02:00:35+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "faa717b6dd32223950398227f26d1e3755285b06",
+      "title": "Merdeka Promo: Charge+ offers 50% off for EV Charging on 31 August",
+      "link": "https://soyacincau.com/2025/08/29/charge-plus-merdeka-promo-50-pct-discount-ev-charging/",
+      "summary": "In conjunction with the upcoming Merdeka celebration, Charge+ is offering 50% off for all charging sessions on 31st August 2025. As a result, EV owners can enjoy DC charging for less than 70 sen per kWh. This 50% off Merdeka promo is available from 12:00am to 11:59pm on Sunday, 31st August 2025. Charge+ currently has [&#8230;]",
+      "published": "2025-08-29T01:41:37+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "a9a71d05cd19a1b0cc028629596fdebbdf0ebc99",
+      "title": "While facial recognition tech remains unregulated at the US federal level, 23 states have passed or expanded laws to restrict mass scraping of biometric data (Bobby Allyn/NPR)",
+      "link": "http://www.techmeme.com/250828/p42#a250828p42",
+      "summary": "<a href=\"https://www.npr.org/2025/08/28/nx-s1-5519756/biometrics-facial-recognition-laws-privacy\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250828/i42.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250828/p42#a250828p42\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Bobby Allyn / <a href=\"http://www.npr.org/\">NPR</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.npr.org/2025/08/28/nx-s1-5519756/biometrics-facial-recognition-laws-privacy\">While facial recognition tech remains unregulated at the US federal level, 23 states have passed or expanded laws to restrict mass scraping of biometric data</a></b></span>&nbsp; &mdash;&nbsp; States are increasingly clamping down on how tech companies digitally scan and analyze our most sensitive and potentially lucrative commodity &hellip; </p>",
+      "published": "2025-08-29T01:05:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "ae15f146cac66f9bd9a4daf7ec67fb0ed7072f76",
+      "title": "UK, France and Germany move to reimpose UN sanctions on Iran",
+      "link": "https://www.bbc.com/news/articles/c4gmr3z49lxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The three powers trigger a process which could restore sanctions in 30 days, calling Iran's nuclear programme a threat to peace and security.",
+      "published": "2025-08-29T00:34:55+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "5eb70f43da851b90f0db8891be5991bea448a1a7",
+      "title": "Israel struck Gaza's Nasser Hospital four times, analysis finds",
+      "link": "https://www.bbc.com/news/articles/cly6lxn1l4po?at_medium=RSS&at_campaign=rss",
+      "summary": "New footage has revealed that two more strikes were carried out on hospital by Israel than initially reported.",
+      "published": "2025-08-29T00:25:37+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "646eaaa4c5ce2f3a3598adacba651daece5f4ef9",
+      "title": "Autodesk reports Q2 revenue up 17% YoY to $1.76B, vs. $1.73B est., forecasts Q3 revenue above est., and raises its annual forecasts; ADSK jumps 10%+ after hours (Reuters)",
+      "link": "http://www.techmeme.com/250828/p41#a250828p41",
+      "summary": "<p><a href=\"http://www.techmeme.com/250828/p41#a250828p41\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/technology/autodesk-raises-annual-forecasts-growing-software-demand-shares-rise-2025-08-28/\">Autodesk reports Q2 revenue up 17% YoY to $1.76B, vs. $1.73B est., forecasts Q3 revenue above est., and raises its annual forecasts; ADSK jumps 10%+ after hours</a></b></span>&nbsp; &mdash;&nbsp; Autodesk (ADSK.O) raised its annual revenue and profit forecasts on Thursday, betting on growing demand for its design and engineering software &hellip; </p>",
+      "published": "2025-08-29T00:10:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "e6325561e4ff5688ab37f5fd2818122d93579169",
+      "title": "BBC reveals web of spammers profiting from AI Holocaust images",
+      "link": "https://www.bbc.com/news/articles/ckg4xjk1g1xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC has found an international network of content creators profiting from AI generated posts on Facebook.",
+      "published": "2025-08-29T00:02:08+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "53c20b08b98ee7d7a45a1a546cccfb24ffaea021",
+      "title": "European leaders outraged after Russian strikes kill 23 and damage EU's HQ",
+      "link": "https://www.bbc.com/news/articles/cvg3y7m2gz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The overnight attacks destroyed a block of flats and also caused damage to the EU's delegation offices.",
+      "published": "2025-08-28T23:40:30+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "26472c8846b2307b560121e0e9d42ea6c98c6c3e",
+      "title": "The CFTC says non-US crypto exchanges have a path to bringing on US users, in an advisory clarifying how they can register as so-called foreign boards of trade (Lydia Beyoud/Bloomberg)",
+      "link": "http://www.techmeme.com/250828/p40#a250828p40",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-08-28/cftc-says-offshore-crypto-exchanges-have-path-to-bringing-on-us-users\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250828/i40.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250828/p40#a250828p40\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lydia Beyoud / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-08-28/cftc-says-offshore-crypto-exchanges-have-path-to-bringing-on-us-users\">The CFTC says non-US crypto exchanges have a path to bringing on US users, in an advisory clarifying how they can register as so-called foreign boards of trade</a></b></span>&nbsp; &mdash;&nbsp; The Commodity Futures Trading Commission has taken a step that could make it easier for some overseas crypto exchanges &hellip; </p>",
+      "published": "2025-08-28T23:40:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "bec1cf84b4ad3e3d1c84e92bb3bc741c0c8c064e",
+      "title": "Microsoft fires two more employees for participating in Palestine protests on campus",
+      "link": "https://www.theverge.com/microsoft/767841/microsoft-fires-two-more-protesters-no-azure-for-apartheid",
+      "summary": "Microsoft has fired two more employees who participated in recent protests against the company’s contracts with the Israeli military and government. The two employees, Nisreen Jaradat and Julius Shan, were fired “in connection” with demonstrations that saw protesters set up encampments at Microsoft’s headquarters, according to Hossam Nasr, an organizer with the No Azure for [&#8230;]",
+      "published": "2025-08-28T22:51:24+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "41881f2cf82e920ff04c8278e072262a6d75c94f",
+      "title": "Affirm reports Q4 revenue up 33% YoY to $876.4M, above $837M est., GMV up 43% to $10.4B, and EPS of $0.20, above $0.12 est.; AFRM jumps 13%+ after hours (Katherine Hamilton/Wall Street Journal)",
+      "link": "http://www.techmeme.com/250828/p39#a250828p39",
+      "summary": "<a href=\"https://www.wsj.com/business/retail/affirm-swings-to-profit-as-top-merchants-boost-volume-bbb7cbdc\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250828/i39.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250828/p39#a250828p39\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Katherine Hamilton / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/business/retail/affirm-swings-to-profit-as-top-merchants-boost-volume-bbb7cbdc\">Affirm reports Q4 revenue up 33% YoY to $876.4M, above $837M est., GMV up 43% to $10.4B, and EPS of $0.20, above $0.12 est.; AFRM jumps 13%+ after hours</a></b></span>&nbsp; &mdash;&nbsp; The buy now, pay later company saw gross merchandise volume at its top five merchants and platform partners increasing 41%</p>",
+      "published": "2025-08-28T22:05:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "2c9de2282bd2714bb3ac4346c94b3c0d7659304a",
+      "title": "Save $200 on Apple’s 1TB M4 MacBook Air with 24GB of RAM – $600 less than comparable MacBook Pro",
+      "link": "https://9to5toys.com/2025/08/28/apple-1tb-m4-macbook-air-deal/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Apple-M4-MacBook-Air-colors.jpg?w=1024\" /></div><p>Joining the ongoing $200 price drops across the most affordable M4 MacBook Air models that are carrying into Labor Day weekend, folks looking to land an upgraded config are also in luck. As part of the B&amp;H Labor Day sale, we are tracking heavily <a href=\"https://bhpho.to/4nlnxKA\">upgraded 1TB models</a> you can’t even buy at Amazon with straight up <a href=\"https://bhpho.to/4nlnxKA\"><strong>$200</strong> price drops</a>. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/08/28/apple-1tb-m4-macbook-air-deal/#more-1156451\">more…</a>",
+      "published": "2025-08-28T22:00:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "db28e6fc171544b2e19996ed4edb3a77dfe637db",
+      "title": "Genetically, Central American mammoths were weird",
+      "link": "https://arstechnica.com/science/2025/08/genetically-central-american-mammoths-were-weird/",
+      "summary": "The species's boundaries in North America seem to have been fairly fluid.",
+      "published": "2025-08-28T21:57:41+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "524a1e01c3a3f70bf2a6bfe92a3794fcdc027086",
+      "title": "Trump administration’s deal is structured to prevent Intel from selling foundry unit",
+      "link": "https://techcrunch.com/2025/08/28/trump-administrations-deal-is-structured-to-prevent-intel-from-selling-foundry-unit/",
+      "summary": "The deal allows the U.S. to take more equity in Intel if the company doesn't retain at least 51% ownership in its foundry business.",
+      "published": "2025-08-28T21:56:27+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
     {
-      "id": "sample-ai",
-      "title": "AI sample headline",
-      "link": "https://www.technologyreview.com/",
-      "summary": "Placeholder \u2014 will be replaced on first run.",
-      "published": "2025-08-29T05:03:12.053878+00:00",
-      "source": "MIT Tech Review",
-      "category": "ai"
+      "id": "aaaf11d9b68b90487b82485cda7f90de94d6232e",
+      "title": "Video player looks like a 1-inch TV from the ’60s and is wondrous, pointless fun",
+      "link": "https://arstechnica.com/gadgets/2025/08/video-player-looks-like-a-1-inch-tv-from-the-60s-and-is-wondrous-pointless-fun/",
+      "summary": "TV static and remote included.",
+      "published": "2025-08-28T21:29:47+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
     },
     {
-      "id": "sample-events",
-      "title": "Event sample",
-      "link": "https://www.producthunt.com/",
-      "summary": "Placeholder \u2014 will be replaced on first run.",
-      "published": "2025-08-29T05:03:12.053881+00:00",
-      "source": "Product Hunt",
+      "id": "d8cac0ddf68e52f6ce21c073413db67b67184506",
+      "title": "tomtoc’s compact 3L EDC sling bag can haul Switch 2 and much more for $37",
+      "link": "https://9to5toys.com/2025/08/28/tomtoc-3l-compact-edc-sling-bag/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/07/tomtoc-Nintendo-Switch-2-Crossbody-Sling.jpg?w=1024\" /></div><h1 class=\"wp-block-heading has-text-align-center\">tomtoc 3L Compact EDC Sling Bag</h1>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\">Buy for $37 (Reg. $43)</h2>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A red and white background with white lines\" class=\"wp-image-1156653 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/tomtoc-3L-Compact-EDC-Sling-Bag-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h2>\n\n\n\n<p>I picked a sling bag earlier this year and it’s been a game changer for me. No longer am I worried that I forgot something because all of my essentials are kept in one place. I just grab the bag and I’m good to go. This compact offering from tomtoc spans roughly 12 by 6 by 3 inches, which I think strikes a nice balance between being compact while also being large enough to fit a gaming handheld like Switch 2.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/08/28/tomtoc-3l-compact-edc-sling-bag/#more-1156652\">more…</a>",
+      "published": "2025-08-28T21:25:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "5be4c445986dd206fdbf9ba60e1de687f9e172b3",
+      "title": "Live again: Amazon takes $150 off most affordable Google Pixel Tablet, now back at $249 Prime Day low",
+      "link": "https://9to5toys.com/2025/08/28/amazon-google-pixel-tablet-prime-day-low/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2024/10/Google-Pixel-Tablet-copy.jpg?w=1024\" /></div><p><strong>Update 8/28: </strong>This deal is now live once again. </p>\n\n\n\n<p>The new Pixel 10, <a href=\"https://www.amazon.com/Google-Pixel-Pro-Smartphone-Fast-Charging/dp/B0FJMJL99C?tag=toys-20\">Pixel 10 Pro</a>, and Pixel 10 Pro XL have now been revealed and gone up for pre-order, but there’s still no new <a href=\"https://www.amazon.com/dp/B0CZMFZMR8?tag=toys-20&amp;th=1\">Pixel Tablet</a> and Amazon just dropped the price significantly. You’ll now find the base model 128GB Google Pixel Tablet marked down to $249 shipped at Amazon to mark the return of this year’s Prime Day low. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/08/28/amazon-google-pixel-tablet-prime-day-low/#more-1155429\">more…</a>",
+      "published": "2025-08-28T21:24:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "981ab557683552910e6c559243a289e968bea1fe",
+      "title": "Aventon cuts the price further on its Aventure 2 all-terrain e-bikes to best price of 2025 at $1,499 (Reg. $1,999)",
+      "link": "https://9to5toys.com/2025/08/28/aventon-aventure-2-e-bikes-1499/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/07/Aventon-Aventure-2-All-Terrain-e-bike.jpg?w=1024\" /></div><p>As part of its ongoing <a href=\"https://9to5toys.com/2025/08/27/aventon-abound-sr-e-bike-first-discount-1799-more/\">Final Summer/Labor Day Sale running through September 3</a>, Aventon has dropped the price further on its <a href=\"https://www.avantlink.com/click.php?tt=el&amp;merchant_id=a41b063c-52a4-4d87-8f09-d6c71998ed15&amp;website_id=a8333ef2-399d-4b37-91a1-f6691c2480f5&amp;url=https%3A%2F%2Fwww.aventon.com%2Fproducts%2Faventure2-ebike%3Fvariant%3D42255489499331\">Aventure 2 All-Terrain e-bike to <strong>$1,499 shipped</strong></a>. It started this sale having fallen from its $1,999 full price to $1,699, with an additional $200 being taken off now for the best price of the year. We’ve seen discounts mostly dropping the costs to $1,599 at best this year, with this being the first time we’ve spied it going further in the last eight months. You’re looking at a total $500 price cut while the sale continues, giving you one of the most popular legacy models from this brand at the best price of 2025 – and it even beats out 2024’s Black Friday and Christmas pricing by $200 too. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/08/28/aventon-aventure-2-e-bikes-1499/#more-1156688\">more…</a>",
+      "published": "2025-08-28T21:23:52+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "b216e3acc122148a9cacced0c61930bccab6ec7c",
+      "title": "Microsoft AI launches its first in-house models",
+      "link": "https://www.theverge.com/news/767809/microsoft-in-house-ai-models-launch-openai",
+      "summary": "Microsoft’s AI division announced its first homegrown AI models on Thursday: MAI-Voice-1 AI and MAI-1-preview. The company says its new MAI-Voice-1 speech model can generate a minute’s worth of audio in under one second on just one GPU, while MAI-1-preview “offers a glimpse of future offerings inside Copilot.” Microsoft already uses MA1-Voice-1 to power a [&#8230;]",
+      "published": "2025-08-28T21:13:04+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "2deb8af32db4cdadcd233c61913435ff72cfb739",
+      "title": "The BOTSLAB 4K Security Cameras 4-Cam Kit covers your whole yard with no subscriptions",
+      "link": "https://9to5toys.com/2025/08/28/the-botslab-4k-security-cameras-4-cam-kit-covers-your-whole-yard-with-no-subscriptions/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/BOTSLAB-Security-Camera-FI.webp?w=1024\" /></div><p>These days, home security is at the forefront of everyone’s mind, but there can often be so many choices for what system to go with and many can cause compromises that ultimately leave homeowners feeling regret for their decisions. Going with a basic setup can often lead to blurry and unhelpful images, while higher-priced systems tend to come with monthly subscriptions and other paywalls. That’s where BOTSLAB comes in, with its 4K Security Cameras 4-Cam Kit providing high-quality outdoor coverage alongside AI-powered features – all without the annoyance of extra fees and subscriptions.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/08/28/the-botslab-4k-security-cameras-4-cam-kit-covers-your-whole-yard-with-no-subscriptions/#more-1154438\">more…</a>",
+      "published": "2025-08-28T21:00:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "3d1ca2508418d70f426e994ee76435e06debc3f6",
+      "title": "Clean up cords with 12 magnetic cable ties for $8.50 Prime shipped (50% off)",
+      "link": "https://9to5toys.com/2025/08/28/joyroom-magnetic-reusable-cable-ties-12-pack/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/03/12-pack-of-JOYROOM-Magnetic-Silicone-Cable-Ties.jpg?w=1024\" /></div><h1 class=\"wp-block-heading has-text-align-center\">JOYROOM Magnetic Reusable Cable Ties (12-pack)</h1>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\">Buy for $8.50 (Reg. $17)</h2>\n\n\n\n<p class=\"has-text-align-center\"><em>Clip the on-page 50% off coupon.</em></p>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A red and white rectangle\" class=\"wp-image-1156646 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/JOYROOM-Magnetic-Reusable-Cable-Ties-12-pack-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h2>\n\n\n\n<p>While there are all sorts of cable ties out there to choose from, these set themselves apart with a magnetic design. This allows them to latch onto the peel-and-stick portion that you can easily attach to a wide variety of surfaces. Each cable tie spans roughly 5 inches and has a variety of slots that you can use to dial in the ideal amount of tension.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/08/28/joyroom-magnetic-reusable-cable-ties-12-pack/#more-1156645\">more…</a>",
+      "published": "2025-08-28T20:55:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "fae2d60ce21f4ec2e597b88d073bef38c8b01041",
+      "title": "Keep on your budget while getting a watchful companion for the road with VIOFO’s A119 Mini 2 dash cam at $100 (Reg. $139)",
+      "link": "https://9to5toys.com/2025/08/28/viofo-a119-mini-2-dash-cam-100/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/VIOFO-A119-Mini-2-Dash-Cam.png?w=1024\" /></div><p>By way of its official Amazon storefront, VIOFO is offering its A119 Mini 2 Dash Cam for $99.98 shipped which comes right behind our earlier coverage of the <a href=\"https://9to5toys.com/2025/08/28/viofos-a229-series-dash-cams-from-170/\">more advanced A229 series of dash cams</a>. This smaller single-cam option usually fetches $139 at full price, which has regularly fallen between $100 and $99 over the course of 2025, with one drop lower to $90 back at the end of March. While we have seen the price go as low as $86 in 2024, you’re otherwise looking at the third-best rate of 2025 that cuts $39 off the going rate while giving you one of the brand’s best budget-friendly dash cam options.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/08/28/viofo-a119-mini-2-dash-cam-100/#more-1156681\">more…</a>",
+      "published": "2025-08-28T20:52:28+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "86e686003a1b86f764dff11a731b38a071239a93",
+      "title": "Anthropic users face a new choice – opt out or share your chats for AI training",
+      "link": "https://techcrunch.com/2025/08/28/anthropic-users-face-a-new-choice-opt-out-or-share-your-data-for-ai-training/",
+      "summary": "Anthropic is making some major changes to how it handles user data. Users have until September 28 to take action.",
+      "published": "2025-08-28T20:43:12+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "2a067940bad7577aac02d048f330a92af3e23d40",
+      "title": "Nvidia, Google, and Bill Gates help Commonwealth Fusion Systems raise $863M",
+      "link": "https://techcrunch.com/2025/08/28/nvidia-google-and-bill-gates-help-commonwealth-fusion-systems-raise-863m/",
+      "summary": "Commonwealth Fusion Systems has raised nearly $3 billion to commercialize its fusion power plant. It hopes to send electricity to the grid in the early 2030s.",
+      "published": "2025-08-28T20:25:30+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "e2df3541eebe92ea4f4c4ba18372642522ff54bc",
+      "title": "Dell reports Q2 revenue up 19% YoY to $29.78B, vs. $29.17B est., and forecasts Q3 EPS of $2.45, below $2.55 est.; DELL drops 5%+ after hours (Kif Leswing/CNBC)",
+      "link": "http://www.techmeme.com/250828/p38#a250828p38",
+      "summary": "<a href=\"https://www.cnbc.com/2025/08/28/dell-earnings-report-q2-2026.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250828/i38.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250828/p38#a250828p38\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kif Leswing / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2025/08/28/dell-earnings-report-q2-2026.html\">Dell reports Q2 revenue up 19% YoY to $29.78B, vs. $29.17B est., and forecasts Q3 EPS of $2.45, below $2.55 est.; DELL drops 5%+ after hours</a></b></span>&nbsp; &mdash;&nbsp; Despite beating on its top and bottom lines, shares of Dell Technologies fell more than 5% Thursday in extended trading after giving third-quarter &hellip; </p>",
+      "published": "2025-08-28T20:25:06+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "7b2fa2953660859abcb7070b1c8c903c6ddeaf81",
+      "title": "A stainless steel build headlines Joseph Joseph’s EasyStore toothbrush holder, now $13 (Save 24%)",
+      "link": "https://9to5toys.com/2025/08/28/joseph-joseph-easystore-stainless-steel-toothbrush-holder-3/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/01/Joseph-Joseph-EasyStore-Stainless-Steel-Toothbrush-Holder.jpg?w=1024\" /></div><h1 class=\"wp-block-heading has-text-align-center\">Joseph Joseph EasyStore Stainless Steel Toothbrush Holder</h1>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\">Buy for $13 (Reg. $17)</h2>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A white line on a red background\" class=\"wp-image-1156641 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Joseph-Joseph-EasyStore-Stainless-Steel-Toothbrush-Holder-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h2>\n\n\n\n<p style=\"text-align: left;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at faucibus metus, quis interdum ex. Mauris sit amet arcu sit amet tellus volutpat mollis. Aliquam sodales tellus non est tincidunt vestibulum.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/08/28/joseph-joseph-easystore-stainless-steel-toothbrush-holder-3/#more-1156640\">more…</a>",
+      "published": "2025-08-28T20:25:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "c262f1386ebe43fdb3157099d15050fa290a1c77",
+      "title": "Sources: Meta aims to launch its next-gen Llama AI model, Llama 4.X, by the end of 2025; the TBD team developing Llama 4.X is also trying to fix Llama 4 bugs (Jyoti Mann/Business Insider)",
+      "link": "http://www.techmeme.com/250828/p37#a250828p37",
+      "summary": "<p><a href=\"http://www.techmeme.com/250828/p37#a250828p37\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jyoti Mann / <a href=\"https://www.businessinsider.com/\">Business Insider</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.businessinsider.com/meta-superintelligence-lab-llama-4-new-model-launch-year-end-2025-8\">Sources: Meta aims to launch its next-gen Llama AI model, Llama 4.X, by the end of 2025; the TBD team developing Llama 4.X is also trying to fix Llama 4 bugs</a></b></span>&nbsp; &mdash;&nbsp; - Meta aims to release its next AI model, Llama 4.X, by year-end, according to two sources.&nbsp; &mdash; The release of Llama 4 models &hellip; </p>",
+      "published": "2025-08-28T20:21:57+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "aba95613c2baecbf7eeaa597303dc3d267f82b85",
+      "title": "Filing: credit reporting giant TransUnion discloses a data breach affecting 4.4M+ customers' personal info but claims \"no credit information was accessed\" (Zack Whittaker/TechCrunch)",
+      "link": "http://www.techmeme.com/250828/p36#a250828p36",
+      "summary": "<a href=\"https://techcrunch.com/2025/08/28/transunion-says-hackers-stole-4-4-million-customers-personal-information/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250828/i36.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250828/p36#a250828p36\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Zack Whittaker / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2025/08/28/transunion-says-hackers-stole-4-4-million-customers-personal-information/\">Filing: credit reporting giant TransUnion discloses a data breach affecting 4.4M+ customers' personal info but claims &ldquo;no credit information was accessed&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; Credit reporting giant TransUnion has disclosed a data breach affecting more than 4.4 million customers' personal information.</p>",
+      "published": "2025-08-28T20:15:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "801b3d141993cfdf791e88061beb5b2c434844ad",
+      "title": "Ninja’s 50-quart FrostVault hard cooler with the separated dry zone drawer falls to $200 (Reg. $250)",
+      "link": "https://9to5toys.com/2025/08/28/ninja-50-quart-frostvault-hard-cooler-200/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Ninja-FrostVault-50-quart-Hard-Cooler-e1756411506133.jpg?w=1024\" /></div><p>Amazon is offering the Ninja FrostVault 50-quart Hard Cooler at $199.93 shipped. You’d normally have to shell out $250 for this model at full price, but discounts have been regularly dropping to $200 in 2025, with one-time falls lower to $199 and the $175 low that we saw during July’s Prime Day event. If you missed out on that low price, you can still pick it up with today’s deal that saves you $50 at the third-best rate we have tracked. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/08/28/ninja-50-quart-frostvault-hard-cooler-200/#more-1156676\">more…</a>",
+      "published": "2025-08-28T20:09:31+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "b25df3a45b6ef5917f8a028de49e847a7a6e7d2b",
+      "title": "AI or not, Will Smith’s crowd video is fresh cringe",
+      "link": "https://techcrunch.com/2025/08/28/ai-or-not-will-smiths-crowd-video-is-fresh-cringe-2/",
+      "summary": "Fans accused Will Smith of sharing AI-generated videos from his tour, but the situation is more complicated than it seems.",
+      "published": "2025-08-28T20:02:52+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "b586c85a035cbaa95caf17cf0364d073d493e329",
+      "title": "xAI launches Grok Code Fast 1, a \"speedy and economical\" agentic coding model, available for free for a limited time on GitHub Copilot, Cursor, Windsurf, more (Juby Babu/Reuters)",
+      "link": "http://www.techmeme.com/250828/p35#a250828p35",
+      "summary": "<a href=\"https://www.reuters.com/business/musks-xai-forays-into-agentic-coding-with-new-model-2025-08-28/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250828/i35.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250828/p35#a250828p35\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Juby Babu / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/business/musks-xai-forays-into-agentic-coding-with-new-model-2025-08-28/\">xAI launches Grok Code Fast 1, a &ldquo;speedy and economical&rdquo; agentic coding model, available for free for a limited time on GitHub Copilot, Cursor, Windsurf, more</a></b></span>&nbsp; &mdash;&nbsp; Elon Musk's artificial intelligence startup, xAI, on Thursday released a new &ldquo;speedy and economical&rdquo; agentic coding model &hellip; </p>",
+      "published": "2025-08-28T20:00:46+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "edfaccb1a440e24d81f48cadb9072992c15c7515",
+      "title": "Step up daily comfort with this flexible ratcheting leather belt at $11 Prime shipped",
+      "link": "https://9to5toys.com/2025/08/28/zitahli-ratcheting-leather-belt-2/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Zitahli-Ratcheting-Leather-Belt.jpg?w=1024\" /></div><h1 class=\"wp-block-heading has-text-align-center\">Zitahli Ratcheting Leather Belt</h1>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\">Buy for $11 (Reg. $13)</h2>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A white line on a red background\" class=\"wp-image-1156633 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Zitahli-Ratcheting-Leather-Belt-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h2>\n\n\n\n<p>If you’re still leaning on a traditional belt, I think it’s time to  treat yourself to a ratcheting model. I made the switch about a year ago, and wow, it’s an incredible difference. You get a whole lot more adjustability, with five latches per inch on this particular belt.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/08/28/zitahli-ratcheting-leather-belt-2/#more-1156631\">more…</a>",
+      "published": "2025-08-28T19:55:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "aa8fef2778b05c739c14c5cabc4d9b9caa3e69a5",
+      "title": "Finally, a cat toy that plays back – Cheerble Ball now $15 (Reg. $28)",
+      "link": "https://9to5toys.com/2025/08/28/finally-a-cat-toy-that-plays-back-cheerble-ball-now-15-reg-28/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Cheerble-Ball.jpg?w=1024\" /></div><p>Cats are curious, playful, and a little unpredictable, which makes finding the right toy a bit of a challenge. Some toys lose their charm after a few minutes. Others need apps, remotes, or endless battery swaps. The Cheerble Ball keeps things simple and fun, giving your cat a toy that actually keeps up with them. If you want a fun, automated toy for your cat, <a href=\"https://specials.9to5toys.com/sales/cheerble-ball-interactive-toy-for-cats-red?utm_source=9to5toys.com&amp;utm_content=PS-6093&amp;utm_medium=Referral&amp;utm_campaign=cheerble-ball-interactive-toy-for-cats-2025-08-22&amp;utm_term=SALE-204858\" rel=\"noreferrer noopener\" target=\"_blank\">get a Cheerble Ball today for <strong>$14.97</strong></a> (Reg. $27.99).</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/08/28/finally-a-cat-toy-that-plays-back-cheerble-ball-now-15-reg-28/#more-1156022\">more…</a>",
+      "published": "2025-08-28T19:48:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "b575125e6881869f922e627312d4ba58fcb9f71e",
+      "title": "Bring DJI’s Power 1000 or 2000 power stations on outdoor adventures starting from $499 (Reg. $699+)",
+      "link": "https://9to5toys.com/2025/08/28/dji-power-1000-or-2000-power-stations-from-499/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/01/DJI-Power-1000-Portable-Power-Station.jpg?w=1024\" /></div><p>Through its official Amazon storefront, DJI is offering its Power 1000 Portable Power Station at $499 shipped. While it carries a $999 MSRP, we’ve been seeing it in 2025 keep down at $699 in full at Amazon. Since the end of July it’s been staying above $549, with past discounts this year having taken the costs as low as $379 in a series of short-term Lightning sales back at the top of the year. You’re looking at a 29% markdown off the going rate here, which saves you $200 while equipping your outdoor adventures with the means to keep your personal devices running.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/08/28/dji-power-1000-or-2000-power-stations-from-499/#more-1156671\">more…</a>",
+      "published": "2025-08-28T19:34:50+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "16abe0c0780573c4272ce29181b9bbc5b94f7de9",
+      "title": "In a letter, FTC chair Andrew Ferguson warns Google not to filter or suppress emails sent by Republicans over Gmail; Google says its spam filters are not biased (Hans Nichols/Axios)",
+      "link": "http://www.techmeme.com/250828/p34#a250828p34",
+      "summary": "<a href=\"https://www.axios.com/2025/08/28/ftc-google-gop-email-andrew-ferguson-alphabet-sundar-pichai\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250828/i34.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250828/p34#a250828p34\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Hans Nichols / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/2025/08/28/ftc-google-gop-email-andrew-ferguson-alphabet-sundar-pichai\">In a letter, FTC chair Andrew Ferguson warns Google not to filter or suppress emails sent by Republicans over Gmail; Google says its spam filters are not biased</a></b></span>&nbsp; &mdash;&nbsp; The Chairman of the Federal Trade Commission is warning Google not to filter or suppress emails sent by Republicans over Gmail &hellip; </p>",
+      "published": "2025-08-28T19:30:07+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "9afd1198b1e0d78b48bc5308916332c841b6774c",
+      "title": "Declutter the yard, deck, or patio with this lockable 100-gallon outdoor storage box at $77 (Reg. $100)",
+      "link": "https://9to5toys.com/2025/08/28/greesum-100-gallon-lockable-outdoor-storage-box/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Greesum-100-Gallon-Lockable-Outdoor-Storage-Box.jpg?w=1024\" /></div><h1 class=\"wp-block-heading has-text-align-center\">Greesum 100-Gallon Lockable Outdoor Storage Box</h1>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\">Buy for $77 (Reg. $100)</h2>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A red and white line drawing\" class=\"wp-image-1156626 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Greesum-100-Gallon-Lockable-Outdoor-Storage-Box-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h2>\n\n\n\n<p>Storage containers like this can go a long way when it comes to tidying up an outdoor space. They can quickly make a cluttered area look a whole lot cleaner, and you don’t have to get rid of anything. This particular offering boasts 100-gallon storage cavity that you can slap a lock onto if you want to secure the contents.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/08/28/greesum-100-gallon-lockable-outdoor-storage-box/#more-1156624\">more…</a>",
+      "published": "2025-08-28T19:25:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "eb63d63b40fd36a3c02a19e45e9bc7e111c7124f",
+      "title": "Own Microsoft Office forever for just $25 – no Microsoft 365 needed (Reg. $229)",
+      "link": "https://9to5toys.com/2025/08/28/own-microsoft-office-forever-for-just-25-no-microsoft-365-needed-reg-229/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Microsoft-Office-Professional-Plus-2019-for-Windows-1.jpg?w=1024\" /></div><p>If you’ve had enough of subscription models and just want to own your software, this deal gives you the full Microsoft Office Professional Plus 2019 suite <a href=\"https://specials.9to5toys.com/sales/microsoft-office-professional-plus-2019-for-windows-7?utm_source=9to5toys.com&amp;utm_content=PS-6092&amp;utm_medium=Referral&amp;utm_campaign=microsoft-office-professional-plus-2019-for-windows-2025-08-22&amp;utm_term=SALE-328051\" rel=\"noreferrer noopener\" target=\"_blank\">for a one-time payment of <strong>$24.97</strong></a> (Reg. $229). Designed for Windows users, Office 2019 includes Word, Excel, PowerPoint, Outlook, OneNote, Publisher, and Access, all accessible without ongoing fees. It’s ideal for students, professionals, and anyone who wants dependable productivity tools without being locked into Microsoft 365. </p>\n\n\n\n<p>What’s different about this version? Office 2019 offers improved inking across apps, smarter data tools in Excel, better slide transitions and design features in PowerPoint, and streamlined email and contact management in Outlook. It’s a solid upgrade for anyone still using older versions or web-based tools that don’t offer full features offline.</p>\n\n\n\n<p>Once installed, everything runs directly on your device — no account linking required. It works on Windows 10 or 11 only (not compatible with Windows 7 or 8), and your <a href=\"https://specials.9to5toys.com/sales/microsoft-office-professional-plus-2019-for-windows-7?utm_source=9to5toys.com&amp;utm_content=PS-6092&amp;utm_medium=Referral&amp;utm_campaign=microsoft-office-professional-plus-2019-for-windows-2025-08-22&amp;utm_term=SALE-328051\" rel=\"noreferrer noopener\" target=\"_blank\">license is tied to the device, not a cloud account</a>.</p>\n\n\n\n<p>You’ll receive your download link and activation key instantly by email, and setup takes just a few minutes. As long as you redeem your code within 7 days of purchase, the software is yours to keep — for life — unlike Microsoft 365.</p>\n\n\n\n<p>Please note that this license doesn’t include Teams.</p>\n\n\n\n<p>Take advantage of this discounted price and <a href=\"https://specials.9to5toys.com/sales/microsoft-office-professional-plus-2019-for-windows-7?utm_source=9to5toys.com&amp;utm_content=PS-6092&amp;utm_medium=Referral&amp;utm_campaign=microsoft-office-professional-plus-2019-for-windows-2025-08-22&amp;utm_term=SALE-328051\" rel=\"noreferrer noopener\" target=\"_blank\">grab a lifetime license to Microsoft Office 2019 for just <strong>$24.97</strong></a> (Reg. $229) for one PC while downloads last.</p>\n\n\n\n<figure class=\"wp-block-image alignwide\"><img alt=\"\" src=\"https://cdnp2.stackassets.com/047035cbd426d938dc2ac2bd2727cf9fdae2d4fb/store/3066645844deeecd7c2410a0d227d6f908e2d04684701eee2fd2fc382614/sale_xxxxx_article_image.jpg\" /></figure>\n\n\n\n<p><a href=\"https://www.stacksocial.com/\"><em>StackSocial</em></a><em> prices subject to change.</em></p>",
+      "published": "2025-08-28T19:16:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "327a5ecf7205c61a9f7a29addd3c61fb42b7ea7b",
+      "title": "Mississippi’s age assurance law puts decentralized social networks to the test",
+      "link": "https://techcrunch.com/2025/08/28/mississippis-age-assurance-law-puts-decentralized-social-networks-to-the-test/",
+      "summary": "Bluesky says it would block access to its service in the state of Mississippi, rather than comply with the new age verification law.",
+      "published": "2025-08-28T19:14:21+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "1030e8db820ef26e1e4ac0c381440f8306a88062",
+      "title": "Intel CFO says the US deal aims to deter Intel from selling its foundry; it lets the US buy 5% more at $20/share if Intel's stake in the unit falls below 51% (Financial Times)",
+      "link": "http://www.techmeme.com/250828/p33#a250828p33",
+      "summary": "<a href=\"https://t.co/AaLRPRxR4O\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250828/i33.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250828/p33#a250828p33\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://t.co/AaLRPRxR4O\">Intel CFO says the US deal aims to deter Intel from selling its foundry; it lets the US buy 5% more at $20/share if Intel's stake in the unit falls below 51%</a></b></span>&nbsp; &mdash;&nbsp; US chipmaker has faced pressure to sell lossmaking foundry business struggling to compete with TSMC</p>",
+      "published": "2025-08-28T19:10:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "781f86c417bda48cace738b5f28c0dd2da9813d6",
+      "title": "US manufacturing investment stumbles as clean tech cancellations pile up",
+      "link": "https://techcrunch.com/2025/08/28/us-manufacturing-investment-stumbles-as-clean-tech-cancellations-pile-up/",
+      "summary": "Companies canceled $5 billion worth of clean tech manufacturing projects in the U.S. in Q2, mirroring a pullback in the broader manufacturing sector.",
+      "published": "2025-08-28T19:09:54+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "e5017fe4a3a9e64ab98efff0f35dd4efc52aceaf",
+      "title": "Clean up that mess with three under-sink organizers for only $18 Prime shipped ($6 each, 49% off)",
+      "link": "https://9to5toys.com/2025/08/28/delamu-under-sink-organizers-3-pack/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/03/3-pack-of-Delamu-Under-Sink-Organizers.jpg?w=1024\" /></div><h1 class=\"wp-block-heading has-text-align-center\">Delamu Under-Sink Organizers (3-pack)</h1>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\">Buy for $18 (Reg. $35)</h2>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A red line drawing of a graph\" class=\"wp-image-1156616 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Delamu-Under-Sink-Organizers-3-pack-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h2>\n\n\n\n<p>We have an older home with just one bathroom. If that’s not tough enough to deal with, it’s also a contender for the one of the smallest bathrooms I’ve ever been in. This lead us to get as creative as possible with the space we did have, including some under-sink organization. If your bathroom or kitchen could use some help in this way, now’s a solid opportunity to cash in.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/08/28/delamu-under-sink-organizers-3-pack/#more-1156615\">more…</a>",
+      "published": "2025-08-28T18:55:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "8d84575fdb2af070bdbe766999efb66e906bb6c2",
+      "title": "High-severity vulnerability in Passwordstate credential manager. Patch now.",
+      "link": "https://arstechnica.com/security/2025/08/high-severity-vulnerability-in-passwordstate-credential-manager-patch-now/",
+      "summary": "Vulnerability can be exploited to gain access to customers' crown jewels.",
+      "published": "2025-08-28T18:46:43+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "420a2dc364823657ce45553b45cf5237ad3316e1",
+      "title": "Got Prime? Your membership lets you bag two 16-pair shoe organizers at $18.50 each",
+      "link": "https://9to5toys.com/2025/08/28/aokeyee-16-pair-shoe-organizer-2-pack/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Aokeyee-16-Pair-Shoe-Organizer-2-pack.jpg?w=1024\" /></div><h1 class=\"wp-block-heading has-text-align-center\">Aokeyee 16-Pair Shoe Organizer (2-pack)</h1>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\">Buy for $37 (Reg. $46)</h2>\n\n\n\n<p class=\"has-text-align-center\">Prime-exclusive discount</p>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A white line on a red background\" class=\"wp-image-1156605 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Aokeyee-16-Pair-Shoe-Organizer-2-pack-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h2>\n\n\n\n<p>Shoes can quickly clutter up a closet. Thankfully you can remedy that with organizers like these. Today’s offer delivers two that can hold up to 16 pairs each. This is great for year-round use, but also offers a way to get seasonal shoes out of the way as well.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/08/28/aokeyee-16-pair-shoe-organizer-2-pack/#more-1156604\">more…</a>",
+      "published": "2025-08-28T18:25:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "e2a3e8d2891a3323226c86594ae73cfe5079792d",
+      "title": "Google’s Pixel Care Plus includes free screen and battery repair",
+      "link": "https://www.theverge.com/news/767711/google-pixel-care-plus-free-screen-and-battery-repair",
+      "summary": "Google is phasing out its Preferred Care extended warranty plan for the Pixel Care Plus program. Pricing between the two is pretty similar. You’ll still pay $8 per-month, or $159 for a two-year plan on a Pixel 9. For a Pixel 10 Pro Fold, that jumps up to $339 for two years, or $18 per-month, [&#8230;]",
+      "published": "2025-08-28T18:24:50+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "5e7aa06fa50e20494b5cc6b4aadfaa85316e6138",
+      "title": "The best Labor Day TV sales",
+      "link": "https://www.theverge.com/tech/767635/best-labor-day-tv-deal-sale",
+      "summary": "Labor Day weekend marks the unofficial end of summer, which is a bit sad, but it’s a great time to get a deal on a fancy, new TV. The US holiday is happening just before the start of the 2025-2026 NFL season, the World Cup qualifiers, and the lead-up to the MLB post-season games. This [&#8230;]",
+      "published": "2025-08-28T18:19:17+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "a7efebb7f8c82cbf1374d4bf8b64ef20ed5e68ba",
+      "title": "M4 MacBook Air from $799 might be the best bang for your buck in Apple gear right now ($200 off)",
+      "link": "https://9to5toys.com/2025/08/28/latest-m4-macbook-air-best-apple-deal/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Apple-M4-MacBook-Air-colors.jpg?w=1024\" /></div><p>Amazon is still offering just about every single M4 MacBook Air configuration out there at the lowest we have tracked online. These deals have been live for quite some time now, but after detailing why we think they might be among <a href=\"https://9to5toys.com/2025/08/02/m4-macbook-air-deal-year/\">the best Apple deals of the year</a>, and considering they are the latest 2025 releases of one of the most universally appealing pieces of Apple kit in the lineup, they deserve to be front and center once again. This includes both the 13- and <a href=\"https://www.amazon.com/dp/B0DZDB168B/?tag=toysj-20&amp;th=1\">15-inch</a> models across all storage capacities and colors at $200 off with prices starting from <a href=\"https://www.amazon.com/dp/B0DZD9S5GC/?tag=toysj-20&amp;th=1\"><strong>$799 shipped</strong></a>. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/08/28/latest-m4-macbook-air-best-apple-deal/#more-1153924\">more…</a>",
+      "published": "2025-08-28T18:15:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "ec30ab0e9a5cd9d1699bdbabfa2f5c17c4012088",
+      "title": "Xbox&#8217;s cross-device play history syncs your recently played games on every  screen",
+      "link": "https://www.theverge.com/news/767697/xbox-cross-device-play-history-cloud-gaming",
+      "summary": "On Thursday, Xbox announced it’s widely rolling out cross-device play history. With the new update, even if you’re on a different Xbox console, Ally handheld, or PC, your recently played game list will remain the same, so you can jump right back in where you left off. The change, which first started testing with Insiders [&#8230;]",
+      "published": "2025-08-28T18:09:58+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "d2d900e4fc6a9bb91404078777e50df45422017f",
+      "title": "I tested 15 cases for the Switch 2 and these are the best",
+      "link": "https://www.theverge.com/reviews/691319/best-switch-2-cases",
+      "summary": "You might find it kind of sad to put your hard-earned Switch 2 into a protective case. To me, it’s freeing. Using a case relieves me of the worry that it will accumulate tons of little scratches, or worse. I’ve tested several types of cases on the Nintendo Switch 2 since its June 2025 debut, [&#8230;]",
+      "published": "2025-08-28T18:09:15+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "286b79a6899ea36ed5868e7f4ec8e912fec00983",
+      "title": "Get those ugly cables out of sight with this 4-cord cover kit for $17 (Save 26%)",
+      "link": "https://9to5toys.com/2025/08/28/delamu-142-inch-4-cord-cover-kit/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Delamu-142-inch-4-Cord-Cover-Kit.jpg?w=1024\" /></div><h1 class=\"wp-block-heading has-text-align-center\">Delamu 142-inch 4-Cord Cover Kit</h1>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\">Buy for $17 (Reg. $23)</h2>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A white line on a red background\" class=\"wp-image-1156597 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Delamu-142-inch-4-Cord-Cover-Kit-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h2>\n\n\n\n<p>Sometimes an outlet is not in the most ideal location and you’ve got to run an ugly cord from one place to another. Thankfully you can make this whole ordeal much easier on the eyes with a kit like this. I have first-hand experience with this kit and have bought it twice. It’s easy to set up and I love that it can be painted to match a wall too.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/08/28/delamu-142-inch-4-cord-cover-kit/#more-1156596\">more…</a>",
+      "published": "2025-08-28T17:55:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "344018be7cf497e4ce0595bebb82211379c720e7",
+      "title": "First deportees arrive in Rwanda from the US",
+      "link": "https://www.bbc.com/news/articles/ckg4xp2my0vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The first group of deportees arrived in mid-August, according to government spokesperson Yolande Makolo.",
+      "published": "2025-08-28T17:29:29+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "980fd43ce310544f7f64e6a1ec5c739502e098e6",
+      "title": "GM’s new adapters reflect the increasingly confused reality of EV charging",
+      "link": "https://www.theverge.com/electric-cars/767535/gms-new-adapters-reflect-increasingly-confused-world-ev-charging",
+      "summary": "Look, I sympathize. When General Motors said it would adopt Tesla’s North American Charging Standard (NACS) for its electric vehicles back in 2023, we knew this meant adapters. But we never could have imagined how many adapters we would get. Today, GM announced three additional adapters to help EV owners charge at home or in [&#8230;]",
+      "published": "2025-08-28T17:25:33+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "cbcbe2d77003bc91757bc752776fcd01099de52f",
+      "title": "ESR’s already-affordable iPad mini 7 folio case falls further, now $13.50 Prime shipped",
+      "link": "https://9to5toys.com/2025/08/28/esr-ipad-mini-7-a17-pro-folio-case/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/ESR-iPad-Mini-7-A17-Pro-Folio-Case.jpg?w=1024\" /></div><h1 class=\"wp-block-heading has-text-align-center\" id=\"h-esr-ipad-mini-7-a17-pro-folio-case\">ESR iPad mini 7 A17 Pro Folio Case</h1>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\">Buy for $13.50 (Reg. $16)</h2>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A red background with a white line\" class=\"wp-image-1156591 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/ESR-iPad-Mini-7-A17-Pro-Folio-Case-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h2>\n\n\n\n<p>While the top-tier iPads are impressive, I’m personally drawn to iPad mini 7 the most. I just love how much power is packed into a tiny tablet. If you have one or are going to pick one up while it’s <a href=\"https://9to5toys.com/2025/08/26/amazon-ipad-mini-7-deals-labor-day/\">on sale for Labor Day</a>, this case can protect and prop it up without breaking the bank.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/08/28/esr-ipad-mini-7-a17-pro-folio-case/#more-1156590\">more…</a>",
+      "published": "2025-08-28T17:25:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "4ffc4592f9a382f6dea3d602c5b7989883331e33",
+      "title": "Don’t miss this sleek display-equipped Baseus 6-in-1 USB-C power strip while it’s nearly 50% off at $48.50 low",
+      "link": "https://9to5toys.com/2025/08/28/sleek-display-equipped-baseus-6-in-1-usb-c-power-strip-nearly-50-off/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/06/Baseus-6-in-1-charging-station.jpg?w=1024\" /></div><p>As part of the ongoing Labor Day sale, the official Baseus storefront at Amazon is offering its <a href=\"https://www.amazon.com/gp/product/B0DLVYJYTG?tag=karthikl-20\">6-in-1 slim USB-C power strip for <strong>$48.59 shipped</strong></a>. Don’t forget to enter promo code <strong>H7HTQ8PV</strong> during checkout to see the discounted price. This is regularly a $90 multi-port power strip, which is now nearly 50% off right now. The promo code shaves $41.50 off its usual going rate, landing it $7 below its previous all-time low and our mention from a couple of months back. This is the lowest price we have tracked for this charging unit, and you can learn more about it below.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/08/28/sleek-display-equipped-baseus-6-in-1-usb-c-power-strip-nearly-50-off/#more-1156635\">more…</a>",
+      "published": "2025-08-28T17:23:20+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "32b26ebcb5e71c67c4d3d9106357977ddeb0b79b",
+      "title": "Star Wars: Starfighter is going to be star-studded",
+      "link": "https://www.theverge.com/film/767588/star-wars-starfighter-cast",
+      "summary": "Production on Star Wars: Starfighter officially began today, and Lucasfilm has finally confirmed the other actors who will be bringing the film to life alongside Ryan Gosling. Lucasfilm announced today that Star Wars: Starfighters has added Flynn Gray, Matt Smith, Mia Goth, Aaron Pierre, Simon Bird, Jamael Westman, Daniel Ings, and Amy Adams to its [&#8230;]",
+      "published": "2025-08-28T17:04:05+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "d0588018284ca539289306e580ed772f5503b005",
+      "title": "Threads tests a way to share long-form text on the platform",
+      "link": "https://techcrunch.com/2025/08/28/threads-tests-a-way-to-share-long-form-text-on-the-platform/",
+      "summary": "With this new feature, users can attach a block of text to a post instead of creating a thread of several different posts when looking to share more in-depth thoughts and ideas.",
+      "published": "2025-08-28T17:01:29+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "9f224cf9b6c178d01b934c67e1285e4185723c2d",
+      "title": "Battlefield 6 PC requirements are pretty chill — if you don&#8217;t mind 30fps",
+      "link": "https://www.theverge.com/news/767582/battlefield-6-pc-requirements-are-pretty-chill-if-you-dont-mind-30fps",
+      "summary": "EA is promising Battlefield 6 will offer “the best PC experience in the history of the franchise,” including 4K resolution, 21:9 and 32:9 ultrawide monitors, HDR, uncapped framerates, both PS5 and Xbox gamepad support on PC, the ability to create and browse servers, streamer and incognito modes, and more — but it won’t require powerful [&#8230;]",
+      "published": "2025-08-28T16:48:57+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "83c572b35e2da648e3bc93f6b066861b6953f416",
+      "title": "Fubo Sports is a $55.99 / month streaming bundle made for watching football",
+      "link": "https://www.theverge.com/news/767572/fubo-sports-espn-nfl-network-college-football-streaming",
+      "summary": "Fubo is launching a new Sports plan on September 2nd that costs $55.99 per month and comes with over 20 live sports and news-focused channels, including the ESPN and Fox Sports channels, as well as local stations owned by ABC, CBS, and Fox. Where available, this package includes coverage for network TV-broadcast pro and college [&#8230;]",
+      "published": "2025-08-28T16:19:11+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "4022aaecbf4018c61989999e542e1cca37dba651",
+      "title": "A Day in the Life with SmartThings on the Samsung Galaxy Z Flip7",
+      "link": "https://soyacincau.com/2025/08/29/a-day-in-the-life-with-smartthings-on-the-samsung-galaxy-z-flip-7/",
+      "summary": "This post is brought to you by Samsung. When people think about a smart home ecosystem, the picture that often comes to mind is a complicated setup. You know, multiple apps, different remotes, and plenty of tinkering. But what if managing an entire home could be as simple as flipping open the Samsung Galaxy Z [&#8230;]",
+      "published": "2025-08-28T16:14:34+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "1bc569f39b734ecd31bc40774898a4a54a276a5e",
+      "title": "Tourist pouring beer down elephant's trunk in Kenya sparks anger",
+      "link": "https://www.bbc.com/news/articles/cjeyjep9pw3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Investigations have been launched following the footage posted to Instagram - which has since been deleted.",
+      "published": "2025-08-28T16:08:15+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "11494900cd5944f932c16074cc57b168fdc1ad22",
+      "title": "Trump admin dismisses Endangered Species List as “Hotel California”",
+      "link": "https://arstechnica.com/science/2025/08/trump-admin-dismisses-endangered-species-list-as-hotel-california/",
+      "summary": "\"Once a species enters, they never leave,\" interior secretary says. But there's more to the story.",
+      "published": "2025-08-28T16:00:52+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "ae0143cb11f1999765104e41d0294fce65a19caf",
+      "title": "MathGPT.ai, the ‘cheat-proof’ tutor and teaching assistant, expands to over 50 institutions",
+      "link": "https://techcrunch.com/2025/08/28/mathgpt-the-cheat-proof-ai-tutor-and-teaching-assistant-expands-to-over-50-institutions/",
+      "summary": "Schools implementing MathGPT.ai in their classrooms include Penn State University, Tufts University, and Liberty University, among others.",
+      "published": "2025-08-28T16:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "ea132d8279429437bc6be58a9e83759bfb4949fe",
+      "title": "Blogging service TypePad is shutting down and taking all blog content with it",
+      "link": "https://arstechnica.com/gadgets/2025/08/one-time-wordpress-competitor-typepad-ends-its-slide-into-obscurity-by-shutting-down/",
+      "summary": "After years of neglect, TypePad and everything on it goes away on September 30.",
+      "published": "2025-08-28T15:46:17+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "382e46025d332322ea101876502599b933b3d5f3",
+      "title": "US Fed Governor Lisa Cook sues Trump over his attempt to fire her",
+      "link": "https://www.bbc.com/news/articles/c1dxl6ry4y3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The president has accused Cook of mortgage fraud, and cited constitutional power that he says allows him to fire her.",
+      "published": "2025-08-28T15:24:39+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "4c4693a0a1764545240d600ce111ed29cd621be2",
+      "title": "No-code website builder Framer reaches $2B valuation",
+      "link": "https://techcrunch.com/2025/08/28/no-code-website-builder-framer-reaches-2b-valuation/",
+      "summary": "Framer, a no-code website builder that claims over half a million monthly active users, has reached a $2 billion valuation after raising a $100 million Series D funding round led by existing investors Meritech and Atomico.",
+      "published": "2025-08-28T15:15:51+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "316cbc50a586705c071b37d35dcf4d9cf587a8b7",
+      "title": "Mark Cuban’s war on America’s $5 trillion healthcare machine: ‘They can’t react as quickly’",
+      "link": "https://techcrunch.com/2025/08/28/mark-cubans-war-on-americas-5-trillion-healthcare-machine-they-cant-react-as-quickly/",
+      "summary": "Cuban said drug prices are opaque by design. He launched Cost Plus Drugs in 2022 to pull back the curtain on drug pricing, bring down costs to the average consumer, and disrupt the traditional pharmacy industry.",
+      "published": "2025-08-28T15:13:18+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "6a1961766418fbac804bcf64019e56279da94d57",
+      "title": "With recent Falcon 9 milestones, SpaceX vindicates its “dumb” approach to reuse",
+      "link": "https://arstechnica.com/space/2025/08/with-recent-falcon-9-milestones-spacex-vindicates-its-dumb-approach-to-reuse/",
+      "summary": "The company's workhorse continues its stellar performance.",
+      "published": "2025-08-28T14:46:46+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "2f228a375e2bb37a2c5891a78d9343275c482f4e",
+      "title": "Honor’s slim Magic V5 foldable is fun to use, minus the huge camera bump",
+      "link": "https://techcrunch.com/2025/08/28/honors-slim-magic-v5-foldable-is-fun-to-use-minus-the-huge-camera-bump/",
+      "summary": "Honor's slim Magic V5 has a nice build and a good camera, but the camera bump is a bit of a menace.",
+      "published": "2025-08-28T14:30:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "fbdf42a9041359953fac641b6a0e49be159ba01e",
+      "title": "New dinosaur species is the punk rock version of an ankylosaur",
+      "link": "https://arstechnica.com/science/2025/08/new-dinosaur-species-is-the-punk-rock-version-of-an-ankylosaur/",
+      "summary": "A species known only by a single rib turns out to be covered with meter-long spikes.",
+      "published": "2025-08-28T14:25:12+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "cda00528a0a8bb146dd9c951caddf7cfb1793684",
+      "title": "Investors are loving Lovable",
+      "link": "https://techcrunch.com/2025/08/28/investors-are-loving-lovable/",
+      "summary": "Investors are clamoring to get onto Swedish vibe-coding startup Lovable’s cap table, making unsolicited offers of investment that value the company at more than $4 billion.",
+      "published": "2025-08-28T14:04:06+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "7e95bf1e9b5a88750e6c16d8136e52f3b79ece57",
+      "title": "AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025",
+      "link": "https://techcrunch.com/2025/08/28/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/",
+      "summary": "What happens when your first 10 hires aren’t people at all? At TechCrunch Disrupt 2025, we’re digging into the new wave of startups replacing or augmenting early employees with AI agents.",
+      "published": "2025-08-28T14:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "713593ef572f83cbe1a172a4873778426c99ddbd",
+      "title": "As GM prepares to switch its EVs to NACS, it has some new adapters",
+      "link": "https://arstechnica.com/cars/2025/08/gm-announces-new-nacs-and-ccs1-adapters-coming-next-week/",
+      "summary": "GM has new adapters for every conceivable combination of NACS and CCS1.",
+      "published": "2025-08-28T13:10:27+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "ec846da0ce669a726e89e15f7b48fa2a1b914965",
+      "title": "Unpacking Passkeys Pwned: Possibly the most specious research in decades",
+      "link": "https://arstechnica.com/security/2025/08/new-research-claiming-passkeys-can-be-stolen-is-pure-nonsense/",
+      "summary": "Researchers take note: When the endpoint is compromised, all bets are off.",
+      "published": "2025-08-28T13:00:10+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "7f808c704ba28ed1c78806e837f2cd7e4e8e9c10",
+      "title": "Porsche adds digital keys, in-car gaming to 2026 Macan Electric",
+      "link": "https://arstechnica.com/cars/2025/08/porsche-adds-digital-keys-in-car-gaming-to-2026-macan-electric/",
+      "summary": "Towing capacity is now 5,500 lbs, and there are some new driver assistance features.",
+      "published": "2025-08-28T12:48:14+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "c988e217f7af9b73be0d2ad961a07c4f97d71b0a",
+      "title": "Cases of flesh-eating screwworm on the rise in Mexico",
+      "link": "https://www.bbc.com/news/articles/cn85e172yxxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The parasites mainly infest cattle but there have also been dozens of cases involving people.",
+      "published": "2025-08-28T12:42:03+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "b6b1ca333ca57496eef3c5f574e3803c853bfbd3",
+      "title": "How a 16-year-old company is easing small businesses into AI",
+      "link": "https://techcrunch.com/2025/08/28/how-a-16-year-old-company-is-easing-small-businesses-into-ai/",
+      "summary": "Whether AI is a bubble or not, it's helping some small businesses save real money. Here's how one has cautiously approached adoption.",
+      "published": "2025-08-28T12:30:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "68b493a43885a1f686a1311da14c71630977799c",
+      "title": "Malaysia Approves Biometric Data Expansion Under National Registration Act",
+      "link": "https://www.lowyat.net/2025/364445/malaysia-approves-biometric-data-expansion-under-national-registration-act/",
+      "summary": "<p>The Malaysian government has approved amendments to the National Registration Act 1959 that will enable broader use of biometric data for identification purposes. The changes, passed in the Dewan Rakyat yesterday through a voice vote, are intended to modernise the country’s security and verification systems. Deputy Home Minister Datuk Seri Dr Shamsul Anuar Nasarah said [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/364445/malaysia-approves-biometric-data-expansion-under-national-registration-act/\">Malaysia Approves Biometric Data Expansion Under National Registration Act</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2025-08-28T12:10:34+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "9d86eb4985ba690d90c211d6ca6d2a63f491ae66",
+      "title": "TransUnion says hackers stole 4.4 million customers’ personal information",
+      "link": "https://techcrunch.com/2025/08/28/transunion-says-hackers-stole-4-4-million-customers-personal-information/",
+      "summary": "The credit reporting giant confirmed unauthorized access to a third-party application storing the personal information of its customers, including Social Security numbers.",
+      "published": "2025-08-28T12:04:57+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "a2a43fb5a114f356ad97218d63c6be9a4c4e546b",
+      "title": "Get ready, EV owners: Here come the dongles",
+      "link": "https://techcrunch.com/2025/08/28/get-ready-ev-owners-here-come-the-dongles/",
+      "summary": "The transition from CCS to NACS will unlock thousands more fast chargers for many EV drivers, but they'll need to know their adapters to get the most out of it.",
+      "published": "2025-08-28T12:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "ee2678e1e7dc2101a317b3be9eba725ad08df5bd",
+      "title": "Israeli strikes kill six Syrian troops, Syria says",
+      "link": "https://www.bbc.com/news/articles/cp37kdjk0n2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military declined to comment on reports of the strikes, which Syria condemned.",
+      "published": "2025-08-28T11:13:26+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "008ee83b389453cf30d82166162e0c111f7ae622",
+      "title": "The personhood trap: How AI fakes human personality",
+      "link": "https://arstechnica.com/information-technology/2025/08/the-personhood-trap-how-ai-fakes-human-personality/",
+      "summary": "AI assistants don't have fixed personalities—just patterns of output guided by humans.",
+      "published": "2025-08-28T11:00:57+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "8daa8de5a6f9351c308629ba6434e9225f555167",
+      "title": "'My friend got hit in the back': Witnesses describe terror of US school shooting",
+      "link": "https://www.bbc.com/news/articles/cev2w1elx7wo?at_medium=RSS&at_campaign=rss",
+      "summary": "One young boy says he was protected from gunfire in a church by a friend who lay on top of him and was shot.",
+      "published": "2025-08-28T10:36:36+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "6c576205c3e10cd63158f62ae2ad7bfd1866ecd9",
+      "title": "More than 10 European startups became unicorns this year",
+      "link": "https://techcrunch.com/2025/08/28/more-than-10-european-startups-became-unicorns-this-year/",
+      "summary": "This is a good indication of the sectors that are hot among investors, from biotech and defense tech to AI, AI, and AI.",
+      "published": "2025-08-28T09:16:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "1eddf6f76978b7bf2697edb7cdba18beee82e398",
+      "title": "Merdeka Promo: EVPower offers 20% bonus EV Charging credit for Wallet Top Up",
+      "link": "https://soyacincau.com/2025/08/28/evpower-ev-charging-credit-20pct-bonus-merdeka-weekend/",
+      "summary": "To celebrate this coming Merdeka celebration, EVPower is having a Bonus Wallet Top Up promo where you can get extra EV charging credits for a limited time. This campaign allows you to stretch your ringgit further and there are no extra codes or vouchers required. EVPower is a Charge Point Operator which has over 60 [&#8230;]",
+      "published": "2025-08-28T08:57:45+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "30f1035314ed1a2912bc25c5e097685127047bbb",
+      "title": "Caning and fines for those caught in Singapore drug vape crackdown",
+      "link": "https://www.bbc.com/news/articles/cz60z98nzx7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A rise in popularity of vapes laced with etomidate, an anaesthetic drug, has caused widespread alarm.",
+      "published": "2025-08-28T08:34:26+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "cc9dd43a864c502b9ca71edca90a8aa9fe4856c0",
+      "title": "FBI investigates Minneapolis school shooting as anti-Catholic hate crime",
+      "link": "https://www.bbc.com/news/articles/c7760x87r4po?at_medium=RSS&at_campaign=rss",
+      "summary": "Two children were killed when an attacker opened fire through the windows of the city's Annunciation Church.",
+      "published": "2025-08-28T08:06:34+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "1b96aaedb8c3aaaccd985c34487482511b8fa05f",
+      "title": "Xi shows Trump who holds the cards as he sets up meeting with Kim and Putin",
+      "link": "https://www.bbc.com/news/articles/cx29z9g2kl2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The leaders of North Korea and Russia will attend China's military parade next week - a win for Xi.",
+      "published": "2025-08-28T07:13:23+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "ac3eae0894f5c416dbcc269c068b62157e37442f",
+      "title": "North Korea's Kim Jong Un to join Putin at China military parade",
+      "link": "https://www.bbc.com/news/articles/c17njr88ge4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The reclusive North Korean leader's attendance at the event comes days after Trump said he wants to meet Kim.",
+      "published": "2025-08-28T05:02:43+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "7d6085a3f391ea7187ba0e3e07671aac61f7ed39",
+      "title": "This is Smart #5: First look at Premium and Brabus variant, coming to Malaysia this October",
+      "link": "https://soyacincau.com/2025/08/28/smart-5-first-look-malaysia-premium-brabus/",
+      "summary": "Yes, Smart #5 may have been previewed at Malaysia Autoshow earlier this year, but my formal introduction to the new electric SUV only took place just earlier this week.  Smart called its most versatile vehicle to date, but from my brief time with two static units at the media preview, I would like to call [&#8230;]",
+      "published": "2025-08-28T05:01:21+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "83af942d25a895bb0cee831b65c80a1a61ca54cb",
+      "title": "Maisa AI gets $25M to fix enterprise AI’s 95% failure rate",
+      "link": "https://techcrunch.com/2025/08/27/maisa-ai-gets-25m-to-fix-enterprise-ais-95-failure-rate/",
+      "summary": "Maisa AI is built on the premise that enterprise automation requires accountable AI agents, not opaque black boxes.",
+      "published": "2025-08-28T05:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "001ecfea76d94963459ab6ff5aedfa225b3d5893",
+      "title": "Autobound for Clay & n8n",
+      "link": "https://www.producthunt.com/posts/autobound-for-clay-n8n",
+      "summary": "<p>\n             The insight engine for your GTM workflows\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/autobound-for-clay-n8n?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1010237?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-28T04:37:20+00:00",
+      "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "sample-deals",
-      "title": "Deals sample",
-      "link": "https://www.lowyat.net/",
-      "summary": "Placeholder \u2014 will be replaced on first run.",
-      "published": "2025-08-29T05:03:12.053884+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
+      "id": "472e7508c82b7175e14501a621ae030dea1a9f8f",
+      "title": "Spain and Portugal wildfires drive worst EU season on record",
+      "link": "https://www.bbc.com/news/articles/cd6n8qqlj8go?at_medium=RSS&at_campaign=rss",
+      "summary": "Wildfires have scorched southern Europe and new research suggests climate change played a major role.",
+      "published": "2025-08-28T03:13:48+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "d1d2b3b505108c911d56e91cdde9860b748c65d9",
+      "title": "Eternal AI",
+      "link": "https://www.producthunt.com/posts/eternal-ai-2",
+      "summary": "<p>\n            Uncensored peer-to-peer AI app\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/eternal-ai-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1010214?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-28T02:52:24+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "43bf776ba777b6e378511e7d793c214f22055664",
+      "title": "NeuralAgent",
+      "link": "https://www.producthunt.com/posts/neuralagent-2",
+      "summary": "<p>\n            The AI Computer Interface\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/neuralagent-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1010213?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-28T02:49:57+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "2b768462cf8340b38216cd742ca9c64c89d6ed60",
+      "title": "Samsung Galaxy Event: New Galaxy Tab S11 and Galaxy S25 FE to launch on 4 September?",
+      "link": "https://soyacincau.com/2025/08/28/samsung-galaxy-event-ifa-galaxy-tab-s11-s25-fe/",
+      "summary": "In conjunction with IFA 2025 in Berlin, Samsung will be unveiling several new Galaxy devices which will serve as a new gateway for Galaxy AI. It&#8217;s happening a week before Apple unveils their latest iPhone 17 lineup. According to the press statement, they are inviting everyone to &#8220;discover a more seamless mobile experience across a [&#8230;]",
+      "published": "2025-08-28T00:48:58+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "2185c9a127c6d938fd3b70a4e1bc293e6eb88815",
+      "title": "With India’s corporate banking lagging decades behind consumer fintech, TransBnk raises $25M to bridge the gap",
+      "link": "https://techcrunch.com/2025/08/27/with-indias-corporate-banking-lagging-decades-behind-consumer-fintech-transbnk-raises-25m-to-bridge-the-gap/",
+      "summary": "Mumbai-based TransBnk offers a foundational layer of microservices, enabling use cases such as treasury, liquidity, and escrow management to be built upon.",
+      "published": "2025-08-28T00:33:43+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "521c22ee72e7337eb6e886b1efc99568e9a2339b",
+      "title": "CDC director has been ousted just weeks after Senate confirmation",
+      "link": "https://arstechnica.com/health/2025/08/report-cdc-director-being-ousted-just-weeks-after-senate-confirmation/",
+      "summary": "Monarez aligned with evidence-based public health community and had support of experts.",
+      "published": "2025-08-28T00:15:38+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "1a59a28baf20f17da7dd84f771e6f9f5015a8b1c",
+      "title": "Qwen Chat",
+      "link": "https://www.producthunt.com/posts/qwen-chat-3",
+      "summary": "<p>\n            Qwen Chat Now Reads Web Pages\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/qwen-chat-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1010163?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-27T21:36:17+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "7eb4ec2f2f1e6b1a186b608479d4aee709877e4c",
+      "title": "Nvidia reports record sales as the AI boom continues",
+      "link": "https://techcrunch.com/2025/08/27/nvidia-reports-record-sales-as-the-ai-boom-continues/",
+      "summary": "Nvidia's revenue hit $46.7 billion in the second quarter, a 56% increase compared to the same period last year.",
+      "published": "2025-08-27T21:18:39+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "ce5658dbb8ffeee7f1fef568ab90e214e94dca24",
+      "title": "CDC slashed food safety surveillance, now tracks only 2 of 8 top infections",
+      "link": "https://arstechnica.com/health/2025/08/cdc-stopped-actively-tracking-6-foodborne-infections-amid-budget-cuts/",
+      "summary": "\"If you want to make foodborne disease go away, then don’t look for foodborne disease.\"",
+      "published": "2025-08-27T20:32:43+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "214f0ea4c17a56144ed49ab18403f51c3a515eef",
+      "title": "apiJuice",
+      "link": "https://www.producthunt.com/posts/apijuice",
+      "summary": "<p>\n            Create a hosted API for anything in seconds\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/apijuice?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1010146?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-27T19:57:21+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "f325726e7f8f6f76b6ee8ef498d04c2b6f5d613d",
+      "title": "Russian space official: “We need to stop lying to ourselves” about health of industry",
+      "link": "https://arstechnica.com/space/2025/08/russias-state-run-human-spaceflight-company-may-be-near-bankruptcy/",
+      "summary": "\"A significant part of the team has lost motivation and a sense of shared responsibility.\"",
+      "published": "2025-08-27T19:54:54+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "21661502b8c9eee5e3187270f066e57906627610",
+      "title": "Judge unhappy with FCC’s “vague and uninformative” response to DOGE lawsuit",
+      "link": "https://arstechnica.com/tech-policy/2025/08/judge-unhappy-with-fccs-vague-and-uninformative-response-to-doge-lawsuit/",
+      "summary": "Plaintiffs seek DOGE documents, allege FCC violated Freedom of Information Act.",
+      "published": "2025-08-27T19:09:55+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "a65913ab5c3aeca1c071736295e73239fa4f5b69",
+      "title": "Painting looted by Nazis has vanished again, say Argentine police",
+      "link": "https://www.bbc.com/news/articles/cn84mld1gr9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutor says painting no longer at Buenos Aires home featured in estate agent's advert.",
+      "published": "2025-08-27T16:50:16+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "91078e15ebb809afee433ac222eb2b4ee9a44d41",
+      "title": "Intel details everything that could go wrong with US taking a 10% stake",
+      "link": "https://arstechnica.com/tech-policy/2025/08/intel-details-everything-that-could-go-wrong-with-us-taking-a-10-stake/",
+      "summary": "Intel warns investors to brace for losses and uncertainties.",
+      "published": "2025-08-27T16:41:58+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "968b0fbf709c06c926ee5843f08ed76352cb473d",
+      "title": "Anthropic’s auto-clicking AI Chrome extension raises browser-hijacking concerns",
+      "link": "https://arstechnica.com/information-technology/2025/08/new-ai-browser-agents-create-risks-if-sites-hijack-them-with-hidden-instructions/",
+      "summary": "Malicious websites can embed invisible commands that AI agents will follow blindly.",
+      "published": "2025-08-27T16:17:29+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "cbaffa2909202386c3f40e6d3c736eff2aa60f8d",
+      "title": "Chris Roberts hopes Squadron 42 will be “almost as big” as GTA VI next year",
+      "link": "https://arstechnica.com/gaming/2025/08/chris-roberts-hopes-squadron-42-will-be-almost-as-big-as-gta-vi-next-year/",
+      "summary": "French report also suggests <em>Star Citizen</em> might hit 1.0 release in \"2027 or 2028.\"",
+      "published": "2025-08-27T16:05:00+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "e1f687bfe53807d312a7615bed8e2317a8c91151",
+      "title": "iCaur 03 EV to launch in Malaysia on 9 Sept: Two variants, estimated price starts from RM145k",
+      "link": "https://soyacincau.com/2025/08/27/icaur-03-malaysia-launch-9-sept/",
+      "summary": "After months of non-stop teasers since Malaysia Autoshow 2025, iCaur has finally revealed the launch date for the iCaur 03 electric SUV in Malaysia. The revelation took place right at the opening ceremony of iCaur’s first dealership in the world, the iCaur Glenmarie in Shah Alam. iCaur 03 Malaysia Estimated Pricing As per the company’s [&#8230;]",
+      "published": "2025-08-27T15:53:57+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "d22a61e69f1a0b4c5219596db5bb16df6fc35d3b",
+      "title": "Under pressure after setbacks, SpaceX’s huge rocket finally goes the distance",
+      "link": "https://arstechnica.com/space/2025/08/spacex-bounces-back-with-a-starship-test-flight-that-ended-on-a-buoyant-note/",
+      "summary": "This was the first successful flight of SpaceX's second-generation Starship after three failures.",
+      "published": "2025-08-27T14:48:05+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "dccdc017759f48a7165ec114d165c9c65bfdee9a",
+      "title": "The first stars may not have been as uniformly massive as we thought",
+      "link": "https://arstechnica.com/science/2025/08/the-first-stars-may-not-have-been-as-uniformly-massive-as-we-thought/",
+      "summary": "Collapsing gas clouds in the early universe may have formed lower-mass stars as well.",
+      "published": "2025-08-27T14:16:33+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "940f4aafcbab1519792aed428059061d00621b83",
+      "title": "ManabiDojo",
+      "link": "https://www.producthunt.com/posts/manabidojo",
+      "summary": "<p>\n            Learn Japanese with Anime\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/manabidojo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1009974?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-27T10:51:54+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "6698fbc0b6d8c157172635f32f028e7cc2b7b2c5",
+      "title": "Samsung Galaxy Tab S10 Lite unveiled, available starting 19 September in Malaysia – 10.9″ LCD, 8,000mAh battery, S Pen included",
+      "link": "https://soyacincau.com/2025/08/27/samsung-galaxy-tab-s10-lite-malaysia-specs-price-launch-date/",
+      "summary": "Samsung has just unveiled to the world its latest mid-range tablet, the Samsung Galaxy Tab S10 Lite. Yet to be officially launched, the tablet is said to be available starting 19th September 2025. Galaxy Tab S10 Lite specs and features Offered in three colour options — Gray, Silver, and Coralred, the Samsung Galaxy Tab S10 [&#8230;]",
+      "published": "2025-08-27T06:04:46+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "5ef33bb9fff03dd77bb7db2b8431f34d2d53704a",
+      "title": "Malaysian MSMEs see 130% sales boost through TikTok Shop’s #JomLokal",
+      "link": "https://soyacincau.com/2025/08/27/malaysian-msme-see-130-sales-boost-through-tiktok-shops-jom-lokal/",
+      "summary": "TikTok Shop says its always-on #JomLokal programme has driven over 130% year-on-year uplift in sales of Malaysian homegrown products and MSMEs, supported by multi-million-ringgit funding in platform exposure, vouchers, and marketing resources since 2023. The company frames the initiative as an ongoing effort to empower Malaysian small businesses rather than a one-off sales push, pointing [&#8230;]",
+      "published": "2025-08-27T05:58:18+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "2354800ea8333997d1e15fc0ba543c248ea0d98c",
+      "title": "Stratify AI",
+      "link": "https://www.producthunt.com/posts/stratify-ai-2",
+      "summary": "<p>\n            Get user feedback in hours, not weeks\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/stratify-ai-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1009813?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-27T01:40:18+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "9a503d90517d28021d1baf1b203e2c210da21a95",
+      "title": "Tot 2.0",
+      "link": "https://www.producthunt.com/posts/tot-2-0",
+      "summary": "<p>\n            Your tiny text companion, now mightier\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/tot-2-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1009754?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-26T20:02:15+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "ff7eb17946b8d9e7e25f3bccfdfaa115a507bdf6",
+      "title": "Dreambase.ai",
+      "link": "https://www.producthunt.com/posts/dreambase-ai",
+      "summary": "<p>\n            Fully integrated analytics from Supabase. Free to use.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/dreambase-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1009745?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-26T19:18:35+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "d7ab3b64301f5fe8d536ffde740ec990eb46a626",
+      "title": "Rube",
+      "link": "https://www.producthunt.com/posts/rube",
+      "summary": "<p>\n            Let your AI actually get things done for you\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/rube?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1009645?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-26T13:28:43+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "48bc617e1288f75945a7b11221d2b6d345c0a8ea",
+      "title": "Conductor",
+      "link": "https://www.producthunt.com/posts/conductor-b15c0e1e-ebd2-441d-a8e2-17003b39744a",
+      "summary": "<p>\n            Run a bunch of Claude Codes in parallel\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/conductor-b15c0e1e-ebd2-441d-a8e2-17003b39744a?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1009465?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-26T04:13:56+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "9341570b9b686ee94f1104fb2a186ef977c00099",
+      "title": "Macrowave",
+      "link": "https://www.producthunt.com/posts/macrowave",
+      "summary": "<p>\n            Turn Your Mac into a private radio station\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/macrowave?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1009089?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-25T05:40:21+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "405ce6386e26002501ee0b3abc7a4722f8f2791f",
+      "title": "Roark",
+      "link": "https://www.producthunt.com/posts/roark",
+      "summary": "<p>\n            Test, monitor, and improve your voice agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/roark?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1008398?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-22T16:18:39+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "88939a99015f966b738533f0f672c3f87487604c",
+      "title": "Marblism",
+      "link": "https://www.producthunt.com/posts/marblism",
+      "summary": "<p>\n            AI Employees to scale your business\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/marblism?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1002856?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-07T17:49:49+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "6e5459e49254ffca37d1ed45ad2873438ec544bd",
+      "title": "First Answer",
+      "link": "https://www.producthunt.com/posts/first-answer-2",
+      "summary": "<p>\n            Monitor & improve your AI presence\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/first-answer-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1002548?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-06T23:05:24+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "f5c90c6fe4f6886709e8da6b28b13a38e1693984",
+      "title": "Trace",
+      "link": "https://www.producthunt.com/posts/trace-3a93e722-d239-46c8-84b1-db425b2445bf",
+      "summary": "<p>\n            Ultra-fast AI Calendar for people who hate planning\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/trace-3a93e722-d239-46c8-84b1-db425b2445bf?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1001664?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-05T02:20:47+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "ea89e4f3147a19f7040d63889d755d9e7f6fea47",
+      "title": "KomikoAI Video to Video",
+      "link": "https://www.producthunt.com/posts/komikoai-video-to-video",
+      "summary": "<p>\n            Make your videos pop with anime, cyborg, fire styles & more\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/komikoai-video-to-video?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1001073?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-03T13:04:09+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "8d2feadd2cd49dcc9bb747397a24016800a8da75",
+      "title": "HiveMind",
+      "link": "https://www.producthunt.com/posts/hivemind-895dfc33-60f8-4473-afa2-33278cf3ee28",
+      "summary": "<p>\n            Skill-based hiring on autopilot\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/hivemind-895dfc33-60f8-4473-afa2-33278cf3ee28?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1000578?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-02T04:59:26+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "48e97585ab4ccec94c26a09224ac017607d34158",
+      "title": "SongBoard",
+      "link": "https://www.producthunt.com/posts/songboard",
+      "summary": "<p>\n            DJ Event Planning Portal\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/songboard?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/998721?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-07-28T15:01:01+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "92aff705ffe80f4fcbe0a2fb32ba1f805bb63d8e",
+      "title": "Air MCP",
+      "link": "https://www.producthunt.com/posts/air-mcp",
+      "summary": "<p>\n            Tool For All AI Integrations, let AI use your apps\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/air-mcp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/989363?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-07-07T08:55:51+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     }
   ]
 }
