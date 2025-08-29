@@ -1,1 +1,1 @@
-function __toggleTheme(){document.body.classList.toggle('light');}
+(function(){try{const r=document.documentElement;const s=localStorage.getItem('theme');const p=window.matchMedia('(prefers-color-scheme: light)').matches;if(s==='light'||(!s&&p))r.classList.add('light');window.__toggleTheme=function(){r.classList.toggle('light');localStorage.setItem('theme',r.classList.contains('light')?'light':'dark');};}catch(e){}})();

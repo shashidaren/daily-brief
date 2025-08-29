@@ -1,0 +1,10 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>Tech Stocks</title><link rel="stylesheet" href="../assets/theme.css"/><script defer src="../assets/theme.js"></script></head><body>
+<header class="header"><div class="container row"><div class="brand"><img src="../assets/logo.svg"/><span class="title">Tech Stocks</span></div><nav class="nav"><a href="../index.html">News</a><a href="index.html">Tools</a><a href="../useful/index.html">Useful</a><button class="btn" onclick="__toggleTheme()">Theme</button></nav></div></header>
+<main class="container" style="padding:16px 0"><div class="row"><div id="updated" class="meta">Updated: —</div></div>
+<table id="tbl" style="width:100%;border-collapse:collapse"><thead><tr><th>Ticker</th><th>Name</th><th>Price</th><th>Change</th><th>%</th><th>Market</th></tr></thead><tbody></tbody></table>
+<script>
+async function loadData(){const r=await fetch('../markets/markets.json?cb='+Date.now());if(!r.ok) throw new Error('markets.json missing');return r.json();}
+function fmt(n){return Number(n).toLocaleString(undefined,{maximumFractionDigits:2});}
+function render(d){document.getElementById('updated').textContent='Updated: '+new Date(d.generatedAt).toLocaleString();const tb=document.querySelector('#tbl tbody');tb.innerHTML='';(d.items||[]).forEach(it=>{const ch=Number(it.change||0),pct=Number(it.percent||0);const tr=document.createElement('tr');tr.innerHTML=`<td><a href="https://finance.yahoo.com/quote/${it.ticker}" target="_blank" rel="noopener">${it.ticker}</a></td><td>${it.name||''}</td><td>${fmt(it.price)}</td><td class="${ch>=0?'chg-pos':'chg-neg'}">${ch>=0?'+':''}${fmt(ch)}</td><td class="${pct>=0?'chg-pos':'chg-neg'}">${pct>=0?'+':''}${fmt(pct)}%</td><td class="meta">${it.exchange||''}</td>`;tb.appendChild(tr);});}
+(async()=>{try{const d=await loadData();render(d);}catch(e){document.querySelector('#tbl tbody').innerHTML='<tr><td colspan="6">Run Fetch Markets workflow to populate data.</td></tr>';}})();
+</script></main></body></html>
