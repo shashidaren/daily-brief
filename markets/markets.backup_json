@@ -1,0 +1,194 @@
+{
+  "generatedAt": "2025-08-30T03:07:00.260635+00:00",
+  "items": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corp.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "IBM",
+      "name": "IBM",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corp.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "MAYBANK.KL",
+      "name": "Malayan Banking (Maybank)",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "CIMB.KL",
+      "name": "CIMB Group",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "TENAGA.KL",
+      "name": "Tenaga Nasional",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "PETDAG.KL",
+      "name": "Petronas Dagangan",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "TOPGLOV.KL",
+      "name": "Top Glove",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "GENTING.KL",
+      "name": "Genting Bhd",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "AXIATA.KL",
+      "name": "Axiata Group",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "DIGI.KL",
+      "name": "Digi.Com Bhd",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "XAUUSD=X",
+      "name": "Gold Spot USD",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "XAGUSD=X",
+      "name": "Silver Spot USD",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    }
+  ]
+}
