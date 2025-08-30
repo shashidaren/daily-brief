@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 import yfinance as yf
 
 TECH = [("AAPL","Apple Inc."),("MSFT","Microsoft Corp."),("GOOGL","Alphabet Inc."),("AMZN","Amazon.com, Inc."),("NVDA","NVIDIA Corp."),("META","Meta Platforms"),("TSLA","Tesla, Inc."),("AMD","Advanced Micro Devices"),("ORCL","Oracle Corp."),("IBM","IBM"),("INTC","Intel Corp.")]
-MYX = [("MAYBANK.KL","Malayan Banking (Maybank)"),("CIMB.KL","CIMB Group"),("TENAGA.KL","Tenaga Nasional"),("PETDAG.KL","Petronas Dagangan"),("TOPGLOV.KL","Top Glove"),("GENTING.KL","Genting Bhd"),("AXIATA.KL","Axiata Group"),("DIGI.KL","Digi.Com Bhd")]
+MYX = [("1155K.KL","Malayan Banking (Maybank)"),("1023.KL","CIMB Group"),("5347.KL","Tenaga Nasional"),("5681.KL","Petronas Dagangan"),("7113.KL","Top Glove"),("3182.KL","Genting Bhd"),("6888.KL","Axiata Group"),("6947.KL","Digi.Com Bhd")]
 METALS = [("XAUUSD=X","Gold Spot USD"),("XAGUSD=X","Silver Spot USD")]
 TICKERS = TECH + MYX + METALS
 
