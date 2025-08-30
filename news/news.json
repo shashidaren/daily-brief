@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2025-08-30T21:11:05.450695+00:00",
+  "generatedAt": "2025-08-30T22:12:07.718768+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "0ab319dbd7d9e748d4455c3becf3232518e2c887",
+      "title": "Verizon&#8217;s &#8216;software issue&#8217; has disconnected many wireless customers across the US",
+      "link": "https://www.theverge.com/verizon/768450/verizon-is-down-outage-network-software-issue",
+      "summary": "Verizon has confirmed to customers in stores and online that its network is having an issue on Saturday. Many people have been unable to connect and make or receive calls for hours, while DownDetector&#8217;s tracker peaked in the afternoon at around 3:30PM ET with more than 20,000 reports. Some customers report their service has continued [&#8230;]",
+      "published": "2025-08-30T21:54:13+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "8c5b103f3941c39441c8251a0dd38c7d2c3f1e04",
+      "title": "Nvidia says two mystery customers accounted for 39% of Q2 revenue",
+      "link": "https://techcrunch.com/2025/08/30/nvidia-says-two-mystery-customers-accounted-for-39-of-q2-revenue/",
+      "summary": "Nearly 40% of Nvidia’s second quarter revenue came from just two companies, identified in a filing as \"Customer A\" and \"Customer B.\"",
+      "published": "2025-08-30T21:40:49+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "98919b0f54ab5715bb52e31db3d5230786696715",
+      "title": "How Turkmenistan turned censorship into a lucrative extortion scheme by intentionally restricting internet access in order to sell its own VPNs to citizens (Tor Blog)",
+      "link": "http://www.techmeme.com/250830/p12#a250830p12",
+      "summary": "<a href=\"https://blog.torproject.org/Corruption-Control-Turkmenistan-internet-censorship-business/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250830/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250830/p12#a250830p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://blog.torproject.org/\">Tor Blog</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://blog.torproject.org/Corruption-Control-Turkmenistan-internet-censorship-business/\">How Turkmenistan turned censorship into a lucrative extortion scheme by intentionally restricting internet access in order to sell its own VPNs to citizens</a></b></span>&nbsp; &mdash;&nbsp; In July 2021, a sudden drop in Tor usage in Turkmenistan called our attention.&nbsp; Tor would come to understand that this marked &hellip; </p>",
+      "published": "2025-08-30T21:40:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
     {
       "id": "330584e0111c0e25314cfc73a1166e8cb2a5c685",
       "title": "Houthis confirm their prime minister killed in Israeli strike",
@@ -743,15 +770,6 @@
       "category": "deals"
     },
     {
-      "id": "de2c9064c44e78e7af7f30e91c148c00ee2fe97e",
-      "title": "Top 100 AI consumer apps: Gemini ranks #2 behind ChatGPT on mobile with ~50% of its MAUs, with Grok at #4; on the web, Gemini has ~12% of ChatGPT's visits (Andreessen Horowitz)",
-      "link": "http://www.techmeme.com/250829/p32#a250829p32",
-      "summary": "<a href=\"https://a16z.com/100-gen-ai-apps-5/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250829/i32.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250829/p32#a250829p32\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://a16z.com/\">Andreessen Horowitz</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://a16z.com/100-gen-ai-apps-5/\">Top 100 AI consumer apps: Gemini ranks #2 behind ChatGPT on mobile with ~50% of its MAUs, with Grok at #4; on the web, Gemini has ~12% of ChatGPT's visits</a></b></span>&nbsp; &mdash;&nbsp; 5th edition&nbsp; &mdash;&nbsp; This is the fifth edition of our Top 100 Gen AI Consumer Apps which reflects two and a half years of data on how everyday AI usage is evolving.</p>",
-      "published": "2025-08-29T22:15:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "36c541c0e5a84d4afe895d9e30c9890137f02d53",
       "title": "Lindy Build",
       "link": "https://www.producthunt.com/posts/lindy-build",
@@ -1085,15 +1103,6 @@
       "category": "tech"
     },
     {
-      "id": "922629e558d35fed4748c9925355dbb0e3c9f7fc",
-      "title": "Framework actually did it: I upgraded a laptop’s entire GPU in just three minutes",
-      "link": "https://www.theverge.com/report/768083/framework-actually-did-it-i-upgraded-a-laptops-entire-gpu-in-just-three-minutes",
-      "summary": "On Tuesday, I told you how the modular computer company Framework was finally fulfilling its promise of the \"holy grail for gamers\" - a laptop with modular, swappable discrete graphics cards so easy to swap, practically anyone can do it at home. The first futureproof gaming laptop, perhaps? Today, I can confirm the system actually [&#8230;]",
-      "published": "2025-08-29T16:09:02+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "4c9fb0b8872b541a40a3b8e798ee789e0f17b0df",
       "title": "Mastodon says it doesn’t ‘have the means’ to comply with age verification laws",
       "link": "https://techcrunch.com/2025/08/29/mastodon-says-it-doesnt-have-the-means-to-comply-with-age-verification-laws/",
@@ -1388,15 +1397,6 @@
       "summary": "TV static and remote included.",
       "published": "2025-08-28T21:29:47+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "86e686003a1b86f764dff11a731b38a071239a93",
-      "title": "Anthropic users face a new choice – opt out or share your chats for AI training",
-      "link": "https://techcrunch.com/2025/08/28/anthropic-users-face-a-new-choice-opt-out-or-share-your-data-for-ai-training/",
-      "summary": "Anthropic is making some major changes to how it handles user data. Users have until September 28 to take action.",
-      "published": "2025-08-28T20:43:12+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
