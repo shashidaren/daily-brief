@@ -1,116 +1,194 @@
-import axios from "axios";
-import fs from "fs/promises";
-
-type Quote = {
-  ticker: string;
-  name?: string;
-  price?: number | null;
-  change?: number | null;
-  percent?: number | null;
-  exchange?: string | null;
-  error?: string | null;
-};
-
-async function fetchJson(url: string, opts: any = {}): Promise<any> {
-  try {
-    const res = await axios.get(url, { timeout: 8000, ...opts, validateStatus: () => true });
-    const ct = String(res.headers["content-type"] || "");
-    if (res.status < 200 || res.status >= 300) {
-      throw new Error(`HTTP ${res.status} ${res.statusText || ""}`.trim());
+{
+  "generatedAt": "2025-08-30T18:24:20.310367+00:00",
+  "items": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corp.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "IBM",
+      "name": "IBM",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corp.",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "1155K.KL",
+      "name": "Malayan Banking (Maybank)",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "1023.KL",
+      "name": "CIMB Group",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "5347.KL",
+      "name": "Tenaga Nasional",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "5681.KL",
+      "name": "Petronas Dagangan",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "7113.KL",
+      "name": "Top Glove",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "3182.KL",
+      "name": "Genting Bhd",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "6888.KL",
+      "name": "Axiata Group",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "6947.KL",
+      "name": "Digi.Com Bhd",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "XAUUSD=X",
+      "name": "Gold Spot USD",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ticker": "XAGUSD=X",
+      "name": "Silver Spot USD",
+      "price": 0,
+      "change": 0,
+      "percent": 0,
+      "exchange": "N/A",
+      "error": "Expecting value: line 1 column 1 (char 0)"
     }
-    if (!ct.includes("application/json")) {
-      // Try to parse anyway; if fails, surface the body head as hint
-      try {
-        return JSON.parse(res.data);
-      } catch {
-        const preview = typeof res.data === "string" ? res.data.slice(0, 200) : "";
-        throw new Error(`Non-JSON response. Content-Type=${ct}. Preview=${preview}`);
-      }
-    }
-    return res.data;
-  } catch (e: any) {
-    // Normalize known axios/network errors
-    if (e.code === "ECONNABORTED") throw new Error("Timeout while fetching API");
-    if (e.response) throw new Error(`HTTP ${e.response.status}: ${e.response.statusText}`);
-    throw new Error(e.message || "Unknown fetch error");
-  }
+  ]
 }
-
-function safeNumber(v: any): number | null {
-  const n = Number(v);
-  return Number.isFinite(n) ? n : null;
-}
-
-function buildErrorQuote(ticker: string, name?: string, err?: string): Quote {
-  return {
-    ticker,
-    name,
-    price: null,
-    change: null,
-    percent: null,
-    exchange: null,
-    error: err || "Unknown error",
-  };
-}
-
-async function fetchQuoteFromYourAPI(ticker: string): Promise<Quote> {
-  // Replace the URL below with your real source.
-  const url = `https://your-prices-endpoint.example.com/quote?t=${encodeURIComponent(ticker)}`;
-
-  try {
-    const data = await fetchJson(url);
-
-    // Validate schema before reading values
-    if (!data || typeof data !== "object") {
-      return buildErrorQuote(ticker, undefined, "Empty or non-object JSON");
-    }
-
-    // Map fields carefully; adjust keys to your API
-    const price = safeNumber(data.price || data.regularMarketPrice);
-    const change = safeNumber(data.change || data.regularMarketChange);
-    const percent = safeNumber(
-      data.percent || data.regularMarketChangePercent || (price && change ? (change / (price - change)) * 100 : null)
-    );
-    const exchange = data.exchange || data.fullExchangeName || null;
-    const name = data.name || data.shortName || data.longName || ticker;
-
-    if (price == null) {
-      return buildErrorQuote(ticker, name, "Missing price in API response");
-    }
-
-    return { ticker, name, price, change: change ?? null, percent: percent ?? null, exchange, error: null };
-  } catch (err: any) {
-    return buildErrorQuote(ticker, undefined, err?.message || String(err));
-  }
-}
-
-async function main() {
-  const tickers = [
-    "AAPL","MSFT","GOOGL","AMZN","NVDA","META","TSLA","AMD","ORCL","IBM","INTC",
-    "MAYBANK.KL","CIMB.KL","TENAGA.KL","PETDAG.KL","TOPGLOV.KL","GENTING.KL","AXIATA.KL","DIGI.KL",
-    "XAUUSD=X","XAGUSD=X"
-  ];
-
-  // Stagger to avoid rate limits
-  const delay = (ms: number) => new Promise(res => setTimeout(res, ms));
-  const results: Quote[] = [];
-  for (const t of tickers) {
-    const q = await fetchQuoteFromYourAPI(t);
-    results.push(q);
-    await delay(250); // tune for your provider’s rate limits
-  }
-
-  const payload = {
-    generatedAt: new Date().toISOString(),
-    items: results,
-  };
-
-  // IMPORTANT: do not write zeros; keep nulls or errors
-  await fs.writeFile("markets.json", JSON.stringify(payload, null, 2));
-  console.log("markets.json updated");
-}
-
-main().catch(e => {
-  console.error("Fatal:", e);
-  process.exit(1);
-});
