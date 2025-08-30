@@ -1,9 +1,81 @@
 {
-  "generatedAt": "2025-08-30T16:14:34.645797+00:00",
+  "generatedAt": "2025-08-30T17:10:14.761888+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "5a25e21d426ae3a7974689ddc2a0d9cea9ebaf2e",
+      "title": "No, a Windows update probably didn’t brick your SSD",
+      "link": "https://www.theverge.com/news/768431/windows-update-didnt-brick-your-ssd",
+      "summary": "For the last week or two, reports have been circulating that recent Windows 11 updates (specifically KB5063878 and KB5062660) were causing some SSDs using Phison controllers to fail. Tech influencers on YouTube and TikTok were quick to jump on the reports of corrupted data and disappearing drives, laying the blame squarely at Microsoft’s feet. We’re [&#8230;]",
+      "published": "2025-08-30T16:57:19+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "44ebc3ab3f77fc018c264765bb10cb038925ef36",
+      "title": "Taco Bell is having second thoughts about relying on AI at the drive-through",
+      "link": "https://techcrunch.com/2025/08/30/taco-bell-is-having-second-thoughts-about-relying-on-ai-at-the-drive-through/",
+      "summary": "Taco Bell has apparently rolled out voice AI-powered ordering at more than 500 drive-throughs, leading to unflattering viral moments like someone ordering 18,000 water cups in order to “bypass” the AI and get connected to a human server.",
+      "published": "2025-08-30T16:50:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "d21e8c5683ac485fd5a46463e106ebbca3391de8",
+      "title": "Prominent Ukrainian politician Andriy Parubiy shot dead in Lviv",
+      "link": "https://www.bbc.com/news/articles/cjw6ep37469o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Zelensky said the killing of Parubiy was a \"terrible murder\" - with a manhunt under way.",
+      "published": "2025-08-30T16:41:58+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "e24a47f61b8dab6a82f421058e261766158017b7",
+      "title": "Merz promises debt relief for municipalities ahead of electoral test",
+      "link": "https://www.thestar.com.my/news/world/2025/08/31/merz-promises-debt-relief-for-municipalities-ahead-of-electoral-test",
+      "summary": "BONN, Germany (Reuters) -Germany's federal government will begin helping municipalities to pay down old debts from January 1, 2026, Chancellor Friedrich Merz said on Saturday, two weeks before his government faces its first electoral test since taking office. <a href=\"https://www.thestar.com.my/news/world/2025/08/31/merz-promises-debt-relief-for-municipalities-ahead-of-electoral-test\">Read full story</a>",
+      "published": "2025-08-30T16:38:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "9f6c8674b0058217facbafc03d1fcdb6d76992d2",
+      "title": "The fall of EV startup Fisker: A comprehensive timeline",
+      "link": "https://techcrunch.com/2025/08/30/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/",
+      "summary": "Here is a timeline of the events that led fledgling automaker Fisker to file for bankruptcy.",
+      "published": "2025-08-30T16:34:12+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "7494d82b4dea4ef7e98ce4faedc66a2b86776737",
+      "title": "Houthis confirm their prime minister killed in Israeli strikes",
+      "link": "https://www.bbc.com/news/articles/c620ykrxedwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ahmed Ghaleb Nasser al-Rahawi and several others were killed earlier this week, the Iran-backed movement says.",
+      "published": "2025-08-30T16:30:55+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "bb78a585c43eb3761bc5e0814019b5cf1047eb43",
+      "title": "TikTok suspends its live feature for the \"next few days\" in Indonesia, citing \"increasing violence in protests\" over lawmakers' pay (Stefanno Sulaiman/Reuters)",
+      "link": "http://www.techmeme.com/250830/p9#a250830p9",
+      "summary": "<a href=\"https://www.reuters.com/world/asia-pacific/bytedances-tiktok-temporarily-suspends-live-feature-indonesia-following-protests-2025-08-30/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250830/i9.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250830/p9#a250830p9\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Stefanno Sulaiman / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/asia-pacific/bytedances-tiktok-temporarily-suspends-live-feature-indonesia-following-protests-2025-08-30/\">TikTok suspends its live feature for the &ldquo;next few days&rdquo; in Indonesia, citing &ldquo;increasing violence in protests&rdquo; over lawmakers' pay</a></b></span>&nbsp; &mdash;&nbsp; ByteDance's TikTok has suspended its live feature for the &ldquo;next few days&rdquo; in Indonesia following protests in the country, its spokesperson said in a statement on Saturday.</p>",
+      "published": "2025-08-30T16:30:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "702a72b22dd848c9e05b1a449ed5ee98f3c38847",
+      "title": "EU to work on using frozen Russian assets to aid Ukraine after war",
+      "link": "https://www.thestar.com.my/news/world/2025/08/31/eu-to-work-on-using-frozen-russian-assets-to-aid-ukraine-after-war",
+      "summary": "COPENHAGEN (Reuters) -The European Union will examine how to use frozen Russian assets to fund Ukraine's defence and reconstruction after the war but confiscating them now is not politically realistic, EU foreign policy chief Kaja Kallas said on Saturday. <a href=\"https://www.thestar.com.my/news/world/2025/08/31/eu-to-work-on-using-frozen-russian-assets-to-aid-ukraine-after-war\">Read full story</a>",
+      "published": "2025-08-30T16:18:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
     {
       "id": "c4b8bba62f39aab63b6b2e3dedafa0f8ea0c9b10",
       "title": "Pentarama Merdeka@HOHO tour performance captivates early arrivals in Putrajaya for National Day",
@@ -28,15 +100,6 @@
       "link": "https://www.bbc.com/news/articles/c4g614x9kqko?at_medium=RSS&at_campaign=rss",
       "summary": "Russia hits 14 Ukrainian regions, Kyiv says, with at least one person reported killed and 30 injured.",
       "published": "2025-08-30T15:37:54+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "d21e8c5683ac485fd5a46463e106ebbca3391de8",
-      "title": "Prominent Ukrainian politician Andriy Parubiy shot dead in Lviv",
-      "link": "https://www.bbc.com/news/articles/cjw6ep37469o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Zelensky said the killing of Parubiy was a \"terrible murder\" - with a manhunt under way.",
-      "published": "2025-08-30T15:18:38+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -109,24 +172,6 @@
       "link": "https://www.thestar.com.my/news/2025/08/30/gig-workers-bill-a-gift-to-gig-industry-workers-says-anwar",
       "summary": "KUALA LUMPUR: Datuk Seri Anwar Ibrahim describes the Gig Workers Bill 2025, passed in the Dewan Rakyat on Thursday (Aug 28), as a significant gift for youth and all Malaysians involved in the gig sector. <a href=\"https://www.thestar.com.my/news/2025/08/30/gig-workers-bill-a-gift-to-gig-industry-workers-says-anwar\">Read full story</a>",
       "published": "2025-08-30T14:34:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "b5a9385ddc6160176cb49a50583eb37e732373ac",
-      "title": "Germany&#039;s Merz: Ukraine allies must ensure Russia can no longer economically wage war",
-      "link": "https://www.thestar.com.my/news/world/2025/08/30/germany039s-merz-ukraine-allies-must-ensure-russia-can-no-longer-economically-wage-war",
-      "summary": "BERLIN (Reuters) -German Chancellor Friedrich Merz said on Saturday he expected that Russia would only stop its war against Ukraine once it could no longer wage it for economic and military reasons, given that diplomatic efforts in recent weeks had failed. <a href=\"https://www.thestar.com.my/news/world/2025/08/30/germany039s-merz-ukraine-allies-must-ensure-russia-can-no-longer-economically-wage-war\">Read full story</a>",
-      "published": "2025-08-30T14:25:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "d177f426e94374363cf80bc8409ef176176ec743",
-      "title": "Orang Asli woman killed as lorry veers off road, crashes into stall near Simpang Pulai",
-      "link": "https://www.thestar.com.my/news/nation/2025/08/30/orang-asli-woman-killed-as-lorry-veers-off-road-crashes-into-stall-near-simpang-pulai",
-      "summary": "IPOH: An Orang Asli woman died after being crushed under a lorry that veered off the road and crashed into a stall on Jalan Simpang Pulai-Cameron Highlands at Jalan Kampung Pos Slim, near Simpang Pulai, on Saturday (Aug 30). <a href=\"https://www.thestar.com.my/news/nation/2025/08/30/orang-asli-woman-killed-as-lorry-veers-off-road-crashes-into-stall-near-simpang-pulai\">Read full story</a>",
-      "published": "2025-08-30T14:13:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
     },
@@ -797,15 +842,6 @@
       "category": "deals"
     },
     {
-      "id": "a71ae82636c643f605bdefae8ac7c91a1f32fbe6",
-      "title": "The FCC rejects a proposal by broadcasters and others to impose cable-style regulatory fees on streaming services, tech companies, and pure broadband providers (Matthew Keys/TheDesk.net)",
-      "link": "http://www.techmeme.com/250829/p29#a250829p29",
-      "summary": "<a href=\"https://thedesk.net/2025/08/fcc-no-broadband-fees-nab/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250829/i29.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250829/p29#a250829p29\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Matthew Keys / <a href=\"https://thedesk.net/\">TheDesk.net</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://thedesk.net/2025/08/fcc-no-broadband-fees-nab/\">The FCC rejects a proposal by broadcasters and others to impose cable-style regulatory fees on streaming services, tech companies, and pure broadband providers</a></b></span>&nbsp; &mdash;&nbsp; The FCC says it doesn't have the budget or the manpower to enforce new regulatory fees on other sectors.&nbsp; &mdash;&nbsp; Key Points:</p>",
-      "published": "2025-08-29T19:55:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "d638fb3d2a357c46fdff2cea3285cb7d2c3db643",
       "title": "TikTok is now letting everyone DM each other with voice memos and pictures",
       "link": "https://www.theverge.com/news/768245/tiktok-is-now-letting-everyone-dm-each-other-with-voice-memos-and-pictures",
@@ -1076,15 +1112,6 @@
       "category": "tech"
     },
     {
-      "id": "fd91119190f275ba33f6dac80909e1acecb2d85d",
-      "title": "Tesla asks court to toss wrongful death verdict that cost it $243 million",
-      "link": "https://www.theverge.com/news/768068/tesla-wrongful-death-verdict-court-toss",
-      "summary": "Lawyers for Tesla filed a motion in court Friday to throw out a jury verdict that found the company’s Autopilot software had contributed to the death of a woman in a crash from 2019. Earlier this month, a jury found Tesla partially responsible for the death of 22-year-old Naibel Benavides, who was killed by a [&#8230;]",
-      "published": "2025-08-29T15:32:56+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "346445104a21d6f934e4f3b413a2bba6a6b4e992",
       "title": "Today’s game consoles are historically overpriced",
       "link": "https://arstechnica.com/gaming/2025/08/todays-game-consoles-are-historically-overpriced/",
@@ -1328,15 +1355,6 @@
       "category": "malaysia"
     },
     {
-      "id": "ae15f146cac66f9bd9a4daf7ec67fb0ed7072f76",
-      "title": "UK, France and Germany move to reimpose UN sanctions on Iran",
-      "link": "https://www.bbc.com/news/articles/c4gmr3z49lxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The three powers trigger a process which could restore sanctions in 30 days, calling Iran's nuclear programme a threat to peace and security.",
-      "published": "2025-08-29T00:34:55+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "6da4978817e8f3e252f793a449e1f96792b20e3e",
       "title": "Codex by OpenAI",
       "link": "https://www.producthunt.com/posts/codex-by-openai-2",
@@ -1378,24 +1396,6 @@
       "link": "https://techcrunch.com/2025/08/28/anthropic-users-face-a-new-choice-opt-out-or-share-your-data-for-ai-training/",
       "summary": "Anthropic is making some major changes to how it handles user data. Users have until September 28 to take action.",
       "published": "2025-08-28T20:43:12+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "2a067940bad7577aac02d048f330a92af3e23d40",
-      "title": "Nvidia, Google, and Bill Gates help Commonwealth Fusion Systems raise $863M",
-      "link": "https://techcrunch.com/2025/08/28/nvidia-google-and-bill-gates-help-commonwealth-fusion-systems-raise-863m/",
-      "summary": "Commonwealth Fusion Systems has raised nearly $3 billion to commercialize its fusion power plant. It hopes to send electricity to the grid in the early 2030s.",
-      "published": "2025-08-28T20:25:30+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "b25df3a45b6ef5917f8a028de49e847a7a6e7d2b",
-      "title": "AI or not, Will Smith’s crowd video is fresh cringe",
-      "link": "https://techcrunch.com/2025/08/28/ai-or-not-will-smiths-crowd-video-is-fresh-cringe-2/",
-      "summary": "Fans accused Will Smith of sharing AI-generated videos from his tour, but the situation is more complicated than it seems.",
-      "published": "2025-08-28T20:02:52+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
