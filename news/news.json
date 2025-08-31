@@ -1,15 +1,33 @@
 {
-  "generatedAt": "2025-08-31T20:14:07.019191+00:00",
+  "generatedAt": "2025-08-31T21:11:20.702997+00:00",
   "counts": {
     "total": 175
   },
   "items": [
     {
+      "id": "8e5fa0a8f701d5a020828897c969ecf91dff307d",
+      "title": "Chatbots can be manipulated through flattery and peer pressure",
+      "link": "https://www.theverge.com/news/768508/chatbots-are-susceptible-to-flattery-and-peer-pressure",
+      "summary": "Generally, AI chatbots are not supposed to do things like call you names or tell you how to make controlled substances. But, just like a person, with the right psychological tactics, it seems like at least some LLMs can be convinced to break their own rules. Researchers from the University of Pennsylvania deployed tactics described [&#8230;]",
+      "published": "2025-08-31T21:06:24+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "b134a86f0c7651ccc5aad0a302b36b338313ceff",
+      "title": "Rudy Giuliani injured in car accident, security guard says",
+      "link": "https://www.bbc.com/news/articles/crm4gdwerj3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The former Trump adviser's car was struck from behind on a highway in New Hampshire, a statement says.",
+      "published": "2025-08-31T20:50:26+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "fd25bf346941ce766786ce1c9bc70f7796fa9c8b",
       "title": "Hamas spokesman Abu Obeida killed in Gaza, Israel says",
       "link": "https://www.bbc.com/news/articles/cm214r5rd29o?at_medium=RSS&at_campaign=rss",
-      "summary": "The military spokesman was killed in strikes on Saturday, Israel announces - Hamas has not confirmed the death.",
-      "published": "2025-08-31T20:09:13+00:00",
+      "summary": "The military spokesman was killed in strikes on Saturday, Israel says - Hamas has not confirmed the death.",
+      "published": "2025-08-31T20:32:56+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -48,6 +66,24 @@
       "published": "2025-08-31T19:18:49+00:00",
       "source": "TechCrunch",
       "category": "tech"
+    },
+    {
+      "id": "3592ba0967ed98767d306e1f2801fa15051947f4",
+      "title": "Research roundup: 6 cool science stories we almost missed",
+      "link": "https://arstechnica.com/science/2025/08/research-roundup-6-cool-science-stories-we-almost-missed-2/",
+      "summary": "A 3D reconstruction of the Shroud of Turin, \"jelly ice,\" regenerating snail eyes, and more",
+      "published": "2025-08-31T19:13:34+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "0e55ed035c143b0b2620023ef6b26e6c48537d5a",
+      "title": "UK closes embassy in Cairo amid row over activist's arrest",
+      "link": "https://www.bbc.com/news/articles/cx27xr2jkp9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The removal of the barriers is widely seen as retaliation for the arrest of a pro-Egyptian government activist in London last week.",
+      "published": "2025-08-31T19:11:24+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "edb6196da662af3d2449ce639d0fb6f7bea969fc",
@@ -590,15 +626,6 @@
       "category": "deals"
     },
     {
-      "id": "735756e107586f330536166ca6ab59c00d8694f5",
-      "title": "Reeling from Trump's tariffs, India and China seek a business reboot",
-      "link": "https://www.bbc.com/news/articles/c0mlen3grx7o?at_medium=RSS&at_campaign=rss",
-      "summary": "India's prime minister hopes to draw nearer to some of the world’s largest economies.",
-      "published": "2025-08-31T05:02:48+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "772107893ba60642f752b6fa89dad48cf791f529",
       "title": "Xi Jinping is pushing the country's tech industry to be oriented toward applications for AI, charting a pragmatic alternative to Silicon Valley's pursuit of AGI (Wall Street Journal)",
       "link": "http://www.techmeme.com/250831/p2#a250831p2",
@@ -995,15 +1022,6 @@
       "category": "deals"
     },
     {
-      "id": "a04d6d0d3ce89263b704001db2e773faa826cfbb",
-      "title": "US blocks Palestinian leader from attending UN meeting in New York",
-      "link": "https://www.bbc.com/news/articles/cjdym32z9v7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The decision comes as France leads international efforts to recognise a Palestinian state at the UN meeting next month.",
-      "published": "2025-08-30T07:22:55+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "fd1e9871498d068b142cb9cdabc62db76638b70b",
       "title": "Tesla Destination chargers now available at Bangsar Shopping Centre",
       "link": "https://soyacincau.com/2025/08/30/tesla-destination-ac-charger-bangsar-shopping-centre/",
@@ -1126,15 +1144,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/762594/fable-showrunner-edwatch-saatchi-interview",
       "summary": "As one of the cofounders behind Oculus Story Studio, Edward Saatchi knows how hard it can be to sell people on new tech that bills itself as revolutionary. Even though Story Studio snagged an Emmy for one of its three animated features, a general lack of public interest in VR movies led Meta to shutter [&#8230;]",
       "published": "2025-08-29T20:07:22+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "d638fb3d2a357c46fdff2cea3285cb7d2c3db643",
-      "title": "TikTok is now letting everyone DM each other with voice memos and pictures",
-      "link": "https://www.theverge.com/news/768245/tiktok-is-now-letting-everyone-dm-each-other-with-voice-memos-and-pictures",
-      "summary": "Every platform wants to be the place you hang with friends — even Spotify as of this week — so it’s apparently time for TikTok to shore up its direct messaging feature! It told TechCrunch that over the next few weeks, all users should see voice messages and image sharing options arrive in their DMs. [&#8230;]",
-      "published": "2025-08-29T19:53:06+00:00",
       "source": "The Verge",
       "category": "tech"
     },
@@ -1479,15 +1488,6 @@
       "published": "2025-08-28T16:14:34+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "11494900cd5944f932c16074cc57b168fdc1ad22",
-      "title": "Trump admin dismisses Endangered Species List as “Hotel California”",
-      "link": "https://arstechnica.com/science/2025/08/trump-admin-dismisses-endangered-species-list-as-hotel-california/",
-      "summary": "\"Once a species enters, they never leave,\" interior secretary says. But there's more to the story.",
-      "published": "2025-08-28T16:00:52+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
     },
     {
       "id": "18bc9d6d51db91c15c67ac9edbb90a0c051c1171",
