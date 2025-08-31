@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2025-08-31T19:10:02.544133+00:00",
+  "generatedAt": "2025-08-31T20:14:07.019191+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "fd25bf346941ce766786ce1c9bc70f7796fa9c8b",
+      "title": "Hamas spokesman Abu Obeida killed in Gaza, Israel says",
+      "link": "https://www.bbc.com/news/articles/cm214r5rd29o?at_medium=RSS&at_campaign=rss",
+      "summary": "The military spokesman was killed in strikes on Saturday, Israel announces - Hamas has not confirmed the death.",
+      "published": "2025-08-31T20:09:13+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "14e4e5d8e538c4d26669bbe82fc7c4ff1623517b",
+      "title": "UK age check law seems to be hurting sites that comply, helping those that don’t",
+      "link": "https://techcrunch.com/2025/08/31/uk-age-check-law-seems-to-be-hurting-sites-that-comply-helping-those-that-dont/",
+      "summary": "The U.K. recently started enforcing new age-check rules, and The Washington Post reports that it’s already having a significant effect on traffic to porn sites.",
+      "published": "2025-08-31T20:05:15+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "d33b30e223267e1d551081c6ec0924acd74aee4c",
+      "title": "An interview with CrowdStrike CEO George Kurtz on the company's M&A strategy as it acquires Madrid-based data observability startup Onum for about $290M (Allie Garfinkle/Fortune)",
+      "link": "http://www.techmeme.com/250831/p11#a250831p11",
+      "summary": "<a href=\"https://fortune.com/2025/08/27/crowdstrike-ceo-george-kurtz-interview-290m-onum-acquisition-ai-security/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250831/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250831/p11#a250831p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Allie Garfinkle / <a href=\"http://www.fortune.com/\">Fortune</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://fortune.com/2025/08/27/crowdstrike-ceo-george-kurtz-interview-290m-onum-acquisition-ai-security/\">An interview with CrowdStrike CEO George Kurtz on the company's M&amp;A strategy as it acquires Madrid-based data observability startup Onum for about $290M</a></b></span>&nbsp; &mdash;&nbsp; George Kurtz, cofounder and CEO of CrowdStrike&nbsp; &mdash;&nbsp; COURTESY OF CROWDSTRIKE&nbsp; &mdash;&nbsp; Cybersecurity is more than just software &hellip; </p>",
+      "published": "2025-08-31T20:00:14+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "bd5400fe7548c285d62741fde4799d269441cc36",
+      "title": "2 killed, 6 injured in gas pipeline maintenance accident in Egypt",
+      "link": "https://www.thestar.com.my/news/world/2025/09/01/2-killed-6-injured-in-gas-pipeline-maintenance-accident-in-egypt",
+      "summary": "CAIRO, Aug. 31 (Xinhua) -- Two people were killed and six others injured on Sunday during routine maintenance work on a gas pipeline in Egypt's Ismailia Governorate, east of Cairo, the Ministry of Petroleum and Mineral Resources said. <a href=\"https://www.thestar.com.my/news/world/2025/09/01/2-killed-6-injured-in-gas-pipeline-maintenance-accident-in-egypt\">Read full story</a>",
+      "published": "2025-08-31T19:47:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "aeb2f29f56ab3b568cfc72f226a0b6d9c4c89099",
+      "title": "Director Jim Jarmusch ‘disappointed and disconcerted’ by Mubi’s funding from Sequoia",
+      "link": "https://techcrunch.com/2025/08/31/director-jim-jarmusch-disappointed-and-disconcerted-by-mubis-funding-from-sequoia/",
+      "summary": "Veteran indie filmmaker Jim Jarmusch is the latest to criticize Mubi for taking money from Sequoia.",
+      "published": "2025-08-31T19:18:49+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "edb6196da662af3d2449ce639d0fb6f7bea969fc",
+      "title": "Roundup: Yemenis voice loss, fear as continued floods deepen humanitarian crisis",
+      "link": "https://www.thestar.com.my/news/world/2025/09/01/roundup-yemenis-voice-loss-fear-as-continued-floods-deepen-humanitarian-crisis",
+      "summary": "ADEN, Yemen, Aug. 31 (Xinhua) -- As torrential rains since early August have continuously submerged homes and displacement camps across Yemeni provinces, affected residents are voicing despair over compounded losses in a country struggling with one of the world's worst humanitarian crises. <a href=\"https://www.thestar.com.my/news/world/2025/09/01/roundup-yemenis-voice-loss-fear-as-continued-floods-deepen-humanitarian-crisis\">Read full story</a>",
+      "published": "2025-08-31T19:03:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
     {
       "id": "a8a2e22d87e992302f1b3d00ca16e306384c6b39",
       "title": "Head-on crash between police van and prison bus kills 16 in Namibia",
@@ -21,15 +75,6 @@
       "published": "2025-08-31T18:00:01+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "fd25bf346941ce766786ce1c9bc70f7796fa9c8b",
-      "title": "Hamas spokesman Abu Obeida killed in Gaza, Israel says",
-      "link": "https://www.bbc.com/news/articles/cm214r5rd29o?at_medium=RSS&at_campaign=rss",
-      "summary": "The military spokesman was killed in a strike on Saturday, the Israeli military says - Hamas has not confirmed the death.",
-      "published": "2025-08-31T17:40:07+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "6c7ce041d7d42dff7920598a611a2e2280d37538",
@@ -218,24 +263,6 @@
       "summary": "KUALA LUMPUR, Aug 31 &mdash; Malaysia&rsquo;s women&rsquo;s doubles stars Pearly Tan and M. Thinaah fought bravely at th...",
       "published": "2025-08-31T14:57:54+00:00",
       "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "10697e83507db7d4e71bfe23f9b1d4e22a5b905b",
-      "title": "Former Colombian rebels and soldiers work together to exhume remains, give families closure",
-      "link": "https://www.thestar.com.my/news/world/2025/08/31/former-colombian-rebels-and-soldiers-work-together-to-exhume-remains-give-families-closure",
-      "summary": "PALMIRA, Colombia (Reuters) -For nearly a year the ex-rebels worked shoulder to shoulder with their former enemies - retired soldiers from the Colombian military - in a place that viscerally expresses the toll of Colombia's six decades of conflict: a cemetery. <a href=\"https://www.thestar.com.my/news/world/2025/08/31/former-colombian-rebels-and-soldiers-work-together-to-exhume-remains-give-families-closure\">Read full story</a>",
-      "published": "2025-08-31T14:48:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "fbe66b690015d0617864bda5565b5369670919e8",
-      "title": "A German town hoped migration could turn its fortunes around. It was no panacea",
-      "link": "https://www.thestar.com.my/news/world/2025/08/31/a-german-town-hoped-migration-could-turn-its-fortunes-around-it-was-no-panacea",
-      "summary": "ALTENA, Germany (Reuters) -A decade ago, as Germany was grappling with an influx of more than a million migrants, the small town of Altena saw an opportunity to reverse years of population and economic decline.  <a href=\"https://www.thestar.com.my/news/world/2025/08/31/a-german-town-hoped-migration-could-turn-its-fortunes-around-it-was-no-panacea\">Read full story</a>",
-      "published": "2025-08-31T14:47:00+00:00",
-      "source": "The Star : News Feed",
       "category": "malaysia"
     },
     {
@@ -705,15 +732,6 @@
       "published": "2025-08-30T20:39:24+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "6cc846f0ad7d6fc1c3f38a40e18208165be5c8c1",
-      "title": "The price per token for AI models has fallen, but costs for developers are rising as newer reasoning models require more tokens to complete tasks (Christopher Mims/Wall Street Journal)",
-      "link": "http://www.techmeme.com/250830/p11#a250830p11",
-      "summary": "<a href=\"https://www.wsj.com/tech/ai/ai-costs-expensive-startups-4c214f59?st=9ESueM&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250830/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250830/p11#a250830p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Christopher Mims / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/tech/ai/ai-costs-expensive-startups-4c214f59?st=9ESueM&amp;reflink=desktopwebshare_permalink\">The price per token for AI models has fallen, but costs for developers are rising as newer reasoning models require more tokens to complete tasks</a></b></span>&nbsp; &mdash;&nbsp; With models doing more &lsquo;thinking,&rsquo; the small companies that buy AI from the giants to create apps and services are feeling the pinch</p>",
-      "published": "2025-08-30T19:40:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "ea6592ec0e577ce938c56d1b348e8ab6646d484c",
@@ -1283,15 +1301,6 @@
       "category": "tech"
     },
     {
-      "id": "5b1f6922514c291ca208e685392a7366e0eb3bba",
-      "title": "Host an event beyond the main event: Apply to host a Side Event at TechCrunch Disrupt 2025",
-      "link": "https://techcrunch.com/2025/08/29/host-an-event-beyond-the-main-event-apply-to-host-a-side-event-at-techcrunch-disrupt-2025/",
-      "summary": "Apply to host a Side Event during TechCrunch Disrupt week (October 25–31) and amplify your brand. Apply before the deadline.",
-      "published": "2025-08-29T15:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "27271ca69a68860debf1c11c6a463e625010b15a",
       "title": "Google Pixel 10 series review: Don’t call it an Android",
       "link": "https://arstechnica.com/gadgets/2025/08/google-pixel-10-series-review-dont-call-it-an-android/",
@@ -1307,15 +1316,6 @@
       "summary": "Begging Apple to let another company make Macs for the first time since the '90s.",
       "published": "2025-08-29T14:34:45+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "ba4c7dedd8089d5da049e3b7bc695f4691a8ac66",
-      "title": "Billionaire Ambani taps Google, Meta to build India’s AI backbone",
-      "link": "https://techcrunch.com/2025/08/29/billionaire-ambani-taps-google-meta-to-build-indias-ai-backbone/",
-      "summary": "Reliance is launching a new subsidiary to drive India's AI ambitions, including a pending partnership with OpenAI.",
-      "published": "2025-08-29T13:19:10+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1517,15 +1517,6 @@
       "category": "events"
     },
     {
-      "id": "b29db08f345150abdea15ec4e09bb03418b8dcb5",
-      "title": "Wanderboat 2.0",
-      "link": "https://www.producthunt.com/posts/wanderboat-2-0-2",
-      "summary": "<p>\n            Social + Local + AI map search from ex-Bing team\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/wanderboat-2-0-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1010263?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-08-28T06:15:27+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "973dec80a3461ad107c226a91a9b82587a02b910",
       "title": "Just Log",
       "link": "https://www.producthunt.com/posts/just-log-2",
@@ -1549,6 +1540,15 @@
       "link": "https://www.producthunt.com/posts/streamdown-by-vercel",
       "summary": "<p>\n            Drop-in replacement for react-markdown\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/streamdown-by-vercel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1008359?app_id=339\">Link</a>\n          </p>",
       "published": "2025-08-22T14:39:10+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "973730e83de320b04f3ffafd09554c089459aa98",
+      "title": "Surf",
+      "link": "https://www.producthunt.com/posts/surf-11",
+      "summary": "<p>\n            AI-powered crypto insights and trading in one platform\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/surf-11?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1007265?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-20T04:16:47+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
