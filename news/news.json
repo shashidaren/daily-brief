@@ -1,17 +1,233 @@
 {
-  "generatedAt": "2025-09-04T14:13:29.059460+00:00",
+  "generatedAt": "2025-09-04T15:13:52.691765+00:00",
   "counts": {
     "total": 175
   },
   "items": [
     {
+      "id": "de0b566d04b1ddd68c1dca874442abce19cb12f1",
+      "title": "JetBlue will use Amazon’s Project Kuiper satellites for free in-flight internet",
+      "link": "https://techcrunch.com/2025/09/04/jetblue-will-use-amazons-project-kuiper-satellites-for-free-in-flight-internet/",
+      "summary": "While many other airlines are choosing Starlink, JetBlue is opting for Amazon's newer Kuiper satellites. But the service won't launch until 2027.",
+      "published": "2025-09-04T15:05:46+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "e1c469798db6085b1f6d7ba54b6ac3d6f1b4f6ca",
+      "title": "Jury orders Google to pay $425 million for violating user privacy",
+      "link": "https://www.theverge.com/news/771540/google-class-action-verdict-user-privacy-tracking",
+      "summary": "A federal jury in California has ordered Google to pay $425 million for violating user privacy by collecting the data of millions of people even after they disabled tracking, as reported earlier by Reuters. The decision stems from a class action lawsuit filed in July 2020, which accused Google of unlawfully accessing app activity data [&#8230;]",
+      "published": "2025-09-04T15:03:02+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "985bf54851c7a252ef7302176f725047c713f556",
+      "title": "Lead Bank, a 97-year-old Missouri bank rebuilt to serve fintech and crypto firms, raised $70M from a16z, Khosla Ventures, and others at a $1.47B valuation (Emily Mason/Bloomberg)",
+      "link": "http://www.techmeme.com/250904/p28#a250904p28",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-09-04/andreessen-backed-fintech-lead-bank-hits-1-47-billion-valuation\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250904/i28.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250904/p28#a250904p28\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Emily Mason / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-09-04/andreessen-backed-fintech-lead-bank-hits-1-47-billion-valuation\">Lead Bank, a 97-year-old Missouri bank rebuilt to serve fintech and crypto firms, raised $70M from a16z, Khosla Ventures, and others at a $1.47B valuation</a></b></span>&nbsp; &mdash;&nbsp; Lead Bank, the 97-year old Missouri lender rebuilt to serve fintech and crypto firms, has raised $70 million at a $1.47 billion valuation &hellip; </p>",
+      "published": "2025-09-04T15:00:32+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "e601b7fb06805de6d6634dd913cc4ce3d39bc37f",
+      "title": "Welcome to Optimizer, our relentless quest to live a smarter, healthier life",
+      "link": "https://www.theverge.com/optimizer-newsletter/769130/optimizer-newsletter-gadgets-apps-wearable-health",
+      "summary": "Every year, I sit in these fancy amphitheaters and watch the biggest names in tech promise how their latest phone, smartwatch, app, chatbot, or doohickey will make our lives better. This calendar app? It's going to make you more efficient. This smartwatch? Get ready for six-pack abs and a sub-four-hour marathon time. AI on your [&#8230;]",
+      "published": "2025-09-04T15:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "8562f869c2caaa8d0b0dfe9ef76bd086681d3625",
+      "title": "SwitchBot launches three AI-powered smart home products — including a pair of robots",
+      "link": "https://www.theverge.com/ifa-berlin/770534/switchbot-ai-hub-eink-frame-robot-pet",
+      "summary": "It was inevitable that AI would be everywhere at IFA this year, but the smart home is where we’re really seeing action. SwitchBot, known for its quirky and clever home gadgets, launched three new AI-powered products this week: a smart home AI Hub, a colorful E Ink AI Art Frame, and two animated AI pets [&#8230;]",
+      "published": "2025-09-04T15:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "208157df911c9ad2c0d38da0d61d3b4f6e1b1067",
+      "title": "SwitchBot has ambitions to be the AI that powers your smart home",
+      "link": "https://www.theverge.com/ifa-berlin/770638/switchbot-has-ambitions-to-be-the-ai-that-powers-your-smart-home",
+      "summary": "AI could bring the smart home closer to the Star Trek dream: a central \"computer\" that runs your home. At IFA this week, SwitchBot - best known for its button-pushing robots - is debuting a product that lays the groundwork for at least part of that vision. The new SwitchBot AI Hub combines local AI [&#8230;]",
+      "published": "2025-09-04T15:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "c4dd08c4b5c793239a45df4fb3e9aba81de86ef0",
+      "title": "Tech companies ‘be on alert,’ NAACP says with new guiding principles for data centers",
+      "link": "https://www.theverge.com/exclusive/770650/data-center-ai-naacp-guiding-principles",
+      "summary": "One of the top civil rights organizations in the US is putting the tech industry \"on alert,\" issuing a call to action for communities to demand more accountability from companies building new data centers. Electricity demand is rising in the US for the first time in nearly two decades, thanks in large part to massive [&#8230;]",
+      "published": "2025-09-04T15:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "f2b3accdb0102e64347e886522eed6b4c5e675c6",
+      "title": "The best fitness trackers and watches we’ve tested",
+      "link": "https://www.theverge.com/22985108/best-fitness-tracker",
+      "summary": "Fitness trackers have come a long way from the simple bands that tracked steps and little else. Modern trackers can monitor everything from your heart health to how well you’ve recovered from a hard bout of training. Even flagship smartwatches, which used to be lackluster trackers, have become pretty adept workout companions. Whatever your fitness [&#8230;]",
+      "published": "2025-09-04T15:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "0353dcd715fa22bc5e6362c3e634ef5c108ce429",
+      "title": "Anker reveals new mini AI-powered voice recorder wearable at IFA",
+      "link": "https://9to5toys.com/2025/09/04/anker-reveals-new-mini-ai-powered-voice-recorder-wearable/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/09/Soundcore-Work-AI-voice-recorder-copy.jpg?w=1024\" /></div><p>Anker is unleashing a slew of new gear as part of its IFA 2025 offerings, including the new family of <a href=\"https://9to5toys.com/2025/09/04/anker-reveals-new-qi2-2-25w-magsafe-stand-with-display-new-300w-prime-power-bank-more/\">Prime charging gear</a> and its latest <a href=\"https://9to5toys.com/2025/09/04/anker-reveals-new-qi2-2-25w-magsafe-stand-with-display-new-300w-prime-power-bank-more/\">Qi2.2 25W MagSafe charging stand</a> with an onboard display, but its new miniature AI voice recorder is landing as well. Officially known as the Soundcore Work, you’re looking at a tiny wearable microphone designed to capture conversations before leveraging AI capabilities to transcribe them at a moment’s notice. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/09/04/anker-reveals-new-mini-ai-powered-voice-recorder-wearable/#more-1158137\">more…</a>",
+      "published": "2025-09-04T14:52:43+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
       "id": "c66194c17a634f275e1eee8aae17532377336fa3",
       "title": "Legendary Italian designer Giorgio Armani dies",
       "link": "https://www.bbc.com/news/articles/ceq25w34lv4o?at_medium=RSS&at_campaign=rss",
       "summary": "The fashion designer was the archetype of Italian style and elegance, reimagining men's and women's suits.",
-      "published": "2025-09-04T14:11:44+00:00",
+      "published": "2025-09-04T14:44:41+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "714c3c56afbafec7b4ba86bd9aaab05f99da55eb",
+      "title": "Lenovo’s super-affordable 2025 Tab One Android tablet is down to $95 today, $110 with folio case",
+      "link": "https://9to5toys.com/2025/09/04/lenovo-2025-tab-one-android-tablet-down-to-95/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/09/Lenovo-Tab-One.jpg?w=1024\" /></div><p>We just spotted a deal at Lenovo that drops it’s latest <a href=\"https://howl.link/6fg2k5cqciojm\">2025 Tab One Android tablet down to <strong>$94.99 shipped</strong></a>. Don’t forget to enter promo code <strong>EXTRAFIVE</strong> during checkout to see the discounted price. This particular model hit the scene in May carrying a $130 price tag after debuting at CES earlier this year. Today’s deal shaves $35 off its usual going rate to mark the lowest price we have tracked for it to date. Amazon also the same tablet with a folio case for $109.99 shipped, which is worth grabbing for just an additional $15. We saw this listing with a folio case go for $105 during the recent Prime Day sale, and it’s now within just $5 of that price. Head below for more details.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/09/04/lenovo-2025-tab-one-android-tablet-down-to-95/#more-1158092\">more…</a>",
+      "published": "2025-09-04T14:41:10+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "f207ed1bcc336dd5b2f376674c5155ba20b91bd5",
+      "title": "Silksong&#8217;s release is hammering Steam, Xbox, PlayStation, and Nintendo stores",
+      "link": "https://www.theverge.com/games/771461/silksong-release-steam-nintendo-eshop-crash",
+      "summary": "Hollow Knight: Silksong launched today, and immediately afterward the major video game storefronts were struggling to stay online. Shortly after Silksong’s 10 AM ET release time, Steam, the Nintendo eShop, Xbox, and PlayStation stores all displayed error messages or failed to load entirely. Hollow Knight: Silksong is one of the most anticipated indie releases in [&#8230;]",
+      "published": "2025-09-04T14:39:46+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "aeff1c0b2a878668374e8e3ab661c5782c238cb4",
+      "title": "Thailand&#039;s Thaksin Shinawatra faces a political reckoning as Pheu Thai reels",
+      "link": "https://www.thestar.com.my/news/world/2025/09/04/thailand039s-thaksin-shinawatra-faces-a-political-reckoning-as-pheu-thai-reels",
+      "summary": "(Updates making clear detail of Thaksin leaving Thailand late on Thursday in paragraphs 6-7) <a href=\"https://www.thestar.com.my/news/world/2025/09/04/thailand039s-thaksin-shinawatra-faces-a-political-reckoning-as-pheu-thai-reels\">Read full story</a>",
+      "published": "2025-09-04T14:37:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "80218cc08512f9f48038d51ac527a372394f0bc1",
+      "title": "Google’s Circle to Search can now translate as you scroll",
+      "link": "https://techcrunch.com/2025/09/04/googles-circle-to-search-can-now-translate-as-you-scroll/",
+      "summary": "Google's Circle to Search feature now supports translation.",
+      "published": "2025-09-04T14:33:39+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "a503964f2f4739a82a7a16995fec99f81747fc66",
+      "title": "Perak Ruler reminds ummah to avoid slander, hate on social media in Maulidur Rasul message",
+      "link": "https://www.thestar.com.my/news/nation/2025/09/04/perak-ruler-reminds-ummah-to-avoid-slander-hate-on-social-media-in-maulidur-rasul-message",
+      "summary": "IPOH: Perak Ruler Sultan Nazrin Muizzuddin Shah has issued a reminder that the spread of slander and hatred, especially on social media, is increasingly causing division among the ummah. <a href=\"https://www.thestar.com.my/news/nation/2025/09/04/perak-ruler-reminds-ummah-to-avoid-slander-hate-on-social-media-in-maulidur-rasul-message\">Read full story</a>",
+      "published": "2025-09-04T14:30:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "ad9c877076c1d38b9255c22c7d8c4c00f52441a2",
+      "title": "Six years after launch, Apple Arcade is striving for a bigger audience",
+      "link": "https://www.theverge.com/games/770599/apple-arcade-interview-alex-rothman",
+      "summary": "In 2019, Apple Arcade launched with roughly 70 premium mobile games that had no ads, no in-app purchases, and no sex or violence. Some of the games in the initial launch period, like What the Golf?, were praised for their innovation and depth beyond what's typically expected of mobile games. In the six years since, [&#8230;]",
+      "published": "2025-09-04T14:30:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "73b31116dea31c862e0aa73179b65dc221571eeb",
+      "title": "Amazon&#8217;s Project Kuiper strikes its first satellite internet deal with an airline",
+      "link": "https://www.theverge.com/news/771459/amazon-project-kuiper-jetblue-satellite-internet",
+      "summary": "Amazon’s satellite internet service, Project Kuiper, will partner with JetBlue to provide in-flight Wi-Fi starting in 2027. It’s Project Kuiper’s first deal with an airline as it aims to keep up with the SpaceX-owned Starlink, which has already snagged satellite internet agreements with United Airlines, Hawaiian Airlines, Air France, and several others. Amazon has been [&#8230;]",
+      "published": "2025-09-04T14:28:42+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "1da8188f6629ef1f2ab832440cef3ccc783be865",
+      "title": "Venezuela tackles decay in celebrated capital complex",
+      "link": "https://www.thestar.com.my/news/world/2025/09/04/venezuela-tackles-decay-in-celebrated-capital-complex",
+      "summary": "CARACAS (Reuters) -For the first residents of Parque Central in Caracas, moving into the futuristic, vertical \"city within a city\" was the dream of an emerging Venezuelan middle class. Now, after decades of decay, a new effort is underway to restore the renowned complex. <a href=\"https://www.thestar.com.my/news/world/2025/09/04/venezuela-tackles-decay-in-celebrated-capital-complex\">Read full story</a>",
+      "published": "2025-09-04T14:27:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "8105046f93cdf45489ddfee105ab5377459c84f6",
+      "title": "Ukraine has unbreakable pledge from West with Trump's backing - Starmer",
+      "link": "https://www.bbc.com/news/articles/czxwl15w2qko?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK prime minister tells a meeting of 30 Western countries that Russia's Vladimir Putin cannot be trusted.",
+      "published": "2025-09-04T14:23:06+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "e4e64966f18e6f36ba9ced12396d72d3e388d69f",
+      "title": "Thailand&#039;s influential ex-premier Thaksin Shinawatra leaves country amid turmoil",
+      "link": "https://www.thestar.com.my/news/world/2025/09/04/thailand039s-influential-ex-premier-thaksin-shinawatra-leaves-country-amid-turmoil",
+      "summary": "(Refiles to fix formatting error in link in paragraph 1) <a href=\"https://www.thestar.com.my/news/world/2025/09/04/thailand039s-influential-ex-premier-thaksin-shinawatra-leaves-country-amid-turmoil\">Read full story</a>",
+      "published": "2025-09-04T14:23:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "03f498235e0b179253a5cd55adca90662a7d4986",
+      "title": "Hollow Knight: Silksong just broke the internet as Steam servers crash, eShop slows to a crawl",
+      "link": "https://9to5toys.com/2025/09/04/hollow-knight-silksong-just-broke-the-internet-as-steam-servers-crash-eshop-slows-to-a-crawl/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/09/Silksong-server-crash.jpg?w=1024\" /></div><p>We knew Hollow Knight: Silksong was going to be a big deal when it went live this morning on all platforms. But for those folks who were wondering if the launch would crash the Steam servers and break the eShop…the answer is yes. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/09/04/hollow-knight-silksong-just-broke-the-internet-as-steam-servers-crash-eshop-slows-to-a-crawl/#more-1158115\">more…</a>",
+      "published": "2025-09-04T14:22:17+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "600e98a2b03b5a3faa5d0e583af1a8da14c4b467",
+      "title": "Reactions to Giorgio Armani&#039;s death",
+      "link": "https://www.thestar.com.my/news/world/2025/09/04/reactions-to-giorgio-armani039s-death",
+      "summary": "ROME (Reuters) -Fashion designer Giorgio Armani, synonymous with modern Italian style and elegance and known as \"King Giorgio\", died at the age of 91, his company said on Thursday. <a href=\"https://www.thestar.com.my/news/world/2025/09/04/reactions-to-giorgio-armani039s-death\">Read full story</a>",
+      "published": "2025-09-04T14:21:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "edf434c874e56d8438e7f4f3d41696312b15539d",
+      "title": "Sources: plans for X Money, a nationwide peer-to-peer payments service integrated into X, have stalled as DFS NY and other state regulators raise concerns (Theo Wayt/The Information)",
+      "link": "http://www.techmeme.com/250904/p27#a250904p27",
+      "summary": "<a href=\"https://www.theinformation.com/articles/elon-musks-x-money-plans-stalled-regulators-staff-turnover\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250904/i27.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250904/p27#a250904p27\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Theo Wayt / <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/articles/elon-musks-x-money-plans-stalled-regulators-staff-turnover\">Sources: plans for X Money, a nationwide peer-to-peer payments service integrated into X, have stalled as DFS NY and other state regulators raise concerns</a></b></span>&nbsp; &mdash;&nbsp; For decades, one of Elon Musk's biggest ambitions has been using technology to disrupt and replace traditional banks and payments processors.</p>",
+      "published": "2025-09-04T14:20:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "edc9b24c2530c7d443f72732117f4a5c4ca2b88e",
+      "title": "LEGO unveils its most massive set yet with the new $1,000 Star Wars UCS Death Star and 38 minifigures",
+      "link": "https://9to5toys.com/2025/09/04/lego-unveils-its-most-massive-set-yet-with-the-new-1000-star-wars-ucs-death-star-and-38-minifigures/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/09/LEGO-Star-Wars-Death-Star-FI-3.webp?w=1024\" /></div><p>September has been quite the month of surprises for LEGO fans, as the first days have brought us <a href=\"https://9to5toys.com/2025/09/02/here-are-the-lego-sets-releasing-in-september-2025-from-icons-ideas-dc-marvel-disney-more-advent-calendars-and-gwps/\">several new building sets</a> that folks have been giddy to get ahold of, followed by the confirmation of the previously leaked <a href=\"https://9to5toys.com/2025/09/03/lego-sega-genesis-controller-revealed/\">SEGA Genesis Controller</a> set. Today, however, is giving us some of the biggest brick-built news to date – figuratively and literally – as The LEGO Group officially introduces its upcoming <a href=\"https://click.linksynergy.com/deeplink?id=MrJpz9nxqOY&amp;mid=13923&amp;murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fdeath-star-75419\">Star Wars 75419 UCS Death Star</a> set that you won’t have to wait long to get hold of – and it’s coming with a GWP for those picking it up in the first days of it hitting the market. Head below to learn more and check out the photos we’ve collected of this exciting new release. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/09/04/lego-unveils-its-most-massive-set-yet-with-the-new-1000-star-wars-ucs-death-star-and-38-minifigures/#more-1158077\">more…</a>",
+      "published": "2025-09-04T14:19:46+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "b65ae3adbb4ca35d6a116d9f8b7302cd9e02fe5b",
+      "title": "Missing British teen found in KL",
+      "link": "https://www.thestar.com.my/news/nation/2025/09/04/missing-british-teen-found-alive-in-kl",
+      "summary": "KUALA LUMPUR: Missing British teenager David Balisong has been found safe on Thursday (Sept 4). <a href=\"https://www.thestar.com.my/news/nation/2025/09/04/missing-british-teen-found-alive-in-kl\">Read full story</a>",
+      "published": "2025-09-04T14:10:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
     },
     {
       "id": "a80ad39f874e3b2f33a3370b054029212d3c5f4f",
@@ -68,51 +284,6 @@
       "category": "tech"
     },
     {
-      "id": "5db92fbe1b0729973d6c4e64658c960f42a815b3",
-      "title": "Ecovacs claims its fast-charging robovac can clean nonstop",
-      "link": "https://www.theverge.com/news/770205/ecovacs-deebot-omni-x11-fast-charging-robovac",
-      "summary": "Ecovacs’ latest mopping robovac may not need to take charging breaks while cleaning your home. The company says its new Deebot X11 Omnicyclone uses GaN-enabled fast charging to power up every time it returns to its base station for mop rinses, allowing it to keep cleaning without stopping to charge. The X11 Omnicyclone robovac comes [&#8230;]",
-      "published": "2025-09-04T14:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "5eef1d296f5064f7c71020dd7dc738ef12fe6e70",
-      "title": "The quest to keep OpenAI honest",
-      "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/770325/eyesonopenai-coalition-nonprofit-sam-altman-ai",
-      "summary": "We’ve covered OpenAI on Decoder in several ways this summer, from how it’s navigating the AI talent wars to how people are starting to feel attached to ChatGPT. Next week, we’re airing a recent conversation I had with Bret Taylor, the chairman of OpenAI’s board. But today, I want to zoom in on the battle [&#8230;]",
-      "published": "2025-09-04T14:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "7964834a7e9399a6a294293486135a2d2c2e931d",
-      "title": "Govee’s trippy new light strip puts three lights in every bulb",
-      "link": "https://www.theverge.com/smart-home/770936/govee-permanent-outdoor-lights-prism",
-      "summary": "Govee has some colorful new ideas for how a light strip can decorate your home. Its latest, the Permanent Outdoor Lights Prism, puts three lights in every bulb along the strip, with a prism lens above them that’s designed to create three distinct or blended beams of light. The strip supports full color, and Govee [&#8230;]",
-      "published": "2025-09-04T14:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "8da2686c85e13c0bee554959cec8a0fc20b5a95f",
-      "title": "Govee&#8217;s new TV backlight uses a triple camera",
-      "link": "https://www.theverge.com/news/771242/govee-tv-backlight-3-pro-launch-availability",
-      "summary": "Govee has launched a new TV backlight kit for folks who like to add immersive lighting that syncs with whatever is playing on the display. The Govee TV Backlight 3 Pro features an “industry-first HDR triple-camera wide-area color matching system,” according to Govee, which is designed to capture the colors on your TV screen with [&#8230;]",
-      "published": "2025-09-04T14:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "6e7fcef9aa833cd99823e5bc81307c0a0fee3a08",
-      "title": "Annual Paramount Plus subscriptions are half off until September 18th",
-      "link": "https://www.theverge.com/tech/771361/paramount-plus-essential-premium-annual-subscription-deal-sale",
-      "summary": "If your plan to combat the post-summer blues is binge-watching TV shows, movies, and sports, Paramount Plus is offering a great deal. New and returning subscribers can save 50 percent on an annual subscription to its Paramount Plus Essential and Paramount Plus Premium plans until September 18th. The deal knocks the annual price of an [&#8230;]",
-      "published": "2025-09-04T14:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "794acda2fe6ad9a3a1e506b74711ca31ffb7ae67",
       "title": "UGREEN’s new 3-in-1 Qi2.2 MagSafe wireless charging stand now up for grabs, plus deals from $50",
       "link": "https://9to5toys.com/2025/09/04/ugreen-3-in-1-qi2-magsafe-wireless-charging-stand/",
@@ -149,24 +320,6 @@
       "category": "world"
     },
     {
-      "id": "0404217fae85de63f8e177d66b254d67da4c6dfc",
-      "title": "TCL gives parents a monochrome mode to combat kids&#8217; phone addiction",
-      "link": "https://www.theverge.com/news/768556/tcl-nxtpaper-5g-junior-ifa-e-reader-kids-phone",
-      "summary": "TCL has been making its E Ink-inspired Nxtpaper phones for years, but it’s taken the company until now to realize that parents are a likely demographic for it. That’s finally been remedied with the Nxtpaper 5G Junior, a kids phone launching in Europe with a focus on eye health and screentime, which arrives alongside the [&#8230;]",
-      "published": "2025-09-04T13:30:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "f85962ebbe7cb5fb33c0dbf9697c034699f67514",
-      "title": "This AC adapter splits in two, giving you a wireless power bank for the road",
-      "link": "https://www.theverge.com/news/770272/baseus-energeek-gt01-2-in-1-magnetic-power-bank",
-      "summary": "Baseus has announced a new accessory that can wirelessly charge a Qi2-compatible smartphone directly on an outlet, making it useful as a hands-free wall mount. It’s reminiscent of a similar wireless charger that Zens released last year, but Baseus’ new EnerGeek GT01 has additional functionality, including a 10,000mAh battery that can be separated from the [&#8230;]",
-      "published": "2025-09-04T13:30:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "8ac44859f5e4924d79cff828c83212607be26890",
       "title": "Italian fashion designer Giorgio Armani has died",
       "link": "https://www.thestar.com.my/news/world/2025/09/04/italian-fashion-designer-giorgio-armani-has-died",
@@ -185,15 +338,6 @@
       "category": "world"
     },
     {
-      "id": "31e98c3bc117f4ddb74faa6fa071dfda12969b9e",
-      "title": "Global Sumud Flotilla to Gaza delayed by storm, Malaysian delegation regrouping in Menorca",
-      "link": "https://www.thestar.com.my/news/nation/2025/09/04/global-sumud-flotilla-to-gaza-delayed-by-storm-malaysian-delegation-regrouping-in-menorca",
-      "summary": "KUALA LUMPUR: The Malaysian delegation participating in the Global Sumud Flotilla (GSF) humanitarian mission to Gaza is currently in the Menorca Islands, Spain, awaiting the arrival of several other ships that turned back due to technical issues and a storm that hit their route two days ago. <a href=\"https://www.thestar.com.my/news/nation/2025/09/04/global-sumud-flotilla-to-gaza-delayed-by-storm-malaysian-delegation-regrouping-in-menorca\">Read full story</a>",
-      "published": "2025-09-04T13:15:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "6f5b2f031206d466191cf426887a8a13bd6bf810",
       "title": "Tomb Raider I-III Remastered on Switch returns to Amazon low at $20, more",
       "link": "https://9to5toys.com/2025/09/04/tomb-raider-i-iii-remastered-switch-2/",
@@ -210,24 +354,6 @@
       "published": "2025-09-04T13:11:35+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "f67a5aa46dd6ae53df81d4059b6e37d5e6c85acb",
-      "title": "Lisbon man who said &#039;we&#039;re all going to die&#039; escapes funicular crash",
-      "link": "https://www.thestar.com.my/news/world/2025/09/04/lisbon-man-who-said-039we039re-all-going-to-die039-escapes-funicular-crash",
-      "summary": "MADRID (Reuters) -A Lisbon resident who thought he was going to die as a funicular car hurtled towards him had a narrow escape when it crashed into a building metres away, killing at least 17 people. <a href=\"https://www.thestar.com.my/news/world/2025/09/04/lisbon-man-who-said-039we039re-all-going-to-die039-escapes-funicular-crash\">Read full story</a>",
-      "published": "2025-09-04T13:10:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "1ccb3de82cc7e4f65084671d5196d553ed0c39e3",
-      "title": "12 cops among 22 trapped by KKB water surge, all successfully rescued",
-      "link": "https://www.thestar.com.my/news/nation/2025/09/04/12-cops-among-22-trapped-by-kkb-water-surge-rescue-ops-underway",
-      "summary": "HULU SELANGOR: A total of 22 individuals are reported to be trapped across a river following a water surge incident in Kampung Orang Asli Pertak, Kuala Kubu Baharu, on Thursday (Sept 4), Sinar Harian reports. <a href=\"https://www.thestar.com.my/news/nation/2025/09/04/12-cops-among-22-trapped-by-kkb-water-surge-rescue-ops-underway\">Read full story</a>",
-      "published": "2025-09-04T13:06:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "5ae05f8a7c3506b75ef0fa82fb054a23c80fcfe8",
@@ -275,24 +401,6 @@
       "category": "tech"
     },
     {
-      "id": "9f8da695ef462de5e468fa9df817780d9efc3108",
-      "title": "Here’s how the Pixel’s AI zoom compares to a real 100x lens",
-      "link": "https://www.theverge.com/tech/769360/google-pixel-10-pro-res-zoom-100x-sample-photos-nikon-coolpix-p1100",
-      "summary": "In case you missed it last week among other big news items, Google shipped a phone camera with a zoom feature that uses generative AI. That's right: the Pixel 10 Pro comes with AI right inside the camera app that cleans up otherwise crappy digital zoom images all the way up to 100x. It's a [&#8230;]",
-      "published": "2025-09-04T13:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "f4ddcc898f4e2938273f361947eedc88b82ea906",
-      "title": "Here is Lego’s $1,000 Death Star, the most expensive Lego set ever",
-      "link": "https://www.theverge.com/news/770770/lego-ucs-death-star-price-release-date",
-      "summary": "Eight years after breaking every record with an $800, 7,541-piece Star Wars Millennium Falcon, the Lego Group is introducing its first $1,000 set. It’s an intricately detailed Death Star nearly two feet tall (52.3cm), a foot and a half wide (48cm) and over a foot (38.3cm) deep, with enough compartments to re-enact nearly every iconic [&#8230;]",
-      "published": "2025-09-04T13:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "6bde2011364db1eec225616e5830ad04c28227e3",
       "title": "First deal on a new 25W Qi2.2 MagSafe charger now live: UGREEN MagFlow stand down at $50",
       "link": "https://9to5toys.com/2025/09/04/first-deal-25w-qi2-2-magsafe-charger/",
@@ -300,15 +408,6 @@
       "published": "2025-09-04T12:59:25+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "8105046f93cdf45489ddfee105ab5377459c84f6",
-      "title": "Ukraine has unbreakable pledge from West with Trump's backing - Starmer",
-      "link": "https://www.bbc.com/news/articles/czxwl15w2qko?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK prime minister tells a meeting of 30 Western countries that Russia's Vladimir Putin cannot be trusted.",
-      "published": "2025-09-04T12:54:58+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "c3bf89a40095932f49d870dd521f74fd2588dc85",
@@ -327,33 +426,6 @@
       "published": "2025-09-04T12:45:06+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "e00f475e3a59ed89dfda9f7d4f946b60cf44ffb5",
-      "title": "QuickCheck: Was a stolen hearse involved in a Johor road accident?",
-      "link": "https://www.thestar.com.my/news/true-or-not/2025/09/04/quickcheck-was-a-stolen-hearse-involved-in-a-johor-road-accident",
-      "summary": "When it comes to stolen vehicles, some will draw more attention than others due to how strange such a theft may be. <a href=\"https://www.thestar.com.my/news/true-or-not/2025/09/04/quickcheck-was-a-stolen-hearse-involved-in-a-johor-road-accident\">Read full story</a>",
-      "published": "2025-09-04T12:44:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "cef3a38dd9f8d27033ee6810e43b1e7823522aec",
-      "title": "Spain&#039;s high speed trains in Madrid disrupted after computer outage",
-      "link": "https://www.thestar.com.my/news/world/2025/09/04/spain039s-high-speed-trains-in-madrid-disrupted-after-computer-outage",
-      "summary": "MADRID (Reuters) -Spain's high speed trains to and from Madrid were either halted or delayed on Thursday afternoon, as a result of a computer outage, railway infrastructure operator Adif said in a post on X. <a href=\"https://www.thestar.com.my/news/world/2025/09/04/spain039s-high-speed-trains-in-madrid-disrupted-after-computer-outage\">Read full story</a>",
-      "published": "2025-09-04T12:42:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "0b94d1a64e65252b6e0866310727afbdd8579e08",
-      "title": "Nepalese man seriously injured in wild elephant attack near Gua Musang",
-      "link": "https://www.thestar.com.my/news/nation/2025/09/04/nepalese-man-seriously-injured-in-wild-elephant-attack-near-gua-musang",
-      "summary": "GUA MUSANG: A Nepalese plantation worker suffered serious injuries after being attacked by a wild elephant near Metro Blau Estate, Pos Blau, here Wednesday (Sept 3). <a href=\"https://www.thestar.com.my/news/nation/2025/09/04/nepalese-man-seriously-injured-in-wild-elephant-attack-near-gua-musang\">Read full story</a>",
-      "published": "2025-09-04T12:42:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "7ee5ce2e5a73f742d6df71fc87b3bfeac64dd0c8",
@@ -455,17 +527,17 @@
       "category": "malaysia"
     },
     {
-      "id": "3e9c9154a510c049d3d8e962c37d5b927964973e",
-      "title": "Israeli startup Sola, which develops AI-based low-code cybersecurity tools, raised a $35M Series A led by S32 and says it has ~2,000 customers (Resilience Media)",
+      "id": "a4ef82a69bcdebcb06898abd319fd8c01d370b66",
+      "title": "Tel Aviv-based Sola, which develops AI-based no-code and low-code cybersecurity tools, raised a $35M Series A led by S32 and says it has ~2,000 customers (Resilience Media)",
       "link": "http://www.techmeme.com/250904/p22#a250904p22",
-      "summary": "<a href=\"https://www.resiliencemedia.co/p/sola-raises-35m-to-ramp-up-its-ai\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250904/i22.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250904/p22#a250904p22\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.resiliencemedia.co/\">Resilience Media</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.resiliencemedia.co/p/sola-raises-35m-to-ramp-up-its-ai\">Israeli startup Sola, which develops AI-based low-code cybersecurity tools, raised a $35M Series A led by S32 and says it has ~2,000 customers</a></b></span>&nbsp; &mdash;&nbsp; Earlier this year, Israeli cybersecurity startup Sola emerged from stealth with $30 million and ambitions to become the &ldquo;Stripe for Security&rdquo; &hellip; </p>",
+      "summary": "<a href=\"https://www.resiliencemedia.co/p/sola-raises-35m-to-ramp-up-its-ai\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250904/i22.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250904/p22#a250904p22\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.resiliencemedia.co/\">Resilience Media</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.resiliencemedia.co/p/sola-raises-35m-to-ramp-up-its-ai\">Tel Aviv-based Sola, which develops AI-based no-code and low-code cybersecurity tools, raised a $35M Series A led by S32 and says it has ~2,000 customers</a></b></span>&nbsp; &mdash;&nbsp; Earlier this year, Israeli cybersecurity startup Sola emerged from stealth with $30 million and ambitions to become the &ldquo;Stripe for Security&rdquo; &hellip; </p>",
       "published": "2025-09-04T12:05:04+00:00",
       "source": "Techmeme",
       "category": "tech"
     },
     {
-      "id": "f855d2f5916eebf8cc9de076a81f47969a41b05f",
-      "title": "DuckDuckGo adds access to advanced models to it subscription plan",
+      "id": "207eedd36cd80ba417f2f813b15637f1b5d42a25",
+      "title": "DuckDuckGo adds access to advanced AI models to its subscription plan",
       "link": "https://techcrunch.com/2025/09/04/duckduckgo-adds-access-to-advanced-models-to-it-subscription-plan/",
       "summary": "With DuckDuckGo's $9.99 per month plan, users will be able to access newer models, including OpenAI’s GPT-4o and GPT-5, Anthropic’s Claude Sonnet 4, and Meta’s Llama Maverick.",
       "published": "2025-09-04T12:00:00+00:00",
@@ -572,17 +644,17 @@
       "category": "malaysia"
     },
     {
-      "id": "f95521921ec367d83fc5ec0a0bda19c475db74af",
-      "title": "SK Hynix's union approves a 6% wage bump and 10% allocation of SK's annual profit to a bonus pool, totaling ~$2.7B for 33,625 staff in 2025, averting a strike (Yoolim Lee/Bloomberg)",
+      "id": "ccf1daaa22ed8e78f45e574cbe82f73b61321e89",
+      "title": "SK Hynix's union approves SK's 6% wage bump plus 10% of SK's annual profit allocated to a bonus pool, costing ~$2.7B for 33,625 staff in 2025, averting a strike (Yoolim Lee/Bloomberg)",
       "link": "http://www.techmeme.com/250904/p19#a250904p19",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-09-04/sk-hynix-set-to-pay-2-7-billion-bonuses-to-quell-labor-tensions\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250904/i19.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250904/p19#a250904p19\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Yoolim Lee / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-09-04/sk-hynix-set-to-pay-2-7-billion-bonuses-to-quell-labor-tensions\">SK Hynix's union approves a 6% wage bump and 10% allocation of SK's annual profit to a bonus pool, totaling ~$2.7B for 33,625 staff in 2025, averting a strike</a></b></span>&nbsp; &mdash;&nbsp; SK Hynix Inc.'s labor union approved a landmark agreement that could see each employee on average receiving about $80,000 bonus for 2025 alone &hellip; </p>",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-09-04/sk-hynix-set-to-pay-2-7-billion-bonuses-to-quell-labor-tensions\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250904/i19.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250904/p19#a250904p19\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Yoolim Lee / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-09-04/sk-hynix-set-to-pay-2-7-billion-bonuses-to-quell-labor-tensions\">SK Hynix's union approves SK's 6% wage bump plus 10% of SK's annual profit allocated to a bonus pool, costing ~$2.7B for 33,625 staff in 2025, averting a strike</a></b></span>&nbsp; &mdash;&nbsp; SK Hynix Inc.'s labor union approved a landmark agreement that could see each employee on average receiving about $80,000 bonus for 2025 alone &hellip; </p>",
       "published": "2025-09-04T11:20:01+00:00",
       "source": "Techmeme",
       "category": "tech"
     },
     {
-      "id": "04d6d8c117b948f471aa38334fe35552f6085ec9",
-      "title": "Grandfather accidentally takes home wrong child from Sydney daycare centre",
+      "id": "c091e3ed424303c8b63c727bcf1316a6d03e8cbb",
+      "title": "Grandfather accidentally takes home wrong child from Sydney daycare",
       "link": "https://www.bbc.com/news/articles/c4g5v4z13l6o?at_medium=RSS&at_campaign=rss",
       "summary": "The man returned with the one-year-old as soon as he realised the mistake, and an investigation into the centre's safety protocols has been opened.",
       "published": "2025-09-04T11:19:57+00:00",
@@ -788,6 +860,15 @@
       "category": "tech"
     },
     {
+      "id": "cd89757a13902c239075fcac364736687c5c8dad",
+      "title": "Indian doctors remove parasitic foetuses from baby's stomach",
+      "link": "https://www.bbc.com/news/articles/cr4q0d4n6dno?at_medium=RSS&at_campaign=rss",
+      "summary": "The 20-day-old baby had two malformed foetuses inside her abdomen.",
+      "published": "2025-09-04T09:51:41+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "ecf72b7aae4fc2634d9b0605d5fa0773c1dcab2f",
       "title": "Volvo Confirms EX60 Unveiling Date",
       "link": "https://www.lowyat.net/2025/365122/volvo-confirms-ex60-unveiling-date/",
@@ -804,15 +885,6 @@
       "published": "2025-09-04T09:45:07+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "a1df4ca814304386be5324f827995292e846b554",
-      "title": "Samsung unveils the $650+ Galaxy S25 FE and $800+ Tab S11 series in 11\" and 14.6\", offering thinner, lighter designs alongside modest upgrades, shipping now (Dominic Preston/The Verge)",
-      "link": "http://www.techmeme.com/250904/p13#a250904p13",
-      "summary": "<a href=\"https://www.theverge.com/phones/768658/samsung-galaxy-s25-fe-tab-s11-ultra\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250904/i13.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250904/p13#a250904p13\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Dominic Preston / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/phones/768658/samsung-galaxy-s25-fe-tab-s11-ultra\">Samsung unveils the $650+ Galaxy S25 FE and $800+ Tab S11 series in 11\" and 14.6\", offering thinner, lighter designs alongside modest upgrades, shipping now</a></b></span>&nbsp; &mdash;&nbsp; &#65279;Oh, and did I mention they have AI? &hellip; If you've been eagerly awaiting Samsung's long-teased trifold phone or Project Moohan XR headset &hellip; </p>",
-      "published": "2025-09-04T09:45:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "33e4d8c4e00628fedcfbe5d6ef56b789069d4943",
@@ -849,15 +921,6 @@
       "published": "2025-09-04T09:37:14+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "edc4cd690b7d4239458675fb7f307ee4629030e1",
-      "title": "Sources: DeepSeek is developing an agentic AI model that can carry out multistep actions with little human intervention and can learn and improve, coming in Q4 (Saritha Rai/Bloomberg)",
-      "link": "http://www.techmeme.com/250904/p12#a250904p12",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-09-04/deepseek-targets-ai-agent-release-by-end-of-year-to-rival-openai\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250904/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250904/p12#a250904p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Saritha Rai / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-09-04/deepseek-targets-ai-agent-release-by-end-of-year-to-rival-openai\">Sources: DeepSeek is developing an agentic AI model that can carry out multistep actions with little human intervention and can learn and improve, coming in Q4</a></b></span>&nbsp; &mdash;&nbsp; DeepSeek is developing an artificial intelligence model with more advanced AI agent features to compete with US rivals like OpenAI &hellip; </p>",
-      "published": "2025-09-04T09:35:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "8cf8b70c345beeac8faa8d954e96f654eba56527",
@@ -986,15 +1049,6 @@
       "category": "events"
     },
     {
-      "id": "c6c003e65d70805d6b17d05cadc6f78bcc8c36f4",
-      "title": "What time will Hollow Knight: Silksong release on each platform tomorrow?",
-      "link": "https://9to5toys.com/2025/09/03/what-time-hollow-knight-silksong-release/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Hollow-Knight-Silksong-official-release-date.jpg?w=1024\" /></div><p>The biggest thing in gaming releases soon, very soon. And it’s an indie game. The long-awaited Hollow Knight: Silksong is finally here, or will be in well under 24 hours now, as developer Team Cherry has confirmed the release times for the game alongside the shocking $20 price of entry. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/09/03/what-time-hollow-knight-silksong-release/#more-1157837\">more…</a>",
-      "published": "2025-09-04T01:12:00+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "0a11d55f1f195159ca0fdf720eb1068690e04148",
       "title": "Painting looted by Nazis recovered in Argentina",
       "link": "https://www.bbc.com/news/articles/cdx26z142vko?at_medium=RSS&at_campaign=rss",
@@ -1049,24 +1103,6 @@
       "category": "tech"
     },
     {
-      "id": "b4ec6ef9352c120c49d94b88710552aa82611a54",
-      "title": "LEGO’s 16-bit Super Mario World: Mario & Yoshi set with movable legs/tongue falls to new $104 low (Reg. $130)",
-      "link": "https://9to5toys.com/2025/09/03/lego-super-mario-world-mario-yoshi-set-new-104-low/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2024/07/LEGO-Super-Mario-World-71438-Mario-and-Yoshi-set-FI.webp?w=1024\" /></div><p>Amazon is offering the best price to date on the LEGO Super Mario World: Mario &amp; Yoshi set at $104 shipped. Normally, you’d be shelling out $130 for this set <a href=\"https://click.linksynergy.com/deeplink?id=MrJpz9nxqOY&amp;mid=13923&amp;murl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fsuper-mario-world-mario-yoshi-71438\">directly from LEGO</a>, which famously offers very few discounts; however, at Amazon, it’s been seeing some cascading savings since the end of August, dropping to $119, then $117, and now lower-than-ever to $104. This is a 20% markdown that cuts $26 off the tag price, giving you the all-time lowest price we have tracked since it hit the market back in October. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/09/03/lego-super-mario-world-mario-yoshi-set-new-104-low/#more-1157960\">more…</a>",
-      "published": "2025-09-03T21:47:47+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "981040ce908f9767679d84a399a3207afe715739",
-      "title": "Overhaul your wardrobe while Amazon Essentials chino pants are priced from $14 (Save 42%)",
-      "link": "https://9to5toys.com/2025/09/03/amazon-essentials-skinny-chino-pants/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/09/Amazon-Essentials-Skinny-Chino-Pants.jpg?w=1024\" /></div><h1 class=\"wp-block-heading has-text-align-center\">Amazon Essentials Skinny Chino Pants</h1>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\" id=\"h-buy-from-14-reg-24\">Buy from $14 (Reg. $24)</h2>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A line of a heartbeat\" class=\"wp-image-1157878 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/09/Amazon-Essentials-Skinny-Chino-Pants-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h2 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h2>\n\n\n\n<p>If your wardrobe could use a bit of a refresh, now is a solid time to cash in. Amazon’s in-house Essentials brand is offering this lineup of pants for as low as $14 a pair. Pricing varies between sizes and styles, but we’re not seeing any that spill over the $20 mark, so stock up while you can.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/09/03/amazon-essentials-skinny-chino-pants/#more-1157877\">more…</a>",
-      "published": "2025-09-03T21:35:00+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "d103dd735ea1d93b54ee32e8add3d2528471f5e4",
       "title": "Putin: “Immortality” coming soon through continuous organ transplants",
       "link": "https://arstechnica.com/health/2025/09/strong-men-hot-mics-putin-and-xi-dream-about-immortality-living-to-150/",
@@ -1083,15 +1119,6 @@
       "published": "2025-09-03T21:21:30+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "8301ed5208338a1e2b490b43986619124107fe15",
-      "title": "Save up to 55% on Segway’s Cube series power stations and solar panels starting from $170",
-      "link": "https://9to5toys.com/2025/09/03/segway-cube-stations-and-solar-panels-from-170/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2024/07/Segway-Cube-1000-Portable-Power-Station.jpg?w=1024\" /></div><p>Segway is offering some major savings on its <a href=\"https://www.awin1.com/cread.php?awinmid=93539&amp;awinaffid=1642421&amp;ued=https%3A%2F%2Fstore.segway.com%2Fsegway-powerstation-cube1000\">Cube 1000 Portable Power Station down at <strong>$449.99 shipped</strong></a>, which is unavailable at Amazon, while the <a href=\"https://www.awin1.com/cread.php?awinmid=93539&amp;awinaffid=1642421&amp;ued=https%3A%2F%2Fstore.segway.com%2Fsegway-powerstation-cube2000\">Cube 2000 Portable Power Station has dropped to <strong>$849.99 shipped</strong></a>, and is matching in price at Amazon right now. These two backup solutions usually go for $1,000 and $1,700 at full price, which we’ve mostly seen taken down to $500 and $900 with 2025 discounts. While these are not the lowest prices we’ve seen, they are the next-best rates that save you $550 and $850 off their MSRPs. Head below for more on these stations and the parallel solar panel discounts. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/09/03/segway-cube-stations-and-solar-panels-from-170/#more-1157946\">more…</a>",
-      "published": "2025-09-03T21:13:58+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "c23c7c33edf5541fbe090f95e860255ee6dd7efe",
@@ -1310,24 +1337,6 @@
       "category": "tech"
     },
     {
-      "id": "72e495013addb1e5eaa6427da28e400035e142ad",
-      "title": "Netflix CPO Eunice Kim joins TechCrunch Disrupt 2025 to talk scaling product and reimagining entertainment",
-      "link": "https://techcrunch.com/2025/09/03/netflix-cpo-eunice-kim-is-coming-to-techcrunch-disrupt-2025-to-talk-tech-tools-and-yes-its-password-sharing-strategy/",
-      "summary": "At TechCrunch Disrupt 2025, Netflix chief product officer Eunice Kim will be joining the Disrupt Stage to share Netflix's evolving story and what's to come.",
-      "published": "2025-09-03T16:15:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "5fffd147a84aed49faef09b36e3f2bd89e958e56",
-      "title": "Instagram is finally launching an iPad app",
-      "link": "https://techcrunch.com/2025/09/03/instagram-is-finally-launching-an-ipad-app/",
-      "summary": "Until now, Instagram on iPad was just a blown-up iOS app, which wasn't pleasant to look at. The company said that it has now revamped the experience to suit the big screen.",
-      "published": "2025-09-03T16:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "4b747a72079f5c886d1004a0ae5002ca7d03f73f",
       "title": "Audi design finds its minimalist groove again with Concept C",
       "link": "https://arstechnica.com/cars/2025/09/audi-design-finds-its-minimalist-groove-again-with-concept-c/",
@@ -1414,15 +1423,6 @@
       "link": "https://www.bbc.com/news/articles/cp8zdrenm1zo?at_medium=RSS&at_campaign=rss",
       "summary": "A case over the US tech giant's dominance in search allows it to hang on to its Chrome web browser.",
       "published": "2025-09-02T23:51:46+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "83007cf9139d7186a16890ec81220016e16e85e9",
-      "title": "Captain Scott’s famous polar shipwreck as never seen before",
-      "link": "https://www.bbc.com/news/articles/cpwyvyqkx9yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Terra Nova carried Captain Scott and his men on their doomed expedition to the South Pole.",
-      "published": "2025-09-02T23:21:27+00:00",
       "source": "BBC News",
       "category": "world"
     },
