@@ -1,12 +1,39 @@
 {
-  "generatedAt": "2025-09-06T16:14:18.590680+00:00",
+  "generatedAt": "2025-09-06T17:09:53.525243+00:00",
   "counts": {
     "total": 174
   },
   "items": [
     {
-      "id": "4dca52a8225a0ae82ab3be06c0de1cdd36e58593",
-      "title": "The growing debate over age verification laws",
+      "id": "949a62f9a19beded72e1efc1d9c0c80334655b80",
+      "title": "EU fines Google $3.5B over adtech ‘abuse’",
+      "link": "https://techcrunch.com/2025/09/06/eu-fines-google-3-5b-over-adtech-abuse/",
+      "summary": "This is the EU's largest antitrust penalty ever — and Trump has already threatened to \"nullify\" it.",
+      "published": "2025-09-06T17:06:03+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "ba0198e3c4b1f5705f5dbe289458724c21537cc4",
+      "title": "Seoul holds emergency meeting after citizens detained in US Hyundai raid",
+      "link": "https://www.bbc.com/news/articles/c5yvjnp295xo?at_medium=RSS&at_campaign=rss",
+      "summary": "US immigration officials detained 475 workers on Thursday - most of them South Korean nationals - saying they were working illegally.",
+      "published": "2025-09-06T16:57:21+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "6d947a6cd809c5b5be586fb8f08f9c99886f4cca",
+      "title": "Gunmen in Nigeria attack Chinese workers, kill security officials",
+      "link": "https://www.thestar.com.my/news/world/2025/09/07/gunmen-in-nigeria-attack-chinese-workers-kill-security-officials",
+      "summary": "ABUJA (Reuters) -Gunmen killed eight security officials and kidnapped Chinese expatriate workers in Edo state in southern Nigeria, a spokesperson for the security agency said on Saturday, adding the Chinese workers were later rescued. <a href=\"https://www.thestar.com.my/news/world/2025/09/07/gunmen-in-nigeria-attack-chinese-workers-kill-security-officials\">Read full story</a>",
+      "published": "2025-09-06T16:46:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "36667558704820d686409c7f2a252978deaff565",
+      "title": "The growing debate over expanding age verification laws",
       "link": "https://techcrunch.com/2025/09/06/wtf-is-going-on-with-age-verification-laws/",
       "summary": "As age and identity verification laws become more mainstream, this legislation could have a dire impact on privacy.",
       "published": "2025-09-06T16:00:00+00:00",
@@ -48,15 +75,6 @@
       "published": "2025-09-06T15:49:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
-    },
-    {
-      "id": "ba0198e3c4b1f5705f5dbe289458724c21537cc4",
-      "title": "Seoul holds emergency meeting after citizens detained in US Hyundai raid",
-      "link": "https://www.bbc.com/news/articles/c5yvjnp295xo?at_medium=RSS&at_campaign=rss",
-      "summary": "US immigration officials detained 475 workers on Thursday - most of them South Korean nationals - saying they were working illegally.",
-      "published": "2025-09-06T15:29:58+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "4700fad1ca09ce174e6898b7f3b9b2d90b8fde0e",
@@ -199,15 +217,6 @@
       "link": "https://www.thestar.com.my/news/nation/2025/09/06/number-of-seats-grs-offered-doing-negotiations-an-039insult039-says-sabah-barisan",
       "summary": "KOTA KINABALU: Sabah Barisan Nasional says it was only offered eight seats to contest in the upcoming Sabah polls during negotiations with Gabungan Rakyat Sabah (GRS), a number that they described as an \"insult\". <a href=\"https://www.thestar.com.my/news/nation/2025/09/06/number-of-seats-grs-offered-doing-negotiations-an-039insult039-says-sabah-barisan\">Read full story</a>",
       "published": "2025-09-06T13:15:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "36cc6ad5ec07ad8a73e2099301891ffe9b495033",
-      "title": "Illegal waste disposal cases with fines totalling RM305,000 prosecuted in Johor",
-      "link": "https://www.thestar.com.my/news/nation/2025/09/06/illegal-waste-disposal-cases-with-fines-totalling-rm305000-prosecuted-in-johor",
-      "summary": "JOHOR BARU: A total of 18 cases of illegal disposal and dumping of solid waste with fines totalling RM305,000 have been prosecuted in Johor as of September this year, said state Health and Environment Committee chairman Ling Tian Soon. <a href=\"https://www.thestar.com.my/news/nation/2025/09/06/illegal-waste-disposal-cases-with-fines-totalling-rm305000-prosecuted-in-johor\">Read full story</a>",
-      "published": "2025-09-06T13:06:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
     },
@@ -599,6 +608,15 @@
       "category": "tech"
     },
     {
+      "id": "93b6e670d9b795ec8e4dbb6aac902e4060ebc306",
+      "title": "'We are the troops': Inside Chicago's split communities as Trump vows to deploy National Guard",
+      "link": "https://www.bbc.com/news/articles/c4gj489q6e0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some locals are working to prevent youngsters from sliding into gangs, but others ask the troops to come sooner.",
+      "published": "2025-09-06T05:56:59+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "120239f33588062fc300a375e219de3e9bc3d2c4",
       "title": "The sunscreen scandal shocking Australia - the world's skin cancer hotspot",
       "link": "https://www.bbc.com/news/articles/c4gzl41rpdqo?at_medium=RSS&at_campaign=rss",
@@ -692,7 +710,7 @@
       "id": "95bfab4aa8308e15321c05ea97b074038fa6c5e4",
       "title": "Alibaba debuts Qwen3-Max-Preview, its largest AI model with over 1T parameters, showcasing strong benchmark performance; the model is not open source (Carl Franzen/VentureBeat)",
       "link": "http://www.techmeme.com/250905/p30#a250905p30",
-      "summary": "<p><a href=\"http://www.techmeme.com/250905/p30#a250905p30\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Carl Franzen / <a href=\"https://venturebeat.com/\">VentureBeat</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://venturebeat.com/ai/qwen3-max-arrives-in-preview-with-1-trillion-parameters-blazing-fast\">Alibaba debuts Qwen3-Max-Preview, its largest AI model with over 1T parameters, showcasing strong benchmark performance; the model is not open source</a></b></span>&nbsp; &mdash;&nbsp; Chinese e-commerce giant Alibaba's &ldquo;Qwen Team&rdquo; of AI researchers has done it again.&nbsp; After a busy summer in which the AI lab released &hellip; </p>",
+      "summary": "<a href=\"https://venturebeat.com/ai/qwen3-max-arrives-in-preview-with-1-trillion-parameters-blazing-fast\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250905/i30.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250905/p30#a250905p30\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Carl Franzen / <a href=\"https://venturebeat.com/\">VentureBeat</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://venturebeat.com/ai/qwen3-max-arrives-in-preview-with-1-trillion-parameters-blazing-fast\">Alibaba debuts Qwen3-Max-Preview, its largest AI model with over 1T parameters, showcasing strong benchmark performance; the model is not open source</a></b></span>&nbsp; &mdash;&nbsp; Chinese e-commerce giant Alibaba's &ldquo;Qwen Team&rdquo; of AI researchers has done it again.&nbsp; After a busy summer in which the AI lab released &hellip; </p>",
       "published": "2025-09-06T03:25:02+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -732,6 +750,15 @@
       "published": "2025-09-06T01:00:59+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
+    },
+    {
+      "id": "10a12fb47aed9aca170154226c13cf2361b6326b",
+      "title": "New Bollywood romcom sparks debate over stereotyping south India",
+      "link": "https://www.bbc.com/news/articles/c4gveer8wgro?at_medium=RSS&at_campaign=rss",
+      "summary": "Param Sundari has reignited conversation on how India's most influential film industry represents non-Hindi speaking states.",
+      "published": "2025-09-06T00:46:16+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "5761d0873279389b81f9625448acade99c9c03f4",
@@ -941,15 +968,6 @@
       "category": "deals"
     },
     {
-      "id": "5d6ff8f825febbc725a6fae1081ef199c8afdf00",
-      "title": "Google fined €2.95bn by EU for abusing advertising dominance",
-      "link": "https://www.bbc.com/news/articles/c1wgn3lre14o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Commission said competitors faced higher costs and reduced revenues as a result.",
-      "published": "2025-09-05T19:42:04+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "52b833ea2879c85cec2f6b59f1694711a89a78b6",
       "title": "Civilization VII team at Firaxis Games faces layoffs",
       "link": "https://arstechnica.com/gaming/2025/09/civilization-vii-team-at-firaxis-games-faces-layoffs/",
@@ -1094,15 +1112,6 @@
       "category": "tech"
     },
     {
-      "id": "9cffe8447f3ee1958b1a357aa9d4697a315f782a",
-      "title": "Sudan paramilitaries accused of crimes against humanity over siege of key city",
-      "link": "https://www.bbc.com/news/articles/czewgl1171lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The group has allegedly carried out murder, rape and other crimes, a UN report says.",
-      "published": "2025-09-05T16:43:26+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "eb9f6fda4caf9c7752d0f06f72b131cfe1682777",
       "title": "Natron’s liquidation shows why the US isn’t ready to make its own batteries",
       "link": "https://techcrunch.com/2025/09/05/natrons-liquidation-shows-why-the-us-isnt-ready-to-make-its-own-batteries/",
@@ -1166,15 +1175,6 @@
       "category": "tech"
     },
     {
-      "id": "17480dc167bd69aed1ae37bf720dc62be788d9ab",
-      "title": "Israel destroys dozens of buildings in Gaza City as new offensive intensifies",
-      "link": "https://www.bbc.com/news/articles/czx0d71gryzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The images come as the Israeli military says it has established control over 40% of Gaza City.",
-      "published": "2025-09-05T14:25:09+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "6bc2a6c1e019d20e4ed101b8cc2977ced9c88a5d",
       "title": "Tesla shareholders to vote on investing in Musk’s AI startup xAI",
       "link": "https://techcrunch.com/2025/09/05/tesla-shareholders-to-vote-on-investing-in-musks-ai-startup-xai/",
@@ -1199,15 +1199,6 @@
       "summary": "Industry is moving towards custom solutions in wake of Nvidia's market domination.",
       "published": "2025-09-05T13:30:46+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "d1cd23aa9f2e538b4ad96f50d719b1a623259654",
-      "title": "Snapchat’s new Lens lets you create AI images using text prompts",
-      "link": "https://techcrunch.com/2025/09/05/snapchats-new-lens-lets-you-create-ai-images-using-text-prompts/",
-      "summary": "While Snapchat already has numerous generative AI Lenses, the company notes that Imagine Lens is its first open prompt image-generation Lens.",
-      "published": "2025-09-05T12:00:00+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1263,6 +1254,15 @@
       "published": "2025-09-04T23:18:36+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
+    },
+    {
+      "id": "a52be5ca7ed53c147c8c698cb828f8aba291a633",
+      "title": "'My mother was my shelter and storm': Arundhati Roy on her fierce new memoir",
+      "link": "https://www.bbc.com/news/articles/c4gzdnp43l8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mother Mary comes to me is a raw, bruising, yet life-affirming portrait of Arundhati Roy's mother.",
+      "published": "2025-09-04T22:47:37+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "f3685d72ce84042986208f6d797423c6f2ff82d6",
@@ -1544,20 +1544,20 @@
       "category": "events"
     },
     {
+      "id": "d46cda75458ee272dd714263ca4fa1a2ab1ebd57",
+      "title": "VoxDeck",
+      "link": "https://www.producthunt.com/posts/voxdeck-2",
+      "summary": "<p>\n            3D charts, motion cover​ & avatar generation for slides\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/voxdeck-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1009177?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-25T09:57:58+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "af9781e487ed53936c273cdeeb895aec12d047dd",
       "title": "Clips by xdge.ai",
       "link": "https://www.producthunt.com/posts/clips-by-xdge-ai",
       "summary": "<p>\n            Ditch Meetings and effortlessly capture + rewind your day\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/clips-by-xdge-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1008190?app_id=339\">Link</a>\n          </p>",
       "published": "2025-08-22T07:53:34+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "75032bf885d9aa8f43b76a48df2be0ce2833c009",
-      "title": "Incerto",
-      "link": "https://www.producthunt.com/posts/incerto",
-      "summary": "<p>\n            The AI Copilot for Databases\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/incerto?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1007873?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-08-21T12:49:03+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
