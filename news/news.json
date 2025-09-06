@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2025-09-06T18:16:07.208330+00:00",
+  "generatedAt": "2025-09-06T19:09:35.066688+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "d7e75adf2df3faf13a5ece28f3feb93be11a9b6f",
+      "title": "Israel destroys second high-rise as assault on Gaza City intensifies",
+      "link": "https://www.bbc.com/news/articles/cz9jpzql958o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel continues to expand its military operation in Gaza, urging Palestinians to leave Gaza City and move south.",
+      "published": "2025-09-06T18:44:36+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "3db377bf9a94f813b7a963e3128722a7e7969b65",
       "title": "Supermarket rooftop collapsed in Germany, 2 severely injured",
@@ -66,15 +75,6 @@
       "published": "2025-09-06T17:24:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
-    },
-    {
-      "id": "d7e75adf2df3faf13a5ece28f3feb93be11a9b6f",
-      "title": "Israel destroys second high-rise as assault on Gaza City intensifies",
-      "link": "https://www.bbc.com/news/articles/cz9jpzql958o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel says it gave warnings in advance of the strike on the Sussi Tower, but Palestinians say displaced people were sheltering in the building.",
-      "published": "2025-09-06T17:21:21+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "8340820e73449e7739c858d4358d5eb6e27de47a",
@@ -1526,15 +1526,6 @@
       "category": "events"
     },
     {
-      "id": "13c1f326f4b02f3a9601136d9026490b0bee59d3",
-      "title": "Billing SDK",
-      "link": "https://www.producthunt.com/posts/billing-sdk-2",
-      "summary": "<p>\n            Open source billing UI components\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/billing-sdk-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1011707?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-09-01T13:24:06+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "8071838e0b3eb1baa7ebfb7d8a807d278c69828b",
       "title": "No Cap Accelerate (nc/acc)",
       "link": "https://www.producthunt.com/posts/no-cap-accelerate-nc-acc",
@@ -1549,6 +1540,15 @@
       "link": "https://www.producthunt.com/posts/katalog-2",
       "summary": "<p>\n            Talk to your reading list\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/katalog-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1010375?app_id=339\">Link</a>\n          </p>",
       "published": "2025-08-28T10:59:00+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "327ec4ba289f353b2bf0414561872efb2cb20654",
+      "title": "Spiral",
+      "link": "https://www.producthunt.com/posts/spiral-11",
+      "summary": "<p>\n            Analyze your reviews & support data with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/spiral-11?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1010132?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-27T18:41:13+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
