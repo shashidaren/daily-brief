@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2025-09-06T21:10:52.134881+00:00",
+  "generatedAt": "2025-09-06T22:11:15.539040+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "c848037938aa6e16dea0cd8447d374915bd59e4e",
+      "title": "Why is an Amazon-backed AI startup making Orson Welles fan fiction?",
+      "link": "https://techcrunch.com/2025/09/06/why-is-an-amazon-backed-ai-startup-making-orson-welles-fan-fiction/",
+      "summary": "This is a bad idea.",
+      "published": "2025-09-06T21:30:22+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "84e2f35938715798bab1d67aee0f6e7e583ce0eb",
       "title": "Boko Haram kills at least 60 in overnight attack on Nigerian village",
@@ -37,6 +46,15 @@
       "link": "https://www.thestar.com.my/news/world/2025/09/07/zelenskiy-says-nearly-60-of-ukrainian-arms-home-produced",
       "summary": "(Reuters) -President Volodymyr Zelenskiy said on Saturday that nearly 60% of weapons used by Ukraine's military were domestically produced, already exceeding a target he set two months ago. <a href=\"https://www.thestar.com.my/news/world/2025/09/07/zelenskiy-says-nearly-60-of-ukrainian-arms-home-produced\">Read full story</a>",
       "published": "2025-09-06T20:34:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "ed3a8c3218fa0b223ec06fdbe2efe9fbb771e3b7",
+      "title": "Broken cable caused fatal Lisbon funicular derailment: investigation",
+      "link": "https://www.thestar.com.my/news/world/2025/09/07/broken-cable-caused-fatal-lisbon-funicular-derailment-investigation",
+      "summary": "LISBON, Sept. 6 (Xinhua) -- Portugal's transport accident authority confirmed Saturday that a snapped steel cable caused the Gloria Funicular derailment in downtown Lisbon, killing 16 and injuring 22. <a href=\"https://www.thestar.com.my/news/world/2025/09/07/broken-cable-caused-fatal-lisbon-funicular-derailment-investigation\">Read full story</a>",
+      "published": "2025-09-06T20:25:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
     },
@@ -136,15 +154,6 @@
       "link": "https://www.thestar.com.my/news/world/2025/09/07/supermarket-rooftop-collapsed-in-germany-2-severely-injured",
       "summary": "BERLIN, Sept. 6. (Xinhua) -- The roof of a supermarket collapsed Saturday evening in Lauchringen in Germany's federal state of Baden-Wurttemberg. At least two people were injured, according to local media. <a href=\"https://www.thestar.com.my/news/world/2025/09/07/supermarket-rooftop-collapsed-in-germany-2-severely-injured\">Read full story</a>",
       "published": "2025-09-06T17:44:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "6519c6375f6adc24cf89375ef2445ef203715f94",
-      "title": "Possible drone falls on eastern Poland, Polish broadcaster reports",
-      "link": "https://www.thestar.com.my/news/world/2025/09/07/possible-drone-falls-on-eastern-poland-polish-broadcaster-reports",
-      "summary": "WARSAW (Reuters) -An unidentified object likely to be a drone fell near the village of Majdan-Sielec in eastern Poland, private broadcaster RMF FM reported on Saturday. <a href=\"https://www.thestar.com.my/news/world/2025/09/07/possible-drone-falls-on-eastern-poland-polish-broadcaster-reports\">Read full story</a>",
-      "published": "2025-09-06T17:40:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
     },
@@ -446,10 +455,10 @@
       "category": "deals"
     },
     {
-      "id": "a4cea7e3f71737ef19b325eb176b089e5f6d1cb4",
-      "title": "'Strange noises' heard before squatter found living in house with lights, TV and bed",
+      "id": "e4e82970a4984bd1fb688b31e27032bb64b0ab8c",
+      "title": "'Strange noises' heard before squatter found in house with lights, TV and bed",
       "link": "https://www.bbc.com/news/articles/c059gqml15go?at_medium=RSS&at_campaign=rss",
-      "summary": "Law enforcement arrested a man in the crawl space of an Oregon home after the owner said no one should be there.",
+      "summary": "The owner had no idea the intruder was living in the crawl space beneath the home near Portland, Oregon.",
       "published": "2025-09-06T11:52:58+00:00",
       "source": "BBC News",
       "category": "world"
@@ -1202,15 +1211,6 @@
       "category": "tech"
     },
     {
-      "id": "f0be81724ae532a32c48a9034eb12777ea4f0a17",
-      "title": "Today is your last chance to exhibit your brand in front of 10K tech leaders at TechCrunch Disrupt 2025",
-      "link": "https://techcrunch.com/2025/09/05/today-is-your-last-chance-to-exhibit-your-brand-in-front-of-10k-tech-leaders-at-techcrunch-disrupt-2025/",
-      "summary": "If you want to get in front of more than 10,000 startup and VC leaders, connect with media, and generate a nonstop pipeline this October, you need to act now.",
-      "published": "2025-09-05T14:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "cca08d821a69eeb908fc985947e1e144e4c09fb6",
       "title": "OpenAI links up with Broadcom to produce its own AI chips",
       "link": "https://arstechnica.com/ai/2025/09/openai-links-up-with-broadcom-to-produce-its-own-ai-chips/",
@@ -1445,15 +1445,6 @@
       "category": "malaysia"
     },
     {
-      "id": "739ad5f07c719b5382e6322e8e765098a2912499",
-      "title": "reMarkable Paper Pro Move",
-      "link": "https://www.producthunt.com/posts/remarkable-paper-pro-move",
-      "summary": "<p>\n            For work that happens anytime, anywhere, and with anyone. \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/remarkable-paper-pro-move?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1012671?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-09-04T02:29:20+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "7418b3604bec5267fd04eb6d1010c7cf9c0cc764",
       "title": "Kaylin AI",
       "link": "https://www.producthunt.com/posts/kaylin-ai",
@@ -1495,15 +1486,6 @@
       "link": "https://www.producthunt.com/posts/stax",
       "summary": "<p>\n            Move your LLM evals from vibes to data\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/stax?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1012455?app_id=339\">Link</a>\n          </p>",
       "published": "2025-09-03T13:02:19+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "565c684280b4c8b182f98112cb3b3b83d60b115e",
-      "title": "Beplan",
-      "link": "https://www.producthunt.com/posts/beplan",
-      "summary": "<p>\n            Social media scheduler for influencers & agencies\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/beplan?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1012428?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-09-03T11:56:03+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1553,11 +1535,29 @@
       "category": "events"
     },
     {
+      "id": "327ec4ba289f353b2bf0414561872efb2cb20654",
+      "title": "Spiral",
+      "link": "https://www.producthunt.com/posts/spiral-11",
+      "summary": "<p>\n            Analyze your reviews & support data with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/spiral-11?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1010132?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-27T18:41:13+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "7767b365daa164b4707bfaa931d0f06ab00a4ba4",
       "title": "CapCut AI Suite",
       "link": "https://www.producthunt.com/posts/capcut-ai-suite",
       "summary": "<p>\n            Create, edit, or remix content with AI in a simple editor\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/capcut-ai-suite?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1010082?app_id=339\">Link</a>\n          </p>",
       "published": "2025-08-27T15:39:52+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "d46cda75458ee272dd714263ca4fa1a2ab1ebd57",
+      "title": "VoxDeck",
+      "link": "https://www.producthunt.com/posts/voxdeck-2",
+      "summary": "<p>\n            3D charts, motion cover​ & avatar generation for slides\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/voxdeck-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1009177?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-08-25T09:57:58+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
