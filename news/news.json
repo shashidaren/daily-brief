@@ -1,9 +1,72 @@
 {
-  "generatedAt": "2025-09-14T16:13:56.871146+00:00",
+  "generatedAt": "2025-09-14T17:10:05.493786+00:00",
   "counts": {
-    "total": 174
+    "total": 175
   },
   "items": [
+    {
+      "id": "5f49d8b2fdf6b42484269f7afd491059141fa0c2",
+      "title": "Karen Hao on the Empire of AI, AGI evangelists, and the cost of belief",
+      "link": "https://techcrunch.com/2025/09/14/karen-hao-on-the-empire-of-ai-agi-evangelists-and-the-cost-of-belief/",
+      "summary": "OpenAI’s rise isn’t just a business story — it’s an ideological one. On Equity, Karen Hao, author of Empire AI, explores how the cult of AGI has fueled a billion-dollar race, justified massive spending on compute and data, and blurred the line between mission and profit.",
+      "published": "2025-09-14T17:00:34+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "cdd1ec62be270e85c3b4dfd31837b8c079ba5c79",
+      "title": "Final stage of Vuelta abandoned because of protests",
+      "link": "https://www.bbc.com/sport/cycling/articles/crl5dele2wro?at_medium=RSS&at_campaign=rss",
+      "summary": "The final stage of the Vuelta a Espana is abandoned after pro-Palestinian protesters enter the course in the centre of Madrid.",
+      "published": "2025-09-14T16:59:17+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "c87db51983fd1615ac12041484a009f11e3f5ced",
+      "title": "Rolling Stone’s parent company sues Google over AI Overviews",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/777788/rolling-stone-penske-media-sue-google-ai-overviews",
+      "summary": "Disclosure: Penske Media Corporation is an investor in Vox Media, The Verge’s parent company. Penske Media Corporation, the publisher of Rolling Stone and The Hollywood Reporter, has become the first major American media company to sue Google over its AI summaries. The company claims that the AI Overviews that often appear at the top of [&#8230;]",
+      "published": "2025-09-14T16:49:38+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "2144d7859480a4fd8836c1127f9eee4d8d28a54b",
+      "title": "Romania becomes second Nato country to report Russian drone in its airspace",
+      "link": "https://www.bbc.com/news/articles/c80g7g5rmlno?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's President Zelensky called the incursion \"an obvious expansion of the war by Russia\".",
+      "published": "2025-09-14T16:41:33+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "afbdf6f6c961e95bfaf3c8ab302a3d6ff4fd7987",
+      "title": "iPhone 17, iPhone Air, AirPods Pro 3, and everything else announced at Apple’s hardware event",
+      "link": "https://techcrunch.com/2025/09/14/iphone-17-iphone-air-airpods-pro-3-and-everything-else-announced-at-apples-hardware-event/",
+      "summary": "From a new slim iPhone Air model to  redesigned AirPods, here's what was announced at this year's Apple event.",
+      "published": "2025-09-14T16:32:39+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "1574d41e14e48c828bf8e4efaa90fea20d87f0f7",
+      "title": "Tens of thousands protest against legal crackdown on Turkey&#039;s main opposition party",
+      "link": "https://www.thestar.com.my/news/world/2025/09/15/tens-of-thousands-protest-against-legal-crackdown-on-turkey039s-main-opposition-party",
+      "summary": "ANKARA (Reuters) -Tens of thousands of people protested in the capital Ankara on Sunday against a court case that could oust the head of the main opposition on Monday after a year-long legal crackdown on hundreds of its members. <a href=\"https://www.thestar.com.my/news/world/2025/09/15/tens-of-thousands-protest-against-legal-crackdown-on-turkey039s-main-opposition-party\">Read full story</a>",
+      "published": "2025-09-14T16:24:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "19040d39e119a86e4fbd16681ead41e7940c3764",
+      "title": "Rolling Stone owner Penske Media sues Google over AI summaries",
+      "link": "https://techcrunch.com/2025/09/14/rolling-stone-owner-penske-media-sues-google-over-ai-summaries/",
+      "summary": "Penske's lawsuit accuses Google of abusing its monopoly power in search to force publishers to support AI summaries.",
+      "published": "2025-09-14T16:20:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "c867c36a20217e4c7b952a77d048be0874ca3985",
       "title": "Via raises $492.9M in IPO, and German automakers go on the offensive",
@@ -12,6 +75,15 @@
       "published": "2025-09-14T16:05:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
+    },
+    {
+      "id": "7f3faddfa1509469e4c86b9bb9d15a7c0de7d669",
+      "title": "Editorial:  ‘Secondary sanctions’ call for vigilance",
+      "link": "https://www.thestar.com.my/news/focus/2025/09/15/editorial--secondary-sanctions-call-for-vigilance",
+      "summary": "Reports once again expose the US administration's habitual abuse of economic coercion and its self-serving 'art of the deal' mentality. <a href=\"https://www.thestar.com.my/news/focus/2025/09/15/editorial--secondary-sanctions-call-for-vigilance\">Read full story</a>",
+      "published": "2025-09-14T16:00:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
     },
     {
       "id": "8b73e9911538ca7f8c0cbe64a813b6c0f60a75b7",
@@ -122,15 +194,6 @@
       "category": "malaysia"
     },
     {
-      "id": "7548f40924aac18b0923342b5c109d06bed08cd9",
-      "title": "UK PM Starmer says people have a right to &#039;peaceful protest&#039; after anti-migrant march",
-      "link": "https://www.thestar.com.my/news/world/2025/09/14/uk-pm-starmer-says-people-have-a-right-to-039peaceful-protest039-after-anti-migrant-march",
-      "summary": "LONDON (Reuters) -British Prime Minister Keir Starmer said people have a right to peaceful protest after more than 100,000 demonstrators joined an anti-immigration march through London on Saturday, but he condemned assaults on police and said Britain was built on tolerance and diversity. <a href=\"https://www.thestar.com.my/news/world/2025/09/14/uk-pm-starmer-says-people-have-a-right-to-039peaceful-protest039-after-anti-migrant-march\">Read full story</a>",
-      "published": "2025-09-14T14:15:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "24fc29f5a6543968f703036c9b800a76b87df7d7",
       "title": "Scarlet turns Shakespeare into an animated fantasy epic",
       "link": "https://www.theverge.com/toronto-international-film-festival/777609/tiff-2025-reviews-scarlet-project-y-sentimental-value",
@@ -138,15 +201,6 @@
       "published": "2025-09-14T14:00:00+00:00",
       "source": "The Verge",
       "category": "tech"
-    },
-    {
-      "id": "2144d7859480a4fd8836c1127f9eee4d8d28a54b",
-      "title": "Romania becomes second Nato country to report Russian drone in its airspace",
-      "link": "https://www.bbc.com/news/articles/c80g7g5rmlno?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's President Zelensky called the incursion \"an obvious expansion of the war by Russia\".",
-      "published": "2025-09-14T13:58:30+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "f6e9e49fcdb6edcc97491101a8395a285b114a87",
@@ -539,7 +593,7 @@
       "id": "ab21c234cb101f34855771224b4756586ca110ef",
       "title": "Google releases VaultGemma, a 1B-parameter model it says is the largest open LLM trained from scratch with differential privacy, on Hugging Face and Kaggle (Google Research)",
       "link": "http://www.techmeme.com/250914/p3#a250914p3",
-      "summary": "<a href=\"https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250914/i3.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250914/p3#a250914p3\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://research.google/\">Google Research</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/\">Google releases VaultGemma, a 1B-parameter model it says is the largest open LLM trained from scratch with differential privacy, on Hugging Face and Kaggle</a></b></span>&nbsp; &mdash;&nbsp; Amer Sinha, Software Engineer, and Ryan McKenna, Research Scientist, Google Research&nbsp; &mdash;&nbsp; We introduce VaultGemma &hellip; </p>",
+      "summary": "<a href=\"https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250914/i3.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250914/p3#a250914p3\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://research.google/\">Google Research</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/\">Google releases VaultGemma, a 1B-parameter model it says is the largest open LLM trained from scratch with differential privacy, on Hugging Face and Kaggle</a></b></span>&nbsp; &mdash;&nbsp; We introduce VaultGemma, the most capable model trained from scratch with differential privacy.&nbsp; As AI becomes more integrated into our lives &hellip; </p>",
       "published": "2025-09-14T05:50:02+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -878,15 +932,6 @@
       "category": "deals"
     },
     {
-      "id": "579fa64c5ad9dc97f24f7b4995feb2ef858e3dd0",
-      "title": "Exit 8’s director was inspired by watching people play the game",
-      "link": "https://www.theverge.com/interview/777509/exit-8-director-interview",
-      "summary": "Few video game adaptations understand their source material quite like the Exit 8 film. It takes the rules and structure of the game - which strands players inside of a looping hallway in a Tokyo subway station - and then builds on them with actual characters and a story. And according to director Genki Kawamura, [&#8230;]",
-      "published": "2025-09-13T13:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "15040e3bc6644dac898682353c660c0f89dd5787",
       "title": "9to5Toys Battlestation Weekly – Alienware RTX 5070 Ti gaming PC $600 off, fresh lows on Odyssey monitors, more",
       "link": "https://9to5toys.com/2025/09/13/9to5toys-battlestation-weekly-alienware-gaming-pc-odyssey-monitors-more/",
@@ -1029,15 +1074,6 @@
       "published": "2025-09-13T04:00:41+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "bdb2e449edf5842820e22272a556e4e02f105385",
-      "title": "BBC reports from house linked to Charlie Kirk shooting suspect",
-      "link": "https://www.bbc.com/news/videos/cd635wwgz85o?at_medium=RSS&at_campaign=rss",
-      "summary": "Sitting outside was a grey car, similar to the model detectives said the suspect used to drive to the scene of the attack.",
-      "published": "2025-09-13T01:00:27+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "5de1c8cb65266fe472c13e68e99e03d7a827aa04",
@@ -1274,30 +1310,12 @@
       "category": "tech"
     },
     {
-      "id": "a2c7a1c78fbde75e56f5c4d0bd392e8a62318785",
-      "title": "Last day to amplify your brand: Host your Side Event at TechCrunch Disrupt 2025",
-      "link": "https://techcrunch.com/2025/09/12/last-day-to-amplify-your-brand-host-your-side-event-at-disrupt-2025/",
-      "summary": "The application to host a Side Event at TechCrunch Disrupt 2025 closes tonight at 11:59 p.m. PT. Boost your brand during Disrupt Week in October. Apply now.",
-      "published": "2025-09-12T15:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "27f672516eb617515ac87319ff9b51bfd17df73c",
       "title": "Ex-DVD company employee gets 4 years for leaking Spider-Man Blu-ray",
       "link": "https://arstechnica.com/tech-policy/2025/09/ex-dvd-company-employee-gets-4-years-for-leaking-spider-man-blu-ray/",
       "summary": "Man agreed to return more than 1,000 stolen DVDs to his former employer.",
       "published": "2025-09-12T14:44:55+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "e03b23f54d4b8473486dcd5fa88fae1e2d90c1cf",
-      "title": "How an over-the-air update made Quilt’s heat pumps more powerful",
-      "link": "https://techcrunch.com/2025/09/12/how-an-over-the-air-update-made-quilts-heat-pumps-more-powerful/",
-      "summary": "Quilt's software update unlocked an additional 20% heating and cooling capacity for all of its heat pumps, including those installed in customers' homes.",
-      "published": "2025-09-12T14:42:31+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1317,15 +1335,6 @@
       "published": "2025-09-12T13:42:39+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "5637d84f9880389ced1ea8dcab116036aba38f83",
-      "title": "Apple delays release of iPhone Air in China due to pending approval of eSIM",
-      "link": "https://techcrunch.com/2025/09/12/apple-delays-release-of-iphone-air-in-china-due-to-pending-approval-of-esim/",
-      "summary": "The eSIM-only iPhone Air's release is being delayed in China, likely due to regulatory issues around the approval of the embedded SIM.",
-      "published": "2025-09-12T13:15:23+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "436d9af7ef2cf85cbeea4d82b5b0984deaf1c3cc",
@@ -1481,6 +1490,15 @@
       "category": "events"
     },
     {
+      "id": "ea238614873c5ef8d633e945b77a3e9c05287b65",
+      "title": "Genspark AI Browser",
+      "link": "https://www.producthunt.com/posts/genspark-ai-browser",
+      "summary": "<p>\n            World's First On-Device Free AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/genspark-ai-browser?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1015322?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-09-11T17:12:49+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "cb2014ffa179a75d5c1bcfc8a8bca545f35b7205",
       "title": "Replit Agent 3",
       "link": "https://www.producthunt.com/posts/replit-agent-3",
@@ -1490,11 +1508,11 @@
       "category": "events"
     },
     {
-      "id": "859160b932951b024fcaa389d81f1ec2b68788e4",
-      "title": "Mozart AI v0.5",
-      "link": "https://www.producthunt.com/posts/mozart-ai-v0-5",
-      "summary": "<p>\n            Cursor for making music\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/mozart-ai-v0-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1015074?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-09-11T02:20:11+00:00",
+      "id": "a25b97750371f97e2edaad96d7cc38eef1fc16ef",
+      "title": "Vidzflow 2.0",
+      "link": "https://www.producthunt.com/posts/vidzflow-2-0",
+      "summary": "<p>\n            The complete video platform for Webflow\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/vidzflow-2-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1015220?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-09-11T11:05:41+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1558,15 +1576,6 @@
       "link": "https://www.producthunt.com/posts/greenmor-mail",
       "summary": "<p>\n            Email, simplified\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/greenmor-mail?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1000628?app_id=339\">Link</a>\n          </p>",
       "published": "2025-08-02T09:51:42+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "1fbeddeb16ee1818a7ed3a297c3942a207914bc1",
-      "title": "Rebrowse",
-      "link": "https://www.producthunt.com/posts/rebrowse",
-      "summary": "<p>\n            Turn screen-recording into 100 browser flows in one click.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/posts/rebrowse?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/987539?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-07-03T07:50:39+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
