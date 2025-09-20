@@ -1,17 +1,53 @@
 {
-  "generatedAt": "2025-09-20T19:09:19.148248+00:00",
+  "generatedAt": "2025-09-20T20:12:50.865692+00:00",
   "counts": {
     "total": 175
   },
   "items": [
     {
-      "id": "e8b5d4d254a9c108cd9eeb3a63ca1f4a95cdca13",
-      "title": "Cyber-attack causes delays at Heathrow and other European airports",
+      "id": "186b99ccb4899e9d17eb40379ea09e4e54adac50",
+      "title": "White House offers more details about potential TikTok deal",
+      "link": "https://techcrunch.com/2025/09/20/white-house-offers-more-details-about-potential-tiktok-deal/",
+      "summary": "The White House press secretary said Americans will hold six of seven board seats in the restructured TikTok, and the video app’s algorithm will be U.S.-controlled.",
+      "published": "2025-09-20T20:09:32+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "171cb02a0b520e75d65bfbe012b3eabb251724d3",
+      "title": "A profile of Anthropic CEO Dario Amodei, a critic of Trump and David Sacks' AI agenda, arguing its hands-off approach could steer AI down a dangerous path (Wall Street Journal)",
+      "link": "http://www.techmeme.com/250920/p14#a250920p14",
+      "summary": "<a href=\"https://www.wsj.com/tech/ai/ai-anthropic-dario-amodei-david-sacks-9c1a771c?st=53gjzr&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250920/i14.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250920/p14#a250920p14\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/tech/ai/ai-anthropic-dario-amodei-david-sacks-9c1a771c?st=53gjzr&amp;reflink=desktopwebshare_permalink\">A profile of Anthropic CEO Dario Amodei, a critic of Trump and David Sacks' AI agenda, arguing its hands-off approach could steer AI down a dangerous path</a></b></span>&nbsp; &mdash;&nbsp; A battle between Anthropic's Dario Amodei and the White House pits worries about safe development against a free-market approach</p>",
+      "published": "2025-09-20T19:30:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "19e07f8a23fcffd47c8300ad5b6d596d35555036",
+      "title": "Trump hits H-1B visas with $100,000 fee, targeting the program that launched Elon Musk and Instagram",
+      "link": "https://techcrunch.com/2025/09/20/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/",
+      "summary": "President Trump signed a proclamation Friday requiring employers to pay a hefty $100,000 fee for new H-1B visa applications—an enormous jump from the current $215 lottery registration fee—targeting the very program that helped create some of Silicon Valley's biggest success stories.",
+      "published": "2025-09-20T19:13:20+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "45ab798efec135e47e81c2e9ee7f04fc42cf9d08",
+      "title": "Day of delays at Heathrow after cyber-attack brings disruption",
       "link": "https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Travellers report multi-hour waits for some airlines as disruption also hits Brussels and Berlin.",
+      "summary": "The issue affecting check-in and baggage systems has also caused cancellations in Brussels and Berlin.",
       "published": "2025-09-20T19:07:42+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "88f101e2eeb8babeb6d3803a2c04c4ebfa6cf1f4",
+      "title": "Maduro offers to engage in direct talks with Trump envoy Grenell",
+      "link": "https://www.thestar.com.my/news/world/2025/09/21/maduro-offers-to-engage-in-direct-talks-with-trump-envoy-grenell",
+      "summary": "WASHINGTON/BOGOTA (Reuters) -Venezuelan President Nicolas Maduro offered to engage in direct talks with the administration of U.S. President Donald Trump days after the first U.S. strike on a boat from the South American country that Trump says was carrying drug traffickers. <a href=\"https://www.thestar.com.my/news/world/2025/09/21/maduro-offers-to-engage-in-direct-talks-with-trump-envoy-grenell\">Read full story</a>",
+      "published": "2025-09-20T19:07:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
     },
     {
       "id": "1a3ad1bca50226b1f48001c5274e88b7b816ad3a",
@@ -50,19 +86,19 @@
       "category": "tech"
     },
     {
-      "id": "8f0973e5907142d2142b6a1b0b9cee8c4636d802",
-      "title": "US new H-1B visa fee will not apply to existing holders, Axios reports",
+      "id": "9889d6a2340a518063f73f9e59211fcd78c8e992",
+      "title": "US new H-1B visa fee will not apply to existing holders, White House says",
       "link": "https://www.thestar.com.my/news/world/2025/09/21/us-new-h-1b-visa-fee-will-not-apply-to-existing-holders-axios-reports",
-      "summary": "(Reuters) -A new $100,000 annual fee for H-1B visas in the United States goes into effect Sunday, but it will not be applied to existing holders of valid visas re-entering the country, Axios reported on Saturday. <a href=\"https://www.thestar.com.my/news/world/2025/09/21/us-new-h-1b-visa-fee-will-not-apply-to-existing-holders-axios-reports\">Read full story</a>",
+      "summary": "(Reuters) -A new $100,000 annual fee for H-1B visas in the United States goes into effect on Sunday, but it will not be applied to existing holders of valid visas re-entering the country, a White House official said on Saturday. <a href=\"https://www.thestar.com.my/news/world/2025/09/21/us-new-h-1b-visa-fee-will-not-apply-to-existing-holders-axios-reports\">Read full story</a>",
       "published": "2025-09-20T17:53:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
     },
     {
-      "id": "8ba1168310a31a78d90a0ddba02067c2e306f8e2",
-      "title": "A White House official says the $100K H-1B fee will not apply to renewals or existing holders of valid visas re-entering the US, only new applicants (Ben Berkowitz/Axios)",
+      "id": "d1637195b3ea93f64bd590c9010c7fdcd0b83948",
+      "title": "White House says the $100K H-1B fee will not apply to renewals or existing H-1B holders re-entering the US, only to future applicants in the February lottery (Ben Berkowitz/Axios)",
       "link": "http://www.techmeme.com/250920/p12#a250920p12",
-      "summary": "<a href=\"https://www.axios.com/2025/09/20/trump-h-1b-immigration-visas\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250920/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250920/p12#a250920p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ben Berkowitz / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/2025/09/20/trump-h-1b-immigration-visas\">A White House official says the $100K H-1B fee will not apply to renewals or existing holders of valid visas re-entering the US, only new applicants</a></b></span>&nbsp; &mdash;&nbsp; A new $100,000 fee for H-1B visas goes into effect Sunday, but it will not be applied to existing holders of valid visas re-entering the country, a White House official tells Axios.</p>",
+      "summary": "<a href=\"https://www.axios.com/2025/09/20/trump-h-1b-immigration-visas\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250920/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250920/p12#a250920p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ben Berkowitz / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/2025/09/20/trump-h-1b-immigration-visas\">White House says the $100K H-1B fee will not apply to renewals or existing H-1B holders re-entering the US, only to future applicants in the February lottery</a></b></span>&nbsp; &mdash;&nbsp; A new $100,000 fee for H-1B visas goes into effect Sunday, but it will not be applied to existing holders of valid visas re-entering the country &hellip; </p>",
       "published": "2025-09-20T17:30:02+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -77,10 +113,10 @@
       "category": "tech"
     },
     {
-      "id": "15ebe3e7e76021ba242cef5c9219c12dd0aa8349",
-      "title": "Memos: Amazon, which employs the most H-1B holders at 14K+, and Microsoft advise H-1B staff to avoid travel and return to the US before 12:01am ET on Sept. 21 (Yun Li/CNBC)",
+      "id": "98cdea5b449370107f7764b1fb47b73e7b203965",
+      "title": "Memos: Amazon, which has the most H-1B staff at 14K+, Google, and Microsoft tell H-1B visa holders to return to the US before September 21 and avoid travel (Yun Li/CNBC)",
       "link": "http://www.techmeme.com/250920/p11#a250920p11",
-      "summary": "<a href=\"https://www.cnbc.com/2025/09/20/trump-h-1b-visa-tech-foreign-governments.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250920/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250920/p11#a250920p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Yun Li / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2025/09/20/trump-h-1b-visa-tech-foreign-governments.html\">Memos: Amazon, which employs the most H-1B holders at 14K+, and Microsoft advise H-1B staff to avoid travel and return to the US before 12:01am ET on Sept. 21</a></b></span>&nbsp; &mdash;&nbsp; Major technology companies and foreign governments are rushing to respond after President Donald Trump late Friday announced plans &hellip; </p>",
+      "summary": "<a href=\"https://www.cnbc.com/2025/09/20/trump-h-1b-visa-tech-foreign-governments.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250920/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250920/p11#a250920p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Yun Li / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2025/09/20/trump-h-1b-visa-tech-foreign-governments.html\">Memos: Amazon, which has the most H-1B staff at 14K+, Google, and Microsoft tell H-1B visa holders to return to the US before September 21 and avoid travel</a></b></span>&nbsp; &mdash;&nbsp; Major technology companies and foreign governments are rushing to respond after President Donald Trump late Friday announced plans &hellip; </p>",
       "published": "2025-09-20T17:20:00+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -408,15 +444,6 @@
       "published": "2025-09-20T13:00:00+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "24233dd0988ace1b9dc2887a3315629f4939e20d",
-      "title": "Baby accidentally smothered to death by mother",
-      "link": "https://www.thestar.com.my/news/2025/09/20/baby-accidentally-smothered-to-death-by-mother",
-      "summary": "IPOH: A two-month-old baby died after being accidentally smothered by his mother in Kampung Sungai Dua Kota Setia, near Parit, last Thursday (Sept 18). <a href=\"https://www.thestar.com.my/news/2025/09/20/baby-accidentally-smothered-to-death-by-mother\">Read full story</a>",
-      "published": "2025-09-20T12:57:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "360c54cbc1bae41cc05f5f7da65e99e4d6a742d2",
@@ -788,15 +815,6 @@
       "category": "world"
     },
     {
-      "id": "eb747e1501e1432363c9fa1dbb7e5eac0af3ac0e",
-      "title": "China introduces new rules to curb monks' and clergy's use of livestreaming and AI for unlicensed online preaching and commercial activities, following scandals (Financial Times)",
-      "link": "http://www.techmeme.com/250919/p28#a250919p28",
-      "summary": "<a href=\"https://t.co/dgYcpZVqpx\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250919/i28.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250919/p28#a250919p28\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://t.co/dgYcpZVqpx\">China introduces new rules to curb monks' and clergy's use of livestreaming and AI for unlicensed online preaching and commercial activities, following scandals</a></b></span>&nbsp; &mdash;&nbsp; Rules to curb online activities of money-minded monks and clergy follows scandal at world-renowned Shaolin Temple</p>",
-      "published": "2025-09-20T02:10:36+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "8fdb552c2ec4ed2b8e582581ebd927fdb9bc6c53",
       "title": "Republican senator says US TV regulator acted like 'mafioso' on Jimmy Kimmel",
       "link": "https://www.bbc.com/news/articles/c1kwzgrwdd0o?at_medium=RSS&at_campaign=rss",
@@ -804,15 +822,6 @@
       "published": "2025-09-20T02:01:01+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "2d5f84ecd95552e3152ac2cb8b19e1658c4d29b7",
-      "title": "Trump hits H-1B visas with $100,000 fee, targeting the program that launched Elon Musk and Instagram",
-      "link": "https://techcrunch.com/2025/09/19/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/",
-      "summary": "President Trump signed a proclamation Friday requiring employers to pay a hefty $100,000 fee for new H-1B visa applications—an enormous jump from the current $215 lottery registration fee—targeting the very program that helped create some of Silicon Valley's biggest success stories.",
-      "published": "2025-09-20T01:34:22+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "e4dc4416a5444f3a3661c1e819242a28d32feebf",
@@ -1270,15 +1279,6 @@
       "link": "https://techcrunch.com/2025/09/19/octopus-energy-spins-off-its-kraken-utility-billing-and-ai-platform/",
       "summary": "The British renewable energy provider said that its Kraken platform had $500 million in committed annual revenue, spurring a spinoff that could result in a massive IPO.",
       "published": "2025-09-19T14:28:03+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "158476841a0dabdfeb775a7feda3314d1a4dabe6",
-      "title": "How developers are using Apple’s local AI models with iOS 26",
-      "link": "https://techcrunch.com/2025/09/19/how-developers-are-using-apples-local-ai-models-with-ios-26/",
-      "summary": "As iOS 26 is rolling out to all users, developers have been updating their apps to include features powered by Apple's local AI models.",
-      "published": "2025-09-19T14:21:29+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
