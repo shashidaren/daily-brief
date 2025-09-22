@@ -1,9 +1,198 @@
 {
-  "generatedAt": "2025-09-22T13:24:50.880594+00:00",
+  "generatedAt": "2025-09-22T14:14:45.969708+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "60ca42c0186f22a1106ccaeb7e34f98f571fc252",
+      "title": "Record labels claim AI generator Suno illegally ripped their songs from YouTube",
+      "link": "https://www.theverge.com/news/782448/riaa-suno-ai-lawsuit-update-stream-ripping-youtube",
+      "summary": "Major record labels have escalated their lawsuit against Suno, alleging that the AI startup knowingly pirated songs from YouTube to train its generative AI music models. In the amended complaint filed on September 19th, the Recording Industry Association of America (RIAA) accuses Suno of unlawfully “stream ripping” tracks on YouTube — a practice that involves [&#8230;]",
+      "published": "2025-09-22T14:11:04+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "998c407f43be04449f4480991ae0e57d0b35f6f2",
+      "title": "Sources: smart ring maker Oura is raising an $875M+ Series E at a $10.9B valuation, up from $5B in November 2024, and has sold ~3M rings over the past year (Bloomberg)",
+      "link": "http://www.techmeme.com/250922/p10#a250922p10",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-09-22/oura-ring-maker-to-become-11-billion-company-with-latest-raise\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250922/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250922/p10#a250922p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-09-22/oura-ring-maker-to-become-11-billion-company-with-latest-raise\">Sources: smart ring maker Oura is raising an $875M+ Series E at a $10.9B valuation, up from $5B in November 2024, and has sold ~3M rings over the past year</a></b></span>&nbsp; &mdash;&nbsp; Oura Health Oy, the maker of the popular Oura health and fitness ring, is closing in on a roughly $11 billion valuation after selling about 3 million rings over the past year.</p>",
+      "published": "2025-09-22T14:10:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "bdfc083e9eb544bcdfda642bc0161260299c4ac6",
+      "title": "EU cyber agency confirms ransomware attack causing airport disruptions",
+      "link": "https://techcrunch.com/2025/09/22/eu-cyber-agency-confirms-ransomware-attack-causing-airport-disruptions/",
+      "summary": "A cyberattack targeting Collins Aerospace, a provider of airport check-in systems, sparked delays and disrupted flights across Europe over the weekend.",
+      "published": "2025-09-22T14:05:55+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "7d858658e367942d8989694abcce4e37bd31484f",
+      "title": "Budi95: Cuepacs welcomes targeted RON95 subsidy initiative",
+      "link": "https://www.thestar.com.my/news/nation/2025/09/22/budi95-cuepacs-welcomes-targeted-ron95-subsidy-initiative",
+      "summary": "KUALA LUMPUR: The Congress of Unions of Employees in the Public Service (Cuepacs) welcomes the government's efforts to restructure RON95 subsidies with a more targeted approach. <a href=\"https://www.thestar.com.my/news/nation/2025/09/22/budi95-cuepacs-welcomes-targeted-ron95-subsidy-initiative\">Read full story</a>",
+      "published": "2025-09-22T14:02:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "dee6138d65db6acf53fa865571d02d4e2179e1ab",
+      "title": "5 days left to save up to $668 on your TechCrunch Disrupt 2025 pass",
+      "link": "https://techcrunch.com/2025/09/22/5-days-left-to-save-up-to-668-on-your-techcrunch-disrupt-2025-pass-dont-pay-more-for-the-same-seat/",
+      "summary": "Register for TechCrunch Disrupt 2025 by September 26 and save up to $668 before Regular Bird pricing disappears.\n\nDisrupt 2025 gives you an exclusive look at tomorrow's tech. Founders can connect with the right investors and partners to scale their startups. Investors can discover their next portfolio company. Tech innovators and visionaries can glimpse the future of technology while building the connections that help them grow.",
+      "published": "2025-09-22T14:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "e8a43ad7b41566f59e21ab71e8abe1d4f097f01e",
+      "title": "Unit 221B raises $5 million to help track and disrupt today’s top hacking groups",
+      "link": "https://techcrunch.com/2025/09/22/unit-221b-raises-5-million-to-help-track-and-disrupt-todays-top-hacking-groups/",
+      "summary": "The seed funding raise will help Unit 221B expand its threat intelligence platform, which tracks the English-speaking youth hacking phenomenon.",
+      "published": "2025-09-22T14:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "a08e2128b9d2620bb0b32e41182b38d0335c5a91",
+      "title": "a16z crypto-backed Shield raises $5M to help facilitate international business transactions in crypto",
+      "link": "https://techcrunch.com/2025/09/22/a16z-crypto-backed-shield-raises-5m-to-help-facilitate-international-business-transactions-in-crypto/",
+      "summary": "Crypto neo-bank Shield announced on Monday that it has raised a $5 million seed round led by Giant Ventures.",
+      "published": "2025-09-22T14:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "7769045c0e8ba8e9ba0484f9e144ee58ca15bfdd",
+      "title": "Dropout’s Sam Reich on business, comedy, and keeping the internet weird",
+      "link": "https://www.theverge.com/podcast/781331/hank-green-sam-reich-dropout-collegehumor-game-changer",
+      "summary": "Hello! This is Hank Green, general internet guy and cofounder of Complexly. This is my last time in the Decoder guest host chair unfortunately, unless Nilay decides to have another kid someday, but we’re making the best of it. Today, I’m talking with my friend Sam Reich, who is the CEO and, I at least [&#8230;]",
+      "published": "2025-09-22T14:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "141a518e2ea313ed1aad51789d4c774b4d753523",
+      "title": "Why your next car should be an electric cargo bike",
+      "link": "https://www.theverge.com/transportation/781908/electric-cargo-bike-car-replace-bike-bus",
+      "summary": "A couple of years ago, I helped start a bike bus in my suburban town in North Jersey. The pandemic was still raging, and we were all looking for ways to get our kids out of the house and on to their bikes so they could get a little physical activity before school. One of [&#8230;]",
+      "published": "2025-09-22T14:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "fdbaf593db1ff904ac35287b08c98ef90812112e",
+      "title": "Some of Nintendo’s amiibo figures are up to 70 percent off",
+      "link": "https://www.theverge.com/tech/782445/some-of-nintendos-amiibo-figures-are-up-to-70-percent-off",
+      "summary": "You might have already spent a ton of money building up a modest collection of amiibo, Nintendo’s NFC-equipped figures for Switch and Switch 2. But whether you’re looking to add extras, or you’re just starting out, GameStop has several amiibo figures starting at just $5.99. On Bluesky, Wario64 pointed out the page that contains all [&#8230;]",
+      "published": "2025-09-22T13:54:18+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "0f79715e87699e0e78088d614981cfbd10caa0fc",
+      "title": "Sarah Ferguson dropped from charity over Epstein email",
+      "link": "https://www.bbc.com/news/articles/cddmr6v0jpzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The children's hospice charity says it would be inappropriate for her to continue as a patron of the charity.",
+      "published": "2025-09-22T13:53:10+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "f05d967bba6adaad2c055c15f3ab90cb88535ee5",
+      "title": "What climate targets? Top fossil fuel producing nations keep boosting output",
+      "link": "https://arstechnica.com/science/2025/09/what-climate-targets-top-fossil-fuel-producing-nations-keep-boosting-output/",
+      "summary": "Top producers are planning to mine and drill even more of the fuels in 2030.",
+      "published": "2025-09-22T13:51:00+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "65fa9e502958e9996b7464bc3085ab74d2e30556",
+      "title": "Today’s best iOS game and app deals: Death Stranding Director’s Cut, Tormentum, more",
+      "link": "https://9to5toys.com/2025/09/22/today-ios-game-app-deals-death-stranding/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2024/06/Death-Stranding-Directors-Cut.jpeg?w=1024\" /></div><p>Your Monday morning App Store deals are now ready to roll alongside the first cash discount we spotted on AirPods Pro 3 over the weekend. We also have the first deals across the entire lineup of <a href=\"https://9to5toys.com/2025/09/22/launch-deals-official-apple-iphone-17-pro-air-cases/\">official Apple iPhone 17/Pro and Air cases</a>, up to <a href=\"https://9to5toys.com/2025/09/22/apple-watch-ultra-3-black-deal/\"><strong>$65 off </strong>Apple Watch Ultra 3</a>, and a new all-time low on the <a href=\"https://9to5toys.com/2025/09/22/official-black-apple-watch-ocean-band-ultra-3/\">all-black Apple Watch Ocean Band</a> for Ultra 2/3. As far as the apps go, everything awaits below. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/09/22/today-ios-game-app-deals-death-stranding/#more-1162381\">more…</a>",
+      "published": "2025-09-22T13:46:10+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "e75f492c43cf3b368ec582f9dfa9c8719777a94f",
+      "title": "A history of the Internet, part 3: The rise of the user",
+      "link": "https://arstechnica.com/gadgets/2025/09/a-history-of-the-internet-part-3-the-rise-of-the-user/",
+      "summary": "The reins of the Internet are handed over to ordinary users—with uneven results.",
+      "published": "2025-09-22T13:41:41+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "74428ba5349670c8062369713047fa57b65e9a98",
+      "title": "Bluesky says it’s getting more aggressive about moderation and enforcement",
+      "link": "https://techcrunch.com/2025/09/22/bluesky-says-its-getting-more-aggressive-about-moderation-and-enforcement/",
+      "summary": "It sounds like Bluesky is getting serious about giving some users the boot, with the company saying it will be doing more to “enforce our moderation policies to better cultivate a space for healthy conversations.”",
+      "published": "2025-09-22T13:40:12+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "aaad96a9ce7a5dd1ddb4a53eaf1d3ff0ceda337f",
+      "title": "The US v. Google ad tech trial, in which a judge ruled that the company illegally monopolized the digital ad market, begins its remedies phase (Digiday)",
+      "link": "http://www.techmeme.com/250922/p9#a250922p9",
+      "summary": "<a href=\"https://digiday.com/media-buying/everything-you-need-to-know-about-the-closing-stages-of-googles-ad-tech-antitrust-trial/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250922/i9.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250922/p9#a250922p9\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://digiday.com/\">Digiday</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://digiday.com/media-buying/everything-you-need-to-know-about-the-closing-stages-of-googles-ad-tech-antitrust-trial/\">The US v. Google ad tech trial, in which a judge ruled that the company illegally monopolized the digital ad market, begins its remedies phase</a></b></span>&nbsp; &mdash;&nbsp; The ad tech trial many thought would go nowhere has done the unthinkable: it delivered.&nbsp; Judge Leonie Brinkema ruled that Google illegally monopolized &hellip; </p>",
+      "published": "2025-09-22T13:40:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "ec07a95430062385f4dd933d297ddbeba37300d7",
+      "title": "Metro Sarong proudly showcases Malaysian heritage in France",
+      "link": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/09/22/metro-sarong-proudly-showcases-malaysian-heritage-in-france",
+      "summary": "The second edition of Metro Sarong 2025 was held in Lyon, France last Saturday, in celebration of Malaysia's rich culture and heritage. <a href=\"https://www.thestar.com.my/aseanplus/aseanplus-news/2025/09/22/metro-sarong-proudly-showcases-malaysian-heritage-in-france\">Read full story</a>",
+      "published": "2025-09-22T13:39:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "9f04ef675dfad1c2df3fb0547235f6dd00cc72fd",
+      "title": "Z GRILLS’ Cruiser tailgate companion portable pellet grill & smoker hits best price of the year at new $150 low",
+      "link": "https://9to5toys.com/2025/09/22/z-grills-cruiser-portable-pellet-grill-smoker-218/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2024/03/Z-GRILLS-CRUISER-200A-Pro-portable-pellet-grill-and-smoker-1-e1711637259639.jpg?w=1024\" /></div><p><strong><em>Update 9/22:</em></strong> Z GRILLS has dropped the price further on its Cruiser 200A Portable Pellet Grill and Smoker to a new all-time low of <a href=\"https://www.amazon.com/dp/B0BVW39LMM?tag=toysrein-20\"><strong>$150.05 shipped</strong></a>. </p>\n\n\n\n<p>Through its official Amazon storefront, Z GRILLS is offering its Cruiser 200A Pro Portable Pellet Grill and Smoker for $217.55 shipped. While it carries a $335 MSRP, it usually starts lower between $273 and $289 at Amazon, with prices having kept above $236 throughout 2025. While we have seen it go as low as $215 in the past, you’re looking at a $117 markdown off the MSRP for the best price we have seen this year and the second-lowest overall. It’s a great opportunity to stock up for your tailgating season or fall outings while it lasts. Head below to learn more about what it brings to your gatherings.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/09/22/z-grills-cruiser-portable-pellet-grill-smoker-218/#more-1161567\">more…</a>",
+      "published": "2025-09-22T13:37:38+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "c833b2ff8d5ed85b2168aa9fb1c82308da9e08c1",
+      "title": "Tour guides should master foreign languages to improve tourist experience, says Motac",
+      "link": "https://www.thestar.com.my/news/nation/2025/09/22/tour-guides-should-master-foreign-languages-to-improve-tourist-experience-says-motac",
+      "summary": "SEREMBAN: The Tourism, Arts and Culture Ministry (Motac) has urged tour guides to master at least three foreign languages to improve communication and service quality for international visitors. <a href=\"https://www.thestar.com.my/news/nation/2025/09/22/tour-guides-should-master-foreign-languages-to-improve-tourist-experience-says-motac\">Read full story</a>",
+      "published": "2025-09-22T13:35:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "b654e929dc0fda228f1ca9f4dfbbca6274feb7ee",
+      "title": "Fractal Design’s beautiful new Meshify 3 RGB PC case now starts from $130 (All-time low)",
+      "link": "https://9to5toys.com/2025/09/22/fractal-design-new-meshify-3-rgb-pc-case-now-starts-from-130/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/09/Fractal-Desgin-Meshify-3-PC-case.jpg?w=1024\" /></div><p>We are now tracking a deal at Amazon that drops Fractal Design’s new Meshify 3 RGB E-ATX PC case in black down to $129.99 shipped. This model is part of the brand’s latest lineup that launched in May with a $160 starting price. The black variant on sale today has lately been fetching as high as $175, but this offer cuts that down by 26% with a $45 discount. That marks the lowest price we’ve tracked yet for this new PC case, which comes bundled with three RGB fans. For those who want to step up, Newegg also has a more premium <a href=\"https://click.linksynergy.com/deeplink?id=f7QRoGT6w6Y&amp;mid=44583&amp;murl=https%3A%2F%2Fwww.newegg.com%2Ffractal-design-atx-full-tower-meshify-3-xl-ambience-pro-rgb-steel-pc-case-white-fd-c-mes3x-05%2Fp%2FN82E16811352235\">Ambience Pro version</a> featuring atmospheric RGB lighting and an ARGB controller for <a href=\"https://click.linksynergy.com/deeplink?id=f7QRoGT6w6Y&amp;mid=44583&amp;murl=https%3A%2F%2Fwww.newegg.com%2Ffractal-design-atx-full-tower-meshify-3-xl-ambience-pro-rgb-steel-pc-case-white-fd-c-mes3x-05%2Fp%2FN82E16811352235\"><strong>$199.99 shipped</strong></a>, down from its regular $275. Head below for more details.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/09/22/fractal-design-new-meshify-3-rgb-pc-case-now-starts-from-130/#more-1162368\">more…</a>",
+      "published": "2025-09-22T13:34:48+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "a13b1a1d93bb6ce6f4efe61e9ab03a3e75b7f192",
+      "title": "PPR Seri Cempaka residents affected by storm to receive aid, says Fahmi",
+      "link": "https://www.thestar.com.my/news/nation/2025/09/22/ppr-seri-cempaka-residents-affected-by-storm-to-receive-aid-says-fahmi",
+      "summary": "KUALA LUMPUR: A powerful storm that struck the capital on Monday (Sept 22) evening severely damaged the roof of a block at the Seri Cempaka People's Housing Project (PPR) in Lembah Pantai, affecting several residential units and 30 vehicles. <a href=\"https://www.thestar.com.my/news/nation/2025/09/22/ppr-seri-cempaka-residents-affected-by-storm-to-receive-aid-says-fahmi\">Read full story</a>",
+      "published": "2025-09-22T13:29:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
     {
       "id": "e2e8c8ab59cde591f3a0b0855cf211a8fc163683",
       "title": "T-Mobile CEO Mike Sievert is stepping down",
@@ -140,6 +329,15 @@
       "category": "world"
     },
     {
+      "id": "de810da918bf85ac724026dda592c9d794e3e2e8",
+      "title": "Don’t miss out on Anker’s popular PowerCore Reserve 60,000mAh power station while it’s back at $80 (Reg. $150)",
+      "link": "https://9to5toys.com/2025/09/22/anker-powercore-reserve-station-80/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2024/08/Anker-PowerCore-Reserve-192Wh-power-station-3-in-car-charging-laptop-and-phone.jpg?w=1024\" /></div><p>Through the official Amazon storefront, Anker is giving folks another chance at its PowerCore Reserve 60,000mAh Power Station for $79.99 shipped in both of its colorways, which beats out the brand’s <a href=\"https://anker.pxf.io/Oe0NEz\">direct website pricing by $67</a>. Without discounts, you’d be shelling out $150 in total for this popular model, with the discounts we have seen often dropping the price between $110 and $90, with a few falls lower to $80, and a one-time drop to its $75 low back during July’s Prime Day event. Outside of that short-lived Prime Day pricing, you’re looking at the best price we have seen repeat over the year, giving you $70 in savings and landing it back at its second-lowest overall price a month after its last appearance. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/09/22/anker-powercore-reserve-station-80/#more-1160690\">more…</a>",
+      "published": "2025-09-22T12:56:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
       "id": "68d9dbdfca609bdf58034bc2f92ee4c699364f26",
       "title": "Razer’s pro-grade Wolverine V3 controller with Hall effect sticks just hit a new all-time low at $65",
       "link": "https://9to5toys.com/2025/09/22/razer-pro-grade-wolverine-v3-controller-with-hall-effect-sticks/",
@@ -170,7 +368,7 @@
       "id": "1bd96c773d107f91ddbd45ea1655c659ab02351e",
       "title": "Oracle promotes Clay Magouyrk and Mike Sicilia to co-CEOs, replacing Safra Catz; Magouyrk previously led Cloud Infrastructure, and Sicilia led Oracle Industries (Brody Ford/Bloomberg)",
       "link": "http://www.techmeme.com/250922/p7#a250922p7",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-09-22/oracle-names-magouyrk-and-sicilia-as-ceos-replacing-catz\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250922/i7.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250922/p7#a250922p7\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Brody Ford / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-09-22/oracle-names-magouyrk-and-sicilia-as-ceos-replacing-catz\">Oracle promotes Clay Magouyrk and Mike Sicilia to co-CEOs, replacing Safra Catz; Magouyrk previously led Cloud Infrastructure, and Sicilia led Oracle Industries</a></b></span>&nbsp; &mdash;&nbsp; Oracle Corp. on Monday promoted Clay Magouyrk and Mike Sicilia to the joint role of chief executive officer, as Safra Catz &hellip; </p>",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-09-22/oracle-names-magouyrk-and-sicilia-as-ceos-replacing-catz\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250922/i7.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250922/p7#a250922p7\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Brody Ford / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-09-22/oracle-names-magouyrk-and-sicilia-as-ceos-replacing-catz\">Oracle promotes Clay Magouyrk and Mike Sicilia to co-CEOs, replacing Safra Catz; Magouyrk previously led Cloud Infrastructure, and Sicilia led Oracle Industries</a></b></span>&nbsp; &mdash;&nbsp; Oracle Corp. on Monday promoted Clay Magouyrk and Mike Sicilia to become co-chief executive officers, signaling the company's focus &hellip; </p>",
       "published": "2025-09-22T12:30:01+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -239,24 +437,6 @@
       "category": "deals"
     },
     {
-      "id": "4afb171acadf268ebc3e88a097243a66d5d0a70f",
-      "title": "Don’t internationalise universities at the expense of bright local students, says Dr Wee",
-      "link": "https://www.thestar.com.my/news/nation/2025/09/22/dont-internationalise-universities-at-the-expense-of-bright-local-students-says-dr-wee",
-      "summary": "PETALING JAYA: Internationalisation should not be used as a shortcut to global recognition by local universities if it comes at the expense of bright local students, says Datuk Seri Dr Wee Ka Siong. <a href=\"https://www.thestar.com.my/news/nation/2025/09/22/dont-internationalise-universities-at-the-expense-of-bright-local-students-says-dr-wee\">Read full story</a>",
-      "published": "2025-09-22T12:10:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "d888618f11352441df3b065f9ef6ad1c38d8bac4",
-      "title": "Govt has no plans to review five sen rounding mechanism, says Amir Hamzah",
-      "link": "https://www.thestar.com.my/news/nation/2025/09/22/govt-has-no-plans-to-review-five-sen-rounding-mechanism-says-amir-hamzah",
-      "summary": "BATU KAWAN: The government has no plans to review the rounding mechanism to the nearest five sen, which has been in place since 2008. <a href=\"https://www.thestar.com.my/news/nation/2025/09/22/govt-has-no-plans-to-review-five-sen-rounding-mechanism-says-amir-hamzah\">Read full story</a>",
-      "published": "2025-09-22T12:07:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "f44357262e80f33e0b2439211dbd85009606bbc4",
       "title": "Lecturer and husband accused of running RM52.9m fraudulent goat scheme",
       "link": "https://www.malaymail.com/news/malaysia/2025/09/22/lecturer-and-husband-accused-of-running-rm529m-fraudulent-goat-scheme/192015",
@@ -284,15 +464,6 @@
       "category": "deals"
     },
     {
-      "id": "9cc65f4584c4d1663d6ab34fcac6047855cd1d8a",
-      "title": "Couple charged with unlicensed deposit-taking, money laundering of over RM50mil",
-      "link": "https://www.thestar.com.my/news/nation/2025/09/22/couple-charged-with-unlicensed-deposit-taking-money-laundering-of-over-rm50mil",
-      "summary": "IPOH: A married couple has been charged in the Sessions Court here with 75 counts of unlicensed deposit-taking, promoting an unregistered investment scheme and money laundering involving more than RM52.89mil between 2016 and 2024. <a href=\"https://www.thestar.com.my/news/nation/2025/09/22/couple-charged-with-unlicensed-deposit-taking-money-laundering-of-over-rm50mil\">Read full story</a>",
-      "published": "2025-09-22T11:52:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "f344bbd463a0acf72dc1439e909202c3f6fa87ca",
       "title": "Thousands protest in Brazil against bill that could grant Bolsonaro amnesty",
       "link": "https://www.bbc.com/news/articles/cr5qem201qlo?at_medium=RSS&at_campaign=rss",
@@ -309,15 +480,6 @@
       "published": "2025-09-22T11:44:09+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "e65594106093607126f5a49a1738f25379efad96",
-      "title": "New dress code only for artistes, not concertgoers, Puspal clarifies",
-      "link": "https://www.thestar.com.my/news/nation/2025/09/22/new-puspal-dress-code-only-for-artistes-not-concertgoers-ministry-clarifies",
-      "summary": "PUTRAJAYA: The Communications Ministry has stressed that new guidelines released by its Unit for Application for Foreign Filming and Performance by Foreign Artiste (Puspal) only set the dress code for performing artistes and do not involve concertgoers. <a href=\"https://www.thestar.com.my/news/nation/2025/09/22/new-puspal-dress-code-only-for-artistes-not-concertgoers-ministry-clarifies\">Read full story</a>",
-      "published": "2025-09-22T11:44:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "24fab3d78f6dfce32bac7c6c2be834f9f697c1f2",
@@ -635,15 +797,6 @@
       "category": "deals"
     },
     {
-      "id": "c8aa68c1e7e1da845e8ae3775c6fd8f25cfcc5f4",
-      "title": "Windows 11 is getting a video wallpaper feature",
-      "link": "https://www.theverge.com/news/782383/microsoft-windows-11-video-wallpapers",
-      "summary": "Microsoft has started testing the ability to use video wallpapers on Windows 11. The feature has been spotted in the latest builds of Windows 11, and allows you to set video files like MP4 or MKV as your desktop wallpaper background. The videos play every time you view your desktop, much like third-party solutions like [&#8230;]",
-      "published": "2025-09-22T09:10:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "ad5299baef913bcadfd3e620879cdca647a8d5a5",
       "title": "Samsung Galaxy A07 Price Starts From RM549",
       "link": "https://www.lowyat.net/2025/366770/samsung-galaxy-a07-price-starts-from-rm549/",
@@ -660,15 +813,6 @@
       "published": "2025-09-22T08:55:01+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "6aaea922c6d1fd7e0e0a14e90d8c0b2183338c11",
-      "title": "Apple’s USB-C AirPods Max now $100 off just after first deal on new AirPods Pro 3 hit",
-      "link": "https://9to5toys.com/2025/09/22/apple-usb-c-airpods-max-deal-airpods-pro-3/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2024/09/AirPods-Max-USB-C-copy.jpg?w=1024\" /></div><p>Just after seeing the first cash discount live on the new AirPods Pro 3, the new Best of Woot sale is now live with a <a href=\"https://howl.link/2sekom0usoy4x\">solid <strong>$100</strong> discount</a> on the <a href=\"https://howl.link/2sekom0usoy4x\">latest USB-C AirPods Max</a>. Regularly $549, and currently down at $499 at Amazon, Woot is offering Apple’s latest over-ear headphones <a href=\"https://howl.link/2sekom0usoy4x\">down at <strong>$449 with free shipping</strong></a> for Prime members (a $6 delivery fee will apply otherwise). </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/09/22/apple-usb-c-airpods-max-deal-airpods-pro-3/#more-1162284\">more…</a>",
-      "published": "2025-09-22T08:46:59+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "53f0a8d78be4929b42ddaa78e747d3b7e94d34e3",
@@ -714,15 +858,6 @@
       "published": "2025-09-22T07:22:40+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "5b229434335ba0f69254f7c3016d9483ce127f49",
-      "title": "Silent Hill F has two killer ingredients: mystery and rage",
-      "link": "https://www.theverge.com/games/782012/silent-hill-f-review-ps5-xbox-steam",
-      "summary": "Even suffused in otherworldly fog, Silent Hill F's picturesque period setting gleams with authenticity. Traditional hardwood buildings line narrow alleyways, while babbling brooks and small footpaths crisscross soaking paddy fields. The ephemera of 1960s everyday life is everywhere: glossy magazines, vintage toasters, exquisite flower arrangements. Yet beyond this moody sense of place, the details that [&#8230;]",
-      "published": "2025-09-22T07:01:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
     },
     {
       "id": "95e5129a5502b5ae036775dbc25395dbba3563f4",
@@ -905,24 +1040,6 @@
       "category": "tech"
     },
     {
-      "id": "a5c9d7820da66380f19aba2026dc79943d721a9c",
-      "title": "Modi's tax cuts will give India a festive  spending boost",
-      "link": "https://www.bbc.com/news/articles/c04qd2lkq23o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lower consumer taxes are expected to ease some of the impact of Trump's 50% tariffs on India.",
-      "published": "2025-09-21T23:08:18+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "f7bbb3c784d6c227377ff9b32b4af2da609c233c",
-      "title": "A look at UAE-based Khazna, a real estate company that builds and rents out data centers and controls 70% of the country's operational data center capacity (Divsha Bhat/Rest of World)",
-      "link": "http://www.techmeme.com/250921/p23#a250921p23",
-      "summary": "<a href=\"https://restofworld.org/2025/khazna-data-center-uae/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250921/i23.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250921/p23#a250921p23\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Divsha Bhat / <a href=\"https://restofworld.org/\">Rest of World</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://restofworld.org/2025/khazna-data-center-uae/\">A look at UAE-based Khazna, a real estate company that builds and rents out data centers and controls 70% of the country's operational data center capacity</a></b></span>&nbsp; &mdash;&nbsp; UAE's largest data center operator Khazna is challenging Western assumptions while building regional dominance.</p>",
-      "published": "2025-09-21T22:55:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "56446c59fff71bd8e171f4a9f753cf0e8354191f",
       "title": "VCs are still hiring MBAs, but firms are starting to need other experience more",
       "link": "https://techcrunch.com/2025/09/21/vcs-are-still-hiring-mbas-but-firms-are-starting-to-need-other-experience-more/",
@@ -950,24 +1067,6 @@
       "category": "world"
     },
     {
-      "id": "5afb7d81066b31a49737cf1894abee438f9f1ac5",
-      "title": "A profile of Derek Li, founder of China's top adaptive learning edtech Squirrel AI, whose business is fueled by the country's relentless academic pressure (Bloomberg)",
-      "link": "http://www.techmeme.com/250921/p22#a250921p22",
-      "summary": "<a href=\"https://www.bloomberg.com/news/features/2025-09-18/ai-in-schools-a-chinese-entrepreneur-is-betting-on-algorithms-as-teachers\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250921/i22.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250921/p22#a250921p22\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/features/2025-09-18/ai-in-schools-a-chinese-entrepreneur-is-betting-on-algorithms-as-teachers\">A profile of Derek Li, founder of China's top adaptive learning edtech Squirrel AI, whose business is fueled by the country's relentless academic pressure</a></b></span>&nbsp; &mdash;&nbsp; Derek Li pulled his sons out of school to be taught by artificial intelligence.&nbsp; Now he's betting the US is ready for machine-led learning.</p>",
-      "published": "2025-09-21T21:45:50+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "02ce0bc108355cde92d0c1cc271db9678f726e97",
-      "title": "The foldable iPhone might look like two iPhone Airs stuck together",
-      "link": "https://www.theverge.com/news/782366/foldable-details-iphone-air-ifixit-teardown",
-      "summary": "While it seems like a foregone conclusion that there will be a foldable iPhone, possibly late next year, there hasn’t been much info about what it would look like. In the latest installment of his Power On newsletter, Mark Gurman says he’s being told it will look more or less like two iPhone Airs stuck [&#8230;]",
-      "published": "2025-09-21T20:49:50+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "2190369263b633e5ea537745aedf8edab7b9f4be",
       "title": "Trump says Lachlan and Rupert Murdoch might invest in TikTok deal",
       "link": "https://techcrunch.com/2025/09/21/white-house-offers-more-details-about-potential-tiktok-deal/",
@@ -983,15 +1082,6 @@
       "summary": "A wave of startups are creating RL environments to help AI labs train agents. It might be Silicon Valley’s next craze in the making.",
       "published": "2025-09-21T19:22:56+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "1a4fc4534c4b83ad390b13734cf39a653c6874ec",
-      "title": "The touchscreen MacBook rumors are never ending",
-      "link": "https://www.theverge.com/news/782302/touchscreen-oled-macbook-rumors",
-      "summary": "Analyst Ming-Chi Kuo took to X on Wednesday to claim that a MacBook Pro with an OLED touchscreen was expected to enter mass production by late 2026. Today Bloomberg’s Mark Gurman is following up to remind us that he was reporting on a touchscreen MacBook Pro way back in 2023. He confirmed Kuo’s timeline was [&#8230;]",
-      "published": "2025-09-21T18:20:44+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -1040,15 +1130,6 @@
       "category": "tech"
     },
     {
-      "id": "a533dfb73920412dac8c07fcc2d83e7fa4618b1a",
-      "title": "Still live: Amazon just dropped the M4 Mac mini back down to $499",
-      "link": "https://9to5toys.com/2025/09/21/m4-mac-mini-cheapest-mac/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/03/M4-Mac-mini-deal.jpg?w=1024\" /></div><p>Amazon has now bought back its best price on the 16GB/512GB M4 Mac mini at $689 shipped. Regularly $799, this is $110 off and one of the better discounts we have tracked on the more affordable end of the lineup over the last few months. However, it has also dropped the most affordable <a href=\"https://www.amazon.com/dp/B0DLBTPDCS?tag=toysj-20\">16GB/256GB config back down to <strong>$499 shipped</strong></a> as well.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/09/21/m4-mac-mini-cheapest-mac/#more-1160497\">more…</a>",
-      "published": "2025-09-21T13:57:00+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "5cd344f842eb65a3a1968007ca2d9060afc0d0f4",
       "title": "Recognising Palestinian statehood opens another question - who would lead it?",
       "link": "https://www.bbc.com/news/articles/c930dlxnee4o?at_medium=RSS&at_campaign=rss",
@@ -1065,24 +1146,6 @@
       "published": "2025-09-21T13:48:41+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "7ca622f33c33f13b4dd804dbbc39f6d1da4c1fdc",
-      "title": "All 2025 LEGO Advent Calendar sets now at Amazon lows from $25: Star Wars, Minecraft, Harry Potter, Frozen, more",
-      "link": "https://9to5toys.com/2025/09/21/2025-lego-advent-calendar-sets-deals/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/09/2025-LEGO-Advent-Calendars-deals.jpg?w=1024\" /></div><p>While we have already caught some notable deals on the other 2025 sets, the new LEGO Minecraft Advent Calendar has finally dropped in price as well. Just after seeing the new <a href=\"https://www.amazon.com/LEGO-TBD-Star-Wars-75418/dp/B0DRW5JT6L/?tag=toysj-20\">2025 model LEGO Star Wars Advent Calendar fall to the <strong>$38</strong></a> Amazon low, you will will also now find the regularly $45 Minecraft set down at the same price for the best we have tracked yet. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/09/21/2025-lego-advent-calendar-sets-deals/#more-1162272\">more…</a>",
-      "published": "2025-09-21T13:33:27+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "321a15e42854085eb8e4244b9e2c1fe82cbee895",
-      "title": "9to5Toys News Weekly recap – Game Boy Advance titles, Prime Day dates, new iPhone 17 gear, more",
-      "link": "https://9to5toys.com/2025/09/21/weekly-update-game-boy-prime-day-iphone-17/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/05/9to5Toys-Weekly_02b.jpg?w=1024\" /></div><p>Welcome to <em>9to5Toys News Weekly</em> – your go-to spot to catch up on the latest new product releases, features, and hands-on reviews. This weekly roundup collects all of the coolest new gadgets, the most interesting updates in the world of tech, and more from the past week, and organizes it into a single handy reading list for you to sift through every Sunday morning. Alongside the first cash deal on Apple’s brand new AirPods Pro 3, this week got some new Game Boy Advance titles, the official reveal of Amazon’s upcoming Prime Big Deal Days sale, plus even more new iPhone 17 cases and accessories. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/09/21/weekly-update-game-boy-prime-day-iphone-17/#more-1162267\">more…</a>",
-      "published": "2025-09-21T13:02:51+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "c6e6e17c62c0250a8d83aa54065e09b9e718523a",
@@ -1220,15 +1283,6 @@
       "category": "malaysia"
     },
     {
-      "id": "62516ee87035742c4ed981aa01f5ae59ecfa21f4",
-      "title": "Google isn’t kidding around about cost cutting, even slashing its FT subscription",
-      "link": "https://techcrunch.com/2025/09/19/google-isnt-kidding-around-about-cost-cutting-even-slashing-its-ft-subscription/",
-      "summary": "These cuts may save Google mere thousands; they also come as Google faces increasingly strained relationships with news publishers.",
-      "published": "2025-09-20T05:25:49+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "c87f500e3cadb382a6122e55aeb14565e150780c",
       "title": "Animant 2.0",
       "link": "https://www.producthunt.com/products/animant",
@@ -1274,39 +1328,12 @@
       "category": "tech"
     },
     {
-      "id": "2117643aa08bbc4523422336f198cc56afc9f044",
-      "title": "Why California’s SB 53 might provide a meaningful check on big AI companies",
-      "link": "https://techcrunch.com/2025/09/19/why-californias-sb-53-might-provide-a-meaningful-check-on-big-ai-companies/",
-      "summary": "Equity debates California's new AI safety bill and why it has a better shot at becoming law.",
-      "published": "2025-09-19T21:00:37+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "d90b7f51cbf4ef6300807ff96aafb9e6ffb324eb",
-      "title": "Nvidia eyes $500M investment into self-driving tech startup Wayve",
-      "link": "https://techcrunch.com/2025/09/19/nvidia-eyes-500m-investment-into-self-driving-tech-startup-wayve/",
-      "summary": "Nvidia CEO Jensen Huang took his first ride in a Wayve-equipped self-driving car through Central London.",
-      "published": "2025-09-19T20:55:54+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "8ab5a5942b930af815b0ae0ebf2160dbeaf964b9",
       "title": "Oklahoma’s big “TV nudes” scandal was… a Jackie Chan movie on a Samsung streaming service",
       "link": "https://arstechnica.com/culture/2025/09/oklahomas-big-tv-nudes-scandal-was-a-jackie-chan-movie-on-a-samsung-streaming-service/",
       "summary": "Smart TVs strike again.",
       "published": "2025-09-19T20:33:37+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "4e8312933c779fd5e1dc56c14534ef4cdeb82c6c",
-      "title": "Cracking product-market fit: Lessons from founders and investors at TechCrunch Disrupt 2025",
-      "link": "https://techcrunch.com/2025/09/19/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/",
-      "summary": "Rajat Bhageria (Chef Robotics), Ann Bordetsky (NEA), and Murali Joshi (ICONIQ) share actionable strategies for finding product-market fit at TechCrunch Disrupt 2025.",
-      "published": "2025-09-19T20:30:00+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1337,13 +1364,13 @@
       "category": "tech"
     },
     {
-      "id": "689c040d12c869510649e561698839bdb1a26bdf",
-      "title": "Best Apple Watch apps for boosting your productivity",
-      "link": "https://techcrunch.com/2025/09/19/best-apple-watch-apps-for-boosting-your-productivity/",
-      "summary": "Although the Apple Watch comes with simple built-in productivity apps like Reminders and Calendar, it’s worth exploring some third-party apps that are designed to boost productivity by offering additional functionality.",
-      "published": "2025-09-19T19:22:31+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
+      "id": "380fdd66a00e2c58ab56d9d4ea1b0cdd1248c5b9",
+      "title": "Pola Browser",
+      "link": "https://www.producthunt.com/products/pola-browser",
+      "summary": "<p>\n            Organized browser\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pola-browser?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1018076?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-09-19T19:32:19+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "278e5d0a309f8b44c3e1d56af855006ee91b3fcd",
@@ -1432,33 +1459,6 @@
       "link": "https://arstechnica.com/health/2025/09/rfk-jr-s-anti-vaccine-panel-realizes-it-has-no-idea-what-its-doing-skips-vote/",
       "summary": "With a lack of data and confusing language, the panel tabled the vote indefinitely.",
       "published": "2025-09-19T14:54:05+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "6af7d8ce890138c51f52ab51e772c010d327011f",
-      "title": "AI medical tools found to downplay symptoms of women, ethnic minorities",
-      "link": "https://arstechnica.com/health/2025/09/ai-medical-tools-found-to-downplay-symptoms-of-women-ethnic-minorities/",
-      "summary": "Bias-reflecting LLMs lead to inferior medical advice for female, Black, and Asian patients.",
-      "published": "2025-09-19T13:30:27+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "f1c5e984a9eead5ae5c1b7666688c57ce2672fa1",
-      "title": "Ordinary",
-      "link": "https://www.producthunt.com/products/ordinary",
-      "summary": "<p>\n            Simple page maker to refresh the ordinary\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ordinary?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1017942?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-09-19T12:01:05+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "d995e533d46f64a55066533ad60fdfdde29016ce",
-      "title": "Rocket Report: European rocket reuse test delayed; NASA tweaks SLS for Artemis II",
-      "link": "https://arstechnica.com/space/2025/09/rocket-report-european-rocket-reuse-test-delayed-nasa-tweaks-sls-for-artemis-ii/",
-      "summary": "\"There’s a lot of interest because of the fear that there’s just not a lot of capacity.\"",
-      "published": "2025-09-19T11:00:51+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
     },
