@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2025-09-27T19:09:41.502927+00:00",
+  "generatedAt": "2025-09-27T20:13:31.220292+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "5e64b1613c5a721ae02d151494162abbd812e246",
+      "title": "Dozens dead in crush at political rally in India",
+      "link": "https://www.bbc.com/news/articles/c98dqyj5dpjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tens of thousands had gathered at a campaign event for actor-turned-politician Vijay in India's southern state of Tamil Nadu.",
+      "published": "2025-09-27T20:04:05+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "f044edf0703e45f45060c6cc52c3b87e7b7953a3",
+      "title": "A fire at South Korea's National Information Resources Service's data center shut down 647 government IT systems, disrupting services such as postal banking (Lee Jung-joo/The Korea Herald)",
+      "link": "http://www.techmeme.com/250927/p18#a250927p18",
+      "summary": "<a href=\"https://www.koreaherald.com/article/10584785\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250927/i18.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250927/p18#a250927p18\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lee Jung-joo / <a href=\"http://www.koreaherald.com/\">The Korea Herald</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.koreaherald.com/article/10584785\">A fire at South Korea's National Information Resources Service's data center shut down 647 government IT systems, disrupting services such as postal banking</a></b></span>&nbsp; &mdash;&nbsp; Covering social issues on Seoul, civil security, climate&nbsp; &mdash;&nbsp; A fire at the National Information Resources Service's data center &hellip; </p>",
+      "published": "2025-09-27T20:00:59+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "975a94c7cc745e86ce65649d12fe5dbe34ce0e1a",
+      "title": "Beware coworkers who produce AI-generated ‘workslop’",
+      "link": "https://techcrunch.com/2025/09/27/beware-coworkers-who-produce-ai-generated-workslop/",
+      "summary": "Researchers at consulting firm BetterUp Labs, in collaboration with Stanford Social Media Lab, have coined a new term to describe low-quality, AI-generated work",
+      "published": "2025-09-27T19:36:04+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "153501d5d62e933b5be5b0d625b6aeeaeba79361",
+      "title": "Leaked Meta internal document shows updated training protocols for its AI chatbot to refuse any prompts involving sexual roleplay with minors (Jyoti Mann/Business Insider)",
+      "link": "http://www.techmeme.com/250927/p17#a250927p17",
+      "summary": "<p><a href=\"http://www.techmeme.com/250927/p17#a250927p17\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jyoti Mann / <a href=\"https://www.businessinsider.com/\">Business Insider</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.businessinsider.com/meta-ai-chatbot-children-ftc-safety-guidelines-2025-9\">Leaked Meta internal document shows updated training protocols for its AI chatbot to refuse any prompts involving sexual roleplay with minors</a></b></span>&nbsp; &mdash;&nbsp; - A leaked Meta document shows how its AI chatbot should respond to child sexual exploitation prompts.&nbsp; &mdash; It now says the chatbot should refuse &hellip; </p>",
+      "published": "2025-09-27T19:30:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "c9f94c2357aa0143b2bd78e30c91b8bbc8578008",
+      "title": "UNESCO adds 26 new biosphere reserves, including 2 in China",
+      "link": "https://www.thestar.com.my/news/world/2025/09/28/unesco-adds-26-new-biosphere-reserves-including-2-in-china",
+      "summary": "PARIS, Sept. 27 (Xinhua) -- UNESCO has designated 26 new biosphere reserves in 21 countries, including two in China, bringing the world network of biosphere reserves to 785 sites across 142 countries, the organization announced Saturday. <a href=\"https://www.thestar.com.my/news/world/2025/09/28/unesco-adds-26-new-biosphere-reserves-including-2-in-china\">Read full story</a>",
+      "published": "2025-09-27T19:21:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "ba65a61114230c7cafd8bf44914e467af5573311",
+      "title": "2nd LD Writethru: Death toll climbs to 38 in stampede in southern India",
+      "link": "https://www.thestar.com.my/news/world/2025/09/28/2nd-ld-writethru-death-toll-climbs-to-38-in-stampede-in-southern-india",
+      "summary": "NEW DELHI, Sept. 27 (Xinhua) -- The death toll from a stampede at a political rally in southern India on Saturday climbed to 38, with women and children making up most of the victims, according to media reports. <a href=\"https://www.thestar.com.my/news/world/2025/09/28/2nd-ld-writethru-death-toll-climbs-to-38-in-stampede-in-southern-india\">Read full story</a>",
+      "published": "2025-09-27T19:17:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
     {
       "id": "d5740991b5211d1216c8188ace95bc6fc5fa4fdb",
       "title": "OpenAI executives working on Stargate say that it costs about $50B to build a data center with roughly 1 GW of capacity, with $35B going toward AI chips (Shirin Ghaffary/Bloomberg)",
@@ -14,8 +68,8 @@
       "category": "tech"
     },
     {
-      "id": "d414809630acc8aa161661427c66081dd384f6e3",
-      "title": "FBI fires agents pictured kneeling at George Floyd protest, US media reports",
+      "id": "f94656829f44879b6f1180b07bf7818c4d3ae426",
+      "title": "FBI fires agents pictured kneeling at George Floyd protest, US media report",
       "link": "https://www.bbc.com/news/articles/cr4q5xrz9dpo?at_medium=RSS&at_campaign=rss",
       "summary": "The FBI Agents Association says the terminations - not yet confirmed by the bureau - violate the agents' rights.",
       "published": "2025-09-27T18:50:03+00:00",
@@ -41,13 +95,13 @@
       "category": "malaysia"
     },
     {
-      "id": "5e64b1613c5a721ae02d151494162abbd812e246",
-      "title": "Dozens dead in crush at political rally in India",
-      "link": "https://www.bbc.com/news/articles/c98dqyj5dpjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tens of thousands had gathered at a campaign event for actor-turned-politician Vijay in the southern state of Tamil Nadu.",
-      "published": "2025-09-27T18:31:42+00:00",
-      "source": "BBC News",
-      "category": "world"
+      "id": "d64a9c4fe25cbc73a7ee4d334640ada4f07033ac",
+      "title": "Archaeologists unearth 4,500-year-old gold brooch, jade in Türkiye",
+      "link": "https://www.thestar.com.my/news/world/2025/09/28/archaeologists-unearth-4500-year-old-gold-brooch-jade-in-trkiye",
+      "summary": "ISTANBUL, Sept. 27 (Xinhua) -- Archaeologists have unearthed a 4,500-year-old gold brooch and a rare jade stone in the ancient city of Troy in Türkiye's northwestern Canakkale province, the culture ministry said on Saturday. <a href=\"https://www.thestar.com.my/news/world/2025/09/28/archaeologists-unearth-4500-year-old-gold-brooch-jade-in-trkiye\">Read full story</a>",
+      "published": "2025-09-27T18:27:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
     },
     {
       "id": "b452b6d233816ef46d510cf3c2133c0dc60a5e36",
@@ -149,15 +203,6 @@
       "category": "malaysia"
     },
     {
-      "id": "412c34f68bf89482911b825752cf22de7c9b2ab2",
-      "title": "KDM betting on local stars to connect with voters in Sabah",
-      "link": "https://www.thestar.com.my/news/nation/2025/09/28/kdm-betting-on-local-stars-to-connect-with-voters-in-sabah",
-      "summary": "KOTA KINABALU: One of Sabah's newest political parties is fielding a local singer, a former senior civil servant and an ex-footballer in hopes of striking a chord with voters at the upcoming 17th state election. <a href=\"https://www.thestar.com.my/news/nation/2025/09/28/kdm-betting-on-local-stars-to-connect-with-voters-in-sabah\">Read full story</a>",
-      "published": "2025-09-27T16:40:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "4d87e19f431d3f7da20bc0e47d5b68f1b912d6a0",
       "title": "International Federation of Robotics: Chinese factories installed ~300K new robots in 2024, more than the rest of the world combined; US factories installed 34K (New York Times)",
       "link": "http://www.techmeme.com/250927/p13#a250927p13",
@@ -165,15 +210,6 @@
       "published": "2025-09-27T16:35:29+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "3e1f7acc40c1bd20bc3fc2ecb19aed00f32a443c",
-      "title": "Few dead in south India stampede",
-      "link": "https://www.thestar.com.my/news/world/2025/09/28/few-dead-in-south-india-stampede",
-      "summary": "NEW DELHI, Sept. 27 (Xinhua) -- A few people died and many others were injured in a stampede at a political gathering in India's southern state of Tamil Nadu late on Saturday, confirmed a local police officer over the phone. <a href=\"https://www.thestar.com.my/news/world/2025/09/28/few-dead-in-south-india-stampede\">Read full story</a>",
-      "published": "2025-09-27T16:30:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "48ee649cead72c429368f0d80dc2e2dc813a056c",
@@ -192,15 +228,6 @@
       "published": "2025-09-27T15:55:02+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "55ba7462b573f3e367defc811b508b743ed09eb8",
-      "title": "At least 36 dead, over 50 injured in stampede at Indian actor-politician Vijay&#039;s rally, minister says",
-      "link": "https://www.thestar.com.my/news/world/2025/09/27/at-least-10-dead-30-injured-at-actor-politician-vijay039s-rally-the-times-of-india-reports",
-      "summary": "CHENNAI/BENGALURU (Reuters) -At least 36 people were killed and more than 50 injured on Saturday in a stampede at a rally held by Tamil actor Vijay, who is campaigning for election, the chief minister of Tamil Nadu said. <a href=\"https://www.thestar.com.my/news/world/2025/09/27/at-least-10-dead-30-injured-at-actor-politician-vijay039s-rally-the-times-of-india-reports\">Read full story</a>",
-      "published": "2025-09-27T15:38:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "cffbc73835d429748472abbe774767fe8cf3c3f0",
@@ -698,15 +725,6 @@
       "category": "deals"
     },
     {
-      "id": "d4af4581018b500606f7ea422043a802918fd08e",
-      "title": "Google agrees to guarantee $1.4B of AI computing startup Fluidstack's $3B, 10-year agreement with Cipher Mining and gets the right to buy a 5.4% stake in Cipher (Bloomberg)",
-      "link": "http://www.techmeme.com/250927/p3#a250927p3",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-09-25/google-eyes-another-crypto-mining-stake-in-ai-data-center-rush\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250927/i3.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250927/p3#a250927p3\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-09-25/google-eyes-another-crypto-mining-stake-in-ai-data-center-rush\">Google agrees to guarantee $1.4B of AI computing startup Fluidstack's $3B, 10-year agreement with Cipher Mining and gets the right to buy a 5.4% stake in Cipher</a></b></span>&nbsp; &mdash;&nbsp; Alphabet Inc.'s Google has agreed to anchor a $3 billion data center contract with Cipher Mining Inc. in the latest tie up between &hellip; </p>",
-      "published": "2025-09-27T05:40:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "6126fc26c8f8615201b50151027306fcfc17e11a",
       "title": "Realme 15 series goes official in Malaysia with world’s first voice-based photo editing, 7000mAh battery, Snapdragon 7 Gen 4",
       "link": "https://soyacincau.com/2025/09/27/realme-15-series-pro-malaysia-launch-specs-features/",
@@ -723,15 +741,6 @@
       "published": "2025-09-27T05:28:36+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "047468aa43f33a2a96734c0aca234e3e532e067a",
-      "title": "eBay agrees to acquire Tise, a social marketplace for secondhand fashion and interior design items that has raised $45M in funding, for an undisclosed sum (Aisha Malik/TechCrunch)",
-      "link": "http://www.techmeme.com/250927/p2#a250927p2",
-      "summary": "<a href=\"https://techcrunch.com/2025/09/22/ebay-to-acquire-social-marketplace-platform-tise/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/250927/i2.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/250927/p2#a250927p2\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Aisha Malik / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2025/09/22/ebay-to-acquire-social-marketplace-platform-tise/\">eBay agrees to acquire Tise, a social marketplace for secondhand fashion and interior design items that has raised $45M in funding, for an undisclosed sum</a></b></span>&nbsp; &mdash;&nbsp; eBay announced on Monday that it's acquiring Tise, a social marketplace for second-hand fashion and interior design items.</p>",
-      "published": "2025-09-27T05:15:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "fbb331de8ecef5d8ffcfaf29a15b322d64957d83",
@@ -1211,15 +1220,6 @@
       "category": "tech"
     },
     {
-      "id": "fa189182c684cd74861bb71bc5e8cedf029e8d50",
-      "title": "Here’s what’s happening right now with the US TikTok deal",
-      "link": "https://techcrunch.com/2025/09/26/heres-whats-happening-right-now-with-the-us-tiktok-deal/",
-      "summary": "A number of investors are competing for the opportunity to purchase the app, and if a deal were to go through, the platform's U.S. business could have its valuation soar to upward of $60 billion.",
-      "published": "2025-09-26T13:49:37+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "646b207a382ce2be12528fa968e5edc646c8b710",
       "title": "Toopost",
       "link": "https://www.producthunt.com/products/toopost",
@@ -1364,6 +1364,15 @@
       "category": "malaysia"
     },
     {
+      "id": "80d95ae3c3693886cdbd175cb35e5c6354ca86a1",
+      "title": "Nansen AI",
+      "link": "https://www.producthunt.com/products/nansen-ai",
+      "summary": "<p>\n            A Crypto Research Team In Your Pocket, 24/7\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nansen-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1020179?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-09-26T02:13:00+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "68ca85a036d7f7f13f23fc015779ce3e3c9379e2",
       "title": "AdMesh",
       "link": "https://www.producthunt.com/products/admesh",
@@ -1423,6 +1432,24 @@
       "link": "https://www.producthunt.com/products/openai",
       "summary": "<p>\n            Now ChatGPT can start the conversation\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1020106?app_id=339\">Link</a>\n          </p>",
       "published": "2025-09-25T19:18:10+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "0b96a4be4e97f0d45db8451d2fea9bfe5e36dea3",
+      "title": "textbehindvideo.io",
+      "link": "https://www.producthunt.com/products/textbehindvideo-io",
+      "summary": "<p>\n            Create cinematic text behind video designs easily\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/textbehindvideo-io?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1020076?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-09-25T16:26:42+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "2df1b29c513070ac59076ec4f89413ecaa80fd1e",
+      "title": "Blook",
+      "link": "https://www.producthunt.com/products/blook-2",
+      "summary": "<p>\n            Blook is a super simple way to publish your blog\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/blook-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1020007?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-09-25T13:07:46+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1517,15 +1544,6 @@
       "category": "events"
     },
     {
-      "id": "17446ee0937fd846031defaedb0c5cafe6a24098",
-      "title": "Fakeradar",
-      "link": "https://www.producthunt.com/products/fakeradar",
-      "summary": "<p>\n            Real-time deepfake protection for video calls\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fakeradar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1019750?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-09-24T19:14:10+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "4389c837391c0ab8af1caf4195905398a8343f30",
       "title": "DIMO",
       "link": "https://www.producthunt.com/products/dimo-build",
@@ -1535,29 +1553,11 @@
       "category": "events"
     },
     {
-      "id": "82e3fae896eed3c11ac25f31749e5fdaf7b3f6bf",
-      "title": "Scrumball",
-      "link": "https://www.producthunt.com/products/scrumball",
-      "summary": "<p>\n            Influencer marketing AI agent with 120M creator database\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/scrumball?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1019239?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-09-23T13:00:35+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "24421c9bd680ff224211744383669dc1fb8c73ae",
       "title": "Recal.dev",
       "link": "https://www.producthunt.com/products/recal-dev-scheduling-booking-calendar",
       "summary": "<p>\n            Like Resend, but for everything Calendars & Scheduling\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/recal-dev-scheduling-booking-calendar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1018293?app_id=339\">Link</a>\n          </p>",
       "published": "2025-09-20T17:18:46+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "ce1815cee1c6b5eb820855fed43716beb9b9610e",
-      "title": "Neutron",
-      "link": "https://www.producthunt.com/products/neutron-2",
-      "summary": "<p>\n            Proactive desktop AI that helps before you ask\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/neutron-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1018031?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-09-19T16:47:18+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
