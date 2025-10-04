@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2025-10-04T20:13:12.224591+00:00",
+  "generatedAt": "2025-10-04T21:10:54.626695+00:00",
   "counts": {
     "total": 174
   },
   "items": [
+    {
+      "id": "3ff99f0fc58e4aa53fdcfaab947511620501db1e",
+      "title": "A breach every month raises doubts about South Korea’s digital defenses",
+      "link": "https://techcrunch.com/2025/10/04/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/",
+      "summary": "Known for its blazing fast internet and home to some of the world’s biggest tech giants, South Korea has also faced a string of data breaches and cybersecurity lapses that has struggled to match the pace of its digital ambitions.",
+      "published": "2025-10-04T21:10:12+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "65910d3191c2547fa37342ba5620c4a1db6135a7",
+      "title": "Georgian police clash with protesters as ruling party says it wins local elections",
+      "link": "https://www.thestar.com.my/news/world/2025/10/05/georgian-police-clash-with-protesters-as-ruling-party-says-it-wins-local-elections",
+      "summary": "TBILISI (Reuters) -     Georgian riot police used pepper spray and water cannon to force protesters away from the presidential palace on Saturday as the opposition staged a large demonstration on the day of municipal elections. <a href=\"https://www.thestar.com.my/news/world/2025/10/05/georgian-police-clash-with-protesters-as-ruling-party-says-it-wins-local-elections\">Read full story</a>",
+      "published": "2025-10-04T21:08:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "960b0ff1eb962ad12a66557036c5e56e537a9ff8",
+      "title": "Newsom signs bill giving Uber and Lyft drivers in California the right to unionize",
+      "link": "https://techcrunch.com/2025/10/04/newsom-signs-bill-giving-uber-and-lyft-drivers-in-california-the-right-to-unionize/",
+      "summary": "Drivers for ride-hailing apps like Uber and Lyft will soon have the right to unionize in California as independent contractors, thanks to a bill signed Friday by Governor Gavin Newsom.",
+      "published": "2025-10-04T20:57:33+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "d1c542909d7d64a459aacb882584aa5e5c6265f3",
+      "title": "Huawei's Zurich Lab unveils SINQ, an open-source quantization method that it claims can reduce LLM memory use by 60-70% without significant quality loss (Carl Franzen/VentureBeat)",
+      "link": "http://www.techmeme.com/251004/p18#a251004p18",
+      "summary": "<a href=\"https://venturebeat.com/ai/huaweis-new-open-source-technique-shrinks-llms-to-make-them-run-on-less\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251004/i18.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251004/p18#a251004p18\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Carl Franzen / <a href=\"https://venturebeat.com/\">VentureBeat</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://venturebeat.com/ai/huaweis-new-open-source-technique-shrinks-llms-to-make-them-run-on-less\">Huawei's Zurich Lab unveils SINQ, an open-source quantization method that it claims can reduce LLM memory use by 60-70% without significant quality loss</a></b></span>&nbsp; &mdash;&nbsp; - Dual-Axis Scaling: Instead of using a single scale factor for quantizing a matrix, SINQ uses separate scaling vectors for rows and columns.</p>",
+      "published": "2025-10-04T20:35:42+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
     {
       "id": "fcbeadb3d306d4e1240ab6ead8b86f898399b8c8",
       "title": "If you’re not an AI startup, good luck raising money from VCs",
@@ -17,7 +53,7 @@
       "id": "1f43242dec68cb5f9de2d76dc12e95cc54629c06",
       "title": "A look at challenges facing Tether and Circle's stablecoin duopoly, such as intermediaries like exchanges and DeFi protocols exploring their own stablecoins (Nic Carter/Murmurations II)",
       "link": "http://www.techmeme.com/251004/p17#a251004p17",
-      "summary": "<a href=\"https://murmurationstwo.substack.com/p/the-stablecoin-duopoly-is-ending\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251004/i17.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251004/p17#a251004p17\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Nic Carter / <a href=\"https://murmurationstwo.substack.com/\">Murmurations II</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://murmurationstwo.substack.com/p/the-stablecoin-duopoly-is-ending\">A look at challenges facing Tether and Circle's stablecoin duopoly, such as intermediaries like exchanges and DeFi protocols exploring their own stablecoins</a></b></span>&nbsp; &mdash;&nbsp; Three's a crowd&nbsp; &mdash;&nbsp; Circle equity is worth $30.5b.&nbsp; Tether's topco is reportedly raising capital at $500b.</p>",
+      "summary": "<a href=\"https://murmurationstwo.substack.com/p/the-stablecoin-duopoly-is-ending\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251004/i17.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251004/p17#a251004p17\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Nic Carter / <a href=\"https://murmurationstwo.substack.com/\">Murmurations II</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://murmurationstwo.substack.com/p/the-stablecoin-duopoly-is-ending\">A look at challenges facing Tether and Circle's stablecoin duopoly, such as intermediaries like exchanges and DeFi protocols exploring their own stablecoins</a></b></span>&nbsp; &mdash;&nbsp; Circle equity is worth $30.5b.&nbsp; Tether's topco is reportedly raising capital at $500b.&nbsp; Together, the two stablecoins boast $245b in supply &hellip; </p>",
       "published": "2025-10-04T19:55:00+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -325,15 +361,6 @@
       "link": "https://www.thestar.com.my/news/nation/2025/10/04/gsf-women039s-ministry-ready-to-offer-counselling-assistance-to-volunteers-families",
       "summary": "KUCHING: The Women, Family and Community Development Ministry is ready to offer counselling services and social support to Global Sumud Flotilla (GSF) mission participants, and these will be extended to their families. <a href=\"https://www.thestar.com.my/news/nation/2025/10/04/gsf-women039s-ministry-ready-to-offer-counselling-assistance-to-volunteers-families\">Read full story</a>",
       "published": "2025-10-04T13:38:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "e81b72d0a3300c261f36dc4679688a25fd68e830",
-      "title": "Health Ministry ensures care for Malaysian GSF volunteers after Israeli detention",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/04/health-ministry-ensures-care-for-malaysian-gsf-volunteers-after-israeli-detention",
-      "summary": "PETALING JAYA: The Health Ministry will ensure that Malaysian volunteers of the intercepted Global Sumud Flotilla (GSF) receive comprehensive medical screenings and necessary treatments once they are back on Malaysian soil, said its minister, Datuk Seri Dr Dzulkefly Ahmad. <a href=\"https://www.thestar.com.my/news/nation/2025/10/04/health-ministry-ensures-care-for-malaysian-gsf-volunteers-after-israeli-detention\">Read full story</a>",
-      "published": "2025-10-04T13:33:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
     },
@@ -806,15 +833,6 @@
       "category": "tech"
     },
     {
-      "id": "716656140ab6766fe63328fdaaa5c69e23aeab0c",
-      "title": "Applied Materials expects new US export rules from BIS restricting certain product shipments to China to hurt its Q4 revenue by $110M and 2026 revenue by $600M (Nicholas G. Miller/Wall Street Journal)",
-      "link": "http://www.techmeme.com/251004/p3#a251004p3",
-      "summary": "<a href=\"https://www.wsj.com/business/applied-materials-expects-new-export-rule-to-hit-2026-revenue-by-600-million-36add185\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251004/i3.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251004/p3#a251004p3\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Nicholas G. Miller / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/business/applied-materials-expects-new-export-rule-to-hit-2026-revenue-by-600-million-36add185\">Applied Materials expects new US export rules from BIS restricting certain product shipments to China to hurt its Q4 revenue by $110M and 2026 revenue by $600M</a></b></span>&nbsp; &mdash;&nbsp; Company expects new export restrictions to hurt its 2026 revenue by $600 million&nbsp; &mdash;&nbsp; Applied Materials expects a $710 million hit &hellip; </p>",
-      "published": "2025-10-04T05:05:11+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "818513ab7044631a761dcc91ee7ae5cadc95b521",
       "title": "vivo Malaysia Announces Preview Program For OriginOS 6",
       "link": "https://www.lowyat.net/2025/368374/vivo-malaysia-preview-program-originos-6/",
@@ -1148,15 +1166,6 @@
       "category": "tech"
     },
     {
-      "id": "7b8e77f24dc8ead77a97a3bdff21877a704f13c9",
-      "title": "Leaked doc reveals the chaotic politics behind Trump Energy Department cuts",
-      "link": "https://techcrunch.com/2025/10/03/leaked-doc-reveals-the-chaotic-politics-behind-trump-energy-department-cuts/",
-      "summary": "Harris-voting states were hit hardest by Department of Energy award cancellations, but not every blue-state project was cut. Politics might play a role.",
-      "published": "2025-10-03T15:04:58+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "404e0bc9029f220e668efdd5cbc03c4de7093b6d",
       "title": "Apple iPhone 17 Pro review: Come for the camera, stay for the battery",
       "link": "https://arstechnica.com/gadgets/2025/10/apple-iphone-17-pro-review-come-for-the-camera-stay-for-the-battery/",
@@ -1181,15 +1190,6 @@
       "summary": "Ants carry lactic and acetic acid bacteria that help coagulate milk, as well as formic acid to acidify it.",
       "published": "2025-10-03T15:00:06+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "ca87add667dd679658fa373973d8adeb2a49d4df",
-      "title": "Space defense, gravity, and connectivity with Bridgit Mendler, Even Rogers, and Max Haot at TechCrunch Disrupt 2025",
-      "link": "https://techcrunch.com/2025/10/03/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/",
-      "summary": "The space economy is scaling fast — from defense to artificial gravity to satellite connectivity. At TechCrunch Disrupt 2025, Bridgit Mendler, Even Rogers, and Max Haot will share what’s next on the Space Stage.",
-      "published": "2025-10-03T15:00:00+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1364,6 +1364,15 @@
       "category": "events"
     },
     {
+      "id": "766c52ee9e5b274b366bece1813391a215f13675",
+      "title": "Arc by Inversion",
+      "link": "https://www.producthunt.com/products/arc-by-inversion",
+      "summary": "<p>\n            Making space a transportation layer for earth\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/arc-by-inversion?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1022510?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-10-03T06:12:12+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "2c84710011399cc8da80cd3c24d726732190f611",
       "title": "MG4 get a price cut of over RM28,000: new price starts at RM100,888",
       "link": "https://soyacincau.com/2025/10/03/mg4-price-cut-malaysia-new-price-rm100k/",
@@ -1391,15 +1400,6 @@
       "category": "malaysia"
     },
     {
-      "id": "63b93284361146d5df3ecc57f7425bbb9c38e423",
-      "title": "LFM2-Audio",
-      "link": "https://www.producthunt.com/products/lfm2",
-      "summary": "<p>\n            Real-time audio conversations on-device\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lfm2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1022465?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-03T00:49:24+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "ab5fad646e6f34160e06c6ca4ff3358912e5be42",
       "title": "Proxly",
       "link": "https://www.producthunt.com/products/proxly",
@@ -1416,6 +1416,15 @@
       "published": "2025-10-02T23:29:08+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
+    },
+    {
+      "id": "82131ae344144dcd5e4c42f7731d54b8ff3b042d",
+      "title": "Strix",
+      "link": "https://www.producthunt.com/products/strix-2",
+      "summary": "<p>\n            Open-source AI hackers for your apps\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/strix-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1022442?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-10-02T22:29:35+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "34024439ba2312655a480b82166811c186fda1a4",
@@ -1454,15 +1463,6 @@
       "category": "tech"
     },
     {
-      "id": "af182afae49dbe1e9c2f7df4e5c0677bf9ab24e3",
-      "title": "Octave 2 by Hume AI",
-      "link": "https://www.producthunt.com/products/hume-2",
-      "summary": "<p>\n            The next-generation multilingual text-to-speech model\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hume-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1022401?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-02T19:33:27+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "4ac9d865d74417f823269ca1cf33965d2cd7112a",
       "title": "Trump offers universities a choice: Comply for preferential funding",
       "link": "https://arstechnica.com/science/2025/10/trump-offers-universities-a-choice-comply-for-preferential-funding/",
@@ -1470,15 +1470,6 @@
       "published": "2025-10-02T17:31:20+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "076814a9fe3d7478a94e468e3f6e865cf7d23027",
-      "title": "WhereFlight",
-      "link": "https://www.producthunt.com/products/whereflight",
-      "summary": "<p>\n            Flight tracking made simple\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/whereflight?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1022319?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-02T15:01:33+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "d948da5b93957c3caf925e829e25f62dcbc77957",
@@ -1517,11 +1508,20 @@
       "category": "malaysia"
     },
     {
-      "id": "af93be849007f038ff319e783a33146909a39dfd",
-      "title": "Focus Session by SyncTasks",
-      "link": "https://www.producthunt.com/products/synctasks",
-      "summary": "<p>\n            A distraction-free mode for your tasks\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/synctasks?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1020247?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-09-26T07:12:01+00:00",
+      "id": "21ff3e5ebe92a27d1b49ad62472d87b794f6a93b",
+      "title": "Krisp AI Note Taker",
+      "link": "https://www.producthunt.com/products/krisp",
+      "summary": "<p>\n            Capture online + in-person meetings with better audio\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/krisp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1022208?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-10-02T08:00:50+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "75425f9ef44ecaa694467e784c6b5a95cc31b171",
+      "title": "Vercel Domains",
+      "link": "https://www.producthunt.com/products/vercel",
+      "summary": "<p>\n            Fastest domain search on the planet with at cost pricing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vercel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1020358?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-09-26T12:44:18+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1531,6 +1531,15 @@
       "link": "https://www.producthunt.com/products/nuxt-ui",
       "summary": "<p>\n            Open-source UI library built with Tailwind CSS\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nuxt-ui?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1020140?app_id=339\">Link</a>\n          </p>",
       "published": "2025-09-25T22:28:16+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "b4325692afe1a0c2682d4710b1dcd304131d7a9f",
+      "title": "Super Intern",
+      "link": "https://www.producthunt.com/products/super-intern-4",
+      "summary": "<p>\n            First customizable AI agent in group chats, for work and fun\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/super-intern-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1019634?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-09-24T13:23:46+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1558,15 +1567,6 @@
       "link": "https://www.producthunt.com/products/dolby-vision-2",
       "summary": "<p>\n            Go beyond HDR with more AI and ‘authentic motion’ smoothing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dolby-vision-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1012204?app_id=339\">Link</a>\n          </p>",
       "published": "2025-09-02T22:07:30+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "345bfdb0ca025c4b974a623ea08932fab12e1f28",
-      "title": "Rolodex",
-      "link": "https://www.producthunt.com/products/rolodex-2",
-      "summary": "<p>\n            One place to manage your team’s most important relationships\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rolodex-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/982480?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-06-23T10:37:46+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
