@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2025-10-05T18:17:05.599986+00:00",
+  "generatedAt": "2025-10-05T19:09:47.565343+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "5c35c6b33994f777aba317e2e4e3c7e33a5c4d1c",
+      "title": "Trump authorises deployment of 300 National Guard troops to Chicago",
+      "link": "https://www.bbc.com/news/articles/c2dnk0ee6pyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The controversial move follows protests over ramped-up immigration enforcement and the shooting of a woman during unrest on Saturday.",
+      "published": "2025-10-05T19:08:54+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "5a8fee65c7f3ad4a84963303fd1e7db478640b6d",
+      "title": "Robinhood is expanding aggressively in the UK, releasing low-cost investment products and seeking to launch its prediction market products in the country (Financial Times)",
+      "link": "http://www.techmeme.com/251005/p16#a251005p16",
+      "summary": "<a href=\"https://t.co/bBPQbmLd6I\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251005/i16.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251005/p16#a251005p16\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://t.co/bBPQbmLd6I\">Robinhood is expanding aggressively in the UK, releasing low-cost investment products and seeking to launch its prediction market products in the country</a></b></span>&nbsp; &mdash;&nbsp; US broker in talks with regulator about bringing its products to Britain&nbsp; &mdash;&nbsp; US broker Robinhood is taking aim at Hargreaves Lansdown &hellip; </p>",
+      "published": "2025-10-05T19:00:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "ef52ce5b4238a83d8732cad9fa4412398633692c",
+      "title": "Suspect arrested after threats against TikTok’s Culver City headquarters",
+      "link": "https://techcrunch.com/2025/10/05/suspect-arrested-after-threats-against-tiktoks-culver-city-headquarters/",
+      "summary": "Police say they have arrested a suspect allegedly connected to multiple online threats that led TikTok to evacuate its headquarters near Los Angeles on Friday.",
+      "published": "2025-10-05T18:50:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "c4b1fac464851ad6f5e9446533cb2b168a5f6f6d",
+      "title": "Mexico to present advances in made-in-Mexico tech projects",
+      "link": "https://www.thestar.com.my/news/world/2025/10/06/mexico-to-present-advances-in-made-in-mexico-tech-projects",
+      "summary": "MEXICO CITY (Reuters) -Mexican President Claudia Sheinbaum said on Sunday she would in the coming weeks present advances in made-in-Mexico projects developing electrical vehicles, semiconductors, satellites and drones, as part of a program to boost local production. <a href=\"https://www.thestar.com.my/news/world/2025/10/06/mexico-to-present-advances-in-made-in-mexico-tech-projects\">Read full story</a>",
+      "published": "2025-10-05T18:42:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
     {
       "id": "07abf12542331d61eb5ca1440c64d79f2c1c5986",
       "title": "Insiders detail negotiations between politicians, tech and AI companies, VCs, and others over California's SB 53, the first-in-the-nation AI safety law (Chase DiFeliciantonio/Politico)",
@@ -12,6 +48,15 @@
       "published": "2025-10-05T18:15:01+00:00",
       "source": "Techmeme",
       "category": "tech"
+    },
+    {
+      "id": "69bfb39abdec5ec15c3ee02e325ba6058df729c4",
+      "title": "Congress remains deadlocked on shutdown ahead of Monday vote",
+      "link": "https://www.bbc.com/news/articles/cdx27523n0lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Senate will meet again Monday to try to pass a bill to reopen the government but the chances of it passing appear slim.",
+      "published": "2025-10-05T18:14:12+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "3a8ed481b5a8f6393ee45de1ace79bddb65c46a8",
@@ -41,15 +86,6 @@
       "category": "tech"
     },
     {
-      "id": "5c35c6b33994f777aba317e2e4e3c7e33a5c4d1c",
-      "title": "Trump authorises deployment of 300 National Guard troops to Chicago",
-      "link": "https://www.bbc.com/news/articles/c2dnk0ee6pyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The controversial move follows protests over ramped-up immigration enforcement and the shooting of a woman during unrest on Saturday.",
-      "published": "2025-10-05T17:05:36+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "44d43423bb0d0361e4b6a8694702caa964979c7b",
       "title": "Foxconn reports Q3 revenue of ~$67.71B, up 11% YoY, driven by strong demand for AI products; the company's consumer electronics division posted a slight decline (Ben Blanchard/Reuters)",
       "link": "http://www.techmeme.com/251005/p14#a251005p14",
@@ -77,10 +113,10 @@
       "category": "tech"
     },
     {
-      "id": "8d08838bb16d6ac51d7e9f3b31ec142db732d120",
-      "title": "Nearly 1,000 people trapped on Mount Everest slopes",
+      "id": "3e857ed9b41a6db37445a5290e7a131da5199c6a",
+      "title": "Rescue efforts underway after 1,000 people trapped on Mount Everest slopes",
       "link": "https://www.bbc.com/news/articles/cj4ykkgxqwko?at_medium=RSS&at_campaign=rss",
-      "summary": "Rescue teams have been deployed to clear the snow on the world's tallest mountain, Chinese state media reports.",
+      "summary": "Rescue teams have been deployed to clear the snow on the world's highest mountain, Chinese state media reports.",
       "published": "2025-10-05T16:25:37+00:00",
       "source": "BBC News",
       "category": "world"
@@ -235,15 +271,6 @@
       "link": "https://www.thestar.com.my/news/nation/2025/10/05/release-of-23-gsf-activists-reflects-strength-of-malaysia039s-diplomacy",
       "summary": "KUALA LUMPUR: The successful release of 23 Malaysian activists in the Global Sumud Flotilla (GSF) mission who were detained by the Zionist regime reflects the effectiveness of Malaysia's cross-border diplomacy under the leadership of Prime Minister Datuk Seri Anwar Ibrahim. <a href=\"https://www.thestar.com.my/news/nation/2025/10/05/release-of-23-gsf-activists-reflects-strength-of-malaysia039s-diplomacy\">Read full story</a>",
       "published": "2025-10-05T14:38:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "5502e693d37d9fa67fa6604d1914cedcb801a4a2",
-      "title": "Flooding prevents Langgar police station from accepting reports temporarily",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/05/flooding-prevents-langgar-police-station-from-accepting-reports-temporarily",
-      "summary": "ALOR SETAR: The Langgar police station near here is temporarily unable to receive complaints and reports from the public due to flooding that began on Saturday (Oct 4). <a href=\"https://www.thestar.com.my/news/nation/2025/10/05/flooding-prevents-langgar-police-station-from-accepting-reports-temporarily\">Read full story</a>",
-      "published": "2025-10-05T14:31:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
     },
@@ -629,7 +656,7 @@
       "id": "d14926d8718da8e77847f360fca7b365f6e87003",
       "title": "Nothing Playground",
       "link": "https://www.producthunt.com/products/nothing-phone-3",
-      "summary": "<p>\n            Vibe-code your Nothing phone\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nothing-phone-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1023150?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Vibe-code your Nothing phone\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nothing-phone-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1023150?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-05T06:19:03+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -710,19 +737,10 @@
       "id": "0526e9c578ff730badc68c5892d58ff67e5cc3db",
       "title": "Scaloom",
       "link": "https://www.producthunt.com/products/scaloom-2",
-      "summary": "<p>\n            Reddit Multi-Posting — Publish at once across Subreddits \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/scaloom-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1023137?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Reddit Multi-Posting — Publish at once across Subreddits \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/scaloom-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1023137?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-05T04:27:55+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "7a799ba869ca2b3aa229d9f4829db68f992e80be",
-      "title": "Sources: OpenAI and Jony Ive have yet to solve key technical and software issues that could delay the company's palm-sized device, slated for release in 2026 (Financial Times)",
-      "link": "http://www.techmeme.com/251005/p1#a251005p1",
-      "summary": "<a href=\"https://t.co/zcswdwzgJT\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251005/i1.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251005/p1#a251005p1\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://t.co/zcswdwzgJT\">Sources: OpenAI and Jony Ive have yet to solve key technical and software issues that could delay the company's palm-sized device, slated for release in 2026</a></b></span>&nbsp; &mdash;&nbsp; ChatGPT maker is working with former Apple design boss to launch a palm-sized personal assistant next year</p>",
-      "published": "2025-10-05T04:25:06+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "a0d94c156943a6ec264fd2c237ffe6e5c2b68bde",
@@ -782,7 +800,7 @@
       "id": "16e5ba4e0467a9a57c046b4ae755ccf20e4f1bd8",
       "title": "Partisyn",
       "link": "https://www.producthunt.com/products/partisyn",
-      "summary": "<p>\n            Tag your setup, share your build.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/partisyn?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1022976?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Tag your setup, share your build.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/partisyn?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1022976?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-04T20:46:25+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1115,7 +1133,7 @@
       "id": "155718c9a277860498703538181aa9c66f64b49b",
       "title": "Casio Moflin",
       "link": "https://www.producthunt.com/products/casio-moflin",
-      "summary": "<p>\n            AI pet that forms real emotional bonds\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/casio-moflin?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1022773?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            AI pet that forms real emotional bonds\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/casio-moflin?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1022773?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-04T00:41:32+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1196,7 +1214,7 @@
       "id": "b4b98f3a180d632493c081b4ac161b7e10b38836",
       "title": "Ghost Note",
       "link": "https://www.producthunt.com/products/ghost-note",
-      "summary": "<p>\n            An innovative privacy focused approach to code documentation\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ghost-note?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1022735?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            An innovative privacy focused approach to code documentation\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ghost-note?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1022735?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-03T20:48:15+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1234,15 +1252,6 @@
       "link": "https://techcrunch.com/2025/10/03/snapchat-is-going-to-charge-for-storage-heres-how-to-save-your-memories-for-free/",
       "summary": "If your Memories exceed the new limit, you will need to either export them or sign up for one of Snapchat's new Memories Storage plans in order to preserve them.",
       "published": "2025-10-03T19:26:02+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "d1eea3d77f670a971013a3387a009ae0c5c6cc93",
-      "title": "Google’s Gemini AI app could soon be getting a big makeover",
-      "link": "https://techcrunch.com/2025/10/03/googles-gemini-ai-app-could-soon-be-getting-a-big-makeover/",
-      "summary": "The company is seemingly experimenting with a new user interface that would shift the app from having a chatbot-style look and feel to one offering a scrollable feed with suggested prompts accompanied by eye-catching photos.",
-      "published": "2025-10-03T19:18:43+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
@@ -1286,7 +1295,7 @@
       "id": "60f23fc49a28d93f35253e4b904a341e291c00f1",
       "title": "Enhance",
       "link": "https://www.producthunt.com/products/enhance-3",
-      "summary": "<p>\n            Turn your new tab into a daily boost of calm + productivity.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/enhance-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1022688?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Turn your new tab into a daily boost of calm + productivity.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/enhance-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1022688?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-03T16:19:37+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1295,7 +1304,7 @@
       "id": "59b4a376cf5858892e6aa1c356fc86831bbb476f",
       "title": "Dropstone",
       "link": "https://www.producthunt.com/products/dropstone-2",
-      "summary": "<p>\n            AI IDE that learns and improves itself as you code\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dropstone-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1022676?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            AI IDE that learns and improves itself as you code\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dropstone-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1022676?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-03T15:27:24+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1346,15 +1355,6 @@
       "category": "malaysia"
     },
     {
-      "id": "c674c7e1083c055d513e4d0a0154ba3e78b7de36",
-      "title": "Climbing star, 23, dies after falling from Yosemite's El Capitan",
-      "link": "https://www.bbc.com/news/articles/cz08jp4xv2jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Balin Miller's solo climb and fall was caught on a live stream.",
-      "published": "2025-10-03T12:55:17+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "26d1f4ed6bc1770d9eb9265afcf183acbeb33cbc",
       "title": "Tesla now has 15 Supercharging and 16 Destination charging locations in Malaysia. More coming soon by end of 2025",
       "link": "https://soyacincau.com/2025/10/03/tesla-malaysia-15-supercharging-destination-charging-2025-locations/",
@@ -1367,7 +1367,7 @@
       "id": "49d8c5af79218113753d81c778f672b1d4d6d817",
       "title": "Spit Notes",
       "link": "https://www.producthunt.com/products/spit-notes",
-      "summary": "<p>\n            A songwriting app that keeps your lyrics and audio together\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/spit-notes?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1022599?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            A songwriting app that keeps your lyrics and audio together\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/spit-notes?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1022599?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-03T11:01:32+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1385,7 +1385,7 @@
       "id": "19e3021ca276058d4a7b7ccf3cb868d247afd51b",
       "title": "Snippetly",
       "link": "https://www.producthunt.com/products/snippetly",
-      "summary": "<p>\n            Your snippet vault. Save, organize & share code snippets\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/snippetly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1022584?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Your snippet vault. Save, organize & share code snippets\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/snippetly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1022584?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-03T10:16:39+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1394,7 +1394,7 @@
       "id": "fee4523ab5729f09e36dc1be7dc8cd3319821cfb",
       "title": "RightNow AI Code Editor",
       "link": "https://www.producthunt.com/products/rightnow-ai",
-      "summary": "<p>\n            The first GPU-native code editor with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rightnow-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1022568?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            The first GPU-native code editor with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rightnow-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1022568?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-03T09:20:41+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1403,7 +1403,7 @@
       "id": "879a52764d02f47d93d1bf9e837ed04f259385ae",
       "title": "Ziyo",
       "link": "https://www.producthunt.com/products/ziyo",
-      "summary": "<p>\n            A powerful Japanese Kanji dictionary & search engine\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ziyo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1022556?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            A powerful Japanese Kanji dictionary & search engine\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ziyo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1022556?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-03T08:30:32+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1412,7 +1412,7 @@
       "id": "591589e34dcc649c6d63e0b9c2eb0e54ea8ca352",
       "title": "Nexion - For Windows & Open Source",
       "link": "https://www.producthunt.com/products/nexion-for-windows-open-source",
-      "summary": "<p>\n            A cross-platform blockchain Shell Client based on XLayer\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nexion-for-windows-open-source?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1022544?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            A cross-platform blockchain Shell Client based on XLayer\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nexion-for-windows-open-source?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1022544?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-03T07:55:51+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1490,15 +1490,6 @@
       "category": "tech"
     },
     {
-      "id": "076814a9fe3d7478a94e468e3f6e865cf7d23027",
-      "title": "WhereFlight",
-      "link": "https://www.producthunt.com/products/whereflight",
-      "summary": "<p>\n            Flight tracking made simple\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/whereflight?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1022319?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-02T15:01:33+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "4901f6cde486c53e8c50c401c1ec032f939b2177",
       "title": "Buku 555 TnG Card & Charm: You Can Scribble on This Card Like a Notebook",
       "link": "https://soyacincau.com/2025/10/02/buku-555-tng-touch-n-go-nfc-card-charm-scribble-notebook/",
@@ -1517,19 +1508,10 @@
       "category": "malaysia"
     },
     {
-      "id": "21ff3e5ebe92a27d1b49ad62472d87b794f6a93b",
-      "title": "Krisp AI Note Taker",
-      "link": "https://www.producthunt.com/products/krisp",
-      "summary": "<p>\n            Capture online + in-person meetings with better audio\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/krisp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1022208?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-02T08:00:50+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "30c3b36aa6361b9dfa144e035fbb003187a2b1de",
       "title": "Plus AI Presentations API",
       "link": "https://www.producthunt.com/products/plus-ai-presentations-api",
-      "summary": "<p>\n            Create professional presentations with the Plus AI API\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/plus-ai-presentations-api?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1021664?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Create professional presentations with the Plus AI API\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/plus-ai-presentations-api?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1021664?app_id=339\">Link</a>\n          </p>",
       "published": "2025-09-30T23:10:48+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1538,8 +1520,17 @@
       "id": "7a962b054b6a8443b0e9fbe0eedb60f2ccfb656b",
       "title": "LangLime",
       "link": "https://www.producthunt.com/products/langlime",
-      "summary": "<p>\n            A language learning app that doesn’t actually suck\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/langlime?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1020583?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            A language learning app that doesn’t actually suck\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/langlime?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1020583?app_id=339\">Link</a>\n          </p>",
       "published": "2025-09-27T10:33:55+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "af93be849007f038ff319e783a33146909a39dfd",
+      "title": "Focus Session by SyncTasks",
+      "link": "https://www.producthunt.com/products/synctasks",
+      "summary": "<p>\n            A distraction-free mode for your tasks\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/synctasks?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1020247?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-09-26T07:12:01+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1547,7 +1538,7 @@
       "id": "76d5e9cde10272778448a127d7cddbb7f9dead7d",
       "title": "shadcn CLI 3.0 and MCP Server",
       "link": "https://www.producthunt.com/products/shadcn-ui",
-      "summary": "<p>\n            One command line to add UI components to your project\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/shadcn-ui?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1020143?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            One command line to add UI components to your project\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/shadcn-ui?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1020143?app_id=339\">Link</a>\n          </p>",
       "published": "2025-09-25T22:31:30+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1556,7 +1547,7 @@
       "id": "b3ac71028d309dc955b5271b9f3fafb314439456",
       "title": "Nuxt UI v4",
       "link": "https://www.producthunt.com/products/nuxt-ui",
-      "summary": "<p>\n            Open-source UI library built with Tailwind CSS\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nuxt-ui?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1020140?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Open-source UI library built with Tailwind CSS\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nuxt-ui?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1020140?app_id=339\">Link</a>\n          </p>",
       "published": "2025-09-25T22:28:16+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1565,8 +1556,17 @@
       "id": "6e579ec014fb4c8f197f06162003edc6e2eca6c8",
       "title": "MailTester.AI",
       "link": "https://www.producthunt.com/products/mailtester-ai",
-      "summary": "<p>\n            Forward an email and get an AI deliverability report in 30s\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mailtester-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1019241?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Forward an email and get an AI deliverability report in 30s\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mailtester-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1019241?app_id=339\">Link</a>\n          </p>",
       "published": "2025-09-23T13:06:03+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "1465dd295156d6acdad1f12aaa64037223c7cded",
+      "title": "Grain Desktop Capture",
+      "link": "https://www.producthunt.com/products/grain",
+      "summary": "<p>\n            AI meeting notes without bots\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/grain?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1014974?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-09-10T16:51:57+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1574,7 +1574,7 @@
       "id": "a609327c63491800ef5031782d9e4c5d3f34154e",
       "title": "Dolby Vision® 2",
       "link": "https://www.producthunt.com/products/dolby-vision-2",
-      "summary": "<p>\n            Go beyond HDR with more AI and ‘authentic motion’ smoothing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dolby-vision-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1012204?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Go beyond HDR with more AI and ‘authentic motion’ smoothing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dolby-vision-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1012204?app_id=339\">Link</a>\n          </p>",
       "published": "2025-09-02T22:07:30+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
