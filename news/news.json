@@ -1,15 +1,33 @@
 {
-  "generatedAt": "2025-10-11T17:10:47.884530+00:00",
+  "generatedAt": "2025-10-11T18:16:11.306079+00:00",
   "counts": {
     "total": 175
   },
   "items": [
     {
+      "id": "975dbcb39a7e4c759971daae0ab1b51605af3e8d",
+      "title": "Ready or not, enterprises are betting on AI",
+      "link": "https://techcrunch.com/2025/10/11/ready-or-not-enterprises-are-betting-on-ai/",
+      "summary": "This has been a big week for AI companies signing enterprise deals, with Zendesk unveiling new AI agents that are supposed to be able to resolve 80% of customer service issues, Anthropic and IBM announcing a strategic partnership, and Deloitte also announcing a deal with Anthropic.",
+      "published": "2025-10-11T17:52:03+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "e9df95a6c36c35b28f8fd9522ce667132e9e26b7",
+      "title": "Indonesia's film industry is embracing AI tools to produce Hollywood-style movies at a significantly lower cost; the average local film budget is about $602,500 (Linda Yulisman/Rest of World)",
+      "link": "http://www.techmeme.com/251011/p18#a251011p18",
+      "summary": "<a href=\"https://restofworld.org/2025/indonesia-ai-movies/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251011/i18.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251011/p18#a251011p18\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Linda Yulisman / <a href=\"https://restofworld.org/\">Rest of World</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://restofworld.org/2025/indonesia-ai-movies/\">Indonesia's film industry is embracing AI tools to produce Hollywood-style movies at a significantly lower cost; the average local film budget is about $602,500</a></b></span>&nbsp; &mdash;&nbsp; Generative AI video and text tools are transforming some of the labor-intensive parts of filmmaking, and are largely welcomed in Indonesia's homegrown industry.</p>",
+      "published": "2025-10-11T17:50:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
       "id": "e30939f2edcd3fdd7ddcde66b1c763f09752d696",
       "title": "No survivors found after Tennessee explosives plant blast",
       "link": "https://www.bbc.com/news/articles/cx2523997p9o?at_medium=RSS&at_campaign=rss",
       "summary": "The 18 people unaccounted for after the blast at a Tennessee munitions factory are presume dead, say officials.",
-      "published": "2025-10-11T17:05:12+00:00",
+      "published": "2025-10-11T17:39:31+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -725,15 +743,6 @@
       "category": "tech"
     },
     {
-      "id": "2cf5e549d0c98fca87994261846378cd3f753616",
-      "title": "FCC Chair Brendan Carr says major US online retailers have removed several million listings for prohibited Chinese electronics as part of the agency's crackdown (David Shepardson/Reuters)",
-      "link": "http://www.techmeme.com/251011/p3#a251011p3",
-      "summary": "<a href=\"https://www.reuters.com/sustainability/boards-policy-regulation/major-us-online-retailers-remove-listings-millions-prohibited-chinese-2025-10-10/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251011/i3.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251011/p3#a251011p3\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> David Shepardson / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/sustainability/boards-policy-regulation/major-us-online-retailers-remove-listings-millions-prohibited-chinese-2025-10-10/\">FCC Chair Brendan Carr says major US online retailers have removed several million listings for prohibited Chinese electronics as part of the agency's crackdown</a></b></span>&nbsp; &mdash;&nbsp; - FCC says millions of listings for Chinese electronics on U.S. online retailer websites have been removed</p>",
-      "published": "2025-10-11T05:10:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "ecb81487a5eb2e515fa3c1ae92d1afceb024a7e2",
       "title": "U Mobile Launches U Home 5G Borneo; Costs RM58 A Month",
       "link": "https://www.lowyat.net/2025/369165/u-mobile-u-home-5g-borneo-rm58-month/",
@@ -1238,15 +1247,6 @@
       "category": "tech"
     },
     {
-      "id": "774edcbdf08fe5811f0b32a7a38b91947dfe9dc8",
-      "title": "Investors are betting $21 billion that the energy transition isn’t going away",
-      "link": "https://techcrunch.com/2025/10/10/investors-are-betting-21-billion-that-the-energy-transition-isnt-going-away/",
-      "summary": "Political shifts might have set back the energy transition, but large investors are betting that renewables are at the future of energy.",
-      "published": "2025-10-10T14:07:56+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "e83ef88e3a342bfc7f306bc28ef904fad6355544",
       "title": "It’s back! The 2027 Chevy Bolt gets an all-new LFP battery, but what else?",
       "link": "https://arstechnica.com/cars/2025/10/its-back-the-2027-chevy-bolt-gets-an-all-new-lfp-battery-but-what-else/",
@@ -1472,6 +1472,15 @@
       "category": "events"
     },
     {
+      "id": "1c9c8fbb15154ac48a2ea8629d9705155b7998a6",
+      "title": "ElevenLabs UI",
+      "link": "https://www.producthunt.com/products/elevenlabs",
+      "summary": "<p>\n            Open-source components for AI audio & voice agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/elevenlabs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1024586?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-10-09T04:41:44+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "7f29866918038c16fd722f206d44af48a894e5a1",
       "title": "Androidify",
       "link": "https://www.producthunt.com/products/androidify",
@@ -1481,29 +1490,11 @@
       "category": "events"
     },
     {
-      "id": "35605eb29f7da3aba3d2080ffa8acab23bf9767d",
-      "title": "Tasklet",
-      "link": "https://www.producthunt.com/products/tasklet",
-      "summary": "<p>\n            Automate your business with AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tasklet?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1024554?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-09T00:28:01+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "4104cf9821cc2090b70a7a0a90f0cd2ba221d442",
       "title": "Google AI Studio",
       "link": "https://www.producthunt.com/products/google-ai-studio-2",
       "summary": "<p>\n            Now you can vibe code with your voice\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google-ai-studio-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1024524?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-08T21:14:54+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "86cf01a1fc9210514d36f9833e4e6486c8a223cf",
-      "title": "Agent Runners",
-      "link": "https://www.producthunt.com/products/netlify",
-      "summary": "<p>\n            Build and ship with Claude Code, Codex, Gemini in Netlify \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/netlify?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1024468?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-08T18:04:02+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1540,6 +1531,15 @@
       "link": "https://www.producthunt.com/products/intryc",
       "summary": "<p>\n            AI scores tickets to your SOPs with 90% precision\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/intryc?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1021883?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-01T11:16:11+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "f7416c1a64f9bd65d10f1ceeb346637039e758b4",
+      "title": "Plural",
+      "link": "https://www.producthunt.com/products/plural-2",
+      "summary": "<p>\n            Your AI-powered control plane for Kubernetes\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/plural-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1020439?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-09-26T18:49:46+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
