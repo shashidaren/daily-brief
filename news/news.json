@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2025-10-11T20:13:02.735252+00:00",
+  "generatedAt": "2025-10-11T21:10:41.241714+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "0661d53c81f7043eb7863d0b06f494af3adb3c40",
+      "title": "Actress Diane Keaton dies aged 79, US media report",
+      "link": "https://www.bbc.com/news/articles/cr5q5rp4r64o?at_medium=RSS&at_campaign=rss",
+      "summary": "She was best known for roles in films including in The Father of the Bride, The Godfather and Annie Hall.",
+      "published": "2025-10-11T20:50:41+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "4af33a1ce1b71a18a5a7436c7c5f000fd8af0e89",
+      "title": "Drone strike in besieged Sudan city kills dozens",
+      "link": "https://www.bbc.com/news/articles/c3rvrn8req4o?at_medium=RSS&at_campaign=rss",
+      "summary": "El-Fasher has been surrounded by the RSF for 17 months, as residents face hunger and starvation.",
+      "published": "2025-10-11T20:25:59+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "6ab5304b78067648d7ad95683bccb7569d11f715",
+      "title": "SEMI: US chip fab investment to outpace China, Taiwan, and South Korea from 2027, driven by AI demand and US policies, rising from $21B in 2025 to $43B in 2028 (Nikkei Asia)",
+      "link": "http://www.techmeme.com/251011/p21#a251011p21",
+      "summary": "<a href=\"https://asia.nikkei.com/business/tech/semiconductors/us-chip-plant-investment-to-outpace-china-taiwan-and-south-korea-from-2027\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251011/i21.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251011/p21#a251011p21\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://asia.nikkei.com/\">Nikkei Asia</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://asia.nikkei.com/business/tech/semiconductors/us-chip-plant-investment-to-outpace-china-taiwan-and-south-korea-from-2027\">SEMI: US chip fab investment to outpace China, Taiwan, and South Korea from 2027, driven by AI demand and US policies, rising from $21B in 2025 to $43B in 2028</a></b></span>&nbsp; &mdash;&nbsp; PHOENIX, Arizona &mdash; U.S. semiconductor investment is set to outpace that of major chip economies China, Taiwan and South Korea &hellip; </p>",
+      "published": "2025-10-11T20:25:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "e30939f2edcd3fdd7ddcde66b1c763f09752d696",
+      "title": "No survivors found after Tennessee explosives plant blast",
+      "link": "https://www.bbc.com/news/articles/cx2523997p9o?at_medium=RSS&at_campaign=rss",
+      "summary": "With 18 people unaccounted for, the tragedy is \"even more devastating than we thought\", says a sheriff.",
+      "published": "2025-10-11T20:16:12+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "cefd4f4e7aab100cf42c81089919276ffbadc00d",
       "title": "US Ambassador to India Gor says he discussed bilateral issues with PM Modi",
@@ -95,15 +131,6 @@
       "category": "tech"
     },
     {
-      "id": "e30939f2edcd3fdd7ddcde66b1c763f09752d696",
-      "title": "No survivors found after Tennessee explosives plant blast",
-      "link": "https://www.bbc.com/news/articles/cx2523997p9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 18 people unaccounted for after the blast at a Tennessee munitions factory are presumed dead, say officials.",
-      "published": "2025-10-11T17:39:31+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "0d9c6abae464f601ce63742c9c8412d5d29d964f",
       "title": "Apple discontinues Clips, a video editing app it launched in 2017, removing it from the App Store for new users, and says Clips will no longer be updated (Eric Slivka/MacRumors)",
       "link": "http://www.techmeme.com/251011/p17#a251011p17",
@@ -192,15 +219,6 @@
       "published": "2025-10-11T15:40:00+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "4af33a1ce1b71a18a5a7436c7c5f000fd8af0e89",
-      "title": "Drone strike in besieged Sudan city kills dozens",
-      "link": "https://www.bbc.com/news/articles/c3rvrn8req4o?at_medium=RSS&at_campaign=rss",
-      "summary": "El-Fasher has been surrounded by the RSF for 17 months, as residents face hunger and starvation.",
-      "published": "2025-10-11T15:26:06+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "67fec8abb546492cf6a1d3cb917b48d240d85f81",
@@ -422,7 +440,7 @@
       "id": "e69640a2bb014e16b929426bf3ed97e80917ec44",
       "title": "Thoughts on The Curve conference, where prominent figures debated about AI progress, and why automating research engineers is plausible within years (Nathan Lambert/Interconnects)",
       "link": "http://www.techmeme.com/251011/p12#a251011p12",
-      "summary": "<a href=\"https://www.interconnects.ai/p/thoughts-on-the-curve\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251011/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251011/p12#a251011p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Nathan Lambert / <a href=\"https://www.interconnects.ai/\">Interconnects</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.interconnects.ai/p/thoughts-on-the-curve\">Thoughts on The Curve conference, where prominent figures debated about AI progress, and why automating research engineers is plausible within years</a></b></span>&nbsp; &mdash;&nbsp; The conference and the trajectory.&nbsp; &mdash;&nbsp; ARTICLE VOICEOVER &hellip; Audio playback is not supported on your browser.&nbsp; Please upgrade.</p>",
+      "summary": "<a href=\"https://www.interconnects.ai/p/thoughts-on-the-curve\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251011/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251011/p12#a251011p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Nathan Lambert / <a href=\"https://www.interconnects.ai/\">Interconnects</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.interconnects.ai/p/thoughts-on-the-curve\">Thoughts on The Curve conference, where prominent figures debated about AI progress, and why automating research engineers is plausible within years</a></b></span>&nbsp; &mdash;&nbsp; I spent the weekend debating AI timelines, among other things, at The Curve conference.&nbsp; This translates as spending the weekend thinking &hellip; </p>",
       "published": "2025-10-11T12:55:01+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -770,15 +788,6 @@
       "category": "tech"
     },
     {
-      "id": "1642c020af04b5341a711d1922f0295737d287d2",
-      "title": "Amkor breaks ground on advanced chip packaging campus in Arizona, with production expected by early 2028; state officials say Amkor's investment could reach $7B (Luke James/Tom's Hardware)",
-      "link": "http://www.techmeme.com/251011/p6#a251011p6",
-      "summary": "<a href=\"https://www.tomshardware.com/tech-industry/semiconductors/amkor-breaks-ground-on-arizona-advanced-packaging-campus\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251011/i6.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251011/p6#a251011p6\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Luke James / <a href=\"https://www.tomshardware.com/\">Tom's Hardware</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.tomshardware.com/tech-industry/semiconductors/amkor-breaks-ground-on-arizona-advanced-packaging-campus\">Amkor breaks ground on advanced chip packaging campus in Arizona, with production expected by early 2028; state officials say Amkor's investment could reach $7B</a></b></span>&nbsp; &mdash;&nbsp; Amkor moves in next door to TSMC as CHIPS Act funding continues to turn the Phoenix metro area into a chips hub.</p>",
-      "published": "2025-10-11T05:45:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "ecb81487a5eb2e515fa3c1ae92d1afceb024a7e2",
       "title": "U Mobile Launches U Home 5G Borneo; Costs RM58 A Month",
       "link": "https://www.lowyat.net/2025/369165/u-mobile-u-home-5g-borneo-rm58-month/",
@@ -849,15 +858,6 @@
       "published": "2025-10-10T23:00:00+00:00",
       "source": "The Verge",
       "category": "tech"
-    },
-    {
-      "id": "ea7da1b2ab5c6676d287e2ae905a8f76d2c91ab4",
-      "title": "Burkina Faso refuses to take deportees as US stops issuing visas",
-      "link": "https://www.bbc.com/news/articles/c2lx5r2z475o?at_medium=RSS&at_campaign=rss",
-      "summary": "The West African nation's foreign minister asks if the decision led to the US suspending issuing visas.",
-      "published": "2025-10-10T22:58:28+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "c47dd0e3b1821d57ffa2dd6106d388b54562ca1b",
@@ -1535,15 +1535,6 @@
       "category": "events"
     },
     {
-      "id": "f7416c1a64f9bd65d10f1ceeb346637039e758b4",
-      "title": "Plural",
-      "link": "https://www.producthunt.com/products/plural-2",
-      "summary": "<p>\n            Your AI-powered control plane for Kubernetes\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/plural-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1020439?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-09-26T18:49:46+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "9606425f3c6ff7e7fa5ab6136d8f8c12c2f8f213",
       "title": "OpenLIT's Zero-code LLM Observability",
       "link": "https://www.producthunt.com/products/openlit",
@@ -1558,6 +1549,15 @@
       "link": "https://www.producthunt.com/products/lyra-7",
       "summary": "<p>\n            Record, transcribe + auto‑create action items for every call\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lyra-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1017736?app_id=339\">Link</a>\n          </p>",
       "published": "2025-09-18T22:43:42+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "87586f7e0fedb5e2a7164d06c24bda60f214bdb2",
+      "title": "Tight Studio",
+      "link": "https://www.producthunt.com/products/tight-studio-2",
+      "summary": "<p>\n            An AI-native, more powerful Screen Studio\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tight-studio-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1012210?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-09-02T22:34:04+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
