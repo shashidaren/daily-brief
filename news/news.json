@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2025-10-12T21:11:18.578120+00:00",
+  "generatedAt": "2025-10-12T22:12:20.390313+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "561912e46b875d3a6966c68a83241116e6a2fb1d",
+      "title": "Ukraine accuses Russia of deliberately severing external link to Zaporizhzhia plant",
+      "link": "https://www.thestar.com.my/news/world/2025/10/13/ukraine-accuses-russia-of-deliberately-severing-external-link-to-zaporizhzhia-plant",
+      "summary": "(Reuters) -Ukraine's foreign minister accused Russia on Sunday of deliberately severing the external power line to the Russian-held Zaporizhzhia nuclear power station in order to link the plant to Moscow's power grid. <a href=\"https://www.thestar.com.my/news/world/2025/10/13/ukraine-accuses-russia-of-deliberately-severing-external-link-to-zaporizhzhia-plant\">Read full story</a>",
+      "published": "2025-10-12T21:46:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
     {
       "id": "9192f95c3b86770ac4d04b091a6305a00912752f",
       "title": "Cobots, or robots that collaborate with humans, are bringing automation to even the smallest US factories, amid a push to bring manufacturing back to the US (Christopher Mims/Wall Street Journal)",
@@ -21,6 +30,15 @@
       "published": "2025-10-12T20:55:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
+    },
+    {
+      "id": "b51c11f3631725f7dd49e9d0b3230f6d486054b4",
+      "title": "New Starfleet Academy trailer debuts at NYCC",
+      "link": "https://arstechnica.com/culture/2025/10/new-starfleet-academy-trailer-debuts-at-nycc/",
+      "summary": "Also: our first look at S4 of <em>Star Trek: Strange New Worlds</em>",
+      "published": "2025-10-12T20:50:35+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
     },
     {
       "id": "c16c49a39bd6f8a34ed893622270a312de83b289",
@@ -327,15 +345,6 @@
       "published": "2025-10-12T13:19:53+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "63988467263ab8791c8b7e5d40ce97016f4236b0",
-      "title": "Tied, dragged and forced to kneel, activist recounts Zionist brutality",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/12/tied-dragged-and-forced-to-kneel-activist-recounts-zionist-brutality",
-      "summary": "SEPANG: Prof Emeritus Dr Mohd Alauddin Mohd Ali recounted being tied up and dragged for about 200m by two Israeli soldiers during his recent detention by the Zionist regime. <a href=\"https://www.thestar.com.my/news/nation/2025/10/12/tied-dragged-and-forced-to-kneel-activist-recounts-zionist-brutality\">Read full story</a>",
-      "published": "2025-10-12T13:17:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "e9cd281236a05fc1fad109cdf88631dc579bc154",
@@ -1472,20 +1481,11 @@
       "category": "tech"
     },
     {
-      "id": "ddcaca39449cdb2ffcbc88aad53e06f0dfd5ae43",
-      "title": "AI models can acquire backdoors from surprisingly few malicious documents",
-      "link": "https://arstechnica.com/ai/2025/10/ai-models-can-acquire-backdoors-from-surprisingly-few-malicious-documents/",
-      "summary": "Anthropic study suggests \"poison\" training attacks don't scale with model size.",
-      "published": "2025-10-09T22:03:21+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "ed587688a947d8168e5aa94aed6858579f9b37c5",
-      "title": "blai",
-      "link": "https://www.producthunt.com/products/blai",
-      "summary": "<p>\n            AI crypto advisor that trades for you\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/blai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1024599?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-09T05:41:08+00:00",
+      "id": "abab00a3d155e05bb920ec93ad39ed0b67a7ff07",
+      "title": "Praxim for Word",
+      "link": "https://www.producthunt.com/products/praxim-for-word",
+      "summary": "<p>\n            Cursor for Microsoft Word: What Word Copilot should've been\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/praxim-for-word?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1024674?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-10-09T08:12:01+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
