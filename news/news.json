@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2025-10-12T19:09:58.526671+00:00",
+  "generatedAt": "2025-10-12T20:13:54.338356+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "2e05914ced0478a3ec4206a228fc9e6f79e2d503",
+      "title": "AI has sparked a new wave of competition in the browser market, as agentic AI browsers like Perplexity's Comet and others compete with Gemini-enhanced Chrome (Fortune)",
+      "link": "http://www.techmeme.com/251012/p12#a251012p12",
+      "summary": "<a href=\"https://fortune.com/2025/10/11/ai-browser-wars-agents-google-perplexity-opera-comet-neon-gemini/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251012/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251012/p12#a251012p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.fortune.com/\">Fortune</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://fortune.com/2025/10/11/ai-browser-wars-agents-google-perplexity-opera-comet-neon-gemini/\">AI has sparked a new wave of competition in the browser market, as agentic AI browsers like Perplexity's Comet and others compete with Gemini-enhanced Chrome</a></b></span>&nbsp; &mdash;&nbsp; The early days of the internet saw intense competition between graphical web browsers: Netscape Navigator faced off against Microsoft's Internet Explorer.</p>",
+      "published": "2025-10-12T20:00:14+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
     {
       "id": "dd781933b54aa8c95da64f05387cd07d1f4489f8",
       "title": "Gaza City clashes between Hamas and clan members leave 27 dead",
@@ -725,15 +734,6 @@
       "category": "world"
     },
     {
-      "id": "d9e6dbab440b617498818524e982f351f7f5a193",
-      "title": "AMD's SVP of AI Vamsi Boppana says the company's AI software, designed with input from OpenAI, helped secure the multi-billion dollar deal with OpenAI (Richard Nieva/Forbes)",
-      "link": "http://www.techmeme.com/251011/p22#a251011p22",
-      "summary": "<a href=\"https://www.forbes.com/sites/richardnieva/2025/10/09/amd-openai-chip-software/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251011/i22.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251011/p22#a251011p22\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Richard Nieva / <a href=\"http://www.forbes.com/\">Forbes</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.forbes.com/sites/richardnieva/2025/10/09/amd-openai-chip-software/\">AMD's SVP of AI Vamsi Boppana says the company's AI software, designed with input from OpenAI, helped secure the multi-billion dollar deal with OpenAI</a></b></span>&nbsp; &mdash;&nbsp; Chips aren't the only star of the massive agreement.&nbsp; AMD's software efforts have slowly turned it into a more formidable competitor to Nvidia.</p>",
-      "published": "2025-10-11T21:20:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "4af33a1ce1b71a18a5a7436c7c5f000fd8af0e89",
       "title": "Drone strike in besieged Sudan city kills dozens",
       "link": "https://www.bbc.com/news/articles/c3rvrn8req4o?at_medium=RSS&at_campaign=rss",
@@ -1184,8 +1184,8 @@
       "category": "tech"
     },
     {
-      "id": "01fd14b5bcb8d87bd12057e40494f294dd19e4e5",
-      "title": "Marvel gets meta with Wonder Man teaser",
+      "id": "3f5f51ee073f3055a345455f53021c8655554515",
+      "title": "Marvel gets meta with Wonder Man trailer [UPDATED]",
       "link": "https://arstechnica.com/culture/2025/10/marvel-gets-meta-with-wonder-man-teaser/",
       "summary": "\"There is an opportunity to shock audiences, to re-imagine a whole genre of storytelling.\"",
       "published": "2025-10-10T19:48:25+00:00",
@@ -1517,6 +1517,15 @@
       "category": "events"
     },
     {
+      "id": "0eb04f691fe54dbe5acf73dfe6419818717e3765",
+      "title": "Dad Reply v1.5",
+      "link": "https://www.producthunt.com/products/dad-reply",
+      "summary": "<p>\n            Compose, reply, and send a 👍 in a single click\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dad-reply?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1024388?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-10-08T14:28:04+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "d9981d15b0588a0399b3eecdb69a05ad0f40b99e",
       "title": "Open SaaS 2.0",
       "link": "https://www.producthunt.com/products/open-saas",
@@ -1549,15 +1558,6 @@
       "link": "https://www.producthunt.com/products/openlit",
       "summary": "<p>\n            Trace LLM requests + costs with OpenTelemetry monitoring\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openlit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1018383?app_id=339\">Link</a>\n          </p>",
       "published": "2025-09-21T05:45:03+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "5d3c2aba4e8cc673327b5fe6f543e23d1a9500d6",
-      "title": "Lyra",
-      "link": "https://www.producthunt.com/products/lyra-7",
-      "summary": "<p>\n            Record, transcribe + auto‑create action items for every call\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lyra-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1017736?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-09-18T22:43:42+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
