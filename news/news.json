@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2025-10-19T18:17:48.295554+00:00",
+  "generatedAt": "2025-10-19T19:10:05.440988+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "971519ad0524e2ed49f6b9b37098f5787778e601",
+      "title": "OpenAI’s ‘embarrassing’ math",
+      "link": "https://techcrunch.com/2025/10/19/openais-embarrassing-math/",
+      "summary": "No, GPT-5 did not solve a bunch of previously unsolved math problems.",
+      "published": "2025-10-19T18:56:58+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "5ec710a57a4797ab6635d948eb965e16f901c968",
+      "title": "OpenAI's Broadcom deal shows how the AI startup is diversifying its chip suppliers, including Nvidia chips for training and Broadcom chips for inference (Christopher Mims/Wall Street Journal)",
+      "link": "http://www.techmeme.com/251019/p11#a251019p11",
+      "summary": "<a href=\"https://www.wsj.com/tech/ai/openai-broadcom-ai-chip-strategy-26f79487?st=W2LcV1&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251019/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251019/p11#a251019p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Christopher Mims / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/tech/ai/openai-broadcom-ai-chip-strategy-26f79487?st=W2LcV1&amp;reflink=desktopwebshare_permalink\">OpenAI's Broadcom deal shows how the AI startup is diversifying its chip suppliers, including Nvidia chips for training and Broadcom chips for inference</a></b></span>&nbsp; &mdash;&nbsp; The maker of ChatGPT and Sora wants to control its destiny, which means controlling the hardware that runs its software</p>",
+      "published": "2025-10-19T18:50:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
     {
       "id": "6d2d899b1b8f5dfb7352413a07f155a2b633152b",
       "title": "You need to read the epic Argentinian horror novel Our Share of Night",
@@ -50,10 +68,10 @@
       "category": "world"
     },
     {
-      "id": "0b8a0416f24c7ba22cf1582802235930dd9c4340",
-      "title": "OpenAI researchers delete X posts claiming a GPT-5 math breakthrough after pushback from Hassabis, others; LeCun says they were \"hoisted by their own GPTards\" (Matthias Bastian/The Decoder)",
+      "id": "7534723569e635f179ad8643023434e11232c5ad",
+      "title": "OpenAI researchers delete X posts claiming that GPT-5 solved Erdős math problems, after pushback from Demis Hassabis and others; Yann LeCun ridicules OpenAI (Matthias Bastian/The Decoder)",
       "link": "http://www.techmeme.com/251019/p10#a251019p10",
-      "summary": "<a href=\"https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251019/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251019/p10#a251019p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Matthias Bastian / <a href=\"https://the-decoder.com/\">The Decoder</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/\">OpenAI researchers delete X posts claiming a GPT-5 math breakthrough after pushback from Hassabis, others; LeCun says they were &ldquo;hoisted by their own GPTards&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; OpenAI researchers recently claimed a major math breakthrough on X, but quickly walked it back after criticism from the community &hellip; </p>",
+      "summary": "<a href=\"https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251019/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251019/p10#a251019p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Matthias Bastian / <a href=\"https://the-decoder.com/\">The Decoder</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/\">OpenAI researchers delete X posts claiming that GPT-5 solved Erd&amp;odblacs math problems, after pushback from Demis Hassabis and others; Yann LeCun ridicules OpenAI</a></b></span>&nbsp; &mdash;&nbsp; OpenAI researchers recently claimed a major math breakthrough on X, but quickly walked it back after criticism from the community &hellip; </p>",
       "published": "2025-10-19T16:30:22+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -752,15 +770,6 @@
       "category": "world"
     },
     {
-      "id": "bd734116cef27a5de34845cd12db3864d01fba00",
-      "title": "US military has adopted an aggressive push to embrace AI; the top US Army commander in South Korea says \"Chat and I\" have become \"really close lately\" (Business Insider)",
-      "link": "http://www.techmeme.com/251018/p13#a251018p13",
-      "summary": "<a href=\"https://www.businessinsider.com/even-top-generals-are-looking-to-ai-chatbots-for-answers-2025-10\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251018/i13.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251018/p13#a251018p13\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.businessinsider.com/\">Business Insider</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.businessinsider.com/even-top-generals-are-looking-to-ai-chatbots-for-answers-2025-10\">US military has adopted an aggressive push to embrace AI; the top US Army commander in South Korea says &ldquo;Chat and I&rdquo; have become &ldquo;really close lately&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; - Some military leaders are adopting AI for decision-making.&nbsp; &mdash; The military has adopted an aggressive push &hellip; </p>",
-      "published": "2025-10-18T21:35:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "780ec030a1474a1a65d0871c60b7e6aaacf9d3d3",
       "title": "TinyFast",
       "link": "https://www.producthunt.com/products/tinyfast",
@@ -1274,15 +1283,6 @@
       "category": "tech"
     },
     {
-      "id": "f1b340981e79442e5f3aef4932c434689b79bde8",
-      "title": "Stellantis teams up with Pony AI to develop robotaxis in Europe",
-      "link": "https://techcrunch.com/2025/10/17/stellantis-teams-up-with-pony-ai-to-develop-robotaxis-in-europe/",
-      "summary": "The collaboration will integrate Pony’s self-driving software into Stellantis’ electric medium-size van platform, which is built with advanced sensors to support autonomous vehicles.",
-      "published": "2025-10-17T15:12:55+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "b84c5365e53cf569cec97dffd30d41b0ed6441e8",
       "title": "Apple pays $750 million for US Formula 1 streaming coverage",
       "link": "https://arstechnica.com/cars/2025/10/apple-pays-750-million-for-us-formula-1-streaming-coverage/",
@@ -1400,6 +1400,15 @@
       "category": "malaysia"
     },
     {
+      "id": "ac3dc70daae8d83a83396dbbc4ec713300eaccb7",
+      "title": "HuggingChat",
+      "link": "https://www.producthunt.com/products/hugging-face",
+      "summary": "<p>\n            The smart router for open-source models\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hugging-face?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1027592?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-10-17T00:16:28+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "015b6595258f34606d9b4c12e03d0b2e030b547d",
       "title": "RFK Jr.’s MAHA wants to make chemtrail conspiracy theories great again",
       "link": "https://arstechnica.com/health/2025/10/rfk-jr-s-maha-wants-to-make-chemtrail-conspiracy-theories-great-again/",
@@ -1416,15 +1425,6 @@
       "published": "2025-10-16T21:12:48+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "1112e3e4625402776f6a2fef3a85e8197742536b",
-      "title": "Monocle 2.0 for macOS",
-      "link": "https://www.producthunt.com/products/monocle-clear-workspace-clear-mind",
-      "summary": "<p>\n            Noise-cancelling for your screen\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/monocle-clear-workspace-clear-mind?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1027565?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-16T20:45:41+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "7821e89d417ea6b11bbfe889faad3ad5b4939c19",
@@ -1508,6 +1508,24 @@
       "category": "events"
     },
     {
+      "id": "4723b362794d38899107aac49c0d520ae3f592c8",
+      "title": "InterShipFlow",
+      "link": "https://www.producthunt.com/products/intershipflow",
+      "summary": "<p>\n            Shipmondo orders & shipment tracking directly in Intercom\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/intershipflow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1027098?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-10-15T18:19:32+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "8f9fe29f2273204907b23263111b3ec1c77d5663",
+      "title": "FlouState",
+      "link": "https://www.producthunt.com/products/floustate",
+      "summary": "<p>\n            Discover you only debug 1% of your time\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/floustate?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1027096?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-10-15T18:16:14+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "e35e54940589fdeea1b914ee943b8da80c2f6042",
       "title": "AI Grants & Credit Search by HackerNoon",
       "link": "https://www.producthunt.com/products/hacker-noon",
@@ -1526,15 +1544,6 @@
       "category": "events"
     },
     {
-      "id": "d1fed9076ac6a421b8b750fd2a20bc3b49b5dc0b",
-      "title": "Nora",
-      "link": "https://www.producthunt.com/products/nora-5",
-      "summary": "<p>\n            The AI coding agent for building secure Web3 apps\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nora-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1026664?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-14T18:01:01+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "3a797daba2accace9217bfb72964269424344f11",
       "title": "Kibo UI Patterns",
       "link": "https://www.producthunt.com/products/kibo-ui",
@@ -1549,15 +1558,6 @@
       "link": "https://www.producthunt.com/products/daft-music",
       "summary": "<p>\n            The definitive Apple Music experience on Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/daft-music?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1025387?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-11T08:26:27+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "7bad62edda6473be04926bce84147ce15ac9ac32",
-      "title": "Scorecard",
-      "link": "https://www.producthunt.com/products/scorecard",
-      "summary": "<p>\n            Evaluate, Optimize, and Ship AI Agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/scorecard?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1023985?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-07T13:15:54+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
