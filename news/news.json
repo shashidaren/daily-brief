@@ -1,9 +1,270 @@
 {
-  "generatedAt": "2025-10-21T10:15:22.255410+00:00",
+  "generatedAt": "2025-10-21T11:13:00.255809+00:00",
   "counts": {
-    "total": 174
+    "total": 175
   },
   "items": [
+    {
+      "id": "f1d68953658ff80509eb3e6fad25a10b9dd90f76",
+      "title": "Amazon hopes to replace 600,000 US workers with robots, according to leaked documents",
+      "link": "https://www.theverge.com/news/803257/amazon-robotics-automation-replace-600000-human-jobs",
+      "summary": "Amazon is reportedly leaning into automation plans that will enable the company to avoid hiring more than half a million US workers. Citing interviews and internal strategy documents, The New York Times reports that Amazon is hoping its robots can replace more than 600,000 jobs it would otherwise have to hire in the United States [&#8230;]",
+      "published": "2025-10-21T11:11:19+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "dc585a841aad4782527dbd5cf85a067e7ef8d3d3",
+      "title": "US chess grandmaster Daniel Naroditsky dies aged 29",
+      "link": "https://www.bbc.com/news/articles/c15pz8vpjp9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The young prodigy's \"unexpected passing\" was announced by his family on Monday.",
+      "published": "2025-10-21T11:11:07+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "c7806b088d0ea53aea9a0cda7a4757e73c441408",
+      "title": "Anrok, which helps software companies automate sales tax compliance, raised a $55M Series C at a $525M valuation, up from $250M after raising $30M in April 2024 (Kate Clark/Bloomberg)",
+      "link": "http://www.techmeme.com/251021/p10#a251021p10",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-10-21/spark-khosla-sequoia-back-startup-bringing-ai-to-tax-collection\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251021/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251021/p10#a251021p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kate Clark / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-10-21/spark-khosla-sequoia-back-startup-bringing-ai-to-tax-collection\">Anrok, which helps software companies automate sales tax compliance, raised a $55M Series C at a $525M valuation, up from $250M after raising $30M in April 2024</a></b></span>&nbsp; &mdash;&nbsp; Investors are betting on new software tools to grapple with one of the thorniest problems in business and life &mdash; taxes.</p>",
+      "published": "2025-10-21T11:10:07+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "91ac976e09b1c2185ff79aa5e626f09df6d7f1df",
+      "title": "Ringgit edges lower against greenback, stronger versus major currencies",
+      "link": "https://www.malaymail.com/news/money/2025/10/21/ringgit-edges-lower-against-greenback-stronger-versus-major-currencies/195439",
+      "summary": "KUALA LUMPUR, Oct 21 &mdash; The ringgit ended marginally lower against the US dollar today as the greenback strengthene...",
+      "published": "2025-10-21T11:07:42+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "1fbe8761b791f44e02d4620382a03b490161dd2f",
+      "title": "Syria hopes to have US sanctions formally lifted in coming months, says economy minister",
+      "link": "https://www.thestar.com.my/news/world/2025/10/21/syria-hopes-to-have-us-sanctions-formally-lifted-in-coming-months-says-economy-minister",
+      "summary": "LONDON (Reuters) -Syria hopes that U.S. sanctions against the country will be formally lifted in the coming months, the country's Economy Minister Mohammad Nidal al-Shaar told Reuters on Tuesday. <a href=\"https://www.thestar.com.my/news/world/2025/10/21/syria-hopes-to-have-us-sanctions-formally-lifted-in-coming-months-says-economy-minister\">Read full story</a>",
+      "published": "2025-10-21T11:07:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "df56822f20663e04c714d7263d1a6e2b67fae07f",
+      "title": "Terengganu MMEA disposes of 12 foreign fishing boats as artificial reefs",
+      "link": "https://www.thestar.com.my/news/nation/2025/10/21/terengganu-mmea-disposes-of-12-foreign-fishing-boats-as-artificial-reefs",
+      "summary": "JERTIH: A total of 12 foreign fishing boats confiscated by the Malaysian Maritime Enforcement Agency (MMEA) were disposed of as artificial reefs in Terengganu waters this year. <a href=\"https://www.thestar.com.my/news/nation/2025/10/21/terengganu-mmea-disposes-of-12-foreign-fishing-boats-as-artificial-reefs\">Read full story</a>",
+      "published": "2025-10-21T11:00:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "b3d27611c509971939068552bb13ae65dec7aac6",
+      "title": "Yelp’s AI assistant can now scan restaurant menus to show you what dishes look like",
+      "link": "https://techcrunch.com/2025/10/21/yelps-ai-assistant-can-now-scan-restaurant-menus-to-show-you-what-dishes-look-like/",
+      "summary": "Yelp will now let you scan a physical menu show redirect bubbles to Yelp app where you can see how those dishes look.",
+      "published": "2025-10-21T11:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "1327d19dd1f518ac4dd87388151d5d19554ea630",
+      "title": "Yelp’s AI can now take reservations over the phone",
+      "link": "https://www.theverge.com/news/802529/yelp-ai-host-receptionist",
+      "summary": "Yelp’s AI-powered solutions promise to answer calls, take reservations, and manage bookings for “understaffed” restaurants. Yelp Host and Yelp Receptionist are part of a broader push from the company and similar platforms embracing AI to streamline customer management “around the clock.”&#160; Host is an AI agent that can answer calls from guests and manage tables, [&#8230;]",
+      "published": "2025-10-21T11:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "d0c572773079aee14bc8dd4ba403c65c742564da",
+      "title": "AGC to charge 14-year-old boy with murder of schoolmate in Bandar Utama",
+      "link": "https://www.malaymail.com/news/malaysia/2025/10/21/agc-to-charge-14-year-old-boy-with-murder-of-schoolmate-in-bandar-utama/195438",
+      "summary": "PETALING JAYA, Oct 21 &mdash; The Attorney General&rsquo;s Chambers (AGC) announced today it has decided to charge a 14-...",
+      "published": "2025-10-21T10:55:51+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "c87c086f794c8e80a5aebca2a4c09c43e4155e79",
+      "title": "Now even lower: Giant $444 price drop hits this 2TB 11-inch M4 iPad Pro at Amazon today",
+      "link": "https://9to5toys.com/2025/10/21/2tb-11-inch-m4-ipad-pro/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2024/05/Dual-boot-iPad-would-be-nuts.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Amazon has now dropped what was already a giant discount on this 11-inch M4 iPad Pro configuration even lower this morning. We caught a big-time price drop yesterday on this model, but it has now dropped once again to deliver the best price we have ever tracked at nearly <strong>$450 off</strong>. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/21/2tb-11-inch-m4-ipad-pro/#more-1169873\">more…</a>",
+      "published": "2025-10-21T10:54:08+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "45f16924b89fcb8fbdd186d8e65b625fcfe837c8",
+      "title": "Popular’s Annual Clearance sale returns with great deals",
+      "link": "https://www.thestar.com.my/news/nation/2025/10/21/populars-annual-clearance-sale-returns-with-great-deals",
+      "summary": "KUALA LUMPUR: Book lovers take heed – the return of the Annual Clearance at 58 selected Popular/Harris bookstores, running from 17 Oct until Nov 2. More than just books on offer, customers can explore over three million products with incredible rebates of up to 70%*. <a href=\"https://www.thestar.com.my/news/nation/2025/10/21/populars-annual-clearance-sale-returns-with-great-deals\">Read full story</a>",
+      "published": "2025-10-21T10:53:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "cf25556187a86a3b8d570156969bd6f8076ed646",
+      "title": "A look at Amazon's Sparrow, Cardinal, Proteus, and other warehouse robots, taking over roles like selecting and picking items, carrying shipping carts, and more (Karen Weise/New York Times)",
+      "link": "http://www.techmeme.com/251021/p9#a251021p9",
+      "summary": "<a href=\"https://www.nytimes.com/2025/10/21/technology/amazon-robotics-automation.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251021/i9.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251021/p9#a251021p9\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Karen Weise / <a href=\"https://www.nytimes.com/\">New York Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nytimes.com/2025/10/21/technology/amazon-robotics-automation.html\">A look at Amazon's Sparrow, Cardinal, Proteus, and other warehouse robots, taking over roles like selecting and picking items, carrying shipping carts, and more</a></b></span>&nbsp; &mdash;&nbsp; Meet Sparrow, Cardinal and Proteus.&nbsp; They're the robots that, step by step, are replacing human workers in the company's warehouses.</p>",
+      "published": "2025-10-21T10:50:03+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "7e3e8518b11a7f432ec2b75401d5c1d2fa470dd2",
+      "title": "Italy&#039;s births set to sink to a new record low in 2025",
+      "link": "https://www.thestar.com.my/news/world/2025/10/21/italy039s-births-set-to-sink-to-a-new-record-low-in-2025",
+      "summary": "ROME (Reuters) -Italy is set to suffer a further drop in the number of births this year to a new historical low, aggravating the country's demographic crisis, national statistics bureau ISTAT said on Tuesday. <a href=\"https://www.thestar.com.my/news/world/2025/10/21/italy039s-births-set-to-sink-to-a-new-record-low-in-2025\">Read full story</a>",
+      "published": "2025-10-21T10:48:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "deb7ef66e9931ad2886643f95d3dd13eedcab8c2",
+      "title": "B&H SanDisk storage sale now live at up to $230 off: Memory cards, SSDs, flash drives, more from just $23",
+      "link": "https://9to5toys.com/2025/10/21/sandisk-storage-sale-now-live-at-up-to-230-off-from-just-23/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2024/12/SanDisk-memorydata-sale-Amazon.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Today only, as part of its <a href=\"https://bhpho.to/4nkEx2y\">Deal Zone offers</a>, B&amp;H has a bunch of solid deals on <a href=\"https://bhpho.to/4nkEx2y\">SanDisk storage devices, including microSD cards, SSDs, flash drives, and more</a>. You can <a href=\"https://bhpho.to/4nkEx2y\">save up to <strong>$230</strong> today</a> by cashing in on the brand’s storage device deals, and the prices for these <a href=\"https://bhpho.to/4nkEx2y\">start at just <strong>$23</strong></a>. Everything from SSDs and flash drives from the brand’s latest Creator Pro series to memory cards, game drives, and more is discounted as part of the sale for today only, and we’ve highlighted some of our favorites below for you to check out.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/21/sandisk-storage-sale-now-live-at-up-to-230-off-from-just-23/#more-1169866\">more…</a>",
+      "published": "2025-10-21T10:47:14+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "3faaca4c24b5ac18abd3f4d642c45e19907b715d",
+      "title": "Disaster simulation to take place at Kledang Saiong on Oct 30",
+      "link": "https://www.thestar.com.my/news/nation/2025/10/21/disaster-simulation-to-take-place-at-kledang-saiong-on-oct-30",
+      "summary": "IPOH: A disaster management simulation will be held at Kledang Saiong Forest Eco Park on Oct 30. <a href=\"https://www.thestar.com.my/news/nation/2025/10/21/disaster-simulation-to-take-place-at-kledang-saiong-on-oct-30\">Read full story</a>",
+      "published": "2025-10-21T10:47:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "726ef5b2ae7ce05164422bf743bfb9622b64e95b",
+      "title": "Belize agrees to host migrants seeking asylum in US",
+      "link": "https://www.bbc.com/news/articles/c07mze191xko?at_medium=RSS&at_campaign=rss",
+      "summary": "Belize's prime minister says the deal will mean that migrants can apply for asylum in the country.",
+      "published": "2025-10-21T10:46:07+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "8f201ec2872af087ffe73abc7920cdedc078ce6f",
+      "title": "Woman charged after 1.5m euros of gold stolen from Paris museum",
+      "link": "https://www.bbc.com/news/articles/c62ez36ndp3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors say the woman was arrested in Barcelona with around a kilo of melted down gold.",
+      "published": "2025-10-21T10:40:08+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "1b87eef40760e08261a3d7c9f137fc6b8b03a39c",
+      "title": "Gamer Decides To Play Battlefield 6 On Their 2.1-Inch AIO Cooler Display",
+      "link": "https://www.lowyat.net/2025/370489/battlefield-6-2-1-inch-aio-display/",
+      "summary": "<p>Battlefield 6 has been out for nearly a fortnight at this stage, and this writer has been enjoying himself, competing against the enemy on a glorious 4K display. So, when a video of a German gamer being recorded playing the game on his desktop PC&#8217;s AIO cooler display cropped up, it was only fair that [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/370489/battlefield-6-2-1-inch-aio-display/\">Gamer Decides To Play Battlefield 6 On Their 2.1-Inch AIO Cooler Display</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2025-10-21T10:37:27+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "07b8522c2fae37849b5a8f57f6e9b0ade11d8d62",
+      "title": "France&#039;s Macron: referendum possible to settle pension reform debate",
+      "link": "https://www.thestar.com.my/news/world/2025/10/21/france039s-macron-referendum-possible-to-settle-pension-reform-debate",
+      "summary": "PORTOROZ, Slovenia (Reuters) -French President Emmanuel Macron said on Tuesday a referendum to settle the pension reform debate remains a possibility. <a href=\"https://www.thestar.com.my/news/world/2025/10/21/france039s-macron-referendum-possible-to-settle-pension-reform-debate\">Read full story</a>",
+      "published": "2025-10-21T10:37:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "a7d9b3273d0c48729730a4aa2cc7c69976aa63c2",
+      "title": "Analysis-Italy&#039;s Meloni marks three years in power, embracing stability over growth",
+      "link": "https://www.thestar.com.my/news/world/2025/10/21/analysis-italy039s-meloni-marks-three-years-in-power-embracing-stability-over-growth",
+      "summary": "ROME (Reuters) -Three years after winning power, Giorgia Meloni has consolidated her position at the helm of Italian politics, defying the economic headwinds and international uncertainty that have unsettled many of her European counterparts. <a href=\"https://www.thestar.com.my/news/world/2025/10/21/analysis-italy039s-meloni-marks-three-years-in-power-embracing-stability-over-growth\">Read full story</a>",
+      "published": "2025-10-21T10:36:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "1389f75f722957f7b2e8b175d424e99e12305671",
+      "title": "Decision on Hannah Yeoh&#039;s appeal in defamation suit set for Dec 5",
+      "link": "https://www.thestar.com.my/news/nation/2025/10/21/decision-on-hannah-yeoh039s-appeal-in-defamation-suit-set-for-dec-5",
+      "summary": "KUALA LUMPUR: The Court of Appeal has set Dec 5 for the decision on Segambut MP Hannah Yeoh's appeal against the High Court's decision dismissing her defamation suit against former Inspector-General of Police Tan Sri Musa Hassan. <a href=\"https://www.thestar.com.my/news/nation/2025/10/21/decision-on-hannah-yeoh039s-appeal-in-defamation-suit-set-for-dec-5\">Read full story</a>",
+      "published": "2025-10-21T10:36:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "c3aad4bc9bec9b6cd05c60b90aa2a9420468bcb0",
+      "title": "Lagos-founded payments startup Moniepoint raised $90M at a $1B+ valuation, after raising $110M in October 2024, and says it processes $250B+ yearly transactions (Bloomberg)",
+      "link": "http://www.techmeme.com/251021/p8#a251021p8",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-10-21/visa-backed-fintech-moniepoint-raises-additional-90-million\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251021/i8.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251021/p8#a251021p8\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-10-21/visa-backed-fintech-moniepoint-raises-additional-90-million\">Lagos-founded payments startup Moniepoint raised $90M at a $1B+ valuation, after raising $110M in October 2024, and says it processes $250B+ yearly transactions</a></b></span>&nbsp; &mdash;&nbsp; Visa Inc.-backed fintech Moniepoint has raised an additional $90 million in investment to accelerate the startup's African expansion plans &hellip; </p>",
+      "published": "2025-10-21T10:35:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "c3ceb58f6a4afa08ffa5b7bb160ed34393ad38b3",
+      "title": "Samsung’s new 256GB Galaxy Tab S10 Lite returns to Prime Day price, deals from $320",
+      "link": "https://9to5toys.com/2025/10/21/samsung-new-256gb-galaxy-tab-s10-lite/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/Galaxy-Tab-S10-Lite.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>The recently released and already affordable <a href=\"https://howl.link/379uehn64wxep\">Galaxy Tab S10 Lite</a> is now once again seeing some early cash discounts <a href=\"https://howl.link/379uehn64wxep\">directly from Samsung</a> and over at Amazon starting from<a href=\"https://howl.link/379uehn64wxep\"> <strong>$319.99 shipped</strong></a>. While we did see the entry-model for a bit less during Prime Day a couple weeks back, considering this is brand new release and the 256GB model is now matching the fall sale week price, we wanted to make sure these offers were on the radar for potential early adopters. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/21/samsung-new-256gb-galaxy-tab-s10-lite/#more-1169868\">more…</a>",
+      "published": "2025-10-21T10:28:51+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "7d2b6fc9ae5699aee89877b6444bfab9802f969c",
+      "title": "French ex-president Sarkozy goes to  jail for campaign finance conspiracy",
+      "link": "https://www.bbc.com/news/articles/cvgkm2j0xelo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nicolas Sarkozy, president from 2007-2012, has appealed against his jail term at La Santé prison.",
+      "published": "2025-10-21T10:21:16+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "f9dab271db40249768bf8191c82077779a854f2c",
+      "title": "14-year-old to be charged for murder over BU school stabbing",
+      "link": "https://www.thestar.com.my/news/nation/2025/10/21/agc-to-charge-14-year-old-over-smk-bandar-utama-4-murder",
+      "summary": "PETALING JAYA: The 14-year-old suspect in the murder of Yap Shing Xuen at SMK Bandar Utama 4 will be charged on Wednesday (Oct 22). <a href=\"https://www.thestar.com.my/news/nation/2025/10/21/agc-to-charge-14-year-old-over-smk-bandar-utama-4-murder\">Read full story</a>",
+      "published": "2025-10-21T10:21:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "b56a61bd25a3376908d9d4823fef304953974832",
+      "title": "smart #5 EV Now Open For Booking In Malaysia",
+      "link": "https://www.lowyat.net/2025/370492/smart-5-now-open-for-booking-in-malaysia/",
+      "summary": "<p>smart Malaysia, via Pro-Net, has officially opened bookings for its all-new smart #5 electric SUV, which made its initial local appearance during Malaysia Auto Show 2025 earlier this year. It marks the brand’s latest addition to its expanding EV lineup, positioned as a rugged yet practical option for urban drivers. The smart #5 is offered [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/370492/smart-5-now-open-for-booking-in-malaysia/\">smart #5 EV Now Open For Booking In Malaysia</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2025-10-21T10:20:39+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "829f7c3ec1030c20c27e0948629c2fe1419ba208",
+      "title": "Internal Amazon documents and sources: executives believe Amazon is on the cusp of replacing 500K+ jobs with robots and aims to automate 75% of its operations (New York Times)",
+      "link": "http://www.techmeme.com/251021/p7#a251021p7",
+      "summary": "<a href=\"https://www.nytimes.com/2025/10/21/technology/inside-amazons-plans-to-replace-workers-with-robots.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251021/i7.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251021/p7#a251021p7\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.nytimes.com/\">New York Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nytimes.com/2025/10/21/technology/inside-amazons-plans-to-replace-workers-with-robots.html\">Internal Amazon documents and sources: executives believe Amazon is on the cusp of replacing 500K+ jobs with robots and aims to automate 75% of its operations</a></b></span>&nbsp; &mdash;&nbsp; Internal documents show the company that changed how people shop has a far-reaching plan to automate 75 percent of its operations.</p>",
+      "published": "2025-10-21T10:20:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "9e317769ea087f880f720fdb92e9ab5f94fa3a64",
+      "title": "Anwar bets on ‘sanity prevailing’ as Asean faces off with Trump over tariffs and trade tensions",
+      "link": "https://www.malaymail.com/news/malaysia/2025/10/21/anwar-bets-on-sanity-prevailing-as-asean-faces-off-with-trump-over-tariffs-and-trade-tensions/195432",
+      "summary": "KUALA LUMPUR, Oct 21 &mdash; Prime Minister Datuk Seri Anwar Ibrahim today expressed confidence that next week&rsquo;s A...",
+      "published": "2025-10-21T10:18:31+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "6079a18b7758bea8cc00e03ed57f5c71f9678703",
+      "title": "Trump’s approval edges up despite Americans blaming Republicans for shutdown",
+      "link": "https://www.malaymail.com/news/world/2025/10/21/trumps-approval-edges-up-despite-americans-blaming-republicans-for-shutdown/195433",
+      "summary": "WASHINGTON, Oct 21 &mdash; Americans blame Republican lawmakers more than Democratic lawmakers for a partial government...",
+      "published": "2025-10-21T10:16:10+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
     {
       "id": "adf3ec4763db1788a54fef884b7a4d199dfea2aa",
       "title": "Virginia Giuffre memoir goes on sale, heaping fresh scrutiny on Prince Andrew",
@@ -11,6 +272,15 @@
       "summary": "LONDON, Oct 21 &mdash; A posthumous memoir by Virginia Giuffre, who accused Britain&rsquo;s Prince Andrew of sexually ab...",
       "published": "2025-10-21T10:13:33+00:00",
       "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "dba9367dd7178528db9dbc9e638370f4ebee556d",
+      "title": "Refrain from water activities in Pantai Klebang where crocodile was sighted, says Wildlife Dept",
+      "link": "https://www.thestar.com.my/news/nation/2025/10/21/refrain-from-water-activities-in-pantai-klebang-where-crocodile-was-sighted-says-wildlife-dept",
+      "summary": "MELAKA: The Melaka branch of the Wildlife and National Parks Department advises the public to avoid any water activities in the area where a crocodile was reported to have been sighted at Pantai Klebang until the situation is confirmed safe. <a href=\"https://www.thestar.com.my/news/nation/2025/10/21/refrain-from-water-activities-in-pantai-klebang-where-crocodile-was-sighted-says-wildlife-dept\">Read full story</a>",
+      "published": "2025-10-21T10:12:00+00:00",
+      "source": "The Star : News Feed",
       "category": "malaysia"
     },
     {
@@ -23,33 +293,6 @@
       "category": "malaysia"
     },
     {
-      "id": "03640e7f1d2cadbe60c83b64d9cfcee44e358c08",
-      "title": "Kremlin says it does not have dates for Putin-Trump summit",
-      "link": "https://www.thestar.com.my/news/world/2025/10/21/kremlin-says-it-does-not-have-dates-for-putin-trump-summit",
-      "summary": "MOSCOW (Reuters) -The Kremlin said on Tuesday that the timing of a potential summit between Vladimir Putin and Donald Trump was unclear and that no dates had been mentioned. <a href=\"https://www.thestar.com.my/news/world/2025/10/21/kremlin-says-it-does-not-have-dates-for-putin-trump-summit\">Read full story</a>",
-      "published": "2025-10-21T10:09:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "a5cde942d47c6eb82e3a965c3a25f4d3e03529ad",
-      "title": "Virginia Giuffre memoir goes on sale, heaping fresh scrutiny on Prince Andrew",
-      "link": "https://www.thestar.com.my/news/world/2025/10/21/virginia-giuffre-memoir-goes-on-sale-heaping-fresh-scrutiny-on-prince-andrew",
-      "summary": "LONDON (Reuters) -A posthumous memoir by Virginia Giuffre, who accused Britain's Prince Andrew of sexually abusing her as a teenager, went on sale in London on Tuesday, days after the disgraced prince gave up his Duke of York title. <a href=\"https://www.thestar.com.my/news/world/2025/10/21/virginia-giuffre-memoir-goes-on-sale-heaping-fresh-scrutiny-on-prince-andrew\">Read full story</a>",
-      "published": "2025-10-21T10:09:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "ce78a3a717a22de4ca6c40cd560e85834393a136",
-      "title": "22-year-old arrested after reckless driving causes multi-vehicle pileup on NKVE",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/21/22-year-old-arrested-after-reckless-driving-causes-multi-vehicle-pileup-on-nkve",
-      "summary": "PETALING JAYA: A 22-year-old man has been arrested for allegedly driving recklessly and causing a five-vehicle accident along the New Klang Valley Expressway (NKVE) here last Saturday (Oct 18). <a href=\"https://www.thestar.com.my/news/nation/2025/10/21/22-year-old-arrested-after-reckless-driving-causes-multi-vehicle-pileup-on-nkve\">Read full story</a>",
-      "published": "2025-10-21T10:09:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "5093fd0a249db1ca73d322568c76b68e4cbca166",
       "title": "Rare deal has Apple Pencil Pro down at $90 today – best price in several months",
       "link": "https://9to5toys.com/2025/10/21/rare-deal-apple-pencil-pro/",
@@ -59,31 +302,13 @@
       "category": "deals"
     },
     {
-      "id": "fd67f8dd4841ce7ead40a6bc58d412a4e290231b",
-      "title": "Coinbase agrees to acquire Echo, a blockchain platform to let crypto companies quickly raise capital, for ~$375M, marking Coinbase's 8th acquisition in 2025 (Lauren Thomas/Wall Street Journal)",
+      "id": "7504e836ecf060d2b999a3afdceb9c56bbcee936",
+      "title": "Coinbase agrees to acquire Echo, a blockchain platform to let crypto companies quickly raise capital, for ~$375M, marking Coinbase's eighth acquisition in 2025 (Lauren Thomas/Wall Street Journal)",
       "link": "http://www.techmeme.com/251021/p6#a251021p6",
-      "summary": "<a href=\"https://www.wsj.com/finance/coinbase-strikes-deal-for-crypto-investing-platform-echo-86954fd5?st=wKJ49G&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251021/i6.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251021/p6#a251021p6\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lauren Thomas / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/finance/coinbase-strikes-deal-for-crypto-investing-platform-echo-86954fd5?st=wKJ49G&amp;reflink=desktopwebshare_permalink\">Coinbase agrees to acquire Echo, a blockchain platform to let crypto companies quickly raise capital, for ~$375M, marking Coinbase's 8th acquisition in 2025</a></b></span>&nbsp; &mdash;&nbsp; Acquisition marks Coinbase's eighth deal this year&nbsp; &mdash;&nbsp; Coinbase Global has struck a roughly $375 million deal to acquire Echo &hellip; </p>",
+      "summary": "<a href=\"https://www.wsj.com/finance/coinbase-strikes-deal-for-crypto-investing-platform-echo-86954fd5?st=wKJ49G&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251021/i6.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251021/p6#a251021p6\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lauren Thomas / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/finance/coinbase-strikes-deal-for-crypto-investing-platform-echo-86954fd5?st=wKJ49G&amp;reflink=desktopwebshare_permalink\">Coinbase agrees to acquire Echo, a blockchain platform to let crypto companies quickly raise capital, for ~$375M, marking Coinbase's eighth acquisition in 2025</a></b></span>&nbsp; &mdash;&nbsp; Acquisition marks Coinbase's eighth deal this year&nbsp; &mdash;&nbsp; Coinbase Global has struck a roughly $375 million deal to acquire Echo &hellip; </p>",
       "published": "2025-10-21T10:06:03+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "f3fef78604066d0218b4eed4cccaa194e14bada1",
-      "title": "Stop speculation over Juru double murder, urge cops",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/21/stop-speculation-over-juru-double-murder-urge-cops",
-      "summary": "BUKIT MERTAJAM: The public is urged to stop spreading speculation which could interfere with police investigations into the murder of a mother and her daughter on Saturday (Oct 18). <a href=\"https://www.thestar.com.my/news/nation/2025/10/21/stop-speculation-over-juru-double-murder-urge-cops\">Read full story</a>",
-      "published": "2025-10-21T10:03:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "3b7264d8c11df42345407c4f288f06f187fd1a62",
-      "title": "PM: Regional cooperation vital, trade turbulence reshapes supply chains",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/21/pm-regional-cooperation-vital-trade-turbulence-reshapes-supply-chains",
-      "summary": "KUALA LUMPUR: The turbulence of tariffs, restrictions and shifting trade policies reshaping global supply chains underscores the importance of regional cooperation, says Prime Minister Datuk Seri Anwar Ibrahim. <a href=\"https://www.thestar.com.my/news/nation/2025/10/21/pm-regional-cooperation-vital-trade-turbulence-reshapes-supply-chains\">Read full story</a>",
-      "published": "2025-10-21T10:00:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "6069ec8673e88c8debb40d7845e7b78bd83816c9",
@@ -113,33 +338,6 @@
       "category": "tech"
     },
     {
-      "id": "4fc8ca7f1d062afcde5b593932a08bee040083cb",
-      "title": "Two men arrested for housebreaking, vehicle theft in Bangi",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/21/two-men-arrested-for-housebreaking-vehicle-theft-in-bangi",
-      "summary": "KUALA LUMPUR: Police have arrested two local men for alleged housebreaking and theft of two vehicles in a residential area in Section 3, Bandar Baru Bangi, on Monday (Oct 20). <a href=\"https://www.thestar.com.my/news/nation/2025/10/21/two-men-arrested-for-housebreaking-vehicle-theft-in-bangi\">Read full story</a>",
-      "published": "2025-10-21T09:47:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "926ff7769531dc9744a7d8ffc009447e274c8a6d",
-      "title": "Road diversions to be implemented from Oct 24-26 for MotoGP",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/21/road-diversions-to-be-implemented-from-oct-24-26-for-motogp",
-      "summary": "KUALA LUMPUR: The Bukit Aman Traffic Investigation and Enforcement Department will implement traffic diversions in Sepang in conjunction with the Petronas Malaysia Grand Prix 2025 at the Sepang International Circuit (SIC) from Oct 24 to 26. <a href=\"https://www.thestar.com.my/news/nation/2025/10/21/road-diversions-to-be-implemented-from-oct-24-26-for-motogp\">Read full story</a>",
-      "published": "2025-10-21T09:46:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "a34ac9bda316be23c330cb767d686cec04c8f584",
-      "title": "Cable that broke in Lisbon rail crash was uncertified, report shows",
-      "link": "https://www.thestar.com.my/news/world/2025/10/21/cable-that-broke-in-lisbon-rail-crash-was-uncertified-report-shows",
-      "summary": "LISBON (Reuters) -The cable that snapped and caused a Lisbon funicular railcar to hurtle down a hill in September, killing 16 people, was not certified for use in passenger transport, according to a preliminary report that also pointed to maintenance flaws. <a href=\"https://www.thestar.com.my/news/world/2025/10/21/cable-that-broke-in-lisbon-rail-crash-was-uncertified-report-shows\">Read full story</a>",
-      "published": "2025-10-21T09:44:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "6336be79bec79385dcc467129f49cb5316a37127",
       "title": "Spiro raises $100M, the largest-ever investment in Africa’s e-mobility",
       "link": "https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/",
@@ -158,30 +356,12 @@
       "category": "tech"
     },
     {
-      "id": "1abfec7e5b946479ae19757df35447692c3aa456",
-      "title": "Corporal charged with cheating three policemen over transfer applications",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/21/corporal-charged-with-cheating-three-policemen-over-transfer-applications",
-      "summary": "KUALA LUMPUR: A police officer with the rank of corporal pleaded not guilty in the Magistrate's Court here on Tuesday (Oct 21) to three charges of defrauding three of his colleagues in relation to their transfer applications, 10 years ago. <a href=\"https://www.thestar.com.my/news/nation/2025/10/21/corporal-charged-with-cheating-three-policemen-over-transfer-applications\">Read full story</a>",
-      "published": "2025-10-21T09:32:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "1a85605b044b7a26e19c1634ba371fcbd7d80ef5",
       "title": "Bangkok teases winter with 18-20°C lows as colder months sweep across Thailand starting tomorrow",
       "link": "https://www.malaymail.com/news/life/2025/10/21/bangkok-teases-winter-with-18-20c-lows-as-colder-months-sweep-across-thailand-starting-tomorrow/195430",
       "summary": "BANGKOK, Oct 21 &mdash; Winter is knocking on Thailand&rsquo;s door and will officially arrive this Thursday, Oct 23, pr...",
       "published": "2025-10-21T09:27:06+00:00",
       "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "eb8f719378649deddf243fb2034e5c799bea5a49",
-      "title": "Four-year-old girl dies of heat stroke after being left in car in Gua Musang",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/21/four-year-old-girl-dies-of-heat-stroke-after-being-left-in-car-in-gua-musang",
-      "summary": "KOTA BHARU: A four-year-old girl died of heat stroke in Tanah Putih, Gua Musang, on Monday (Oct 20) Gua Musang District Police Chief Supt Sik Choon Foo said the child was found unconscious inside a car. <a href=\"https://www.thestar.com.my/news/nation/2025/10/21/four-year-old-girl-dies-of-heat-stroke-after-being-left-in-car-in-gua-musang\">Read full story</a>",
-      "published": "2025-10-21T09:25:00+00:00",
-      "source": "The Star : News Feed",
       "category": "malaysia"
     },
     {
@@ -237,15 +417,6 @@
       "published": "2025-10-21T09:12:15+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "7d2b6fc9ae5699aee89877b6444bfab9802f969c",
-      "title": "French ex-president Sarkozy goes to  jail for campaign finance conspiracy",
-      "link": "https://www.bbc.com/news/articles/cvgkm2j0xelo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nicolas Sarkozy, president from 2007-2012, has appealed against his jail term at La Santé prison.",
-      "published": "2025-10-21T09:07:50+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "d2cb7fda41de0bec996221aa4ca76c29a2513b21",
@@ -374,15 +545,6 @@
       "category": "deals"
     },
     {
-      "id": "a63355f07020ca8990984b5aab75d5be4d20ba83",
-      "title": "Four teenage boys charged in Kedah with physical sexual assault of 15-year-old student, plead not guilty",
-      "link": "https://www.malaymail.com/news/malaysia/2025/10/21/four-teenage-boys-charged-in-kedah-with-physical-sexual-assault-of-15-year-old-student-plead-not-guilty/195413",
-      "summary": "KUALA LUMPUR, Oct 21 &mdash; Four teenage boys, including three students aged between 15 and 17, were charged in the Juv...",
-      "published": "2025-10-21T07:51:34+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "ba1c18117b2405a34fbaffbd6e0afd60b4490f31",
       "title": "Analysis: agencies have hired hundreds of thousands of \"chatters\" to impersonate 4M+ OnlyFans creators, as many Filipino chatters struggle with mental health (Michael Beltran/Nikkei Asia)",
       "link": "http://www.techmeme.com/251021/p2#a251021p2",
@@ -392,24 +554,6 @@
       "category": "tech"
     },
     {
-      "id": "22eab85af1615d8ef43f94d5ea98d13833c485ee",
-      "title": "Singapore novels to hit bookshelves across South-east Asia under landmark S$3b publishing pact",
-      "link": "https://www.malaymail.com/news/singapore/2025/10/21/singapore-novels-to-hit-bookshelves-across-south-east-asia-under-landmark-s3b-publishing-pact/195411",
-      "summary": "SINGAPORE, Oct 21 &mdash; Singapore novels are set to reach readers across Malaysia, Indonesia, Thailand, the Philippine...",
-      "published": "2025-10-21T07:38:58+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "8bada9ee15424bcdb63e00e8efa307eef2114cbc",
-      "title": "Anwar–Trump talks at Asean Summit to focus on trade, regional stability and Gaza crisis",
-      "link": "https://www.malaymail.com/news/malaysia/2025/10/21/anwartrump-talks-at-asean-summit-to-focus-on-trade-regional-stability-and-gaza-crisis/195412",
-      "summary": "KUALA LUMPUR, Oct 21 &mdash; Prime Minister Datuk Seri Anwar Ibrahim said he will hold discussions with United States (U...",
-      "published": "2025-10-21T07:38:08+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "e7df620b9a20785ed6e30c6af9447fd897731a78",
       "title": "Israel receives body of Hamas hostage Tal Haimi",
       "link": "https://www.bbc.com/news/articles/cew45zp1228o?at_medium=RSS&at_campaign=rss",
@@ -417,15 +561,6 @@
       "published": "2025-10-21T07:35:35+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "6f075cab1afc234061491ef759f311a50ac8c2be",
-      "title": "La Niña watch: Penang bolsters flood defences, puts rescue teams on standby",
-      "link": "https://www.malaymail.com/news/malaysia/2025/10/21/la-nina-watch-penang-bolsters-flood-defences-puts-rescue-teams-on-standby/195410",
-      "summary": "GEORGE TOWN, Oct 21 &mdash; Penang emergency response agencies are ready to face the La Ni&ntilde;a phenomenon that is e...",
-      "published": "2025-10-21T07:26:20+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "d0c906a8eb33f47bfd248e0c6b0ead7eac4b0e2c",
@@ -440,7 +575,7 @@
       "id": "5e4b18300f6778d1819032624d34811a211a6ff5",
       "title": "Sparks AI",
       "link": "https://www.producthunt.com/products/sparks-ai",
-      "summary": "<p>\n            A platform for your agents, teammates & everything you build\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sparks-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1029076?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Your 24x7 personal AI staff\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sparks-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1029076?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-21T06:49:32+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -480,15 +615,6 @@
       "published": "2025-10-21T05:00:13+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "dc585a841aad4782527dbd5cf85a067e7ef8d3d3",
-      "title": "US chess grandmaster Daniel Naroditsky dies aged 29",
-      "link": "https://www.bbc.com/news/articles/c15pz8vpjp9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The young prodigy's \"unexpected passing\" was announced by his family on Monday.",
-      "published": "2025-10-21T04:57:04+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "34566726c508fdeb8c8ebf7bbab1715b513dc487",
@@ -536,15 +662,6 @@
       "category": "deals"
     },
     {
-      "id": "7498365a63d931e5344829bc1e5e14cfa41c6108",
-      "title": "Apple Adds New Liquid Glass Visibility Options In Latest iOS, iPadOS, And macOS Betas",
-      "link": "https://www.lowyat.net/2025/370408/apple-new-liquid-glass-visibility-options-latest-betas/",
-      "summary": "<p>Apple’s latest developer betas for iOS 26.1, iPadOS 26.1, and macOS 26.1 introduce a new customisation setting for Liquid Glass, the company’s new translucent interface design first unveiled at WWDC earlier this year. The new option lets users adjust how transparent Liquid Glass appears across system menus, notifications, and apps.  Users can now select between [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/370408/apple-new-liquid-glass-visibility-options-latest-betas/\">Apple Adds New Liquid Glass Visibility Options In Latest iOS, iPadOS, And macOS Betas</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2025-10-21T03:33:23+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
       "id": "a81c435686c86f54be20939d782ebca5f6af8456",
       "title": "Amazon outage 'resolved' as Snapchat and banks among sites impacted",
       "link": "https://www.bbc.com/news/articles/c20pgp3nx07o?at_medium=RSS&at_campaign=rss",
@@ -552,15 +669,6 @@
       "published": "2025-10-21T03:30:02+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "a70e82fca48a8197e633f5b8957a0c18fbbb1ca6",
-      "title": "Touch ‘n Go eWallet Launches New Visa Travel Card",
-      "link": "https://www.lowyat.net/2025/370389/touch-n-go-ewallet-launches-new-visa-travel-card/",
-      "summary": "<p>Touch ‘n Go (TnG) eWallet has launched its new Visa Travel Card, designed for Malaysians who frequently spend abroad. The card offers up to 3% cashback, no foreign exchange markup, and one free international ATM withdrawal each month. In essence, the Visa Travel Card is an enhanced version of the existing TnG Visa card, using [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/370389/touch-n-go-ewallet-launches-new-visa-travel-card/\">Touch ‘n Go eWallet Launches New Visa Travel Card</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2025-10-21T03:03:46+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
     },
     {
       "id": "38c31ab46f83ec167700adc91f56e0c613aad0f3",
@@ -686,15 +794,6 @@
       "summary": "Ruling holds that defeating end-to-end encryption in WhatsApp harms Meta's business.",
       "published": "2025-10-20T22:18:22+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "64742b810357640d2995523da053046c04488e44",
-      "title": "Study: brain-computer interface company Science Corp.'s PRIMA device, comprised of a retinal implant and special glasses, restored vision in some blind patients (Antonio Regalado/MIT Technology Review)",
-      "link": "http://www.techmeme.com/251020/p31#a251020p31",
-      "summary": "<a href=\"https://www.technologyreview.com/2025/10/20/1126065/this-retina-implant-lets-people-with-vision-loss-do-a-crossword-puzzle/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251020/i31.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251020/p31#a251020p31\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Antonio Regalado / <a href=\"http://www.technologyreview.com/\">MIT Technology Review</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.technologyreview.com/2025/10/20/1126065/this-retina-implant-lets-people-with-vision-loss-do-a-crossword-puzzle/\">Study: brain-computer interface company Science Corp.'s PRIMA device, comprised of a retinal implant and special glasses, restored vision in some blind patients</a></b></span>&nbsp; &mdash;&nbsp; Science Corporation&mdash;a competitor to Neuralink founded by the former president of Elon Musk's brain-interface venture &hellip; </p>",
-      "published": "2025-10-20T22:15:01+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -869,15 +968,6 @@
       "category": "tech"
     },
     {
-      "id": "edcbf44312608f9b86516995a7a733804ae492a3",
-      "title": "Reid Hoffman calls Anthropic \"one of the good guys\" after David Sacks accused the company of running a \"regulatory capture strategy based on fear-mongering\" (Ashley Capoot/CNBC)",
-      "link": "http://www.techmeme.com/251020/p30#a251020p30",
-      "summary": "<a href=\"https://www.cnbc.com/2025/10/20/openai-investor-reid-hoffman-calls-anthropic-one-of-the-good-guys.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251020/i30.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251020/p30#a251020p30\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ashley Capoot / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2025/10/20/openai-investor-reid-hoffman-calls-anthropic-one-of-the-good-guys.html\">Reid Hoffman calls Anthropic &ldquo;one of the good guys&rdquo; after David Sacks accused the company of running a &ldquo;regulatory capture strategy based on fear-mongering&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; Two of the main members of the PayPal mafia are sparring again &mdash; this time over artificial intelligence.</p>",
-      "published": "2025-10-20T20:25:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "ed49b77523ffc6c25348348837f9d8c60a2ba2b4",
       "title": "I tested a bunch of Switch 2 screen protectors, and these are the best",
       "link": "https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte",
@@ -950,15 +1040,6 @@
       "category": "tech"
     },
     {
-      "id": "b472afe1b5b5fef6049dd1cf7071b60d93becc58",
-      "title": "OpenAI says it will work with SAG-AFTRA, CAA, UTA, and others to crack down on Sora 2 deepfakes, following concerns from actor Bryan Cranston and SAG-AFTRA (Jaures Yip/CNBC)",
-      "link": "http://www.techmeme.com/251020/p29#a251020p29",
-      "summary": "<a href=\"https://www.cnbc.com/2025/10/20/open-ai-sora-bryan-cranston-sag-aftra.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251020/i29.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251020/p29#a251020p29\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jaures Yip / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2025/10/20/open-ai-sora-bryan-cranston-sag-aftra.html\">OpenAI says it will work with SAG-AFTRA, CAA, UTA, and others to crack down on Sora 2 deepfakes, following concerns from actor Bryan Cranston and SAG-AFTRA</a></b></span>&nbsp; &mdash;&nbsp; OpenAI announced on Monday in a joint statement that it will be working with Bryan Cranston, SAG-AFTRA, and other actor unions &hellip; </p>",
-      "published": "2025-10-20T19:35:04+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "a665720036db8680e0a14a7c1336929539f5bc91",
       "title": "Stow all your travel gear in tomtoc’s 40L 17.3-inch laptop backpack at $70 (Reg. $88)",
       "link": "https://9to5toys.com/2025/10/20/tomtoc-40l-17-3-inch-laptop-travel-backpack-3/",
@@ -1013,15 +1094,6 @@
       "category": "deals"
     },
     {
-      "id": "7e434756fb549d36ee95454f86e4637d6a7e99fe",
-      "title": "Amazon has titanium Apple Watch Series 10 models up to $170 off today",
-      "link": "https://9to5toys.com/2025/10/20/amazon-titanium-apple-watch-series-10-models/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2024/09/46mm-Apple-Watch-Series-10-GPS-Cell-with-the-Slate-Titanium-Case.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>Apple Watch Series 11 arrived last month, and while there are still some launch deals live at Amazon, we are yet to see any major discounts. And we certainly haven’t seen any of them nearly as discounted as we have today on the upgraded titanium model Series 10 configs that are now $170 off. Additional details await below. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/20/amazon-titanium-apple-watch-series-10-models/#more-1169791\">more…</a>",
-      "published": "2025-10-20T18:59:49+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "739ba2ab8dffe298425f2aeb571b5bb83b681fd3",
       "title": "Claude Code on the web",
       "link": "https://www.producthunt.com/products/anthropic-claude-3-5-sonnet",
@@ -1029,15 +1101,6 @@
       "published": "2025-10-20T18:58:02+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "d26967c658e2ffac4bc7f1315dfca271b2979220",
-      "title": "Document: Google launched a Trusted Tester program to select 15 of its \"Superfans\" to test unreleased Pixels, using protective cases to disguise the hardware (Chris Welch/Bloomberg)",
-      "link": "http://www.techmeme.com/251020/p28#a251020p28",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-10-20/google-to-let-superfans-test-pixel-11-before-it-s-announced\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251020/i28.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251020/p28#a251020p28\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Chris Welch / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-10-20/google-to-let-superfans-test-pixel-11-before-it-s-announced\">Document: Google launched a Trusted Tester program to select 15 of its &ldquo;Superfans&rdquo; to test unreleased Pixels, using protective cases to disguise the hardware</a></b></span>&nbsp; &mdash;&nbsp; Alphabet Inc.'s Google plans to let Pixel smartphone enthusiasts test out the company's next handset ahead of its public introduction.</p>",
-      "published": "2025-10-20T18:55:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "dff1d8f6dd2173bc9de5461f2c0ef820a03e5dd6",
@@ -1058,15 +1121,6 @@
       "category": "tech"
     },
     {
-      "id": "b0495e8982633b2100bbed52022051838ab4970f",
-      "title": "This 20-in-1 multi-tool is only $9.50 Prime shipped right now (44% off)",
-      "link": "https://9to5toys.com/2025/10/20/oneage-20-in-1-multi-tool/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/ONEAGE-20-in-1-Multi-Tool.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">ONEAGE 20-in-1 Multi-Tool</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $9.50 (Reg. $17)</h3>\n\n\n\n<p class=\"has-text-align-center\"><em>Clip the on-page 30% off coupon.</em></p>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A white line on a red background\" class=\"wp-image-1169711 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/ONEAGE-20-in-1-Multi-Tool-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p>This handy multi-tool boasts 20 functions that range from a pocket knife to pliers, a bottle opener, a 9-in 1 screwdriver bit set, and more. Despite all of its capabilities, you’ll only have to spend roughly $9.50.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/20/oneage-20-in-1-multi-tool/#more-1169709\">more…</a>",
-      "published": "2025-10-20T18:35:00+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "c75a0ace204d8afcbb1a66f88dea268f2b08f261",
       "title": "Meta AI’s app downloads and daily users spiked after launch of ‘Vibes’ AI video feed",
       "link": "https://techcrunch.com/2025/10/20/meta-ais-app-downloads-and-daily-users-spiked-after-launch-of-vibes-ai-video-feed/",
@@ -1083,15 +1137,6 @@
       "published": "2025-10-20T18:18:21+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "9bfe6ca383945c86219ac2d7d4c0d0ee4b345f19",
-      "title": "Today’s Android app deals and freebies: Tokyo Debunker, Skeletal Avenger, Celestial Hearts, more",
-      "link": "https://9to5toys.com/2025/10/20/android-app-deals-free-tokyo-debunker/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/Tokyo-Debunker-Urban-Legends.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Your Monday afternoon lineup of the best Android game and app deals is now ready to roll. On your way down be sure to scope out the now live <a href=\"https://9to5toys.com/2025/10/20/oneplus-halloween-sale-pad-watch/\">OnePlus Halloween sale</a>, this <a href=\"https://9to5toys.com/2025/10/20/samsung-unlocked-galaxy-s25-ultra/\">$350 price drop</a> on <a href=\"https://9to5toys.com/2025/10/20/samsung-unlocked-galaxy-s25-ultra/\">Galaxy S25 Ultra</a>, this new all-time low on <a href=\"https://9to5toys.com/2025/10/20/amazon-samsung-new-magnetic-qi2-car-wireless-charger/\">Samsung’s magnetic Qi2 Car Wireless Charger</a>, and the <a href=\"https://9to5toys.com/2025/10/20/prime-day-lenovo-tab-m11-android-tablet-deal/\">Lenovo Tab M11 Android tablet</a> with the Tab Pen and a case back at the <a href=\"https://9to5toys.com/2025/10/20/prime-day-lenovo-tab-m11-android-tablet-deal/\"><strong>$130</strong></a> low. As for the apps, hit the jump for a closer look. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/20/android-app-deals-free-tokyo-debunker/#more-1169786\">more…</a>",
-      "published": "2025-10-20T18:15:59+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "20a896e76dde609bceddc440e43f20ab50ffb26e",
@@ -1128,24 +1173,6 @@
       "published": "2025-10-20T17:14:44+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "fc13964d7c9772a8d118858e52f9c7d1b7f25b74",
-      "title": "Iniu&#8217;s tiny 10,000mAh power bank is almost half off right now",
-      "link": "https://www.theverge.com/tech/799260/iniu-45w-usbc-power-bank-deal-sale",
-      "summary": "Small power banks are a dime a dozen, but Iniu’s P55-E2 portable charger stands out for its combination of size and capacity. We saw the this model drop in price during Amazon’s recent October Prime Day sale, but a fresh discount has now made the power bank cheaper than ever. Right now, you can pick [&#8230;]",
-      "published": "2025-10-20T17:11:58+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "b31c0da280797a49aac445d4d88395aafd0fc972",
-      "title": "The Friend AI pendant’s creator publicized a ‘Friend protest’ in NYC",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/802697/friend-ai-device-subway-ad-protest-nyc",
-      "summary": "If you live in NYC, there&#8217;s almost no way you&#8217;ve missed the Friend AI pendant subway ad fallout — whether you&#8217;ve taken pictures of the most inspired graffiti on the ads in the tunnels, tried to avert your eyes from the near-constant presence of the device pictured on all the ads inside subway cars, or [&#8230;]",
-      "published": "2025-10-20T17:02:59+00:00",
-      "source": "The Verge",
-      "category": "tech"
     },
     {
       "id": "d54fb46a2b5ec21ea72782e2cc3a0660a315c793",
@@ -1253,24 +1280,6 @@
       "summary": "The Idaho Medical Freedom Act makes it illegal to require anyone to take a vaccine.",
       "published": "2025-10-20T13:51:44+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "04abd1038715f9f45d323075b8cbf61167706015",
-      "title": "Driver dies after Italian basketball fans' bus attacked with stones",
-      "link": "https://www.bbc.com/news/articles/c3w98966wp2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The bus was targeted by fans from a rival team after an earlier game, local media reports.",
-      "published": "2025-10-20T13:01:19+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "c78eb82dc3831670e3d6912a052aaadf541a9956",
-      "title": "Oura launches redesigned app and ‘Cumulative Stress’ feature",
-      "link": "https://techcrunch.com/2025/10/20/oura-launches-redesigned-app-and-cumulative-stress-feature/",
-      "summary": "The company also shared that it's pursuing FDA clearance for blood pressure features that give users a likelihood assessment of hypertension.",
-      "published": "2025-10-20T13:00:00+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1535,20 +1544,20 @@
       "category": "events"
     },
     {
+      "id": "c7fa7ccf2939ca4956eafd544a9189e4b25b0f23",
+      "title": "Simplora",
+      "link": "https://www.producthunt.com/products/simplora",
+      "summary": "<p>\n            Meetings that make you smarter, not confused\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/simplora?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1026731?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-10-14T22:39:11+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "4e78fd2502dcf4e0159d4e73f5f5f0e5afd7dc84",
       "title": "Sonura Studio",
       "link": "https://www.producthunt.com/products/sonura",
       "summary": "<p>\n            Lovable for sound an AI digital audio workstation\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sonura?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1026540?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-14T12:01:29+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "4a052cdf4a8f45b4da891f19b7c5394c56bd8a45",
-      "title": "Fish Audio S1",
-      "link": "https://www.producthunt.com/products/fish-speech",
-      "summary": "<p>\n            Expressive Voice Cloning and Text-to-Speech\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fish-speech?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1023740?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-06T23:00:49+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
