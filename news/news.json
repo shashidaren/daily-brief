@@ -1,9 +1,270 @@
 {
-  "generatedAt": "2025-10-22T14:15:46.969219+00:00",
+  "generatedAt": "2025-10-22T15:14:07.974997+00:00",
   "counts": {
-    "total": 175
+    "total": 174
   },
   "items": [
+    {
+      "id": "2fe4471ff7992cf74478e637b9e95325ca4668d0",
+      "title": "Louvre reopens three days after French crown jewels stolen",
+      "link": "https://www.bbc.com/news/articles/c0exgrvw9gyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The world's most-visited museum shut its doors after jewels worth tens of millions were stolen on Sunday.",
+      "published": "2025-10-22T15:09:10+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "2a501035504eb907633788a075f2cd9d01560eae",
+      "title": "Meta cuts 600 AI jobs amid ongoing reorganization",
+      "link": "https://techcrunch.com/2025/10/22/meta-cuts-600-ai-jobs-amid-ongoing-reorganization/",
+      "summary": "Meta continues to restructure its AI efforts after poaching more than 50 researchers from competing labs this summer.",
+      "published": "2025-10-22T15:08:18+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "0d0c3cc64b5eef0b9988f8dccd4278c026d6f4ea",
+      "title": "Grab Partner Apps now in Malaysia: Offers third-party services directly inside Grab app",
+      "link": "https://soyacincau.com/2025/10/22/grab-partner-apps-malaysia-availablity/",
+      "summary": "Grab today rolls out Partner Apps to users in Malaysia and Singapore. The new feature allows users to obtain products, services, and even content from third-party partners directly inside the Grab app. In many ways, you can think of Grab’s new Partner Apps as an app within an app &#8211; just that no download is [&#8230;]",
+      "published": "2025-10-22T15:08:02+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "0e4ae75b0ba94c07743185ea99056311994d608a",
+      "title": "Argentina&#039;s foreign minister resigns, local media reports",
+      "link": "https://www.thestar.com.my/news/world/2025/10/22/argentina039s-foreign-minister-resigns-local-media-reports",
+      "summary": "BUENOS AIRES (Reuters) -Argentina's Foreign Minister Gerardo Werthein presented his resignation on Tuesday night, local newspaper La Nacion reported on Wednesday. <a href=\"https://www.thestar.com.my/news/world/2025/10/22/argentina039s-foreign-minister-resigns-local-media-reports\">Read full story</a>",
+      "published": "2025-10-22T15:06:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "11388cd4cc6f085cf987ce9cd0142727bd60f40c",
+      "title": "Timor-Leste&#039;s accession a significant achievement under Malaysia&#039;s Asean chairmanship, says Anwar",
+      "link": "https://www.thestar.com.my/news/nation/2025/10/22/timor-leste039s-accession-a-significant-achievement-under-malaysia039s-asean-chairmanship-says-anwar",
+      "summary": "PUTRAJAYA: The upcoming inclusion of Timor-Leste into Asean is a major achievement under Malaysia's chairmanship, says Datuk Seri Anwar Ibrahim. <a href=\"https://www.thestar.com.my/news/nation/2025/10/22/timor-leste039s-accession-a-significant-achievement-under-malaysia039s-asean-chairmanship-says-anwar\">Read full story</a>",
+      "published": "2025-10-22T15:04:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "cd674943d499a93a3817fbcec0632de7fc3e6f37",
+      "title": "U.K. designates Apple and Google as having ‘strategic market status,’ opening door for more regulation",
+      "link": "https://techcrunch.com/2025/10/22/u-k-designates-apple-and-google-as-having-strategic-market-status-opening-door-for-more-regulation/",
+      "summary": "The U.K.’s competition regulator has designated Apple and Google with “strategic market status” in their mobile platforms, giving the regulator new powers to enforce competition in areas like app stores, browsers, and operating systems.",
+      "published": "2025-10-22T15:03:37+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "fdbefae0872eb9b9d07b38499c080c9d63c1abd9",
+      "title": "GM’s under-the-hood overhaul puts AI and automated driving at the center",
+      "link": "https://techcrunch.com/2025/10/22/gms-under-the-hood-overhaul-puts-ai-and-automated-driving-at-the-center/",
+      "summary": "The U.S. automaker's technological overhaul will debut in two years with the Cadillac Escalade IQ.",
+      "published": "2025-10-22T15:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "4a79cd4fe32d1b6855ca4ff66f5b54ba5ee0e42e",
+      "title": "GM is bringing Google Gemini-powered AI assistant to cars in 2026",
+      "link": "https://techcrunch.com/2025/10/22/gm-is-bringing-google-gemini-powered-ai-assistant-to-cars-in-2026/",
+      "summary": "GM is the latest automaker to lean into generative AI-based assistants that promise to respond to driver requests in a more natural-sounding way. Stellantis is collaborating with French AI firm Mistral, Mercedes is integrating ChatGPT, and Tesla has brought xAI’s Grok to its vehicles.",
+      "published": "2025-10-22T15:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "4d421c673d3c6037d7286c0f4031064b4054cd12",
+      "title": "GM to introduce eyes-off, hands-off driving system in 2028",
+      "link": "https://techcrunch.com/2025/10/22/gm-to-introduce-eyes-off-hands-off-driving-system-in-2028/",
+      "summary": "GM said Cruise’s technology stack, including its AI models trained on five million driverless miles and simulation framework, feed directly into the automaker’s next-generation driver assistance and autonomy programs.",
+      "published": "2025-10-22T15:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "fbf31b670c7ca1d0d9d324e2bd85670e5b04fc94",
+      "title": "GM says hands-free, eyes-off driving is coming to Escalade IQ in 2028",
+      "link": "https://www.theverge.com/news/802452/gm-forward-ai-robot-level-3-autonomous",
+      "summary": "General Motors may be shrinking its electric vehicle production, but the automaker wants investors to know its still committed to future technologies like automated driving, software-defined vehicles, and AI voice assistants. Today, GM CEO Mary Barra announced a string of new features coming to the company’s brands, like Cadillac and Chevy, that she said will [&#8230;]",
+      "published": "2025-10-22T15:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "beb8579bacfe1b12361d33cd21f3bac4df4bd804",
+      "title": "Why GM will give you Gemini — but not CarPlay",
+      "link": "https://www.theverge.com/podcast/803379/gm-ceo-mary-barra-sterling-anderson-cadillac-iq-ev-autonomy-interview",
+      "summary": "We&#8217;ve got a special episode of Decoder today. I&#8217;m talking to General Motors CEO Mary Barra and new GM Chief Product Officer Sterling Anderson about a lot of big news the company just announced. That includes a Google Gemini-powered AI assistant that’s coming to new cars, and an entirely new hardware and software platform coming [&#8230;]",
+      "published": "2025-10-22T15:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "78c1be1d3f168271f39f7420d7e4b6bbe8206dee",
+      "title": "The Plants vs. Zombies remaster is a sad reminder of what could have been",
+      "link": "https://www.theverge.com/games/803795/plants-vs-zombies-replanted-remaster-switch-pc-ps5-xbox",
+      "summary": "It only took a few notes from the Plants vs. Zombies menu music to transport me to a long-forgotten world of sunflowers, pea shooters, and not being able to put the dang game down for one second. First released in 2009, the colorful strategy game was an instant hit, adding to developer PopCap's enviable lineup [&#8230;]",
+      "published": "2025-10-22T15:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "829954cdcc963f306102806dfe76d05fd03259eb",
+      "title": "Ring’s Battery Doorbell Plus has returned to its October Prime Day price",
+      "link": "https://www.theverge.com/tech/804325/ring-battery-doorbell-plus-ember-smart-mug-2-deal-sale",
+      "summary": "After extensive testing we selected Ring’s Battery Doorbell Plus as the best battery-powered doorbell camera, and it has returned to its all-time low price of $79.99 ($70 off) at Amazon for the second time ever. If you missed out on picking up the video doorbell on sale during Amazon’s Prime Big Deal Days, now is [&#8230;]",
+      "published": "2025-10-22T15:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "7b774ed4859df1c7737248fa3c338ff03a93f7af",
+      "title": "Samsung takes on Apple’s Vision Pro with new Galaxy XR headset",
+      "link": "https://techcrunch.com/2025/10/22/samsung-takes-on-apples-vision-pro-with-new-galaxy-xr-headset/",
+      "summary": "Galaxy XR costs $1,800, nearly half the price of the Vision Pro.",
+      "published": "2025-10-22T14:53:22+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "0c0b803fc4a3c7a74d7d1ffddf27d79c28c5efa0",
+      "title": "UN's top court says Israel obliged to allow UN aid into Gaza",
+      "link": "https://www.bbc.com/news/articles/c17pqxzl0yzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The court also says Israel has not substantiated its allegations against the UN agency for Palestinian refugees.",
+      "published": "2025-10-22T14:53:19+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "49583a66a9e993abb5965541fefa0ac1448aa12d",
+      "title": "Malaysia-US trade talks 99.9% complete, says Anwar",
+      "link": "https://www.thestar.com.my/news/nation/2025/10/22/malaysia-us-trade-talks-999-complete-says-anwar",
+      "summary": "PUTRAJAYA: Trade negotiations between Malaysia and United States have reached \"some sort of conclusion\" with Datuk Seri Anwar Ibrahim saying it is 99.99% comple. <a href=\"https://www.thestar.com.my/news/nation/2025/10/22/malaysia-us-trade-talks-999-complete-says-anwar\">Read full story</a>",
+      "published": "2025-10-22T14:51:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "47448c8a85ac6f5ae8731106bba81554b3c6cde8",
+      "title": "PSA: Amazon just undercut  everyone on the brand new M5 MacBook Pro…don’t buy one",
+      "link": "https://9to5toys.com/2025/10/22/amazon-undercut-everyone-m5-macbook-pro/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/Apple-M5-MacBook-Pro-best-trade-in-value-2.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>Amazon is back at again, slightly undercutting everyone on the <a href=\"https://9to5toys.com/2025/10/15/new-m5-macbook-pro-trade-best/\">brand new M5 MacBook Pro</a> lineup just so you’ll buy your new machine there. And hey, if you don’t have gear to trade in for one, and are looking to score one right now, you might as well save the $15 or $20 right? Maybe not. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/22/amazon-undercut-everyone-m5-macbook-pro/#more-1170315\">more…</a>",
+      "published": "2025-10-22T14:42:38+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "48c27b9264edf447c3ec66043b1d52d99b585889",
+      "title": "Remedy CEO steps down following FBC: Firebreak’s disastrous launch",
+      "link": "https://www.theverge.com/news/804372/remedy-ceo-resigns-fbc-firebreak-control",
+      "summary": "Tero Virtala, CEO of Control developer Remedy Entertainment, is stepping down from his position immediately. The news comes in the aftermath of a disappointing launch for FBC: Firebreak, the Finnish studio’s first foray into multiplayer gaming. Virtala will be replaced on an interim basis by Markus Mäki, Remedy’s chief product officer and one of the [&#8230;]",
+      "published": "2025-10-22T14:42:04+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "7fada38154654651e373962383224c144c146bb4",
+      "title": "Hungary to start talks on buying nuclear fuel from United States",
+      "link": "https://www.thestar.com.my/news/world/2025/10/22/hungary-to-start-talks-on-buying-nuclear-fuel-from-united-states",
+      "summary": "BUDAPEST (Reuters) -Hungary will start talks on buying nuclear fuel from the United States to diversify its supply, Hungarian Foreign Minister Peter Szijjarto said on Wednesday in an interview with state news channel M1. <a href=\"https://www.thestar.com.my/news/world/2025/10/22/hungary-to-start-talks-on-buying-nuclear-fuel-from-united-states\">Read full story</a>",
+      "published": "2025-10-22T14:39:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "e26acb14953853ea1aa3553860bc44b72056604a",
+      "title": "New UN forum aims to tackle developing economies debt issues",
+      "link": "https://www.thestar.com.my/news/world/2025/10/22/new-un-forum-aims-to-tackle-developing-economies-debt-issues",
+      "summary": "LONDON/GENEVA (Reuters) -A new U.N.-supported forum designed to help tackle some of the most pressing debt issues across emerging economies was launched on Wednesday as policymakers warned that ever-rising burdens divert vital funds away from much-needed investments.  <a href=\"https://www.thestar.com.my/news/world/2025/10/22/new-un-forum-aims-to-tackle-developing-economies-debt-issues\">Read full story</a>",
+      "published": "2025-10-22T14:38:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "405c31adc3bc981f8b6766a5ee352752be816988",
+      "title": "Asean nations should collaborate to address regional scams, says Anwar",
+      "link": "https://www.thestar.com.my/news/nation/2025/10/22/asean-nations-should-collaborate-to-address-regional-scams-says-anwar",
+      "summary": "PUTRAJAYA: Asean member states should work together to address the prevalence of scams in the region, says Datuk Seri Anwar Ibrahim. <a href=\"https://www.thestar.com.my/news/nation/2025/10/22/asean-nations-should-collaborate-to-address-regional-scams-says-anwar\">Read full story</a>",
+      "published": "2025-10-22T14:38:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "99269119498d0cb64ea97c73c463db4f060a5d57",
+      "title": "Today only: Samsung’s tried-and-tested 2TB T7 Shield rugged portable SSD hits lowest price of the year at $130",
+      "link": "https://9to5toys.com/2025/10/22/samsung-2tb-t7-shield-rugged-portable-ssd-hits-lowest-price-of-the-year/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2022/04/Samsung-T7-Shield-new-portable-SSD-02.png?w=1600\" /></div><p>Today only, as part of its <a href=\"https://bhpho.to/4dbShr4\">Deal Zone offers</a>, B&amp;H currently has <a href=\"https://bhpho.to/49gB2GR\">Samsung’s 2TB T7 Shield portable SSD in blue down at <strong>$129.99 shipped</strong></a> with a <em>$70 coupon that auto-applies</em> during checkout. Originally $240, this particular drive has lately been fetching close to $200 at Amazon and <a href=\"https://howl.link/vh01yr0h8w6ej\">Samsung</a>, with some occasional deals dropping it down to the $150 mark. Today’s deal at B&amp;H, however, beats that with a $70 discount on its usual going rate, making this a great time to cash in. This is the lowest price we have tracked for this rugged portable SSD this year, and It’s now $20 cheaper than the previous 2025 low and our earlier mention. Head below for more details.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/22/samsung-2tb-t7-shield-rugged-portable-ssd-hits-lowest-price-of-the-year/#more-1170294\">more…</a>",
+      "published": "2025-10-22T14:31:48+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "60d61596ba86f3c1caa60faf26563d0f5d98f373",
+      "title": "ShopMy, which lets brands run influencer marketing efforts, raised $70M led by Avenir at a $1.5B valuation, up from ~$410M after raising $77.5M in March 2024 (Diana Pearl/The Business of Fashion)",
+      "link": "http://www.techmeme.com/251022/p28#a251022p28",
+      "summary": "<a href=\"https://www.businessoffashion.com/articles/marketing-pr/shopmy-billion-dollar-valuation/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251022/i28.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251022/p28#a251022p28\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Diana Pearl / <a href=\"https://www.businessoffashion.com/\">The Business of Fashion</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.businessoffashion.com/articles/marketing-pr/shopmy-billion-dollar-valuation/\">ShopMy, which lets brands run influencer marketing efforts, raised $70M led by Avenir at a $1.5B valuation, up from ~$410M after raising $77.5M in March 2024</a></b></span>&nbsp; &mdash;&nbsp; The fast-growing creator monetisation business raised $70 million in a funding round that included heavyweight Silicon Valley investors &hellip; </p>",
+      "published": "2025-10-22T14:30:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "9780c85ca1d9cfad2eefd8b7a5fdb0391799b30d",
+      "title": "Last-minute TechCrunch Disrupt 2025 deal: Save 60% on your plus-one’s pass before doors open on Oct 27",
+      "link": "https://techcrunch.com/2025/10/22/last-minute-techcrunch-disrupt-2025-deal-save-60-on-your-plus-ones-pass-before-doors-open-on-oct-27/",
+      "summary": "5 days left until TechCrunch Disrupt 2025 kicks off in San Francisco. Buy your pass to save up to $444, plus get 60% off a second ticket. Save now.",
+      "published": "2025-10-22T14:30:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "6dfc5b1e344c9c6b02d3c1e5e198c159307d1827",
+      "title": "Stock up on your favorite Dickies 874 Work Pants while they’re just $15 Prime shipped on Amazon",
+      "link": "https://9to5toys.com/2025/10/22/dickies-work-pants-2/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/dickies.jpg?quality=82&#038;strip=all&#038;w=679\" /></div><p>Amazon’s offering a major deal on the Dickies Flex Work Pants for as low as $14.80 Prime shipped, the best deal in months. Usually priced at around $35 now 58% off, pick up a few of these wrinkle-resistant, moisture wicking, flex fabric work wear pants to get you through the winter.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/22/dickies-work-pants-2/#more-1170302\">more…</a>",
+      "published": "2025-10-22T14:28:10+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "35b7d7172444886f40f077332d5526b1d04c877f",
+      "title": "Global developer conference Infobip Shift makes its Asian debut in Kuala Lumpur this November",
+      "link": "https://soyacincau.com/2025/10/22/infobip-shift-global-developer-conference-kuala-lumpur-malaysia/",
+      "summary": "This post is brought to you by Infobip. As organisations across Southeast Asia accelerate their digital transformation journeys, one company has quietly been powering the conversations that connect brands and customers every day. With its roots in global communications and customer engagement technology, Infobip, a global cloud communication platform, is now bringing its flagship developer [&#8230;]",
+      "published": "2025-10-22T14:20:35+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "12be507f527003fcc291675489535c395b36214a",
+      "title": "Starbridge, which helps businesses monitor public sector opportunities by consolidating fragmented data, raised a $42M Series A led by David Sacks' Craft (Dominic-Madori Davis/TechCrunch)",
+      "link": "http://www.techmeme.com/251022/p27#a251022p27",
+      "summary": "<a href=\"https://techcrunch.com/2025/10/22/david-sacks-craft-leads-42-million-series-a-in-govtech-startup-starbridge/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251022/i27.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251022/p27#a251022p27\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Dominic-Madori Davis / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2025/10/22/david-sacks-craft-leads-42-million-series-a-in-govtech-startup-starbridge/\">Starbridge, which helps businesses monitor public sector opportunities by consolidating fragmented data, raised a $42M Series A led by David Sacks' Craft</a></b></span>&nbsp; &mdash;&nbsp; Justin Wenig remembers his days at Y Combinator in 2019.&nbsp; &mdash;&nbsp; Back then, he was working with his first startup, Coursedog &hellip; </p>",
+      "published": "2025-10-22T14:20:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "b28c6c681f58819dba65a55d15707ec3d094c13d",
+      "title": "Govt formulating policy to strengthen nation&#039;s food security, says PM",
+      "link": "https://www.thestar.com.my/news/nation/2025/10/22/govt-formulating-policy-to-strengthen-nation039s-food-security-says-pm",
+      "summary": "KUALA LUMPUR: The government is finalising a new agricultural policy as a proactive response to the increasingly complex challenges of food security. <a href=\"https://www.thestar.com.my/news/nation/2025/10/22/govt-formulating-policy-to-strengthen-nation039s-food-security-says-pm\">Read full story</a>",
+      "published": "2025-10-22T14:17:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "09e6d3485b5cfa2b64670b46ab363f8f6fc05710",
+      "title": "Several users reportedly complain to FTC that ChatGPT is causing psychological harm",
+      "link": "https://techcrunch.com/2025/10/22/several-users-reportedly-complain-to-ftc-that-chatgpt-is-causing-psychological-harm/",
+      "summary": "At least seven people have complained to the U.S. Federal Trade Commission that ChatGPT caused them to experience severe delusions, paranoia and emotional crises, Wired reported.",
+      "published": "2025-10-22T14:16:45+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "7c950fdf4912decea6e870bc5bd9971afb5503cb",
       "title": "Today’s best iOS app deals and freebies: Codenames, Crystal Ortha, iWriter Pro, more",
@@ -113,6 +374,15 @@
       "category": "tech"
     },
     {
+      "id": "23903b1f463b3adea2b4742a967b881a97f5b3c3",
+      "title": "Jaguar Land Rover looking at $2.5 billion price tag from crippling cyberattack",
+      "link": "https://arstechnica.com/security/2025/10/jaguar-land-rover-struggling-8-weeks-after-most-expensive-uk-cyberattack/",
+      "summary": "Incident was likely the most economically damaging cyber event in UK history.",
+      "published": "2025-10-22T13:39:57+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
       "id": "c7c1d365513827cb06f831f2bf49b3c4101e47f3",
       "title": "DC’s shutdown is hurting government tech workers — and everyone else",
       "link": "https://www.theverge.com/policy/804252/government-shutdown-tech-workers-usds",
@@ -120,15 +390,6 @@
       "published": "2025-10-22T13:39:52+00:00",
       "source": "The Verge",
       "category": "tech"
-    },
-    {
-      "id": "4da741698b56954f81a10373ee506d65206616b3",
-      "title": "Kota Belud MP demands transparency on federal revenue collection",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/22/kota-belud-mp-demands-transparency-on-federal-revenue-collection",
-      "summary": "KOTA KINABALU: Kota Belud MP Isnaraissah Munirah Majilis questioned why the Federal Government cannot reveal how much revenue it collects from the state each year. <a href=\"https://www.thestar.com.my/news/nation/2025/10/22/kota-belud-mp-demands-transparency-on-federal-revenue-collection\">Read full story</a>",
-      "published": "2025-10-22T13:38:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "d45be584d7bcd38b53f82056e3782a41d50fd6ad",
@@ -140,15 +401,6 @@
       "category": "deals"
     },
     {
-      "id": "092f2cd38ab03323031bc0cd57492f6998f3ebfc",
-      "title": "MMEA denies claim of raid at Masjid Rusila, Marang",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/22/mmea-denies-claim-of-raid-at-masjid-rusila-marang",
-      "summary": "KUALA LUMPUR: The Malaysian Maritime Enforcement Agency (MMEA) has strongly denied allegations by Kota Bharu MP Datuk Seri Takiyuddin Hassan that its elite team carried out a raid at Masjid Rusila, Marang, on Sept 19. <a href=\"https://www.thestar.com.my/news/nation/2025/10/22/mmea-denies-claim-of-raid-at-masjid-rusila-marang\">Read full story</a>",
-      "published": "2025-10-22T13:34:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "318560356f7eed273468e08aae2c9a6b8fd2e26b",
       "title": "Samsung debuts new Switch 2-compatible 800MB/s P9 Express microSD card [Launch deal]",
       "link": "https://9to5toys.com/2025/10/22/samsung-debuts-new-switch-2-compatible-p9-express-microsd-card/",
@@ -156,15 +408,6 @@
       "published": "2025-10-22T13:34:00+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "4c7d759d0959da57500a8d3c4f3c4c456d9a4d5f",
-      "title": "Man arrested after allegedly using knife to force ex-girlfriend into car in Alor Gajah",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/22/man-arrested-after-allegedly-using-knife-to-force-ex-girlfriend-into-car-in-alor-gajah",
-      "summary": "MELAKA: Police have arrested a man for allegedly snatching and manhandling his ex-girlfriend in the compound of a mosque in Kampung Melaka Pindah, Alor Gajah here. <a href=\"https://www.thestar.com.my/news/nation/2025/10/22/man-arrested-after-allegedly-using-knife-to-force-ex-girlfriend-into-car-in-alor-gajah\">Read full story</a>",
-      "published": "2025-10-22T13:31:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "0d4eb84b31df05b486b681ed73db63404221cc5b",
@@ -194,24 +437,6 @@
       "category": "tech"
     },
     {
-      "id": "37bf2cb23895a767216d6ed75f2f2d96478d543e",
-      "title": "Australia tells AI chatbot companies to detail child protection steps",
-      "link": "https://www.thestar.com.my/news/world/2025/10/22/australia-tells-ai-chatbot-companies-to-detail-child-protection-steps",
-      "summary": "SYDNEY (Reuters) -Australia has ordered four artificial-intelligence chatbot companies to explain their measures to protect children from exposure to sexual or self-harm material, as its internet regulator beefs up safety measures on the AI fronti <a href=\"https://www.thestar.com.my/news/world/2025/10/22/australia-tells-ai-chatbot-companies-to-detail-child-protection-steps\">Read full story</a>",
-      "published": "2025-10-22T13:26:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "9cca03ac364f548ddfd11560cdf0b95edc9f42b9",
-      "title": "Lao FM among first diplomats to arrive ahead of Asean Summit",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/22/lao-fm-among-first-diplomats-to-arrive-ahead-of-asean-summit",
-      "summary": "SEPANG: Lao Foreign Affairs Minister Thongsavanh Phomvihane is among the earliest foreign diplomats to arrive in Malaysia ahead of the 47th Asean Summit. <a href=\"https://www.thestar.com.my/news/nation/2025/10/22/lao-fm-among-first-diplomats-to-arrive-ahead-of-asean-summit\">Read full story</a>",
-      "published": "2025-10-22T13:25:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "5d52f80f90c1ec07ff2348375918c34298da4e0e",
       "title": "Meta is downsizing its legacy AI research team",
       "link": "https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence",
@@ -230,15 +455,6 @@
       "category": "deals"
     },
     {
-      "id": "119604801aff2188e0be5f1738fa7d837181b16b",
-      "title": "Lithuania reopens airport after balloon incident, will shut Belarus border if it recurs",
-      "link": "https://www.thestar.com.my/news/world/2025/10/22/lithuania-reopens-airport-after-balloon-incident-will-shut-belarus-border-if-it-recurs",
-      "summary": "VILNIUS (Reuters) -European Union member state Lithuania will close its border with Belarus if smuggler balloons enter from the neighbouring country again, Prime Minister Inga Ruginiene said on Wednesday. <a href=\"https://www.thestar.com.my/news/world/2025/10/22/lithuania-reopens-airport-after-balloon-incident-will-shut-belarus-border-if-it-recurs\">Read full story</a>",
-      "published": "2025-10-22T13:18:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "b34d1683fdb571dac3561b40a96a8d5994c90f79",
       "title": "YouTube now lets mobile users set a customizable daily limit to restrict how long they can scroll Shorts feeds; the limit notifications are dismissible (Jess Weatherbed/The Verge)",
       "link": "http://www.techmeme.com/251022/p24#a251022p24",
@@ -246,15 +462,6 @@
       "published": "2025-10-22T13:10:02+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "d9a74650c355b5048d14db8a3384a0e947ee410b",
-      "title": "Sabah polls: Police fully prepared for state election",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/22/sabah-polls-police-fully-prepared-for-state-election",
-      "summary": "KOTA KINABALU: Sabah police are fully prepared to maintain public safety and ensure smooth operations during the 17th state election in November, says State Police Commissioner Datuk Jauteh Dikun. <a href=\"https://www.thestar.com.my/news/nation/2025/10/22/sabah-polls-police-fully-prepared-for-state-election\">Read full story</a>",
-      "published": "2025-10-22T13:10:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "4a192e97fcb15097c80adbab60ba113663021cce",
@@ -536,15 +743,6 @@
       "category": "tech"
     },
     {
-      "id": "10e4e2e95d373a212f92cfed7bde37d75be9c273",
-      "title": "Uber will pay drivers $4,000 to switch to EVs",
-      "link": "https://www.theverge.com/news/802983/uber-electric-ev-driver-4000-grant-price",
-      "summary": "As it rushes to meet its pledge for “100 percent” of trips in electric vehicles by 2030, Uber is offering grants of $4,000 for drivers to swap their gas-guzzlers for zero-tailpipe emission vehicles. The company is also dropping its “Uber Green” branding in favor of the more simple “Uber Electric.” Uber has said it will [&#8230;]",
-      "published": "2025-10-22T11:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "a22cd8f5f70f0c1fcce5ee18074e3d05590c9c0c",
       "title": "Sources: Apple cuts iPhone Air orders nearly to \"end of production\" levels after a lukewarm reception in China, but keeps iPhone 17 lineup forecasts at 85M-90M (Nikkei Asia)",
       "link": "http://www.techmeme.com/251022/p19#a251022p19",
@@ -552,15 +750,6 @@
       "published": "2025-10-22T10:55:03+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "90c88101ecdaebb93cfe24e48f240ae06a62ea48",
-      "title": "ICJ to give opinion on Israel's UN and Palestinian aid obligations",
-      "link": "https://www.bbc.com/news/articles/c17pqxzl0yzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's parliament passed laws banning any activity by the UN agency for Palestinian refugees last year.",
-      "published": "2025-10-22T10:54:09+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "f55f68a118d3b6169a3b755d104ebd8fb483bbf5",
@@ -680,15 +869,6 @@
       "category": "tech"
     },
     {
-      "id": "2fe4471ff7992cf74478e637b9e95325ca4668d0",
-      "title": "Louvre reopens three days after French crown jewels stolen",
-      "link": "https://www.bbc.com/news/articles/c0exgrvw9gyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The world's most-visited museum shut its doors after jewels worth tens of millions were stolen on Sunday.",
-      "published": "2025-10-22T10:10:52+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "93970cf25122389442ce1d4a37ab166d627301ba",
       "title": "Researchers detail systemic vulnerabilities in AI agentic browsers, including Perplexity's Comet and Fellou, related to indirect prompt injection attacks (Brave)",
       "link": "http://www.techmeme.com/251022/p14#a251022p14",
@@ -705,24 +885,6 @@
       "published": "2025-10-22T10:04:22+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "d1edca14891b8455f4fb16a2f7c992a66dbeb0a6",
-      "title": "Samsung unleashes new Galaxy XR goggles w/ $1,140 in FREE Explorer’s Pack content",
-      "link": "https://9to5toys.com/2025/10/22/samsung-new-galaxy-xr-deals/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/Samsung-Galaxy-XR-deal.jpg?quality=82&#038;strip=all&#038;w=1500\" /></div><p>As we featured previously during the reserve campaign, and as <a href=\"https://9to5google.com/2025/10/21/samsung-galaxy-xr-launch/\">detailed over at <em>9to5Google</em></a>, Samsung has <a href=\"https://howl.link/u0jfqsask07bu\">now unleashed</a> the new Galaxy XR goggles. Formally known as Project Moohan, Galaxy XR is now official and up for purchase with a special <a href=\"https://howl.link/u0jfqsask07bu\">Explorer’s pack valued at over <strong>$1,140</strong></a> – the details await below. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/22/samsung-new-galaxy-xr-deals/#more-1170216\">more…</a>",
-      "published": "2025-10-22T09:58:22+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "22677b7d0951f07e75fbcd0051fa0cbee5380bea",
-      "title": "Apple's Vision Pro with the M5 chip is assembled in Vietnam, according to labels on its packaging; the M2-based model, launched in 2024, was built in China (Bloomberg)",
-      "link": "http://www.techmeme.com/251022/p13#a251022p13",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-10-21/apple-s-m5-vision-pro-is-made-in-vietnam-in-latest-china-shift\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251022/i13.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251022/p13#a251022p13\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-10-21/apple-s-m5-vision-pro-is-made-in-vietnam-in-latest-china-shift\">Apple's Vision Pro with the M5 chip is assembled in Vietnam, according to labels on its packaging; the M2-based model, launched in 2024, was built in China</a></b></span>&nbsp; &mdash;&nbsp; Apple Inc.'s new Vision Pro headset doesn't offer much in the way of fresh features, but the company made a notable change to its production.</p>",
-      "published": "2025-10-22T09:55:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "18409536f5171d639c77a9dd108545dd0d091188",
@@ -750,15 +912,6 @@
       "published": "2025-10-22T09:49:33+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "e42340eaf30880f88efcd3e6d762e7157a44de3f",
-      "title": "Baidu and Swiss Post's PostBus plan to launch Baidu's Apollo Go autonomous vehicle service in Switzerland, testing in December ahead of rollout by Q1 2027 (Reuters)",
-      "link": "http://www.techmeme.com/251022/p12#a251022p12",
-      "summary": "<a href=\"https://www.reuters.com/technology/baidu-expands-robotaxi-push-switzerland-postbus-deal-2025-10-22/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251022/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251022/p12#a251022p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/technology/baidu-expands-robotaxi-push-switzerland-postbus-deal-2025-10-22/\">Baidu and Swiss Post's PostBus plan to launch Baidu's Apollo Go autonomous vehicle service in Switzerland, testing in December ahead of rollout by Q1 2027</a></b></span>&nbsp; &mdash;&nbsp; Baidu (9888.HK) announced a partnership with Switzerland's PostBus on Wednesday to launch its Apollo Go autonomous vehicle service &hellip; </p>",
-      "published": "2025-10-22T09:45:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "93de98ce079656b728efe8aa2169bc4f91f9b7a4",
@@ -932,33 +1085,6 @@
       "category": "world"
     },
     {
-      "id": "5b4864803cab7e1e54ae4b0103862d27b3a46611",
-      "title": "Samsung Galaxy XR hands-on: It’s like a cheaper Apple Vision Pro and launches today",
-      "link": "https://www.theverge.com/tech/802299/samsung-galaxy-xr-hands-on-price-release-date",
-      "summary": "Watching the first few minutes of KPop Demon Hunters on Samsung's Galaxy XR headset, I think Apple's Vision Pro might be cooked. It's not because the Galaxy XR - which Samsung formerly teased as Project Moohan - is that much better than the Vision Pro. It's that the experience is comparable, but you get so [&#8230;]",
-      "published": "2025-10-22T02:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "6ffe8c2994d03e67cb13c0239e8d3818cb807900",
-      "title": "Here are the best Apple Watch deals available right now",
-      "link": "https://www.theverge.com/21289209/best-apple-watch-deals",
-      "summary": "Apple recently launched its latest fleet of smartwatches, including the Apple Watch Series 11, the SE 3, and the Ultra 3. Each wearable offers something a little different (their prices indicate their breadth of features). A new generation of watches means we probably won’t see big price drops soon, but we’re officially beginning our watch [&#8230;]",
-      "published": "2025-10-22T01:42:56+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "5a11ee96bc4890d831aba7e158a1bcbbee443b71",
-      "title": "Nintendo officially announces the next Switch 2 GameCube release",
-      "link": "https://9to5toys.com/2025/10/21/nintendo-officially-announces-next-switch-2-gamecube-release/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/Nintendo-Switch-2-GameCube-new-Luigi.jpg?quality=82&#038;strip=all&#038;w=1500\" /></div><p>Just as <a href=\"https://9to5toys.com/2025/08/13/nintend-new-switch-2-gamecube-whats-next/\">we previously predicted</a> (and hoped for) Nintendo has now officially announced that Luigi’s Mansion is the next game coming to the GameCube Nintendo Classics library for Switch 2. We knew it was coming at some point, and what better time than Halloween? </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/21/nintendo-officially-announces-next-switch-2-gamecube-release/#more-1170204\">more…</a>",
-      "published": "2025-10-22T01:20:58+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "b3adbc927470ebf1b4e27fc4f3408b916cb0303d",
       "title": "Why Trump made breakthrough in Gaza but can't with Putin over Ukraine",
       "link": "https://www.bbc.com/news/articles/cx2y9je4d3go?at_medium=RSS&at_campaign=rss",
@@ -966,15 +1092,6 @@
       "published": "2025-10-21T23:57:52+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "5b3de5c82aedfce22bf5253f7a8e83932ead6d12",
-      "title": "Netflix is &#8216;judiciously&#8217; expanding into interactive experiences",
-      "link": "https://www.theverge.com/news/803097/netflix-games-interactive-experiences-real-time-voting-q3-2025-earnings",
-      "summary": "Netflix has been investing a lot of time and energy into gaming, but the company sees its work on games as part of a broader initiative around interactivity, co-CEO Greg Peters said in today’s Q3 2025 earnings call. “We&#8217;ve mostly talked so far about our work in this space as games because that&#8217;s an easy [&#8230;]",
-      "published": "2025-10-21T22:37:14+00:00",
-      "source": "The Verge",
-      "category": "tech"
     },
     {
       "id": "e84261a9878d3a2ae96543642655510681acef52",
@@ -986,30 +1103,12 @@
       "category": "tech"
     },
     {
-      "id": "c87c086f794c8e80a5aebca2a4c09c43e4155e79",
-      "title": "Now even lower: Giant $444 price drop hits this 2TB 11-inch M4 iPad Pro at Amazon today",
-      "link": "https://9to5toys.com/2025/10/21/2tb-11-inch-m4-ipad-pro/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2024/05/Dual-boot-iPad-would-be-nuts.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Amazon has now dropped what was already a giant discount on this 11-inch M4 iPad Pro configuration even lower this morning. We caught a big-time price drop yesterday on this model, but it has now dropped once again to deliver the best price we have ever tracked at nearly <strong>$450 off</strong>. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/21/2tb-11-inch-m4-ipad-pro/#more-1169873\">more…</a>",
-      "published": "2025-10-21T22:14:00+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "e77825eeae3e247b86b53b814e871db37cf48ae1",
       "title": "Open source agentic startup LangChain hits $1.25B valuation",
       "link": "https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/",
       "summary": "As TechCrunch previously reported, the maker of a popular open source framework for building AI agents has officially become a unicorn.",
       "published": "2025-10-21T22:12:46+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "9a1bd83c711058985e690b2b577669471925100b",
-      "title": "The iPhone 17’s selfie camera is to blame for delayed Project Indigo support",
-      "link": "https://www.theverge.com/tech/803712/adobe-project-indigo-camera-app-iphone-17-support",
-      "summary": "The iPhone 17 series launched just over a month ago, but Adobe’s camera app Project Indigo still doesn’t support the latest iPhones — you can run it on an iPhone 12 Pro if you have one handy, but I can’t use it on the iPhone 17 Pro on my desk. The holdup seems to be [&#8230;]",
-      "published": "2025-10-21T22:03:37+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -1085,15 +1184,6 @@
       "category": "tech"
     },
     {
-      "id": "4c1c0ddea546f9e308bd1bad99cae49042339727",
-      "title": "Cloudflare CEO Matthew Prince is pushing UK regulator to unbundle Google’s search and AI crawlers",
-      "link": "https://techcrunch.com/2025/10/21/cloudflare-ceo-matthew-prince-is-pushing-uk-regulator-to-unbundle-googles-search-and-ai-crawlers/",
-      "summary": "Cloudflare CEO Matthew Prince is urging regulators to rein in Google’s AI practices, arguing the tech giant’s dominance in search gives it an unfair edge in the AI race.",
-      "published": "2025-10-21T19:34:21+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "6d90d9547fd5f7da0d150dc25296a5e1358c107d",
       "title": "Upcoming iOS and macOS 26.1 update will let you fog up your Liquid Glass",
       "link": "https://arstechnica.com/gadgets/2025/10/new-ios-and-macos-betas-add-tinted-toggle-to-tone-down-liquid-glass/",
@@ -1121,15 +1211,6 @@
       "category": "tech"
     },
     {
-      "id": "76fa114c9eb9f32b70e4d6c49b581f1510068c9e",
-      "title": "Bill Gates’ old climate lobbyists launch a new firm",
-      "link": "https://techcrunch.com/2025/10/21/bill-gatess-old-climate-lobbyists-launch-a-new-firm/",
-      "summary": "Members of Breakthrough Energy's policy team are back with a new organization, the Clean Economy Project, aimed at nudging lawmakers toward clean energy.",
-      "published": "2025-10-21T18:54:52+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "d31c938e487c9b1c812fdcf3a838de537b3cc9f0",
       "title": "YouTube’s likeness detection has arrived to help stop AI doppelgängers",
       "link": "https://arstechnica.com/google/2025/10/youtube-rolls-out-likeness-detection-to-help-creators-combat-ai-fakes/",
@@ -1145,24 +1226,6 @@
       "summary": "\"This starts to enable a whole new category of capabilities.\"",
       "published": "2025-10-21T18:30:11+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "d5b82445f3b3707dd7812291390d148e5315a6e3",
-      "title": "I spent a month living with a $430 AI pet, the Casio Moflin",
-      "link": "https://techcrunch.com/2025/10/21/i-spent-a-month-living-with-a-430-ai-pet-the-casio-moflin/",
-      "summary": "Casio’s Moflin, a hamster-like robot pet, uses AI to develop a personality over time.",
-      "published": "2025-10-21T18:23:56+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "24c33c7be6ff9ffa4d97b072a4f91658164deba8",
-      "title": "Google Fi to add AI-enhanced audio and RCS web messaging",
-      "link": "https://techcrunch.com/2025/10/21/google-fi-to-add-ai-enhanced-audio-and-rcs-web-messaging/",
-      "summary": "The tech giant says calls will now use AI-enhanced audio to reduce background noise and improve voice clarity, even when speaking to someone on a landline or older device.",
-      "published": "2025-10-21T18:23:12+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1184,15 +1247,6 @@
       "category": "tech"
     },
     {
-      "id": "06f837c9dd90b9819f979fc3510c2e3c29cbc295",
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2025",
-      "link": "https://techcrunch.com/2025/10/21/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2025/",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "published": "2025-10-21T17:54:28+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "4f09f9cbcd61fdf9ff00a853b12d085d9e8a3067",
       "title": "M5 iPad Pro tested: Stop me if you’ve heard this one before",
       "link": "https://arstechnica.com/gadgets/2025/10/testing-apples-m5-ipad-pro-future-proofing-for-apples-perennial-overkill-tablet/",
@@ -1202,30 +1256,12 @@
       "category": "tech"
     },
     {
-      "id": "c3b021b067754fc013d19bfa943ac8f8c92bfd75",
-      "title": "a16z-backed Codi launches AI agent office manager",
-      "link": "https://techcrunch.com/2025/10/21/a16z-backed-codi-launches-ai-agent-office-manager/",
-      "summary": "The startup released its beta version of the new AI office management product in May and officially launched it on Tuesday. The company last raised a $16 million Series A in 2022 led by a16z, and has raised $23 million to date.",
-      "published": "2025-10-21T17:45:14+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "59ce542e8ebe2e7689f0e77434ea79ca5321e47d",
       "title": "HBO Max prices increase by up to $20 today",
       "link": "https://arstechnica.com/gadgets/2025/10/warner-bros-discovery-raises-hbo-max-prices-as-it-puts-itself-up-for-sale/",
       "summary": "HBO Max subscription fees have risen every year for the past three years.",
       "published": "2025-10-21T17:20:10+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "8c1868d8f6c4d9bf67742ce24c6e3ec3f67e9e76",
-      "title": "OpenAI launches an AI-powered browser: ChatGPT Atlas",
-      "link": "https://techcrunch.com/2025/10/21/openai-launches-an-ai-powered-browser-chatgpt-atlas/",
-      "summary": "OpenAI is launching an AI-powered browser, its latest challenge to Google as the main way people find information online.",
-      "published": "2025-10-21T17:15:40+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1262,15 +1298,6 @@
       "summary": "Amazon’s outage is over. But backlash over billions in losses has just started.",
       "published": "2025-10-21T16:21:12+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "e5e9dd716649dddf1c97d4fd9f0a7c4a4e7343aa",
-      "title": "YouTube’s likeness-detection technology has officially launched",
-      "link": "https://techcrunch.com/2025/10/21/youtubes-likeness-detection-technology-has-officially-launched/",
-      "summary": "YouTube’s detection technology identifies and manages AI-generated content featuring the likeness of creators, such as their face and voice.",
-      "published": "2025-10-21T15:57:18+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1335,15 +1362,6 @@
       "published": "2025-10-21T13:11:27+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "ff15ff2da6def2750104f4b2ae60cad4de6a3f4f",
-      "title": "Japan's first female leader: A historic moment with caveats",
-      "link": "https://www.bbc.com/news/articles/cze6dgxlzwxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sanae Takaichi, Japan's first female prime minister, is not known for progressive views on women's equality.",
-      "published": "2025-10-21T12:53:58+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "d09e143bae68441dfe595b02c5bc381b7c7fab23",
@@ -1427,24 +1445,6 @@
       "category": "tech"
     },
     {
-      "id": "5e9cbd7758deb03659986dd2edae9987d2eed31e",
-      "title": "Claude Code gets a web version—but it’s the new sandboxing that really matters",
-      "link": "https://arstechnica.com/ai/2025/10/claude-code-gets-a-web-version-but-its-the-new-sandboxing-that-really-matters/",
-      "summary": "Sandboxing lessens hassle, but fire-and-forget agentic tools still pose risks.",
-      "published": "2025-10-20T20:45:26+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "b988a952148b7b7c27cd6442be7de7fb77c416a3",
-      "title": "Dappit",
-      "link": "https://www.producthunt.com/products/dappit",
-      "summary": "<p>\n            Your blockchain engineer that builds and deploys DAPPs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dappit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1028908?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-20T20:35:51+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "1aef8ea0fabf116167a524b13bfaedc09dd05455",
       "title": "Attrove AI",
       "link": "https://www.producthunt.com/products/attrove-ai",
@@ -1454,13 +1454,13 @@
       "category": "events"
     },
     {
-      "id": "401a4b932e83f5368bf5f84ea45a63d2f080cd90",
-      "title": "Proton e.MAS 5 to launch on 30 October",
-      "link": "https://soyacincau.com/2025/10/20/proton-emas-5-launch-30-october/",
-      "summary": "A new video on the Proton e.MAS Cars social media channels appears to be counting down to the launch of Proton e.MAS 5. Based on the countdown, we are looking at 30 October 2025 as the launch date for the new electric hatchback. The new video which features local automotive personality and 5-times Malaysian Rally [&#8230;]",
-      "published": "2025-10-20T15:54:14+00:00",
-      "source": "SoyaCincau",
-      "category": "malaysia"
+      "id": "739ba2ab8dffe298425f2aeb571b5bb83b681fd3",
+      "title": "Claude Code on the web",
+      "link": "https://www.producthunt.com/products/anthropic-claude-3-5-sonnet",
+      "summary": "<p>\n            A new way to delegate coding tasks right from your browser\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/anthropic-claude-3-5-sonnet?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1028884?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-10-20T18:58:02+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "924987b72af0de2699832a88060ca123e8f3df2d",
@@ -1481,29 +1481,11 @@
       "category": "events"
     },
     {
-      "id": "e92735b701c36808de220d3aa577d8f52842284d",
-      "title": "Yes showcases advantages of 5G Advanced Network Slicing in a congested situation in KL",
-      "link": "https://soyacincau.com/2025/10/20/yes-5g-advanced-5g-sa-network-slicing-bukit-bintang-klcc/",
-      "summary": "Following the launch of Yes 5G Advanced a couple of weeks back, YTL Communications had organised a road test last Friday to demonstrate the advantages of 5G SA (Standalone) and network slicing. The location? Bukit Bintang and KLCC which are the most congestion locations on Digital Nasional Berhad&#8217;s 5G network. On Friday evening, it is [&#8230;]",
-      "published": "2025-10-20T05:02:51+00:00",
-      "source": "SoyaCincau",
-      "category": "malaysia"
-    },
-    {
       "id": "4a83acace5ed37b22eabd76f44da5404a17e7858",
       "title": "Metorial",
       "link": "https://www.producthunt.com/products/metorial",
       "summary": "<p>\n            Integrate AI agents with 600+ integrations and great SDKs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/metorial?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1028544?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-19T20:19:05+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "d99c295b9d439e049228bcb230eacb46af63137d",
-      "title": "Supervibes",
-      "link": "https://www.producthunt.com/products/supervibes-vibecode-native-ios-apps",
-      "summary": "<p>\n            Vibecode native iOS apps in Swift optimized for making money\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/supervibes-vibecode-native-ios-apps?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1028134?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-18T16:35:33+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1531,6 +1513,15 @@
       "link": "https://www.producthunt.com/products/problemhunt",
       "summary": "<p>\n            Startup ideas that people actually need\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/problemhunt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1027168?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-15T23:24:34+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "62f5776a1de0d1bbf866f22eb970b3c28b7e898e",
+      "title": "Persuasive Patterns Card Deck (4th gen)",
+      "link": "https://www.producthunt.com/products/persuasive-patterns-card-deck-4th-gen",
+      "summary": "<p>\n            Make product psychology practical\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/persuasive-patterns-card-deck-4th-gen?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1026921?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-10-15T09:58:51+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
