@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2025-10-25T19:10:07.612177+00:00",
+  "generatedAt": "2025-10-25T20:14:15.844958+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "965b5a6572d770f919f967bd1933491b5a8bb9ec",
+      "title": "Connolly declared president of Ireland after landslide win",
+      "link": "https://www.bbc.com/news/articles/c4gk2kml122o?at_medium=RSS&at_campaign=rss",
+      "summary": "Catherine Connolly, an independent who was backed by the major left-wing parties, pledges to be \"an inclusive president for all\".",
+      "published": "2025-10-25T19:59:09+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "b2887d8fab2f6c2fa4ae76c9af37f6322e8fe7aa",
+      "title": "OpenAI reportedly developing new generative music tool",
+      "link": "https://techcrunch.com/2025/10/25/openai-reportedly-developing-new-generative-music-tool/",
+      "summary": "OpenAI is working on a new tool that would generate music based on text and audio prompts, according to a report in The Information. Such a tool could be used to add music to existing videos, or to add guitar accompaniment to an existing vocal track, sources said. It’s not clear when OpenAI plans to [&#8230;]",
+      "published": "2025-10-25T19:48:54+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "f4365c50fb40a4d59f06a0322e6b588ac8af0ff9",
       "title": "High school’s AI security system confuses Doritos bag for a possible firearm",
@@ -12,15 +30,6 @@
       "published": "2025-10-25T19:05:11+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "965b5a6572d770f919f967bd1933491b5a8bb9ec",
-      "title": "Connolly declared president of Ireland after landslide win",
-      "link": "https://www.bbc.com/news/articles/c4gk2kml122o?at_medium=RSS&at_campaign=rss",
-      "summary": "The result, long clear from early tallies, was officially announced at Dublin Castle.",
-      "published": "2025-10-25T19:01:14+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "01eb9a91a19c28e42ecc88c15bbc2c880ba092a4",
@@ -41,10 +50,10 @@
       "category": "malaysia"
     },
     {
-      "id": "d78397808ccd084271f416853df061f3561ef4cb",
-      "title": "Tropical Storm Melissa now a hurricane, NHC says",
+      "id": "bbdc62182a8b10ed3d9dc96c0a31faf7d6269063",
+      "title": "Jamaica braces as rapidly intensifying Hurricane Melissa creeps toward island",
       "link": "https://www.thestar.com.my/news/world/2025/10/26/tropical-storm-melissa-now-a-hurricane-nhc-says",
-      "summary": "(Reuters) -Tropical Storm Melissa has strengthened into a hurricane and is expected to become a major hurricane by the end of the weekend, the U.S. National Hurricane Center said on Saturday. <a href=\"https://www.thestar.com.my/news/world/2025/10/26/tropical-storm-melissa-now-a-hurricane-nhc-says\">Read full story</a>",
+      "summary": "KINGSTON, Jamaica (Reuters) -Tropical Storm Melissa has strengthened into a hurricane and is expected to become a major hurricane by the end of the weekend, the U.S. National Hurricane Center said on Saturday. <a href=\"https://www.thestar.com.my/news/world/2025/10/26/tropical-storm-melissa-now-a-hurricane-nhc-says\">Read full story</a>",
       "published": "2025-10-25T18:17:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
@@ -1337,13 +1346,22 @@
       "category": "malaysia"
     },
     {
-      "id": "736a9b5b3ccfd0142f573ae387c26e319fc2f4cc",
-      "title": "Big Tech is paying for Trump’s White House ballroom",
-      "link": "https://techcrunch.com/2025/10/23/big-tech-is-paying-for-trumps-white-house-ballroom/",
-      "summary": "Trump's $250 million White House ballroom will be funded in part by big tech companies like Amazon, Apple, Google, Meta, and Microsoft.",
-      "published": "2025-10-24T02:54:46+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
+      "id": "e2017e4836bfbe2170e24c7ae66264e996c0b47b",
+      "title": "DoDot",
+      "link": "https://www.producthunt.com/products/dodot",
+      "summary": "<p>\n            Daily prompt-based social media\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dodot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1030214?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-10-24T02:13:53+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "0e27eb0ebf08adf1d6d5b0e028c8eaea633db1dd",
+      "title": "Voicetypr",
+      "link": "https://www.producthunt.com/products/voicetypr",
+      "summary": "<p>\n            Speech to text for writing thoughts faster & privately\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/voicetypr?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1030200?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-10-24T00:38:12+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "271464dbf42de1ceb5ff0c2153698f7a0cd0bdb4",
@@ -1454,15 +1472,6 @@
       "category": "events"
     },
     {
-      "id": "3fe34dddc81e12323c0e821cd3852a9b381bf971",
-      "title": "Tiny A/B Test",
-      "link": "https://www.producthunt.com/products/tiny-a-b-test",
-      "summary": "<p>\n            Lightweight a/b testing for saas founders\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tiny-a-b-test?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1029638?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-22T14:38:30+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "87acb14b7a38c388cf12675f6dbd6844e2b18e68",
       "title": "Flowdrop",
       "link": "https://www.producthunt.com/products/flowdrop",
@@ -1567,15 +1576,6 @@
       "link": "https://www.producthunt.com/products/drynosaur",
       "summary": "<p>\n            Make hangovers go extinct, one day at a time\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/drynosaur?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1026311?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-13T21:21:11+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "0d64fc3e602ef201612942019c99a633efdfc8b4",
-      "title": "Tailkits UI",
-      "link": "https://www.producthunt.com/products/tailkits",
-      "summary": "<p>\n            200 tailwind CSS components\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tailkits?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1025924?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-12T22:06:26+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
