@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2025-10-25T17:11:28.032089+00:00",
+  "generatedAt": "2025-10-25T18:17:53.167725+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "3017fdc115cd0527c5f69ffd14bc34c422390564",
+      "title": "Tech left teens fighting over scraps, and now it wants those too",
+      "link": "https://www.theverge.com/report/806728/tech-left-teens-fighting-over-scraps-robots-taking-jobs",
+      "summary": "Right now, there are robots stocking convenience store shelves in Japan. We haven't embraced that tech here in America yet, but it's hard to imagine 7-11 or Walmart won't at least experiment with it soon. Walmart gave up on its shelf-scanning robots in 2020, but machine vision and AI have improved a lot in the [&#8230;]",
+      "published": "2025-10-25T18:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "cedb0f69b500a47511e659a49c0ae1c9c66cb426",
+      "title": "Man arrested after viral video of alleged rape attempt on Paris train",
+      "link": "https://www.bbc.com/news/articles/c9d6q65llzwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Alerted by a woman's screams, another passenger pulled out her phone to film the alleged attack.",
+      "published": "2025-10-25T17:28:49+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "aab00e438862e941b997174e72791b0e1ff87cb3",
+      "title": "Dutch far-right leader Wilders says voters should decide on his future in government",
+      "link": "https://www.thestar.com.my/news/world/2025/10/26/dutch-far-right-leader-wilders-says-voters-should-decide-on-his-future-in-government",
+      "summary": "VOLENDAM, Netherlands (Reuters) -Dutch far-right politician Geert Wilders urged other party leaders on Saturday to reconsider their refusal to work with him after an election on October 29 that will determine the Netherlands' next coalition government. <a href=\"https://www.thestar.com.my/news/world/2025/10/26/dutch-far-right-leader-wilders-says-voters-should-decide-on-his-future-in-government\">Read full story</a>",
+      "published": "2025-10-25T17:20:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
     {
       "id": "05f25bd46c603379f092ddf65ec9b5f3605e5739",
       "title": "Pave Bank, which lets businesses manage both fiat and digital assets in real time, raised a $39M Series A led by Accel, with Tether and others participating (RT Watson/The Block)",
@@ -354,15 +381,6 @@
       "published": "2025-10-25T12:06:57+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "e88cf4d41cd33bc536a31990082d4bbfba60d944",
-      "title": "Number of evacuees rise in Perak, Penang, drops in Kedah this evening",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/25/number-of-evacuees-rise-in-perak-penang-drops-in-kedah-this-evening",
-      "summary": "KUALA LUMPUR: The number of flood evacuees at relief centres in Perak and Penang continues to rise while Kedah recorded a drop as of Saturday evening (Oct 25). <a href=\"https://www.thestar.com.my/news/nation/2025/10/25/number-of-evacuees-rise-in-perak-penang-drops-in-kedah-this-evening\">Read full story</a>",
-      "published": "2025-10-25T12:05:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "20c9eced1e06705afa974cdad600eaf4ecf99199",
@@ -752,6 +770,15 @@
       "category": "world"
     },
     {
+      "id": "f1098bc54c7115e92ea53c26a3c265061595e128",
+      "title": "Britney Spears said she was used. Kevin Federline says she needs help",
+      "link": "https://www.bbc.com/news/articles/c620z3gkrnvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Decades later, the pop star's very public unravelling is back in the limelight - but what exactly happened and why depends on who is doing the retelling.",
+      "published": "2025-10-24T23:10:53+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "d79d86ccbe038185c8d8d8e8fd267f3c3e702e49",
       "title": "Apple says Jon Prosser ‘has not indicated’ when he may respond to lawsuit",
       "link": "https://www.theverge.com/news/806664/apple-jon-prosser-not-indicated-respond-lawsuit-trade-secrets-ramacciotti",
@@ -786,15 +813,6 @@
       "published": "2025-10-24T22:26:30+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "03e960182353a5f861f3bb33a2119d3390887a23",
-      "title": "Ontario to stop running anti-tariff advert that angered Trump",
-      "link": "https://www.bbc.com/news/articles/czr18g3j4j7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The advertisement will be paused from Monday so \"trade talks can resume\" with the US, Doug Ford says.",
-      "published": "2025-10-24T22:18:55+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "afa78a231d824c84be8fe3d0333a6fe8a0416ee9",
@@ -857,15 +875,6 @@
       "summary": "The 61-year-old had wounds all over, a bacterial infection, and needed intensive care.",
       "published": "2025-10-24T21:29:30+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "3342ab444502c2faa037b0683b8c759a26d04fed",
-      "title": "Wordle has achievements now",
-      "link": "https://www.theverge.com/news/806578/nyt-games-badges-achievements-wordle-spelling-bee-connections",
-      "summary": "Want to flex your Wordle habit beyond just keeping your streak? The New York Times has added badges to recognize certain achievements in Wordle, Spelling Bee, and Connections. “Have you achieved the infamous Wordle in 1? What about the Perfect Connections Puzzle? How many Pangrams are under your Spelling Bee belt? Badges are rewards you [&#8230;]",
-      "published": "2025-10-24T21:28:43+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -968,15 +977,6 @@
       "category": "tech"
     },
     {
-      "id": "4a9a958c662f987035c5de9e168c6b9ab14a0928",
-      "title": "Ukraine allies pledge to take Russian oil and gas off global market",
-      "link": "https://www.bbc.com/news/articles/c17p54edxljo?at_medium=RSS&at_campaign=rss",
-      "summary": "A \"coalition of the willing\" meeting in London seeks to increase pressure on Russia to end its war in Ukraine.",
-      "published": "2025-10-24T19:10:15+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "3734c42e95e1307c1651ce02bea2b30dd8bb79d2",
       "title": "How to use the new ChatGPT app integrations, including Spotify, Figma, Canva, and others",
       "link": "https://techcrunch.com/2025/10/24/how-to-use-the-new-chatgpt-app-integrations-including-spotify-figma-canva-and-others/",
@@ -1009,6 +1009,15 @@
       "link": "https://www.bbc.com/news/articles/cjr07wqeerwo?at_medium=RSS&at_campaign=rss",
       "summary": "Dahbia Benkired is the first woman in France to receive a full life term following the shocking crime.",
       "published": "2025-10-24T18:45:10+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "56228693e67d7363130562add875ef74e99a8428",
+      "title": "Satellite images show extent of demolition at the White House",
+      "link": "https://www.bbc.com/news/videos/c4gkrnn4892o?at_medium=RSS&at_campaign=rss",
+      "summary": "New satellite images show the White House East Wing has been completely demolished in order to make way for President Trump's ballroom.",
+      "published": "2025-10-24T18:39:08+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -1200,15 +1209,6 @@
       "published": "2025-10-24T14:00:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "144ad3d90d2820e86eacb1caaf827e3417f0ebae",
-      "title": "German police seize fake Picassos in multi-million euro forgery raid",
-      "link": "https://www.bbc.com/news/articles/cp9713z4k81o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities say a 77-year-old German tried to sell copies of works by renowned artists such as Rembrandt.",
-      "published": "2025-10-24T13:42:42+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "14a689136cf3dfe66400b37b139cc3184c19fd06",
