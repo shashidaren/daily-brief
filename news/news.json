@@ -1,9 +1,225 @@
 {
-  "generatedAt": "2025-10-28T17:14:12.507534+00:00",
+  "generatedAt": "2025-10-28T18:21:29.800910+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "3c5cebaf2cb8dac55ceb14cdb9272791a3ff1cf6",
+      "title": "Uber, Stellantis, Nvidia, and Foxconn make a robotaxi deal",
+      "link": "https://www.theverge.com/news/808042/uber-stellantis-nvidia-and-foxconn-make-a-robotaxi-deal",
+      "summary": "Robotaxi fever is back, baby! After a bunch of automaker-led autonomous driving projects shut down amid concerns over safety and costs, car companies are expressing a renewed interest in self-driving cars, and robotaxis specifically. Stellantis, which oversees brands like Jeep, Ram, Dodge, and Chrysler, announced today a “new collaboration” with a diverse range of firms, [&#8230;]",
+      "published": "2025-10-28T18:20:52+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "97128105203b06fa8a5b207eb6495dd810ef1852",
+      "title": "Uber plans a fleet of 100,000 autonomous vehicles powered by Nvidia's new Drive AGX Hyperion 10, starting in 2027 (Natalie Lung/Bloomberg)",
+      "link": "http://www.techmeme.com/251028/p45#a251028p45",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-10-28/uber-eyes-fleet-of-100-000-nvidia-based-robotaxis-beginning-2027\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251028/i45.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251028/p45#a251028p45\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Natalie Lung / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-10-28/uber-eyes-fleet-of-100-000-nvidia-based-robotaxis-beginning-2027\">Uber plans a fleet of 100,000 autonomous vehicles powered by Nvidia's new Drive AGX Hyperion 10, starting in 2027</a></b></span>&nbsp; &mdash;&nbsp; Uber Technologies Inc. will begin expanding a fleet of 100,000 autonomous vehicles powered by Nvidia Corp. technology starting in 2027, an ambitious move that could help bring &hellip; </p>",
+      "published": "2025-10-28T18:20:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "2e143beae7a4cb5bb5d4952dfb9844554fe37685",
+      "title": "Charter Space brings fintech to spacecraft insurance and is showing off its stuff at TechCrunch Disrupt 2025",
+      "link": "https://techcrunch.com/2025/10/28/charter-space-brings-fintech-to-spacecraft-insurance-and-is-showing-off-its-stuff-at-techcrunch-disrupt-2025/",
+      "summary": "Charter Space wants to change how spacecraft are insured.",
+      "published": "2025-10-28T18:20:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "766d4187b87a82a9dfe9cd4c589ac18855a980dd",
+      "title": "CyDeploy wants to create a replica of a company’s system to help it test updates before pushing them out — catch it at Disrupt 2025",
+      "link": "https://techcrunch.com/2025/10/28/cydeploy-wants-to-create-a-replica-of-a-companys-system-to-help-it-test-updates-before-pushing-them-out-catch-it-at-disrupt-2025/",
+      "summary": "Tina Williams-Koroma said  CyDeploy uses machine learning to understand what happens on a company’s machine and then creates a “digital twin” where system administrators can test updates.",
+      "published": "2025-10-28T18:20:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "d7e5b0089d8e75d3ec92383f9990a2b5c6e6b01c",
+      "title": "Cyphr will reveal how it makes lending easier for small businesses at TechCrunch Disrupt 2025",
+      "link": "https://techcrunch.com/2025/10/28/cyphr-will-reveal-how-it-makes-lending-easier-for-small-businesses-at-techcrunch-disrupt-2025/",
+      "summary": "Cyphr is a Kansas-city based company focused on making the lending process easier for lenders and small businesses.",
+      "published": "2025-10-28T18:20:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "0ebea5c026d4a6af541c38c58050bd2e53b35599",
+      "title": "Identifee, built by Wells Fargo alumni, unifies productivity tech for bankers into a single platform — catch it at TechCrunch Disrupt 2025",
+      "link": "https://techcrunch.com/2025/10/28/identifee-built-by-wells-fargo-alumni-unifies-productivity-tech-for-bankers-into-a-single-platform-catch-it-at-techcrunch-disrupt-2025/",
+      "summary": "The startup’s platform is built on several modular systems that clients can purchase individually or as a complete suite.",
+      "published": "2025-10-28T18:20:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "e56b38a5b4fc4e16f7fd6a24918535087c311234",
+      "title": "Elloe AI wants to be the ‘immune system’ for AI — check it out at Disrupt 2025",
+      "link": "https://techcrunch.com/2025/10/28/elloe-ai-wants-to-be-the-immune-system-for-ai-check-it-out-at-disrupt-2025/",
+      "summary": "Elloe AI promises a system capable of fact-checking AI outputs, make sure they don’t violate laws and regulations, and that are safe for the users.",
+      "published": "2025-10-28T18:20:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "90ce5bb3659f51613c7571271fd5144fbaa2f007",
+      "title": "Oppo launches €999 Find X9 and €1,299 Find X9 Pro in the UK and EU, with 7,025mAh and 7,500mAh silicon-carbon batteries and a MediaTek Dimensity 9500 chip (Dominic Preston/The Verge)",
+      "link": "http://www.techmeme.com/251028/p44#a251028p44",
+      "summary": "<a href=\"https://www.theverge.com/news/808187/oppo-find-x9-pros-massive-7500mah-battery-arrives-in-europe\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251028/i44.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251028/p44#a251028p44\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Dominic Preston / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/news/808187/oppo-find-x9-pros-massive-7500mah-battery-arrives-in-europe\">Oppo launches &euro;999 Find X9 and &euro;1,299 Find X9 Pro in the UK and EU, with 7,025mAh and 7,500mAh silicon-carbon batteries and a MediaTek Dimensity 9500 chip</a></b></span>&nbsp; &mdash;&nbsp; The two new Oppo phones bring some of the biggest batteries around. &hellip; Oppo has announced the international launch &hellip; </p>",
+      "published": "2025-10-28T18:15:14+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "fc23a96607f44d4ff1b50fef44d9e03aba43c0dd",
+      "title": "Lucid jumps on the ‘privately owned’ autonomous vehicle bandwagon",
+      "link": "https://www.theverge.com/transportation/807954/lucid-private-owned-autonomous-vehicle-nvidia",
+      "summary": "Lucid says it will eventually sell “privately owned” autonomous vehicles with the help of Nvidia’s artificial intelligence technology. The company is the latest to declare its intention to sell Level 4 autonomous vehicles to its customers, despite a range of theoretical and logistical challenges standing in the way. Lucid’s autonomous vehicles — which do not exist [&#8230;]",
+      "published": "2025-10-28T18:10:30+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "6e8f8eeb604c4df4c50708126f09dc1b761ae290",
+      "title": "U.S. consumer confidence index slightly declines",
+      "link": "https://www.thestar.com.my/news/world/2025/10/29/us-consumer-confidence-index-slightly-declines",
+      "summary": "NEW YORK, Oct. 28 (Xinhua) -- The U.S. Conference Board Consumer Confidence Index released on Tuesday stood at 94.6 in October, down one point from upwardly revised 95.6 in September, but better than the market expectations of 93.4. <a href=\"https://www.thestar.com.my/news/world/2025/10/29/us-consumer-confidence-index-slightly-declines\">Read full story</a>",
+      "published": "2025-10-28T18:10:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "3b3b0495602a2727c9f182975080690d69368eed",
+      "title": "At least 60 dead in Rio de Janeiro police operation, local media reports",
+      "link": "https://www.thestar.com.my/news/world/2025/10/29/at-least-60-dead-in-rio-de-janeiro-police-operation-local-media-reports",
+      "summary": "(Reuters) -At least 60 people died, including four police officers, in an operation against organized crime in Rio de Janeiro on Tuesday, broadcasters GloboNews and CNN Brasil reported, a death toll more than double official figures released earlier in the day. <a href=\"https://www.thestar.com.my/news/world/2025/10/29/at-least-60-dead-in-rio-de-janeiro-police-operation-local-media-reports\">Read full story</a>",
+      "published": "2025-10-28T18:08:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "263e0a142c24415e8e2b305bcc303ebded458594",
+      "title": "Autel’s large-capacity 15,000mAh power bank with integrated USB-C cable plunges to $18 (Reg. $50)",
+      "link": "https://9to5toys.com/2025/10/28/autel-15000mah-usb-c-power-bank/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/Autel-15000mAh-LiFePO4-Power-Bank.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">Autel 15,000mAh USB-C Power Bank</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $18 (Reg. $50)</h3>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A white line on a red background\" class=\"wp-image-1171718 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/Autel-15000mAh-LiFePO4-Power-Bank-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p>Most of the time for this price point we come across 5,000 or 10,000mAh power banks, but here’s your opportunity to grab a 15,000mAh model. I love that there is an integrated USB-C cable alongside additional Type-C and USB-A outputs.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/28/autel-15000mah-usb-c-power-bank/#more-1171717\">more…</a>",
+      "published": "2025-10-28T18:05:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "28e0049e80d1857f92f857276877b6bd78ed2802",
+      "title": "Iraq signs deal for floating gas platform with U.S. energy firm",
+      "link": "https://www.thestar.com.my/news/world/2025/10/29/iraq-signs-deal-for-floating-gas-platform-with-us-energy-firm",
+      "summary": "BAGHDAD, Oct. 28 (Xinhua) -- Iraq signed a key contract with U.S. company Excelerate Energy on Tuesday for a floating storage and regasification unit (FSRU) to bolster the country's energy security and power generation capacity. <a href=\"https://www.thestar.com.my/news/world/2025/10/29/iraq-signs-deal-for-floating-gas-platform-with-us-energy-firm\">Read full story</a>",
+      "published": "2025-10-28T18:01:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "b6921b32a317ec79de0d62effb26ed78ea3e27aa",
+      "title": "Today’s Android app deals and freebies: Meadowfell, ELOH, Wilderless, more",
+      "link": "https://9to5toys.com/2025/10/28/android-app-deals-free-meadowfell/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/09/Meadowfell-Android.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>This afternoon’s lineup of the best Android game and app deals is now ready to roll down below. We have titles like Old Man’s Journey, ELOH, Meadowfell, Wilderless, and more, just be sure to also scope out the discounts we are tracking on Samsung’s 16-inch <a href=\"https://9to5toys.com/2025/10/28/samsung-16-inch-galaxy-book-4-edge-snapdragon-x-elite-copilot-pc/\">Galaxy Book 4 Edge Snapdragon X Elite Copilot+ PC at <strong>$450 off</strong></a> as well as one of the best prices to date on its <a href=\"https://9to5toys.com/2025/10/28/samsung-32-inch-4k-m8-smart-monitor-310-off/\">32-inch 4K M8 Smart Monitor </a>and the <a href=\"https://9to5toys.com/2025/10/28/samsung-galaxy-buds-3-pro-deal-3/\">Samsung Galaxy Buds 3 Pro at <strong>$85 off</strong></a> (with an extended 2-year warranty). As for the apps, everything awaits down below. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/28/android-app-deals-free-meadowfell/#more-1171790\">more…</a>",
+      "published": "2025-10-28T17:59:34+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "226d7458ae5bfe237b182ab4341f570f7e0e24d1",
+      "title": "Disney is breaking up with Doctor Who",
+      "link": "https://www.theverge.com/entertainment/808183/disney-bbc-doctor-who-partnership-ending",
+      "summary": "Though there&#8217;s still a new Doctor Who spinoff making its way to Disney Plus, Disney&#8217;s production partnership with the BBC has come to an end. The BBC announced today that after two seasons of Doctor Who starring Ncuti Gatwa in the titular role, Disney will no longer be a co-producer on the sci-fi series. In [&#8230;]",
+      "published": "2025-10-28T17:58:22+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "3294bca9ccc663615ca4024121ea8ef54ecc4a3c",
+      "title": "Sony’s ultralight INZONE wireless gaming mouse is down to its lowest price today at $128",
+      "link": "https://9to5toys.com/2025/10/28/sony-ultralight-inzone-wireless-gaming-mouse-lowest-price/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/Sony-INZONE-wireless-gaming-mouse.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>We are now tracking a deal at Amazon that drops Sony’s new INZONE Mouse-A wireless gaming mouse for $128 shipped. This model debuted alongside other new INZONE gear recently with a $150 price tag, which it has mostly maintained since launch. It dropped to $128 for the first time during the recent fall Prime Day sale, and today’s deal marks the return of that with a 15% markdown. It’s among the lightest gaming mice out there, and you can learn more about it in detail below.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/28/sony-ultralight-inzone-wireless-gaming-mouse-lowest-price/#more-1171781\">more…</a>",
+      "published": "2025-10-28T17:54:07+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "408ded278a5ee00a5b5686354a0d74158028237e",
+      "title": "Nvidia unveils BlueField-4 data processing unit, combining a 64-core Grace CPU and ConnectX-9 SuperNIC for 800 Gbps of network throughput, launching in 2026 (Dylan Martin/CRN)",
+      "link": "http://www.techmeme.com/251028/p43#a251028p43",
+      "summary": "<a href=\"https://www.crn.com/news/components-peripherals/2025/nvidia-reveals-bluefield-4-dpu-packed-with-64-core-grace-cpu-for-ai-data-centers\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251028/i43.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251028/p43#a251028p43\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Dylan Martin / <a href=\"https://www.crn.com/\">CRN</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.crn.com/news/components-peripherals/2025/nvidia-reveals-bluefield-4-dpu-packed-with-64-core-grace-cpu-for-ai-data-centers\">Nvidia unveils BlueField-4 data processing unit, combining a 64-core Grace CPU and ConnectX-9 SuperNIC for 800 Gbps of network throughput, launching in 2026</a></b></span>&nbsp; &mdash;&nbsp; Nvidia said Tuesday that it plans to integrate its Grace CPU and ConnectX-9 SuperNIC into the next-generation BlueField-4 DPU &hellip; </p>",
+      "published": "2025-10-28T17:50:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "6136d4a2eb269142420ce71eb3419454535b8ab8",
+      "title": "Oppo Find X9 Pro’s massive 7,500mAh battery arrives in Europe",
+      "link": "https://www.theverge.com/news/808187/oppo-find-x9-pros-massive-7500mah-battery-arrives-in-europe",
+      "summary": "Oppo has announced the international launch of its Find X9 and Find X9 Pro flagships, and both phones are going on sale in the UK and Europe. Best of all, unlike some other Chinese phones, there’s been no reduction in battery capacity for the global release, making these two of the longest lasting phones in [&#8230;]",
+      "published": "2025-10-28T17:48:03+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "a24c5f43042ffdd3b41627422369db1341544eb1",
+      "title": "VC Vinod Khosla says the US government could take 10% stake in all public companies to soften the blow of AGI",
+      "link": "https://techcrunch.com/2025/10/28/vc-vinod-khosla-says-the-us-government-could-take/",
+      "summary": "Khosla Ventures founder, Vinod Khosla, shares his ideas about sharing the abundance of AI.",
+      "published": "2025-10-28T17:45:42+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "93679fa7fa11d354d9d1485493a2731e884a4b8e",
+      "title": "Sources: Polymarket plans to return to the US with a focus on sports betting; initial trading is likely by the end of November, but won't be broadly available (Bloomberg)",
+      "link": "http://www.techmeme.com/251028/p42#a251028p42",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-10-28/polymarket-plans-to-return-to-us-within-weeks-with-sports-focus\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251028/i42.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251028/p42#a251028p42\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-10-28/polymarket-plans-to-return-to-us-within-weeks-with-sports-focus\">Sources: Polymarket plans to return to the US with a focus on sports betting; initial trading is likely by the end of November, but won't be broadly available</a></b></span>&nbsp; &mdash;&nbsp; Prediction market Polymarket is preparing to return to the US in the coming weeks with a focus on sports betting, according to people familiar with the matter.</p>",
+      "published": "2025-10-28T17:40:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "64fe74a70f07afecbd94fb62881e243c504dc18e",
+      "title": "Step up video calls with a dedicated webcam while UGREEN’s 2K model is $22 (Save 39%)",
+      "link": "https://9to5toys.com/2025/10/28/ugreen-2k-webcam-2/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/UGREEN-2K-Webcam.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">UGREEN 2K Webcam</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $22 (Reg. $36)</h3>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A red background with white lines\" class=\"wp-image-1171706 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/UGREEN-2K-Webcam-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p>While integrated laptop and tablet webcams have started seeing notable improvements over the last couple of years, in my experience a dedicated model with a larger sensor is often better. And if you primarily work from a desktop, this is your chance to add a webcam so you don’t have to use your phone all the time.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/28/ugreen-2k-webcam-2/#more-1171704\">more…</a>",
+      "published": "2025-10-28T17:35:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "083bd5788febdfa7abf37f274324fa954192d0ab",
+      "title": "Nvidia unveils NVQLink, a high-speed interconnect that Jensen Huang says is the \"Rosetta Stone connecting quantum and classical supercomputers\" (Isabelle Bousquette/Wall Street Journal)",
+      "link": "http://www.techmeme.com/251028/p41#a251028p41",
+      "summary": "<a href=\"https://www.wsj.com/articles/nvidias-new-product-merges-ai-supercomputing-with-quantum-d0864f06\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251028/i41.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251028/p41#a251028p41\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Isabelle Bousquette / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/articles/nvidias-new-product-merges-ai-supercomputing-with-quantum-d0864f06\">Nvidia unveils NVQLink, a high-speed interconnect that Jensen Huang says is the &ldquo;Rosetta Stone connecting quantum and classical supercomputers&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; Jensen Huang unveils a new interconnect that links quantum processors with Nvidia's AI supercomputers to get the most out of both</p>",
+      "published": "2025-10-28T17:30:13+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "7308878ae20cc9940f94017e36110b4a52d67389",
+      "title": "Italy may lose a fifth of its beaches to rising seas by 2050: report",
+      "link": "https://www.thestar.com.my/news/world/2025/10/29/italy-may-lose-a-fifth-of-its-beaches-to-rising-seas-by-2050-report",
+      "summary": "ROME, Oct. 28 (Xinhua) -- About one-fifth of Italy's beaches could be submerged by 2050 due to rising sea levels driven by global warming, according to a report released Tuesday by the Italian Geographic Society. <a href=\"https://www.thestar.com.my/news/world/2025/10/29/italy-may-lose-a-fifth-of-its-beaches-to-rising-seas-by-2050-report\">Read full story</a>",
+      "published": "2025-10-28T17:24:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "a8d70d231623ef6da1614c9ade934845be29948a",
+      "title": "Get outlets all the way over there with this 25-foot power strip, now $20 (Save 39%)",
+      "link": "https://9to5toys.com/2025/10/28/addtam-25-foot-6-outlet-power-strip-3/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/Addtam-25-foot-6-Outlet-Power-Strip.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">Addtam 25-foot 6-Outlet Power Strip</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $20 (Reg. $33)</h3>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A white line on a red background\" class=\"wp-image-1171699 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/Addtam-25-foot-6-Outlet-Power-Strip-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p>My guess is that most you out there have a wall outlet that you wish was placed somewhere else. A lot of power strips can help with a 3 or 6 foot reach, but this model goes above and beyond with a 25-foot power cord. Best of all, it takes 6 outlets with it.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/28/addtam-25-foot-6-outlet-power-strip-3/#more-1171698\">more…</a>",
+      "published": "2025-10-28T17:15:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
     {
       "id": "20a32391394899b8c43268638dcefc1386e2c8b1",
       "title": "This ultra-mini aluminum 15W Qi2 MagSafe power bank is among the smallest out there, and it’s only $27 today (All-time low)",
@@ -68,6 +284,15 @@
       "category": "deals"
     },
     {
+      "id": "2604a5e728ea374a1ad31511ccc84e0201f71e5c",
+      "title": "Ukraine needs to import additional 4 bln cubic meters of gas for heating season: official",
+      "link": "https://www.thestar.com.my/news/world/2025/10/29/ukraine-needs-to-import-additional-4-bln-cubic-meters-of-gas-for-heating-season-official",
+      "summary": "KIEV, Oct. 28 (Xinhua) -- Ukraine needs to import an additional 4 billion cubic meters of natural gas to smoothly run through the cold heating season, the Interfax-Ukraine news agency reported on Tuesday, citing a senior official. <a href=\"https://www.thestar.com.my/news/world/2025/10/29/ukraine-needs-to-import-additional-4-bln-cubic-meters-of-gas-for-heating-season-official\">Read full story</a>",
+      "published": "2025-10-28T16:56:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
       "id": "59087274a9f516a574e84330d617d05b39065d49",
       "title": "Get your iPhone out of your pocket and tote other essentials in tomtoc’s X-Pac bag at $49.50 (Save 20%)",
       "link": "https://9to5toys.com/2025/10/28/tomtoc-1-5l-x-pac-crossbody-bag-2/",
@@ -82,6 +307,33 @@
       "link": "https://www.thestar.com.my/news/world/2025/10/29/exclusive-us-military-officials-required-to-sign-ndas-tied-to-latin-america-mission-sources-say",
       "summary": "WASHINGTON (Reuters) -U.S. military officials involved with President Donald Trump's expanding operations in Latin America have been asked to sign non-disclosure agreements, three U.S. officials say, a development that raises new questions about a military buildup that Venezuela fears may lead to an invasion. <a href=\"https://www.thestar.com.my/news/world/2025/10/29/exclusive-us-military-officials-required-to-sign-ndas-tied-to-latin-america-mission-sources-say\">Read full story</a>",
       "published": "2025-10-28T16:51:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "330a947663a3887e71b6f5b2017f557a4bce92f0",
+      "title": "Here’s how Slate Auto plans to handle repairs to its electric trucks",
+      "link": "https://arstechnica.com/cars/2025/10/slate-auto-announces-repair-network-access-to-superchargers/",
+      "summary": "The startup has partnered with RepairPal to service its affordable EV truck.",
+      "published": "2025-10-28T16:46:56+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "134c7838f17307c8c34baf85abab95fce0663ee3",
+      "title": "Australia’s social media ban is “problematic,” but platforms will comply anyway",
+      "link": "https://arstechnica.com/tech-policy/2025/10/social-media-firms-abandon-fight-against-australia-law-banning-under-16-users/",
+      "summary": "Platforms expect to monitor a range of signals, but age detection will be spotty.",
+      "published": "2025-10-28T16:36:29+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "f762e079c417eeadc5122a02a3d5d8445776d663",
+      "title": "13 pct of German retirees staying in work: Destatis",
+      "link": "https://www.thestar.com.my/news/world/2025/10/29/13-pct-of-german-retirees-staying-in-work-destatis",
+      "summary": "BERLIN, Oct. 28 (Xinhua) -- About 13 percent of German retirees aged 65 to 74 remained employed last year, according to preliminary figures released Tuesday by the Federal Statistical Office (Destatis). <a href=\"https://www.thestar.com.my/news/world/2025/10/29/13-pct-of-german-retirees-staying-in-work-destatis\">Read full story</a>",
+      "published": "2025-10-28T16:36:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
     },
@@ -158,6 +410,15 @@
       "category": "tech"
     },
     {
+      "id": "2612d6caedf53705a303ce06213b3e734760e408",
+      "title": "6.4-magnitude earthquake strikes near Indonesia&#039;s Tanimbar Islands, no tsunami warning issued",
+      "link": "https://www.thestar.com.my/news/world/2025/10/29/64-magnitude-earthquake-strikes-near-indonesia039s-tanimbar-islands-no-tsunami-warning-issued",
+      "summary": "JAKARTA, Oct. 28 (Xinhua) -- A 6.4-magnitude earthquake jolted near Indonesia's Tanimbar Islands in Maluku province on Tuesday night, the country's Meteorology, Climatology and Geophysics Agency (BMKG) said. <a href=\"https://www.thestar.com.my/news/world/2025/10/29/64-magnitude-earthquake-strikes-near-indonesia039s-tanimbar-islands-no-tsunami-warning-issued\">Read full story</a>",
+      "published": "2025-10-28T16:11:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
       "id": "1a3438743138e2bea5c46c68af7abb605dc7003d",
       "title": "Blackstone partners with Humain to invest about $3B in building and operating data centers and AI infrastructure across Saudi Arabia, set to open in 2026 (Bloomberg)",
       "link": "http://www.techmeme.com/251028/p36#a251028p36",
@@ -176,6 +437,15 @@
       "category": "tech"
     },
     {
+      "id": "0407df46830fd301dfac76e52a51a539a3db9344",
+      "title": "40 Kenyan public servants graduate from Huawei-sponsored training program",
+      "link": "https://www.thestar.com.my/news/world/2025/10/29/40-kenyan-public-servants-graduate-from-huawei-sponsored-training-program",
+      "summary": "NAIROBI, Oct. 28 (Xinhua) -- Forty Kenyan state officers on Tuesday graduated from a training program sponsored by Chinese telecoms firm Huawei and partners to enhance their capacity in protecting the country's digital infrastructure. <a href=\"https://www.thestar.com.my/news/world/2025/10/29/40-kenyan-public-servants-graduate-from-huawei-sponsored-training-program\">Read full story</a>",
+      "published": "2025-10-28T16:06:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
       "id": "3a24366e4893a619fe2d9dee761b7fec019af9c0",
       "title": "Oppo Find X9 Series Now Available For Preorder; Retails From RM3,699",
       "link": "https://www.lowyat.net/2025/371182/oppo-find-x9-series-preorder/",
@@ -185,10 +455,10 @@
       "category": "deals"
     },
     {
-      "id": "e0879025b451bd15026eb3b9589afc234ff4a996",
-      "title": "A livestream of Nvidia's GTC October 2025 Keynote with CEO Jensen Huang (NVIDIA on YouTube)",
+      "id": "106c57c95da2d2573d6c13564f7f354a4692adad",
+      "title": "A recording of Nvidia's GTC October 2025 Keynote with CEO Jensen Huang (NVIDIA on YouTube)",
       "link": "http://www.techmeme.com/251028/p35#a251028p35",
-      "summary": "<a href=\"https://www.youtube.com/watch?v=lQHK61IDFH4\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251028/i35.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251028/p35#a251028p35\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.youtube.com/@NVIDIA\">NVIDIA on YouTube</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.youtube.com/watch?v=lQHK61IDFH4\">A livestream of Nvidia's GTC October 2025 Keynote with CEO Jensen Huang</a></b></span>&nbsp; &mdash;&nbsp; Watch NVIDIA CEO Jensen Huang's GTC keynote to catch all the announcements on AI advances that are shaping our future.Dive into the announcements and discove...</p>",
+      "summary": "<a href=\"https://www.youtube.com/watch?v=lQHK61IDFH4\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251028/i35.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251028/p35#a251028p35\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.youtube.com/@NVIDIA\">NVIDIA on YouTube</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.youtube.com/watch?v=lQHK61IDFH4\">A recording of Nvidia's GTC October 2025 Keynote with CEO Jensen Huang</a></b></span>&nbsp; &mdash;&nbsp; Watch NVIDIA CEO Jensen Huang's GTC keynote to catch all the announcements on AI advances that are shaping our future.Dive into the announcements and discove...</p>",
       "published": "2025-10-28T16:01:03+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -266,30 +536,12 @@
       "category": "tech"
     },
     {
-      "id": "de35988b060d74e03a887437b12066459c72f399",
-      "title": "At least 20 dead in Rio de Janeiro police operation ahead of climate summit events",
-      "link": "https://www.thestar.com.my/news/world/2025/10/28/at-least-20-dead-in-operation-against-organized-crime-in-brazil039s-rio",
-      "summary": "RIO DE JANEIRO (Reuters) -At least 20 people, including two police officers, were killed in a large-scale operation against organized crime in Rio de Janeiro on Tuesday, the state government said, days before the Brazilian city is set to host major events related to the COP30 global climate summit. <a href=\"https://www.thestar.com.my/news/world/2025/10/28/at-least-20-dead-in-operation-against-organized-crime-in-brazil039s-rio\">Read full story</a>",
-      "published": "2025-10-28T15:27:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "5dfc819690ae153f30af6e20141f10185e4ab124",
       "title": "AccessGrid raises $4.4M to help turn phones into key fobs",
       "link": "https://techcrunch.com/2025/10/28/accessgrid-raises-4-4m-to-help-turn-phones-into-key-fobs/",
       "summary": "AccessGrid builds APIs that companies can use to manage digital key fobs directly within Apple and Google's wallet platforms.",
       "published": "2025-10-28T15:23:05+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "912e231a17aa3059fdc4965727f6291d1ea2c347",
-      "title": "Battlefield’s free battle royale mode is available now",
-      "link": "https://www.theverge.com/news/807720/ea-battlefield-6-battle-royale-redsec",
-      "summary": "EA announced today that Battlefield Redsec, the free-to-play battle royale that the company says is “built on Battlefield’s iconic DNA,” is available now. Here’s how EA describes the mode in a press release: As part of this free-to-play package, players can jump into Battlefield’s biggest map ever Fort Lyndon, and experience an explosive new take [&#8230;]",
-      "published": "2025-10-28T15:22:58+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -300,15 +552,6 @@
       "published": "2025-10-28T15:17:13+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "d072fbf6f81b957fde6fb9074d0214dbda4d7a50",
-      "title": "Shoulder injury halts Alaves defender Pacheco",
-      "link": "https://www.thestar.com.my/news/world/2025/10/28/shoulder-injury-halts-alaves-defender-pacheco",
-      "summary": "MADRID, Oct. 28 (Xinhua) -- Deportivo Alaves' defensive record has suffered a blow with the news that central defender Jon Pacheco will be sidelined after tearing a ligament in his left shoulder in Sunday's 1-0 defeat to Rayo Vallecano. <a href=\"https://www.thestar.com.my/news/world/2025/10/28/shoulder-injury-halts-alaves-defender-pacheco\">Read full story</a>",
-      "published": "2025-10-28T15:16:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "9df0b291924f0448d773b680b0acfed1be7d5059",
@@ -326,15 +569,6 @@
       "summary": "You don’t have to spend RM5,000 to get a capable smartphone anymore. These days, even phones priced around RM1,500 offer bright displays, large batteries, and reliable everyday performance, all while looking more premium than their price suggests. If you’re shopping in this sweet spot between budget and mid-range, here are five phones that deliver solid [&#8230;]",
       "published": "2025-10-28T15:12:01+00:00",
       "source": "SoyaCincau",
-      "category": "malaysia"
-    },
-    {
-      "id": "de433d220979f9bb977ab2ff107c408222375158",
-      "title": "Escapee describes summary killings after Darfur city&#039;s fall",
-      "link": "https://www.thestar.com.my/news/world/2025/10/28/escapee-describes-summary-killings-after-darfur-city039s-fall",
-      "summary": "(Reuters) -Sudanese paramilitary forces beat and shot men fleeing from a long-besieged city in Darfur after capturing it, according to an account from an escapee corroborated by statements from aid officials, satellite images, and unverified social media videos. <a href=\"https://www.thestar.com.my/news/world/2025/10/28/escapee-describes-summary-killings-after-darfur-city039s-fall\">Read full story</a>",
-      "published": "2025-10-28T15:11:00+00:00",
-      "source": "The Star : News Feed",
       "category": "malaysia"
     },
     {
@@ -365,15 +599,6 @@
       "category": "tech"
     },
     {
-      "id": "9079575f00b0d7bc5f167ae66de0c90bde0c59e2",
-      "title": "Razer&#8217;s new Huntsman V3 Pro 8kHz keyboard promises speed with improved typing feel",
-      "link": "https://www.theverge.com/news/806927/razers-new-huntsman-v3-pro-8khz-keyboard-promises-speed-with-improved-typing-feel",
-      "summary": "Razer is announcing a new Huntsman V3 Pro 8kHz keyboard for esports-level competition and speed-obsessed PC gamers. The newest version of Razer’s top-end wired keyboard supports 8,000Hz polling (both upstream and downstream), and it’s got new analog optical switches designed to minimize interference and prioritize speed. Razer claims it put a big emphasis on typing [&#8230;]",
-      "published": "2025-10-28T15:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "8220a2c5508525ee4fe0261b924aeaea8545cc54",
       "title": "Apple and Microsoft are now both worth more than $4T",
       "link": "https://techcrunch.com/2025/10/28/apple-and-microsoft-are-now-both-worth-more-than-4t/",
@@ -381,15 +606,6 @@
       "published": "2025-10-28T14:59:52+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "0d50624417c81fe9b68f6e44f1690fec78190461",
-      "title": "Elderly couple on superbike killed in four-vehicle pile-up",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/28/elderly-couple-on-superbike-killed-in-four-vehicle-pile-up",
-      "summary": "SEREMBAN: A couple was killed in a four-vehicle accident along KM11.5 of the Seremban-Port Dickson highway on Tuesday evening (Oct 28). <a href=\"https://www.thestar.com.my/news/nation/2025/10/28/elderly-couple-on-superbike-killed-in-four-vehicle-pile-up\">Read full story</a>",
-      "published": "2025-10-28T14:57:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "dccdc2ec2f1e915a9a78ba637f4e797cc0310b33",
@@ -419,24 +635,6 @@
       "category": "world"
     },
     {
-      "id": "4b69ac0f451a22715ca9321a6af4cb8910cb7a26",
-      "title": "Namibia announces final 30-man squad for Rugby World Cup qualifiers in Dubai",
-      "link": "https://www.thestar.com.my/news/world/2025/10/28/namibia-announces-final-30-man-squad-for-rugby-world-cup-qualifiers-in-dubai",
-      "summary": "WINDHOEK, Oct. 28 (Xinhua) -- The Namibia Rugby Union (NRU) on Tuesday announced the final 30-man squad for the upcoming 2027 Rugby World Cup qualifiers scheduled for Nov. 8 to 18 in Dubai. <a href=\"https://www.thestar.com.my/news/world/2025/10/28/namibia-announces-final-30-man-squad-for-rugby-world-cup-qualifiers-in-dubai\">Read full story</a>",
-      "published": "2025-10-28T14:46:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "ba8193b281164c523403e56eaabda5b3a36cae61",
-      "title": "Palo Alto Networks launches Cortex AgentiX, AI agents that can be deployed across various security vendor platforms to automate cybersecurity actions (Samantha Subin/CNBC)",
-      "link": "http://www.techmeme.com/251028/p30#a251028p30",
-      "summary": "<a href=\"https://www.cnbc.com/2025/10/28/palo-alto-networks-debuts-new-tk-agent-to-fight-cy.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251028/i30.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251028/p30#a251028p30\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Samantha Subin / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2025/10/28/palo-alto-networks-debuts-new-tk-agent-to-fight-cy.html\">Palo Alto Networks launches Cortex AgentiX, AI agents that can be deployed across various security vendor platforms to automate cybersecurity actions</a></b></span>&nbsp; &mdash;&nbsp; Palo Alto Networks on Tuesday launched new artificial intelligence agents that allow customers to automate certain cybersecurity actions.</p>",
-      "published": "2025-10-28T14:40:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "c255d2171bc6a16a8b1f874a176b7b9665c3a966",
       "title": "Black Friday 2025 Doorbuster deals start this week – here’s what you need to know",
       "link": "https://9to5toys.com/2025/10/28/black-friday-2025-doorbuster-deals-start-time/",
@@ -455,24 +653,6 @@
       "category": "tech"
     },
     {
-      "id": "329d10a0b643dbf46e138fbf441fa3643c3ece49",
-      "title": "PayPal reports Q3 revenue up 7% YoY to $8.4B, total payment volume up 8% to $458.1B, above $450.3B est., and raises its FY 2025 EPS forecast; PYPL jumps 10%+ (Bloomberg)",
-      "link": "http://www.techmeme.com/251028/p29#a251028p29",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-10-28/paypal-raises-earnings-guidance-after-announcing-openai-deal\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251028/i29.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251028/p29#a251028p29\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-10-28/paypal-raises-earnings-guidance-after-announcing-openai-deal\">PayPal reports Q3 revenue up 7% YoY to $8.4B, total payment volume up 8% to $458.1B, above $450.3B est., and raises its FY 2025 EPS forecast; PYPL jumps 10%+</a></b></span>&nbsp; &mdash;&nbsp; PayPal Holdings Inc. raised its full-year earnings guidance and announced a tie-up with OpenAI to embed its digital wallet into ChatGPT &hellip; </p>",
-      "published": "2025-10-28T14:30:05+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "772a84238ee18bb2c1c9652fc6500968ee5c3184",
-      "title": "Warner Bros. mergers never work, but they&#8217;re trying again anyway",
-      "link": "https://www.theverge.com/entertainment/807438/warner-bros-discovery-history-of-mergers-paramount-apple-netflix-amazon",
-      "summary": "When Warner Bros. Discovery announced that it was open to the possibility of a sale, the entertainment giant was careful to mention that it has already received multiple unsolicited offers \"for both the entire company and Warner Bros.\" We knew about WBD's plan to split back into two corporate entities, and that the company had [&#8230;]",
-      "published": "2025-10-28T14:30:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "95f95bf5037874983489c0a842a2f6e501784736",
       "title": "Pregnant British teenager's family pay £137,000 to reduce sentence in Georgia jail",
       "link": "https://www.bbc.com/news/articles/cwypqwn4epyo?at_medium=RSS&at_campaign=rss",
@@ -480,24 +660,6 @@
       "published": "2025-10-28T14:21:07+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "ab4ab81d10c991ab1b5faa0ea83e611bc2a002cd",
-      "title": "New US strikes kill 14 alleged drug traffickers, Mexico leads rescue of survivor",
-      "link": "https://www.thestar.com.my/news/world/2025/10/28/us-military-strikes-suspected-drug-vessels-in-eastern-pacific",
-      "summary": "WASHINGTON (Reuters) -A series of U.S. strikes against suspected drug vessels in the eastern Pacific killed 14 alleged drug traffickers and left one survivor, U.S. Defense Secretary Pete Hegseth said on Tuesday, the latest operation in President Donald Trump's counter-drug campaign. <a href=\"https://www.thestar.com.my/news/world/2025/10/28/us-military-strikes-suspected-drug-vessels-in-eastern-pacific\">Read full story</a>",
-      "published": "2025-10-28T14:14:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "32cd9c3d65821655879ee8c6462aa0afe35cd3a8",
-      "title": "Apple crosses a $4T market cap in intra-day trading, making it only the third public company ever to reach the milestone; AAPL is up 56% since its April low (Subrat Patnaik/Bloomberg)",
-      "link": "http://www.techmeme.com/251028/p28#a251028p28",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-10-28/apple-becomes-third-stock-in-history-to-top-4-trillion-in-value\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251028/i28.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251028/p28#a251028p28\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Subrat Patnaik / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-10-28/apple-becomes-third-stock-in-history-to-top-4-trillion-in-value\">Apple crosses a $4T market cap in intra-day trading, making it only the third public company ever to reach the milestone; AAPL is up 56% since its April low</a></b></span>&nbsp; &mdash;&nbsp; Apple Inc. shares rose as much 0.4% to hit $4 trillion in market value, making the iPhone maker only the third public company in history to reach the milestone.</p>",
-      "published": "2025-10-28T14:00:41+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "0dc8b6add43791a14accae13efad8590339047e1",
@@ -509,15 +671,6 @@
       "category": "tech"
     },
     {
-      "id": "da19a968e543f7bda0c8daaafc4125049291eef4",
-      "title": "Privacy laws can’t keep up with ‘luxury surveillance’",
-      "link": "https://www.theverge.com/tech/807834/meta-smart-glasses-privacy-laws-wearables",
-      "summary": "With Meta's new range of smart glasses, Mark Zuckerberg is pitching a vision of the future that sci-fi authors have been warning about for decades - one where privacy is truly dead, and everyone is recording everyone else at all times. This in itself is nothing new. Introduced at the company's recent Meta Connect event, [&#8230;]",
-      "published": "2025-10-28T14:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "145b8992e628ec28afa12117a9b18bbf86dc4651",
       "title": "Greenworks’ folding 80V 21-inch self-propelled and adaptive SmartCut mower at a $380 low (Reg. $580+, Today only)",
       "link": "https://9to5toys.com/2025/10/28/greenworks-80v-21-inch-smartcut-mower-380-low-today/",
@@ -525,15 +678,6 @@
       "published": "2025-10-28T13:57:10+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "6d981f5b71e5008fd50025957c6ae663525d2fbb",
-      "title": "A profile of Substrate, which uses particle acceleration to handle lithography, claiming to solve one of tech's toughest problems, and aims to compete with ASML (Bloomberg)",
-      "link": "http://www.techmeme.com/251028/p27#a251028p27",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-10-28/what-is-substrate-a-thiel-backed-chip-startup-seeking-to-crack-asml-s-dominance\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251028/i27.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251028/p27#a251028p27\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-10-28/what-is-substrate-a-thiel-backed-chip-startup-seeking-to-crack-asml-s-dominance\">A profile of Substrate, which uses particle acceleration to handle lithography, claiming to solve one of tech's toughest problems, and aims to compete with ASML</a></b></span>&nbsp; &mdash;&nbsp; A secretive American startup has emerged with aspirations to challenge two titans of the semiconductor industry: ASML Holding NV and Taiwan Semiconductor Manufacturing Co.</p>",
-      "published": "2025-10-28T13:50:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "540cd8409bdd008f7d28e6faf14a0d2413298ce8",
@@ -554,24 +698,6 @@
       "category": "tech"
     },
     {
-      "id": "2e5a029e33e106bdbad003e9e1f9edead2253e84",
-      "title": "Circle launches the test version of its Arc blockchain, with Goldman, BlackRock, Apollo, Anthropic, Intercontinental Exchange, and others set to trial it (Anna Irrera/Bloomberg)",
-      "link": "http://www.techmeme.com/251028/p26#a251028p26",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-10-28/goldman-blackrock-sign-up-to-trial-circle-s-arc-blockchain\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251028/i26.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251028/p26#a251028p26\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Anna Irrera / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-10-28/goldman-blackrock-sign-up-to-trial-circle-s-arc-blockchain\">Circle launches the test version of its Arc blockchain, with Goldman, BlackRock, Apollo, Anthropic, Intercontinental Exchange, and others set to trial it</a></b></span>&nbsp; &mdash;&nbsp; Stablecoin issuer Circle Internet Group Inc. has launched the test version of its Arc blockchain, with companies including Goldman Sachs Group Inc &hellip; </p>",
-      "published": "2025-10-28T13:40:03+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "d3c1b5a8c1d9258dc15a0ae118747f72e92f0f66",
-      "title": "LRT Kelana Jaya Line hit by power disruption, shuttle buses activated",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/28/lrt-kelana-jaya-line-hit-by-power-disruption-shuttle-buses-activated",
-      "summary": "PETALING JAYA: Train services on the LRT Kelana Jaya Line have been delayed due to a power supply disruption at Gombak Station, says Rapid KL. <a href=\"https://www.thestar.com.my/news/nation/2025/10/28/lrt-kelana-jaya-line-hit-by-power-disruption-shuttle-buses-activated\">Read full story</a>",
-      "published": "2025-10-28T13:31:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "08654ca6f6f4a5273becb9228382eba4e34f367b",
       "title": "Switch 2 game deals now live: Zelda BotW, Tears of the Kingdom, DK Bananza, Kirby, Mario Party, more",
       "link": "https://9to5toys.com/2025/10/28/switch-2-game-deals-zelda-mario-bananza/",
@@ -581,15 +707,6 @@
       "category": "deals"
     },
     {
-      "id": "f19e8a912626be6ea83c2d8b08ba92c886da7d2d",
-      "title": "Russian street musician found guilty of &#039;discrediting&#039; the army after she played anti-Kremlin songs",
-      "link": "https://www.thestar.com.my/news/world/2025/10/28/russian-street-musician-found-guilty-of-039discrediting039-the-army-after-she-played-anti-kremlin-songs",
-      "summary": "ST PETERSBURG, Russia (Reuters) -An 18-year-old Russian street musician jailed for nearly two weeks earlier this month for playing a banned anti-Kremlin song was found guilty on Tuesday of \"discrediting\" the Russian army and fined 30,000 roubles ($369). <a href=\"https://www.thestar.com.my/news/world/2025/10/28/russian-street-musician-found-guilty-of-039discrediting039-the-army-after-she-played-anti-kremlin-songs\">Read full story</a>",
-      "published": "2025-10-28T13:12:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "9de3a6a1678cdfcd4d2f9e64142781aa73616ccd",
       "title": "Confederate statue torn down during anti-racism protests reinstalled in Washington",
       "link": "https://www.bbc.com/news/articles/cm27ke33gvmo?at_medium=RSS&at_campaign=rss",
@@ -597,15 +714,6 @@
       "published": "2025-10-28T13:07:57+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "b1cbe0680296e0f92fe686b0fbe3d2dd24258697",
-      "title": "Grab some official Apple woven USB-C cables from $6.50 a pop today",
-      "link": "https://9to5toys.com/2025/10/28/official-apple-woven-usb-cables-deal/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2024/08/Apple-Woven-USB-C-cable.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p><strong>Update 10/28:</strong> If you’re to land some casual but very much <a href=\"https://howl.link/3qrlka7otxl6f\">official Apple USB-C cables</a>, you’ll find the Woot deals below live once again on the <a href=\"https://howl.link/3qrlka7otxl6f\">woven 60W models as low as<strong> $6.67 Prime shipped</strong></a>. Details below in the original post. </p>\n\n\n\n<p>If you have an affinity for your official Apple accessories, you already know how pricey they can be by comparison to third-party stuff. But if you’re looking to land some official woven Apple USB-C cables without the Apple tax, Woot does have some deals up for grabs with the <a href=\"https://howl.link/3qrlka7otxl6f\">60W 1-meter models down at <strong>$9.99</strong></a> a pop, a <a href=\"https://howl.link/3qrlka7otxl6f\">2-pack at <strong>$16.99</strong></a> – $8.50 each, or a <a href=\"https://howl.link/3qrlka7otxl6f\">3-pack at <strong>$19.99</strong></a> – $6.67 each. Shipping is free for Prime members, but a $6 delivery fee will apply otherwise. Additional details below. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/28/official-apple-woven-usb-cables-deal/#more-1171597\">more…</a>",
-      "published": "2025-10-28T13:02:57+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "aa6db6041405a6596ce1a322a15f8b8413c2113f",
@@ -653,15 +761,6 @@
       "category": "world"
     },
     {
-      "id": "c5cee5b00339dfecf5f783a2717446011a28225f",
-      "title": "Here’s the 2025 Dell pre-Black Friday ad: Deals on gaming PCs, laptops, more from just $60 now live",
-      "link": "https://9to5toys.com/2025/10/28/2025-dell-pre-black-friday-ad/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/Dell-pre-Black-Friday-ad.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Black Friday is right around the corner, and the holiday deals season is officially in full swing. After retailers like <a href=\"https://9to5toys.com/2025/10/20/best-buy-announces-2025-black-friday-sale/\">Best Buy</a> and <a href=\"https://9to5toys.com/2025/10/27/sneak-peek-walmart-2025-black-friday-deals-up-to-75-off/\">Walmart</a> rolled out their early offers, <a href=\"https://howl.link/ol14q1tsscjhf\">Dell</a> has now joined the party with its own <a href=\"https://howl.link/ol14q1tsscjhf\">pre-Black Friday sale</a>. The brand is offering major discounts <a href=\"https://howl.link/ol14q1tsscjhf\">across laptops, desktops, accessories, and more</a> – with prices <a href=\"https://howl.link/ol14q1tsscjhf\">starting as low as <strong>$60</strong></a>. All the deals are live now on <a href=\"https://howl.link/ol14q1tsscjhf\">Dell’s dedicated sale page</a>, and you can check out the brand’s full pre-Black Friday ad below for a quick look at what’s on offer.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/28/2025-dell-pre-black-friday-ad/#more-1171574\">more…</a>",
-      "published": "2025-10-28T12:29:58+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "70ab569be96cb8ed82346d0eee1d7c86564c85e1",
       "title": "Anwar: Friendship built on respect, not wealth and power, Trump meeting was 'enlightening'",
       "link": "https://www.malaymail.com/news/malaysia/2025/10/28/anwar-friendship-built-on-respect-not-wealth-and-power-trump-meeting-was-enlightening/196361",
@@ -678,15 +777,6 @@
       "published": "2025-10-28T12:21:37+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "c88b111b8b914c5e9577ba09ddc16c5643751e13",
-      "title": "Samsung Galaxy Buds 3 Pro now $85 off at Amazon with bonus 2-yr. warranty",
-      "link": "https://9to5toys.com/2025/10/28/samsung-galaxy-buds-3-pro-deal-3/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2024/07/how-to-best-deal-Galaxy-Buds-3-Galaxy-Buds-3-Pro-02.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>Amazon is now offering the latest Samsung Galaxy Buds 3 Pro with its exclusive 2-year warranty down at <strong>$165 shipped</strong>. Regularly $250 and still fetching as much <a href=\"https://howl.link/wb3mnshoacafk\">straight from Samsung</a>, this is the lowest straight up cash discounts we have tracked in months on the proper U.S. pair that anyone can take advantage of. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/28/samsung-galaxy-buds-3-pro-deal-3/#more-1171581\">more…</a>",
-      "published": "2025-10-28T12:21:14+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "4a4eee0991f959033cb50c20d4b063d8d0254869",
@@ -743,15 +833,6 @@
       "category": "malaysia"
     },
     {
-      "id": "d57c99893178d535a0e87797de7246eb04f9f407",
-      "title": "Latest Nothing Ear (open) buds now back at $99 Prime Day low",
-      "link": "https://9to5toys.com/2025/10/28/latest-nothing-ear-open-buds-now-back-at-99-prime-day-low/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/02/Nothing-Ear-open.jpg?quality=82&#038;strip=all&#038;w=1500\" /></div><p>Amazon is bringing back the Prime Day price on the latest Nothing Ear (Open) buds down at $99 shipped again. Today’s deal gives Prime members another shot at landing the brand’s open-bud solution back at the lowest price we price we have tracked on Amazon this year.  </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/28/latest-nothing-ear-open-buds-now-back-at-99-prime-day-low/#more-1171572\">more…</a>",
-      "published": "2025-10-28T11:52:04+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "c8e74194185b8d95facc74785bfddef24ca4944a",
       "title": "Canada poised to lose measles-free status as outbreak tops 5,000 cases and vaccinations decline",
       "link": "https://www.malaymail.com/news/world/2025/10/28/canada-poised-to-lose-measles-free-status-as-outbreak-tops-5000-cases-and-vaccinations-decline/196353",
@@ -759,15 +840,6 @@
       "published": "2025-10-28T11:39:29+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "e9b1f54d365a8bd8bac1efb06e6877149c954dda",
-      "title": "Samsung’s 32-inch 4K M8 Smart Monitor with onboard webcam is M4 Mac mini ready at $310 off today",
-      "link": "https://9to5toys.com/2025/10/28/samsung-32-inch-4k-m8-smart-monitor-310-off/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2024/08/2024-model-Samsung-32-Inch-M8-M80D-Series-4K-UHD-Smart-Monitor.jpg?quality=82&#038;strip=all&#038;w=1440\" /></div><p>As part of its <a href=\"https://howl.link/v4v27dt24muo1\">updated Samsung monitor sale</a>, Woot is offering the <a href=\"https://howl.link/0j0oam225sk5s\">brand’s 32-inch 4K M8 (M80D) Smart Monitor down at <strong>$389.99 Prime shipped</strong></a> (a $6 delivery fee will apply otherwise). Usually priced at $700, this 2024 model is now $310 off, bringing it down to one of the lowest prices we’ve tracked for it to date. We’ve seen it previously hit the $380 mark once <a href=\"https://howl.link/zh0hloiwqlwl4\">directly at Samsung</a> before being replaced by the <a href=\"https://howl.link/1n3ebne8v4doh\">newer M80F model</a>, and today’s deal comes within just $10 of that all-time low. It remains a solid option for folks looking to buy a new monitor for their workstation without burning a huge hole in their wallet, and you can learn more about it in detail below.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/28/samsung-32-inch-4k-m8-smart-monitor-310-off/#more-1171564\">more…</a>",
-      "published": "2025-10-28T11:36:30+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "5bf3bb0071be34cd759119e0eacdd460ec6c9747",
@@ -890,7 +962,7 @@
       "id": "e9f2fa2f0779c3d8200b24083fb428a5f741de6d",
       "title": "PayPal partners with OpenAI to let users pay for their shopping within ChatGPT",
       "link": "https://techcrunch.com/2025/10/28/paypal-partners-with-openai-to-let-users-pay-for-their-shopping-within-chatgpt/",
-      "summary": "Paypal said on Tuesday that it is adopting a protocol in combination with OpenAI's \"Instant Checkout\" feature to let users pay for their shopping directly within ChatGPT, starting in 2026.",
+      "summary": "PayPal is adopting the Agentic Commerce Protocol (ACP), an open source specification developed by OpenAI that lets merchants make their products available within AI apps, consequently enabling users to shop using AI agents.",
       "published": "2025-10-28T10:47:43+00:00",
       "source": "TechCrunch",
       "category": "tech"
@@ -1124,7 +1196,7 @@
       "id": "9f9824760d83255c6fc38d56b899a01bedd59998",
       "title": "Zoom CEO Eric Yuan says AI will shorten our workweek",
       "link": "https://techcrunch.com/2025/10/27/zoom-ceo-eric-yuan-says-ai-will-shorten-our-workweek/",
-      "summary": "Zoom CEO Eric Yuan says that, in a few years, we should be working a 3-4 day workweek because of AI.",
+      "summary": "Zoom CEO Eric Yuan says that, in a few years, we should be working a three- to four-day workweek because of AI.",
       "published": "2025-10-28T00:14:39+00:00",
       "source": "TechCrunch",
       "category": "tech"
@@ -1148,15 +1220,6 @@
       "category": "world"
     },
     {
-      "id": "2217490d091b1eba4b7970edc2318804b909476d",
-      "title": "Roelof Botha explains why Sequoia supports Shaun Maguire after COO quit",
-      "link": "https://techcrunch.com/2025/10/27/roelof-botha-explains-why-sequoia-supports-shaun-maguire-after-coo-quit/",
-      "summary": "Sequoia's managing partner Roelof Botha defended his colleague's controversial comments that sparked an online backlash, arguing that the VC firm needs \"spiky\" people.",
-      "published": "2025-10-27T23:46:57+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "3e0bf15579192e83d925a1fecbb7986135c3a3b8",
       "title": "Conduit",
       "link": "https://www.producthunt.com/products/conduit-7",
@@ -1172,51 +1235,6 @@
       "summary": "Big power, no lag, surprising agility make for a stellar drive—at an astronomical cost.",
       "published": "2025-10-27T23:01:06+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "11bdf10fc9077d18ed1b9faeda0c3e1017cd0a58",
-      "title": "Defense startup Pytho AI wants to turbocharge military mission planning and it will show off its tech at Disrupt 2025",
-      "link": "https://techcrunch.com/2025/10/27/defense-startup-pytho-ai-wants-to-turbocharge-military-mission-planning-and-it-will-show-off-its-tech-at-disrupt-2025/",
-      "summary": "Pytho AI wants to compress mission planning from days to mere minutes.",
-      "published": "2025-10-27T21:45:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "0e1820c9b00a51ac25237161cefbd71cb5ed3f2b",
-      "title": "Strong by Form will show its ultralight engineered wood at TechCrunch Disrupt 2025",
-      "link": "https://techcrunch.com/2025/10/27/strong-by-form-will-show-its-ultralight-engineered-wood-at-techcrunch-disrupt-2025/",
-      "summary": "Strong by Form has designed a structural floor piece that can span longer distances than existing engineered wood, making it a replacement for steel or concrete. At the same time, the product is lighter than all three.",
-      "published": "2025-10-27T21:45:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "b31c0b20134df43816db0afa207249f620566ba9",
-      "title": "MacroCycle found a shortcut for plastic recycling — catch it at TechCrunch Disrupt 2025",
-      "link": "https://techcrunch.com/2025/10/27/macrocycle-found-a-shortcut-for-plastic-recycling-catch-it-at-techcrunch-disrupt-2025/",
-      "summary": "MacroCycle's approach to recycling dramatically reduces the amount of energy needed to produce new material, potentially lowering costs to the point where it could compete with virgin plastic.",
-      "published": "2025-10-27T21:45:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "f602ba1c9f80fbb6afb946d49a96c7399f90ddc2",
-      "title": "Mbodi will show how it can train a robot using AI agents at TechCrunch Disrupt 2025",
-      "link": "https://techcrunch.com/2025/10/27/mbodi-will-show-how-it-can-train-a-robot-using-ai-agents-at-techcrunch-disrupt-2025/",
-      "summary": "Mbodi users prompt the software with natural language, and its cluster of AI agents works to make training easier.",
-      "published": "2025-10-27T21:45:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "e8c240e588920774ceb931b90490594c020534af",
-      "title": "Glīd is building an autonomous shortcut to move freight from road to rail — catch it at TechCrunch Disrupt 2025",
-      "link": "https://techcrunch.com/2025/10/27/glid-is-building-an-autonomous-shortcut-to-move-freight-from-road-to-rail-catch-it-at-techcrunch-disrupt-2025/",
-      "summary": "Damoa pinpointed the problem: the complex, multi-step process moving a container from a ship to a freight train. He founded Glīd Technologies to try and solve it.",
-      "published": "2025-10-27T21:45:00+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1441,24 +1459,6 @@
       "link": "https://arstechnica.com/science/2025/10/dna-and-jolts-of-electricity-get-people-to-make-optimal-antibodies/",
       "summary": "If we ID the DNA for a great antibody, anyone can now make it.",
       "published": "2025-10-24T20:58:11+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "2908d391a2f1ccab415e57ce7aa77c0e9eca4996",
-      "title": "The Android-powered Boox Palma 2 Pro fits in your pocket, but it’s not a phone",
-      "link": "https://arstechnica.com/gadgets/2025/10/the-android-powered-boox-palma-2-pro-fits-in-your-pocket-but-its-not-a-phone/",
-      "summary": "This e-reader has a color screen and 5G.",
-      "published": "2025-10-24T20:07:30+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "ce0e4391ddf117a9b47b81deb779a8e826ebf736",
-      "title": "Tech billionaires are now shaping the militarization of American cities",
-      "link": "https://arstechnica.com/tech-policy/2025/10/troops-in-us-cities-tech-billionaires-are-shaping-that-too/",
-      "summary": "Money means access to power—and tech has plenty of money.",
-      "published": "2025-10-24T18:55:47+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
     },
