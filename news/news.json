@@ -1,17 +1,341 @@
 {
-  "generatedAt": "2025-10-30T01:07:30.190884+00:00",
+  "generatedAt": "2025-10-30T03:06:57.692633+00:00",
   "counts": {
     "total": 175
   },
   "items": [
     {
-      "id": "0e4b4c8205a4adce3cf6079092ada8fe1bdbf8d0",
-      "title": "US Fed lowers rates, but Powell suggests move may be the last of 2025",
-      "link": "https://www.malaymail.com/news/money/2025/10/30/us-fed-lowers-rates-but-powell-suggests-move-may-be-the-last-of-2025/196507",
-      "summary": "WASHINGTON, Oct 30 &mdash; A policy divide within the US central bank and a lack of federal government data may put anot...",
-      "published": "2025-10-30T01:04:38+00:00",
+      "id": "968bf32c4eb351d16bb688f9d29593891b532dc3",
+      "title": "Asian stocks rise as Fed cuts rates and Trump-Xi trade talks lift sentiment",
+      "link": "https://www.malaymail.com/news/money/2025/10/30/asian-stocks-rise-as-fed-cuts-rates-and-trump-xi-trade-talks-lift-sentiment/196563",
+      "summary": "SINGAPORE, Oct 30 &mdash; Asian stocks advanced in morning trading today after the Federal Reserve cut interest rates an...",
+      "published": "2025-10-30T03:05:01+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
+    },
+    {
+      "id": "b1b061c5a910f9935721624e32889e01a792b69f",
+      "title": "Perak man remanded for four days until Nov 1 over alleged arson of family home in Pengkalan Hulu",
+      "link": "https://www.malaymail.com/news/malaysia/2025/10/30/perak-man-remanded-for-four-days-until-nov-1-over-alleged-arson-of-family-home-in-pengkalan-hulu/196554",
+      "summary": "IPOH, Oct 30 &mdash; Police arrested a man after he was believed to have set fire to his family&rsquo;s house in Kampung...",
+      "published": "2025-10-30T03:04:44+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "2e12e141048945d3469d1fdddf3266f8d09e0744",
+      "title": "Many MPs yet to do medical check-ups, says Speaker",
+      "link": "https://www.thestar.com.my/news/nation/2025/10/30/many-mps-yet-to-do-medical-check-ups-says-speaker",
+      "summary": "KUALA LUMPUR: Dewan Rakyat Speaker Tan Sri Johari Abdul has reminded MPs to take care of their health and keep their email inboxes organised to ensure smoother parliamentary work. <a href=\"https://www.thestar.com.my/news/nation/2025/10/30/many-mps-yet-to-do-medical-check-ups-says-speaker\">Read full story</a>",
+      "published": "2025-10-30T03:01:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "815480af52f36c1ba10ff88a2863c809f06c4743",
+      "title": "Forest fire burns 2.4ha in Shah Alam’s Taman Perdana Heights, doused before reaching UiTM campus (VIDEO)",
+      "link": "https://www.malaymail.com/news/malaysia/2025/10/30/forest-fire-burns-24ha-in-shah-alams-taman-perdana-heights-doused-before-reaching-uitm-campus-video/196559",
+      "summary": "SHAH ALAM, Oct 30 &mdash; An estimated 2.42 hectares (six acres) of forest in the Taman Perdana Heights area caught fire...",
+      "published": "2025-10-30T02:59:33+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "d10e941a35e6c2b3c1317255c94daae476d99bcb",
+      "title": "Sinner cruises in Paris Masters opener, Zverev keeps title defence alive",
+      "link": "https://www.malaymail.com/news/sports/2025/10/30/sinner-cruises-in-paris-masters-opener-zverev-keeps-title-defence-alive/196562",
+      "summary": "PARIS, Oct 30 &mdash; Jannik Sinner began his tilt at a maiden Paris Masters crown which would return him to world numbe...",
+      "published": "2025-10-30T02:57:53+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "61b53137c22d98170b41ad1d5f6ac13133a1e664",
+      "title": "Still singing praises: Trump hails Anwar, Malaysia’s role in Thailand-Cambodia peace deal at Apec summit",
+      "link": "https://www.malaymail.com/news/malaysia/2025/10/30/still-singing-praises-trump-hails-anwar-malaysias-role-in-thailand-cambodia-peace-deal-at-apec-summit/196553",
+      "summary": "GYEONGJU, Oct 30 &mdash; United States President Donald Trump is not over with his praises on Malaysia&rsquo;s leadershi...",
+      "published": "2025-10-30T02:53:52+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "ec958f41915873c2cd7ac350f00846849eed26f0",
+      "title": "Samsung profits jump 32pc as AI chip demand fuels memory boom",
+      "link": "https://www.malaymail.com/news/money/2025/10/30/samsung-profits-jump-32pc-as-ai-chip-demand-fuels-memory-boom/196561",
+      "summary": "SEOUL, Oct 30 &mdash; South Korean tech giant Samsung Electronics posted today a 32 per cent rise in profits on-year for...",
+      "published": "2025-10-30T02:52:56+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "283fd0eb3b5ed768bfd108cf994f469723b3ac96",
+      "title": "Malaysia, Italy to fast-track Petronas-Eni partnership, says Anwar",
+      "link": "https://www.malaymail.com/news/malaysia/2025/10/30/malaysia-italy-to-fast-track-petronas-eni-partnership-says-anwar/196542",
+      "summary": "KUALA LUMPUR, Oct 30 &mdash; Malaysia and Italy have agreed to expedite and finalise cooperation between Petroliam Nasio...",
+      "published": "2025-10-30T02:49:46+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "40b72571d741dc23048f0e986e6688bfc79a3b2f",
+      "title": "ChatGPT maker OpenAI lays groundwork for juggernaut RM4.2t IPO",
+      "link": "https://www.malaymail.com/news/money/2025/10/30/chatgpt-maker-openai-lays-groundwork-for-juggernaut-rm42t-ipo/196560",
+      "summary": "SAN FRANCISCO, Oct 30 &mdash; OpenAI is laying the groundwork for an initial public offering that could value the compan...",
+      "published": "2025-10-30T02:48:54+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "5dc48bf46159769b6b784472433dfb70d7cd5ab0",
+      "title": "Rice brand, not price, factor behind consumers’ choices, Parliament told",
+      "link": "https://www.thestar.com.my/news/nation/2025/10/30/rice-brand-not-price-factor-behind-consumers-choices-parliament-told",
+      "summary": "KUALA LUMPUR: Malaysian consumers are now choosing rice based on brand and taste rather than price, as the retail price of imported white rice (Beras Putih Import, BPI) is not much higher than local white rice (Beras Putih Tempatan, BPT), says Datuk Seri Mohamad Sabu. <a href=\"https://www.thestar.com.my/news/nation/2025/10/30/rice-brand-not-price-factor-behind-consumers-choices-parliament-told\">Read full story</a>",
+      "published": "2025-10-30T02:46:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "e6c4b1a9bff0a190c50522278bedb3ccf59f2e97",
+      "title": "TNG eWallet App Adds New EV Charging Feature",
+      "link": "https://www.lowyat.net/2025/371510/tng-ewallet-app-adds-new-ev-charging-feature/",
+      "summary": "<p>Touch n&#8217; Go Digital (TNG Digital) has rolled out a new EV Charging feature to its TNG eWallet platform. This enables users to locate, activate, and pay for electric vehicle (EV) charging sessions across multiple charge point operators (CPOs) in Malaysia and Singapore, all within a single app. Powered by Voltality, a wholly owned subsidiary [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/371510/tng-ewallet-app-adds-new-ev-charging-feature/\">TNG eWallet App Adds New EV Charging Feature</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2025-10-30T02:44:10+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "9730a8dbea28a99f6fe0c7e9f7ec28d30a6fa391",
+      "title": "Global appetite for Malaysian durian grows export, fruit planting projects",
+      "link": "https://www.thestar.com.my/news/nation/2025/10/30/global-appetite-for-malaysian-durian-grows-export-fruit-planting-projects",
+      "summary": "KUALA LUMPUR: From China to Europe and the United States, Malaysia's durians are making their mark worldwide, with exports soaring in recent years as global appetite for the King of Fruits continues to grow. <a href=\"https://www.thestar.com.my/news/nation/2025/10/30/global-appetite-for-malaysian-durian-grows-export-fruit-planting-projects\">Read full story</a>",
+      "published": "2025-10-30T02:44:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "485d8d0127300c95df7333326eb726ccd7686203",
+      "title": "Moto3 rider Dettwiler ‘no longer critical’ after serious crash at Malaysian MotoGP, says family",
+      "link": "https://www.malaymail.com/news/sports/2025/10/30/moto3-rider-dettwiler-no-longer-critical-after-serious-crash-at-malaysian-motogp-says-family/196552",
+      "summary": "KUALA LUMPUR, Oct 30 &mdash; Swiss Moto3 rider Noah Dettwiler, who suffered a serious crash at the Malaysian MotoGP over...",
+      "published": "2025-10-30T02:42:17+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "d5c5a4bed26b39195988eb09d2b14e090a3fe186",
+      "title": "Melissa kills 25 in Haiti, nearly 30 total as hurricane batters Caribbean",
+      "link": "https://www.malaymail.com/news/world/2025/10/30/melissa-kills-25-in-haiti-nearly-30-total-as-hurricane-batters-caribbean/196551",
+      "summary": "HAVANA, Oct 30 &mdash; Hurricane Melissa barrelled through the Caribbean yesterday after thrashing Cuba&rsquo;s second-b...",
+      "published": "2025-10-30T02:34:43+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "43b5db4b9df21bf2cd0a480d7223429491e672e1",
+      "title": "Nothing Phone (3a) Lite Debuts With Dimensity 7300 Pro",
+      "link": "https://www.lowyat.net/2025/371494/nothing-phone-3a-lite/",
+      "summary": "<p>Nothing has officially unveiled its newest smartphone, the Phone (3a) Lite. As the latest addition to the budget-friendly Phone (3a) lineup, it serves as the brand’s first entry-level handset. Notably, the device shares some similarities with CMF Phone 2 Pro, with a few distinctions. The Phone (3a) Lite sports a 6.77-inch 1,084 x 2,392 AMOLED [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/371494/nothing-phone-3a-lite/\">Nothing Phone (3a) Lite Debuts With Dimensity 7300 Pro</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2025-10-30T02:33:09+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "2479296dbf74a6830e06a828f0b18210f021b0fa",
+      "title": "National identity should embody Malaysia’s multicultural spirit, says ministry",
+      "link": "https://www.thestar.com.my/news/nation/2025/10/30/national-identity-should-embody-malaysias-multicultural-spirit-says-ministry",
+      "summary": "KUALA LUMPUR: Malaysia's national identity must reflect the diversity of its people, not be defined by any single race or culture, says the Unity Ministry. <a href=\"https://www.thestar.com.my/news/nation/2025/10/30/national-identity-should-embody-malaysias-multicultural-spirit-says-ministry\">Read full story</a>",
+      "published": "2025-10-30T02:30:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "0b288bf8427dddb36b3906dd24495e5aa88b20f8",
+      "title": "Corpses line Rio street after Brazil’s deadliest ever police operation",
+      "link": "https://www.malaymail.com/news/world/2025/10/30/corpses-line-rio-street-after-brazils-deadliest-ever-police-operation/196550",
+      "summary": "RIO DE JANEIRO, Oct 30 &mdash; The deadliest police operation in Brazil&rsquo;s history killed at least 119 people, auth...",
+      "published": "2025-10-30T02:27:51+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "ff77d856134ed0ef46d7e94aca6d24ab81e172f4",
+      "title": "Indonesia investigates more free meal poisoning cases, after 700 students fall ill, official says",
+      "link": "https://www.thestar.com.my/news/world/2025/10/30/indonesia-investigates-more-free-meal-poisoning-cases-after-700-students-fall-ill-official-says",
+      "summary": "JAKARTA (Reuters) -Indonesian authorities are investigating food poisoning cases involving nearly 700 children in Yogyakarta province this week, after students ate meals prepared under President Prabowo Subianto's key free school meal programme, an official said. <a href=\"https://www.thestar.com.my/news/world/2025/10/30/indonesia-investigates-more-free-meal-poisoning-cases-after-700-students-fall-ill-official-says\">Read full story</a>",
+      "published": "2025-10-30T02:26:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "3eb10ca00fcc0e08696add41bca8fbf38db8373a",
+      "title": "Anwar makes top 10 in 2025 world’s most influential Muslims ranking",
+      "link": "https://www.malaymail.com/news/malaysia/2025/10/30/anwar-makes-top-10-in-2025-worlds-most-influential-muslims-ranking/196549",
+      "summary": "KUALA LUMPUR, Oct 30 &mdash; Prime Minister Datuk Seri Anwar Ibrahim has been named among the world&rsquo;s 50 most infl...",
+      "published": "2025-10-30T02:25:12+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "2c5c34d87fdc4d09d5a28c77c2877846af152795",
+      "title": "UMG partners with AI music generator Udio to launch a subscription service for creating music with licensed songs in 2026, in part to settle a copyright lawsuit (Katherine Sayre/Wall Street Journal)",
+      "link": "http://www.techmeme.com/251029/p64#a251029p64",
+      "summary": "<a href=\"https://www.wsj.com/business/media/universal-music-settles-with-ai-firm-udio-c926ca39\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251029/i64.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251029/p64#a251029p64\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Katherine Sayre / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/business/media/universal-music-settles-with-ai-firm-udio-c926ca39\">UMG partners with AI music generator Udio to launch a subscription service for creating music with licensed songs in 2026, in part to settle a copyright lawsuit</a></b></span>&nbsp; &mdash;&nbsp; Udio agrees to launch a new subscription service for fans to create music based on licensed songs</p>",
+      "published": "2025-10-30T02:25:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "bcd5cb4ab7e4cbdbfccaf395ba0a7baff02befc2",
+      "title": "South Korea recalls over 260,000 cars, including 180,000 Hyundai and Kia EVs, over fire risk",
+      "link": "https://www.malaymail.com/news/money/2025/10/30/south-korea-recalls-over-260000-cars-including-180000-hyundai-and-kia-evs-over-fire-risk/196548",
+      "summary": "SEOUL, Oct 30 &mdash; South Korea&rsquo;s government said today that more than 260,000 cars will be recalled due to manu...",
+      "published": "2025-10-30T02:22:14+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "74c6cd790b7b2d0d80e2d50059a7400cb70544ab",
+      "title": "Smart Cities are only possible with people, even if we are dumb",
+      "link": "https://www.malaymail.com/news/opinion/2025/10/30/smart-cities-are-only-possible-with-people-even-if-we-are-dumb/196544",
+      "summary": "OCTOBER 30 &mdash; Management consultants have a priority, fees. The consultant&rsquo;s condo does not pay for itself. N...",
+      "published": "2025-10-30T02:21:06+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "33cd2987109db5a79784ed7b0f5b4e15bcd93202",
+      "title": "In Dewan Rakyat today: Anwar-Trump talks, hardcore poverty among key issues",
+      "link": "https://www.malaymail.com/news/malaysia/2025/10/30/in-dewan-rakyat-today-anwar-trump-talks-hardcore-poverty-among-key-issues/196545",
+      "summary": "KUALA LUMPUR, Oct 30 &mdash; Prime Minister Datuk Seri Anwar Ibrahim&rsquo;s explanation on the outcomes of his recent m...",
+      "published": "2025-10-30T02:18:49+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "d5535797762209540de532e5ee81b3e44708e944",
+      "title": "Slot defends Liverpool youth experiment after Anfield thrashing by Palace",
+      "link": "https://www.malaymail.com/news/sports/2025/10/30/slot-defends-liverpool-youth-experiment-after-anfield-thrashing-by-palace/196547",
+      "summary": "LIVERPOOL, Oct 30 &mdash; Liverpool boss Arne Slot defended his decision to name a much-changed side after a 3-0 League...",
+      "published": "2025-10-30T02:17:54+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "4439ea7a213dd71a1b12316ef5b56bf04380104f",
+      "title": "Back in the fold? Khairy set to rejoin Umno ahead of Sabah state polls after Zahid’s green light",
+      "link": "https://www.malaymail.com/news/malaysia/2025/10/30/back-in-the-fold-khairy-set-to-rejoin-umno-ahead-of-sabah-state-polls-after-zahids-green-light/196546",
+      "summary": "KUALA LUMPUR, Oct 30 &mdash; Former Health Minister Khairy Jamaluddin is expected to rejoin Umno before the Sabah state...",
+      "published": "2025-10-30T02:14:19+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "567b2477cba2b6a4830f847287eb33926e274869",
+      "title": "Elderly woman dies, three hurt in two-car crash in Muar",
+      "link": "https://www.thestar.com.my/news/nation/2025/10/30/elderly-woman-dies-three-hurt-in-two-car-crash-in-muar",
+      "summary": "MUAR: An elderly woman was killed while three others were injured in an accident involving two cars on Jalan Pintasan Bakri here on Wednesday (Oct 29) night. <a href=\"https://www.thestar.com.my/news/nation/2025/10/30/elderly-woman-dies-three-hurt-in-two-car-crash-in-muar\">Read full story</a>",
+      "published": "2025-10-30T02:13:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "07cc2df09b0bb5f58800e115970217368f076e7a",
+      "title": "nubia Air Hands On: The Next Thin Alternative",
+      "link": "https://www.lowyat.net/2025/371466/nubia-air-hands-on-the-next-thin-alternative/",
+      "summary": "<p>It goes without saying that many smartphone brands are now hopping on the “thin is in” bandwagon (looking at you, Apple). However, no one flaunts this fact more obviously than the recently released nubia Air. Measuring in at 5.9mm, the phone is definitely thin. During my time with it, there were one too many instances [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/371466/nubia-air-hands-on-the-next-thin-alternative/\">nubia Air Hands On: The Next Thin Alternative</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2025-10-30T02:10:24+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "d6a536457b1be5361fb0e2cd032858b9adb427a7",
+      "title": "Two men ‘partially admit’ role in Louvre jewel heist, crown jewels still missing",
+      "link": "https://www.malaymail.com/news/world/2025/10/30/two-men-partially-admit-role-in-louvre-jewel-heist-crown-jewels-still-missing/196541",
+      "summary": "PARIS, Oct 30 &mdash; Two men arrested on suspicion of stealing jewels from the Louvre Museum have &ldquo;partially admi...",
+      "published": "2025-10-30T02:09:51+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "336bdc996199452d8dcd3ecb0f5ad3a7cd2b223e",
+      "title": "Malaysians working in Singapore, self-employed in M’sia eligible for social protection scheme",
+      "link": "https://www.thestar.com.my/news/nation/2025/10/30/malaysians-working-in-singapore-self-employed-in-msia-eligible-for-social-protection-scheme",
+      "summary": "ISKANDAR PUTERI: Malaysians working in Singapore but running self-employed ventures, such as e-hailing or food delivery services, in Malaysia can still contribute to the Social Security Organisation (PERKESO). <a href=\"https://www.thestar.com.my/news/nation/2025/10/30/malaysians-working-in-singapore-self-employed-in-msia-eligible-for-social-protection-scheme\">Read full story</a>",
+      "published": "2025-10-30T02:09:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "b606c69a25966050c35679ac719047922b349cc6",
+      "title": "Kedah flood evacuees drop to 698 on Oct 30",
+      "link": "https://www.thestar.com.my/news/nation/2025/10/30/kedah-flood-evacuees-drop-to-698-on-oct-30",
+      "summary": "ALOR SETAR: The number of flood evacuees in Kedah decreased to 698 people from 198 families as of 8am Thursday, down from 720 people from 202 families recorded on Wednesday. <a href=\"https://www.thestar.com.my/news/nation/2025/10/30/kedah-flood-evacuees-drop-to-698-on-oct-30\">Read full story</a>",
+      "published": "2025-10-30T02:09:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "0c6c6b88c682639a6ed17f41e14222d4c973584d",
+      "title": "QuickCheck: Does Malaysia have a ghost island?",
+      "link": "https://www.thestar.com.my/news/true-or-not/2025/10/30/quickcheck-does-malaysia-have-a-ghost-island",
+      "summary": "LEGENDS and myths have always captured the imagination, but some mysteries are rooted in geological reality rather than folklore. <a href=\"https://www.thestar.com.my/news/true-or-not/2025/10/30/quickcheck-does-malaysia-have-a-ghost-island\">Read full story</a>",
+      "published": "2025-10-30T02:09:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "85db68c92cd6f7ad69fc0f342f80dc63c100b64d",
+      "title": "Taiwan &#039;confident&#039; in US ties ahead of Trump-Xi meeting",
+      "link": "https://www.thestar.com.my/news/world/2025/10/30/taiwan-039confident039-in-us-ties-ahead-of-trump-xi-meeting",
+      "summary": "TAIPEI (Reuters) -Taiwan is \"confident\" in its relations with the United States, Foreign Minister Lin Chia-lung said on Thursday, ahead of a meeting between the U.S. and Chinese presidents where the issue of the island Beijing claims as its own could come up. <a href=\"https://www.thestar.com.my/news/world/2025/10/30/taiwan-039confident039-in-us-ties-ahead-of-trump-xi-meeting\">Read full story</a>",
+      "published": "2025-10-30T02:05:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "5f3874c2f0a010de7bbdcd8fa86f312ee9dbd524",
+      "title": "Disney and YouTube settle their legal dispute over YouTube's hiring in May of former Disney executive Justin Connolly to be global head of media and sports (Dominic Patten/Deadline)",
+      "link": "http://www.techmeme.com/251029/p63#a251029p63",
+      "summary": "<a href=\"https://deadline.com/2025/10/disney-youtube-settle-executive-poaching-dispute-1236602195/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251029/i63.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251029/p63#a251029p63\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Dominic Patten / <a href=\"https://deadline.com/\">Deadline</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://deadline.com/2025/10/disney-youtube-settle-executive-poaching-dispute-1236602195/\">Disney and YouTube settle their legal dispute over YouTube's hiring in May of former Disney executive Justin Connolly to be global head of media and sports</a></b></span>&nbsp; &mdash;&nbsp; &ldquo;A Notice of Settlement of Entire Case has been filed in this case,&rdquo; said an order placed in the Los Angeles Superior Court docket Wednesday.</p>",
+      "published": "2025-10-30T02:05:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "360daeaaa82068887faa2e587d3cacac1d21d086",
+      "title": "Malaysians working in Singapore, but running self-employed ventures in Malaysia, can still contribute to Perkeso, says Johor director",
+      "link": "https://www.malaymail.com/news/singapore/2025/10/30/malaysians-working-in-singapore-but-running-self-employed-ventures-in-malaysia-can-still-contribute-to-perkeso-says-johor-director/196540",
+      "summary": "ISKANDAR PUTERI, Oct 30 &mdash; Malaysians working in Singapore but running self-employed ventures, such as e-hailing or...",
+      "published": "2025-10-30T01:58:46+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "f5d0cc0e1ecc6044432c9ae9d9bb972fd10403dd",
+      "title": "Trump orders Pentagon to restart nuclear tests in show of strength ahead of US-China summit",
+      "link": "https://www.malaymail.com/news/world/2025/10/30/trump-orders-pentagon-to-restart-nuclear-tests-in-show-of-strength-ahead-of-us-china-summit/196539",
+      "summary": "SEOUL, Oct 30 &mdash; US President Donald Trump, ahead of his meeting with Chinese President Xi Jinping today, said he h...",
+      "published": "2025-10-30T01:52:16+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "396eae46cd1b8c42bf6c1d1f29f1ee97972591b5",
+      "title": "India’s Snabbit valuation doubled to $180M in 5 months on its quick house-help bet",
+      "link": "https://techcrunch.com/2025/10/29/indias-snabbit-valuation-doubled-to-180m-in-5-months-on-its-quick-house-help-bet/",
+      "summary": "Snabbit has raised its third funding round in nine months.",
+      "published": "2025-10-30T01:30:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "868a5fc5adca5a084ae9369da4cf7d0f7541bcb5",
+      "title": "CoreStory, whose AI platform automates generating documentation for legacy code bases, raised a $32M Series A led by Tribeca, NEA, and SineWave (Maria Deutscher/SiliconANGLE)",
+      "link": "http://www.techmeme.com/251029/p62#a251029p62",
+      "summary": "<a href=\"https://siliconangle.com/2025/10/28/corestory-raises-32m-help-companies-modernize-legacy-code-ai/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251029/i62.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251029/p62#a251029p62\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Maria Deutscher / <a href=\"http://siliconangle.com/\">SiliconANGLE</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://siliconangle.com/2025/10/28/corestory-raises-32m-help-companies-modernize-legacy-code-ai/\">CoreStory, whose AI platform automates generating documentation for legacy code bases, raised a $32M Series A led by Tribeca, NEA, and SineWave</a></b></span>&nbsp; &mdash;&nbsp; Artificial intelligence startup CoreStory Inc. today announced that it has closed a $32 million funding early-stage round led by Tribeca Venture Partners, NEA and SineWave Ventures.</p>",
+      "published": "2025-10-30T01:25:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
     },
     {
       "id": "4ffc39f401f4e98fe69affa48c02fdeaaafe2abe",
@@ -50,69 +374,6 @@
       "category": "tech"
     },
     {
-      "id": "1521753adaa5277200f8bc4a773a19537dd18e07",
-      "title": "Ask better — Nahrizul Adib Kadri",
-      "link": "https://www.malaymail.com/news/what-you-think/2025/10/30/ask-better-nahrizul-adib-kadri/196509",
-      "summary": "OCTOBER 30 &mdash; Last Thursday morning, I was sitting alone with a cup of kopi-C-kosong at the Engineering Tower, when...",
-      "published": "2025-10-30T00:53:39+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "65171f7a98021d3af4eace248ef24b69bae5fa2e",
-      "title": "The Merdeka declaration against cyber scams and crimes: A necessary start — Phar Kim Beng, Luthfy Hamzah, and Rahmah Azizan",
-      "link": "https://www.malaymail.com/news/what-you-think/2025/10/30/the-merdeka-declaration-against-cyber-scams-and-crimes-a-necessary-start-phar-kim-beng-luthfy-hamzah-and-rahmah-azizan/196508",
-      "summary": "OCTOBER 30 &mdash; When Home Minister Datuk Seri Saifuddin Nasution Ismail declared that Asean had placed cybercrime and...",
-      "published": "2025-10-30T00:50:45+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "ba966a819a93cb8673f85cbff570f98d73f4a541",
-      "title": "Israel kills more than 100 in strikes after soldier’s death, says it still backs ceasefire",
-      "link": "https://www.malaymail.com/news/world/2025/10/30/israel-kills-more-than-100-in-strikes-after-soldiers-death-says-it-still-backs-ceasefire/196506",
-      "summary": "CAIRO, Oct 30 &mdash; Israel said yesterday it remains committed to the US-backed ceasefire in Gaza, despite its retalia...",
-      "published": "2025-10-30T00:44:52+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "10762577df53c5129346035aa43b01f2dce878a5",
-      "title": "Head to Taman Selayang Jaya for a rare gem of ‘loh pan mee’ at Rong Shu Xia Noodle House",
-      "link": "https://www.malaymail.com/news/eat-drink/2025/10/30/head-to-taman-selayang-jaya-for-a-rare-gem-of-loh-pan-mee-at-rong-shu-xia-noodle-house/196505",
-      "summary": "BATU CAVES, Oct 30 &mdash; Whether you call it pan mee, ban mian or mee hoon kueh, there&rsquo;s no denying the firm, ch...",
-      "published": "2025-10-30T00:42:04+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "a276111e0c9d3afa6ca3670d439b368a3e0f6c60",
-      "title": "Anwar-Trump meeting, hardcore poverty among focus of Dewan Rakyat today",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/30/anwar-trump-meeting-hardcore-poverty-among-focus-of-dewan-rakyat-today",
-      "summary": "KUALA LUMPUR: Prime Minister Datuk Seri Anwar Ibrahim's explanation on the outcomes of his recent meeting with United States President Donald Trump is expected to be among the highlights of the Dewan Rakyat sitting on Thursday (Oct 30). <a href=\"https://www.thestar.com.my/news/nation/2025/10/30/anwar-trump-meeting-hardcore-poverty-among-focus-of-dewan-rakyat-today\">Read full story</a>",
-      "published": "2025-10-30T00:30:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "bc8cac4c85e39d104c55ff72b5feeb6691ba5669",
-      "title": "Protest erupts in Cameroon&#039;s Douala as opposition leader rejects Biya victory",
-      "link": "https://www.thestar.com.my/news/world/2025/10/30/protest-erupts-in-cameroon039s-douala-as-opposition-leader-rejects-biya-victory",
-      "summary": "DOUALA (Reuters) -Cameroon's opposition leader has vowed to resist until the \"final victory\" over President Paul Biya, calling on his supporters to stay mobilised as a civil society group denounced deaths and arrests in protests in multiple cities. <a href=\"https://www.thestar.com.my/news/world/2025/10/30/protest-erupts-in-cameroon039s-douala-as-opposition-leader-rejects-biya-victory\">Read full story</a>",
-      "published": "2025-10-30T00:28:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "f19c12170e81073a0b782059876366d0d2a4961b",
-      "title": "Anwar takes 10th spot in World&#039;s 500 Most Influential Muslims list",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/30/anwar-takes-10th-spot-in-world039s-500-most-influential-muslims-list",
-      "summary": "KUALA LUMPUR: Prime Minister Datuk Seri Anwar Ibrahim has climbed to 10th place in The World's 500 Most Influential Muslims 2026 edition, published by the Royal Islamic Strategic Studies Centre (RISSC) under the Royal Aal al-Bayt Institute for Islamic Thought, Amman, Jordan. <a href=\"https://www.thestar.com.my/news/nation/2025/10/30/anwar-takes-10th-spot-in-world039s-500-most-influential-muslims-list\">Read full story</a>",
-      "published": "2025-10-30T00:18:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "1ed3c4f2276b83b6af36cb139ae12101a93c42cd",
       "title": "Sources: Consensys, maker of crypto wallet MetaMask, plans to go public, with JPMorgan and Goldman Sachs leading its IPO; Consensys was valued at $7B in 2022 (Lucinda Shen/Axios)",
       "link": "http://www.techmeme.com/251029/p60#a251029p60",
@@ -120,15 +381,6 @@
       "published": "2025-10-30T00:15:02+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "fc26009777acb6595e9e27f176905083311e5db3",
-      "title": "Trump praises Malaysia and Anwar again at APEC Summit",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/30/trump-praises-malaysia-and-anwar-again-at-apec-summit",
-      "summary": "SHAH ALAM: United States President Donald Trump once again showed he has not \"moved on\" as he praised Malaysia and its Prime Minister Datuk Seri Anwar Ibrahim. <a href=\"https://www.thestar.com.my/news/nation/2025/10/30/trump-praises-malaysia-and-anwar-again-at-apec-summit\">Read full story</a>",
-      "published": "2025-10-30T00:12:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "ed6703df765ffea9a8286f06c78d1cb0786991ec",
@@ -185,19 +437,10 @@
       "category": "tech"
     },
     {
-      "id": "e9e82006b7aa7a823ee903c8e352b831de8a239b",
-      "title": "Trump says South Korea has approval to build nuclear-powered submarine",
-      "link": "https://www.thestar.com.my/news/world/2025/10/30/trump-says-south-korea-has-approval-to-build-nuclear-powered-submarine",
-      "summary": "SEOUL/WASHINGTON (Reuters) -U.S. President Donald Trump said on Thursday he has given South Korea approval to build a nuclear-powered submarine, a dramatic move that would admit Seoul to a small club of nations possessing such vessels.    The submarine will be built in a Philadelphia shipyard, where South Korean firms have increased investment, Trump wrote on social media.     The U.S. president, who has been meeting with South Korean President Lee Jae Myung and other regional leaders during his visit, also said Seoul had agreed to buy vast quantities of U.S. oil and gas.    Trump and Lee finalized details of a fraught trade deal at a summit in South Korea on Wednesday.     Lee had also been seeking U.S. permission for South Korea to reprocess nuclear fuel.         NUCLEAR RESTRICTIONS EASING?    Seoul is barred from reprocessing without U.S. consent, under a pact between the countries.    \"I have given them approval to build a Nuclear Powered Submarine, rather than the old fashioned, and far less nimble, diesel powered Submarines that they have now,\" Trump wrote on his Truth Social platform on Thursday.     South Korea's Industry Ministry said its officials had not been involved in any detailed discussions about building the submarines in Philadelphia.    While South Korea has a sophisticated shipbuilding industry, Trump did not spell out where the propulsion technology would come from for a nuclear-powered submarine, which only a handful of countries currently possess.    The U.S. has been working with Australia and Britain on a project for Australia to acquire nuclear-powered submarines involving technology transfers from the United States. The U.S. has so far only shared that technology with Britain, back in the 1950s.    Lee said when he met Trump on Wednesday that allowing South Korea to build several nuclear-powered submarines equipped with conventional weapons would significantly reduce the burden on the U.S. military.    He also asked for Trump's support to make substantial progress on South Korea being allowed to reprocess spent nuclear fuel, or on uranium enrichment, something currently not allowed under the nuclear agreement between the two countries, even though South Korea possesses nuclear reactors to generate power.        APPROVAL RAISES QUESTIONS    Lee's predecessors had wanted to build nuclear-powered submarines, but the U.S. had opposed this idea for decades.    Daryl Kimball, executive director of the Washington-based Arms Control Association, said the issue of South Korea acquiring such submarines \"raises all sorts of questions.\"    \"As with the AUKUS deal, (South Korea) is probably looking for nuclear propulsion services suitable for subs, including the fuel, from the U.S,\" he said.    Kimball said such submarines usually involved the use of highly-enriched uranium and would \"require a very complex new regime of safeguards\" by the International Atomic Energy Agency, which has a key role in implementing the Treaty on the Non-Proliferation of Nuclear Weapons (NPT).    \"It remains technically and militarily unnecessary for South Korea to acquire the technology to extract weapons-usable plutonium from spent fuel or to acquire uranium enrichment capabilities, which can also be used to produce nuclear weapons,\" he said.    \"If the United States seeks to prevent the proliferation of nuclear weapons worldwide, the Trump administration should resist such overtures from allies as strongly as it works to deny adversary access to these dual-use technologies.\"    Jenny Town, who heads 38 North, a Korea-focused research group in Washington, said it was inevitable that South Korean demands for U.S. cooperation on nuclear issues would grow, given recent allegations about Russian technical cooperation to help nuclear-armed North Korea make progress towards acquiring nuclear-powered submarines.    Kim Dong-yup, a North Korea studies professor at Kyungnam University, said the Lee-Trump summit had formalized a \"transaction scheme of security guarantees and economic contributions\" for maintaining the extended deterrence and alliance in exchange for South Korea's increased defense spending and nuclear-powered subs and U.S. investments.     \"In the end, this South Korea-U.S. summit can be summarized in one word: the commercialization of the alliance and the commodification of peace,\" he said. \"The problem is that the balance of that deal was to maximize American interests rather than the autonomy of the Korean Peninsula.\" <a href=\"https://www.thestar.com.my/news/world/2025/10/30/trump-says-south-korea-has-approval-to-build-nuclear-powered-submarine\">Read full story</a>",
-      "published": "2025-10-29T23:27:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "2fa4a544331fec3417585566884c236bb2551d76",
       "title": "Resident Evil Requiem Switch 2 Pro Controller, amiibo, Deluxe Edition, more revealed",
       "link": "https://9to5toys.com/2025/10/29/resident-evil-requiem-switch-2-controller-amiibo/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/RE-Requiem-Switch-2-Pro-Controller.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>As soon as we get through the year, Resident Evil Requiem will quickly become the most anticipated thing in gaming, if it isn’t already, and no matter what platform you want to play it on. Alongside pre-order listings for the new RE9 going live across console and PC, a brand Resident Evil Requiem Nintendo Switch 2 Pro controller has been revealed alongside the announcement of upcoming amiibo and details on the deluxe edition and pre-order bonuses. Pre-orders for all platforms are starting to appear on Amazon. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/29/resident-evil-requiem-switch-2-controller-amiibo/#more-1172128\">more…</a>",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/RE-Requiem-Switch-2-Pro-Controller.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p><strong>Update: </strong>The new <a href=\"https://bestbuycreators.7tiv.net/e1mRN6\">Resident Evil Requiem Switch 2 Pro Controller is now up for pre-order at Best Buy</a>. </p>\n\n\n\n<p>As soon as we get through the year, Resident Evil Requiem will quickly become the most anticipated thing in gaming, if it isn’t already, and no matter what platform you want to play it on. Alongside pre-order listings for the new RE9 going live across console and PC, a brand Resident Evil Requiem Nintendo Switch 2 Pro controller has been revealed alongside the announcement of upcoming amiibo and details on the deluxe edition and pre-order bonuses. Pre-orders for all platforms are starting to appear on Amazon and over at <a href=\"https://bestbuycreators.7tiv.net/mOQnEy\">Best Buy</a>.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/10/29/resident-evil-requiem-switch-2-controller-amiibo/#more-1172128\">more…</a>",
       "published": "2025-10-29T23:21:01+00:00",
       "source": "9to5Toys",
       "category": "deals"
@@ -228,78 +471,6 @@
       "published": "2025-10-29T23:15:39+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "61e496db236cf52c436d26c4023800dbdb7747cc",
-      "title": "Behind the shine: The janitors who kept the Asean Summit smelling clean and running smoothly",
-      "link": "https://www.malaymail.com/news/malaysia/2025/10/30/behind-the-shine-the-janitors-who-kept-the-asean-summit-smelling-clean-and-running-smoothly/196452",
-      "summary": "KUALA LUMPUR, Oct 30 &mdash; As world leaders exchange handshakes and sign deals in the Kuala Lumpur Convention Centre (...",
-      "published": "2025-10-29T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "7deced7fe3e929a70b7d329a3970cf62d81c3067",
-      "title": "From Gandhi’s critics to Modi’s allies: How India’s century-old Hindu nationalist force RSS still shapes politics 100 years on",
-      "link": "https://www.malaymail.com/news/world/2025/10/30/from-gandhis-critics-to-modis-allies-how-indias-century-old-hindu-nationalist-force-rss-still-shapes-politics-100-years-on/196448",
-      "summary": "NAGPUR (India), Oct 30 &mdash; Brandishing bamboo sticks and chanting patriotic hymns, thousands of uniformed men parade...",
-      "published": "2025-10-29T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "651b4bf4cd89a5fd888a7fe7bf2fbeb56493ce3e",
-      "title": "From death row to red carpet: How a US prison found hope through film",
-      "link": "https://www.malaymail.com/news/showbiz/2025/10/30/from-death-row-to-red-carpet-how-a-us-prison-found-hope-through-film/196447",
-      "summary": "SAN QUENTIN (United States), Oct 30 &mdash; Held inside a notorious prison among some of California&rsquo;s most dangero...",
-      "published": "2025-10-29T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "81cabc5edfe0cdc35c3854704f61941b9613c05f",
-      "title": "Bite-proof wetsuits and buzzing drones: How Aussies are fighting fear in shark country",
-      "link": "https://www.malaymail.com/news/life/2025/10/30/bite-proof-wetsuits-and-buzzing-drones-how-aussies-are-fighting-fear-in-shark-country/196446",
-      "summary": "SYDNEY, Oct 30 &mdash; High above Sydney&rsquo;s beaches, drones seek one of the world&rsquo;s deadliest predators, scan...",
-      "published": "2025-10-29T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "9027eb98bae7709474010c38b8bb80d1cc1ab63e",
-      "title": "Toilets locked, windows sealed: Russia’s only train through Nato territory like a Cold War throwback",
-      "link": "https://www.malaymail.com/news/world/2025/10/30/toilets-locked-windows-sealed-russias-only-train-through-nato-territory-like-a-cold-war-throwback/196442",
-      "summary": "KALINIGRAD (Russia), Oct 30 &mdash; As the Moscow-Kaliningrad train approached Lithuania, the car attendant beckoned to...",
-      "published": "2025-10-29T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "f7143440e214622cdd01c6bf0d2d469afd0197ca",
-      "title": "INTERACTIVE: Expand B40 health schemes to M40 households, say stakeholders",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/30/interactive-expand-b40-health-schemes-to-m40-households-say-stakeholders",
-      "summary": "<a href=\"https://www.thestar.com.my/news/nation/2025/10/30/interactive-expand-b40-health-schemes-to-m40-households-say-stakeholders\">Read full story</a>",
-      "published": "2025-10-29T23:00:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "f783be0f73b3125c28fe8c17aea475373303e99f",
-      "title": "INTERACTIVE: Malaysia’s average household health insurance spending surges 283%",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/30/interactive-malaysias-average-household-health-insurance-spending-surges-283",
-      "summary": "<a href=\"https://www.thestar.com.my/news/nation/2025/10/30/interactive-malaysias-average-household-health-insurance-spending-surges-283\">Read full story</a>",
-      "published": "2025-10-29T23:00:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "d7e3e5d5eaabba73e3d9ce082e0f3ac3f4aae465",
-      "title": "INTERACTIVE: Malaysia&#039;s medical inflation to rise to 16% in 2026, says Aon",
-      "link": "https://www.thestar.com.my/news/nation/2025/10/30/interactive-malaysia039s-medical-inflation-to-rise-to-16-in-2026-says-aon",
-      "summary": "<a href=\"https://www.thestar.com.my/news/nation/2025/10/30/interactive-malaysia039s-medical-inflation-to-rise-to-16-in-2026-says-aon\">Read full story</a>",
-      "published": "2025-10-29T23:00:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "c96a7ea55aaa9b9d523c96285ec2fec275f77425",
@@ -336,24 +507,6 @@
       "published": "2025-10-29T22:15:01+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "40bae1cefba9a99af4a329f3cb43a8e2a8881c73",
-      "title": "In Hurricane Melissa&#039;s wake, Jamaican expats can only wait and pray",
-      "link": "https://www.thestar.com.my/news/world/2025/10/30/in-hurricane-melissa039s-wake-jamaican-expats-can-only-wait-and-pray",
-      "summary": "NEW YORK (Reuters) -New York chef Kemoy Gordon last spoke to his cousin in Jamaica on Monday, as his family prepared to leave their beachside home on the western part of the Caribbean island ahead of Hurricane Melissa. That was the last time he made contact with them. <a href=\"https://www.thestar.com.my/news/world/2025/10/30/in-hurricane-melissa039s-wake-jamaican-expats-can-only-wait-and-pray\">Read full story</a>",
-      "published": "2025-10-29T22:12:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "acbb2cbea7eaba624701f84cadea363b55aad181",
-      "title": "US President Trump, New Zealand&#039;s Luxon discuss ties in South Korea meeting",
-      "link": "https://www.thestar.com.my/news/world/2025/10/30/us-president-trump-new-zealand039s-luxon-discuss-ties-in-south-korea-meeting",
-      "summary": "WELLINGTON (Reuters) -New Zealand Prime Minister Christopher Luxon had his first in-person meeting with U.S. President Donald Trump late on Wednesday in South Korea, ahead of a dinner hosted by South Korean President Lee Jae Myung. <a href=\"https://www.thestar.com.my/news/world/2025/10/30/us-president-trump-new-zealand039s-luxon-discuss-ties-in-south-korea-meeting\">Read full story</a>",
-      "published": "2025-10-29T22:12:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "c93cae54f08c86b0bbddc8a42d8c6ae652cc621b",
@@ -545,24 +698,6 @@
       "category": "tech"
     },
     {
-      "id": "347d39ed828b72b5deffdd7ce804a44a68b83914",
-      "title": "Meta reports Reality Labs Q3 revenue of $470M vs. $316M est., and a $4.4B operating loss vs. $5.1B est.; Reality Labs has lost $70B+ since 2020 (Jonathan Vanian/CNBC)",
-      "link": "http://www.techmeme.com/251029/p49#a251029p49",
-      "summary": "<a href=\"https://www.cnbc.com/2025/10/29/metas-reality-labs-posts-4point4-billion-loss-in-third-quarter.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251029/i49.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251029/p49#a251029p49\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jonathan Vanian / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2025/10/29/metas-reality-labs-posts-4point4-billion-loss-in-third-quarter.html\">Meta reports Reality Labs Q3 revenue of $470M vs. $316M est., and a $4.4B operating loss vs. $5.1B est.; Reality Labs has lost $70B+ since 2020</a></b></span>&nbsp; &mdash;&nbsp; Meta continues to sink money into the metaverse, anchored by virtual reality and augmented reality technologies.</p>",
-      "published": "2025-10-29T20:40:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "17691185d4e2856505f9eb3fe0a11942d7a130b6",
-      "title": "Meta recorded a one-time income tax charge of $15.93B related to Trump's Big Beautiful Bill and expects 2025 capex of $70B-$72B, up from a $66B-$72B forecast (Jaspreet Singh/Reuters)",
-      "link": "http://www.techmeme.com/251029/p48#a251029p48",
-      "summary": "<a href=\"https://www.reuters.com/business/metas-profit-hit-by-16-billion-one-time-tax-charge-2025-10-29/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251029/i48.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251029/p48#a251029p48\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jaspreet Singh / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/business/metas-profit-hit-by-16-billion-one-time-tax-charge-2025-10-29/\">Meta recorded a one-time income tax charge of $15.93B related to Trump's Big Beautiful Bill and expects 2025 capex of $70B-$72B, up from a $66B-$72B forecast</a></b></span>&nbsp; &mdash;&nbsp; Meta (META.O) recorded a nearly $16 billion one-time charge in the third quarter related to U.S. President Donald Trump's Big Beautiful Bill &hellip; </p>",
-      "published": "2025-10-29T20:35:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "102d37626b2f7ff9b56b2844d53d10a8b3a4ff73",
       "title": "Just $10.50 Prime shipped will bring home this 60-in-1 screwdriver kit (30% off)",
       "link": "https://9to5toys.com/2025/10/29/oria-60-in-1-precision-screwdriver-kit-7/",
@@ -578,15 +713,6 @@
       "summary": "If you’ve been holding off on getting a new iPhone, now’s the perfect time to size up your options. Apple recently launched its 2025 iPhone lineup, which includes the iPhone 17, 17 Pro, 17 Pro Max, and a brand-new model, the ultra-thin iPhone Air. These new phones offer a number of new features over their [&#8230;]",
       "published": "2025-10-29T20:32:24+00:00",
       "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "d3b12380439c47f0ddfbedd30a7c080f71212317",
-      "title": "Alphabet reports YouTube's Q3 ad revenue rose 15% YoY to $10.26B, vs. $10.01B est., and Google's advertising revenue reached $74.18B, up from $65.85B a year ago (Todd Spangler/Variety)",
-      "link": "http://www.techmeme.com/251029/p47#a251029p47",
-      "summary": "<a href=\"https://variety.com/2025/digital/news/youtube-ad-sales-q3-2025-alphabet-google-earnings-1236564829/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251029/i47.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251029/p47#a251029p47\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Todd Spangler / <a href=\"http://www.variety.com/\">Variety</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://variety.com/2025/digital/news/youtube-ad-sales-q3-2025-alphabet-google-earnings-1236564829/\">Alphabet reports YouTube's Q3 ad revenue rose 15% YoY to $10.26B, vs. $10.01B est., and Google's advertising revenue reached $74.18B, up from $65.85B a year ago</a></b></span>&nbsp; &mdash;&nbsp; YouTube, the internet's biggest video streaming platform, continues to flex its muscles as an advertising powerhouse &hellip; </p>",
-      "published": "2025-10-29T20:20:01+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -932,15 +1058,6 @@
       "category": "tech"
     },
     {
-      "id": "3a0fbf5fa2757898265dca9051b13a6fd55e7ad3",
-      "title": "Etsy names former head of Depop, Kruti Patel Goyal, as its new CEO",
-      "link": "https://techcrunch.com/2025/10/29/etsy-names-former-head-of-depop-kruti-patel-goyal-as-its-new-ceo/",
-      "summary": "Kruti Patel Goyal is replacing Etsy's long-time CEO, Josh Silverman, who is stepping down by the end of the year.",
-      "published": "2025-10-29T15:04:17+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "6d124cbb9cc98b7d91450c2d240655dc75269bed",
       "title": "Malaysia Airlines updates Enrich programme for 2026 with more rewards and higher Elite Status requirements",
       "link": "https://soyacincau.com/2025/10/29/malaysia-airlines-enrich-2026-elite-points-miles-status/",
@@ -995,51 +1112,6 @@
       "category": "tech"
     },
     {
-      "id": "d4f9589be5f45ad9cceaadda4400ed656b5f60b8",
-      "title": "Wrong Caesar, mate: 140 Aussie students hit by ancient history mix-up",
-      "link": "https://www.malaymail.com/news/world/2025/10/29/wrong-caesar-mate-140-aussie-students-hit-by-ancient-history-mix-up/196444",
-      "summary": "SYDNEY, Oct 29 &mdash; They came, they saw, and they squandered a year&rsquo;s worth of lessons on Roman history.Austral...",
-      "published": "2025-10-29T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "5ae884fbbe5e9276a8385f6b82ba9c5fa928bb65",
-      "title": "All eyes on Geert Wilders as Dutch vote in tight race testing far right’s strength for Europe",
-      "link": "https://www.malaymail.com/news/world/2025/10/29/all-eyes-on-geert-wilders-as-dutch-vote-in-tight-race-testing-far-rights-strength-for-europe/196441",
-      "summary": "THE HAGUE Oct 29 &mdash; The Dutch headed to the polls Wednesday for a snap election seen as a litmus test for the stren...",
-      "published": "2025-10-29T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "681d2c96409b42d6e3b028830579dec58f6407dd",
-      "title": "‘When it’s yes, it must be a real yes’: After Gisele Pelicot, France set to redefine rape as any non-consensual act",
-      "link": "https://www.malaymail.com/news/world/2025/10/29/when-its-yes-it-must-be-a-real-yes-after-gisele-pelicot-france-set-to-redefine-rape-as-any-non-consensual-act/196443",
-      "summary": "PARIS, Oct 29 &mdash; French senators are on Wednesday expected to back a bill defining rape as any non-consensual sexua...",
-      "published": "2025-10-29T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "4349ab29e6d9d9ce3cb74789230fb72c0790f4d6",
-      "title": "Jet lag? Not a problem as Japan plans one hour ‘space shortcut’ between Tokyo and the US",
-      "link": "https://www.malaymail.com/news/world/2025/10/29/jet-lag-not-a-problem-as-japan-plans-one-hour-space-shortcut-between-tokyo-and-the-us/196420",
-      "summary": "TOKYO, Oct 29 &mdash; A Japanese travel agency announced on Tuesday that it will launch a point-to-point transport servi...",
-      "published": "2025-10-29T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "bdfdc8fa2fc98c6c0d448c1a74e2f53ea6ce3668",
-      "title": "Dutch volleyball player, convicted rapist, denied Australia visa",
-      "link": "https://www.malaymail.com/news/sports/2025/10/29/dutch-volleyball-player-convicted-rapist-denied-australia-visa/196293",
-      "summary": "THE HAGUE, Oct 29 &mdash; A Dutch volleyball player convicted in 2016 of raping an underaged girl has been denied a visa...",
-      "published": "2025-10-29T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "37706dd6535207e6e9722c04b9ff169664bd2471",
       "title": "Sudan's military expels top UN food aid officials as conflict escalates",
       "link": "https://www.bbc.com/news/articles/c5yp2v4n1d5o?at_medium=RSS&at_campaign=rss",
@@ -1058,15 +1130,6 @@
       "category": "world"
     },
     {
-      "id": "9b080368aa468b4b6ec9f24b6b0cd3be4c9c8078",
-      "title": "Tariffs, chips and TikTok: What’s at stake in Trump–Xi meeting in South Korea tomorrow",
-      "link": "https://www.malaymail.com/news/world/2025/10/29/tariffs-chips-and-tiktok-whats-at-stake-in-trumpxi-meeting-in-south-korea-tomorrow/196504",
-      "summary": "GYEONGJU (South Korea), Oct 29 &mdash; US President Donald Trump and his Chinese counterpart Xi Jinping are set to meet...",
-      "published": "2025-10-29T12:32:07+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "d70bfabb50fac0dfb4d5197a00d6e425d781c061",
       "title": "NASA races to keep Artemis II on schedule, even when workers aren’t being paid",
       "link": "https://arstechnica.com/space/2025/10/nasa-races-to-keep-artemis-ii-on-schedule-even-when-workers-arent-being-paid/",
@@ -1082,42 +1145,6 @@
       "summary": "You don’t have to spend premium money to get a capable tablet anymore. Around RM2,000 now gets you solid options for work, study, sketching, or entertainment, complete with large displays, decent processors, and surprisingly refined designs. If you’re shopping within this price range, here are five tablets in Malaysia that deliver the best value right [&#8230;]",
       "published": "2025-10-29T12:22:54+00:00",
       "source": "SoyaCincau",
-      "category": "malaysia"
-    },
-    {
-      "id": "567270ee518a34812865d93bb502f7dbbf7e7c33",
-      "title": "Govt plans Malaysian Shariah Judiciary Commission to boost judges’ status, Parliament told",
-      "link": "https://www.malaymail.com/news/malaysia/2025/10/29/govt-plans-malaysian-shariah-judiciary-commission-to-boost-judges-status-parliament-told/196503",
-      "summary": "KUALA LUMPUR, Oct 29 &mdash; The government is working to strengthen the Shariah judicial system and elevate the status...",
-      "published": "2025-10-29T12:17:08+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "30601215e0c5216e4352a6e8b1b70fd5b076d315",
-      "title": "Witness testifies mother-daughter bond was ‘good’ at Zara Qairina inquest",
-      "link": "https://www.malaymail.com/news/malaysia/2025/10/29/witness-testifies-mother-daughter-bond-was-good-at-zara-qairina-inquest/196502",
-      "summary": "KOTA KINABALU, Oct 29 &mdash; The relationship between Zara Qairina Mahathir and her mother, Noraidah Lamat, was good, b...",
-      "published": "2025-10-29T12:10:26+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "39495d188a2976ee4d16f0b2264324b135be066d",
-      "title": "Malaysia Open 2026 Early Bird tickets drop Nov 3 — see world badminton elite ‘live’ at Bukit Jalil",
-      "link": "https://www.malaymail.com/news/sports/2025/10/29/malaysia-open-2026-early-bird-tickets-drop-nov-3-see-world-badminton-elite-live-at-bukit-jalil/196501",
-      "summary": "KUALA LUMPUR, Oct 29 &mdash; The Malaysia Open remains one of the nation&rsquo;s most popular annual sporting events wit...",
-      "published": "2025-10-29T12:04:37+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "813521a1e83cb66b0289f4d5028b81864e235255",
-      "title": "Sarawak and Brunei boost trade to RM3.39b in 2024, eye joint tourism and SME growth",
-      "link": "https://www.malaymail.com/news/malaysia/2025/10/29/sarawak-and-brunei-boost-trade-to-rm339b-in-2024-eye-joint-tourism-and-sme-growth/196500",
-      "summary": "MIRI, Oct 29 &mdash; Trade between Sarawak and Brunei reached RM3.39 billion in 2024, reflecting the close cooperation a...",
-      "published": "2025-10-29T11:51:20+00:00",
-      "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
@@ -1211,33 +1238,6 @@
       "category": "deals"
     },
     {
-      "id": "589836cd5ab6860f9aa3d1f3ba7857927d92e9a2",
-      "title": "Leapmotor B10 Spotted In Malaysia Hinting Possible Local Debut",
-      "link": "https://www.lowyat.net/2025/371412/leapmotor-b10-spotted-in-malaysia-hinting-possible-local-debut/",
-      "summary": "<p>The Leapmotor B10, which was recently launched in Thailand, has been sighted in Malaysia. This came to light through a posting by Sobri Sunan on the Malaysian Electric Vehicle Owners Club (myEVOC) Facebook page. The image showcased a camouflaged model of the EV SUV parked in front of a Benelli Best Shop outlet in Nilai, [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/371412/leapmotor-b10-spotted-in-malaysia-hinting-possible-local-debut/\">Leapmotor B10 Spotted In Malaysia Hinting Possible Local Debut</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2025-10-29T07:45:59+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
-      "id": "56af481e745d0f01307c62d6540f953f08ff0b17",
-      "title": "Maybank’s MAE App Celebrates 5 Years With Special 5% p.a. Returns Promotion",
-      "link": "https://www.lowyat.net/2025/371403/maybanks-mae-app-celebrates-5-years-with-special-promotion/",
-      "summary": "<p>Maybank’s digital banking and wallet platform MAE is celebrating its fifth year of operation with a series of special promotions and upcoming feature updates. The bank revealed that nine out of 10 MAE users actively use the app daily for transactions, highlighting its strong adoption among Malaysians. According to Maybank, its app now has 10.7 [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/371403/maybanks-mae-app-celebrates-5-years-with-special-promotion/\">Maybank’s MAE App Celebrates 5 Years With Special 5% p.a. Returns Promotion</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2025-10-29T07:26:37+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
-      "id": "a1fe65e2861c51568afbed1ee5491a88cf46505e",
-      "title": "Samsung May Hike Galaxy Phone Prices Due To DRAM Shortage",
-      "link": "https://www.lowyat.net/2025/371399/samsung-galaxy-phone-price-hike/",
-      "summary": "<p>If you’ve been holding off on upgrading to a new phone, you may want to rethink that decision as the devices could be getting pricier pretty soon. Memory chips, particularly DRAM modules, are becoming more expensive, which in turn will lead to costlier electronics. And despite being a major memory manufacturer, Samsung might increase the [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/371399/samsung-galaxy-phone-price-hike/\">Samsung May Hike Galaxy Phone Prices Due To DRAM Shortage</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2025-10-29T07:04:16+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
       "id": "4e98649c344315ea070b893a9c321ff21b04b835",
       "title": "Nigerian Nobel laureate Wole Soyinka says US revoked his visa",
       "link": "https://www.bbc.com/news/articles/c24lzd32yjeo?at_medium=RSS&at_campaign=rss",
@@ -1299,6 +1299,15 @@
       "published": "2025-10-28T22:27:22+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "b3e6685bdf4709807f9c7830fd304110038dbb0a",
+      "title": "Lightning",
+      "link": "https://www.producthunt.com/products/lightning-ai-studio",
+      "summary": "<p>\n            AI code editor for PyTorch development on GPU workspaces\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lightning-ai-studio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1032010?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-10-28T21:38:28+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "5de6c4461e799e68709626d64624095232cbcc2c",
@@ -1558,15 +1567,6 @@
       "link": "https://www.producthunt.com/products/well-embed",
       "summary": "<p>\n            When startups Financial data meets business intelligence\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/well-embed?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1029215?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-21T11:43:14+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "cfb6f606978d63711231ddf497078c9017c0aed7",
-      "title": "Spiral",
-      "link": "https://www.producthunt.com/products/spiral-8",
-      "summary": "<p>\n            The AI writing partner with taste \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/spiral-8?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1028978?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-20T23:53:05+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
