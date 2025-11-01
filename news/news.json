@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2025-11-01T17:10:49.091700+00:00",
+  "generatedAt": "2025-11-01T18:17:56.107166+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "0365d04581415ee7a7935b4326ebc670072a7e5d",
+      "title": "Two more charged over Louvre jewellery heist",
+      "link": "https://www.bbc.com/news/articles/cvgkk1mkg0po?at_medium=RSS&at_campaign=rss",
+      "summary": "A 38-year-old woman and a man, 37, appeared before a French magistrate over the museum theft that shocked the world.",
+      "published": "2025-11-01T17:32:16+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "8e295fdfc30edfbee3c80a3e8d5cef1fc7519914",
       "title": "Google’s Pixel Watch 3 and Anker’s two-headed USB-C cable are our favorite deals this week",
@@ -14,6 +23,15 @@
       "category": "tech"
     },
     {
+      "id": "dfc1bb6e471fb9ad55512989703dacd5ff982111",
+      "title": "UK aid for Hurricane Melissa reaches Jamaica as Britons to be evacuated",
+      "link": "https://www.bbc.com/news/articles/cvg441qyv2xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Foreign Secretary Yvette Cooper has said the UK's first chartered flight from Jamaica to the UK will depart late on Saturday.",
+      "published": "2025-11-01T17:06:11+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "e3907b5c03736bad2e318552a74adc9fb79824d2",
       "title": "Coinbase CEO Brian Armstrong trolls the prediction markets",
       "link": "https://techcrunch.com/2025/11/01/coinbase-ceo-brian-armstrong-trolls-the-prediction-markets/",
@@ -21,15 +39,6 @@
       "published": "2025-11-01T16:59:08+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "0365d04581415ee7a7935b4326ebc670072a7e5d",
-      "title": "Two more charged over Louvre jewellery heist",
-      "link": "https://www.bbc.com/news/articles/cvgkk1mkg0po?at_medium=RSS&at_campaign=rss",
-      "summary": "A 38-year-old woman and another person appeared before a French magistrate over the museum theft that shocked the world.",
-      "published": "2025-11-01T16:56:17+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "c9aacfdb59760341c72e069aa5ab5418fe417a28",
@@ -47,6 +56,15 @@
       "summary": "Ayaneo is best known for its retro gaming handhelds, but the company has now confirmed its first phone will be coming soon. Ayaneo briefly teased that it was working on a phone back in August during the event where it unveiled the dual-screen Pocket DS. Of course, many of the company’s gaming handhelds run a [&#8230;]",
       "published": "2025-11-01T16:43:17+00:00",
       "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "a6a241e46fa0953a9c1538575dde52dec47b255c",
+      "title": "Research roundup: 6 cool science stories we almost missed",
+      "link": "https://arstechnica.com/science/2025/11/research-roundup-6-cool-science-stories-we-almost-missed-3/",
+      "summary": "Also: the science of regular vs. gluten-free spaghetti, catching high-speed snake bites in action, etc.",
+      "published": "2025-11-01T16:38:09+00:00",
+      "source": "Ars Technica - All content",
       "category": "tech"
     },
     {
@@ -1301,15 +1319,6 @@
       "category": "deals"
     },
     {
-      "id": "39cd0e150eb076d9b05510476cbc10f4d4097e2d",
-      "title": "India-US sign 10-year defence pact amid tariff turmoil",
-      "link": "https://www.bbc.com/news/articles/c5y0qz701xeo?at_medium=RSS&at_campaign=rss",
-      "summary": "This comes as the two countries try to close a trade deal and tide over tense ties after Trump's 50% tariffs on India.",
-      "published": "2025-10-31T08:02:49+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "0ab10bf7c90bec8b261b093dfeab06cc9d3994f9",
       "title": "Scenes from TechCrunch Disrupt 2025",
       "link": "https://techcrunch.com/2025/10/30/scenes-from-techcrunch-disrupt/",
@@ -1326,15 +1335,6 @@
       "published": "2025-10-31T03:56:44+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "02c0e43fcc4452f7f9387a79c238f3cc888adf70",
-      "title": "Calley Means is out of the White House; Casey Means misses Senate hearing",
-      "link": "https://arstechnica.com/health/2025/10/the-means-siblings-darlings-of-maha-both-out-of-the-trump-admin-for-now/",
-      "summary": "Casey Means missed hearing on surgeon general nomination after going into labor.",
-      "published": "2025-10-30T22:01:59+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
     },
     {
       "id": "926c879a7f56e7b824707c5f2a97722eb80ec546",
@@ -1373,15 +1373,6 @@
       "category": "malaysia"
     },
     {
-      "id": "4b48b2703f4b3db2dd84afa959f098d27399e16f",
-      "title": "Halloween AI Photo Booth",
-      "link": "https://www.producthunt.com/products/halloween-office-party",
-      "summary": "<p>\n            Hop in the booth and dress up with AI to show your costume\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/halloween-office-party?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1032620?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-30T14:12:13+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "e94ead499f3fc6368b08c531e5abd1b2a7efa555",
       "title": "Realme 15T launches in Malaysia with songket-inspired design, 50MP cameras, 7,000mAh battery",
       "link": "https://soyacincau.com/2025/10/30/realme-15t-malaysia-price-specs-availability/",
@@ -1416,6 +1407,15 @@
       "published": "2025-10-30T07:06:23+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "f3d45a66b4f890ebd4515bdb56a05bedf67145a0",
+      "title": "Blur It",
+      "link": "https://www.producthunt.com/products/blur-it-5-0",
+      "summary": "<p>\n            Blur Sensitive Info for Demos & Sharing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/blur-it-5-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1032460?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-10-30T05:29:47+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "e2667fc1f3835fc42ef940df09d27dabcf5bdd23",
@@ -1553,20 +1553,20 @@
       "category": "events"
     },
     {
+      "id": "b788d8cd715cc3f4f13812e540e2102556e27df9",
+      "title": "LunaRoute",
+      "link": "https://www.producthunt.com/products/lunaroute",
+      "summary": "<p>\n            High-perf, secure local proxy for AI coding assistants\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lunaroute?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1029685?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-10-22T16:13:13+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "fe81a2d414183c6402181b49aa309767b760e01e",
       "title": "Espresso v25.10",
       "link": "https://www.producthunt.com/products/espresso-for-mac-v3",
       "summary": "<p>\n            The web editor for Mac with next-gen intelligence\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/espresso-for-mac-v3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1029398?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-21T21:56:00+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "8bd6aec33e245d95ca9a7920d73a877e559c0343",
-      "title": "Postiz",
-      "link": "https://www.producthunt.com/products/postiz",
-      "summary": "<p>\n            AI Agents and MCP to schedule social posts to 20+ channels\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/postiz?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1028251?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-19T06:20:57+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
