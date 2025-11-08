@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2025-11-08T20:13:55.934138+00:00",
+  "generatedAt": "2025-11-08T21:10:58.560790+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "f21454cbc483cab933613f98bdffd50b47d988a7",
+      "title": "Is Wall Street losing faith in AI?",
+      "link": "https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/",
+      "summary": "A rough week for tech stocks might signal a loss of investor confidence in artificial intelligence.",
+      "published": "2025-11-08T20:53:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "cfeb12b0f333f78cf4483e8d583f29c3fbb49131",
       "title": "Interview: Bahrain targets China among key tourism markets -- minister",
@@ -1346,15 +1355,6 @@
       "category": "tech"
     },
     {
-      "id": "0902075b825d7ad361f3d0b5f975901db712f0e7",
-      "title": "Grand Theft Auto VI is delayed — again",
-      "link": "https://techcrunch.com/2025/11/06/grand-theft-auto-vi-is-delayed-again/",
-      "summary": "Perhaps one of the most anticipated video games of all time, GTA VI is now slated for a November 19, 2026, release.",
-      "published": "2025-11-06T22:02:24+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "36369c2378ae53f6fba50e91d5fdebd2c540ef29",
       "title": "GTA Radio",
       "link": "https://www.producthunt.com/products/gta-radio-2",
@@ -1526,11 +1526,11 @@
       "category": "malaysia"
     },
     {
-      "id": "118b6317c77ba5f683d1e52548314fff1583cb1e",
-      "title": "NocoBase 2.0",
-      "link": "https://www.producthunt.com/products/nocobase",
-      "summary": "<p>\n            Model your data, then build apps with blocks and actions\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nocobase?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1034260?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-11-04T08:41:03+00:00",
+      "id": "d522077fdae6e06ef0cfa9498c253b9138b6f038",
+      "title": "MyClone",
+      "link": "https://www.producthunt.com/products/myclone",
+      "summary": "<p>\n            AI Clone that scales your expertise\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/myclone?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1033766?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-03T02:30:46+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
