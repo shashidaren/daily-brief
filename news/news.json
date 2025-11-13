@@ -1,9 +1,144 @@
 {
-  "generatedAt": "2025-11-13T13:28:51.717508+00:00",
+  "generatedAt": "2025-11-13T14:15:24.899207+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "51c37a8fe5e4f28a16be9027a5e46894fb71f5d7",
+      "title": "The long-delayed Analogue 3D is shipping later this month",
+      "link": "https://www.theverge.com/news/819903/analogue-3d-nintendo-64-console-ship-date-november-18",
+      "summary": "First announced in October 2023 with an expected release sometime in 2024, the Analogue 3D is finally shipping on November 18th following repeated delays. The console is Analogue’s reimagined and upgraded version of the Nintendo 64 with 4K output and full compatibility with original N64 cartridges from every region, including both PAL and NTSC versions. [&#8230;]",
+      "published": "2025-11-13T14:09:54+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "bb5cd5fcd91959cebfad49495416cc80df61b066",
+      "title": "US calls for international action to cut weapons supply to Sudan paramilitaries",
+      "link": "https://www.bbc.com/news/articles/c17p1nwy7q8o?at_medium=RSS&at_campaign=rss",
+      "summary": "\"They're committing acts of sexual violence and atrocities,\" says the US secretary of state, \"and it needs to end immediately\".",
+      "published": "2025-11-13T14:07:32+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "f6f2c10db9358d591ca3958f5a72d2050293cf73",
+      "title": "Dresden-based chip startup Ferroelectric Memory raised €100M, including €77M equity led by HV Capital and DTCF, to commercialize energy-saving memory chips (Christina Kyriasoglou/Bloomberg)",
+      "link": "http://www.techmeme.com/251113/p24#a251113p24",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-11-13/memory-chip-startup-raises-100-million-for-energy-saving-tech\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251113/i24.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251113/p24#a251113p24\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Christina Kyriasoglou / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-11-13/memory-chip-startup-raises-100-million-for-energy-saving-tech\">Dresden-based chip startup Ferroelectric Memory raised &euro;100M, including &euro;77M equity led by HV Capital and DTCF, to commercialize energy-saving memory chips</a></b></span>&nbsp; &mdash;&nbsp; German startup Ferroelectric Memory GmbH has raised &euro;100 million ($116 million) in investor financing and subsidies to commercialize energy-saving memory chips.</p>",
+      "published": "2025-11-13T14:05:06+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "ff30a1a08513a52ae186e18d14203de3d865d0d5",
+      "title": "Spotify starts rolling out Recaps, a new AI feature for audiobooks that summarizes what users have listened to so far, in beta on iOS (Elissa Welle/The Verge)",
+      "link": "http://www.techmeme.com/251113/p23#a251113p23",
+      "summary": "<a href=\"https://www.theverge.com/news/819476/spotify-audiobook-ai-recaps-short-summary\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251113/i23.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251113/p23#a251113p23\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Elissa Welle / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/news/819476/spotify-audiobook-ai-recaps-short-summary\">Spotify starts rolling out Recaps, a new AI feature for audiobooks that summarizes what users have listened to so far, in beta on iOS</a></b></span>&nbsp; &mdash;&nbsp; &#65279;The Recap button will show up automatically on some English-language audiobooks in the iOS app. &hellip; Spotify is launching a new AI feature &hellip; </p>",
+      "published": "2025-11-13T14:01:17+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "7f1e778c89164da80b6de2c2a5f46e6eb9c66c9d",
+      "title": "Google augments AI shopping with conversational search, agentic checkout and an AI that calls stores for you",
+      "link": "https://techcrunch.com/2025/11/13/google-expands-ai-shopping-with-conversational-search-agentic-checkout-and-an-ai-that-calls-stores-for-you/",
+      "summary": "Google is expanding AI shopping with conversational search, agentic checkout and an AI that calls stores for you about local inventory.",
+      "published": "2025-11-13T14:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "3efa43d0efb341b252a167f7d5ffa14952ba2cda",
+      "title": "Magic: The Gathering&#8217;s future looks like Fortnite, and fans are split",
+      "link": "https://www.theverge.com/report/819098/magic-the-gathering-universes-beyond-avatar-final-fantasy-spider-man",
+      "summary": "Over the last five years, Magic: The Gathering games have gotten a bit strange. Cards featuring characters from Final Fantasy, Spider-Man, and, in a few weeks, Avatar: The Last Airbender are starting to show up with increasing frequency, making a typical Friday Night Magic game look more like a match in Fortnite. For some, this [&#8230;]",
+      "published": "2025-11-13T14:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "27a7c7fa5a8b1c3d8f70123c0f1d1e3887935535",
+      "title": "Google will let users call stores, browse products, and check out using AI",
+      "link": "https://www.theverge.com/news/819431/google-shopping-ai-gemini-agentic-checkout-calling",
+      "summary": "Google is infusing artificial intelligence into just about every part of how people shop online — including having an AI tool call local stores on a human’s behalf and purchase items automatically. Beginning Thursday (and ahead of the holiday shopping season) Google users in the US will have access to a slew of new AI [&#8230;]",
+      "published": "2025-11-13T14:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "64b15271dcb819ea24e2c8dfbbcb563274f0c5d1",
+      "title": "Apple’s Godzilla show Monarch is back in February",
+      "link": "https://www.theverge.com/entertainment/819523/monarch-legacy-of-monsters-season-2-apple-tv-date-trailer",
+      "summary": "It's been a few years, but the Titans are about to stomp their way back onto Apple TV. The streamer just announced that Monarch: Legacy of Monsters will return for season 2 on February 27th. The new season will span 10 episodes. Monarch initially premiered back in 2023, so it's been a bit of a [&#8230;]",
+      "published": "2025-11-13T14:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "61ccab8c663496652115751daaca7727673e7fb2",
+      "title": "Coding assistant Cursor raises $2.3bn five months after its previous round",
+      "link": "https://techcrunch.com/2025/11/13/coding-assistant-cursor-raises-2-3bn-five-months-after-its-previous-round/",
+      "summary": "Cursor plans to use the capital to continue developing Composer, the AI model the vibe coding startup released in October.",
+      "published": "2025-11-13T13:58:44+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "513ed1de53e393d10c6a3325135a36ba3d9e2dc9",
+      "title": "National e-Mobility Service Platform is a go: A singular platform to unite EV chargers in Malaysia",
+      "link": "https://soyacincau.com/2025/11/13/national-e-mobility-service-platform-unify-malaysia-ev-infra/",
+      "summary": "The government has approved the development of the e-Mobility Service Platform (eMSP), which will unite the EV charging infrastructure in Malaysia. This was revealed by the Prime Minister Anwar Ibrahim via social media. The decision was made during the National Energy Council meeting this week. Aside from eMSP, the meeting has also discussed the Natural [&#8230;]",
+      "published": "2025-11-13T13:55:33+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "f89672edef269a1fb288099ba215e139502ca7d2",
+      "title": "Land a current-gen 256GB Samsung Galaxy Tab at $200 with this early Black Friday offer ($120 off)",
+      "link": "https://9to5toys.com/2025/11/13/256gb-samsung-galaxy-tab-black-friday/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2024/05/Samsung-Galaxy-Tab-A9.jpg?quality=82&#038;strip=all&#038;w=1451\" /></div><p>We recently spotted Samsung’s most affordable current-generation Galaxy tab dropping back down to the $149 Prime Day price over at Amazon (it has now jumped up to $160), but Samsung is now offering an arguably much better deal on the <a href=\"https://howl.link/t1x2uw1p60hny\">upgraded 256GB model Galaxy Tab A9+ at <strong>$120 off</strong></a> the list price. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/11/13/256gb-samsung-galaxy-tab-black-friday/#more-1175630\">more…</a>",
+      "published": "2025-11-13T13:51:05+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "79e42a0f5baa90cc3479dbc72fdaa4ab5bea96fc",
+      "title": "EU funnels fresh money to Ukraine for Naftogaz",
+      "link": "https://www.thestar.com.my/news/world/2025/11/13/eu-funnels-fresh-money-to-ukraine-for-naftogaz",
+      "summary": "WARSAW (Reuters) -Europe's top development banks and Ukrainian energy firm Naftogaz signed a deal on Thursday to provide hundreds of millions of euros to secure Ukraine's natural gas supply amid the ongoing attacks on its infrastructure by Russia. <a href=\"https://www.thestar.com.my/news/world/2025/11/13/eu-funnels-fresh-money-to-ukraine-for-naftogaz\">Read full story</a>",
+      "published": "2025-11-13T13:46:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "da57ba7ea0edf272924cbd37a0019b78375b098a",
+      "title": "KL Mayor Maimunah to be redeployed to PETRONAS",
+      "link": "https://www.thestar.com.my/metro/metro-news/2025/11/13/kl-mayor-maimunah-to-be-redeployed-to-petronas",
+      "summary": "KUALA LUMPUR: Kuala Lumpur Mayor Datuk Seri Dr Maimunah Mohd Sharif is set to leave Kuala Lumpur City Hall (DBKL) earlier than expected after the Yang di-Pertuan Agong consented to shorten her tenure by nine months to facilitate her move to a new role in PETRONAS. <a href=\"https://www.thestar.com.my/metro/metro-news/2025/11/13/kl-mayor-maimunah-to-be-redeployed-to-petronas\">Read full story</a>",
+      "published": "2025-11-13T13:33:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "33eff74249566e6df7266c9eedd79b58a41e441f",
+      "title": "Spotify adds a new, less repetitive shuffle, plus audiobook recaps",
+      "link": "https://techcrunch.com/2025/11/13/spotify-adds-a-new-less-repetitive-shuffle-plus-audiobook-recaps/",
+      "summary": "Spotify's new default shuffle option will queue up fewer songs from your recent listening history",
+      "published": "2025-11-13T13:30:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "9654bbb5b5b3b2f3dbabc3a507e70c6a8e317bad",
+      "title": "Spotify’s new audiobook recap feature uses AI to remind you of the story so far",
+      "link": "https://www.theverge.com/news/819476/spotify-audiobook-ai-recaps-short-summary",
+      "summary": "Spotify is launching a new AI feature for audiobooks that summarizes what you’ve already heard without needing to rewind. The company likens the feature, called Recaps, to a “previously on” segment at the start of episodes in a TV series.  Recaps will be available automatically in the iOS app for a limited number of English-language [&#8230;]",
+      "published": "2025-11-13T13:30:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
     {
       "id": "9ae18e1ce3783408267f35316ade800b8ffc1522",
       "title": "Dbrand is transforming your Steam Machine into an epic Portal ‘Companion Cube’",
@@ -12,6 +147,15 @@
       "published": "2025-11-13T13:27:43+00:00",
       "source": "9to5Toys",
       "category": "deals"
+    },
+    {
+      "id": "87a5afef3bb08024014a8f5320230e918254961e",
+      "title": "10 people held after tense standoff between residents, police at Kampung Jalan Papan",
+      "link": "https://www.thestar.com.my/news/nation/2025/11/13/10-people-held-after-tense-standoff-between-residents-police-at-kampung-jalan-papan",
+      "summary": "PETALING JAYA: A total of ten people were arrested amid tense scenes as the demolition of homes at Kampung Jalan Papan, Pandamaran, Klang entered its fourth day. <a href=\"https://www.thestar.com.my/news/nation/2025/11/13/10-people-held-after-tense-standoff-between-residents-police-at-kampung-jalan-papan\">Read full story</a>",
+      "published": "2025-11-13T13:26:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
     },
     {
       "id": "9ec7d05dde083d88d44e6326d54cacfb6c20560b",
@@ -102,15 +246,6 @@
       "published": "2025-11-13T13:00:00+00:00",
       "source": "The Verge",
       "category": "tech"
-    },
-    {
-      "id": "bb5cd5fcd91959cebfad49495416cc80df61b066",
-      "title": "US calls for international action to cut weapons supply to Sudan paramilitaries",
-      "link": "https://www.bbc.com/news/articles/c17p1nwy7q8o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"They're committing acts of sexual violence and atrocities,\" says the US secretary of state, \"and it needs to end immediately\".",
-      "published": "2025-11-13T12:57:26+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "52cba82ba38637ce5e843c714365a8be14fb4c53",
@@ -365,15 +500,6 @@
       "category": "deals"
     },
     {
-      "id": "c6c0cbb18de6e947cf39ec6ebf6f82c449b5a97f",
-      "title": "Constitution affirms Penang as a Malaysian state, says Penang DAP",
-      "link": "https://www.thestar.com.my/news/nation/2025/11/13/constitution-affirms-penang-as-a-malaysian-state-says-penang-dap",
-      "summary": "GEORGE TOWN: Penang's status as a state within the Federation of Malaysia is clearly defined in the Federal Constitution and is not open to dispute, says Penang DAP chairman Steven Sim Chee Keong. <a href=\"https://www.thestar.com.my/news/nation/2025/11/13/constitution-affirms-penang-as-a-malaysian-state-says-penang-dap\">Read full story</a>",
-      "published": "2025-11-13T11:33:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "c6b74a4ca25d7a5ae055f5512f8960646205b9b3",
       "title": "South Sudan leader sacks powerful vice-president in shock move",
       "link": "https://www.bbc.com/news/articles/ceq0e7q7vl8o?at_medium=RSS&at_campaign=rss",
@@ -401,15 +527,6 @@
       "category": "malaysia"
     },
     {
-      "id": "c0e7b3f278b5a6da39e6b28bfb5cbaa1ac17377b",
-      "title": "Malayan Tiger &#039;Si Cacat&#039; dies from old age at Lok Kawi Wildlife Park",
-      "link": "https://www.thestar.com.my/news/nation/2025/11/13/malayan-tiger-039si-cacat039-dies-from-old-age-at-lok-kawi-wildlife-park",
-      "summary": "KOTA KINABALU: Sabah's only captive-born Malayan Tiger, Si Cacat, has died of old age. <a href=\"https://www.thestar.com.my/news/nation/2025/11/13/malayan-tiger-039si-cacat039-dies-from-old-age-at-lok-kawi-wildlife-park\">Read full story</a>",
-      "published": "2025-11-13T11:26:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "6fb112fea75f4ddd0f40b40d3073b71e5a99860a",
       "title": "Philadelphia-based grocery delivery company Gopuff raised $250M led by Eldridge Industries and Valor Equity at an $8.5B valuation, down from $15B in 2021 (Ivan Levingston/Financial Times)",
       "link": "http://www.techmeme.com/251113/p11#a251113p11",
@@ -417,15 +534,6 @@
       "published": "2025-11-13T11:25:01+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "3785cc1d4e5876667bc1f1aafcff85b6e3a71699",
-      "title": "Over 3,000 sexual crime cases involving under-18s recorded in three years",
-      "link": "https://www.thestar.com.my/news/nation/2025/11/13/over-3000-sexual-crime-cases-involving-under-18s-recorded-in-three-years",
-      "summary": "KUALA LUMPUR: A total of 608 out of 3,093 sexual crime cases involving individuals under the age of 18 recorded between 2023 and October this year occurred within school areas. <a href=\"https://www.thestar.com.my/news/nation/2025/11/13/over-3000-sexual-crime-cases-involving-under-18s-recorded-in-three-years\">Read full story</a>",
-      "published": "2025-11-13T11:24:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "e23d5271d00aabfe3cd65805782d8728b4adc0c9",
@@ -442,15 +550,6 @@
       "link": "http://www.techmeme.com/251113/p10#a251113p10",
       "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-11-13/google-hit-by-fresh-eu-probe-into-suspected-news-search-abuse\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251113/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251113/p10#a251113p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Samuel Stolton / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-11-13/google-hit-by-fresh-eu-probe-into-suspected-news-search-abuse\">The EU opens a DMA investigation into Google over allegedly demoting news outlets with promotional content; Google says this is part of its anti-spam efforts</a></b></span>&nbsp; &mdash;&nbsp; Google is under investigation by European Union antitrust watchdogs over concerns it unfairly demotes some news results in a probe &hellip; </p>",
       "published": "2025-11-13T11:15:57+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "602f15338c2fead12846d6c7c43ec5443efea752",
-      "title": "JD.com reports Q3 revenue up 15% YoY to $42.1B, above ~$41.4B est., and net income down 55% YoY to ~$745M, as it competes in meal delivery and fast-commerce (Bloomberg)",
-      "link": "http://www.techmeme.com/251113/p9#a251113p9",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-11-13/jd-com-sales-beat-estimates-after-costly-foray-into-food-arena\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251113/i9.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251113/p9#a251113p9\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-11-13/jd-com-sales-beat-estimates-after-costly-foray-into-food-arena\">JD.com reports Q3 revenue up 15% YoY to $42.1B, above ~$41.4B est., and net income down 55% YoY to ~$745M, as it competes in meal delivery and fast-commerce</a></b></span>&nbsp; &mdash;&nbsp; JD.com Inc.'s revenue grew a faster-than-anticipated 15%, boosted by government-directed consumer subsidies as well as an aggressive drive &hellip; </p>",
-      "published": "2025-11-13T11:10:01+00:00",
       "source": "Techmeme",
       "category": "tech"
     },
@@ -498,15 +597,6 @@
       "published": "2025-11-13T11:01:34+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "e626c1d6c90a1ef96f3e4ec8c6b80a507fd682c9",
-      "title": "Valve says the company is \"no longer manufacturing\" its high-end, PC-tethered VR headset Valve Index, released in 2019 for $999, after unveiling the Steam Frame (Jay Peters/The Verge)",
-      "link": "http://www.techmeme.com/251113/p8#a251113p8",
-      "summary": "<a href=\"https://www.theverge.com/news/817967/valve-index-vr-headset-stopped-manufacturing-frame\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251113/i8.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251113/p8#a251113p8\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jay Peters / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/news/817967/valve-index-vr-headset-stopped-manufacturing-frame\">Valve says the company is &ldquo;no longer manufacturing&rdquo; its high-end, PC-tethered VR headset Valve Index, released in 2019 for $999, after unveiling the Steam Frame</a></b></span>&nbsp; &mdash;&nbsp; &#65279;While showing its new Frame VR headset to The Verge, Valve confirmed that it's moving on from its previous one.</p>",
-      "published": "2025-11-13T11:01:15+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "e7c0f9acf23be96e08dd12e11045f2e75113341c",
@@ -932,15 +1022,6 @@
       "category": "deals"
     },
     {
-      "id": "8b73545ed56c959afb0538d0ba2bbde5485f4630",
-      "title": "The best budget robot vacuums",
-      "link": "https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop",
-      "summary": "Editor’s note: Black Friday doesn’t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we’ve rounded up the best early Black Friday deals you can already get. Today’s robot vacuums are becoming a bit like cars: with all the features, upgrades, and fancy trimmings available these days, it’s easy to forget [&#8230;]",
-      "published": "2025-11-12T22:31:26+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "a88b1bdfafd98bcda0dce5b265e06e5a261f1b19",
       "title": "ECOVACS’ DEEBOT X9 Pro Omni robot cleaner with a self-washing mop hits new $700 low (Reg. $1,300), more",
       "link": "https://9to5toys.com/2025/11/12/ecovacs-deebot-x9-pro-omni-robot-new-700-low-more/",
@@ -1004,33 +1085,6 @@
       "category": "deals"
     },
     {
-      "id": "6b45ef67248c6e37b3aabee1da5eba52e5d13bc1",
-      "title": "New-release hybrid steel and silicone Apple Watch band sees 20% launch discount, now $29",
-      "link": "https://9to5toys.com/2025/11/12/newways-hybrid-stainless-steel-silicone-apple-watch-band/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/11/NewWays-Hybrid-Stainless-Steel-Silicone-Apple-Watch-Band.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">NewWays Hybrid Stainless Steel &amp; Silicone Apple Watch Band</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $29 (Reg. $36)</h3>\n\n\n\n<p class=\"has-text-align-center\"><em>Clip the on-page 20% off coupon.</em></p>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A red rectangular object with white lines\" class=\"wp-image-1175464 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/11/NewWays-Hybrid-Stainless-Steel-Silicone-Apple-Watch-Band-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p>This new-release Apple Watch band arrived at Amazon this week and is now teamed up with a 20% launch discount. There are six styles to choose from, all of which pair stainless steel with silicone for a pop of color. I like that the clasp is magnetic as well.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/11/12/newways-hybrid-stainless-steel-silicone-apple-watch-band/#more-1175463\">more…</a>",
-      "published": "2025-11-12T21:05:00+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "5ba08b84ea6e05d384bf26323e3a35a99136af8f",
-      "title": "The Steam Frame has two speakers on each side of your face for vibration cancellation",
-      "link": "https://www.theverge.com/news/818599/valve-steam-frame-headset-speakers-head-strap-vibration-cancellation",
-      "summary": "In its new Steam Frame VR headset, Valve put dual audio drivers on each side in the included head strap. That puts the audio near your ears while you’re wearing it, and in my brief time trying the device at Valve’s headquarters recently, I thought the sound was just fine. But the choice to have [&#8230;]",
-      "published": "2025-11-12T21:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "082720d5d6726e7be9bd6d0c7637425f83903eb6",
-      "title": "Energy and tech news at UN climate negotiations in Brazil",
-      "link": "https://www.theverge.com/news/819192/united-nations-climate-change-conference-brazil-updates",
-      "summary": "The most high-stakes United Nations climate change conference in years is taking place this November in Belém, Brazil. It’s the 10th anniversary of the landmark Paris agreement, which committed nearly every country on Earth to working together to limit global warming. They’re off track, making this an important moment to show the world whether world [&#8230;]",
-      "published": "2025-11-12T20:57:47+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "52fd5ea58b8a881c9217431dd5ece335f9172373",
       "title": "TNB Electron turns on 240kW DC Charger at TNB Kulim, free charging for a limited time",
       "link": "https://soyacincau.com/2025/11/13/tnb-electron-240kw-ev-dc-charger-wisma-tnb-kulim-kedah/",
@@ -1049,30 +1103,12 @@
       "category": "tech"
     },
     {
-      "id": "0f5c9e864cad952b3bc88c55581de99d1e284418",
-      "title": "Here are the best Kindle deals right now",
-      "link": "https://www.theverge.com/21539047/best-amazon-kindle-deals",
-      "summary": "Editor’s note: Black Friday doesn’t officially take place until Friday, November 28th; however, if you want to shop ahead of time, we’ve rounded up the best early Black Friday deals you can already get. When it comes to finding a device to read ebooks, you have a few options to choose from. You can always buy a tablet [&#8230;]",
-      "published": "2025-11-12T20:29:19+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "3563e18f894763671fb21eae373dff34e024d111",
       "title": "An explosion 92 million miles away just grounded Jeff Bezos’ New Glenn rocket",
       "link": "https://arstechnica.com/space/2025/11/an-explosion-92-million-miles-away-just-grounded-jeff-bezos-new-glenn-rocket/",
       "summary": "\"NASA is postponing launch until space weather conditions improve.\"",
       "published": "2025-11-12T20:28:52+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "54c1a518a038356033ce18677e1f192c4be6292a",
-      "title": "Valve’s new VR streaming trick won’t just work with its own headset",
-      "link": "https://www.theverge.com/news/817993/valve-vr-steam-frame-foveated-streaming-rendering-link",
-      "summary": "Valve’s new streaming-first VR headset&#160;—&#160;the Steam Frame — employs a clever trick to help make game streaming feel as low-latency as possible. It’s called foveated streaming, and it means the headset requests a higher-quality image for the content that’s right in front of your eyes while lowering the resolution of your peripheral vision to reduce [&#8230;]",
-      "published": "2025-11-12T20:20:00+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -1274,15 +1310,6 @@
       "category": "tech"
     },
     {
-      "id": "21c66324141b59ba84dca8bed66470436e3e2daa",
-      "title": "Lawmakers warn Democratic governors that states are sharing drivers’ data with ICE",
-      "link": "https://techcrunch.com/2025/11/12/lawmakers-warn-democratic-governors-that-states-are-sharing-drivers-data-with-ice/",
-      "summary": "A group of Democratic lawmakers asked governors in California, Colorado, and other states to block ICE from accessing their residents’ driver’s license data without their knowledge.",
-      "published": "2025-11-12T16:41:29+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "ceb4fa26483c79056588010a7b44511958e2827f",
       "title": "Malaysia EV registrations surged 177% in October 2025, over 10,000 BYDs registered so far this year",
       "link": "https://soyacincau.com/2025/11/13/malaysia-jpj-ev-registration-october-2025/",
@@ -1292,30 +1319,12 @@
       "category": "malaysia"
     },
     {
-      "id": "67b3ade07c5257f36af8cdacbb17405866b0620b",
-      "title": "Apple launches Digital ID, a way to carry your passport on your phone for use at TSA checkpoints",
-      "link": "https://techcrunch.com/2025/11/12/apple-launches-digital-id-a-way-to-carry-your-passport-on-your-phone-for-use-at-tsa-checkpoints/",
-      "summary": "Apple Watch and iPhone owners in the United States will now be able to carry a copy of their U.S. passport on their device, which they can then use at TSA checkpoints across more than 250 U.S. airports when traveling domestically.",
-      "published": "2025-11-12T16:30:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "228da69ab941cc9cd06371a56753420b4b213164",
       "title": "Review: New Framework Laptop 16 takes a fresh stab at the upgradeable laptop GPU",
       "link": "https://arstechnica.com/gadgets/2025/11/review-new-framework-laptop-16-takes-a-fresh-stab-at-the-upgradeable-laptop-gpu/",
       "summary": "New components make it more useful and powerful but no less odd.",
       "published": "2025-11-12T16:00:39+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "07657d85949c8fb69d61b672bc1b2542b0d743ce",
-      "title": "AI data startup WisdomAI has raised another $50M, led by Kleiner, Nvidia",
-      "link": "https://techcrunch.com/2025/11/12/ai-data-startup-wisdomai-has-raised-another-50m-led-by-kleiner-nvidia/",
-      "summary": "WisdomAI is offering AI-driven data analytics that can answer business questions from structured, unstructured, and even “dirty” data, meaning data not cleaned of typos or errors.",
-      "published": "2025-11-12T16:00:00+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1409,6 +1418,15 @@
       "category": "world"
     },
     {
+      "id": "863a8f7fb8b4d57088badafcf4bcba2227403d10",
+      "title": "Video Localization by Algebras",
+      "link": "https://www.producthunt.com/products/algebras-ai",
+      "summary": "<p>\n            Culturally accurate dubbing that feels human (32 languages)\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/algebras-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1037074?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-11T22:35:06+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "3db8136e39f6cb0af1e1babaa185a63f29379f98",
       "title": "Google says new cloud-based “Private AI Compute” is just as secure as local processing",
       "link": "https://arstechnica.com/google/2025/11/google-says-new-cloud-based-private-ai-compute-is-just-as-secure-as-local-processing/",
@@ -1425,6 +1443,15 @@
       "published": "2025-11-11T21:20:32+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
+    },
+    {
+      "id": "8b77773d17b7e5da1e545c895d09d910f7451d4a",
+      "title": "Logo.dev",
+      "link": "https://www.producthunt.com/products/logo-dev",
+      "summary": "<p>\n            Reliable logos for any product, instantly.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/logo-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1037033?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-11T19:42:11+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "6828860e0119ea153a4ec5a54a5cbad12434c72d",
@@ -1499,15 +1526,6 @@
       "category": "malaysia"
     },
     {
-      "id": "124664ba94867fe35039d2589a51b84773f27ee9",
-      "title": "5 Reasons Every Home Should Have a Smart Security System",
-      "link": "https://soyacincau.com/2025/11/11/5-reasons-smart-security-system-unifi-home-shield/",
-      "summary": "This post is brought to you by Unifi. Whether you’re living alone, with family, or managing a busy household, keeping your home secure has become as essential as having a stable internet connection. From keeping an eye on your elderly parents and kids at home to watching over your pets and ensuring your deliveries arrive [&#8230;]",
-      "published": "2025-11-11T04:23:06+00:00",
-      "source": "SoyaCincau",
-      "category": "malaysia"
-    },
-    {
       "id": "87ed414be067eef901621753e4ffe22e347aa78d",
       "title": "Doco Agent Mode",
       "link": "https://www.producthunt.com/products/doco-2",
@@ -1517,11 +1535,11 @@
       "category": "events"
     },
     {
-      "id": "7691c07027f8de1fc1ad91dcf9441d1d5838b298",
-      "title": "NBA Moves",
-      "link": "https://www.producthunt.com/products/nba-moves",
-      "summary": "<p>\n            Every signature move in basketball\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nba-moves?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1036629?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-11-10T20:38:55+00:00",
+      "id": "7053add7ccb3ea8ceaaa5c456be697295cdd4b88",
+      "title": "Kadabra",
+      "link": "https://www.producthunt.com/products/kadabra",
+      "summary": "<p>\n            Automate your work in minutes with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kadabra?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1036505?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-10T14:22:21+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1535,29 +1553,11 @@
       "category": "events"
     },
     {
-      "id": "8ffd0dfb5355cde95548c13aea687aa7421d1ab0",
-      "title": "Webflow App Gen",
-      "link": "https://www.producthunt.com/products/webflow",
-      "summary": "<p>\n            Build full-stack web apps natively in Webflow with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/webflow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1035715?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-11-07T23:11:44+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "aec0ddb76806237b84685dedbe0315d0f2f0bb22",
       "title": "Easy Tasks by Morgen",
       "link": "https://www.producthunt.com/products/easy-tasks-chrome-extension",
       "summary": "<p>\n            Your browser's missing shortcut for getting stuff done.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/easy-tasks-chrome-extension?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1035284?app_id=339\">Link</a>\n          </p>",
       "published": "2025-11-06T18:14:57+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "365cc42b00f442d3d9f9784f33bc2d767e5908e7",
-      "title": "Hiperyon",
-      "link": "https://www.producthunt.com/products/hiperyon",
-      "summary": "<p>\n            A single memory for all your LLMs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hiperyon?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1031486?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-27T15:25:52+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
