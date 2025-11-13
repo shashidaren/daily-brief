@@ -1,9 +1,315 @@
 {
-  "generatedAt": "2025-11-13T16:18:05.664403+00:00",
+  "generatedAt": "2025-11-13T17:14:28.481851+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "592d519f5780bb2096ec38f57c940d03904d28b6",
+      "title": "Even Realities’ new smart glasses ditch cameras and speakers",
+      "link": "https://www.theverge.com/news/820120/even-realities-g2-smart-glasses-r1-ring-launch-ai",
+      "summary": "The wearable technology company Even Realities has taken the wraps off its latest pair of “human-centric” smart glasses, which it claims are designed not to interfere with your everyday life. The G2 Display Smart Glasses come without outward-facing cameras and external speakers, a move Even Realities says “removes the anxiety of being recorded, overheard or [&#8230;]",
+      "published": "2025-11-13T17:13:03+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "d0ec03736fb8a61cb8eaecf027c85d0bb0212b09",
+      "title": "Exowatt, which aims to use concentrated solar power to generate 1¢ per kWh electricity for data centers, raised a $120M Series A from a16z, Sam Altman, and more (Tim De Chant/TechCrunch)",
+      "link": "http://www.techmeme.com/251113/p35#a251113p35",
+      "summary": "<a href=\"https://techcrunch.com/2025/11/13/sam-atlman-backed-exowatt-wants-to-power-ai-data-centers-with-billions-of-hot-rocks/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251113/i35.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251113/p35#a251113p35\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Tim De Chant / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2025/11/13/sam-atlman-backed-exowatt-wants-to-power-ai-data-centers-with-billions-of-hot-rocks/\">Exowatt, which aims to use concentrated solar power to generate 1&cent; per kWh electricity for data centers, raised a $120M Series A from a16z, Sam Altman, and more</a></b></span>&nbsp; &mdash;&nbsp; When Hannan Happi started thinking about how to solve the AI power crisis, he kept one figure in mind: one cent per kilowatt-hour.</p>",
+      "published": "2025-11-13T17:10:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "16cca173b6fb297c59fb958ca3d368250c2ee502",
+      "title": "Is Tesla about to finally surrender to Apple CarPlay?",
+      "link": "https://www.theverge.com/news/820065/tesla-apple-carplay-develop-phone-mirror",
+      "summary": "Tesla, one of the original Apple CarPlay holdouts, may finally be close to actually adopting the immensely popular phone projection system for its cars, Bloomberg reports today. The company has started testing the capability internally, anonymous sources tell the publication, and could be close to releasing it publicly, perhaps in a few months — or [&#8230;]",
+      "published": "2025-11-13T17:07:25+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "d03111560660caf1570793b896f76b6020527638",
+      "title": "The 10 companies that just launched from Betaworks latest startup camp",
+      "link": "https://techcrunch.com/2025/11/13/the-10-companies-that-just-launched-from-betaworks-latest-startup-camp/",
+      "summary": "Early-stage venture fund Betaworks announced the latest 10 companies launching from its prestigious Camp program.",
+      "published": "2025-11-13T17:06:13+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "3e53fbfa0fc5c524d5c9dc77d1bf502d2829cf03",
+      "title": "Tesla might finally bring CarPlay to its EVs",
+      "link": "https://techcrunch.com/2025/11/13/tesla-might-finally-bring-carplay-to-its-evs/",
+      "summary": "The addition of CarPlay would mark a significant change for Tesla, which has so far shunned phone mirroring in its vehicles.",
+      "published": "2025-11-13T17:05:25+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "79ee6c6cc5d84cd06fb278298bfbca18a59f39fe",
+      "title": "Restore fired FTC commissioner, consumer protection groups tell Supreme Court",
+      "link": "https://www.theverge.com/news/819371/consumer-protection-groups-amicus-brief-ftc-slaughter-v-trump",
+      "summary": "The Consumer Federation of America, Electronic Privacy Information Center (EPIC), and other consumer advocacy and tech groups are speaking up in defense of former FTC Commissioner Rebecca Kelly Slaughter, who was fired without cause by the Trump administration in March.  A total of 40 groups —&#160;which also include Demand Progress Information Center and UC Berkeley [&#8230;]",
+      "published": "2025-11-13T17:01:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "eab49d0586d4561d15ef4c25eabd7b9b8e404f1c",
+      "title": "Facebook Marketplace gets new collaborative and social features, Meta AI integrations",
+      "link": "https://techcrunch.com/2025/11/13/facebook-marketplace-gets-new-collaborative-and-social-features-meta-ai-integrations/",
+      "summary": "Meta is testing collaborative buying to let users invite a friend to join their chat with a seller.",
+      "published": "2025-11-13T17:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "fc05d7d0d82f7adcd65a2c56c12d28a2de62c2bf",
+      "title": "Google’s NotebookLM adds ‘Deep Research’ tool, support for more file types",
+      "link": "https://techcrunch.com/2025/11/13/googles-notebooklm-adds-deep-research-tool-support-for-more-file-types/",
+      "summary": "The service rolling out \"Deep Research,\" a tool that will automate and simplify complex online research.",
+      "published": "2025-11-13T17:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "b73732a8e165e4f8bed800e90931ba4033611d68",
+      "title": "Satechi’s new puck sticks a bunch of extra ports to the back of your phone",
+      "link": "https://www.theverge.com/news/819979/satechi-onthego-7-in-1-multiport-adapter-magsafe-pixelsnap",
+      "summary": "Satechi has announced a new multiport hub that looks like a hockey puck and is designed to attach to smartphones and laptops using a ring of magnets, but it’s not a wireless charger. The OntheGo 7-in-1 Multiport Adapter features seven ports in total and connects to devices using a short integrated USB-C cable that wraps [&#8230;]",
+      "published": "2025-11-13T17:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "e0e8dea1788125867bca35875002f8e0af48d19f",
+      "title": "Google’s NotebookLM will now do &#8216;deep research&#8217;",
+      "link": "https://www.theverge.com/news/820022/google-notebooklm-gemini-deep-research",
+      "summary": "Google is pairing up two of its research products: NotebookLM and Gemini’s agentic AI tool Deep Research. On Thursday, the company announced that all users will have access to Deep Research in NotebookLM within a week.&#160; Google recently linked Deep Research to other Workspace products like Gmail and Drive, allowing Gemini to draw context from [&#8230;]",
+      "published": "2025-11-13T17:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "c005e95c6c46bb6124abd9ee6235e0ef8048573f",
+      "title": "Satechi debuts new MagSafe OntheGo 7-in-1 hub for iPhone, Mac, iPad, more",
+      "link": "https://9to5toys.com/2025/11/13/satechi-new-magsafe-onthego-7-hub-iphone/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/11/Satechi-OntheGo-7-in-1-Multiport-Adapter-hero.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Today Satechi is officially unveiling the latest expansion to its growing <a href=\"https://tidd.ly/4oNVL9Z\">OnTheGo collection</a> with its brand new pocket-sized 7-in-1 Multiport Adapter. Now <a href=\"https://tidd.ly/4oDIVLt\">available for purchase</a> on the official site, this handy new gadget delivers all-in-one connectivity anywhere. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/11/13/satechi-new-magsafe-onthego-7-hub-iphone/#more-1175819\">more…</a>",
+      "published": "2025-11-13T17:00:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "995b70e5e6a33aec6e817dfaeb47d9cf2dcb5657",
+      "title": "Tanzania&#039;s Zanzibar tourist arrivals rise 24 percent in October 2025",
+      "link": "https://www.thestar.com.my/news/world/2025/11/14/tanzania039s-zanzibar-tourist-arrivals-rise-24-percent-in-october-2025",
+      "summary": "DAR ES SALAAM, Nov. 13 (Xinhua) -- Tanzania's Zanzibar recorded 86,740 tourist arrivals in October 2025, a 24.2 percent increase from 69,860 in the same month last year, according to official data released Thursday. <a href=\"https://www.thestar.com.my/news/world/2025/11/14/tanzania039s-zanzibar-tourist-arrivals-rise-24-percent-in-october-2025\">Read full story</a>",
+      "published": "2025-11-13T16:59:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "3707b7e4bd701535e21a9d253239a14c21c69185",
+      "title": "Netflix is bringing Red Dead Redemption to mobile",
+      "link": "https://www.theverge.com/news/820086/netflix-red-dead-redemption-mobile-modern-console-update",
+      "summary": "Another one of Rockstar’s greatest hits is coming Netflix. On December 4th you’ll be able to play Red Dead Redemption and it’s zombified standalone DLC Undead Nightmare for free as long as you have a Netflix subscription. The news broke when prolific video game news hound Wario64 found listings for the game on the iOS [&#8230;]",
+      "published": "2025-11-13T16:54:20+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "ba9f70d35ce6e96fa510594b6e4489935bc3cb87",
+      "title": "Act fast, this slim pocket knife deal won’t last long at under $8 Prime shipped (21% off)",
+      "link": "https://9to5toys.com/2025/11/13/funbro-slim-pocket-knife-3/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/09/FUNBRO-Slim-Pocket-Knife.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">FUNBRO Slim Pocket Knife</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $8 (Reg. $10)</h3>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A red and white line\" class=\"wp-image-1175815 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/11/FUNBRO-Slim-Pocket-Knife-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p style=\"text-align: left;\">This knife always catches my eye when it goes on sale. It’s slim form factor and built-in clip can make it look more like a pen instead of a pocket knife. If you’re interested, act quickly because this is a lightning deal with a limited supply that is rapidly running out.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/11/13/funbro-slim-pocket-knife-3/#more-1175814\">more…</a>",
+      "published": "2025-11-13T16:53:19+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "0660b7b61b52386352fd65f0d8f94019badf9f9a",
+      "title": "TikTok launches Bulletin board, which lets brands and creators share public, one-to-many messages to their followers, similar to Instagram's broadcast channels (Aisha Malik/TechCrunch)",
+      "link": "http://www.techmeme.com/251113/p34#a251113p34",
+      "summary": "<a href=\"https://techcrunch.com/2025/11/13/tiktok-launches-its-own-version-of-instagrams-broadcast-channels/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251113/i34.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251113/p34#a251113p34\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Aisha Malik / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2025/11/13/tiktok-launches-its-own-version-of-instagrams-broadcast-channels/\">TikTok launches Bulletin board, which lets brands and creators share public, one-to-many messages to their followers, similar to Instagram's broadcast channels</a></b></span>&nbsp; &mdash;&nbsp; TikTok announced on Thursday that it's launching &ldquo;bulletin board,&rdquo; a new feature that lets brands and creators share public, one-to-many messages to their followers.</p>",
+      "published": "2025-11-13T16:50:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "94561221ad302cb8c3dd8cb9edbb667dec1ab600",
+      "title": "Here’s BJ’s Wholesale Club’s official 60-page 2025 Black Friday ad: Sale start times, preview hundreds of deals, more",
+      "link": "https://9to5toys.com/2025/11/13/bjs-wholesale-club-60-page-2025-black-friday-ad/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/11/BJ-wholesale-BF-sale-FI.jpg?quality=82&#038;strip=all&#038;w=1200\" /></div><p>The official BJ’s Wholesale Club Black Friday 2025 ad has hit the marketplace’s website, giving folks a look at what is up for grabs at discounted rates during this holiday season. This is an <a href=\"https://www.bjs.com/deals/promo/black-friday/\">extensive 60-page rundown of the upcoming deals</a> on everything from TVs, home theater systems, laptops, massage chairs, security devices, toys, kitchen gadgets, and so much more – all starting from $10. This year’s event will be opening the gates well ahead of November 29 with these doorbusters – plus, there are some cash back rewards across multiple items. You’ll find all the details about this Black Friday Sale below, complete with all 60 pages of the ad.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/11/13/bjs-wholesale-club-60-page-2025-black-friday-ad/#more-1175682\">more…</a>",
+      "published": "2025-11-13T16:49:07+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "569361db75114e3ba7b6c8c0084d92d7fb41d56f",
+      "title": "The Boox Palma 2 e-book reader is now $84 off",
+      "link": "https://www.theverge.com/tech/820046/boox-ebook-hoto-lenono-deals-sales",
+      "summary": "As somebody who can get distracted by social networking and videos really easily, I love the idea of e-book readers — they let me concentrate on a book without the temptation to switch to TikTok. That’s why I find Onyx’s Boox Palma 2 so attractive. It’s about the same size as a smartphone, it’s eminently [&#8230;]",
+      "published": "2025-11-13T16:47:37+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "338df9faeef01dea724a610c1b18196e227552b8",
+      "title": "CISA warns federal agencies to patch flawed Cisco firewalls amid ‘active exploitation’ across the US government",
+      "link": "https://techcrunch.com/2025/11/13/cisa-warns-federal-agencies-to-patch-flawed-cisco-firewalls-amid-active-exploitation-across-the-us-government/",
+      "summary": "The federal cybersecurity agency said some government departments had been actively exploited after failing to properly patch their systems.",
+      "published": "2025-11-13T16:45:36+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "c6b74a4ca25d7a5ae055f5512f8960646205b9b3",
+      "title": "South Sudan leader sacks powerful vice-president in shock move",
+      "link": "https://www.bbc.com/news/articles/ceq0e7q7vl8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bol Mel, who is sanctioned by the US for alleged corruption, had been tipped as Kiir's successor.",
+      "published": "2025-11-13T16:43:21+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "f5ff7781b2c137f542eb09bc7aec8b8ab12d1fe4",
+      "title": "Migrant arrivals in Spain&#039;s Balearics surge as smugglers switch routes",
+      "link": "https://www.thestar.com.my/news/world/2025/11/14/migrant-arrivals-in-spain039s-balearics-surge-as-smugglers-switch-routes",
+      "summary": "BARCELONA (Reuters) -Nineteen boats carrying around 360 people reached Spain's Balearic Islands in the past two days, the latest surge in arrivals defying attempts by authorities to curb the fastest-growing migratory route into the European Union. <a href=\"https://www.thestar.com.my/news/world/2025/11/14/migrant-arrivals-in-spain039s-balearics-surge-as-smugglers-switch-routes\">Read full story</a>",
+      "published": "2025-11-13T16:42:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "7b9ae5fea8727d8eb549f88d3c08ebb3dfd0d90c",
+      "title": "German businesses see ongoing negative effects from U.S. policies: DIHK",
+      "link": "https://www.thestar.com.my/news/world/2025/11/14/german-businesses-see-ongoing-negative-effects-from-us-policies-dihk",
+      "summary": "BERLIN, Nov. 13 (Xinhua) -- Forty-four percent of the more than 3,500 German companies surveyed in around 90 countries and regions reported negative or strongly negative impacts from U.S. trade policies, according to the German Chamber of Commerce and Industry (DIHK) on Thursday. <a href=\"https://www.thestar.com.my/news/world/2025/11/14/german-businesses-see-ongoing-negative-effects-from-us-policies-dihk\">Read full story</a>",
+      "published": "2025-11-13T16:41:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "cb858ac7ec21c2e8be8dad155fcae28686447f47",
+      "title": "TikTok launches its own version of Instagram’s broadcast channels",
+      "link": "https://techcrunch.com/2025/11/13/tiktok-launches-its-own-version-of-instagrams-broadcast-channels/",
+      "summary": "TikTok is rolling out “bulletin board,” a new one-to-many messaging feature that mirrors Instagram’s broadcast channels. The tool lets creators and brands share text, images, and videos directly with followers.",
+      "published": "2025-11-13T16:36:02+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "1a66045d9e2ce746965738d84ed6c782c301242d",
+      "title": "Fabric8Labs, which uses electrochemical additive manufacturing to create chip-cooling plates for data centers, raised $50M led by NEA and Intel Capital (Colin Campbell/Axios)",
+      "link": "http://www.techmeme.com/251113/p33#a251113p33",
+      "summary": "<a href=\"https://www.axios.com/pro/supply-chain-deals/2025/11/13/fabric8labs-50m-advanced-parts-manufacturing\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251113/i33.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251113/p33#a251113p33\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Colin Campbell / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/pro/supply-chain-deals/2025/11/13/fabric8labs-50m-advanced-parts-manufacturing\">Fabric8Labs, which uses electrochemical additive manufacturing to create chip-cooling plates for data centers, raised $50M led by NEA and Intel Capital</a></b></span>&nbsp; &mdash;&nbsp; Fabric8Labs, a San Diego-based electrochemical additive manufacturing startup, raised $50 million led by NEA and Intel Capital, CEO Jeff Herman tells Axios Pro exclusively.</p>",
+      "published": "2025-11-13T16:35:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "da3242c34e097352ade71adcb18b63124c0a75f6",
+      "title": "Firefighters received chemical burns at Elon Musk’s Boring Company construction site",
+      "link": "https://techcrunch.com/2025/11/13/firefighters-received-chemical-burns-at-elon-musks-boring-company-construction-site/",
+      "summary": "The firefighters had to be treated at a hospital and received permanent scars, according to a report from Fortune. But the Boring Company was not fined after it met with state officials.",
+      "published": "2025-11-13T16:32:14+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "d7c23b710ba3241fe499243ef38e82f621ae1623",
+      "title": "Sources: Verizon plans to cut ~15,000 jobs, its largest workforce reduction ever, and transition ~200 stores into franchised operations, seeking to cut costs (Wall Street Journal)",
+      "link": "http://www.techmeme.com/251113/p32#a251113p32",
+      "summary": "<a href=\"https://www.wsj.com/business/telecom/verizon-to-cut-about-15-000-jobs-87280c3c?st=uSwnPC&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251113/i32.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251113/p32#a251113p32\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/business/telecom/verizon-to-cut-about-15-000-jobs-87280c3c?st=uSwnPC&amp;reflink=desktopwebshare_permalink\">Sources: Verizon plans to cut ~15,000 jobs, its largest workforce reduction ever, and transition ~200 stores into franchised operations, seeking to cut costs</a></b></span>&nbsp; &mdash;&nbsp; The telecommunications company is looking to reduce costs as it works to stem customer losses&nbsp; &mdash;&nbsp; Verizon Communications is planning &hellip; </p>",
+      "published": "2025-11-13T16:30:40+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "6d3ac5b1738db346f1b162a3aebe13a7077ad4e2",
+      "title": "Uber is making it easier to get a ride at the airport or pay for someone else’s",
+      "link": "https://www.theverge.com/news/820053/uber-send-a-ride-holiday-season-new-features",
+      "summary": "A few new features are coming to the Uber app, including one that could make it simpler to pick someone up or cover their ride. The new “Send a Ride” feature allows you to pay for someone else’s Uber ride directly from the app. You set the number of rides and spending limit, then send [&#8230;]",
+      "published": "2025-11-13T16:29:30+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "706e7cbd8487181bba931c81f9cae4f7975cbf70",
+      "title": "Google takes on Pinterest with a dedicated ‘inspirational’ images tab in its mobile app",
+      "link": "https://techcrunch.com/2025/11/13/google-takes-on-pinterest-with-a-dedicated-inspirational-images-tab-in-its-mobile-app/",
+      "summary": "The company is adding an \"Images\" icon at the bottom of Google's Search app for iOS and Android devices that will display images personalized to the user's interests.",
+      "published": "2025-11-13T16:29:23+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "b17d61e68339dfae35da706a550e055cab357d06",
+      "title": "China advances innovative development of 6G: ministry",
+      "link": "https://www.thestar.com.my/news/world/2025/11/14/china-advances-innovative-development-of-6g-ministry",
+      "summary": "BEIJING, Nov. 13 (Xinhua) -- China has advanced the innovative development of 6G over recent years, with progress including systematic research on 6G system design and network architecture, according to the Ministry of Industry and Information Technology on Thursday. <a href=\"https://www.thestar.com.my/news/world/2025/11/14/china-advances-innovative-development-of-6g-ministry\">Read full story</a>",
+      "published": "2025-11-13T16:27:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "aa57215e6eea38cafa517cf433595afdefcef44d",
+      "title": "Tesla Powerwall 2 recall expands to US after reports of fires",
+      "link": "https://techcrunch.com/2025/11/13/tesla-powerwall-2-recall-expands-to-us-after-reports-of-fires/",
+      "summary": "The U.S. Consumer Product Safety Commission has received 22 reports of overheating, smoking, or burning Tesla Powerwall 2 home batteries. The company will replace defective units.",
+      "published": "2025-11-13T16:26:12+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "98d5d8d6016bad894c17b25b2608968844230087",
+      "title": "Young Ukrainian men needed at home, Germany&#039;s Merz tells Zelenskiy",
+      "link": "https://www.thestar.com.my/news/world/2025/11/14/young-ukrainian-men-needed-at-home-germany039s-merz-tells-zelenskiy",
+      "summary": "BERLIN (Reuters) -German Chancellor Friedrich Merz told Ukrainian President Volodymyr Zelenskiy that he needed to ensure that young men from Ukraine do not come to Germany in large numbers, in what he said was a \"lengthy\" phone conversation the two held on Thursday. <a href=\"https://www.thestar.com.my/news/world/2025/11/14/young-ukrainian-men-needed-at-home-germany039s-merz-tells-zelenskiy\">Read full story</a>",
+      "published": "2025-11-13T16:25:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "bfe9a6720ee61d7ad33236c11f9a376d6894623c",
+      "title": "Zelenskiy visits troops near Zaporizhzhia front as Russian pressure mounts",
+      "link": "https://www.thestar.com.my/news/world/2025/11/14/zelenskiy-visits-troops-near-zaporizhzhia-front-as-russian-pressure-mounts",
+      "summary": "LONDON/KYIV (Reuters) -President Volodymyr Zelenskiy visited troops near Ukraine's southeastern front on Thursday, warning of the need to shore up the lines after losing ground in increasingly high-intensity battles far from Russia's offensive in the east. <a href=\"https://www.thestar.com.my/news/world/2025/11/14/zelenskiy-visits-troops-near-zaporizhzhia-front-as-russian-pressure-mounts\">Read full story</a>",
+      "published": "2025-11-13T16:22:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "b1ea0f1094f797066b0940417f0d9fb8b877f239",
+      "title": "Britain&#039;s economic growth slows to 0.1 pct in Q3",
+      "link": "https://www.thestar.com.my/news/world/2025/11/14/britain039s-economic-growth-slows-to-01-pct-in-q3",
+      "summary": "LONDON, Nov. 13 (Xinhua) -- Britain's economy saw a further slowdown in the third quarter (Q3) of 2025, with the real gross domestic product (GDP) only edging up by 0.1 percent, estimates from the Office for National Statistics (ONS) showed Thursday. <a href=\"https://www.thestar.com.my/news/world/2025/11/14/britain039s-economic-growth-slows-to-01-pct-in-q3\">Read full story</a>",
+      "published": "2025-11-13T16:22:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "9b850aa3f42405ebb7bdf204bba538effc55afc9",
+      "title": "LinkedIn rolls out AI-powered people search to premium users in the US, with plans to expand it to other countries in the coming months (Ivan Mehta/TechCrunch)",
+      "link": "http://www.techmeme.com/251113/p31#a251113p31",
+      "summary": "<a href=\"https://techcrunch.com/2025/11/13/linkedin-adds-ai-powered-search-to-help-users-find-people/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251113/i31.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251113/p31#a251113p31\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ivan Mehta / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2025/11/13/linkedin-adds-ai-powered-search-to-help-users-find-people/\">LinkedIn rolls out AI-powered people search to premium users in the US, with plans to expand it to other countries in the coming months</a></b></span>&nbsp; &mdash;&nbsp; For the last two years, LinkedIn has tried to infuse AI into different parts of its platforms, including ad copies, content creation, personalized digests &hellip; </p>",
+      "published": "2025-11-13T16:20:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "24c6d64a32fa9253ed6fb81bd550e08741b8ba71",
+      "title": "Zambian official hails CIIE&#039;s growing role as premier global trade platform",
+      "link": "https://www.thestar.com.my/news/world/2025/11/14/zambian-official-hails-ciie039s-growing-role-as-premier-global-trade-platform",
+      "summary": "LUSAKA, Nov. 13 (Xinhua) -- The impressive turnout of participants at the recently concluded eighth China International Import Expo (CIIE) underscores the event's growing influence as a premier global trade platform, a Zambian official has said. <a href=\"https://www.thestar.com.my/news/world/2025/11/14/zambian-official-hails-ciie039s-growing-role-as-premier-global-trade-platform\">Read full story</a>",
+      "published": "2025-11-13T16:20:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
     {
       "id": "7ee055f40b9cbc140385eb8eac070f2c9f011ddf",
       "title": "The 34 best gift ideas for mom this holiday season",
@@ -14,10 +320,10 @@
       "category": "tech"
     },
     {
-      "id": "33019264eac84489430794ec5294320d4270add7",
-      "title": "Google’s SIMA 2 agent uses Gemini to reason and act in virtual world",
-      "link": "https://techcrunch.com/2025/11/13/googles-sima-2-agent-uses-gemini-to-reason-and-act-in-virtual-world/",
-      "summary": "“SIMA 2 is a more general agent. It can complete complex tasks in previously unseen environments. And it's a self improving agent... which is a step towards more general purpose robots and AGI systems more generally.”",
+      "id": "ad90286b681d440fcb268426ceacc4fe2f82219d",
+      "title": "Google’s SIMA 2 agent uses Gemini to reason and act in virtual worlds",
+      "link": "https://techcrunch.com/2025/11/13/googles-sima-2-agent-uses-gemini-to-reason-and-act-in-virtual-worlds/",
+      "summary": "“SIMA 2 is a more general agent. It can complete complex tasks in previously unseen environments. And it's a self-improving agent... which is a step toward more genera- purpose robots and AGI systems more generally.”",
       "published": "2025-11-13T16:15:47+00:00",
       "source": "TechCrunch",
       "category": "tech"
@@ -86,21 +392,12 @@
       "category": "deals"
     },
     {
-      "id": "ca8aa4030554ef0e96982ae372aa3806dfd350a3",
-      "title": "Sources: xAI has raised $15B, adding $5B to the $10B reported in September, which valued the startup at $200B (Samantha Subin/CNBC)",
+      "id": "7edb30aa9cdab91d10247dbca6a65b60043fe089",
+      "title": "Sources: xAI raised $15B, adding $5B to the $10B it reportedly raised in September at a $200B valuation; Elon Musk replies \"false\" to an X post about the report (Samantha Subin/CNBC)",
       "link": "http://www.techmeme.com/251113/p29#a251113p29",
-      "summary": "<a href=\"https://www.cnbc.com/2025/11/13/musk-xai-funding.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251113/i29.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251113/p29#a251113p29\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Samantha Subin / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2025/11/13/musk-xai-funding.html\">Sources: xAI has raised $15B, adding $5B to the $10B reported in September, which valued the startup at $200B</a></b></span>&nbsp; &mdash;&nbsp; Elon Musk's artificial intelligence company xAI has raised $15 billion from investors, sources familiar with the matter told CNBC's David Faber.</p>",
+      "summary": "<a href=\"https://www.cnbc.com/2025/11/13/musk-xai-funding.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251113/i29.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251113/p29#a251113p29\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Samantha Subin / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2025/11/13/musk-xai-funding.html\">Sources: xAI raised $15B, adding $5B to the $10B it reportedly raised in September at a $200B valuation; Elon Musk replies &ldquo;false&rdquo; to an X post about the report</a></b></span>&nbsp; &mdash;&nbsp; Elon Musk's artificial intelligence company xAI has raised $15 billion from investors, sources familiar with the matter told CNBC's David Faber.</p>",
       "published": "2025-11-13T15:46:43+00:00",
       "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "3e59f4e253c94dc2accdb2fc75bef9d01c1eb99c",
-      "title": "Watch Google DeepMind’s new AI agent learn to play video games",
-      "link": "https://www.theverge.com/tech/819937/google-deepmind-ai-agent-sima-2-agi-video-games",
-      "summary": "Google DeepMind’s new AI agent learned how to play a bunch of video games —&#160;including No Man’s Sky, Valheim, and Goat Simulator 3 — to become a viable “interactive gaming companion.” The new agent tool, SIMA 2, builds on its earlier iteration, SIMA (Scalable Instructable Multiworld Agent), which DeepMind released in March 2024. It also [&#8230;]",
-      "published": "2025-11-13T15:39:24+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -122,15 +419,6 @@
       "category": "deals"
     },
     {
-      "id": "291163002226ebe3a21c7bd959b91f361a947ba7",
-      "title": "The future of Disney Plus could involve AI-generated videos",
-      "link": "https://www.theverge.com/news/819980/disney-plus-ai-videos-bob-iger-q4-2025-earnings",
-      "summary": "Disney’s plans for the future of its streaming service may involve AI-generated videos. During an earnings call on Thursday, Disney CEO Bob Iger said the company is “really excited about AI,” adding that the technology could allow Disney Plus to provide viewers with the ability to “create” and “consume” short-form AI videos. “There&#8217;s phenomenal opportunities [&#8230;]",
-      "published": "2025-11-13T15:36:10+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "b6bf5647c254df93776968ba42e8fef9d012e836",
       "title": "EcoFlow’s latest Black Friday 48-hour flash sale drops DELTA 3 Classic 220W solar bundle with bag to new $599 low, more",
       "link": "https://9to5toys.com/2025/11/13/ecoflow-flash-sale-delta-3-classic-bundle-new-599-low-more/",
@@ -140,8 +428,8 @@
       "category": "deals"
     },
     {
-      "id": "d0f58e4ca6b60c06ebc9a7b9547062d1677f4d5b",
-      "title": "Sam Atlman-backed Exowatt wants to power AI data centers with billions of hot rocks",
+      "id": "0c1465632b98b2643ba33b5cd487898fd0ee7154",
+      "title": "Sam Altman-backed Exowatt wants to power AI data centers with billions of hot rocks",
       "link": "https://techcrunch.com/2025/11/13/sam-atlman-backed-exowatt-wants-to-power-ai-data-centers-with-billions-of-hot-rocks/",
       "summary": "The solar-thermal startup wants to deliver electricity for as little as one cent per kWh. But first it has to scale production to 1 million units per year.",
       "published": "2025-11-13T15:30:00+00:00",
@@ -203,15 +491,6 @@
       "category": "tech"
     },
     {
-      "id": "7968c7a2c3f19d59dddb24a263e09b2c4df0c624",
-      "title": "George Lucas&#8217; narrative art museum opens next year in LA",
-      "link": "https://www.theverge.com/news/819951/george-lucas-museum-of-narrative-art-opening-day-2026",
-      "summary": "The Lucas Museum of Narrative Art has been over a decade in the making, but its opening day is finally in sight. It’s officially less than a year away on September 22nd, 2026. The museum will include over 40,000 works of “narrative art,” ranging from murals to comic book art and, of course, cinematic artifacts. [&#8230;]",
-      "published": "2025-11-13T15:06:27+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "b3d594d94b8bdebcc668dd1183c33dd115ab3d79",
       "title": "Tanzania president names new prime minister after disputed election",
       "link": "https://www.thestar.com.my/news/world/2025/11/13/tanzania-president-names-new-prime-minister-after-disputed-election",
@@ -230,37 +509,10 @@
       "category": "tech"
     },
     {
-      "id": "035517436b5766e01f761ac9383c821b20a75af9",
-      "title": "The best Christmas gifts under $50",
-      "link": "https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025",
-      "summary": "One of the easiest things to do during the holidays is spend too much money. It happens to many of us, even when we swear that things are going to be different this year. We want to help you stay true to your intentions to save money when possible, and we're doing that with a [&#8230;]",
-      "published": "2025-11-13T15:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "83a050b6b69228901c09b95636dbb264eb7e9118",
-      "title": "The company at the heart of the AI bubble",
-      "link": "https://www.theverge.com/podcast/819612/coreweave-ai-bubble-nvidia-openai-data-centers",
-      "summary": "So a lot of people think AI is a bubble. That includes OpenAI CEO Sam Altman, who keeps saying AI is a bubble all while raising and spending enormous amounts of money in ways that seem like bubble indicators to everyone else. This is all pretty confusing. So we sent Verge senior reporter Liz Lopatto [&#8230;]",
-      "published": "2025-11-13T15:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "dc19313b288436a0c58ed9bfcc89fb67a2c19c33",
-      "title": "Dbrand is turning the Steam Machine into a Companion Cube",
-      "link": "https://www.theverge.com/news/819863/dbrand-companion-cube-valve-steam-machine-skin",
-      "summary": "Dbrand did the thing: it announced a Portal Companion Cube skin for Valve’s boxy new Steam Machine, allowing you to turn the new PC / console hybrid into a facsimile of gaming’s most loyal sidekick.  The Companion Cube skin is limited edition, and will release some time in 2026, though we don’t know if it [&#8230;]",
-      "published": "2025-11-13T15:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "11faa7ffaf6e5412b72c566e524ffc4025d4edf4",
-      "title": "OnePlus launches the $900+ OnePlus 15, with a Snapdragon 8 Elite Gen 5 chip and a 6.78\" 165Hz display; the US launch is delayed due to the government shutdown (Chris Welch/Bloomberg)",
+      "id": "dc1ab2a5faaa4edc359b3e52c417fd034c63a8b9",
+      "title": "OnePlus debuts the $900+ OnePlus 15, with a Snapdragon 8 Elite Gen 5, a 7,300mah battery, and a 6.78\" 165Hz screen; the US government shutdown delays a US debut (Chris Welch/Bloomberg)",
       "link": "http://www.techmeme.com/251113/p27#a251113p27",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-11-13/oneplus-15-review-features-gaming-processor-two-hours-of-battery-us-delays\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251113/i27.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251113/p27#a251113p27\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Chris Welch / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-11-13/oneplus-15-review-features-gaming-processor-two-hours-of-battery-us-delays\">OnePlus launches the $900+ OnePlus 15, with a Snapdragon 8 Elite Gen 5 chip and a 6.78\" 165Hz display; the US launch is delayed due to the government shutdown</a></b></span>&nbsp; &mdash;&nbsp; The OnePlus 15 has top-tier gaming performance and can control TVs as a universal remote.&nbsp; &mdash;&nbsp; The US federal government shutdown &hellip; </p>",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-11-13/oneplus-15-review-features-gaming-processor-two-hours-of-battery-us-delays\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251113/i27.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251113/p27#a251113p27\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Chris Welch / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-11-13/oneplus-15-review-features-gaming-processor-two-hours-of-battery-us-delays\">OnePlus debuts the $900+ OnePlus 15, with a Snapdragon 8 Elite Gen 5, a 7,300mah battery, and a 6.78\" 165Hz screen; the US government shutdown delays a US debut</a></b></span>&nbsp; &mdash;&nbsp; The OnePlus 15 has top-tier gaming performance and can control TVs as a universal remote.&nbsp; &mdash;&nbsp; The US federal government shutdown &hellip; </p>",
       "published": "2025-11-13T14:55:01+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -299,24 +551,6 @@
       "summary": "The Commission said on Thursday that it had identified that Google is using its spam policy to push news media and other publishers' websites and content lower in search rankings when they include content from third parties.",
       "published": "2025-11-13T14:43:37+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "0c54effbc6128480fa531906f58d9ffe4a690879",
-      "title": "The OnePlus 15 is the phone to buy if you hate charging your phone",
-      "link": "https://www.theverge.com/tech/818933/oneplus-15-review-battery-screen-camera",
-      "summary": "Have you ever laid down for the night, only to realize your phone charger is across the room? And then thought to yourself, \"Nah, I'm not going to get up and plug it in\"? And then known without a shadow of a doubt that you won't regret that decision tomorrow - that your phone will [&#8230;]",
-      "published": "2025-11-13T14:30:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "2d6ebce7e8ae593f47adc8903fb36f2d66e75f6c",
-      "title": "The OnePlus 15 will go on sale in the US… sometime",
-      "link": "https://www.theverge.com/tech/819200/oneplus-15-on-sale-us-delay-fcc",
-      "summary": "OnePlus wants to sell you its new flagship phone; it just doesn’t know when it will be able to. Like so many other things these days, the OnePlus 15 is in limbo thanks to fallout from the government shutdown. The 15 launched earlier this year in China, and OnePlus has announced pricing for the US: [&#8230;]",
-      "published": "2025-11-13T14:30:00+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -383,6 +617,15 @@
       "category": "tech"
     },
     {
+      "id": "8ffd239b2725fbe7e73e9fa30deb55b4a9842f9d",
+      "title": "Lenovo’s 2025 Idea Tab Plus Android tablet with 90Hz display hits new $190 all-time low, more from $120",
+      "link": "https://9to5toys.com/2025/11/13/lenovo-2025-idea-tab-plus-android-tablet-all-time-low/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/Lenovo-Idea-Tab-Plus-tablet.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>As part of its now live <a href=\"https://bestbuycreators.7tiv.net/POn1nq\">early Black Friday sale</a>, Best Buy is offering <a href=\"https://bestbuycreators.7tiv.net/9LKnje\">Lenovo’s 2025 Idea Tab Plus Android tablet for <strong>$189.99 shipped</strong></a>. This particular model hit the scene earlier this year carrying a $290 price tag, and this unit here without the included Lenovo Pen typically goes for $270. It dropped to $200 earlier this month before quickly bouncing back up, but it’s now seeing an additional $10 off. That makes this the lowest price we’ve seen yet for this tablet, so be sure to snag it while the deal lasts. Alternatively, you can score the <a href=\"https://howl.link/46tb0ng0xrp3x\">variant with an included stylus for <strong>$208.99 shipped</strong></a> from Lenovo. Head below for more details.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/11/13/lenovo-2025-idea-tab-plus-android-tablet-all-time-low/#more-1175409\">more…</a>",
+      "published": "2025-11-13T14:05:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
       "id": "ff30a1a08513a52ae186e18d14203de3d865d0d5",
       "title": "Spotify starts rolling out Recaps, a new AI feature for audiobooks that summarizes what users have listened to so far, in beta on iOS (Elissa Welle/The Verge)",
       "link": "http://www.techmeme.com/251113/p23#a251113p23",
@@ -437,24 +680,6 @@
       "category": "deals"
     },
     {
-      "id": "79e42a0f5baa90cc3479dbc72fdaa4ab5bea96fc",
-      "title": "EU funnels fresh money to Ukraine for Naftogaz",
-      "link": "https://www.thestar.com.my/news/world/2025/11/13/eu-funnels-fresh-money-to-ukraine-for-naftogaz",
-      "summary": "WARSAW (Reuters) -Europe's top development banks and Ukrainian energy firm Naftogaz signed a deal on Thursday to provide hundreds of millions of euros to secure Ukraine's natural gas supply amid the ongoing attacks on its infrastructure by Russia. <a href=\"https://www.thestar.com.my/news/world/2025/11/13/eu-funnels-fresh-money-to-ukraine-for-naftogaz\">Read full story</a>",
-      "published": "2025-11-13T13:46:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "da57ba7ea0edf272924cbd37a0019b78375b098a",
-      "title": "KL Mayor Maimunah to be redeployed to PETRONAS",
-      "link": "https://www.thestar.com.my/metro/metro-news/2025/11/13/kl-mayor-maimunah-to-be-redeployed-to-petronas",
-      "summary": "KUALA LUMPUR: Kuala Lumpur Mayor Datuk Seri Dr Maimunah Mohd Sharif is set to leave Kuala Lumpur City Hall (DBKL) earlier than expected after the Yang di-Pertuan Agong consented to shorten her tenure by nine months to facilitate her move to a new role in PETRONAS. <a href=\"https://www.thestar.com.my/metro/metro-news/2025/11/13/kl-mayor-maimunah-to-be-redeployed-to-petronas\">Read full story</a>",
-      "published": "2025-11-13T13:33:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "33eff74249566e6df7266c9eedd79b58a41e441f",
       "title": "Spotify adds a new, less repetitive shuffle, plus audiobook recaps",
       "link": "https://techcrunch.com/2025/11/13/spotify-adds-a-new-less-repetitive-shuffle-plus-audiobook-recaps/",
@@ -471,15 +696,6 @@
       "published": "2025-11-13T13:27:43+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "87a5afef3bb08024014a8f5320230e918254961e",
-      "title": "10 people held after tense standoff between residents, police at Kampung Jalan Papan",
-      "link": "https://www.thestar.com.my/news/nation/2025/11/13/10-people-held-after-tense-standoff-between-residents-police-at-kampung-jalan-papan",
-      "summary": "PETALING JAYA: A total of ten people were arrested amid tense scenes as the demolition of homes at Kampung Jalan Papan, Pandamaran, Klang entered its fourth day. <a href=\"https://www.thestar.com.my/news/nation/2025/11/13/10-people-held-after-tense-standoff-between-residents-police-at-kampung-jalan-papan\">Read full story</a>",
-      "published": "2025-11-13T13:26:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "9ec7d05dde083d88d44e6326d54cacfb6c20560b",
@@ -507,15 +723,6 @@
       "published": "2025-11-13T13:08:46+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "f5ccf259dc8b3b8f2eb04c63729328e806e1f8d7",
-      "title": "Langkawi boat capsize: Two more bodies found, death toll rises to 28",
-      "link": "https://www.thestar.com.my/news/nation/2025/11/13/langkawi-boat-capsize-two-more-bodies-found-death-toll-rises-to-28",
-      "summary": "LANGKAWI: The death toll in the boat capsize incident at the Malaysia-Thailand border waters off Langkawi has risen to 28 people after two more bodies were recovered. <a href=\"https://www.thestar.com.my/news/nation/2025/11/13/langkawi-boat-capsize-two-more-bodies-found-death-toll-rises-to-28\">Read full story</a>",
-      "published": "2025-11-13T13:01:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "a9114fedfa47cbc4c1b059aa3447e5245e23d858",
@@ -554,15 +761,6 @@
       "category": "malaysia"
     },
     {
-      "id": "154103ce6b124f14e22ae77d91e06eb8c5c3dfe3",
-      "title": "Philippine political veteran Juan Ponce Enrile, key Marcos Sr-era figure, dies at 101",
-      "link": "https://www.thestar.com.my/news/world/2025/11/13/philippine-political-veteran-juan-ponce-enrile-key-marcos-sr-era-figure-dies-at-101",
-      "summary": "MANILA (Reuters) -Juan Ponce Enrile, one of the most enduring and polarising figures in Philippine politics, who played a central role during the rule of the late Philippine strongman Ferdinand Marcos Sr, died on Thursday at the age of 101, his daughter said. <a href=\"https://www.thestar.com.my/news/world/2025/11/13/philippine-political-veteran-juan-ponce-enrile-key-marcos-sr-era-figure-dies-at-101\">Read full story</a>",
-      "published": "2025-11-13T13:00:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "52cba82ba38637ce5e843c714365a8be14fb4c53",
       "title": "Amazon’s early Black Friday sale knocks eero Pro 6E mesh Wi-Fi system to lowest prices from $160",
       "link": "https://9to5toys.com/2025/11/13/amazon-early-black-friday-sale-eero-pro-6e-mesh-wi-fi-system/",
@@ -570,15 +768,6 @@
       "published": "2025-11-13T12:47:22+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "795c96d52ef28e81452ae81c4c6349863c92c249",
-      "title": "A look at Indian messaging app Arattai, which officials are backing as a domestic WhatsApp alternative; Arattai maker Zoho says it had 350K sign-ups in October (Financial Times)",
-      "link": "http://www.techmeme.com/251113/p20#a251113p20",
-      "summary": "<a href=\"https://www.ft.com/content/08a5adf8-781c-4bc9-a2db-6ea3d90c8c09\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251113/i20.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251113/p20#a251113p20\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/08a5adf8-781c-4bc9-a2db-6ea3d90c8c09\">A look at Indian messaging app Arattai, which officials are backing as a domestic WhatsApp alternative; Arattai maker Zoho says it had 350K sign-ups in October</a></b></span>&nbsp; &mdash;&nbsp; Top officials promote domestic messaging platform as Narendra Modi pushes self-reliance in face of US tariffs</p>",
-      "published": "2025-11-13T12:40:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "f13accaaacb8b316ffa96bd802d7e5ac2f03c350",
@@ -599,24 +788,6 @@
       "category": "deals"
     },
     {
-      "id": "84031df2f41bf9ffc17a55e615f85000219f29f7",
-      "title": "Liew slams backbenchers for taking his speech on Malaysia-US trade deal out of context",
-      "link": "https://www.thestar.com.my/news/nation/2025/11/13/liew-slams-backbenchers-for-taking-his-speech-on-malaysia-us-trade-deal-out-of-context",
-      "summary": "KUALA LUMPUR: Deputy Investment, Trade and Industry Minister Liew Chin Tong has slammed backbenchers for taking his remarks on the Malaysia-United States Agreement on Reciprocal Trade (ART) out of context. <a href=\"https://www.thestar.com.my/news/nation/2025/11/13/liew-slams-backbenchers-for-taking-his-speech-on-malaysia-us-trade-deal-out-of-context\">Read full story</a>",
-      "published": "2025-11-13T12:28:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "0edd71c2b921e339afc9b9084e4c41e86ba393dd",
-      "title": "At a Moscow demo, anthropomorphic robot AIDOL, one of the first in Russia, face-planted; organizers dragged the machine away and covered it with a black drape (Neil Vigdor/New York Times)",
-      "link": "http://www.techmeme.com/251113/p19#a251113p19",
-      "summary": "<a href=\"https://www.nytimes.com/2025/11/12/technology/ai-robot-russia-falls.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251113/i19.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251113/p19#a251113p19\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Neil Vigdor / <a href=\"https://www.nytimes.com/\">New York Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nytimes.com/2025/11/12/technology/ai-robot-russia-falls.html\">At a Moscow demo, anthropomorphic robot AIDOL, one of the first in Russia, face-planted; organizers dragged the machine away and covered it with a black drape</a></b></span>&nbsp; &mdash;&nbsp; The robot, known as AIDOL, staggered onstage during a technology showcase in Moscow.&nbsp; Organizers blamed the mishap on calibration and lighting issues.</p>",
-      "published": "2025-11-13T12:25:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "6302a1303b71411eb9790a5f2a6535f8bba566c7",
       "title": "Spain fines Musk’s X RM23.9m over cryptoasset advertising breach",
       "link": "https://www.malaymail.com/news/money/2025/11/13/spain-fines-musks-x-rm239m-over-cryptoasset-advertising-breach/198278",
@@ -635,24 +806,6 @@
       "category": "malaysia"
     },
     {
-      "id": "d08e99a837d7eb0d15c3ea8dc141c9294aaaf19a",
-      "title": "UK-based BNPL startup Zilch raised $176.7M in equity and debt led by KKCG at the same $2B valuation as its 2022 funding, after raising $127M in 2024 (Aisha S Gani/Bloomberg)",
-      "link": "http://www.techmeme.com/251113/p18#a251113p18",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-11-13/uk-fintech-zilch-raises-177-million-eyes-takeover-opportunities\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251113/i18.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251113/p18#a251113p18\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Aisha S Gani / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-11-13/uk-fintech-zilch-raises-177-million-eyes-takeover-opportunities\">UK-based BNPL startup Zilch raised $176.7M in equity and debt led by KKCG at the same $2B valuation as its 2022 funding, after raising $127M in 2024</a></b></span>&nbsp; &mdash;&nbsp; UK fintech Zilch Technology Ltd. raised $176.7 million in a mixed debt and equity raise to fund expansion and potentially a takeover.</p>",
-      "published": "2025-11-13T12:15:12+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "4e36fce10ec252445071dbb58a12e130c9657293",
-      "title": "AI coding startup Cursor raised a $2.3B Series D co-led by Accel and Coatue at a $29.3B valuation, after raising a $900M Series C at a $9.9B valuation in June (Angel Au-Yeung/Wall Street Journal)",
-      "link": "http://www.techmeme.com/251113/p17#a251113p17",
-      "summary": "<a href=\"https://www.wsj.com/tech/ai/the-ai-coding-startup-favored-by-tech-ceos-is-now-worth-29-3-billion-14c72c02?st=9CAcjj&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251113/i17.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251113/p17#a251113p17\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Angel Au-Yeung / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/tech/ai/the-ai-coding-startup-favored-by-tech-ceos-is-now-worth-29-3-billion-14c72c02?st=9CAcjj&amp;reflink=desktopwebshare_permalink\">AI coding startup Cursor raised a $2.3B Series D co-led by Accel and Coatue at a $29.3B valuation, after raising a $900M Series C at a $9.9B valuation in June</a></b></span>&nbsp; &mdash;&nbsp; Cursor, which was founded by four MIT graduates who are still in their mid-20s, raised $2.3 billion in its third funding round this year</p>",
-      "published": "2025-11-13T12:06:50+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "a6fb4c246ae70df8ab38ae1cb9d2d760fb761287",
       "title": "Penang Port Commission denies claim Pulau Duyung ferry had only three life jackets",
       "link": "https://www.malaymail.com/news/malaysia/2025/11/13/penang-port-commission-denies-claim-pulau-duyung-ferry-had-only-three-life-jackets/198275",
@@ -660,15 +813,6 @@
       "published": "2025-11-13T12:06:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "a9bffd367b6a9609fe2c0172c6977bbb153dd7f9",
-      "title": "Leaker Evan Blass details Samsung's upcoming trifold phone: named \"Galaxy Z TriFold\", it has a 6.5\" cover display, a 10\" total display, and a 200MP main camera (Thomas Ricker/The Verge)",
-      "link": "http://www.techmeme.com/251113/p16#a251113p16",
-      "summary": "<a href=\"https://www.theverge.com/news/819820/samsungs-trifold-gets-a-name-and-confirmed-specs\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251113/i16.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251113/p16#a251113p16\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Thomas Ricker / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/news/819820/samsungs-trifold-gets-a-name-and-confirmed-specs\">Leaker Evan Blass details Samsung's upcoming trifold phone: named &ldquo;Galaxy Z TriFold&rdquo;, it has a 6.5\" cover display, a 10\" total display, and a 200MP main camera</a></b></span>&nbsp; &mdash;&nbsp; The Galaxy Z TriFold could launch on December 5th. &hellip; Reputable gadget leaker Evan Blass has taken to X with &hellip; </p>",
-      "published": "2025-11-13T12:03:18+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "b9289dfc6372b94869053de40e915dc5e3367278",
@@ -689,15 +833,6 @@
       "category": "tech"
     },
     {
-      "id": "fc70571f03aaa574f8c72ca740e0bb9efba64c91",
-      "title": "Milestone raises $10M to make sure AI rhymes with ROI",
-      "link": "https://techcrunch.com/2025/11/13/milestone-raises-10m-to-make-sure-ai-rhymes-with-roi/",
-      "summary": "Israeli startup Milestone raised a $10 million seed funding round to correlate AI tool usage with engineering metrics, including code quality.",
-      "published": "2025-11-13T12:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "d5bb052639ab415b0c9f0453cb45cda865653daf",
       "title": "Amazon just knocked $300 off Apple’s Space Black  1TB M4 iPad Pro cell model",
       "link": "https://9to5toys.com/2025/11/13/amazon-apple-space-black-1tb-m4-ipad-pro/",
@@ -705,24 +840,6 @@
       "published": "2025-11-13T11:59:24+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "dd9e8488c21c983743d5fc4b5b506e55dc58ed9a",
-      "title": "Best Buy Black Friday Deals of the Day: Up to $550 off Microsoft Surface laptops, Arc Mouse at $55, more",
-      "link": "https://9to5toys.com/2025/11/13/best-buy-black-friday-deals-of-the-day-up-to-550-off/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/11/Best-Buy-DOTD-Day-1-deals.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>We’re two weeks into <a href=\"https://bestbuycreators.7tiv.net/LKWMAM\">Best Buy’s Black Friday 2025</a> festivities, and the retailer has been steadily rolling out new offers. It has also stepped up its daily deals lineup, featuring fresh price drops on some of our favorite gear – many hitting their lowest prices yet. You can scope out today’s Best Buy Black Friday <a href=\"https://bestbuycreators.7tiv.net/LKWMAM\">Deals of the Day offers right here</a>, and head below for more details.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/11/13/best-buy-black-friday-deals-of-the-day-up-to-550-off/#more-1175600\">more…</a>",
-      "published": "2025-11-13T11:57:46+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "092030ccbd04477b4da20dfa419d4d11e8afebd2",
-      "title": "Two ex-Ayah Pin followers among 13 nabbed over Kelantan Palace gathering",
-      "link": "https://www.thestar.com.my/news/nation/2025/11/13/two-ex-ayah-pin-followers-among-13-nabbed-over-kelantan-palace-gathering",
-      "summary": "MACHANG: Police have confirmed that two followers of the Ayah Pin deviant sect were among the 13 individuals detained after gathering outside Istana Negeri in Kubang Kerian, Kota Bharu, on Tuesday (Nov 11). <a href=\"https://www.thestar.com.my/news/nation/2025/11/13/two-ex-ayah-pin-followers-among-13-nabbed-over-kelantan-palace-gathering\">Read full story</a>",
-      "published": "2025-11-13T11:56:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "92c6eeda8bdf2875f6b3c1dc00bd3824d40d1efc",
@@ -734,15 +851,6 @@
       "category": "malaysia"
     },
     {
-      "id": "e39ab157cc8780c664e65d92d4bf555cbc05f278",
-      "title": "Gurney Bay playground sealed after teen suffers head injury",
-      "link": "https://www.thestar.com.my/news/nation/2025/11/13/gurney-bay-playground-sealed-after-teen-suffers-head-injury",
-      "summary": "GEORGE TOWN: A 15-year-old boy from Sarawak suffered a serious injury after hitting his head on a metal bar at a playground in Gurney Bay, with blood flowing from the gash onto the obstacle course. <a href=\"https://www.thestar.com.my/news/nation/2025/11/13/gurney-bay-playground-sealed-after-teen-suffers-head-injury\">Read full story</a>",
-      "published": "2025-11-13T11:40:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "db4ace6e8d610abc3c6bc3eb9925ac1a5824ec35",
       "title": "Azalina: Govt to establish Online Safety Committee under new Act to address harmful content, protect users",
       "link": "https://www.malaymail.com/news/malaysia/2025/11/13/azalina-govt-to-establish-online-safety-committee-under-new-act-to-address-harmful-content-protect-users/198272",
@@ -750,24 +858,6 @@
       "published": "2025-11-13T11:39:20+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "96c0fbb05b83eec4b8be9ebd6aa7ed2d6d646c1f",
-      "title": "Most affordable new Midnight Apple Watch SE 3 now live at the $200 Amazon all-time low, more",
-      "link": "https://9to5toys.com/2025/11/13/most-affordable-new-midnight-apple-watch-se-3-deal/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/11/Apple-Watch-SE-3-deals-1.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>We caught our very first deal on Apple’s new Midnight 44mm Midnight SE 3 wearable the other day. It went completely out of stock before making a return yesterday – it is still live at the moment – and now the most affordable Midnight model in the new collection is live at its <strong>$199.99</strong> all-time low. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/11/13/most-affordable-new-midnight-apple-watch-se-3-deal/#more-1175601\">more…</a>",
-      "published": "2025-11-13T11:33:43+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "c6b74a4ca25d7a5ae055f5512f8960646205b9b3",
-      "title": "South Sudan leader sacks powerful vice-president in shock move",
-      "link": "https://www.bbc.com/news/articles/ceq0e7q7vl8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Bol Mel, who is sanctioned by the US for alleged corruption, had been tipped as Kiir's successor.",
-      "published": "2025-11-13T11:32:32+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "3688130bc19564afcd919c22485392dbf1317b9a",
@@ -806,15 +896,6 @@
       "category": "deals"
     },
     {
-      "id": "f373fab4cb928d8fe818fb5719ef9e831c0c1ea7",
-      "title": "Apple Watch Ultra 3 Alpine and Trail configs hit Amazon all-time lows today at $99 off (Black and Natural)",
-      "link": "https://9to5toys.com/2025/11/13/apple-watch-ultra-3-alpine-trail-amazon-deals/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/11/Apple-Watch-Ultra-3-best-price.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>We caught some early and quite impressive $99 price drops on the brand new Apple Watch Ultra 3 as part of the major early Black Friday offers. At the time that was largely just for Costco members or only on the new Ocean Band configurations elsewhere, but this morning Amazon has put a number of the Alpine and Trail Loop at $99 off as well. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/11/13/apple-watch-ultra-3-alpine-trail-amazon-deals/#more-1175596\">more…</a>",
-      "published": "2025-11-13T11:03:32+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "d749854c34190b81f673f3eb4f4b5a94774fef30",
       "title": "Over 200 Kenyans fighting for Russia in Ukraine - minister",
       "link": "https://www.bbc.com/news/articles/cddrj3mzgz2o?at_medium=RSS&at_campaign=rss",
@@ -831,15 +912,6 @@
       "published": "2025-11-13T11:01:34+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "e7c0f9acf23be96e08dd12e11045f2e75113341c",
-      "title": "Cash App debuts a new AI assistant that answers questions about your finances",
-      "link": "https://techcrunch.com/2025/11/13/cash-app-debuts-a-new-ai-assistant-that-answers-questions-about-your-finances/",
-      "summary": "Cash App is adding a map to its app to let users discover places that accept bitcoin",
-      "published": "2025-11-13T11:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "75a55b38d2671ec2b80c1e389cc18538ed5d9c48",
@@ -894,15 +966,6 @@
       "published": "2025-11-13T10:24:54+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "9821cd8d3bd12d06e6ed175c78808e417a1bbc61",
-      "title": "Target Black Friday Deals of the Day – Day 13: JBL buds 55% off, kids’ toys, holiday lighting/crafts, more from $1.50",
-      "link": "https://9to5toys.com/2025/11/13/target-black-friday-deals-of-the-day-day-13-jbl-buds-55-off-kids-toys-holiday-lighting-crafts-more-from-1-50/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/11/Target-Black-Friday-Deals-of-the-Day-13.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>We are on the horizon now for the next major batch of early deals now, but with the start of a new day brings a fresh selection of <a href=\"https://howl.link/ianyznjls6ziu\">Target Black Friday Deals of the Day</a> beforehand. Over on this <a href=\"https://howl.link/ianyznjls6ziu\">dedicated landing page</a>, you’ll now find the Day 13 Target Black Friday Deals of the Day ready and waiting. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/11/13/target-black-friday-deals-of-the-day-day-13-jbl-buds-55-off-kids-toys-holiday-lighting-crafts-more-from-1-50/#more-1175591\">more…</a>",
-      "published": "2025-11-13T10:24:07+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "648916229553faf32f69a4344c35466de11faa35",
@@ -986,15 +1049,6 @@
       "category": "deals"
     },
     {
-      "id": "e3c5c0acd5a3a40cafaf8212810aae14d7618109",
-      "title": "Willow’s voice keyboard lets you type across all your iOS apps — and actually edit what you said",
-      "link": "https://techcrunch.com/2025/11/12/willows-voice-keyboard-lets-you-type-across-all-your-ios-apps-and-actually-edit-what-you-said/",
-      "summary": "Willow's iOS keyboard lets you type or use your voice to dictate and input text.",
-      "published": "2025-11-13T07:21:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "37bba35039801f1b668ce82909db80d0a8c2c86a",
       "title": "French relief as Algeria frees jailed novelist at centre of diplomatic crisis",
       "link": "https://www.bbc.com/news/articles/c1wlywx5vv3o?at_medium=RSS&at_campaign=rss",
@@ -1049,15 +1103,6 @@
       "category": "world"
     },
     {
-      "id": "7bb16c53e133f6f170c5518436a18458c0cd87fa",
-      "title": "Kering-backed fund Mirova pours $30.5M into India’s Varaha for regenerative farming",
-      "link": "https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/",
-      "summary": "Varaha aims to support around 337,000 farmers across 675,000 hectares in northern India through its regenerative farming project.",
-      "published": "2025-11-13T05:30:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "ba0a373177afa224d87aac1b46dae29e69f8dda8",
       "title": "macOS 26.2 Developer Beta Introduces Edge Light Feature For Brighter Video Calls",
       "link": "https://www.lowyat.net/2025/373131/macos-26-2-edge-light/",
@@ -1094,15 +1139,6 @@
       "category": "world"
     },
     {
-      "id": "dc9ff084cf3ea06a551172d39581e042650948a4",
-      "title": "Jack Dorsey funds diVine, a Vine reboot that includes Vine’s video archive",
-      "link": "https://techcrunch.com/2025/11/12/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive/",
-      "summary": "Jack Dorsey backs diVine, a Vine reboot that includes Vine's video archive of six-second, looping videos. A new app called diVine will give access to more than 100,000 archived Vine videos, restored from an older backup that was created before Vine's shutdown.",
-      "published": "2025-11-13T02:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "726b0b9046cda8fa2bb5b01982a1439f7fb23344",
       "title": "The fallout from Nigeria's spectacular $25m museum and the Benin Bronzes",
       "link": "https://www.bbc.com/news/articles/c1d0ydl7dypo?at_medium=RSS&at_campaign=rss",
@@ -1128,15 +1164,6 @@
       "published": "2025-11-13T00:19:53+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "bd4c180e35543c41a3bb93e098ecdb96d316e53e",
-      "title": "‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake",
-      "link": "https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/",
-      "summary": "Chad: The Brainrot IDE is an actual product that pairs vibe coding with brainrot activities like gambling, Tinder and games.",
-      "published": "2025-11-13T00:05:30+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "cb454bd618c32f73339e310e3a749ec0464300fb",
@@ -1211,39 +1238,12 @@
       "category": "tech"
     },
     {
-      "id": "789f6861d673834a67a705806382591e7ed2b95b",
-      "title": "Cybersecurity firm Deepwatch lays off dozens, citing move to ‘accelerate’ AI investment",
-      "link": "https://techcrunch.com/2025/11/12/cybersecurity-firm-deepwatch-lays-off-dozens-citing-move-to-accelerate-ai-investment/",
-      "summary": "Deepwatch’s CEO told TechCrunch that the layoffs allow the company to accelerate investments in “AI and automation.”",
-      "published": "2025-11-12T20:05:35+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "f657f4bbb688c00d3065e46ac486a428ebc86af4",
-      "title": "ElevenLabs strike deals with celebs to create AI audio",
-      "link": "https://techcrunch.com/2025/11/12/elevenlabs-strike-deals-with-celebs-to-create-ai-audio/",
-      "summary": "ElevenLabs struck a deal with actors Michael Caine and Matthew McConaughey to AI-generate their voices.",
-      "published": "2025-11-12T20:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "cef0aea9ec19cf566697fd411ae776aa32052bff",
       "title": "Well-received big-budget Alien Earth TV series gets a second season",
       "link": "https://arstechnica.com/culture/2025/11/alien-earth-and-series-creator-noah-hawley-will-return-for-season-2/",
       "summary": "Production will move from Thailand to London, suggesting a new setting.",
       "published": "2025-11-12T19:53:07+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "6eacf8238f7543f094939d676d39cdd51d04d94f",
-      "title": "Elon Musk’s X botched its security key switchover, locking users out",
-      "link": "https://techcrunch.com/2025/11/12/elon-musks-x-botched-its-security-key-switchover-locking-users-out/",
-      "summary": "As part of an effort to retire the old Twitter.com domain, X is requiring passkey and security key users to re-enroll — but are getting stuck in endless loops and unable to finish.",
-      "published": "2025-11-12T19:40:08+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1427,6 +1427,15 @@
       "category": "world"
     },
     {
+      "id": "5b9a7a7004467e74ea5c92855e0bd0612b0abfc7",
+      "title": "Waldium",
+      "link": "https://www.producthunt.com/products/waldium",
+      "summary": "<p>\n            The autonomous blog that writes while you build product\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/waldium?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1037099?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-12T01:00:22+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "a82c74d95bdc688b3937a57f278f617cd1becb30",
       "title": "Original Mac calculator design came from letting Steve Jobs play with menus for 10 minutes",
       "link": "https://arstechnica.com/gadgets/2025/11/original-mac-calculators-design-came-from-letting-steve-jobs-play-with-sliders-for-ten-minutes/",
@@ -1517,20 +1526,20 @@
       "category": "events"
     },
     {
+      "id": "6df4012e79b51dbd70e43a47ccb3a75ab49d6cd8",
+      "title": "Sprites.ai",
+      "link": "https://www.producthunt.com/products/sprites-ai",
+      "summary": "<p>\n            AI agent that automates your Google Ads \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sprites-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1036633?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-10T20:54:35+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "25204bac3f2cabdcdd4e56e4186522f525f00272",
       "title": "Nomad Care Map",
       "link": "https://www.producthunt.com/products/safetywing",
       "summary": "<p>\n            Find trusted medical care around the world\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/safetywing?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1036445?app_id=339\">Link</a>\n          </p>",
       "published": "2025-11-10T12:12:21+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "8ffd0dfb5355cde95548c13aea687aa7421d1ab0",
-      "title": "Webflow App Gen",
-      "link": "https://www.producthunt.com/products/webflow",
-      "summary": "<p>\n            Build full-stack web apps natively in Webflow with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/webflow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1035715?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-11-07T23:11:44+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1544,20 +1553,11 @@
       "category": "events"
     },
     {
-      "id": "6b4ddd0b691a766c8a23291e7030fc7a26d8a2dc",
-      "title": "MacDetox",
-      "link": "https://www.producthunt.com/products/macdetox",
-      "summary": "<p>\n            Hover ← to see the pain. Install to end it.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/macdetox?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1034501?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-11-04T18:36:36+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "d31635e12b9b300850990925fd5fa12fb295dd03",
-      "title": "Superapp",
-      "link": "https://www.producthunt.com/products/superapp",
-      "summary": "<p>\n            Build native iOS apps with AI & Swift\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/superapp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1032706?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-30T19:13:55+00:00",
+      "id": "db9f89450fa62e0ff94f9b63e6ba1f9ca46e9ed7",
+      "title": "Geekflare Connect",
+      "link": "https://www.producthunt.com/products/geekflare-connect",
+      "summary": "<p>\n            BYOK AI Workspace: Chat 40+ Models, Slash Costs, Team Up\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/geekflare-connect?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1032282?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-10-29T15:34:36+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
