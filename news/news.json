@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2025-11-15T16:14:52.597702+00:00",
+  "generatedAt": "2025-11-15T17:10:48.730554+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "a55579d7b03bd03c13b9cc5ab3b109db68296b32",
+      "title": "Loud and colourful crowds march outside COP30 climate summit",
+      "link": "https://www.bbc.com/news/articles/cy40z22qqwwo?at_medium=RSS&at_campaign=rss",
+      "summary": "This is the first time since 2021 that protesters have been allowed to demonstrate outside the UN talks.",
+      "published": "2025-11-15T17:09:03+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "82ff4f080d25aacc480df07db1f32c9844515cca",
+      "title": "Driver released after deadly Stockholm bus crash",
+      "link": "https://www.bbc.com/news/articles/c629m7jm777o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police are still investigating the circumstances but said there is no reason to think the crash was intentional.",
+      "published": "2025-11-15T17:00:29+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "c8bfe0671601e7de44d46d1abe22819fb46420f2",
+      "title": "Here are 25 of our favorite outdoorsy deals from REI’s massive Holiday Sale",
+      "link": "https://www.theverge.com/gadgets/821397/best-rei-holiday-sale-2025-deals",
+      "summary": "REI doesn’t do Black Friday, but that doesn’t mean you won’t be able to save this holiday season. The outdoor retailer’s annual Holiday Sale is now underway and runs through November 24th, offering up to 30 percent off gadgets and gear designed for the outdoors. Right now, you can save on Garmin watches, headlamps, sleeping [&#8230;]",
+      "published": "2025-11-15T17:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "aff97be2aecf47c333a26c235d50beb8e824de05",
+      "title": "US and UK warn of major e-visa data breach in Somalia",
+      "link": "https://www.bbc.com/news/articles/c620e43z2q5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tens of thousands of people's personal data has been leaked online, according to the US embassy.",
+      "published": "2025-11-15T16:28:26+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "5e0538429d5c0e355827149ad0104712490e20e7",
+      "title": "Political fixer Bradley Tusk's nonprofit releases VoteSecure, an open-source cryptographic protocol for mobile voting, amid skepticism from cryptographers (Steven Levy/Wired)",
+      "link": "http://www.techmeme.com/251115/p4#a251115p4",
+      "summary": "<a href=\"https://www.wired.com/story/bradley-tusk-mobile-voting-protocol/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251115/i4.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251115/p4#a251115p4\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Steven Levy / <a href=\"http://www.wired.com/\">Wired</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wired.com/story/bradley-tusk-mobile-voting-protocol/\">Political fixer Bradley Tusk's nonprofit releases VoteSecure, an open-source cryptographic protocol for mobile voting, amid skepticism from cryptographers</a></b></span>&nbsp; &mdash;&nbsp; Political consultant Bradley Tusk has spent a fortune on mobile voting efforts.&nbsp; Now, he's launching a protocol to try to mainstream the technology.</p>",
+      "published": "2025-11-15T16:25:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
     {
       "id": "c3eb9141534999b5db3729305c620d46600c7052",
       "title": "Pope Leo welcomes Hollywood stars to the Vatican",
@@ -48,15 +93,6 @@
       "published": "2025-11-15T15:35:00+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "5f2280924650298548aa11386e04354beeca1a8f",
-      "title": "Crowds march on doorstep of COP30 climate summit",
-      "link": "https://www.bbc.com/news/articles/cy40z22qqwwo?at_medium=RSS&at_campaign=rss",
-      "summary": "This is the first time since 2021 that protesters have been allowed to demonstrate outside the UN talks.",
-      "published": "2025-11-15T15:02:36+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "e93aa135e012c0724eb78f48be9a61cffdead35a",
@@ -192,15 +228,6 @@
       "published": "2025-11-15T13:27:09+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "aff97be2aecf47c333a26c235d50beb8e824de05",
-      "title": "US and UK warn of major e-visa data breach in Somalia",
-      "link": "https://www.bbc.com/news/articles/c620e43z2q5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tens of thousands of people's personal data has been leaked online, according to the US embassy.",
-      "published": "2025-11-15T13:27:05+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "92df8d51a071a71c7c91c4f5d2e5259574e20c7b",
@@ -815,15 +842,6 @@
       "category": "tech"
     },
     {
-      "id": "cf474fadf03fd2c7cdaa5070790be835efdb9ebd",
-      "title": "Three killed after bus crashes into Stockholm bus stop",
-      "link": "https://www.bbc.com/news/articles/c629m7jm777o?at_medium=RSS&at_campaign=rss",
-      "summary": "The bus driver has been arrested but police say \"there is currently no indication that the incident was intentional\".",
-      "published": "2025-11-14T21:51:44+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "ae5d13fed88654c02efc259efc9c22cfd0463f38",
       "title": "US may owe $1 trillion in refunds if SCOTUS cancels Trump tariffs",
       "link": "https://arstechnica.com/tech-policy/2025/11/tariff-refunds-may-get-messy-if-trump-loses-supreme-court-fight/",
@@ -887,15 +905,6 @@
       "category": "tech"
     },
     {
-      "id": "3a84e61fdbc62b80c16fdbd7729b3fd4656adc27",
-      "title": "Internal memo: Meta plans to assess employees on their \"AI-driven impact\", which will be a \"core expectation\" of their performance from 2026 (Jyoti Mann/Business Insider)",
-      "link": "http://www.techmeme.com/251114/p24#a251114p24",
-      "summary": "<a href=\"https://www.businessinsider.com/meta-ai-employee-performance-review-overhaul-2025-11\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251114/i24.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251114/p24#a251114p24\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jyoti Mann / <a href=\"https://www.businessinsider.com/\">Business Insider</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.businessinsider.com/meta-ai-employee-performance-review-overhaul-2025-11\">Internal memo: Meta plans to assess employees on their &ldquo;AI-driven impact&rdquo;, which will be a &ldquo;core expectation&rdquo; of their performance from 2026</a></b></span>&nbsp; &mdash;&nbsp; - Meta will assess employee performance by AI-driven impact starting in 2026.&nbsp; &mdash; The company is shifting toward &hellip; </p>",
-      "published": "2025-11-14T20:45:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "836f9c988063c4a6d077e597f51b82388a678216",
       "title": "“How about no”: FCC boss Brendan Carr says he won’t end news distortion probes",
       "link": "https://arstechnica.com/tech-policy/2025/11/how-about-no-fcc-boss-brendan-carr-says-he-wont-end-news-distortion-probes/",
@@ -919,15 +928,6 @@
       "link": "https://www.theverge.com/news/821250/switch-2-update-third-party-dock-update-blocked",
       "summary": "Nintendo recently issued an update (21.0.0) for its Switch 2 console that, in addition to some small changes, has caused some third-party docks to stop working as intended. In the early weeks and months of the console’s availability this summer, companies raced to figure out the right commands, the right power draw, and the right [&#8230;]",
       "published": "2025-11-14T20:00:27+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "5e06c710ad2aeebfca33c2cbc1c40b7895552a8b",
-      "title": "Paramount Skydance is working on a new Star Trek movie",
-      "link": "https://www.theverge.com/entertainment/821219/paramount-skydance-star-trak-movie-jonathan-goldstein-john-francis-daley",
-      "summary": "Paramount Skydance head David Ellison made it very clear that he was interested in restarting the studio’s Star Trek movie franchise with some new blood, and it seems like that plan is moving forward. Deadline reports that Dungeons &#38; Dragons: Honor Among Thieves co-directors Jonathan Goldstein and John Francis Daley have signed on to an [&#8230;]",
-      "published": "2025-11-14T19:32:06+00:00",
       "source": "The Verge",
       "category": "tech"
     },
@@ -1472,11 +1472,11 @@
       "category": "malaysia"
     },
     {
-      "id": "d3f8b9df7df0690d972b115a8488e5057e90dc86",
-      "title": "Bunny Shield",
-      "link": "https://www.producthunt.com/products/bunny-net",
-      "summary": "<p>\n            Strong CDN security without gatekeeping\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bunny-net?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1037236?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-11-12T09:52:26+00:00",
+      "id": "0d4741b1d9dafb25d9811fe730fc5e99fd6b80a8",
+      "title": "Velvet",
+      "link": "https://www.producthunt.com/products/velvet-5",
+      "summary": "<p>\n            Integrated platform for making AI videos\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/velvet-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1037425?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-12T19:07:53+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1490,6 +1490,15 @@
       "category": "events"
     },
     {
+      "id": "cad9b277743b80fa3234d41b686fd8ccff4539d0",
+      "title": "Willow on IOS",
+      "link": "https://www.producthunt.com/products/willow-voice",
+      "summary": "<p>\n            Write 5x faster with voice dictation now Available on iOS\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1037080?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-11T23:05:02+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "823199b810300801b44a950e8f60499c24760fb5",
       "title": "Documenso 2.0.0",
       "link": "https://www.producthunt.com/products/documenso",
@@ -1499,20 +1508,20 @@
       "category": "events"
     },
     {
-      "id": "929d9b0f46e7fc1a2fae911b87ad8a58fc1d19de",
-      "title": "Devpilot",
-      "link": "https://www.producthunt.com/products/devpilot-2",
-      "summary": "<p>\n            The AI co-pilot for your entire development lifecycle.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/devpilot-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1036935?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-11-11T13:44:00+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "9feeb8eaccd93988d2b4a350df7d0d1e1c90ad4f",
       "title": "Email Buttons",
       "link": "https://www.producthunt.com/products/email-buttons",
       "summary": "<p>\n            Turn email links into buttons that get clicked\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/email-buttons?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1036874?app_id=339\">Link</a>\n          </p>",
       "published": "2025-11-11T11:50:46+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "21a41b2488eb51573bb456f6df9daf41fc24dc2d",
+      "title": "Lifter",
+      "link": "https://www.producthunt.com/products/lifter-import-sort",
+      "summary": "<p>\n            Import. Organize. Simplify.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lifter-import-sort?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1036843?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-11T10:33:23+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1558,15 +1567,6 @@
       "link": "https://www.producthunt.com/products/scraib-app",
       "summary": "<p>\n            AI writing partner in every app on your Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/scraib-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1025285?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-10T22:53:01+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "49e4c4b3700b38315a16141f4eb31ae35a974817",
-      "title": "Khorus",
-      "link": "https://www.producthunt.com/products/khorus",
-      "summary": "<p>\n            Cursor for A2A, where Agents collaborate & build together\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/khorus?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1023931?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-07T10:48:56+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
