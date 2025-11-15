@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2025-11-15T21:11:34.882361+00:00",
+  "generatedAt": "2025-11-15T22:10:30.304335+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "88d8fbe4a80f05d5a1ffe2a8b06807980dc4d1c8",
+      "title": "JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills",
+      "link": "https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/",
+      "summary": "A lawyer representing JPMorgan said Javice’s legal team billed for expenses including luxury hotel upgrades, 24 hours of work in a single day, and cellulite butter.",
+      "published": "2025-11-15T22:01:49+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "a47c9fdb4de5d1788c16dbe8f4d0848972c6087f",
+      "title": "Feud erupts between Trump and longtime ally Marjorie Taylor Greene",
+      "link": "https://www.bbc.com/news/articles/c9wv4dx05q5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Georgia congresswoman has criticised Trump's foreign policy and handling of Jeffrey Epstein files.",
+      "published": "2025-11-15T21:34:43+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "6e2bb2573b3f69076fcd7f7188d18f3c588aaa6c",
       "title": "Jury says Apple owes Masimo $634M for patent infringement",
@@ -219,15 +237,6 @@
       "published": "2025-11-15T16:00:00+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "2cb8093a187cadc9cc3fb4e23feaa0e41ec51fbe",
-      "title": "Trump targets longtime MAGA ally Marjorie Taylor Greene",
-      "link": "https://www.bbc.com/news/articles/c9wv4dx05q5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Georgia congresswoman has criticised Trump's focus on foreign policy and handling of Jeffrey Epstein files.",
-      "published": "2025-11-15T15:46:15+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "40889c9eb26e0b23c28db724a25c20a3002e7080",
@@ -1391,15 +1400,6 @@
       "category": "tech"
     },
     {
-      "id": "2b42a771693a0e0216cd2ca11c0fab80ad13fead",
-      "title": "Blue Origin sticks first New Glenn rocket landing and launches NASA spacecraft",
-      "link": "https://techcrunch.com/2025/11/13/blue-origin-sticks-first-new-glenn-rocket-landing-and-launches-nasa-spacecraft/",
-      "summary": "It's an impressive accomplishment for the new mega-rocket launch system, and paves the way for the company to start re-using the boosters in commercial missions.",
-      "published": "2025-11-13T21:51:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "633600a6b04e32ee5b2cf731dc493ce817072de8",
       "title": "Tesla Model Y Long Range AWD: KL–Kuantan–KL on a single charge — and yes, with zero range anxiety",
       "link": "https://soyacincau.com/2025/11/14/tesla-model-y-long-range-awd-kl-kuantan-kl-single-charge-ev-road-trip/",
@@ -1472,6 +1472,15 @@
       "category": "malaysia"
     },
     {
+      "id": "fa22db3d090488f559321d7c91601fdca2c990f8",
+      "title": "Marble by World Labs",
+      "link": "https://www.producthunt.com/products/marble-by-world-labs",
+      "summary": "<p>\n            A frontier multimodal world model\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/marble-by-world-labs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1037479?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-12T21:48:39+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "d3f8b9df7df0690d972b115a8488e5057e90dc86",
       "title": "Bunny Shield",
       "link": "https://www.producthunt.com/products/bunny-net",
@@ -1490,29 +1499,11 @@
       "category": "events"
     },
     {
-      "id": "cad9b277743b80fa3234d41b686fd8ccff4539d0",
-      "title": "Willow on IOS",
-      "link": "https://www.producthunt.com/products/willow-voice",
-      "summary": "<p>\n            Write 5x faster with voice dictation now Available on iOS\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1037080?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-11-11T23:05:02+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "6828860e0119ea153a4ec5a54a5cbad12434c72d",
       "title": "Product Intelligence",
       "link": "https://www.producthunt.com/products/pylon",
       "summary": "<p>\n            Automatically turn support tickets into feature requests.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pylon?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1037031?app_id=339\">Link</a>\n          </p>",
       "published": "2025-11-11T19:37:29+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "929d9b0f46e7fc1a2fae911b87ad8a58fc1d19de",
-      "title": "Devpilot",
-      "link": "https://www.producthunt.com/products/devpilot-2",
-      "summary": "<p>\n            The AI co-pilot for your entire development lifecycle.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/devpilot-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1036935?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-11-11T13:44:00+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1531,6 +1522,15 @@
       "link": "https://www.producthunt.com/products/no-contact-tracker-let-them-go",
       "summary": "<p>\n            The #1 way to get over your ex.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/no-contact-tracker-let-them-go?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1036686?app_id=339\">Link</a>\n          </p>",
       "published": "2025-11-11T00:25:11+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "87ed414be067eef901621753e4ffe22e347aa78d",
+      "title": "Doco Agent Mode",
+      "link": "https://www.producthunt.com/products/doco-2",
+      "summary": "<p>\n            Autonomous AI agent for Microsoft Word\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/doco-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1036682?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-11T00:07:28+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
