@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2025-11-23T16:15:59.929221+00:00",
+  "generatedAt": "2025-11-23T17:11:49.219373+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "7c8d9276e56ffb4c7c8e92d63f7ab41ea30645d0",
+      "title": "G20 summit boycotted by US closes in South Africa",
+      "link": "https://www.bbc.com/news/articles/cvg130704zro?at_medium=RSS&at_campaign=rss",
+      "summary": "South African President Cyril Ramaphosa says there is a \"renewed commitment to multilateral co-operation\".",
+      "published": "2025-11-23T17:07:11+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "fabfb0701652b6a2fac9f05e817c589426ff4743",
+      "title": "TechCrunch Mobility: Searching for the robotaxi tipping point",
+      "link": "https://techcrunch.com/2025/11/23/techcrunch-mobility-searching-for-the-robotaxi-tipping-point/",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "published": "2025-11-23T17:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "422f10deb905b966ff67312ee1b06c455a98faf6",
+      "title": "Beehiiv’s CEO isn’t worried about newsletter saturation",
+      "link": "https://techcrunch.com/2025/11/23/beehiivs-ceo-isnt-worried-about-newsletter-saturation/",
+      "summary": "Beehiiv's co-founder and CEO Tyler Deck spoke to TechCrunch about why the company has been expanding, and where the media business is going next.",
+      "published": "2025-11-23T16:53:45+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "414d529e32e2fd7575c2b1648657bb29ea7c5a2d",
+      "title": "South Africa judges G20 summit a triumph of multilateralism despite US no-show",
+      "link": "https://www.thestar.com.my/news/world/2025/11/24/south-africa-judges-g20-summit-a-triumph-of-multilateralism-despite-us-no-show",
+      "summary": "JOHANNESBURG (Reuters) -South Africa's President Cyril Ramaphosa said on Sunday that the declaration from this weekend's Group of 20 summit reflected a \"renewed commitment to multilateral cooperation\", concluding a meeting that pitted him against his U.S. counterpart. <a href=\"https://www.thestar.com.my/news/world/2025/11/24/south-africa-judges-g20-summit-a-triumph-of-multilateralism-despite-us-no-show\">Read full story</a>",
+      "published": "2025-11-23T16:37:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "98b6048d59d1580b557badb78eae1942a423f1fa",
+      "title": "Filing: Meta axed research based on a Nielsen survey in 2020 that found evidence of social media harms, claiming the survey was tainted by the \"media narrative\" (Jeff Horwitz/Reuters)",
+      "link": "http://www.techmeme.com/251123/p12#a251123p12",
+      "summary": "<a href=\"https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251123/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251123/p12#a251123p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jeff Horwitz / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/\">Filing: Meta axed research based on a Nielsen survey in 2020 that found evidence of social media harms, claiming the survey was tainted by the &ldquo;media narrative&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; - Plaintiffs allege Meta hid product risks from users and authorities&nbsp; &mdash; Meta accused of ineffective youth safety features &hellip; </p>",
+      "published": "2025-11-23T16:30:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "742a4956de792dbb46c9b5df2246157452656902",
+      "title": "Chinese firm, EACOP train 80 Tanzanian youth to boost local workforce",
+      "link": "https://www.thestar.com.my/news/world/2025/11/24/chinese-firm-eacop-train-80-tanzanian-youth-to-boost-local-workforce",
+      "summary": "DAR ES SALAAM, Nov. 23 (Xinhua) -- Eighty young Tanzanians have graduated from a one-year vocational training program, marking a new milestone in efforts to strengthen local workforce skills and expand economic opportunities, one of the program's organizers said on Sunday. <a href=\"https://www.thestar.com.my/news/world/2025/11/24/chinese-firm-eacop-train-80-tanzanian-youth-to-boost-local-workforce\">Read full story</a>",
+      "published": "2025-11-23T16:19:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
     {
       "id": "72e87bfc84b3201be4cf66acae99a33b07bba991",
       "title": "Israel targets key Hezbollah official in first attack on Beirut in months",
@@ -246,24 +300,6 @@
       "published": "2025-11-23T13:00:00+00:00",
       "source": "The Verge",
       "category": "tech"
-    },
-    {
-      "id": "89c8f922719cc79abbf0d71460fd55742b7183bb",
-      "title": "Govt commitment to protecting children’s rights through various laws and initiatives, says Wan Azizah",
-      "link": "https://www.thestar.com.my/news/nation/2025/11/23/govt-commitment-to-protecting-childrens-rights-through-various-laws-and-initiatives-says-wan-azizah",
-      "summary": "KUALA LUMPUR: The National Children's Day Celebration 2025 at Stadium Merdeka here saw more than 1,000 children participating from all over the country. <a href=\"https://www.thestar.com.my/news/nation/2025/11/23/govt-commitment-to-protecting-childrens-rights-through-various-laws-and-initiatives-says-wan-azizah\">Read full story</a>",
-      "published": "2025-11-23T12:53:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "012e48cca33d9b993e1fb8469705637dca1e42af",
-      "title": "Education Ministry tightens flood preparedness, prioritise safety of SPM candidates",
-      "link": "https://www.thestar.com.my/news/nation/2025/11/23/education-ministry-tightens-flood-preparedness-prioritise-safety-of-spm-candidates",
-      "summary": "KOTA BARU: The Education Ministry (MOE) is intensifying preparations and flood-readiness measures following the unpredictable weather over the next two to three days, with particular focus on ensuring the smooth running of the Sijil Pelajaran Malaysia (SPM) examination. <a href=\"https://www.thestar.com.my/news/nation/2025/11/23/education-ministry-tightens-flood-preparedness-prioritise-safety-of-spm-candidates\">Read full story</a>",
-      "published": "2025-11-23T12:53:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "dfb6502ea365db84727f229ba9ae352c8c8fb30d",
@@ -761,15 +797,6 @@
       "category": "tech"
     },
     {
-      "id": "1ea0aa9259efba22f513378d50b55f01ddac5911",
-      "title": "How the launch of Gemini 3, which surged ahead of models from OpenAI and other competitors on benchmark tests, has pushed Google ahead in the AI race (Katherine Blunt/Wall Street Journal)",
-      "link": "http://www.techmeme.com/251122/p11#a251122p11",
-      "summary": "<a href=\"https://www.wsj.com/tech/ai/google-gemini-3-ai-behind-scenes-e1787729?st=fERVsx\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251122/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251122/p11#a251122p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Katherine Blunt / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/tech/ai/google-gemini-3-ai-behind-scenes-e1787729?st=fERVsx\">How the launch of Gemini 3, which surged ahead of models from OpenAI and other competitors on benchmark tests, has pushed Google ahead in the AI race</a></b></span>&nbsp; &mdash;&nbsp; Top-scoring model's debut shakes up AI chatbot race: 'I think we've hit on something'&nbsp; &mdash;&nbsp; Call it America's next top model.</p>",
-      "published": "2025-11-22T17:20:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "03631af9c59bd73ad2c681627d3180e4967cc053",
       "title": "Spotify simplifies importing playlists from other streaming services",
       "link": "https://www.theverge.com/news/825646/spotify-playlist-import",
@@ -1139,6 +1166,15 @@
       "category": "events"
     },
     {
+      "id": "5b29968296669c2e0d478f831c65327ed02ea137",
+      "title": "SynthID by Google DeepMind",
+      "link": "https://www.producthunt.com/products/gemini-1-5-pro",
+      "summary": "<p>\n            Detect AI-generated content with Google’s new watermark tool\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gemini-1-5-pro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1040956?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-21T19:43:47+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "61be46f1c566c1122dfb27cb2cf35a4b71fef6d7",
       "title": "Keep your receipts: Tech firms told to prepare for possible tariff refunds",
       "link": "https://arstechnica.com/tech-policy/2025/11/keep-your-receipts-tech-firms-told-to-prepare-for-possible-tariff-refunds/",
@@ -1211,15 +1247,6 @@
       "category": "tech"
     },
     {
-      "id": "02ba608eff920bdc8c33972ceff631cfef7fd0ba",
-      "title": "Apex Echo Ai",
-      "link": "https://www.producthunt.com/products/apex-echo-ai",
-      "summary": "<p>\n            Answer engine optimization platform\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/apex-echo-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1040894?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-11-21T15:58:24+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "a8574fa41a95b17699627b01db01470b35c9edd4",
       "title": "SpaceX’s upgraded Starship suffers explosion during testing",
       "link": "https://techcrunch.com/2025/11/21/spacexs-upgraded-starship-suffers-explosion-during-testing/",
@@ -1253,15 +1280,6 @@
       "summary": "With the government shutdown over, the FAA has lifted its daytime launch curfew.",
       "published": "2025-11-21T13:31:30+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "089dab25e5376844a931622a1bd39c5480e71433",
-      "title": "Australia adds Twitch to teen social media ban, Pinterest exempted",
-      "link": "https://techcrunch.com/2025/11/21/australia-adds-twitch-to-teen-social-media-ban-pinterest-exempted/",
-      "summary": "Australia’s internet watchdog has added Twitch to the list of social media sites banned under its Social Media Minimum Age rules, effective December 10.",
-      "published": "2025-11-21T13:10:29+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1317,15 +1335,6 @@
       "published": "2025-11-21T11:57:06+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "85b963abc75e7f9ed4ec9935ccb2aec228fa4c64",
-      "title": "The European startup market is ready for the limelight",
-      "link": "https://techcrunch.com/2025/11/21/the-european-startup-market-is-ready-for-the-limelight/",
-      "summary": "The region's startup market is hungry for its first trillion-dollar startup, and in many ways has set itself up to reach that goal.",
-      "published": "2025-11-21T11:39:43+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "b43d1587ef52259f10b29241713645f60417c5b0",
@@ -1418,15 +1427,6 @@
       "category": "tech"
     },
     {
-      "id": "0aeadc8a5dfa1925b7ef783e3cb91b308a1f2d28",
-      "title": "Auto Shutdown",
-      "link": "https://www.producthunt.com/products/auto-shutdown",
-      "summary": "<p>\n            Make Mommy proud, never miss bedtime.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/auto-shutdown?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1040628?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-11-20T23:00:13+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "877ad8bcc9104397a49b3790dcebc0dfbeb9cad2",
       "title": "Infant botulism outbreak doubles; ByHeart confirms bacteria in formula",
       "link": "https://arstechnica.com/health/2025/11/from-defiant-to-contrite-formula-maker-confirms-bacteria-amid-botulism-outbreak/",
@@ -1434,15 +1434,6 @@
       "published": "2025-11-20T22:33:27+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "6a077da42662d1e4779283dd70693d9fd36fbf1c",
-      "title": "'Huge columns of smoke': BBC at the scene of fire at COP30",
-      "link": "https://www.bbc.com/news/videos/cn5159k1krzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Climate Editor Justin Rowlatt was at the UN climate talks in Brazil when a fire broke out.",
-      "published": "2025-11-20T21:58:46+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "b60562e56444751d83bb8c5c771326db2548e9f7",
@@ -1490,20 +1481,20 @@
       "category": "events"
     },
     {
-      "id": "1a36e4d9ff8435bb94ece2817b835fd0face8685",
-      "title": "Hargun's MacOS",
-      "link": "https://www.producthunt.com/products/hargun-s-macos",
-      "summary": "<p>\n            A fully interactive, Mac-like experience directly in browser\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hargun-s-macos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1039679?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-11-18T18:04:11+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "f3a647395859a90f7324605c722b549bda6add44",
       "title": "Code Mode",
       "link": "https://www.producthunt.com/products/utcp",
       "summary": "<p>\n            Slash MCP token usage by 68%\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/utcp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1039289?app_id=339\">Link</a>\n          </p>",
       "published": "2025-11-17T19:33:43+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "15bbd12fb60410d87180491331fb63fc01a907f7",
+      "title": "Lila by Zivy",
+      "link": "https://www.producthunt.com/products/zivy",
+      "summary": "<p>\n            Turn every new tab into a 30-second energy reset\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zivy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1039243?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-17T17:41:30+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1567,6 +1558,15 @@
       "link": "https://www.producthunt.com/products/brandjet-ai",
       "summary": "<p>\n            Turn brand insights into outreach that moves fast\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/brandjet-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1037503?app_id=339\">Link</a>\n          </p>",
       "published": "2025-11-12T23:42:17+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "df82b4fe142c0a31b6dce0cbac24b22c5081b96a",
+      "title": "npm.bet",
+      "link": "https://www.producthunt.com/products/npm-bet",
+      "summary": "<p>\n            Beautiful, interactive npm trends visualizer\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/npm-bet?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1037264?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-12T10:55:09+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
