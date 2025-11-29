@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2025-11-29T21:12:08.677757+00:00",
+  "generatedAt": "2025-11-29T22:13:10.594847+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "73bac4649f38feec0995d47a2a8dcf37223016a6",
+      "title": "Airbus orders software fix to thousands of planes due to solar radiation risk",
+      "link": "https://techcrunch.com/2025/11/29/airbus-orders-software-fix-to-thousands-of-planes-due-to-solar-radiation-risk/",
+      "summary": "Flights were delayed and cancelled globally after Airbus ordered fixes to 6,000 of its A320 series planes, according to The Guardian. The company said it’s taking action because “analysis of a recent event involving an A320 Family aircraft has revealed that intense solar radiation may corrupt data critical to the functioning of flight controls.” Citing [&#8230;]",
+      "published": "2025-11-29T22:03:18+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "4fa296a6e8f4548fd26654a42097c39b0131bb64",
+      "title": "The Wiggles issue statement after appearing in Ecstasy music video",
+      "link": "https://www.bbc.com/news/articles/cp39yw120kdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The popular Australian children's group says it \"does not condone\" drug use, after two of its members are shown dancing in a Keli Holiday video.",
+      "published": "2025-11-29T21:59:38+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "7bcb290f3a80a57be511536ef9c2f4b5d8694cc6",
+      "title": "Venezuela calls Trump airspace closure warning 'colonialist threat'",
+      "link": "https://www.bbc.com/news/articles/c741mpdyw9no?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump said the airspace around Venezuela should be considered closed \"in its entirety\".",
+      "published": "2025-11-29T21:59:33+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "0e6441eb38fe48deec6f81992ee31094f72adb34",
+      "title": "Roundup: China Film Week kicks off in Cairo to promote cultural, cinematic cooperation",
+      "link": "https://www.thestar.com.my/news/world/2025/11/30/roundup-china-film-week-kicks-off-in-cairo-to-promote-cultural-cinematic-cooperation",
+      "summary": "CAIRO, Nov. 29 (Xinhua) -- China Film Week kicked off here on Saturday with the screening of The Lychee Road, launching a cultural film program that brings a selection of recent Chinese productions to Egyptian audiences as part of efforts to strengthen cultural and cinematic cooperation between the two countries. <a href=\"https://www.thestar.com.my/news/world/2025/11/30/roundup-china-film-week-kicks-off-in-cairo-to-promote-cultural-cinematic-cooperation\">Read full story</a>",
+      "published": "2025-11-29T21:46:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "89534b5d548ce5702fda4a54de547062c1933c32",
+      "title": "Black Friday sets online spending record of $11.8B, Adobe says",
+      "link": "https://techcrunch.com/2025/11/29/black-friday-sets-online-spending-record-of-11-8b-adobe-says/",
+      "summary": "American consumers spent $11.8 billion online on Black Friday, according to data from Adobe Analytics, which says it tracks more than 1 trillion visits to U.S. retail websites.",
+      "published": "2025-11-29T21:39:44+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "d2d900e4fc6a9bb91404078777e50df45422017f",
+      "title": "I tested 15 cases for the Switch 2 and these are the best",
+      "link": "https://www.theverge.com/reviews/691319/best-switch-2-cases",
+      "summary": "Editor’s note:&#160;Black Friday deals are still happening, so check out the latest and greatest discounts that today has to offer. You might find it kind of sad to put your hard-earned Switch 2 into a protective case. To me, it’s freeing. Using a case relieves me of the worry that it will accumulate tons of [&#8230;]",
+      "published": "2025-11-29T21:27:33+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
     {
       "id": "94d00f86a2d687281e77194188106273d3f9295e",
       "title": "The Fujifilm X Half is on sale for what it should have originally cost",
@@ -59,15 +113,6 @@
       "category": "tech"
     },
     {
-      "id": "7bcb290f3a80a57be511536ef9c2f4b5d8694cc6",
-      "title": "Venezuela calls Trump airspace closure warning 'colonialist threat'",
-      "link": "https://www.bbc.com/news/articles/c741mpdyw9no?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Donald Trump said the airspace around Venezuela should be considered closed \"in its entirety\".",
-      "published": "2025-11-29T20:11:04+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "2aeb24ab9fc0618e8f74980b64ac0508aab17881",
       "title": "The Android phone you should buy your dad is just $349",
       "link": "https://www.theverge.com/gadgets/833639/google-pixel-9a-black-friday-cyber-monday-2025-deal-sale",
@@ -86,8 +131,8 @@
       "category": "deals"
     },
     {
-      "id": "0e7f93078e5318c424e74b6adcadf33d3b95a0d1",
-      "title": "Ukraine hits two Russian &#039;shadow fleet&#039; tankers with drones in Black Sea",
+      "id": "c8a29396cccc16e721cc6991479cd4f09a96fdad",
+      "title": "Ukraine hits two Russian &#039;shadow fleet&#039; oil tankers with naval drones",
       "link": "https://www.thestar.com.my/news/world/2025/11/30/ukraine-hits-two-russian-039shadow-fleet039-tankers-with-drones-in-black-sea",
       "summary": "KYIV, Nov 29 (Reuters) - Ukrainian naval drones hit two sanctioned tankers in the Black Sea as they headed to a Russian port to load up with oil destined for foreign markets, an official said on Saturday, as Kyiv tries to pile pressure on Russia's vast oil industry. <a href=\"https://www.thestar.com.my/news/world/2025/11/30/ukraine-hits-two-russian-039shadow-fleet039-tankers-with-drones-in-black-sea\">Read full story</a>",
       "published": "2025-11-29T19:53:00+00:00",
@@ -176,15 +221,6 @@
       "category": "malaysia"
     },
     {
-      "id": "15a336f164090d1f2adebb5d37df25773c8c506e",
-      "title": "Buying a $100 Apple gift card will earn you a $15 Amazon credit",
-      "link": "https://www.theverge.com/gadgets/833566/buying-a-100-apple-gift-card-will-earn-you-15-amazon-credit",
-      "summary": "If you were planning to gift someone an Apple product, we have a big roundup containing the biggest Apple Black Friday deals. However, if you aren’t exactly sure what kind of tech they want, getting them a gift card is a solid idea — save them the runaround of having to return something if it [&#8230;]",
-      "published": "2025-11-29T18:36:35+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "34671880049299bfa9414518ad09b1a97c4bf596",
       "title": "Sabah polls: EC announces full results",
       "link": "https://www.thestar.com.my/news/nation/2025/11/30/sabah-polls-ec-announces-full-results",
@@ -207,15 +243,6 @@
       "title": "Tom Stoppard, playwright who dazzled with verbal gymnastics, dies aged 88",
       "link": "https://www.thestar.com.my/news/world/2025/11/30/tom-stoppard-playwright-who-dazzled-with-verbal-gymnastics-dies-aged-88",
       "summary": "LONDON, Nov 29 (Reuters) - \"What's it about?\" was a frequent response from bemused theatre-goers to \"Rosencrantz and Guildenstern Are Dead\", Tom Stoppard's first stage triumph. <a href=\"https://www.thestar.com.my/news/world/2025/11/30/tom-stoppard-playwright-who-dazzled-with-verbal-gymnastics-dies-aged-88\">Read full story</a>",
-      "published": "2025-11-29T18:30:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "1404e16ada265b6624eb61d8e7cd98e6a05ae554",
-      "title": "INTERACTIVE: How Sabah voted in the 2025 state election",
-      "link": "https://www.thestar.com.my/news/nation/2025/11/30/interactive-how-sabah-voted-in-the-2025-state-election",
-      "summary": "From the list of winners to the popular vote, check out the detailed election results. <a href=\"https://www.thestar.com.my/news/nation/2025/11/30/interactive-how-sabah-voted-in-the-2025-state-election\">Read full story</a>",
       "published": "2025-11-29T18:30:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
@@ -1085,6 +1112,15 @@
       "category": "world"
     },
     {
+      "id": "713829465e2df6b783bec2bff65f22484d592ced",
+      "title": "Product Huntr",
+      "link": "https://www.producthunt.com/products/product-huntr-2",
+      "summary": "<p>\n            Data analysis platform for Product hunt\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/product-huntr-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1043422?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-28T07:58:41+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "6ff8b36779ab796d5f6bc6be623c3720d15f1828",
       "title": "Always-on Meeting AI by SuperIntern",
       "link": "https://www.producthunt.com/products/superintern",
@@ -1137,24 +1173,6 @@
       "published": "2025-11-28T04:15:22+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "9f0d154126cf5b4958ec1609493ff3134b508fef",
-      "title": "The kidnap gangs, jihadists and separatists wreaking havoc in Nigeria",
-      "link": "https://www.bbc.com/news/articles/c4g4jlgdyjdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The country faces many deadly security challenges, leaving the army and police severely overstretched.",
-      "published": "2025-11-28T00:42:38+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "727d916761342dc14c229f998088b279536110c5",
-      "title": "Gedd.it",
-      "link": "https://www.producthunt.com/products/gedd-it",
-      "summary": "<p>\n            Find Verified Promo Codes for Products You Want\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gedd-it?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1043320?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-11-27T22:09:12+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "76aa4bb9649863362cb2232ea7c5da0ebd8a35fa",
@@ -1319,24 +1337,6 @@
       "category": "tech"
     },
     {
-      "id": "c0d02153220437e32f387bedac3a72a88b6a0046",
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "link": "https://techcrunch.com/2025/11/26/chatgpt-everything-to-know-about-the-ai-chatbot/",
-      "summary": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
-      "published": "2025-11-26T19:33:39+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "9396fcf72589d202dc49cdaa57bd246cff1cf194",
-      "title": "A comprehensive list of 2025 tech layoffs",
-      "link": "https://techcrunch.com/2025/11/26/tech-layoffs-2025-list/",
-      "summary": "A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024.",
-      "published": "2025-11-26T19:28:05+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "61fecc79998d9262471ebc364aebd7610ba02f2a",
       "title": "Solar’s growth in US almost enough to offset rising energy use",
       "link": "https://arstechnica.com/science/2025/11/solars-growth-in-us-almost-enough-to-offset-rising-energy-use/",
@@ -1472,6 +1472,15 @@
       "category": "events"
     },
     {
+      "id": "b16dbf6dd7c1b677f7ae38a3a19ae17962015b25",
+      "title": "Qoder JetBrains Plugin",
+      "link": "https://www.producthunt.com/products/qoder",
+      "summary": "<p>\n            Understands your backend's real complexity, not just syntax\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/qoder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1042085?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-25T03:19:57+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "af0d2b30559ea834235cc5d8640b77b8cb7657ba",
       "title": "ModelPilot",
       "link": "https://www.producthunt.com/products/modelpilot",
@@ -1549,15 +1558,6 @@
       "link": "https://www.producthunt.com/products/calk-ai",
       "summary": "<p>\n            AI Agents without nodes headaches\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/calk-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1034022?app_id=339\">Link</a>\n          </p>",
       "published": "2025-11-03T15:37:02+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "af6d0851da3012fcc72dd4e0198d29e3d6e5f9d4",
-      "title": "Agenta",
-      "link": "https://www.producthunt.com/products/agenta",
-      "summary": "<p>\n            Open-source prompt management & evals for AI teams\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agenta?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1031958?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-10-28T18:50:46+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
