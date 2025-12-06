@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2025-12-06T15:13:09.296832+00:00",
+  "generatedAt": "2025-12-06T16:16:24.207855+00:00",
   "counts": {
     "total": 176
   },
   "items": [
+    {
+      "id": "face443f196307ec64c8ea9f981b0ffc2a575e76",
+      "title": "Russia hits Ukraine as US reports progress in talks with Kyiv",
+      "link": "https://www.bbc.com/news/articles/clydxj7my84o?at_medium=RSS&at_campaign=rss",
+      "summary": "France's president condemns the attack and announces talks in London on Monday with Ukrainian, British and German leaders.",
+      "published": "2025-12-06T16:03:00+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "0397fd419b8ca38f1697a6173628970caa020cf2",
+      "title": "The tech world is sleeping on the most exciting Bluetooth feature in years",
+      "link": "https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google",
+      "summary": "It's been a few years since the official introduction of the Bluetooth technology Auracast, which allows devices like earbuds, headphones, speakers, and hearing aids to connect to a single source without the need for pairing. Like a radio picks up your local radio stations, all you have to do is connect to the right broadcast. [&#8230;]",
+      "published": "2025-12-06T16:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "eef4e7dd9b013c6c2fc4f4c90d9222ad46331b90",
+      "title": "Couple killed in Gua Musang ravine crash laid to rest",
+      "link": "https://www.thestar.com.my/news/2025/12/06/couple-killed-in-gua-musang-ravine-crash-laid-to-rest",
+      "summary": "KOTA BARU: The bodies of a soon-to-be-wed couple who died after their vehicle plunged into a ravine in Terengganu have been laid to rest. <a href=\"https://www.thestar.com.my/news/2025/12/06/couple-killed-in-gua-musang-ravine-crash-laid-to-rest\">Read full story</a>",
+      "published": "2025-12-06T15:52:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "220c659bf061ecd0f48d3e73ae9669ad5b05ca53",
+      "title": "Anwar visits Bung Moktar&#039;s family, extends condolences",
+      "link": "https://www.thestar.com.my/news/nation/2025/12/06/anwar-visits-bung-moktar039s-family-extends-condolences",
+      "summary": "KUALA LUMPUR: Prime Minister Datuk Seri Anwar Ibrahim visited the family of the late Datuk Seri Bung Moktar Radin, who passed away on Friday (Dec 5). <a href=\"https://www.thestar.com.my/news/nation/2025/12/06/anwar-visits-bung-moktar039s-family-extends-condolences\">Read full story</a>",
+      "published": "2025-12-06T15:48:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
     {
       "id": "5014e58ad6ed379bfbc79e98454387809a37a505",
       "title": "Bethlehem Christmas tree lights up for first time since start of Gaza war",
@@ -41,10 +77,10 @@
       "category": "tech"
     },
     {
-      "id": "f5c5d772e881953363ac35f3972374b2f56c108e",
-      "title": "TNB Electron turns on 240kW DC Charger at Yard TNB Mergong, in Alor Setar",
+      "id": "893ddb52a0814d820e11b40f0cd27ca836158571",
+      "title": "TNB Electron turns on 240kW DC Charger at Yard TNB Mergong, Alor Setar",
       "link": "https://soyacincau.com/2025/12/06/tnb-electron-240kw-ev-dc-charger-at-yard-tnb-mergong-alor-setar/",
-      "summary": "TNB Electron turns on yet another EV charging location at one of TNB&#8217;s own premises. The latest location is at Yard TNB Mergong in Alor Setar, Perak. Similar to other recent deployments, this is a new high-powered DC charging location with multiple bays. As part of the initial testing phase, the Charge Point Operator is [&#8230;]",
+      "summary": "TNB Electron turns on yet another EV charging location at one of TNB&#8217;s own premises. The latest location is at Yard TNB Mergong in Alor Setar, Kedah. Similar to other recent deployments, this is a new high-powered DC charging location with multiple bays. As part of the initial testing phase, the Charge Point Operator is [&#8230;]",
       "published": "2025-12-06T14:40:50+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
@@ -282,33 +318,6 @@
       "published": "2025-12-06T11:35:01+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "ca449c2c5f4ab79dc74aab700773220b0870f703",
-      "title": "Russia bombards Ukraine as US says progress made in talks with Kyiv",
-      "link": "https://www.bbc.com/news/articles/clydxj7my84o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Zelensky says an attack on a rail hub near Kyiv was \"meaningless from a military point of view\".",
-      "published": "2025-12-06T11:34:21+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "ebdbb786a91bee3b21442a1b3ad38a67031e4fba",
-      "title": "First in Southeast Asia: Malaysia launches International Cycling Union satellite centre in Johor",
-      "link": "https://www.thestar.com.my/news/nation/2025/12/06/first-in-southeast-asia-malaysia-launches-international-cycling-union-satellite-centre-in-johor",
-      "summary": "ISKANDAR PUTERI: Malaysia has marked a major milestone in the cycling arena with the launch of the World Cycling Centre (WCC) Regional Development Satellite (RDS), the first of its kind in Southeast Asia. <a href=\"https://www.thestar.com.my/news/nation/2025/12/06/first-in-southeast-asia-malaysia-launches-international-cycling-union-satellite-centre-in-johor\">Read full story</a>",
-      "published": "2025-12-06T11:25:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "90cefaba901a327b9dfcc44a60afc9f8d6c55324",
-      "title": "Cops investigating death threats made against lawyer in Melaka shooting case",
-      "link": "https://www.thestar.com.my/news/nation/2025/12/06/cops-investigating-death-threats-made-against-lawyer-in-melaka-shooting-case",
-      "summary": "KUALA LUMPUR: The police are investigating allegations of death threats made on social media on Friday (Dec 5) against a lawyer representing the case of the shooting of three individuals in Melaka on Nov 24. <a href=\"https://www.thestar.com.my/news/nation/2025/12/06/cops-investigating-death-threats-made-against-lawyer-in-melaka-shooting-case\">Read full story</a>",
-      "published": "2025-12-06T11:24:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "e712d6a6896b97af75bce8089234ff079e201c4e",
@@ -1004,15 +1013,6 @@
       "category": "world"
     },
     {
-      "id": "18a900a5539a61ab65116c65361656d31bd5c1e9",
-      "title": "Horses is a hit, but its studio might still be in trouble",
-      "link": "https://www.theverge.com/news/839164/horses-interview-santa-ragione-steam-ban-censorship",
-      "summary": "After indie narrative horror game Horses was banned from Steam two years ago, it put the studio, Santa Ragione, at risk of closure. Studio cofounder and Horses producer Pietro Righi Riva had to make a difficult phone call to the game’s director, Italian filmmaker Andrea Lucco Borlera. “I was terrified for him,” Riva said in [&#8230;]",
-      "published": "2025-12-05T19:00:31+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "9c009df8024f2cd950325a351df094d9a79fc59a",
       "title": "Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming",
       "link": "https://arstechnica.com/gadgets/2025/12/netflixs-72b-wb-acquisition-confounds-the-future-of-movie-theaters-streaming/",
@@ -1373,15 +1373,6 @@
       "category": "tech"
     },
     {
-      "id": "271fc849015abbb71f945dc225d1d9f725295569",
-      "title": "CogniMemo",
-      "link": "https://www.producthunt.com/products/cognimemo",
-      "summary": "<p>\n            AI that remembers, learns, and evolves\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cognimemo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046233?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-04T19:51:53+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "96255fff24485a20dc11ac85f3cb572d60960775",
       "title": "Gemini 3 Deep Think by Google",
       "link": "https://www.producthunt.com/products/gemini-3-deep-think-by-google",
@@ -1436,15 +1427,6 @@
       "category": "events"
     },
     {
-      "id": "d2d1ecae03ea297a77a4232678aaedb0aaf13f84",
-      "title": "Index for ChatGPT",
-      "link": "https://www.producthunt.com/products/index-for-chatgpt",
-      "summary": "<p>\n            Auto table of contents for long ChatGPT conversations\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/index-for-chatgpt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046057?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-04T12:07:44+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "7e83f7df019b2110ad30b4cd4fd6753f3a4dbad6",
       "title": "Infinix teams up with Pininfarina for future smartphone designs. Note 60 Ultra launching first in 2026",
       "link": "https://soyacincau.com/2025/12/04/infinix-pininfarina-partnership-infinix-note-60-ultra/",
@@ -1481,6 +1463,15 @@
       "category": "events"
     },
     {
+      "id": "968b338795e7679572576ae3343a3cb3db3a6adf",
+      "title": "Bugster",
+      "link": "https://www.producthunt.com/products/bugster",
+      "summary": "<p>\n            Claude Code for testing with AI E2E tests from your terminal\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bugster?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1045586?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-03T12:59:06+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "9ae0cb14189328f1c5179eb6467eb3b7cea0299c",
       "title": "TNB Electron deploys 240kW DC charger in Bagan Serai, free charging for limited time",
       "link": "https://soyacincau.com/2025/12/03/tnb-electron-240kw-dc-charger-bagan-serai-perak/",
@@ -1488,6 +1479,15 @@
       "published": "2025-12-03T12:36:45+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "d4cad4ab537c1a64341ba3062f71d44c6d19d002",
+      "title": "DockBuddy Organizer",
+      "link": "https://www.producthunt.com/products/dockbuddy-organizer",
+      "summary": "<p>\n            Drag & Drop, Organize Photos & Video Assets in Seconds.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dockbuddy-organizer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1045287?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-02T22:47:55+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "08ca4f97150759cdd39480af602195ea16f67f85",
@@ -1553,6 +1553,15 @@
       "category": "events"
     },
     {
+      "id": "f1f126ecd510818dac8b1fd97826d908f4b7b401",
+      "title": "Johari Window",
+      "link": "https://www.producthunt.com/products/johari-window",
+      "summary": "<p>\n            Know Yourself Better\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/johari-window?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1040865?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-21T14:54:13+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "a24a6d39d90e5608942214d2f6342a729c46ad21",
       "title": "Haven",
       "link": "https://www.producthunt.com/products/haven-8",
@@ -1576,15 +1585,6 @@
       "link": "https://www.producthunt.com/products/trugen-ai",
       "summary": "<p>\n            Bringing AI to Life with Human-Like Video Agents.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/trugen-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1020976?app_id=339\">Link</a>\n          </p>",
       "published": "2025-09-28T20:30:45+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "1013eeb3919d008d10afb6b2cd1964221a8ace8f",
-      "title": "Documentation.AI",
-      "link": "https://www.producthunt.com/products/documentation-ai",
-      "summary": "<p>\n            Build and update product documentation effortlessly with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/documentation-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1015226?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-09-11T11:08:38+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
