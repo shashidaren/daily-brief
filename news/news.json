@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2025-12-07T16:15:59.631999+00:00",
+  "generatedAt": "2025-12-07T17:11:44.775561+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "acbeba5dd131dd6a51ebd5d3ca3f07be0054e30e",
+      "title": "The accelerator is on the floor for autonomous vehicles",
+      "link": "https://techcrunch.com/2025/12/07/the-accelerator-is-on-the-floor-for-autonomous-vehicles/",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "published": "2025-12-07T17:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "f4c9fce151cc9fc63fe3bb599ffeb3dc704142cb",
+      "title": "Benin coup attempt foiled by loyalist troops, interior minister says",
+      "link": "https://www.bbc.com/news/articles/c62v7n9wzkyo?at_medium=RSS&at_campaign=rss",
+      "summary": "A presidential adviser tells the BBC that President Patrice Talon is in a safe location.",
+      "published": "2025-12-07T16:42:46+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "7b8a5c7b83bd390217afa0761db172e2bac106e9",
       "title": "Essential AI, whose CEO co-wrote Google's Attention Is All You Need paper, unveils Rnj-1, an 8B-parameter open model with SWE-bench performance close to GPT-4o (Ashish Vaswani/Essential AI)",
@@ -37,15 +55,6 @@
       "link": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&at_campaign=rss",
       "summary": "Eyewitnesses described scenes of panic in one of Goa's bustling nightlife areas.",
       "published": "2025-12-07T15:45:42+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "f4c9fce151cc9fc63fe3bb599ffeb3dc704142cb",
-      "title": "Benin coup attempt foiled by loyalist troops, interior minister says",
-      "link": "https://www.bbc.com/news/articles/c62v7n9wzkyo?at_medium=RSS&at_campaign=rss",
-      "summary": "A presidential adviser tells the BBC that President Patrice Talon is in a safe location.",
-      "published": "2025-12-07T15:39:59+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -1220,15 +1229,6 @@
       "category": "tech"
     },
     {
-      "id": "1abb6a76e14365a079f34c4b9f3b950a39d8d528",
-      "title": "eSIM adoption is on the rise thanks to travel and device compatibility",
-      "link": "https://techcrunch.com/2025/12/05/esim-adoption-is-on-the-rise-thanks-to-travel-and-device-compatibility/",
-      "summary": "As a technology, eSIM has been around for a decade now. However, global eSIM adoption was around 3% last year and will only cross 5% this year. Despite these figures, analysts, eSIM-providing startups, and investors are bullish about eSIM's upward trajectory, largely thanks to travel.",
-      "published": "2025-12-05T17:27:53+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "ccb9ee0e2585d7b7d3f319c68ae1e2bfecc5092d",
       "title": "Without evidence, RFK Jr.’s vaccine panel tosses hep B vaccine recommendation",
       "link": "https://arstechnica.com/health/2025/12/without-evidence-rfk-jr-s-vaccine-panel-tosses-heb-b-vaccine-recommendation/",
@@ -1326,15 +1326,6 @@
       "published": "2025-12-05T11:08:42+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "94e4701cd2537a9d1a655fd5f499fa2d5670d8d6",
-      "title": "Proofly",
-      "link": "https://www.producthunt.com/products/proofly-on-device-ai-proofreader",
-      "summary": "<p>\n            Private AI proofreading that runs 100% on your device\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/proofly-on-device-ai-proofreader?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046434?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-05T09:46:23+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "62c459d0785b7a53b2a3c1170201bbc10df88b73",
@@ -1468,6 +1459,15 @@
       "link": "https://www.producthunt.com/products/vector-38",
       "summary": "<p>\n            Intelligent search for macOS\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vector-38?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1045348?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-03T02:17:13+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "08ca4f97150759cdd39480af602195ea16f67f85",
+      "title": "Walk Mate",
+      "link": "https://www.producthunt.com/products/walk-mate-daily-walk-routes",
+      "summary": "<p>\n            Discover new walk paths while staying active.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/walk-mate-daily-walk-routes?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1045270?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-02T21:41:04+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
