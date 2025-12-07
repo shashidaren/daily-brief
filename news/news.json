@@ -1,14 +1,86 @@
 {
-  "generatedAt": "2025-12-07T14:12:46.921078+00:00",
+  "generatedAt": "2025-12-07T15:12:51.642773+00:00",
   "counts": {
     "total": 175
   },
   "items": [
     {
+      "id": "fba4118e1e2af461f26ea61a562525565b94dc6d",
+      "title": "OpenAI says it’s turned off app suggestions that look like ads",
+      "link": "https://techcrunch.com/2025/12/07/openai-says-its-turned-off-app-suggestions-that-look-like-ads/",
+      "summary": "While OpenAI continues to insist that there are currently no ads — or tests for advertising — live in ChatGPT, the company’s chief research officer also acknowledged that the company “fell short” with recent promotional messages.",
+      "published": "2025-12-07T15:05:53+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "3f4beaa66f7f10a6829a03d0abf557893ebe504f",
+      "title": "Nikita Bier accuses the European Commission of trying to deceptively amplify the reach of its post about the €120M fine on X; X terminates the EC's ad account (Bjarke Smith-Meyer/Politico)",
+      "link": "http://www.techmeme.com/251207/p8#a251207p8",
+      "summary": "<a href=\"https://www.politico.eu/article/x-axes-european-commissions-ad-account-after-e120m-eu-fine/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251207/i8.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251207/p8#a251207p8\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Bjarke Smith-Meyer / <a href=\"http://www.politico.com/\">Politico</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.politico.eu/article/x-axes-european-commissions-ad-account-after-e120m-eu-fine/\">Nikita Bier accuses the European Commission of trying to deceptively amplify the reach of its post about the &euro;120M fine on X; X terminates the EC's ad account</a></b></span>&nbsp; &mdash;&nbsp; Nikita Bier, X's head of product, accused the EU executive of trying to amplify its own social media post about the fine on X by trying &hellip; </p>",
+      "published": "2025-12-07T15:05:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "94fc48f3c9511a98596df842d24d024c81e6f157",
+      "title": "New US Security Strategy aligns with Russia's vision, Moscow says",
+      "link": "https://www.bbc.com/news/articles/cpvd01g2kwwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Kremlin welcomes the starkly worded document, which does not cast Russia as a threat to the US.",
+      "published": "2025-12-07T15:04:46+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "ecff06c881c19c2824eb2601ffb1319057c53667",
+      "title": "A very human vision for going all-in on AI",
+      "link": "https://www.theverge.com/podcast/839718/sublime-ai-taste-curation-vergecast",
+      "summary": "It's easy to think about AI as a sort of existential battle between human and machine. Maybe it will be, someday, in a Skynet sort of way. But there are also lots of people trying to figure out how to use AI not as a replacement for human creativity and thinking but as a tool [&#8230;]",
+      "published": "2025-12-07T15:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "a83c5f9667eb761f8e7b8fe4ac5f77a201180e88",
+      "title": "9to5Toys News Weekly recap – Apple Watch Series 11 PSA, new wrist straps and AirPods cases, more",
+      "link": "https://9to5toys.com/2025/12/07/this-weeks-top-stories-apple-watch/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/05/9to5Toys-Weekly_02b.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Welcome to <em>9to5Toys News Weekly</em> – your go-to spot to catch up on the latest new product releases, features, and hands-on reviews. This weekly roundup collects all of the coolest new gadgets, the most interesting updates in the world of tech, and more from the past week, and organizes it into a single handy reading list for you to sift through every Sunday morning. While this past week was largely a transition period from the giant Cyber Monday sales, there are some great Cyber Week events to explore alongside some feature pieces, gift guides, and even some new releases. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/12/07/this-weeks-top-stories-apple-watch/#more-1182136\">more…</a>",
+      "published": "2025-12-07T14:40:40+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "96c63453731e3dcbac9a85ba2a3247f38aa14f1a",
+      "title": "MACC denies Rafizi&#039;s allegations it was used to probe PKR polls candidates",
+      "link": "https://www.thestar.com.my/news/nation/2025/12/07/macc-denies-rafizi039s-allegations-of-being-used-to-probe-pkr-polls-candidates",
+      "summary": "PETALING JAYA: The Malaysian Anti-Corruption Commission (MACC) has denied allegations that it was used to investigate candidates contesting in the PKR polls. <a href=\"https://www.thestar.com.my/news/nation/2025/12/07/macc-denies-rafizi039s-allegations-of-being-used-to-probe-pkr-polls-candidates\">Read full story</a>",
+      "published": "2025-12-07T14:20:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "d439d0b6124e7d0f8715847cbb9b8af8b6fd611f",
+      "title": "What Google Glass got right — and really, really wrong",
+      "link": "https://www.theverge.com/podcast/839712/google-glass-smart-glasses-version-history",
+      "summary": "Google didn't invent the concept of smart glasses, but it did help make them mainstream. In retrospect, 13 years after their launch, this is both a good and bad thing. Glass made a lot of people dream about new ways to use computers without staring down at screens all day. Glass also made a lot [&#8230;]",
+      "published": "2025-12-07T14:17:43+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "b18121e750b52a9fccc003d8bca8a2b2af3f51a7",
+      "title": "LAST DAY: Samsung Cyber Week deals – Galaxy Fold 7 up to $720 off, Tab S11 $200 off + FREE keyboard, more",
+      "link": "https://9to5toys.com/2025/12/07/last-day-samsung-cyber-week-deals-galaxy-fold-7-up-to-720-off-tab-s11-200-off-free-keyboard-more/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/12/Samsung-Galaxy-holiday-deals.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>The official Samsung Cyber Week sale is scheduled to end tonight, which might mean today is your last chance to land the <a href=\"https://howl.link/jr9edr2jbxii4\">Galaxy Z Fold 7 at up to <strong>$720 off</strong></a>, deep deals on <a href=\"https://howl.link/2htlpeoyvle9q\">Galaxy Tabs</a>, 2025 model <a href=\"https://howl.link/vkgq4av7tgf2p\">The Frame smart TVs</a>, and much more. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/12/07/last-day-samsung-cyber-week-deals-galaxy-fold-7-up-to-720-off-tab-s11-200-off-free-keyboard-more/#more-1182132\">more…</a>",
+      "published": "2025-12-07T14:13:32+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
       "id": "f4c9fce151cc9fc63fe3bb599ffeb3dc704142cb",
       "title": "Benin coup attempt foiled by loyalist troops, interior minister says",
       "link": "https://www.bbc.com/news/articles/c62v7n9wzkyo?at_medium=RSS&at_campaign=rss",
-      "summary": "A presidential adviser has told the BBC that President Patrice Talon is in a safe location.",
+      "summary": "A presidential adviser tells the BBC that President Patrice Talon is in a safe location.",
       "published": "2025-12-07T14:11:51+00:00",
       "source": "BBC News",
       "category": "world"
@@ -290,15 +362,6 @@
       "summary": "KUALA LUMPUR, Dec 7 &mdash; The Malaysian Meteorological Department (MetMalaysia) has issued a continuous rain warning a...",
       "published": "2025-12-07T10:35:42+00:00",
       "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "7eafcc936204f4b8152a2a50ddebbefe6386850d",
-      "title": "Immigration detains 139 foreigners in KL anti-vice raids",
-      "link": "https://www.thestar.com.my/news/nation/2025/12/07/immigration-detains-139-foreigners-in-kl-anti-vice-raids",
-      "summary": "KUALA LUMPUR: The Immigration Department has arrested 139 foreign nationals in raids on 13 alleged vice dens here. <a href=\"https://www.thestar.com.my/news/nation/2025/12/07/immigration-detains-139-foreigners-in-kl-anti-vice-raids\">Read full story</a>",
-      "published": "2025-12-07T10:33:00+00:00",
-      "source": "The Star : News Feed",
       "category": "malaysia"
     },
     {
@@ -842,15 +905,6 @@
       "category": "tech"
     },
     {
-      "id": "e1cd48a451a8e0e43beba7112e243f6ede836ef2",
-      "title": "Horses deserves to be played, even if it&#8217;s not very good",
-      "link": "https://www.theverge.com/games/839464/horses-review-santa-ragione-steam-epic-bans",
-      "summary": "Horses has become the current face of the fight against video game censorship and what gets to be art. After getting banned from Steam and the Epic Game Store, the narrative horror game has become a bestseller on GOG.com, and has brought gamers of all stripes together in support of it. But as a game, [&#8230;]",
-      "published": "2025-12-06T14:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "7e91ff6777f79e33c6a23ddccb995654c13e17d4",
       "title": "9to5Toys Battlestation Weekly – Samsung 4K 3D monitor $1,100 off, gaming laptops, peripherals, more",
       "link": "https://9to5toys.com/2025/12/06/battlestation-weekly-samsung-4k-3d-monitor-1100-off/",
@@ -912,15 +966,6 @@
       "published": "2025-12-06T11:53:36+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "a9a4d13acda35012f2703a2a333ac686be755a65",
-      "title": "A look at Phreeli, a privacy-focused phone carrier that lets users sign up with only a ZIP code and uses an encryption system based on \"zero-knowledge proofs\" (Andy Greenberg/Wired)",
-      "link": "http://www.techmeme.com/251206/p5#a251206p5",
-      "summary": "<a href=\"https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251206/i5.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251206/p5#a251206p5\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Andy Greenberg / <a href=\"http://www.wired.com/\">Wired</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/\">A look at Phreeli, a privacy-focused phone carrier that lets users sign up with only a ZIP code and uses an encryption system based on &ldquo;zero-knowledge proofs&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; Privacy stalwart Nicholas Merrill spent a decade fighting an FBI surveillance order.</p>",
-      "published": "2025-12-06T11:35:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "bd08b5db6cedebc55bab3f5fc163822280c6fb15",
@@ -1013,22 +1058,13 @@
       "category": "tech"
     },
     {
-      "id": "58512adb4694adcd13b573ad7a2d68e81fd9d6dc",
-      "title": "The Verge’s 2025 holiday gift guide",
-      "link": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
-      "summary": "The holidays have a way of sneaking up on us. One minute you're trick-or-treating with your kids, and the next you're panic shopping in a Buc-ee's gift aisle. But it doesn't have to be that way. With the right cheat sheet, you can keep the holiday spirit high and stress levels low. Fortunately, we did [&#8230;]",
-      "published": "2025-12-06T00:08:39+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "aebcc8d3b75124cde112a785013c6acebced3d2a",
-      "title": "Single women risk rape and exploitation in search for better life in Europe",
-      "link": "https://www.bbc.com/news/articles/cd0k2r2jpg4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Esther says she faced sexual violence on her journey to Europe after fleeing abuse in Nigeria.",
-      "published": "2025-12-06T00:07:27+00:00",
-      "source": "BBC News",
-      "category": "world"
+      "id": "58ab878af2210b300119b2c90b53dce693b5183e",
+      "title": "Linkie",
+      "link": "https://www.producthunt.com/products/linkie-2",
+      "summary": "<p>\n            Your link-in-bio platform\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/linkie-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046704?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-06T00:09:36+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "3474559fedcb3b6bf8ab0a877fdca033a8cb1b8c",
@@ -1076,15 +1112,6 @@
       "category": "deals"
     },
     {
-      "id": "75555b6d2ee3ee56c26739399e236902a0c1906b",
-      "title": "Ninja’s latest soft-serve dispensing Scoop & Swirl ice cream maker back at second-best $280 price, more from $59",
-      "link": "https://9to5toys.com/2025/12/05/ninjas-scoop-swirl-ice-cream-maker-280-more-from-59/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Ninja-Swirl-CREAMi-deal.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Over at Amazon, you can pick up the new CREAMi Scoop &amp; Swirl Ice Cream and Soft Serve Maker at $279.99 shipped, alongside various other cooking appliances from the brand, which we’ve collected for you below the fold. Down from its $350 full price since Black Friday last week, we saw discounts go their lowest to $238 for Cyber Monday before returning to this rate. If you missed out on that new all-time (and short-lived) low, you’re getting it at the next-best price here while the $70 markdown lasts. Head below to learn more about it and browse the other Ninja appliances benefitting from notable holiday savings.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/12/05/ninjas-scoop-swirl-ice-cream-maker-280-more-from-59/#more-1182043\">more…</a>",
-      "published": "2025-12-05T22:38:18+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "75a99642bcd6f09ddb415c1d858bb717cca57e07",
       "title": "AWS needs you to believe in AI agents",
       "link": "https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/",
@@ -1092,15 +1119,6 @@
       "published": "2025-12-05T22:00:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "fcc4c7722498203e4a5956bb0878e0af8471420b",
-      "title": "Add VIOFO’s A229 Ultra 2 or 3-channel dash cam systems to your ride at their best prices starting from $300, more",
-      "link": "https://9to5toys.com/2025/12/05/viofo-a229-ultra-2-or-3-channel-dash-cam-systems-from-300/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/VIOFO-A229-Ultra-2-channel-dash-cam.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Coming to us through VIOFO’s official Amazon storefront, you can score the brand’s latest A229 Ultra 2-Channel Dash Cam at $299.99 shipped, while the 3-Channel dash cam system can be found at <strong>$329.99 shipped</strong>. These two new models have been on the market since August with $390 and $440 full prices, but we didn’t see the first discounts taking the prices lower until late October, with these two rates first offered last month in early Black Friday sales. Now, you’re getting a second chance at these all-time low prices, saving you $90 off both going rates. If you’d prefer to save money by going with a single-cam option, the brand’s popular VS1 Mini Dash Cam can be yours at $109.99 shipped, or the less advanced A119 Mini 2 Dash Cam at <strong>$85.99 shipped</strong>. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/12/05/viofo-a229-ultra-2-or-3-channel-dash-cam-systems-from-300/#more-1182038\">more…</a>",
-      "published": "2025-12-05T21:52:19+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "cb673b5b7a3c77bc00bcad6d957f05ab1e23edb5",
@@ -1155,15 +1173,6 @@
       "published": "2025-12-05T20:06:03+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "48cac3f060eb67af5161760f94ca59a34eaec9ea",
-      "title": "Eureka",
-      "link": "https://www.producthunt.com/products/eureka-4",
-      "summary": "<p>\n            Turn any knowledge into an explorable visual map, AI-powered\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/eureka-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046648?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-05T19:17:58+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "9c009df8024f2cd950325a351df094d9a79fc59a",
@@ -1238,15 +1247,6 @@
       "category": "events"
     },
     {
-      "id": "038d7b0e8244de9535fd97a57d9f073d1277cf86",
-      "title": "New streaming channel launches to give viewers a peek into city council meetings",
-      "link": "https://techcrunch.com/2025/12/05/new-streaming-channel-launches-to-give-viewers-a-peek-into-city-council-meetings/",
-      "summary": "Hamlet TV is a way to help keep citizens informed of what's happening inside local governments.",
-      "published": "2025-12-05T17:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "18a31f5615696df1c08d9d8518d6c0e5589e178d",
       "title": "Elon Musk’s X first to be fined under EU’s Digital Services Act",
       "link": "https://arstechnica.com/tech-policy/2025/12/elon-musks-x-first-to-be-fined-under-eus-digital-service-act/",
@@ -1283,15 +1283,6 @@
       "category": "malaysia"
     },
     {
-      "id": "2c0154e94b2cf831a08ad7ce8bc33f78f2942aa9",
-      "title": "Browser Use Skills",
-      "link": "https://www.producthunt.com/products/browser-use",
-      "summary": "<p>\n            Turn any website into a reliable API with 1 prompt\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/browser-use?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046514?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-05T13:11:52+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "c0e83908a26f88d94c1988a4559b63c1fb1972ab",
       "title": "New report warns of critical climate risks in Arab region",
       "link": "https://arstechnica.com/science/2025/12/new-report-warns-of-critical-climate-risks-in-arab-region/",
@@ -1326,15 +1317,6 @@
       "published": "2025-12-05T11:08:42+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "94e4701cd2537a9d1a655fd5f499fa2d5670d8d6",
-      "title": "Proofly",
-      "link": "https://www.producthunt.com/products/proofly-on-device-ai-proofreader",
-      "summary": "<p>\n            Private AI proofreading that runs 100% on your device\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/proofly-on-device-ai-proofreader?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046434?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-05T09:46:23+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "62c459d0785b7a53b2a3c1170201bbc10df88b73",
@@ -1517,6 +1499,15 @@
       "category": "malaysia"
     },
     {
+      "id": "5fd0ca77723b93c9e9c58ec0be63090d1444fcfa",
+      "title": "SpendLog",
+      "link": "https://www.producthunt.com/products/spendlog",
+      "summary": "<p>\n            See exactly what you bought, not just what you spent.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/spendlog?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1044498?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-01T09:07:59+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "e8a48157c69986af56a7a3bc4d702b005756711f",
       "title": "Ariel AI by Roamcalm",
       "link": "https://www.producthunt.com/products/roamcalm",
@@ -1576,6 +1567,15 @@
       "link": "https://www.producthunt.com/products/strater-ai-learn-understand-rember",
       "summary": "<p>\n            Turn any video, PDF, or web page into your personal AI tutor\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/strater-ai-learn-understand-rember?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1028126?app_id=339\">Link</a>\n          </p>",
       "published": "2025-10-18T16:10:20+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "db3ff190263777f6b1bfa7ee0c3e29eeaf31587e",
+      "title": "TruGen AI",
+      "link": "https://www.producthunt.com/products/trugen-ai",
+      "summary": "<p>\n            Bringing AI to Life with Human-Like Video Agents.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/trugen-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1020976?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-09-28T20:30:45+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
