@@ -1,61 +1,367 @@
 {
-  "generatedAt": "2025-12-12T01:11:19.622224+00:00",
+  "generatedAt": "2025-12-12T03:18:30.402417+00:00",
   "counts": {
     "total": 175
   },
   "items": [
     {
-      "id": "3fa5e23da77833501bf69cadd30ef6442b1e3ae7",
-      "title": "Eurovision 2024 winner Nemo returns trophy over Israel’s participation, urges contest to ‘live its values’",
-      "link": "https://www.malaymail.com/news/life/2025/12/12/eurovision-2024-winner-nemo-returns-trophy-over-israels-participation-urges-contest-to-live-its-values/201609",
-      "summary": "GENEVA, Dec 12 &mdash; Nemo, last year&rsquo;s Eurovision winner, said yesterday he was returning the 2024 trophy in pro...",
-      "published": "2025-12-12T01:10:30+00:00",
+      "id": "d68cba3372796ceb391fe3c674aa287d599b9606",
+      "title": "Tomb Raider announces two new games",
+      "link": "https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis",
+      "summary": "While Geoff Keighley had already announced that Tomb Raider would be making a Game Awards appearance, the surprise was that instead of one game announcement there's two. Crystal Dynamics and Amazon Game Studios are releasing two Tomb Raider games back-to-back in 2026 and 2027. First up, coming in 2026 is Tomb Raider: Legacy of Atlantis. [&#8230;]",
+      "published": "2025-12-12T03:11:15+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "830d8d262fb82254c1a0f65411a616845c59da36",
+      "title": "Hong Kong actor Jeffrey Ngai visits KL, talks ‘Road to Vendetta’ and names Dwayne Johnson as dream co-star",
+      "link": "https://www.malaymail.com/news/showbiz/2025/12/12/hong-kong-actor-jeffrey-ngai-visits-kl-talks-road-to-vendetta-and-names-dwayne-johnson-as-dream-co-star/201635",
+      "summary": "KUALA LUMPUR, Dec 12 &mdash; Emerging as one of Hong Kong&rsquo;s most dashing new talents, Jeffrey Ngai Tsun-sang, 27,...",
+      "published": "2025-12-12T03:10:25+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
-      "id": "5fe65c3863f0d84f4d4e8b924eae3c8b85e126c6",
-      "title": "AGC drops appeal against Rosmah acquittal after finding no realistic chance of success",
-      "link": "https://www.malaymail.com/news/malaysia/2025/12/12/agc-drops-appeal-against-rosmah-acquittal-after-finding-no-realistic-chance-of-success/201608",
-      "summary": "KUALA LUMPUR, Dec 12&nbsp;&mdash; The Attorney General&rsquo;s Chambers (AGC) said last night it decided to withdraw its...",
-      "published": "2025-12-12T01:03:50+00:00",
+      "id": "b15508c3f1448c4e0b880d87052d4ee17f282104",
+      "title": "Police question four following discovery body of newborn baby boy",
+      "link": "https://www.thestar.com.my/news/nation/2025/12/12/police-question-four-following-discovery-body-of-newborn-baby-boy",
+      "summary": "KUALA LUMPUR: Four individuals have had their statements recorded by the police following the discovery of the body of a newborn baby boy in Bukit Jalil. <a href=\"https://www.thestar.com.my/news/nation/2025/12/12/police-question-four-following-discovery-body-of-newborn-baby-boy\">Read full story</a>",
+      "published": "2025-12-12T03:03:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "29d8abd55b197deaaea88150e2203b8a4d537b9a",
+      "title": "A look at French indie game studio Sandfall Interactive, whose critically-acclaimed Clair Obscur: Expedition 33 sold 5M+ copies with a budget of less than $10M (Zachary Small/New York Times)",
+      "link": "http://www.techmeme.com/251211/p53#a251211p53",
+      "summary": "<a href=\"https://www.nytimes.com/2025/12/11/arts/clair-obscur-expedition-33-sandfall.html?unlocked_article_code=1.708.-LdL.rZytLwr_TSjI&amp;smid=url-share\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251211/i53.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251211/p53#a251211p53\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Zachary Small / <a href=\"https://www.nytimes.com/\">New York Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nytimes.com/2025/12/11/arts/clair-obscur-expedition-33-sandfall.html?unlocked_article_code=1.708.-LdL.rZytLwr_TSjI&amp;smid=url-share\">A look at French indie game studio Sandfall Interactive, whose critically-acclaimed Clair Obscur: Expedition 33 sold 5M+ copies with a budget of less than $10M</a></b></span>&nbsp; &mdash;&nbsp; Without a blockbuster budget or much experience, the creators of Clair Obscur: Expedition 33 astounded the industry with an emotional narrative and old-school design.</p>",
+      "published": "2025-12-12T02:55:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "11ac07357e2e2b3343c584d0f035be41cd986e6c",
+      "title": "Star Wars: Fate of the Old Republic announced as a KOTOR spiritual successor",
+      "link": "https://arstechnica.com/gaming/2025/12/star-wars-fate-of-the-old-republic-announced-as-a-kotor-spiritual-successor/",
+      "summary": "Original <em>KOTOR</em> director Casey Hudson returns to Star Wars with new studio Arcanaut.",
+      "published": "2025-12-12T02:51:40+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "0f392a491c811951b72f59c9a28a409d9f9b62d3",
+      "title": "ComfortDelGro to launch self-driving shuttles for Punggol residents in Singapore from early 2026",
+      "link": "https://www.malaymail.com/news/singapore/2025/12/12/comfortdelgro-to-launch-self-driving-shuttles-for-punggol-residents-in-singapore-from-early-2026/201642",
+      "summary": "SINGAPORE, Dec 12 &mdash; Starting early next year, residents in Punggol will be able to book a ride in ComfortDelGro (C...",
+      "published": "2025-12-12T02:50:41+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
-      "id": "20aa2db34d5ac183531d46b15a95563a1ea2dff9",
-      "title": "In Sarawak, strong waves toss two fishermen overboard in Tanjung Sirik, one still missing",
-      "link": "https://www.malaymail.com/news/malaysia/2025/12/12/in-sarawak-strong-waves-toss-two-fishermen-overboard-in-tanjung-sirik-one-still-missing/201607",
-      "summary": "SIBU, Dec 12 &mdash; A fisherman has gone missing while another survived after both were thrown into the sea when their...",
-      "published": "2025-12-12T01:02:16+00:00",
+      "id": "e19e4a39796c8ba062cfa5c3e1e0b6625f74dadf",
+      "title": "The best Christmas gifts we love under $50",
+      "link": "https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025",
+      "summary": "One of the easiest things to do during the holidays is spend too much money. It happens to many of us, even when we swear that things are going to be different this year. We want to help you stay true to your intentions to save money when possible, and we're doing that with a [&#8230;]",
+      "published": "2025-12-12T02:50:15+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "2f1b15c47b0eb68fe5f668809bf135fa97a4ac68",
+      "title": "Tim Sweeney on the future of Fortnite after another win over Apple",
+      "link": "https://www.theverge.com/news/843265/apple-epic-games-tim-sweeney-interview",
+      "summary": "Shortly after appeals court judges ruled against Apple's contempt appeal in a years-long antitrust dispute against the makers of Fortnite, I got to talk to Epic Games CEO Tim Sweeney in an interview. According to Sweeney, today's ruling \"completely shuts down\" Apple's App Store rules that allow it to collect \"junk fees.\" The three-judge Ninth [&#8230;]",
+      "published": "2025-12-12T02:48:49+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "6e22a7627263c425fa572397cb3710bfdedd2d95",
+      "title": "Amnesty accuses Hamas of crimes against humanity, repeats genocide claims against Israel in Gaza war",
+      "link": "https://www.malaymail.com/news/world/2025/12/12/amnesty-accuses-hamas-of-crimes-against-humanity-repeats-genocide-claims-against-israel-in-gaza-war/201641",
+      "summary": "JERUSALEM, Dec 12 &mdash; Amnesty International on Thursday accused Hamas and other Palestinian armed groups for the fir...",
+      "published": "2025-12-12T02:45:36+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
-      "id": "aed2d4fd07bdd2ad10c9d742fa60a19cbfaa5ef3",
-      "title": "Make Jalan Kuchai Lama’s Nude Bakery the place for your pavlova cravings plus other goodies like tiramisu, carrot cake and festive raspberry butter cookies",
-      "link": "https://www.malaymail.com/news/eat-drink/2025/12/12/make-jalan-kuchai-lamas-nude-bakery-the-place-for-your-pavlova-cravings-plus-other-goodies-like-tiramisu-carrot-cake-and-festive-raspberry-butter-cookies/201602",
-      "summary": "KUALA LUMPUR, Dec 12 &mdash; When a baker who churns out cakes you love tells you Nude Bakery serves the best pavlova in...",
-      "published": "2025-12-12T01:00:53+00:00",
+      "id": "def087e464ec4df8424a0e12c3c3ef8619e5a055",
+      "title": "Nothing Phone (4a) Lineup, Headphone (a) Detailed In Leak",
+      "link": "https://www.lowyat.net/2025/376043/nothing-phone-4a-headphone-a-leak/",
+      "summary": "<p>The Nothing Phone (3a) series debuted back in March as the brand’s mid-range offering. Now that the vanilla version has received a Community Edition, it seems the company is shifting its attention to the succeeding models. While Nothing has not divulged any details on the upcoming Phone (4a) and Phone (4a) Pro, a recent rumour [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/376043/nothing-phone-4a-headphone-a-leak/\">Nothing Phone (4a) Lineup, Headphone (a) Detailed In Leak</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2025-12-12T02:39:35+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "6cf05a750e50d30d39a1ace179a7612b07c878ee",
+      "title": "Obamacare health subsidy to end as US Senate rejects dueling remedies",
+      "link": "https://www.thestar.com.my/news/world/2025/12/12/obamacare-health-subsidy-to-end-as-us-senate-rejects-dueling-remedies",
+      "summary": "WASHINGTON, Dec 11 (Reuters) - The U.S. Senate on Thursday rejected competing proposals by Republicans and Democrats to address a looming healthcare crisis, leaving some 24 million Americans vulnerable to significantly higher insurance premiums beginning on January 1 when a federal subsidy expires. <a href=\"https://www.thestar.com.my/news/world/2025/12/12/obamacare-health-subsidy-to-end-as-us-senate-rejects-dueling-remedies\">Read full story</a>",
+      "published": "2025-12-12T02:38:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "654234a140ee92ebd1ed7b6b877110012106d537",
+      "title": "Hospital reduced to rubble as junta raid leaves more than 30 dead in Myanmar",
+      "link": "https://www.malaymail.com/news/world/2025/12/12/hospital-reduced-to-rubble-as-junta-raid-leaves-more-than-30-dead-in-myanmar/201638",
+      "summary": "MRAUK U (Myanmar), Dec 12 &mdash; A Myanmar military air strike killed more than 30 people at a hospital, aid workers sa...",
+      "published": "2025-12-12T02:27:25+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
-      "id": "1cc371e813a86559e75bf320dc2776ec4df72ba7",
-      "title": "Taiping woman loses RM250,000 after falling for online part-time job scam",
-      "link": "https://www.malaymail.com/news/malaysia/2025/12/12/taiping-woman-loses-rm250000-after-falling-for-online-part-time-job-scam/201606",
-      "summary": "IPOH, Dec 12 &mdash; A 46-year-old woman lost RM255,948 after being deceived by an online part-time job scam, which lure...",
-      "published": "2025-12-12T00:58:25+00:00",
+      "id": "c05138d99d9c1f874a637a5fe4923813a650cddc",
+      "title": "Flood evacuee numbers in Sarawak and Perak unchanged as of 8am today",
+      "link": "https://www.malaymail.com/news/malaysia/2025/12/12/flood-evacuee-numbers-in-sarawak-and-perak-unchanged-as-of-8am-today/201639",
+      "summary": "KUALA LUMPUR, Dec 12 &mdash; The number of flood victims placed at temporary relief centres in Sarawak and Perak remains...",
+      "published": "2025-12-12T02:24:50+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
-      "id": "49b08683b12548c664ae1a5b4c9ec2995b5c757e",
-      "title": "SEA Games: Team Malaysia flex their muscles with gymnastics gold, swimming records and a flurry of silvers",
-      "link": "https://www.malaymail.com/news/sports/2025/12/12/team-malaysia-flex-their-muscles-with-gymnastics-gold-swimming-records-and-a-flurry-of-silvers/201604",
-      "summary": "BANGKOK, Dec 12 &mdash; Artistic gymnastics proved to be the saviour of the national contingent on the second day of the...",
-      "published": "2025-12-12T00:57:34+00:00",
+      "id": "ed5750119962e21e9b6fd3bc90ef75eba10cf36a",
+      "title": "Felda’s 2022 and 2023 annual reports to be tabled in Parliament next year, says Zahid",
+      "link": "https://www.malaymail.com/news/malaysia/2025/12/12/feldas-2022-and-2023-annual-reports-to-be-tabled-in-parliament-next-year-says-zahid/201637",
+      "summary": "KUALA LUMPUR, Dec 12 &mdash; The Annual Report and Financial Statements of the Federal Land Development Authority (Felda...",
+      "published": "2025-12-12T02:20:38+00:00",
       "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "55e24d94cda9a7de24c50ee6b1e8da1059bf1bbc",
+      "title": "Musk reverses stance on SpaceX listing to raise billions for Starlink and AI",
+      "link": "https://www.malaymail.com/news/money/2025/12/12/musk-reverses-stance-on-spacex-listing-to-raise-billions-for-starlink-and-ai/201633",
+      "summary": "NEW YORK, Dec 12 &mdash; Elon Musk has signaled plans to soon seek a public stock listing of SpaceX, confirming a report...",
+      "published": "2025-12-12T02:19:58+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "45b6fffe7d915ccc30626237f1b1be271a1a8a0e",
+      "title": "Accused killer of Charlie Kirk makes first court appearance in high‑profile US trial",
+      "link": "https://www.malaymail.com/news/world/2025/12/12/accused-killer-of-charlie-kirk-makes-first-court-appearance-in-highprofile-us-trial/201634",
+      "summary": "LOS ANGELES, Dec 12 &mdash; The man accused of killing right-wing political activist Charlie Kirk appeared in person in...",
+      "published": "2025-12-12T02:19:27+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "01b3e52749c3767cc6d285fc3ac1b4bbd975d28b",
+      "title": "Number of flood victims in Sarawak, Perak remains unchanged",
+      "link": "https://www.thestar.com.my/news/nation/2025/12/12/number-of-flood-victims-in-sarawak-perak-remains-unchanged",
+      "summary": "KUALA LUMPUR: The number of flood victims placed at temporary relief centres in Sarawak and Perak remains unchanged on Friday morning (Dec 12), with three centres in Sarawak and one in Perak still operating. <a href=\"https://www.thestar.com.my/news/nation/2025/12/12/number-of-flood-victims-in-sarawak-perak-remains-unchanged\">Read full story</a>",
+      "published": "2025-12-12T02:19:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "0ef61a4e599dc7af440d48f3fe70f00063452c2e",
+      "title": "Govt vows stronger civil society partnerships to boost national development, says DPM Fadillah",
+      "link": "https://www.malaymail.com/news/malaysia/2025/12/12/govt-vows-stronger-civil-society-partnerships-to-boost-national-development-says-dpm-fadillah/201636",
+      "summary": "KUALA LUMPUR, Dec 12 &mdash; The government remains committed to strengthening partnerships with civil society organisat...",
+      "published": "2025-12-12T02:17:54+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "c0384e0b40f8258f194d9d7763dd15198aa6443e",
+      "title": "Flood relief: MOHE to coordinate RM500 aid for Indonesian students in Malaysia, Malaysian students in Aceh",
+      "link": "https://www.malaymail.com/news/malaysia/2025/12/12/flood-relief-mohe-to-coordinate-rm500-aid-for-indonesian-students-in-malaysia-malaysian-students-in-aceh/201632",
+      "summary": "PUTRAJAYA, Dec 12 &mdash; The Higher Education Ministry (MOHE) will coordinate the registration and disbursement of RM50...",
+      "published": "2025-12-12T02:14:32+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "46eb8e780dab7f0151646085923f18d780d1db75",
+      "title": "Kuskop open to cooperative complaints, pledges no community left behind, says deputy minister",
+      "link": "https://www.malaymail.com/news/malaysia/2025/12/12/kuskop-open-to-cooperative-complaints-pledges-no-community-left-behind-says-deputy-minister/201631",
+      "summary": "KUALA LUMPUR, Dec 12 &mdash; The Ministry of Entrepreneur and Cooperative Development (Kuskop) is open to all parties, i...",
+      "published": "2025-12-12T02:11:22+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "ac66f2c77cb263c9159b458217a70f10442c8d9d",
+      "title": "Reddit takes Australia to court over landmark under‑16 social media ban",
+      "link": "https://www.malaymail.com/news/world/2025/12/12/reddit-takes-australia-to-court-over-landmark-under16-social-media-ban/201629",
+      "summary": "SYDNEY, Dec 12 &mdash; Tech company Reddit launched a legal challenge Friday to Australia&rsquo;s social media ban on un...",
+      "published": "2025-12-12T02:11:15+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "840f8e23e3b1d0cb6a9ab11539f0446e7c46a50d",
+      "title": "Pan Borneo Highway to be fully gazetted as Grade 1 road, says CVLB Sarawak chairman",
+      "link": "https://www.malaymail.com/news/malaysia/2025/12/12/pan-borneo-highway-to-be-fully-gazetted-as-grade-1-road-says-cvlb-sarawak-chairman/201630",
+      "summary": "KUCHING, Dec 12 &mdash; The Pan Borneo Highway is set to be fully gazetted as a Grade 1 road, marking a major milestone...",
+      "published": "2025-12-12T02:07:45+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "4cf8cbf8a66ae4930cf694ccd00f7e91838e54c1",
+      "title": "Control’s action-RPG sequel launches in 2026",
+      "link": "https://www.theverge.com/entertainment/841950/control-resonant-sequel-announce-ps5-xbox-steam",
+      "summary": "Remedy Entertainment is finally showing off the much-anticipated sequel to Control. The new game, dubbed Control Resonant, expands on the original with a new action-RPG framework. It takes place seven years later and shifts the setting from the unsettling Oldest House of the original to a more open Manhattan, while putting players in the role [&#8230;]",
+      "published": "2025-12-12T02:05:26+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "6815b220f014f72bd4ec4faef70e4208b2d39e05",
+      "title": "Thousands ready to evacuate as flooding hits Pacific Northwest",
+      "link": "https://www.bbc.com/news/articles/ce91dergm00o?at_medium=RSS&at_campaign=rss",
+      "summary": "Several days of heavy rain have swollen a number of rivers causing major flooding in parts of Canada and the US.",
+      "published": "2025-12-12T02:02:01+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "3ad545a571c39a173534684d8db217af6ed21d89",
+      "title": "Police: Machang crash that killed soldier occurred when Proton Wira veered into army truck lane",
+      "link": "https://www.malaymail.com/news/malaysia/2025/12/12/police-machang-crash-that-killed-soldier-occurred-when-proton-wira-veered-into-army-truck-lane/201627",
+      "summary": "MACHANG, Dec 12&nbsp;&mdash; The Proton Wira crash that killed a Malaysian soldier yesterday&nbsp;happened when the car,...",
+      "published": "2025-12-12T02:01:55+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "cc8a95ece955b816afa0fb47786c32e098090d67",
+      "title": "Operation Bluebird Wants To Relaunch Twitter Since X Abandoned The Name",
+      "link": "https://www.lowyat.net/2025/376000/operation-bluebird-wants-relaunch-twitter-since-x-abandoned-name/",
+      "summary": "<p>It seems pretty distant today, but Elon Musk only bought Twitter in late 2022. And it would be just shy of a year after that before he decided he prefers it to be called X. Three years later, a Virginia startup going by the name of Operation Bluebird says that it wants to launch its [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/376000/operation-bluebird-wants-relaunch-twitter-since-x-abandoned-name/\">Operation Bluebird Wants To Relaunch Twitter Since X Abandoned The Name</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2025-12-12T02:00:58+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "8d78a1142480d6f9194cf0e32ea75ef35dd62a65",
+      "title": "Villa and Forest celebrate wins as Celtic and Rangers suffer European misery",
+      "link": "https://www.malaymail.com/news/sports/2025/12/12/villa-and-forest-celebrate-wins-as-celtic-and-rangers-suffer-european-misery/201628",
+      "summary": "PARIS, Dec 12 &mdash; Aston Villa beat Basel 2-1 in the Europa League on Thursday to secure their eighth successive win,...",
+      "published": "2025-12-12T02:00:28+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "f6b92ce5a3bf61824fed6f502249c3950fc30565",
+      "title": "‘Road to Vendetta’ opens in local cinemas, showcases Hong Kong’s action legacy and wins five Golden Horse nominations (VIDEO)",
+      "link": "https://www.malaymail.com/news/showbiz/2025/12/12/road-to-vendetta-opens-in-local-cinemas-showcases-hong-kongs-action-legacy-and-wins-five-golden-horse-nominations-video/201617",
+      "summary": "KUALA LUMPUR, Dec 12 &mdash; Hong Kong cinema of the 1980s and 90s earned global acclaim for its high-octane action thri...",
+      "published": "2025-12-12T02:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "0a5e83b46c920900026d5f1b526e5d80ed57da9a",
+      "title": "US Treasury seeks lighter touch on Wall Street as panel priorities change",
+      "link": "https://www.malaymail.com/news/money/2025/12/12/us-treasury-seeks-lighter-touch-on-wall-street-as-panel-priorities-change/201623",
+      "summary": "WASHINGTON, Dec 12 &mdash; US Treasury Secretary Scott Bessent signaled key changes Thursday to a high-level panel on fi...",
+      "published": "2025-12-12T01:59:26+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "ace1239f1f0fe0c52899a63fdcd37b8d3f6d8a62",
+      "title": "‘Blatant theft’ or justified strike? Venezuela accuses US of piracy after tanker seizure",
+      "link": "https://www.malaymail.com/news/world/2025/12/12/blatant-theft-or-justified-strike-venezuela-accuses-us-of-piracy-after-tanker-seizure/201626",
+      "summary": "WASHINGTON, Dec 12 &mdash; An oil tanker seized by American forces off the Venezuelan coast will be brought to a port in...",
+      "published": "2025-12-12T01:53:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "d7af803d89ae785b92116b761b7f4bdbf0bbba77",
+      "title": "Jonathan Blow has spent the past decade designing 1,400 puzzles for you",
+      "link": "https://arstechnica.com/gaming/2025/12/jonathan-blow-has-spent-the-past-decade-designing-1400-puzzles-for-you/",
+      "summary": "Preview: <em>Order of the Sinking Star</em> started small but became a \"combinatoric explosion.\"",
+      "published": "2025-12-12T01:50:08+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "1794a725742dc4cfa6d1cf911f8efb2011404961",
+      "title": "xAI partners with El Salvador to deploy Grok across 5,000+ public schools, reaching 1M+ students in an \"AI-powered education program\" over the next two years (Dara Kerr/The Guardian)",
+      "link": "http://www.techmeme.com/251211/p52#a251211p52",
+      "summary": "<a href=\"https://www.theguardian.com/technology/2025/dec/11/elon-musk-el-salvador-grok\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251211/i52.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251211/p52#a251211p52\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Dara Kerr / <a href=\"http://www.theguardian.com/\">The Guardian</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theguardian.com/technology/2025/dec/11/elon-musk-el-salvador-grok\">xAI partners with El Salvador to deploy Grok across 5,000+ public schools, reaching 1M+ students in an &ldquo;AI-powered education program&rdquo; over the next two years</a></b></span>&nbsp; &mdash;&nbsp; President Nayib Bukele entrusting chatbot known for calling itself &lsquo;MechaHitler&rsquo; to create &lsquo;AI-powered&rsquo; curricula</p>",
+      "published": "2025-12-12T01:50:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "4a8e31a09bbc63dc4d7ba0abfd4ecba8e627daa1",
+      "title": "The next Star Wars game is the spiritual successor to Knights of the Old Republic",
+      "link": "https://www.theverge.com/games/843188/star-wars-fate-of-the-old-republic-casey-hudson",
+      "summary": "The next Star Wars game is coming from the director of Mass Effect and Knights of the Old Republic. Star Wars: Fate of the Old Republic was revealed during The Game Awards with a brief trailer that got Geoff Keighley so excited his voice started cracking. Like any announcement trailer, it was brief, featuring a [&#8230;]",
+      "published": "2025-12-12T01:48:01+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "94f6471eaf7c6a58cb490509fea800ddd6d6e1d2",
+      "title": "Torrential rains unleash widespread flooding, evacuations in Pacific Northwest",
+      "link": "https://www.thestar.com.my/news/world/2025/12/12/torrential-rains-unleash-widespread-flooding-evacuations-in-pacific-northwest",
+      "summary": "SNOHOMISH, Washington, Dec 11 (Reuters) - Heavy rains drenching the Pacific Northwest triggered flooding on Thursday across much of the region from Oregon north through Washington state and into British Columbia, closing dozens of roads and prompting the evacuations of tens of thousands of people. <a href=\"https://www.thestar.com.my/news/world/2025/12/12/torrential-rains-unleash-widespread-flooding-evacuations-in-pacific-northwest\">Read full story</a>",
+      "published": "2025-12-12T01:42:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "903d5c566357cc51fe83580c36dfce08cd5f428c",
+      "title": "World launches its ‘super app,’ including crypto pay and encrypted chat features",
+      "link": "https://techcrunch.com/2025/12/11/world-launches-its-super-app-including-crypto-pay-and-encrypted-chat-features/",
+      "summary": "Tools for Humanity, the company behind the app, is seeking to expand its \"real human network.\"",
+      "published": "2025-12-12T01:40:54+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "60d9c7de90756e136fdae0579a29cc0520903665",
+      "title": "Turning detective: Sharpening the dentist’s eye with digital photographs — Tengku Nurfarhana Nadirah Tengku Hamzah and Nor Azlida Mohd Nor",
+      "link": "https://www.malaymail.com/news/what-you-think/2025/12/12/turning-detective-sharpening-the-dentists-eye-with-digital-photographs-tengku-nurfarhana-nadirah-tengku-hamzah-and-nor-azlida-mohd-nor/201625",
+      "summary": "DECEMBER 12 &mdash; When most of us sit on the dental chair, we assume that the dentist simply looks into our mouth, spo...",
+      "published": "2025-12-12T01:38:45+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "485d1d644a5f67418631435fea0afcdaf1160980",
+      "title": "Immigration Dept’s Ops Kutip nets 31 undocumented migrants at Masjid Jamek in KL",
+      "link": "https://www.malaymail.com/news/malaysia/2025/12/12/immigration-depts-ops-kutip-nets-31-undocumented-migrants-at-masjid-jamek-in-kl/201624",
+      "summary": "KUALA LUMPUR, Dec 12 &mdash; &nbsp;The Immigration Department of Kuala Lumpur detained 31 illegal immigrants of various...",
+      "published": "2025-12-12T01:34:50+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "e184151460cda911e7733e68baf321704ee4dfab",
+      "title": "Here’s your first look and more details on the new Star Wars: Fate of the Old Republic",
+      "link": "https://9to5toys.com/2025/12/11/heres-your-first-look-and-more-details-on-the-new-star-wars-fate-of-the-old-republic/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/12/Star-Wars-Fate-of-the-Old-Republic.png?w=1600\" /></div><p>The <a href=\"https://9to5toys.com/2025/12/11/2025-game-awards-live-reveals/\">2025 Game Awards</a> started with a bang from a galaxy far, far away this year – Star Wars: Fate of the Old Republic has arrived. You can check the first teaser screenshots and trailer down below, as well as some early details. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/12/11/heres-your-first-look-and-more-details-on-the-new-star-wars-fate-of-the-old-republic/#more-1183136\">more…</a>",
+      "published": "2025-12-12T01:26:04+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "4e481abf1219fe820dd2f679621e0e4ade748c31",
+      "title": "Trump signs AI executive order pushing to ban state laws",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/841817/trump-signs-ai-executive-order-pushing-to-ban-state-laws",
+      "summary": "On Thursday evening, with White House AI and crypto czar David Sacks looking over his shoulder, Donald Trump signed an executive order aiming to grab unilateral power over regulating artificial intelligence for the federal government. The order can't by itself unilaterally override state AI laws, but it directs federal agencies to take steps to reduce [&#8230;]",
+      "published": "2025-12-12T01:18:46+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "0161eee99d45e8b58b2790eafec31051308e6246",
+      "title": "Ops Kutip: Immigration detains 31 undocumented migrants at Masjid Jamek",
+      "link": "https://www.thestar.com.my/news/nation/2025/12/12/ops-kutip-immigration-detains-31-undocumented-migrants-at-masjid-jamek",
+      "summary": "KUALA LUMPUR: The Immigration Department of Kuala Lumpur detained 31 illegal immigrants of various nationalities in an enforcement operation around the Masjid Jamek area here on Thursday night (Dec 11). <a href=\"https://www.thestar.com.my/news/nation/2025/12/12/ops-kutip-immigration-detains-31-undocumented-migrants-at-masjid-jamek\">Read full story</a>",
+      "published": "2025-12-12T01:14:00+00:00",
+      "source": "The Star : News Feed",
       "category": "malaysia"
     },
     {
@@ -68,15 +374,6 @@
       "category": "tech"
     },
     {
-      "id": "509eb3b21824486ecc8c63898490265a5d135147",
-      "title": "In Kelantan, one dead, four injured as MAF five-tonne truck collides with car",
-      "link": "https://www.malaymail.com/news/malaysia/2025/12/12/in-kelantan-one-dead-four-injured-as-maf-five-tonne-truck-collides-with-car/201605",
-      "summary": "KOTA BHARU, Dec 112 &mdash; A Malaysian Armed Forces (MAF) personnel was killed and four others injured in a collision i...",
-      "published": "2025-12-12T00:54:46+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "7fcc052adaab6c5ddcad22dadd96e33d24ab5fb7",
       "title": "Stanford’s star reporter takes on Silicon Valley’s ‘money-soaked’ startup culture",
       "link": "https://techcrunch.com/2025/12/11/stanfords-star-reporter-takes-on-silicon-valleys-money-soaked-startup-culture/",
@@ -84,15 +381,6 @@
       "published": "2025-12-12T00:52:20+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "be72db6b309887e1a2964d011e1341caa11fa1cd",
-      "title": "Thailand’s PM dissolves parliament in shock move amid opposition clash",
-      "link": "https://www.malaymail.com/news/world/2025/12/12/thailands-pm-dissolves-parliament-in-shock-move-amid-opposition-clash/201603",
-      "summary": "BANGKOK, Dec 12 &mdash; Thailand&rsquo;s Prime Minister Anutin Charnvirakul announced on Thursday that he is &ldquo;retu...",
-      "published": "2025-12-12T00:45:31+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "67f9cb298a302c5e4bbe61d5cb4abea7e1ca719b",
@@ -152,7 +440,7 @@
       "id": "fff27f2cff7729249c0b70e7949625636b1435c0",
       "title": "Fears grow that world's rarest apes were swept away in Sumatran floods",
       "link": "https://www.bbc.com/news/articles/cj4q1l0ly7wo?at_medium=RSS&at_campaign=rss",
-      "summary": "A carcass thought to belong to a Tapanuli orangutan, the world's rarest apes, has alarmed conservationists.",
+      "summary": "A carcass thought to belong to a Tapanuli orangutan, the world's rarest ape, has alarmed conservationists.",
       "published": "2025-12-12T00:08:17+00:00",
       "source": "BBC News",
       "category": "world"
@@ -257,92 +545,11 @@
       "category": "tech"
     },
     {
-      "id": "bebb952d67b0b7139d71510914fd18b5b4709777",
-      "title": "Rising ocean heat blamed for ‘supercharged’ storms that tore through Indonesia, Malaysia, Sri Lanka and Thailand",
-      "link": "https://www.malaymail.com/news/world/2025/12/12/rising-ocean-heat-blamed-for-supercharged-storms-that-tore-through-indonesia-malaysia-sri-lanka-and-thailand/201545",
-      "summary": "SINGAPORE, Dec 12 &mdash; The deadly storms that devastated Sri Lanka, Indonesia, Malaysia and Thailand in late November...",
-      "published": "2025-12-11T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "856d5723f2fbb85718d3084f43421fbe3ce3f238",
-      "title": "Breakout star: Teenage B‑girl on mission to win gold and show China is cool",
-      "link": "https://www.malaymail.com/news/life/2025/12/12/breakout-star-teenage-bgirl-on-mission-to-win-gold-and-show-china-is-cool/201533",
-      "summary": "PINGYI (China), Dec 12 &mdash; Flipping and spinning on a studio floor, 17-year-old Royal is a star in China&rsquo;s bre...",
-      "published": "2025-12-11T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "179c7582957c803379f4aacf2cfb4812b1e5af0e",
-      "title": "Racing towards great white sharks: Australia’s team tags predators to protect swimmers",
-      "link": "https://www.malaymail.com/news/life/2025/12/12/racing-towards-great-white-sharks-australias-team-tags-predators-to-protect-swimmers/201535",
-      "summary": "SYDNEY, Dec 12 &mdash; Sensible people might prefer to flee at torpedo speed from a great white shark, but there&rsquo;s...",
-      "published": "2025-12-11T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "29e5148277c0cdff62e209b85b85e8bdb2c62d96",
-      "title": "Stadiums swap beef for Bambi: Wild venison burgers take over menus in Britain’s green push",
-      "link": "https://www.malaymail.com/news/life/2025/12/12/stadiums-swap-beef-for-bambi-wild-venison-burgers-take-over-menus-in-britains-green-push/201552",
-      "summary": "LONDON, Dec 12 &mdash; The humble beef burger is disappearing from menus at stadiums across Britain, as venues such as B...",
-      "published": "2025-12-11T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "049797f46b4f327792032bdf2316063afefa3a7d",
-      "title": "Rosmah’s corruption appeal on hold as she pushes to oust the judge who convicted her",
-      "link": "https://www.malaymail.com/news/malaysia/2025/12/12/rosmahs-corruption-appeal-on-hold-as-she-pushes-to-oust-the-judge-who-convicted-her/201586",
-      "summary": "KUALA LUMPUR, Dec 12 &mdash; Datin Seri Rosmah Mansor&rsquo;s appeal against the High Court&rsquo;s 2022 decision to con...",
-      "published": "2025-12-11T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "e206c3d5a0674b97e2d304432b7be602c8cccb82",
       "title": "The best earbuds we’ve tested for 2025",
       "link": "https://www.theverge.com/21309820/best-wireless-earbuds",
       "summary": "It’s hard to buy a bad pair of wireless earbuds these days, and with constant discounts and deals wherever you look, now is as good a time as any to splurge on the pair you’ve been eyeing. The market has come a long way since the early era of true wireless earbuds, when we had [&#8230;]",
       "published": "2025-12-11T23:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "c54b56fa42e899bac00cc9403bedbcbe863bc5a6",
-      "title": "Google brings Gemini’s Chrome integration to iPhone and iPad",
-      "link": "https://www.theverge.com/news/842987/google-gemini-chrome-ios",
-      "summary": "Built-in Gemini AI features in Chrome are now becoming more widely available on the iOS version of Google's browser, as reported by 9to5Google and Engadget. They're popping up several months after the features' rollout on the desktop version started in September. Once the new Gemini features are active on your iPhone or iPad, Chrome users [&#8230;]",
-      "published": "2025-12-11T22:51:27+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "a11abe59efe79d60c96702e1c5d4918f3ad3b6f3",
-      "title": "Tim Cook’s lobbying hangs over a key kids online safety vote",
-      "link": "https://www.theverge.com/policy/842993/kids-online-safety-markup-energy-commerce-tim-cook-apple",
-      "summary": "At a congressional meeting to vote on the future of kids online safety, the most spirited debate of the day was about a bill that wasn't even on the agenda and Apple CEO Tim Cook. 18 bills that aim to regulate the internet to protect children are now headed for a vote before the full [&#8230;]",
-      "published": "2025-12-11T22:50:24+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "ed258d8dbf1c3e15b08085d8fd663f342bf72f5a",
-      "title": "Amazon Prime Video pulls AI-powered recaps after Fallout flub",
-      "link": "https://www.theverge.com/news/842978/amazon-prime-video-ai-fallout-recap",
-      "summary": "Amazon Prime Video has pulled its AI-powered video recap of Fallout after viewers noticed that it got key parts of the story wrong. The streaming service began testing Video Recaps last month, and now they're missing from the shows included in the test, including Fallout, The Rig, Tom Clancy's Jack Ryan, Upload, and Bosch. The [&#8230;]",
-      "published": "2025-12-11T22:46:11+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "4039353793d1202fa0f71140084e0dea2ca393a1",
-      "title": "Apple loses contempt appeal in Epic case",
-      "link": "https://www.theverge.com/news/842991/apple-epic-appeal-loses-contempt",
-      "summary": "Apple has lost its appeal of a massive district court ruling in its ongoing antitrust dispute with Epic Games. That April ruling from Judge Yvonne Gonzalez Rogers said that Apple \"willingly\" failed to comply with a 2021 order allowing mobile app developers to link to payment options outside of Apple's, and she barred Apple from [&#8230;]",
-      "published": "2025-12-11T22:44:27+00:00",
       "source": "The Verge",
       "category": "tech"
     },
@@ -363,15 +570,6 @@
       "published": "2025-12-11T22:36:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
-    },
-    {
-      "id": "6815b220f014f72bd4ec4faef70e4208b2d39e05",
-      "title": "Thousands ready to evacuate as flooding hits Pacific Northwest",
-      "link": "https://www.bbc.com/news/articles/ce91dergm00o?at_medium=RSS&at_campaign=rss",
-      "summary": "An atmospheric river has caused torrential rain and flooding in parts of Canada and the United States.",
-      "published": "2025-12-11T22:27:30+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "2b4b1701738967f3c79066b4f7fc679e733dc77f",
@@ -401,15 +599,6 @@
       "category": "tech"
     },
     {
-      "id": "8d0430d5e2ce60fbaf489c742f2f8f7791a224a4",
-      "title": "The best phone to buy right now",
-      "link": "https://www.theverge.com/22163811/best-phone",
-      "summary": "Haven’t you heard? Phones are boring now. And that’s just fine! Most people buying a new phone just want something familiar that works better than the device they’re replacing. If that’s your MO, then you’re sure to find something reliable in my recommendations below. But even if you’re looking for something a little more extra, [&#8230;]",
-      "published": "2025-12-11T22:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "853f3cca61a2a12885f6ea449706d3c4f6253d10",
       "title": "US Senate advances dozens more Trump nominees, including South Africa pick",
       "link": "https://www.thestar.com.my/news/world/2025/12/12/us-senate-confirms-dozens-more-trump-nominees-including-south-africa-pick",
@@ -426,15 +615,6 @@
       "published": "2025-12-11T21:35:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
-    },
-    {
-      "id": "e0afb0fcc0474a6ebe1459ea278d9404c45e26fd",
-      "title": "New York&#8217;s new law forces advertisers to say when they&#8217;re using AI avatars",
-      "link": "https://www.theverge.com/news/842848/new-york-law-ai-advertisements-sag-aftra-labor",
-      "summary": "New York Gov. Kathy Hochul signed a bill Thursday that will require advertisers to identify if an ad includes AI-generated people. Hochul's announcement said the bill, S.8420-A/A.8887-B, was the first of its kind in the US, describing it as a \"common sense\" law that would bring increased transparency and protect consumers. A separate bill also [&#8230;]",
-      "published": "2025-12-11T21:30:15+00:00",
-      "source": "The Verge",
-      "category": "tech"
     },
     {
       "id": "8426fa2ffb0e1302d370385a06584da4a1b4df59",
@@ -458,7 +638,7 @@
       "id": "f752c22a1eaa90ebb4fe772bea8ae4e5dd23902c",
       "title": "Broadcom reports Q4 revenue up 28% YoY to $18.02B, vs. $17.49B est., and forecasts Q1 revenue above estimates, with AI chip sales doubling to $8.2B (Kif Leswing/CNBC)",
       "link": "http://www.techmeme.com/251211/p46#a251211p46",
-      "summary": "<a href=\"https://www.cnbc.com/2025/12/11/broadcom-avgo-q4-earnings-2025.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251211/i46.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251211/p46#a251211p46\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kif Leswing / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2025/12/11/broadcom-avgo-q4-earnings-2025.html\">Broadcom reports Q4 revenue up 28% YoY to $18.02B, vs. $17.49B est., and forecasts Q1 revenue above estimates, with AI chip sales doubling to $8.2B</a></b></span>&nbsp; &mdash;&nbsp; - CNBC Councils&nbsp; &mdash; Join the CNBC Panel&nbsp; &mdash; News Tips&nbsp; &mdash;&nbsp; Got a confidential news tip?&nbsp; We want to hear from you.&nbsp; &mdash; CNBC Newsletters</p>",
+      "summary": "<a href=\"https://www.cnbc.com/2025/12/11/broadcom-avgo-q4-earnings-2025.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251211/i46.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251211/p46#a251211p46\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kif Leswing / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2025/12/11/broadcom-avgo-q4-earnings-2025.html\">Broadcom reports Q4 revenue up 28% YoY to $18.02B, vs. $17.49B est., and forecasts Q1 revenue above estimates, with AI chip sales doubling to $8.2B</a></b></span>&nbsp; &mdash;&nbsp; Broadcom reported fourth-quarter results that beat expectations for earnings and revenue, and issued a strong forecast for the current quarter, driven by artificial intelligence demand.</p>",
       "published": "2025-12-11T21:25:02+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -473,24 +653,6 @@
       "category": "tech"
     },
     {
-      "id": "6946de51d8b5dcf89402b66f3bf536a53ea81eb1",
-      "title": "U.S. stocks close mixed",
-      "link": "https://www.thestar.com.my/news/world/2025/12/12/us-stocks-close-mixed",
-      "summary": "NEW YORK, Dec. 11 (Xinhua) -- U.S. stocks ended mixed on Thursday. <a href=\"https://www.thestar.com.my/news/world/2025/12/12/us-stocks-close-mixed\">Read full story</a>",
-      "published": "2025-12-11T21:19:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "7f98872ff783da4745ec743de42b397fe06fc580",
-      "title": "2025 marked by major progress and challenges for global health: WHO chief",
-      "link": "https://www.thestar.com.my/news/world/2025/12/12/2025-marked-by-major-progress-and-challenges-for-global-health-who-chief",
-      "summary": "GENEVA, Dec. 11 (Xinhua) -- The year 2025 has brought both significant progress and major challenges for the World Health Organization (WHO) and global health more broadly, WHO Director-General Tedros Adhanom Ghebreyesus said on Thursday. <a href=\"https://www.thestar.com.my/news/world/2025/12/12/2025-marked-by-major-progress-and-challenges-for-global-health-who-chief\">Read full story</a>",
-      "published": "2025-12-11T21:02:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "ce841d5a2ca1489e7b683e4d30e4d8fd0c01cd3d",
       "title": "The 2025 Game Awards goes live tonight: Tune in for 3+ hours of game reveals, and more",
       "link": "https://9to5toys.com/2025/12/11/2025-game-awards-live-reveals/",
@@ -500,24 +662,6 @@
       "category": "deals"
     },
     {
-      "id": "1bc25c000573ffbe310cab0d476289b694207f93",
-      "title": "Chinese firm Nuctech, China business chamber criticize &quot;unfair&quot; EU foreign subsidy probes",
-      "link": "https://www.thestar.com.my/news/world/2025/12/12/chinese-firm-nuctech-china-business-chamber-criticize-unfair-eu-foreign-subsidy-probes",
-      "summary": "BRUSSELS, Dec. 11 (Xinhua) -- Chinese security equipment maker Nuctech and a leading Chinese chamber of commerce in Europe on Thursday criticized the European Union (EU)'s use of its foreign subsidy law against Chinese companies, saying it risks undermining international trade rules and fair competition. <a href=\"https://www.thestar.com.my/news/world/2025/12/12/chinese-firm-nuctech-china-business-chamber-criticize-unfair-eu-foreign-subsidy-probes\">Read full story</a>",
-      "published": "2025-12-11T20:53:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "f0380c069d28b46c315a9e72fa8800593068b37f",
-      "title": "U.S. dollar ticks down",
-      "link": "https://www.thestar.com.my/news/world/2025/12/12/us-dollar-ticks-down",
-      "summary": "NEW YORK, Dec. 11 (Xinhua) -- The U.S. dollar fell in late trading on Thursday. <a href=\"https://www.thestar.com.my/news/world/2025/12/12/us-dollar-ticks-down\">Read full story</a>",
-      "published": "2025-12-11T20:46:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "2b87b8672139c1eaca9f04c22190038c847762b7",
       "title": "A US appeals court upholds a contempt ruling in Epic v. Apple but says Apple can charge commissions on external links, with the rate to be set by a lower court (Bloomberg)",
       "link": "http://www.techmeme.com/251211/p44#a251211p44",
@@ -525,15 +669,6 @@
       "published": "2025-12-11T20:45:00+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "bb9604c8c1494b97d8b94c4bcb07b1b462f646ec",
-      "title": "Iraq secures UNESCO intangible cultural heritage listing for 4 traditions",
-      "link": "https://www.thestar.com.my/news/world/2025/12/12/iraq-secures-unesco-intangible-cultural-heritage-listing-for-4-traditions",
-      "summary": "BAGHDAD, Dec. 11 (Xinhua) -- Four Iraqi cultural elements have been inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity for 2025, Iraq's Ministry of Culture, Tourism and Antiquities announced Thursday. <a href=\"https://www.thestar.com.my/news/world/2025/12/12/iraq-secures-unesco-intangible-cultural-heritage-listing-for-4-traditions\">Read full story</a>",
-      "published": "2025-12-11T20:39:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "0f4b841123f0f96ae0399cda790c2b6757d7f1f2",
@@ -590,10 +725,10 @@
       "category": "tech"
     },
     {
-      "id": "1189aad847f0b194b07770aca4544abad1f1d840",
-      "title": "Fortnite returns to the Google Play Store in the US following a US District Court injunction; Google and Epic announced a settlement last week (Kritika Lamba/Reuters)",
+      "id": "f9b963d6c539fd3d0951c728892a3e9e716dab53",
+      "title": "Fortnite returns to the Google Play Store in the US following a US district court injunction; Google and Epic announced a settlement last week (Kritika Lamba/Reuters)",
       "link": "http://www.techmeme.com/251211/p43#a251211p43",
-      "summary": "<a href=\"https://www.reuters.com/business/fortnite-returns-google-play-us-after-court-order-2025-12-11/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251211/i43.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251211/p43#a251211p43\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kritika Lamba / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/business/fortnite-returns-google-play-us-after-court-order-2025-12-11/\">Fortnite returns to the Google Play Store in the US following a US District Court injunction; Google and Epic announced a settlement last week</a></b></span>&nbsp; &mdash;&nbsp; Epic Games' popular battle royale title Fortnite is back on the Google Play Store in the United States after Google (GOOGL.O) &hellip; </p>",
+      "summary": "<a href=\"https://www.reuters.com/business/fortnite-returns-google-play-us-after-court-order-2025-12-11/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251211/i43.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251211/p43#a251211p43\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kritika Lamba / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/business/fortnite-returns-google-play-us-after-court-order-2025-12-11/\">Fortnite returns to the Google Play Store in the US following a US district court injunction; Google and Epic announced a settlement last week</a></b></span>&nbsp; &mdash;&nbsp; Epic Games' popular battle royale title Fortnite is back on the Google Play Store in the United States after Google (GOOGL.O) &hellip; </p>",
       "published": "2025-12-11T19:40:00+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -716,15 +851,6 @@
       "category": "tech"
     },
     {
-      "id": "25036ebd49287b2424f1029e44951cdea54bd6e0",
-      "title": "Time names \"the Architects of AI\" as its 2025 Person of the Year and takes a look at AI's effect on the economy, geopolitics, and how we interact with the world (Time)",
-      "link": "http://www.techmeme.com/251211/p38#a251211p38",
-      "summary": "<a href=\"https://time.com/7339685/person-of-the-year-2025-ai-architects/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251211/i38.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251211/p38#a251211p38\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://time.com/\">Time</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://time.com/7339685/person-of-the-year-2025-ai-architects/\">Time names &ldquo;the Architects of AI&rdquo; as its 2025 Person of the Year and takes a look at AI's effect on the economy, geopolitics, and how we interact with the world</a></b></span>&nbsp; &mdash;&nbsp; Jensen Huang needs a moment.&nbsp; &mdash;&nbsp; The CEO of Nvidia enters a cavernous studio at the company's Bay Area headquarters and hunches over a table, his head bowed.</p>",
-      "published": "2025-12-11T18:40:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "5e609b576eb9727e0c9cd0539d75c87d7d58138e",
       "title": "FIDLOCK buckle headlines this rugged nylon Apple Watch band, now $31",
       "link": "https://9to5toys.com/2025/12/11/bandletic-nylon-fidlock-apple-watch-band/",
@@ -749,15 +875,6 @@
       "summary": "Join us Tuesday, December 16, at 2 pm ET to hear from leaders who resigned in protest.",
       "published": "2025-12-11T18:33:45+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "346a00b4bb2ff4907d197b02f5b7e5d11bccb78b",
-      "title": "OpenAI's Fidji Simo says ChatGPT's \"adult mode\" is expected to launch in Q1 2026, says OpenAI wants to get better at age prediction before launching the feature (The Verge)",
-      "link": "http://www.techmeme.com/251211/p37#a251211p37",
-      "summary": "<a href=\"https://www.theverge.com/news/842657/openai-chatgpt-adult-mode-debut-q1-2026\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251211/i37.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251211/p37#a251211p37\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/news/842657/openai-chatgpt-adult-mode-debut-q1-2026\">OpenAI's Fidji Simo says ChatGPT's &ldquo;adult mode&rdquo; is expected to launch in Q1 2026, says OpenAI wants to get better at age prediction before launching the feature</a></b></span>&nbsp; &mdash;&nbsp; OpenAI wants to get its age-prediction model right before launching the feature.</p>",
-      "published": "2025-12-11T18:30:03+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -858,15 +975,6 @@
       "published": "2025-12-11T17:40:51+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "9f45f62b6b787c620c80755ca714807fd20f9da1",
-      "title": "Target officially announces last-minute Holiday Countdown Sale: 50% off toys, 40% off tech,  gift card bonuses, more",
-      "link": "https://9to5toys.com/2025/12/11/target-officially-announces-last-minute-holiday-countdown-sale/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/12/Target-Holiday-Countdown-sale.jpg?quality=82&#038;strip=all&#038;w=1144\" /></div><p>Alongside its holiday daily deals, it already pumped out quite a <a href=\"https://howl.link/9znk6v2s5mvtd\">notable weekly holiday sale</a> that kicked off on Sunday, but it isn’t done just yet. Ushering the best price yet on <a href=\"https://9to5toys.com/2025/12/08/apple-watch-series-11-all-time-loholiday-deal/\">Apple Watch Series 11</a>, its holiday sales (thus far) are not to be ignored, and not only does it have another weekly event inbound this weekend, it also announced an official last-minute Holiday Countdown Sale. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/12/11/target-officially-announces-last-minute-holiday-countdown-sale/#more-1183051\">more…</a>",
-      "published": "2025-12-11T17:40:42+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "70ca07d6de1e7bcdaed6930d8a14fd4564687b17",
@@ -1013,42 +1121,6 @@
       "category": "world"
     },
     {
-      "id": "27724b1738ab9ef3e15b64b8193175603af93ba8",
-      "title": "On Venezuela, how far will Trump go? US troops deployed, strikes threatened after tanker seizure",
-      "link": "https://www.malaymail.com/news/world/2025/12/11/on-venezuela-how-far-will-trump-go-us-troops-deployed-strikes-threatened-after-tanker-seizure/201524",
-      "summary": "WASHINGTON, Dec 11&nbsp;&mdash; President Donald Trump has deployed thousands of US troops to the Caribbean and warned o...",
-      "published": "2025-12-11T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "4730e3d38c443edbe4057eb34e6d1f884fa30cd8",
-      "title": "Nvidia develops chip‑tracking tech to show where its AI processors really are in the world",
-      "link": "https://www.malaymail.com/news/money/2025/12/11/nvidia-develops-chiptracking-tech-to-show-where-its-ai-processors-really-are-in-the-world/201543",
-      "summary": "SAN FRANCISCO, Dec 11 &mdash; Nvidia has built location verification technology that could indicate which country its ch...",
-      "published": "2025-12-11T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "f56be35d220a07723ed38ee4fb16d9474eba31c2",
-      "title": "Australia drops A$50m boost for Olympians — From post baby comebacks to long game retirement rewards",
-      "link": "https://www.malaymail.com/news/sports/2025/12/11/australia-drops-a50m-boost-for-olympians-from-post-baby-comebacks-to-long-game-retirement-rewards/201541",
-      "summary": "SYDNEY, Dec 11 &mdash; The Australian Olympic Committee announced a tranche of A$50 million (RM136.4 million) in new fun...",
-      "published": "2025-12-11T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "d755272aa144aae996ceb7be2cef6adf1bafab2a",
-      "title": "Abruptly stopping antidepressants is worst option, study warns, urging tapering with therapy",
-      "link": "https://www.malaymail.com/news/life/2025/12/11/abruptly-stopping-antidepressants-is-worst-option-study-warns-urging-tapering-with-therapy/201539",
-      "summary": "PARIS, Dec 11 &mdash; The best way for people with depression to stop taking antidepressants once their condition improv...",
-      "published": "2025-12-11T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "6aaa960429ae6a29aa52650b7506f525450437c6",
       "title": "Interest in Spoor’s bird-monitoring AI software is soaring",
       "link": "https://techcrunch.com/2025/12/11/interest-in-spoors-bird-monitoring-ai-software-is-soaring/",
@@ -1067,24 +1139,6 @@
       "category": "tech"
     },
     {
-      "id": "60995b3c480dd90549dc0d719a60cf3865550bd7",
-      "title": "Opera wants you to pay $20 a month to use its AI-powered browser Neon",
-      "link": "https://techcrunch.com/2025/12/11/opera-wants-you-to-pay-20-a-month-to-use-its-ai-powered-browser-neon/",
-      "summary": "Following a couple of months' testing, Opera has finally made its AI-powered browser, Neon, available to the public — though you'll have to shell out for a $19.90-per-month subscription to use it.",
-      "published": "2025-12-11T13:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "1d9d0b7f2f926ad2ae8f737d318bb6174b0b13f7",
-      "title": "Teo Nie Ching says banning games like Roblox won’t keep children safe, calls for stronger in‑game protections",
-      "link": "https://www.malaymail.com/news/malaysia/2025/12/11/teo-nie-ching-says-banning-games-like-roblox-wont-keep-children-safe-calls-for-stronger-ingame-protections/201601",
-      "summary": "KULAI, Dec 11 &mdash; Banning online games such as &lsquo;Roblox&rsquo; is unlikely to resolve the issue of child safety...",
-      "published": "2025-12-11T12:34:01+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "abaaef3b4bd399a60dfb9d0a4e9fd9d1786212fb",
       "title": "Venezuelan Nobel winner tells BBC she knows 'risks' of Oslo trip after months in hiding",
       "link": "https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss",
@@ -1094,28 +1148,10 @@
       "category": "world"
     },
     {
-      "id": "0daffcbe29084964299986e690cbb99ae2a25c3f",
-      "title": "‘No need to worry’: Foreign minister says SEA Games in Thailand remain safe",
-      "link": "https://www.malaymail.com/news/malaysia/2025/12/11/no-need-to-worry-foreign-minister-says-sea-games-in-thailand-remain-safe/201600",
-      "summary": "SEREMBAN, Dec 11 &mdash; Foreign Minister Datuk Seri Mohamad Hasan says the national contingent at the SEA Games Thailan...",
-      "published": "2025-12-11T12:26:09+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "f267ed444617511228b7c52b221f4b2a0bd08c7c",
-      "title": "Free meals programme van crashes into Jakarta school, injures 17 students and a teacher",
-      "link": "https://www.malaymail.com/news/world/2025/12/11/free-meals-programme-van-crashes-into-jakarta-school-injures-17-students-and-a-teacher/201599",
-      "summary": "JAKARTA, Dec 11 &mdash; The National Nutrition Agency (BGN) reaffirmed its commitment to ensuring the proper care of the...",
-      "published": "2025-12-11T12:20:35+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "47c34ded550e41acb3a0d4e8695096ee5b17cbff",
       "title": "Ayaneo’s First Smartphone Fills An Xperia Play Sized Gap",
       "link": "https://www.lowyat.net/2025/376035/ayaneo-unveils-pocket-play-smartphone/",
-      "summary": "<p>Remember the Xperia Play? Launched back in 2011, it was a product ahead of its time; an attempt by Sony (then with Ericsson) to combine smartphones with handheld gaming, featuring a cool gimmick of hidden controller pad that&#8217;s unveiled by sliding out the display. As unique as it was, the Xperia Play was the only [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/376035/ayaneo-unveils-pocket-play-smartphone/\">Ayaneo&#8217;s First Smartphone Fills An Xperia Play Sized Gap</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "summary": "<p>Remember the Xperia Play? Launched back in 2011, it was a product ahead of its time; an attempt by Sony (then with Ericsson) to combine smartphones with handheld gaming, featuring a cool gimmick of a hidden controller pad that&#8217;s unveiled by sliding out the display. As unique as it was, the Xperia Play was the [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/376035/ayaneo-unveils-pocket-play-smartphone/\">Ayaneo&#8217;s First Smartphone Fills An Xperia Play Sized Gap</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
       "published": "2025-12-11T11:58:44+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
@@ -1193,29 +1229,20 @@
       "category": "world"
     },
     {
+      "id": "4ea5074f5cba67f75db39c61961bf4582f71cf93",
+      "title": "ManimVTK",
+      "link": "https://www.producthunt.com/products/mathify-4",
+      "summary": "<p>\n            Scientific visualization meets mathematical animation\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mathify-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048946?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-11T07:10:19+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "afe3c5cb49d680139155c6560c07ed5b58da005b",
       "title": "AKASO EK7000 Action Camera Launches In Malaysia For RM299",
       "link": "https://www.lowyat.net/2025/375979/akaso-ek7000-action-camera-launches-in-malaysia/",
       "summary": "<p>AKASO has introduced its EK7000 entry-level action camera in Malaysia, bringing 4K recording and a broad set of shooting tools. The camera also comes with a reasonable price tag, aimed at travellers, content creators and casual users alike. The EK7000 records up to 4K at 30fps and shoots 20MP stills, with Electronic Image Stabilisation keeping [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/375979/akaso-ek7000-action-camera-launches-in-malaysia/\">AKASO EK7000 Action Camera Launches In Malaysia For RM299</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
       "published": "2025-12-11T06:32:57+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
-      "id": "14583a79d780937dd341df92f870e841272b5bc1",
-      "title": "Asus ROG Strix XG27JCG Is The World’s First 5K 180Hz Gaming Display",
-      "link": "https://www.lowyat.net/2025/375965/asus-rog-strix-xg27jcg-5k-180hz-gaming-display/",
-      "summary": "<p>Asus has quietly added the ROG Strix XG27JCG gaming monitor to its official international website. As the title states, this display is the world’s first dual-mode gaming monitor that features a 5K resolution with a 180Hz refresh rate. In terms of specs, the ROG Strix XG27JCG is a 27-inch monitor with an IPS panel. As [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/375965/asus-rog-strix-xg27jcg-5k-180hz-gaming-display/\">Asus ROG Strix XG27JCG Is The World’s First 5K 180Hz Gaming Display </a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2025-12-11T06:19:14+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
-      "id": "36a599211aa7af286e33b11eb31d55db2d40fd1f",
-      "title": "Fahmi: No More Issues With NG MERS 999 After Discussions With TM, Ministries",
-      "link": "https://www.lowyat.net/2025/375962/fahmi-no-more-issues-with-ng-mers-999-after-discussions-with-tm-ministries/",
-      "summary": "<p>Last month, Malaysia rolled out the Next Generation Emergency Response Services 999 (NG MERS 999), which immediately ran into issues. TM, the national telecommunications provider responsible for the system, also provided a statement addressing said issues. More recently, following a meeting between the Comms Ministry, Ministry of Health and TM, Comms Minister Fahmi Fadzil says [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2025/375962/fahmi-no-more-issues-with-ng-mers-999-after-discussions-with-tm-ministries/\">Fahmi: No More Issues With NG MERS 999 After Discussions With TM, Ministries</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2025-12-11T06:16:33+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
     },
@@ -1252,6 +1279,15 @@
       "link": "https://www.producthunt.com/products/sylvian-excel-agent",
       "summary": "<p>\n            An open source Excel AI agent\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sylvian-excel-agent?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048851?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-11T01:22:15+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "c1409b3bda31908f3552148551176178edc9e737",
+      "title": "Agentfield",
+      "link": "https://www.producthunt.com/products/agentfield",
+      "summary": "<p>\n            Build & scale AI \\ agents as microservices with IAM\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentfield?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048850?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-11T01:16:44+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1310,15 +1346,6 @@
       "category": "tech"
     },
     {
-      "id": "cb1bfda2de3a1be8ebb1036a13ae3e42b8d5af3c",
-      "title": "Console.text()",
-      "link": "https://www.producthunt.com/products/console-text-2",
-      "summary": "<p>\n            SMS alerts for your code just like console.log()\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/console-text-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048792?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-10T20:33:26+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "750fbbb04a91d8ce33297f7dfb9d6f6cb5a0b662",
       "title": "Cable channel subscribers grew for the first time in 8 years last quarter",
       "link": "https://arstechnica.com/gadgets/2025/12/cable-channel-subscribers-grew-for-the-first-time-in-years-last-quarter/",
@@ -1344,33 +1371,6 @@
       "published": "2025-12-10T18:30:45+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "e6ff329903f90ddbaa915ea9dc9587beefa6539d",
-      "title": "After key Russian launch site is damaged, NASA accelerates Dragon supply missions",
-      "link": "https://arstechnica.com/space/2025/12/after-key-russian-launch-site-is-damaged-nasa-accelerates-dragon-supply-missions/",
-      "summary": "It is by no means certain that Russia will be able to fix Site 31 soon.",
-      "published": "2025-12-10T18:13:52+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "84c681639ae68e284116f2a8b7a793bb1c932c5b",
-      "title": "Ugly infotainment mars the 2025 Subaru Forester Hybrid experience",
-      "link": "https://arstechnica.com/cars/2025/12/ugly-infotainment-mars-the-2025-subaru-forester-hybrid-experience/",
-      "summary": "It drives fine, but the first hybrid Forester is not without its flaws.",
-      "published": "2025-12-10T18:00:19+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "8e78abe656af09ca6690c6f050de523226e8ad01",
-      "title": "Guess Whale",
-      "link": "https://www.producthunt.com/products/guess-whale",
-      "summary": "<p>\n            Guess the prompt and commune with the machines\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/guess-whale?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048750?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-10T17:58:09+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "944629a33153cae1d9c0c68f8be33a652e9e52d8",
@@ -1409,15 +1409,6 @@
       "category": "malaysia"
     },
     {
-      "id": "d0a8fec79908fd2de071b767afa87ca309830107",
-      "title": "FireWally",
-      "link": "https://www.producthunt.com/products/firewally",
-      "summary": "<p>\n            A free Mac firewall powered by Apple Intelligence\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/firewally?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048596?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-10T10:45:35+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "ebc307dc170b1c81dac926b2f259b1064449a7ea",
       "title": "Macaly 3.0",
       "link": "https://www.producthunt.com/products/macaly",
@@ -1436,11 +1427,11 @@
       "category": "malaysia"
     },
     {
-      "id": "beeef138cc1c7e581c6304131daddc2a75728819",
-      "title": "The Almanac",
-      "link": "https://www.producthunt.com/products/the-almanac",
-      "summary": "<p>\n            Look up people and how they connect\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/the-almanac?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048530?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-10T08:33:11+00:00",
+      "id": "b8a71ae32cc3df7c5e3afacb74cfba7f76f716a9",
+      "title": "Odies AI Coworkers",
+      "link": "https://www.producthunt.com/products/odies-ai-coworkers",
+      "summary": "<p>\n            Smart, caring companions that literally live on your screen\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/odies-ai-coworkers?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048516?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-10T07:49:59+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1468,6 +1459,15 @@
       "link": "https://www.producthunt.com/products/vouch-4",
       "summary": "<p>\n            Modern landing pages with a short video for you to stand out\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vouch-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048372?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-09T23:16:00+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "f5ea9d91f8413685eccb8b5da8110299a09c9608",
+      "title": "Nimbalyst Beta",
+      "link": "https://www.producthunt.com/products/nimbalyst",
+      "summary": "<p>\n            Local, WYSIWYG markdown and mockup editor for Claude Code\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nimbalyst?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048305?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-09T19:09:33+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
