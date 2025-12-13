@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2025-12-13T21:12:16.534322+00:00",
+  "generatedAt": "2025-12-13T22:13:29.092561+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "813a8ae67845f998c88c153ce0761249af1555cd",
+      "title": "Three Americans killed by IS gunman in Syria, US military says",
+      "link": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss",
+      "summary": "Two US soldiers and a civilian interpreter were killed in the attack, according to the US Central Command.",
+      "published": "2025-12-13T21:42:05+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "7c1dcaf79a14f22cfa586fec124f2d794b8ed341",
       "title": "DoorDash driver faces felony charges after allegedly spraying customers’ food",
@@ -75,15 +84,6 @@
       "published": "2025-12-13T19:37:47+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "813a8ae67845f998c88c153ce0761249af1555cd",
-      "title": "Three Americans killed by IS gunman in Syria, US military says",
-      "link": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss",
-      "summary": "Two US soldiers and a civilian interpreter were killed in the attack, according to the US Central Command.",
-      "published": "2025-12-13T19:32:51+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "ef27d6ccc538c4e6cdebdac98061f7c4f783099a",
@@ -1382,6 +1382,15 @@
       "category": "tech"
     },
     {
+      "id": "e7bd815564124662ad80837b18b0d0ca9a283aa3",
+      "title": "GPT-5.2",
+      "link": "https://www.producthunt.com/products/openai",
+      "summary": "<p>\n            Frontier model for professional work and long-running agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1049228?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-11T20:26:36+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "1b91ea27a96976d23de1c7474300a9f87ad56a12",
       "title": "Agent Starter Pack",
       "link": "https://www.producthunt.com/products/agent-starter-pack",
@@ -1506,15 +1515,6 @@
       "published": "2025-12-09T18:31:54+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "9f176c672d0e8e3cca5c6448a821f1becf2dad1e",
-      "title": "Google Mixboard 2.0",
-      "link": "https://www.producthunt.com/products/mixboard-2-0",
-      "summary": "<p>\n            Now w/ Nano Banana Pro, new file types & multi-board project\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mixboard-2-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048247?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-09T16:39:16+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "a861b50290b9484727a57ecb68916bbeee822d61",
