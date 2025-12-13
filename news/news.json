@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2025-12-13T18:19:17.297973+00:00",
+  "generatedAt": "2025-12-13T19:10:57.581088+00:00",
   "counts": {
     "total": 175
   },
   "items": [
     {
-      "id": "15f8044ce426381fbe42d7fd011b518dde6f27de",
-      "title": "A Kinect for kids is outselling Xbox to become the hot console this holiday",
-      "link": "https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox",
-      "summary": "It's a small sample size, likely driven by Black Friday discounts and temporary virality, but the Nex Playground has gone from little-known console curiosity to best-seller. It's now on track to quadruple its sales from last year. According to research firm Circana, the Playground was the second best-selling console in the US for the week [&#8230;]",
-      "published": "2025-12-13T18:17:20+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "c67b42ec4717fe9d6348cb096b6fd75507c41442",
-      "title": "Two US soldiers and interpreter killed by IS gunman in Syria, US says",
+      "id": "b8dbf21b3913cc749f79e7e58ff61183a37fb782",
+      "title": "Two US soldiers and interpreter killed by IS gunman in Syria, US military says",
       "link": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss",
       "summary": "Three other service members were injured in the attack, during which the gunman was \"engaged and killed\", according to the US military.",
-      "published": "2025-12-13T18:16:58+00:00",
+      "published": "2025-12-13T19:07:05+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "310abae15fd772a2d82d1ac41a565f588010d324",
+      "title": "Belarus frees 123 prisoners as US lifts sanctions",
+      "link": "https://www.bbc.com/news/articles/c4gpwlkklyxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Opposition activist Maria Kolesnikova is among those released in exchange for a deal with the US.",
+      "published": "2025-12-13T18:50:22+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -27,9 +27,27 @@
       "title": "Israel targets senior Hamas official in deadly Gaza strike",
       "link": "https://www.bbc.com/news/articles/cx2dklj3rxvo?at_medium=RSS&at_campaign=rss",
       "summary": "The strike killed Raed Saad, a senior commander in Hamas' Qassam Brigades, the Israeli military said.",
-      "published": "2025-12-13T18:02:16+00:00",
+      "published": "2025-12-13T18:46:45+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "0b2a75e21688cc2b2eed23ec7d700fc25ef934cc",
+      "title": "Blowback over posts about the death of Charlie Kirk has prompted companies to be more aggressive about monitoring employees' social media activity (Taylor Telford/Washington Post)",
+      "link": "http://www.techmeme.com/251213/p11#a251213p11",
+      "summary": "<a href=\"https://www.washingtonpost.com/business/2025/12/13/employer-crackdown-social-media/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251213/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251213/p11#a251213p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Taylor Telford / <a href=\"https://www.washingtonpost.com/\">Washington Post</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.washingtonpost.com/business/2025/12/13/employer-crackdown-social-media/\">Blowback over posts about the death of Charlie Kirk has prompted companies to be more aggressive about monitoring employees' social media activity</a></b></span>&nbsp; &mdash;&nbsp; Fervor over employee posts about Charlie Kirk's death is leading companies to adjust policies and step up monitoring of workers' online conduct.</p>",
+      "published": "2025-12-13T18:20:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "15f8044ce426381fbe42d7fd011b518dde6f27de",
+      "title": "A Kinect for kids is outselling Xbox to become the hot console this holiday",
+      "link": "https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox",
+      "summary": "It's a small sample size, likely driven by Black Friday discounts and temporary virality, but the Nex Playground has gone from little-known console curiosity to best-seller. It's now on track to quadruple its sales from last year. According to research firm Circana, the Playground was the second best-selling console in the US for the week [&#8230;]",
+      "published": "2025-12-13T18:17:20+00:00",
+      "source": "The Verge",
+      "category": "tech"
     },
     {
       "id": "6e63af388b83001c75af4df57a073f125afd0f9f",
@@ -48,15 +66,6 @@
       "published": "2025-12-13T17:49:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
-    },
-    {
-      "id": "310abae15fd772a2d82d1ac41a565f588010d324",
-      "title": "Belarus frees 123 prisoners as US lifts sanctions",
-      "link": "https://www.bbc.com/news/articles/c4gpwlkklyxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Opposition activist Maria Kolesnikova is among those released in exchange for a deal with the US.",
-      "published": "2025-12-13T17:47:00+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "98e01d6d961af0973b1738f0c04f47420e0857ad",
@@ -741,15 +750,6 @@
       "published": "2025-12-13T00:05:21+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "4ac63c9f1661efc6b87f6cda18999835003a3cea",
-      "title": "Singapore-based ChemLex raised a $45M funding round led by Granite Asia to build an AI-powered, automated chemistry lab to accelerate drug discovery (Rachyl Jones/Semafor)",
-      "link": "http://www.techmeme.com/251212/p33#a251212p33",
-      "summary": "<a href=\"https://www.semafor.com/article/12/12/2025/singapore-startup-builds-ai-powered-self-running-chemistry-lab\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251212/i33.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251212/p33#a251212p33\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Rachyl Jones / <a href=\"https://www.semafor.com/\">Semafor</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.semafor.com/article/12/12/2025/singapore-startup-builds-ai-powered-self-running-chemistry-lab\">Singapore-based ChemLex raised a $45M funding round led by Granite Asia to build an AI-powered, automated chemistry lab to accelerate drug discovery</a></b></span>&nbsp; &mdash;&nbsp; Singapore-based ChemLex raised $45 million to build out its autonomous chemistry lab with hopes it can speed drug discovery and therapy development &hellip; </p>",
-      "published": "2025-12-13T00:05:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "1b94cd81d0ef2e6ac1f667c10ff2ac92966191cf",
