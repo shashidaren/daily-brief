@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2025-12-14T16:16:55.497703+00:00",
+  "generatedAt": "2025-12-14T17:12:22.772061+00:00",
   "counts": {
     "total": 174
   },
   "items": [
+    {
+      "id": "d9371de616e844fa6b6b7df5ad5f7c27e723fbc1",
+      "title": "TechCrunch Mobility: Rivian’s survival plan involves more than cars",
+      "link": "https://techcrunch.com/2025/12/14/rivians-survival-plan-involves-more-than-cars/",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "published": "2025-12-14T17:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "e1474d4bdbb295ca761c9ed05391692ab88d5de8",
+      "title": "Over 10 dead after school bus accident in Colombia",
+      "link": "https://www.thestar.com.my/news/world/2025/12/15/over-10-dead-after-school-bus-accident-in-colombia",
+      "summary": "Dec 14 (Reuters) - At least 10 people were killed and 20 were injured after a bus carrying school children fell off a cliff in rural area in northern Colombia, the local governor said on Sunday. <a href=\"https://www.thestar.com.my/news/world/2025/12/15/over-10-dead-after-school-bus-accident-in-colombia\">Read full story</a>",
+      "published": "2025-12-14T16:41:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
     {
       "id": "e899be50e51999edffa0112167edb24edbeaa122",
       "title": "Britain&#039;s King Charles &#039;appalled and saddened&#039; by shooting in Sydney",
@@ -272,15 +290,6 @@
       "summary": "BANGKOK, Dec 14 &mdash; National doubles coaching director Rexy Mainaky is ready to take responsibility following his pl...",
       "published": "2025-12-14T11:44:56+00:00",
       "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "b01a1204a009387f3d408892ffd665a2b2fc1fcd",
-      "title": "MIC still part of Barisan Nasional, says Saravanan",
-      "link": "https://www.thestar.com.my/news/nation/2025/12/14/mic-still-part-of-barisan-nasional-says-saravanan",
-      "summary": "TAPAH: MIC is still a Barisan Nasional component party as no final decision has been made on any new political cooperation, says Datuk Seri M. Saravanan on Sunday (Dec 14). <a href=\"https://www.thestar.com.my/news/nation/2025/12/14/mic-still-part-of-barisan-nasional-says-saravanan\">Read full story</a>",
-      "published": "2025-12-14T11:42:00+00:00",
-      "source": "The Star : News Feed",
       "category": "malaysia"
     },
     {
@@ -1319,11 +1328,11 @@
       "category": "malaysia"
     },
     {
-      "id": "de92b524b5ed37faf50338c2b7c51c060cefd3d6",
-      "title": "Kaily",
-      "link": "https://www.producthunt.com/products/kaily",
-      "summary": "<p>\n            AI agent that helps, solves, and closes. All day, every day\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kaily?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1049327?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-12T05:03:36+00:00",
+      "id": "0625fdba28222bf09a0f7ceb08f2c04a11a3fb7c",
+      "title": "Gemini Deep Research Agent",
+      "link": "https://www.producthunt.com/products/gemini-6",
+      "summary": "<p>\n            The best research agent is open for devs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gemini-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1049346?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-12T06:12:15+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1343,15 +1352,6 @@
       "summary": "Preview: <em>Order of the Sinking Star</em> started small but became a \"combinatoric explosion.\"",
       "published": "2025-12-12T01:50:08+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "903d5c566357cc51fe83580c36dfce08cd5f428c",
-      "title": "World launches its ‘super app,’ including crypto pay and encrypted chat features",
-      "link": "https://techcrunch.com/2025/12/11/world-launches-its-super-app-including-crypto-pay-and-encrypted-chat-features/",
-      "summary": "Tools for Humanity, the company behind the app, is seeking to expand its \"real human network.\"",
-      "published": "2025-12-12T01:40:54+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1382,20 +1382,20 @@
       "category": "tech"
     },
     {
-      "id": "e7bd815564124662ad80837b18b0d0ca9a283aa3",
-      "title": "GPT-5.2",
-      "link": "https://www.producthunt.com/products/openai",
-      "summary": "<p>\n            Frontier model for professional work and long-running agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1049228?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-11T20:26:36+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "1b91ea27a96976d23de1c7474300a9f87ad56a12",
       "title": "Agent Starter Pack",
       "link": "https://www.producthunt.com/products/agent-starter-pack",
       "summary": "<p>\n            Production Agents in Google Cloud in Minutes\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agent-starter-pack?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1049201?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-11T18:50:41+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "1dc60a4047f53bf92a7956447afb2e5aabd7f93a",
+      "title": "Buildstash",
+      "link": "https://www.producthunt.com/products/buildstash",
+      "summary": "<p>\n            Organize, share, and distribute your software binaries\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/buildstash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1049140?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-11T15:33:28+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1418,11 +1418,11 @@
       "category": "events"
     },
     {
-      "id": "0354b3622c9749896fa033e67935ed42670d96f0",
-      "title": "Mass Unfollow for X ( Twitter )",
-      "link": "https://www.producthunt.com/products/mass-unfollow-for-x-twitter",
-      "summary": "<p>\n            Unfollow inactive, spam, or unwanted X accounts in seconds\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mass-unfollow-for-x-twitter?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1049046?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-11T11:49:39+00:00",
+      "id": "5a5ec165e3b97fbec66e3d6b9879702ce1c21700",
+      "title": "Vibary",
+      "link": "https://www.producthunt.com/products/vibary",
+      "summary": "<p>\n            What if every book was a unique website?\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vibary?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1049045?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-11T11:49:36+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
