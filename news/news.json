@@ -1,15 +1,24 @@
 {
-  "generatedAt": "2025-12-14T18:20:25.964920+00:00",
+  "generatedAt": "2025-12-14T19:11:13.510325+00:00",
   "counts": {
     "total": 175
   },
   "items": [
     {
-      "id": "f038cd265c36aa32ece3161d433cd37b6c92f043",
-      "title": "'Never give up': Belarusian prisoners celebrate release after US lifts sanctions",
-      "link": "https://www.bbc.com/news/articles/cvg1r89m6g7o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"It's a feeling of incredible happiness,\" says political prisoner Maria Kolesnikova, freed after more than five years.",
-      "published": "2025-12-14T18:18:37+00:00",
+      "id": "47ef180c6f7b6fd1adfe8f5a88aeb94ec2a2b739",
+      "title": "Absynth is back and weirder than ever after 16 years",
+      "link": "https://www.theverge.com/entertainment/844432/native-instruments-absynth-6-mpe-brian-eno",
+      "summary": "Absynth is something of a cult classic in the soft synth world. It was originally released in 2000, and quickly found an audience among the growing cadre of people making music on computers. But its last major update, Absynth 5, was released in 2009, and Native Instruments officially discontinued the instrument in 2022, citing a [&#8230;]",
+      "published": "2025-12-14T19:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "64ce0db39dc7374e86a152c4ddd0640bf8a4f792",
+      "title": "What we know so far about the Brown University shooting",
+      "link": "https://www.bbc.com/news/articles/ckg9l1j9wxno?at_medium=RSS&at_campaign=rss",
+      "summary": "The identities of those killed or injured have not yet been released, but the university said all the victims were students.",
+      "published": "2025-12-14T18:41:55+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -18,7 +27,16 @@
       "title": "'Person of interest' detained over Brown University shooting, police say",
       "link": "https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&at_campaign=rss",
       "summary": "Two people died and nine others were injured in the incident in Rhode Island on Saturday.",
-      "published": "2025-12-14T17:50:36+00:00",
+      "published": "2025-12-14T18:39:52+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "f038cd265c36aa32ece3161d433cd37b6c92f043",
+      "title": "'Never give up': Belarusian prisoners celebrate release after US lifts sanctions",
+      "link": "https://www.bbc.com/news/articles/cvg1r89m6g7o?at_medium=RSS&at_campaign=rss",
+      "summary": "\"It's a feeling of incredible happiness,\" says political prisoner Maria Kolesnikova, freed after more than five years.",
+      "published": "2025-12-14T18:18:37+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -156,15 +174,6 @@
       "published": "2025-12-14T15:08:59+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "64ce0db39dc7374e86a152c4ddd0640bf8a4f792",
-      "title": "What we know so far about the Brown University shooting",
-      "link": "https://www.bbc.com/news/articles/ckg9l1j9wxno?at_medium=RSS&at_campaign=rss",
-      "summary": "The identities of those killed or injured have not yet been released, but the university said all the victims were students.",
-      "published": "2025-12-14T14:57:08+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "2719bc21a0a08a7a672e158aa6dfbedfdbafeb80",
@@ -761,15 +770,6 @@
       "category": "tech"
     },
     {
-      "id": "84945a7e4562940ed9287ac0fe2f41d0bce7abb2",
-      "title": "The best thing I bought this year: a portable mechanical keyboard",
-      "link": "https://www.theverge.com/gadgets/843455/mechanical-keyboard-nyphy-favorite",
-      "summary": "As a writer, I take the tools of my trade relatively seriously. I’m not crazy enough to drop $3,600 on a keyboard, but I also find typing on a MacBook for extended periods of time deeply unsatisfying — and distracting. So this spring, I started looking into distraction-free writing setups, which included an e-reader / [&#8230;]",
-      "published": "2025-12-13T15:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "9b4cfb71326a08e50171cb3cc9ba15ffaf712f39",
       "title": "Best of 9to5Toys – This week’s top deals: Best Buy holiday doorbusters, AirPods, Anker, more",
       "link": "https://9to5toys.com/2025/12/13/best-deals-this-week-best-buy-macbook/",
@@ -1337,15 +1337,6 @@
       "category": "malaysia"
     },
     {
-      "id": "0625fdba28222bf09a0f7ceb08f2c04a11a3fb7c",
-      "title": "Gemini Deep Research Agent",
-      "link": "https://www.producthunt.com/products/gemini-6",
-      "summary": "<p>\n            The best research agent is open for devs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gemini-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1049346?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-12T06:12:15+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "de92b524b5ed37faf50338c2b7c51c060cefd3d6",
       "title": "Kaily",
       "link": "https://www.producthunt.com/products/kaily",
@@ -1409,11 +1400,11 @@
       "category": "events"
     },
     {
-      "id": "1b91ea27a96976d23de1c7474300a9f87ad56a12",
-      "title": "Agent Starter Pack",
-      "link": "https://www.producthunt.com/products/agent-starter-pack",
-      "summary": "<p>\n            Production Agents in Google Cloud in Minutes\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agent-starter-pack?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1049201?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-11T18:50:41+00:00",
+      "id": "1dc60a4047f53bf92a7956447afb2e5aabd7f93a",
+      "title": "Buildstash",
+      "link": "https://www.producthunt.com/products/buildstash",
+      "summary": "<p>\n            Organize, share, and distribute your software binaries\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/buildstash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1049140?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-11T15:33:28+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1567,6 +1558,15 @@
       "link": "https://www.producthunt.com/products/flowglad",
       "summary": "<p>\n            Open source, webhook-free payments that AI can one-shot\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/flowglad?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1045384?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-03T04:33:25+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "96442b40fb279d7980dd20f4fe657a3cca458626",
+      "title": "Music Videos by Mozart",
+      "link": "https://www.producthunt.com/products/mozart-ai",
+      "summary": "<p>\n            Chat → Song → Music Video → Publish\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mozart-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1045134?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-02T14:17:38+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
