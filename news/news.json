@@ -1,9 +1,243 @@
 {
-  "generatedAt": "2025-12-17T15:17:12.320211+00:00",
+  "generatedAt": "2025-12-17T16:20:14.277704+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "1d21154dd0e120603dfc6043529d5a00fa457a93",
+      "title": "Google makes Gemini 3 Flash the default model in Gemini app and Search's AI mode; it scored 33.7% without tool use on Humanity's Last Exam vs. GPT-5.2's 34.5% (Ivan Mehta/TechCrunch)",
+      "link": "http://www.techmeme.com/251217/p35#a251217p35",
+      "summary": "<a href=\"https://techcrunch.com/2025/12/17/google-launches-gemini-3-flash-makes-it-the-default-model-in-the-gemini-app/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251217/i35.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251217/p35#a251217p35\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ivan Mehta / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2025/12/17/google-launches-gemini-3-flash-makes-it-the-default-model-in-the-gemini-app/\">Google makes Gemini 3 Flash the default model in Gemini app and Search's AI mode; it scored 33.7% without tool use on Humanity's Last Exam vs. GPT-5.2's 34.5%</a></b></span>&nbsp; &mdash;&nbsp; Google today released its fast and cheap Gemini 3 Flash model, based on the Gemini 3 released last month, looking to steal OpenAI's thunder.</p>",
+      "published": "2025-12-17T16:15:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "19afe36e29d8788ce7dbcb61e465bc7b0806e3e5",
+      "title": "Google unveils Gemini 3 Flash that it says offers Pro-level performance with lower latency, higher efficiency, and reduced costs compared to 2.5 Pro (Abner Li/9to5Google)",
+      "link": "http://www.techmeme.com/251217/p34#a251217p34",
+      "summary": "<a href=\"https://9to5google.com/2025/12/17/gemini-3-flash-launch/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251217/i34.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251217/p34#a251217p34\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Abner Li / <a href=\"https://9to5google.com/\">9to5Google</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://9to5google.com/2025/12/17/gemini-3-flash-launch/\">Google unveils Gemini 3 Flash that it says offers Pro-level performance with lower latency, higher efficiency, and reduced costs compared to 2.5 Pro</a></b></span>&nbsp; &mdash;&nbsp; Following last month's launch of Gemini 3 Pro, Google today announced Gemini 3 Flash for consumers and developers.</p>",
+      "published": "2025-12-17T16:10:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "054778b087759f943245e52c9cdcf2f0591bf023",
+      "title": "The best Garmin watches for training and everyday life",
+      "link": "https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables",
+      "summary": "Few brands are as synonymous with outdoor sports as Garmin. You’ll find these fitness trackers and smartwatches on dozens of wrists at any 5K, marathon, or Ironman. You’ll also find Garmin devotees among divers, thru-hikers, golfers, kiteboarders — you name it. But these devices aren’t just for athletes. The company’s made significant strides in its [&#8230;]",
+      "published": "2025-12-17T16:08:15+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "6db7122835a6a8efb7077f8fe0406abc4143c061",
+      "title": "Radiant Nuclear raises $300M for its semi-sized 1 MW reactor",
+      "link": "https://techcrunch.com/2025/12/17/radiant-nuclear-raises-300m-for-its-semi-sized-1-mw-reactor/",
+      "summary": "Radiant Nuclear is developing a small modular reactor to replace diesel generators. The startup previously raised $165 million in May.",
+      "published": "2025-12-17T16:07:49+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "31cbd30f9fb43f72178d4e8e255a7219a2940e6c",
+      "title": "Google launches Gemini 3 Flash, makes it the default model in the Gemini app",
+      "link": "https://techcrunch.com/2025/12/17/google-launches-gemini-3-flash-makes-it-the-default-model-in-the-gemini-app/",
+      "summary": "Google is making Gemini 3 Flash the default model in the Gemini app and oAI model for Search",
+      "published": "2025-12-17T16:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "4ab3627000dcbecc51f2143079ca02f636469a34",
+      "title": "Gemini 3 Flash is here, bringing a ‘huge’ upgrade to the Gemini app",
+      "link": "https://www.theverge.com/news/845741/gemini-3-flash-google-ai-mode-launch",
+      "summary": "Google is upgrading its Gemini app with Gemini 3 Flash, a more efficient version of its flagship AI model that's still capable of fielding complex requests. The new model will replace Gemini 2.5 Flash as the default inside the Gemini app, and it's headed to Google Search, too. Its arrival comes one month after the [&#8230;]",
+      "published": "2025-12-17T16:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "5d0e002d26fb689be134c8cdab7b23e2356e2a63",
+      "title": "AI&#8217;s water and electricity use soars in 2025",
+      "link": "https://www.theverge.com/news/845831/ai-chips-data-center-power-water",
+      "summary": "AI created as much carbon pollution this year as New York City and guzzled up as much H20 as people consume globally in water bottles, according to new estimates. The study paints what's likely a pretty conservative picture of AI's environmental impact since it's based on the relatively limited amount of data that's currently available [&#8230;]",
+      "published": "2025-12-17T16:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "8522679b8601bc5eed3338ba2e6836d554f024e0",
+      "title": "Peacock will bombard you with ads as soon as you open the app",
+      "link": "https://www.theverge.com/news/846208/peacock-arrival-ads-launch-2026",
+      "summary": "Peacock has found a new place to stuff ads. Starting next year, the streaming service will greet you with an ad alongside your profile icon on the \"Who's watching?\" screen when you open the app. During a press briefing, Peacock parent company NBCUniversal showed off how these \"arrival ads\" might look. One image shows your [&#8230;]",
+      "published": "2025-12-17T16:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "65377951a43c876033e9647465a6d62611895448",
+      "title": "Coursera and Udemy enter a merger agreement valued at around $2.5B",
+      "link": "https://techcrunch.com/2025/12/17/coursera-and-udemy-enter-a-merger-agreement-valued-at-around-2-5b/",
+      "summary": "Coursera and Udemy, two of the biggest names in online learning, are combining platforms next year.",
+      "published": "2025-12-17T15:58:22+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "2404aa6748241d308ad6da1cb46d29981b64c95c",
+      "title": "Putin says Russia will take more land in Ukraine if Europe sinks peace moves",
+      "link": "https://www.thestar.com.my/news/world/2025/12/17/putin-says-russia-will-take-more-land-in-ukraine-if-europe-sinks-peace-moves",
+      "summary": "MOSCOW, Dec 17 (Reuters) - President Vladimir Putin said on Wednesday Russia would take more land in Ukraine by force if Kyiv and European politicians whom he cast as \"young pigs\" did not engage over U.S. proposals for a peace settlement. <a href=\"https://www.thestar.com.my/news/world/2025/12/17/putin-says-russia-will-take-more-land-in-ukraine-if-europe-sinks-peace-moves\">Read full story</a>",
+      "published": "2025-12-17T15:58:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "310ee874ce5ed00412b7cbd70586b811548c1b0b",
+      "title": "Jack Smith defends Trump prosecutions in testimony to Congress",
+      "link": "https://www.bbc.com/news/articles/cm21rvdwv1ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The former US Special Counsel is facing questions about his two defunct criminal investigations into President Donald Trump.",
+      "published": "2025-12-17T15:57:29+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "f973df6433153dcbc8e1e6f4fa40812a9dd30326",
+      "title": "Polar bear mother adopts cub in rarely documented case",
+      "link": "https://www.bbc.com/news/articles/cvg803v3erko?at_medium=RSS&at_campaign=rss",
+      "summary": "It's only the 13th known case of adoption out of the 4,600 bears studied for nearly five decades in the northern Canadian area.",
+      "published": "2025-12-17T15:55:24+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "336bb5d59d3c14cb22fcc2f00cfcfbf65467d791",
+      "title": "Save up to $720 on these three Lectric e-bikes with price cuts to lows starting from $1,399 for Xmas",
+      "link": "https://9to5toys.com/2025/12/17/three-lectric-e-bike-series-price-cuts-starting-from-1399/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2024/08/Lectric-ONE-long-range-e-bike-new.webp?w=1200\" /></div><p>Looking back in on <a href=\"https://9to5toys.com/2025/12/08/lectric-christmas-holiday-sale-893-savings-e-bike-bundles-from-999/\">Lectric’s ongoing Christmas Holiday Sale event</a>, we wanted to shine a spotlight on the three e-bikes receiving rare price cuts over the usual free bundle packages – a first for so many models at once. The biggest of these price cuts that also retains a bundle is <a href=\"https://lectricebikes.sjv.io/PyEogq\">Lectric’s ONE e-bike Long-Range Belt-Drive Commuter e-bike</a> with a $220 FREE bundle of gear at <strong><a href=\"https://lectricebikes.sjv.io/PyEogq\">$1,899 shipped</a></strong>. This entire package would normally run you $2,619 at full price, with a repeat of the $500 price cut we’ve been seeing more frequently since Labor Day to its all-time lowest tracked price, along with a FREE rear cargo rack and fender set. While the deadline to receive it before Christmas has passed, you can still secure it and all the other e-bikes with some of their best deals to kick-off your new year with a new commuting option. Head below to browse the lineup of e-bike price cuts, while you can also <a href=\"https://9to5toys.com/2025/12/08/lectric-christmas-holiday-sale-893-savings-e-bike-bundles-from-999/\">browse the brand’s full Christmas lineup here</a>. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/12/17/three-lectric-e-bike-series-price-cuts-starting-from-1399/#more-1184135\">more…</a>",
+      "published": "2025-12-17T15:51:25+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "a20ea8de7a5eeba3543932d2786b05cc898d6ac7",
+      "title": "Google sues the Chinese-speaking cybercriminal group known as Darcula, behind an alleged US text message phishing ring, in the US, seeking a restraining order (Kevin Collier/NBC News)",
+      "link": "http://www.techmeme.com/251217/p33#a251217p33",
+      "summary": "<a href=\"https://www.nbcnews.com/tech/security/google-sues-chinese-scam-ring-e-zpass-usps-phishing-texts-rcna249469\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251217/i33.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251217/p33#a251217p33\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kevin Collier / <a href=\"http://www.nbcnews.com/\">NBC News</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nbcnews.com/tech/security/google-sues-chinese-scam-ring-e-zpass-usps-phishing-texts-rcna249469\">Google sues the Chinese-speaking cybercriminal group known as Darcula, behind an alleged US text message phishing ring, in the US, seeking a restraining order</a></b></span>&nbsp; &mdash;&nbsp; Google says the group's tools enabled scammers with little technical skill to impersonate agencies like the IRS and the USPS at a massive scale.</p>",
+      "published": "2025-12-17T15:50:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "308899ecbe6dd1c22db8451a8bfd181dbbb371d5",
+      "title": "Bluesky launches a privacy-focused ‘find friends’ feature without invite spam",
+      "link": "https://techcrunch.com/2025/12/17/bluesky-launches-a-privacy-focused-find-friends-feature-without-invite-spam/",
+      "summary": "The Bluesky contact matching feature is opt-in and your data won't be used to spam your friends, the social network says.",
+      "published": "2025-12-17T15:49:32+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "8c49d5d1ecd74ed9ec687eadbe1d0cfd075569bd",
+      "title": "Warner Bros favours Netflix offer over $108bn Paramount bid",
+      "link": "https://www.bbc.com/news/articles/cz687wv9vqxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Warner Brothers says the offer for its film and streaming businesses is inferior to Netflix's.",
+      "published": "2025-12-17T15:48:31+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "da0609e0aeb5aff562556c5c39d1a9b9783eb627",
+      "title": "SwitchBot’s space-saving robot vacuum is on sale starting at just $179.99",
+      "link": "https://www.theverge.com/gadgets/845979/switchbot-k11-robot-vacuum-hisense-u8qg-mini-led-tv-deal-sale",
+      "summary": "Small robot vacuums that fit into tight spaces rarely deliver strong performance, which is what makes the SwitchBot K11 Plus stand out. And right now, you can purchase the compact yet capable robovac from Amazon and SwitchBot for a new low of $179.99 ($220 off), the latter with code XMAS2GIFT55. Just note that only Switchbot [&#8230;]",
+      "published": "2025-12-17T15:45:04+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "177225ddd968746543a1b53e9786ce856a5c0611",
+      "title": "High-end golden titanium Apple Watch Series 10 with Milanese Loop hits Amazon low at $280 off",
+      "link": "https://9to5toys.com/2025/12/17/high-end-golden-titanium-apple-watch-series-10/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/12/Apple-Watch-Series-10-Gold.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>You can still score all-time low pricing on Apple’s latest Series 11 wearables starting from <strong>$299 </strong>– that’s $100 off and the lowest price we have tracked since release in September. But if you’re looking to bling your wrist out in high-tech, Milanese-wrapped golden titanium, it’s going to cost a whole lot more for a Series 11 than Amazon is charging for the Series 10 variant at $280 off. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/12/17/high-end-golden-titanium-apple-watch-series-10/#more-1184138\">more…</a>",
+      "published": "2025-12-17T15:43:10+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "5991cc37a5a588defd1ee5d3184277475630e1e0",
+      "title": "Anwar slams criticism of Malaysia&#039;s humanitarian aid in Gaza",
+      "link": "https://www.thestar.com.my/news/nation/2025/12/17/anwar-slams-criticism-of-malaysia039s-humanitarian-aid-in-gaza",
+      "summary": "PUTRAJAYA: Prime Minister Datuk Seri Anwar Ibrahim has taken to task the views of certain parties who have questioned Malaysia's assistance to Gaza, describing such criticism as lacking humanitarian values. <a href=\"https://www.thestar.com.my/news/nation/2025/12/17/anwar-slams-criticism-of-malaysia039s-humanitarian-aid-in-gaza\">Read full story</a>",
+      "published": "2025-12-17T15:35:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "140d9e58bd255868f4c62bdf02887a9983082d48",
+      "title": "Warner Bros. Discovery rejects Paramount’s hostile bid, calls offer ‘illusory’",
+      "link": "https://techcrunch.com/2025/12/17/warner-bros-discovery-rejects-paramounts-hostile-bid-calls-offer-illusory/",
+      "summary": "Warner Bros. Discovery called Paramount's offer \"illusory\" and said that the company had misled shareholders about its financing.",
+      "published": "2025-12-17T15:30:22+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "34471663742dfa936e288b654536a334fed43097",
+      "title": "Google brings its vibe coding tool Opal to Gemini on the web, letting users create their own custom AI-powered mini apps, called Gems, which can be reused later (Sarah Perez/TechCrunch)",
+      "link": "http://www.techmeme.com/251217/p32#a251217p32",
+      "summary": "<a href=\"https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251217/i32.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251217/p32#a251217p32\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sarah Perez / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/\">Google brings its vibe coding tool Opal to Gemini on the web, letting users create their own custom AI-powered mini apps, called Gems, which can be reused later</a></b></span>&nbsp; &mdash;&nbsp; Google's vibe-coding tool, Opal, is making its way to Gemini.&nbsp; The company on Wednesday said it is integrating the tool &hellip; </p>",
+      "published": "2025-12-17T15:30:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "4e93136dcd0f4b7c9bdb21cfb3a77fc8875945a4",
+      "title": "Nato spending pledge is Trump's biggest foreign policy success, Rutte tells BBC",
+      "link": "https://www.bbc.com/news/articles/cx2p4vw595jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Nato chief said it was thanks to Donald Trump that the alliance is \"stronger than it ever was\".",
+      "published": "2025-12-17T15:25:58+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "ffde251815de2f4f1334b8ac19c2cff1e7252c05",
+      "title": "Browser extensions with 8 million users collect extended AI conversations",
+      "link": "https://arstechnica.com/security/2025/12/browser-extensions-with-8-million-users-collect-extended-ai-conversations/",
+      "summary": "The extensions, available for Chromium browsers, harvest full AI conversations over months.",
+      "published": "2025-12-17T15:25:25+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "cf583780da9b45e45b6955967864a52ad5518e04",
+      "title": "Sources: Google is working on a new initiative to make its AI chips run PyTorch better and is working closely with Meta, as the two discuss Meta using TPUs (Reuters)",
+      "link": "http://www.techmeme.com/251217/p31#a251217p31",
+      "summary": "<a href=\"https://www.reuters.com/business/google-works-erode-nvidias-software-advantage-with-metas-help-2025-12-17/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251217/i31.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251217/p31#a251217p31\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/business/google-works-erode-nvidias-software-advantage-with-metas-help-2025-12-17/\">Sources: Google is working on a new initiative to make its AI chips run PyTorch better and is working closely with Meta, as the two discuss Meta using TPUs</a></b></span>&nbsp; &mdash;&nbsp; Alphabet's (GOOGL.O) Google is working on a new initiative to make its artificial intelligence chips better at running PyTorch &hellip; </p>",
+      "published": "2025-12-17T15:20:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "dcadcd4093bf4ec9ad32ce5269d08aae2c9cb03d",
+      "title": "Beats iPhone 17/Pro Kickstand Case now up to 62% off the list via Amazon, deals from $22",
+      "link": "https://9to5toys.com/2025/12/17/beats-iphone-17-pro-kickstand-case-amazon-deals/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/11/Beats-Kickstand-case-iPhone-17.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Beats unleashed one of the more unique and compelling cases for Apple’s latest iPhone 17 lineup this year with is Kickstand model. We here), but we have highlighted the lowest-priced options for each iPhone 17 model below to help the cause. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/12/17/beats-iphone-17-pro-kickstand-case-amazon-deals/#more-1184134\">more…</a>",
+      "published": "2025-12-17T15:18:09+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "a21a2c7ca5d0a2cc1fb8607a56b88c12af6dd498",
+      "title": "Mozilla’s new CEO says AI is coming to Firefox, but will remain a choice",
+      "link": "https://techcrunch.com/2025/12/17/mozillas-new-ceo-says-ai-is-coming-to-firefox-but-will-remain-a-choice/",
+      "summary": "Mozilla has appointed Anthony Enzor-DeMeo as its CEO, as the Firefox developer scrambles to adapt in a rapidly changing browser market.",
+      "published": "2025-12-17T15:17:52+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "282bef5b05c10ad769740934e7548402c4198e21",
       "title": "Google’s vibe-coding tool Opal comes to Gemini",
@@ -30,6 +264,15 @@
       "published": "2025-12-17T15:11:46+00:00",
       "source": "9to5Toys",
       "category": "deals"
+    },
+    {
+      "id": "0ee487529c7ccbf813090f0add205178f50cc18b",
+      "title": "Electric vehicles cause tension in the automotive aftermarket",
+      "link": "https://arstechnica.com/cars/2025/12/how-is-ev-technology-being-accepted-by-the-aftermarket/",
+      "summary": "At SEMA, we heard Trump-like talking points but saw skateboard chassis, too.",
+      "published": "2025-12-17T15:09:03+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
     },
     {
       "id": "6fbfcf97dc6aec980f36ea95217aa78d5635ca04",
@@ -140,6 +383,15 @@
       "category": "world"
     },
     {
+      "id": "403ca24ac2fc84e5047af77c6c7023077c1a81c2",
+      "title": "Twitter comeback bid draws lawsuit from Elon Musk’s X Corp",
+      "link": "https://arstechnica.com/tech-policy/2025/12/twitter-comeback-bid-draws-lawsuit-from-elon-musks-x-corp/",
+      "summary": "“Huge uphill battle” to obtain and use Twitter name.",
+      "published": "2025-12-17T14:41:36+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
       "id": "9a9ad728024168d9e95c01e846cb22c936d760f9",
       "title": "Oracle says final equity deal negotiations for its Michigan data center project are \"on schedule\" and Related Digital, not Blue Owl Capital, will be its partner (Lynn Doan/Bloomberg)",
       "link": "http://www.techmeme.com/251217/p27#a251217p27",
@@ -170,7 +422,7 @@
       "id": "2c783830ab0b95f1266a235bfe9a1112046997f1",
       "title": "Rad Power Bikes files for bankruptcy protection",
       "link": "https://www.theverge.com/news/846201/rad-power-bikes-chapter-11-bankruptcy",
-      "summary": "Rad Power Bikes, the once dominant electric bicycle brand in the US, filed for Chapter 11 bankruptcy protection this week as it seeks to sell of its company. The move comes less than a month after Rad Power said it could not afford to recall its older e-bike batteries that had been designated a fire [&#8230;]",
+      "summary": "Rad Power Bikes, the once dominant electric bicycle brand in the US, filed for Chapter 11 bankruptcy protection this week as it seeks to sell off its company. The move comes less than a month after Rad Power said it could not afford to recall its older e-bike batteries that had been designated a fire [&#8230;]",
       "published": "2025-12-17T14:14:39+00:00",
       "source": "The Verge",
       "category": "tech"
@@ -230,33 +482,6 @@
       "category": "malaysia"
     },
     {
-      "id": "86d7f02aa74c6d3321d36866e59f69031556066e",
-      "title": "The best games to play on Xbox Game Pass in 2025",
-      "link": "https://www.theverge.com/games/845376/xbox-games-pass-best-games-2025",
-      "summary": "From pervasive layoffs to continued price hikes, things didn't go so well for Xbox in 2025. But even though Game Pass, the Xbox subscription service, isn't quite the deal it once was, there are still a lot of excellent titles to check out. This was an especially good year for indie titles, with breakout hits [&#8230;]",
-      "published": "2025-12-17T14:00:34+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "64b3c89a0019460936eae54eb22178ca332ce075",
-      "title": "The best shows streaming on Apple TV in 2025",
-      "link": "https://www.theverge.com/entertainment/845366/apple-tv-best-shows-2025",
-      "summary": "Apple's streaming service got a new name this year - it dropped the \"plus\" and is now just Apple TV - but its actual programming didn't change all that much. And that's good news for sci-fi fans, as the service continued to cement itself as the preeminent destination for the genre in the streaming era. [&#8230;]",
-      "published": "2025-12-17T14:00:28+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "1f558d50d3c459417a78e960378d732900b0fd4c",
-      "title": "The 10 best shows to stream on Disney Plus and Hulu from 2025",
-      "link": "https://www.theverge.com/streaming/845355/disney-plus-hulu-best-shows-2025",
-      "summary": "Disney Plus and Hulu had an eventful year. Not only did the streaming services release a swath of exciting original shows and new seasons, but they're also in the midst of a transformation that will further integrate Hulu with Disney Plus. The \"unified\" app experience will have a revamped interface that's supposed to make it [&#8230;]",
-      "published": "2025-12-17T14:00:22+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "c5584630d260f63058aee99b2f6ba060f24aa369",
       "title": "Cambodia, Thailand agree to attend Asean Foreign Ministers meet in KL, says PM",
       "link": "https://www.thestar.com.my/news/nation/2025/12/17/cambodia-thailand-agree-to-attend-asean-foreign-ministers-meet-in-kl-says-pm",
@@ -264,24 +489,6 @@
       "published": "2025-12-17T14:00:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
-    },
-    {
-      "id": "17663eb7c3f21afdfd6584d53fe2b162ae9f0434",
-      "title": "What could&#8217;ve been Google&#8217;s worst year turned into one of its best",
-      "link": "https://www.theverge.com/report/840856/google-end-of-year-recap-lawsuits-antitrust-ai-gemini-epic",
-      "summary": "2025 could have been a pretty disastrous year for Google. The company came in knowing it had three major legal battles to fight, increasing competition in the burgeoning AI market, and a new US president to adapt to. It looked possible - perhaps likely - that the company might be broken up and forced to [&#8230;]",
-      "published": "2025-12-17T14:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "a7398205342d9ee39e8468294fb4c88f5f398d88",
-      "title": "The Verge’s 2025 in review",
-      "link": "https://www.theverge.com/entertainment/842852/https-www-theverge-com-tech-841025-2025-review-games-streaming-politics",
-      "summary": "The year 2025 has been, to put it mildly, eventful. If you’re like me, you’ve felt as if it’s pretty much impossible to keep up with things; every day brings something new, much of it baffling or enraging. But that’s not the case for everything — and so, as with past years, we’re using this [&#8230;]",
-      "published": "2025-12-17T14:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
     },
     {
       "id": "1927b25845470b1a866bc48246790aa2143ca030",
@@ -307,24 +514,6 @@
       "link": "https://www.thestar.com.my/news/2025/12/17/public-urged-to-stay-vigilant-amid-northeast-monsoon",
       "summary": "KUALA LUMPUR: The public has been reminded to remain vigilant and to comply with instructions from the authorities following unstable weather conditions caused by the Northeast Monsoon currently affecting the country, particularly in the East Coast states. <a href=\"https://www.thestar.com.my/news/2025/12/17/public-urged-to-stay-vigilant-amid-northeast-monsoon\">Read full story</a>",
       "published": "2025-12-17T13:54:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "dd727753fc1363d838e4f1b31cc325afd25811af",
-      "title": "M23 still in seized Congo town despite withdrawal pledge, residents say",
-      "link": "https://www.thestar.com.my/news/world/2025/12/17/m23-still-in-seized-congo-town-despite-withdrawal-pledge-residents-say",
-      "summary": "KINSHASA, Dec 17 (Reuters) - Rwanda-backed M23 rebels have not withdrawn from the eastern Congolese town of Uvira despite an announcement earlier this week that they would pull back, residents told Reuters on Wednesday. <a href=\"https://www.thestar.com.my/news/world/2025/12/17/m23-still-in-seized-congo-town-despite-withdrawal-pledge-residents-say\">Read full story</a>",
-      "published": "2025-12-17T13:52:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "d73b856d3484c24566cad2a5ce0a574705f5895e",
-      "title": "Court allows Sapura founder&#039;s son to file objection over hibah confirmation",
-      "link": "https://www.thestar.com.my/news/nation/2025/12/17/court-allows-sapura-founder039s-son-to-file-objection-over-hibah-confirmation",
-      "summary": "PUTRAJAYA: The Syariah High Court on Wednesday (Dec 17) allowed businessman Tan Sri Shahril Shamsuddin to file a preliminary objection against his father, Sapura Holdings Sdn Bhd founder Tan Sri Shamsuddin Abdul Kadir's application to confirm a hibah involving 14.8 million units of company shares. Shamsuddin, 94, filed the application on Sept 2 seeking confirmation of the hibah granted 28 years ago to his two sons, Shahril, 64, and Datuk Shahriman Shamsuddin, 56, each involving 14.8 million units of shares. The confirmation is a legal prerequisite for Shamsuddin to revoke the hibah, which he is seeking to do against Shahril, who is also the chief executive officer of Sapura Group, citing personal reasons. Syariah Judge Ahmad Irwan Ismail ordered Shahril to file the preliminary objection within three weeks and fixed Feb 24, 2026 for further mention of the case.  \"The first defendant (Shahril) is allowed to file a notice of motion for objection together with a supporting affidavit,\" the judge said.  Earlier, syariah lawyer Dr Mohd Rafie Mohd Shafie, representing Shahril, told the court that the hibah in dispute was fasid (invalid) and that the objection was raised to challenge the basis of the plaintiff's claims.  However, syariah lawyer Suhaimi Saad, representing Shamsuddin, objected to the application, arguing there was no error in his client's claim and that a father has the right to revoke a hibah given to a child.  Meanwhile, syariah lawyer Fakhrul Azman Abu Hasan, representing Shahriman, said his client did not object to the application for confirmation of the hibah.- Bernama <a href=\"https://www.thestar.com.my/news/nation/2025/12/17/court-allows-sapura-founder039s-son-to-file-objection-over-hibah-confirmation\">Read full story</a>",
-      "published": "2025-12-17T13:52:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
     },
@@ -626,15 +815,6 @@
       "category": "malaysia"
     },
     {
-      "id": "566c160b5f48576843f3982fe950ae95131a1567",
-      "title": "Source: Tencent tells staff that Yao Shunyu, an ex-OpenAI researcher who joined in September, is now its chief AI scientist, reporting to President Martin Lau (Juro Osawa/The Information)",
-      "link": "http://www.techmeme.com/251217/p20#a251217p20",
-      "summary": "<p><a href=\"http://www.techmeme.com/251217/p20#a251217p20\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Juro Osawa / <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/briefings/tencent-names-former-openai-researcher-chief-ai-scientist\">Source: Tencent tells staff that Yao Shunyu, an ex-OpenAI researcher who joined in September, is now its chief AI scientist, reporting to President Martin Lau</a></b></span>&nbsp; &mdash;&nbsp; Tencent Holdings internally announced that Yao Shunyu, a researcher who joined from OpenAI in September, is now serving &hellip; </p>",
-      "published": "2025-12-17T11:50:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "03880054eadd8e4c3b9170d8aafab27b2ffa7231",
       "title": "China says facts distorted over South China Sea clash, Philippines cites video evidence",
       "link": "https://www.malaymail.com/news/world/2025/12/17/china-says-facts-distorted-over-south-china-sea-clash-philippines-cites-video-evidence/202297",
@@ -660,33 +840,6 @@
       "published": "2025-12-17T11:37:28+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "6760caba66c4f9ecc16435397b32cdbf0455154b",
-      "title": "Sources: at least six Chinese AI companies, like chip firms Montage and GigaDevice, are set to IPO in Hong Kong in the coming weeks, aiming to raise up to $1B (Bloomberg)",
-      "link": "http://www.techmeme.com/251217/p19#a251217p19",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-12-17/chinese-chip-firms-line-up-for-hong-kong-listings-in-coming-weeks\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251217/i19.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251217/p19#a251217p19\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-12-17/chinese-chip-firms-line-up-for-hong-kong-listings-in-coming-weeks\">Sources: at least six Chinese AI companies, like chip firms Montage and GigaDevice, are set to IPO in Hong Kong in the coming weeks, aiming to raise up to $1B</a></b></span>&nbsp; &mdash;&nbsp; At least six Chinese companies related to artificial intelligence are set to go public in Hong Kong in the coming weeks &hellip; </p>",
-      "published": "2025-12-17T11:35:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "bc6203b09376a8f3250312044bb6b7437ddd4889",
-      "title": "Fallout and the secret of the perfect video game adaptation",
-      "link": "https://www.bbc.com/news/articles/cvgr488vlmmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Masterminds behind the classic video game series tell us how they created a successful TV show.",
-      "published": "2025-12-17T11:30:36+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "c28a9d2d935ac11e37e84c3ced9342b726681d3a",
-      "title": "Sensor Tower: ChatGPT had 73M DAUs in India as of last week, up 607% YoY and more than double the US, boosted by its free plans, far above Gemini's 17M DAUs (Munsif Vengattil/Reuters)",
-      "link": "http://www.techmeme.com/251217/p18#a251217p18",
-      "summary": "<a href=\"https://www.reuters.com/world/india/with-freebies-openai-google-vie-indian-users-training-data-2025-12-17/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251217/i18.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251217/p18#a251217p18\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Munsif Vengattil / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/india/with-freebies-openai-google-vie-indian-users-training-data-2025-12-17/\">Sensor Tower: ChatGPT had 73M DAUs in India as of last week, up 607% YoY and more than double the US, boosted by its free plans, far above Gemini's 17M DAUs</a></b></span>&nbsp; &mdash;&nbsp; OpenAI, Google and Perplexity have begun an unprecedented fight for artificial intelligence users in India, rolling out freebies &hellip; </p>",
-      "published": "2025-12-17T11:20:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "b49155f3ab3ce0e688aa0b92a163defb5543e3f2",
@@ -734,24 +887,6 @@
       "category": "deals"
     },
     {
-      "id": "4e3d0ff2ab86f360bce74e7c98b1c63920ae6425",
-      "title": "All M4 MacBook Air models now $250 off again as Amazon brings back Black Friday pricing for one last go",
-      "link": "https://9to5toys.com/2025/12/17/all-m4-macbook-air-amazon-black-friday-pricing/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/06/M4-MacBook-Air-16GB.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>We caught a short-lived offer at Best Buy last weekend that had select 13-inch models at $250 off with a bonus $25 gift card thrown in, but Amazon is now once again offering all M4 MacBook Air models back down at the Black Friday price. This includes just about every color across both the 13- and 15-inch configurations. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/12/17/all-m4-macbook-air-amazon-black-friday-pricing/#more-1184061\">more…</a>",
-      "published": "2025-12-17T11:05:27+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "f4fe34c323e5d6506d5b70902d3a71b72cf44187",
-      "title": "Bengaluru-based e-commerce platform Meesho is up 95% from its IPO offer price, valuing it at nearly $11B and making it India's best-performing major IPO of 2025 (Ashutosh Joshi/Bloomberg)",
-      "link": "http://www.techmeme.com/251217/p17#a251217p17",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2025-12-17/meesho-is-india-s-top-performing-big-ipo-of-2025-after-95-rally\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251217/i17.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251217/p17#a251217p17\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ashutosh Joshi / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2025-12-17/meesho-is-india-s-top-performing-big-ipo-of-2025-after-95-rally\">Bengaluru-based e-commerce platform Meesho is up 95% from its IPO offer price, valuing it at nearly $11B and making it India's best-performing major IPO of 2025</a></b></span>&nbsp; &mdash;&nbsp; Follow Bloomberg India on WhatsApp for exclusive content and analysis on what billionaires, businesses and markets are doing.</p>",
-      "published": "2025-12-17T11:05:26+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "2e83d4c66ba2ba989ef98ad0543b69645bc60797",
       "title": "Malaysia’s vehicle emission compliance hits 94pc, nearing DoE target, says deputy D-G",
       "link": "https://www.malaymail.com/news/malaysia/2025/12/17/malaysias-vehicle-emission-compliance-hits-94pc-nearing-doe-target-says-deputy-d-g/202294",
@@ -759,24 +894,6 @@
       "published": "2025-12-17T11:01:11+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "6b5843c7ae986ab1f5a99f75e744b59e05409821",
-      "title": "Crypto exchange HashKey closed flat in its Hong Kong debut, after rising as much as 6.6% before falling 8.4% intraday, amid a weakness in digital assets (Reuters)",
-      "link": "http://www.techmeme.com/251217/p16#a251217p16",
-      "summary": "<a href=\"https://www.reuters.com/world/asia-pacific/crypto-exchange-hashkeys-rise-03-hong-kong-trading-debut-2025-12-17/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251217/i16.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251217/p16#a251217p16\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/asia-pacific/crypto-exchange-hashkeys-rise-03-hong-kong-trading-debut-2025-12-17/\">Crypto exchange HashKey closed flat in its Hong Kong debut, after rising as much as 6.6% before falling 8.4% intraday, amid a weakness in digital assets</a></b></span>&nbsp; &mdash;&nbsp; Cryptocurrency exchange HashKey Holdings Ltd (3887.HK) made a flat debut in Hong Kong on Wednesday amid recent weakness in digital assets &hellip; </p>",
-      "published": "2025-12-17T10:50:03+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "39c21740546db1cbf0d70d744f4f102ee54ac10a",
-      "title": "Target Holiday Deals of the Day – Day 17: Ninja CREAMi, smart bulbs from $9, storage bins, more",
-      "link": "https://9to5toys.com/2025/12/17/target-holiday-deals-day-ninja-creami-smart-bulbs/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/12/Target-Holiday-Deals-of-the-Day-17.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Joining its ongoing weeklong holiday offers, it has now flipped out its <a href=\"https://howl.link/ac9whpio56rla\">Deals of the Day section</a> with a collection of new offers. You’ll find everything from Ninja CREAMi ice cream makers and floor care solutions right through to storage and organization items, smart bulbs, and more <a href=\"https://howl.link/ac9whpio56rla\">from <strong>$4</strong></a>. Everything <a href=\"https://howl.link/ac9whpio56rla\">awaits right here</a> and you’ll find some additional details below. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/12/17/target-holiday-deals-day-ninja-creami-smart-bulbs/#more-1184055\">more…</a>",
-      "published": "2025-12-17T10:49:38+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "925e1d1b90d14d51ba7591dbb1fd2dda94974bf2",
@@ -872,7 +989,7 @@
       "id": "da208f4dd6f531b139beecf8a6b9dbf0dffb908e",
       "title": "Grov",
       "link": "https://www.producthunt.com/products/grov",
-      "summary": "<p>\n            Shared and synchronized AI memory + reasoning across teams\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/grov?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1051166?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Shared and synchronized AI memory + reasoning across teams\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/grov?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1051166?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-17T07:03:54+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -912,15 +1029,6 @@
       "published": "2025-12-17T05:19:19+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "74b7ecd345d41c7505ad905c92f89c95a2ca5325",
-      "title": "Who are the Bondi shooting victims?",
-      "link": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities say two rabbis, a Holocaust survivor and a 10-year-old girl were among the victims.",
-      "published": "2025-12-17T05:08:28+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "407bad991bc2c4838835f4f98c85e971a0bdedea",
@@ -971,7 +1079,7 @@
       "id": "c5fe95a0deb43409796a37d55e53aaef1abee1ff",
       "title": "Picser 2.0",
       "link": "https://www.producthunt.com/products/picser-2",
-      "summary": "<p>\n            Native macOS image viewer with tags & slideshow\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/picser-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1051115?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Native macOS image viewer with tags & slideshow\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/picser-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1051115?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-17T03:32:12+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1007,7 +1115,7 @@
       "id": "85ff40d3b7201a6c5fea1d9205b92e0e56811b1c",
       "title": "ChatGPT Images",
       "link": "https://www.producthunt.com/products/openai",
-      "summary": "<p>\n            Powered by GPT Image 1.5: Faster, smarter, precise\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1051091?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Powered by GPT Image 1.5: Faster, smarter, precise\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1051091?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-17T01:48:35+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1020,15 +1128,6 @@
       "published": "2025-12-17T01:14:59+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "27a43516d2ad3394d8c1c0613cdf5a86f55cd59e",
-      "title": "You can still land AirPods Pro 3 in time for Christmas at within $10 of the Amazon all-time low",
-      "link": "https://9to5toys.com/2025/12/16/you-can-still-land-airpods-pro-3-in-time-for-christmas-at-within-10-of-the-amazon-all-time-low/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/11/AirPods-Pro-3-Black-Friday-deal-now-live.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>The AirPods 4 dropped to some wild prices this year, as low as $69 in fact, but for those with their eyes on Apple’s state of the art, that wasn’t all too helpful. We did see Amazon deliver a particularly fantastic $199 post-Black Friday all-time low on AirPods Pro 3 recently, and while that deal is now gone, we have entered the last-minute phase of the holidays and you can still score Apple best earbuds within just $10 of the Amazon all-time low. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2025/12/16/you-can-still-land-airpods-pro-3-in-time-for-christmas-at-within-10-of-the-amazon-all-time-low/#more-1183764\">more…</a>",
-      "published": "2025-12-16T23:11:00+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "d9e5e4550b1fdb590f552f203345fe4993d1c256",
@@ -1115,7 +1214,7 @@
       "id": "ce269ea8321421f51622457ff113606d665c231a",
       "title": "Ayer",
       "link": "https://www.producthunt.com/products/ayer",
-      "summary": "<p>\n            Privately see any day of your photos across all your years\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ayer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1051019?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Privately see any day of your photos across all your years\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ayer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1051019?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-16T20:02:34+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1157,37 +1256,10 @@
       "category": "tech"
     },
     {
-      "id": "fbb6810453a1d22ea56d3900934ba00b45a3fd8d",
-      "title": "OpenAI continues on its ‘code red’ warpath with new image generation model",
-      "link": "https://techcrunch.com/2025/12/16/openai-continues-on-its-code-red-warpath-with-new-image-generation-model/",
-      "summary": "OpenAI rolls out GPT Image 1.5 for ChatGPT, promising 4x faster generation, better instruction-following, and precise edits. The launch  escalates its rivalry with Google Gemini.",
-      "published": "2025-12-16T18:22:50+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "66e7ba988183b9556f6fc97ef3c61ac917449511",
-      "title": "Uber Eats alum lands $14M seed from a16z to fix WhatsApp chaos for LatAm’s doctors",
-      "link": "https://techcrunch.com/2025/12/16/uber-eats-alum-lands-14m-seed-from-a16z-to-fix-whatsapp-chaos-for-latams-doctors/",
-      "summary": "Leona Health built an AI co-pilot to manage the flood of patient messages Latin American doctors receive on WhatsApp.",
-      "published": "2025-12-16T18:11:58+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "011a8edba164e139d6c5f7d17469e9fc7a314c8d",
-      "title": "Google tests an email-based productivity assistant",
-      "link": "https://techcrunch.com/2025/12/16/google-tests-an-email-based-productivity-assistant/",
-      "summary": "Google's new email-based assistant will be available to AI Pro and Ultra plan users over the age of 18 in North America.",
-      "published": "2025-12-16T18:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "10406f9b5769d489851cbeeca6a3995ad9cbe659",
       "title": "Kraa 1.0",
       "link": "https://www.producthunt.com/products/kraa",
-      "summary": "<p>\n            The writing app for everything\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kraa?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1050968?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            The writing app for everything\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kraa?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1050968?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-16T17:44:50+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1202,39 +1274,12 @@
       "category": "tech"
     },
     {
-      "id": "492709c53f9f467c10a7ade6e145968b66c6f17a",
-      "title": "Whole Foods to install smart food waste bins from Mill starting in 2027",
-      "link": "https://techcrunch.com/2025/12/16/whole-foods-to-install-smart-food-waste-bins-from-mill-starting-in-2027/",
-      "summary": "The food waste startup founded by Nest alumnus Matt Rogers also received an investment from Amazon's Climate Pledge Fund.",
-      "published": "2025-12-16T17:22:25+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "9e367300c568d3d8b4134d54bbc45c1b31f55a07",
-      "title": "Netflix doubles down on video podcasts with iHeartMedia deal",
-      "link": "https://techcrunch.com/2025/12/16/netflix-doubles-down-on-video-podcasts-with-iheartmedia-deal/",
-      "summary": "As part of the agreement, Netflix will get a diverse range of shows spanning comedy, crime, history, sports, and more.",
-      "published": "2025-12-16T17:13:24+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "3fc1b3146466c368bb5421f5ec8d799cc9ca4b04",
       "title": "Utah leaders hinder efforts to develop solar energy supply",
       "link": "https://arstechnica.com/science/2025/12/utah-leaders-hinder-efforts-to-develop-solar-energy-supply/",
       "summary": "Solar power accounts for two-thirds of the new projects waiting to connect to the state’s power grid.",
       "published": "2025-12-16T17:00:57+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "04fd32282339c8f818aa4ba49ca0b65228d22bf9",
-      "title": "Canadian peer-to-peer clothing rental company Rax is expanding to the US",
-      "link": "https://techcrunch.com/2025/12/16/canadian-peer-to-peer-clothing-rental-company-rax-is-expanding-to-the-u-s/",
-      "summary": "Rax is a peer-to-peer clothing rental company that won top consumer pitch at Disrupt this year.",
-      "published": "2025-12-16T16:11:16+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1250,7 +1295,7 @@
       "id": "6da864e9c6ea5d2e7f906a8b97d11c6edf8a9a04",
       "title": "Wan 2.6",
       "link": "https://www.producthunt.com/products/wan-2-2",
-      "summary": "<p>\n            The next era of multimodal AI for creators is here\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wan-2-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1050911?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            The next era of multimodal AI for creators is here\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wan-2-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1050911?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-16T15:29:28+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1283,15 +1328,6 @@
       "category": "world"
     },
     {
-      "id": "6cfaffb5d49e2225680375d049e978b90b17dca7",
-      "title": "Ukraine struggling to keep lights on under Russian attack, says energy boss",
-      "link": "https://www.bbc.com/news/articles/c80xjkm0283o?at_medium=RSS&at_campaign=rss",
-      "summary": "DTEK boss Maxim Timchenko says the intensity of Russian strikes is so frequent there is no time to recover.",
-      "published": "2025-12-16T12:54:00+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "dac01a88510d700238ceebf56f9917cad0e2b3aa",
       "title": "Hong Leong Bank now supports Apple Pay, currently limited to Visa cards",
       "link": "https://soyacincau.com/2025/12/16/hong-leong-bank-visa-apple-pay-support/",
@@ -1310,19 +1346,10 @@
       "category": "malaysia"
     },
     {
-      "id": "7e1350d0e8bc59e80172124b6935b2466ab981db",
-      "title": "How divides emerged at the heart of Trump’s Maga world",
-      "link": "https://www.bbc.com/news/articles/crl938n0872o?at_medium=RSS&at_campaign=rss",
-      "summary": "The next presidential election may seem a long way off, but current frictions within Trump’s coalition suggest the jockeying to succeed Trump is well under way",
-      "published": "2025-12-16T06:33:44+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "b2a2d838d6878ed0ee8e30791d12b4caad33f95c",
       "title": "DocEndorse AI Agent for Microsoft Teams",
       "link": "https://www.producthunt.com/products/docendorse-ai-agent-for-microsoft-teams",
-      "summary": "<p>\n            Autonomous AI for smarter e-signatures\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/docendorse-ai-agent-for-microsoft-teams?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1050651?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Autonomous AI for smarter e-signatures\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/docendorse-ai-agent-for-microsoft-teams?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1050651?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-16T00:25:35+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1331,7 +1358,7 @@
       "id": "5c69cfc532922c01d210f568375b6f617bc502d4",
       "title": "Varchive",
       "link": "https://www.producthunt.com/products/varchive",
-      "summary": "<p>\n            A showcase for AI-assisted builds, inspiration, and how-tos\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/varchive?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1050646?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            A showcase for AI-assisted builds, inspiration, and how-tos\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/varchive?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1050646?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-15T23:47:08+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1340,7 +1367,7 @@
       "id": "4cfc07f5f8a3439c0598bf728398d56e3f6c6027",
       "title": "Peek",
       "link": "https://www.producthunt.com/products/peek-16",
-      "summary": "<p>\n            Live website previews in your Mac menu bar\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/peek-16?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1050642?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Live website previews in your Mac menu bar\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/peek-16?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1050642?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-15T23:22:30+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1409,37 +1436,19 @@
       "category": "tech"
     },
     {
-      "id": "e697c8bcce8e363bf0ed3aec4868e2d2d704432d",
-      "title": "UK to “encourage” Apple and Google to put nudity-blocking systems on phones",
-      "link": "https://arstechnica.com/tech-policy/2025/12/uk-to-encourage-apple-and-google-to-put-nudity-blocking-systems-on-phones/",
-      "summary": "Government seeks \"nudity-detection algorithms\" in iOS and Android, report says.",
-      "published": "2025-12-15T19:38:32+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "8641b94b8d90dd2300a24405ab7ecc66b76370ec",
-      "title": "Google will end dark web reports that alerted users to leaked data",
-      "link": "https://arstechnica.com/gadgets/2025/12/google-is-shutting-down-dark-web-reports-in-january-because-they-werent-helpful/",
-      "summary": "Google says the reports lacked \"helpful next steps.\"",
-      "published": "2025-12-15T18:13:24+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "7b5bfea33396b6096b641853d93571d096c8307c",
-      "title": "Oh look, yet another Starship clone has popped up in China",
-      "link": "https://arstechnica.com/space/2025/12/oh-look-yet-another-starship-clone-has-popped-up-in-china/",
-      "summary": "Chinese companies are no longer hiding their intent to clone SpaceX. They're advertising it.",
-      "published": "2025-12-15T16:44:01+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
+      "id": "1e496a92a166ddf7df9af2aa093f1633d2ff887b",
+      "title": "Mirror",
+      "link": "https://www.producthunt.com/products/mirror-14",
+      "summary": "<p>\n            Detect hidden apps on MacOS\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mirror-14?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1050535?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-15T17:20:09+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "91d6437f42e2dab0d3fee4259be2d26ab1656b9b",
       "title": "Readever",
       "link": "https://www.producthunt.com/products/readever",
-      "summary": "<p>\n            Read books with Elon Musk, Steve Jobs, or anyone you choose\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/readever?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1050387?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Read books with Elon Musk, Steve Jobs, or anyone you choose\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/readever?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1050387?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-15T11:07:45+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1452,15 +1461,6 @@
       "published": "2025-12-15T10:48:45+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "cb29d80ac9877171ed2b7b39da615a56e5dc1f68",
-      "title": "GoMask as Code",
-      "link": "https://www.producthunt.com/products/gomask-ai",
-      "summary": "<p>\n            Test data as code: YAML rules, Git versioned, & CI/CD ready\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gomask-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1050342?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-15T09:42:11+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "e75ac2058a52f0119351cab4af29273a0cdf3341",
@@ -1499,19 +1499,10 @@
       "category": "malaysia"
     },
     {
-      "id": "2a833dc19c2b6ea7be67595cceac95fdd172ad09",
-      "title": "NexaSDK for Mobile",
-      "link": "https://www.producthunt.com/products/nexasdk-for-mobile",
-      "summary": "<p>\n            Easiest solution to deploy multimodal AI to mobile\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nexasdk-for-mobile?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1049998?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-14T06:50:19+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "5b7a0a2ba674e836d383872186374b296e9a8b5a",
       "title": "Wavedash",
       "link": "https://www.producthunt.com/products/wavedash",
-      "summary": "<p>\n            A browser-first marketplace for PC games\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wavedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1049961?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            A browser-first marketplace for PC games\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wavedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1049961?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-14T04:02:07+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1520,7 +1511,7 @@
       "id": "c511d383ec18ca7b1f2818bbccb2d35ba49cbd0b",
       "title": "Okara",
       "link": "https://www.producthunt.com/products/okara",
-      "summary": "<p>\n            Private ai chat with 30+ open source models\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/okara?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1049079?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Private ai chat with 30+ open source models\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/okara?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1049079?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-11T13:24:19+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1529,7 +1520,7 @@
       "id": "e9ee5b4b73d161207d3b44f9f2bcc5299a7493fb",
       "title": "CanvAi",
       "link": "https://www.producthunt.com/products/canvai",
-      "summary": "<p>\n            Draw, compose, and generate AI art on an infinite canvas\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/canvai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048324?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Draw, compose, and generate AI art on an infinite canvas\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/canvai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1048324?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-09T20:07:22+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1538,7 +1529,7 @@
       "id": "39cc319e69ea75a956c6d9f4e5748f1291e3be2c",
       "title": "StreamAlive",
       "link": "https://www.producthunt.com/products/streamalive",
-      "summary": "<p>\n            Chat-powered polls, word clouds, quizzes for your PPT slides\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/streamalive?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048133?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Chat-powered polls, word clouds, quizzes for your PPT slides\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/streamalive?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1048133?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-09T12:14:22+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1547,8 +1538,17 @@
       "id": "08c8d497d7ec9e86d175e1b1726f4c77ef801b0e",
       "title": "xPrivo",
       "link": "https://www.producthunt.com/products/xprivo",
-      "summary": "<p>\n            Open Source, Free Anonymous AI Chat - Ready to Run Locally\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/xprivo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048097?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Open Source, Free Anonymous AI Chat - Ready to Run Locally\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/xprivo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1048097?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-09T11:15:59+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "104ecb7a860169b7c0f03db4e1ae648c2aa39756",
+      "title": "Brew Great Coffee",
+      "link": "https://www.producthunt.com/products/brew-great-coffee",
+      "summary": "<p>\n            Dial in espresso & pourover\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/brew-great-coffee?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1047302?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-07T15:22:50+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1556,7 +1556,7 @@
       "id": "a770af96c2c0c33c6f362b3f67bf2dc59ac52a4f",
       "title": "Stakpak 3.0 CLI",
       "link": "https://www.producthunt.com/products/stakpak-dev",
-      "summary": "<p>\n            Open source DevOps agent for devs who just want to ship\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/stakpak-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046002?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Open source DevOps agent for devs who just want to ship\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/stakpak-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1046002?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-04T09:57:31+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1565,7 +1565,7 @@
       "id": "888afb6b9b1c37669be1a41558577ab667e6684e",
       "title": "QualGent",
       "link": "https://www.producthunt.com/products/qualgent",
-      "summary": "<p>\n            Test apps in a click with AI QA agents that scale like infra\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/qualgent?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1045739?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Test apps in a click with AI QA agents that scale like infra\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/qualgent?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1045739?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-03T20:43:47+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1574,7 +1574,7 @@
       "id": "927dc9bfb26fbcc64117310cdaee6b06642c6023",
       "title": "AI-powered website segmentation by Croct",
       "link": "https://www.producthunt.com/products/croct",
-      "summary": "<p>\n            Turn every click, engagement, and conversion into growth.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/croct?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1041983?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Turn every click, engagement, and conversion into growth.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/croct?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1041983?app_id=339\">Link</a>\n          </p>",
       "published": "2025-11-24T20:02:22+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
