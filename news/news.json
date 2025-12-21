@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2025-12-21T19:11:12.847657+00:00",
+  "generatedAt": "2025-12-21T20:15:45.872875+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "4809576d6ee3212dc31b5804655b2d6565d53f5d",
+      "title": "Cultural event held in Cairo to celebrate World Arabic Language Day",
+      "link": "https://www.thestar.com.my/news/world/2025/12/22/cultural-event-held-in-cairo-to-celebrate-world-arabic-language-day",
+      "summary": "CAIRO, Dec. 21 (Xinhua) -- A three-day cultural event marking World Arabic Language Day kicked off on Sunday in Egypt's capital Cairo. <a href=\"https://www.thestar.com.my/news/world/2025/12/22/cultural-event-held-in-cairo-to-celebrate-world-arabic-language-day\">Read full story</a>",
+      "published": "2025-12-21T19:47:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "21fc4f9b0b11779a6fae6a2098514e15c5feb336",
+      "title": "Frozen Waymos backed up San Francisco traffic during a widespread power outage",
+      "link": "https://www.theverge.com/news/848843/waymo-san-francisco-power-outage",
+      "summary": "A power outage struck San Francisco on Saturday that blacked out about 130,000 customers at its peak, according to Pacific Gas and Electric Company, but also caused another problem: stranded Waymo vehicles. Posts all over social media showed the company's autonomous SUVs sitting still in the streets and causing traffic jams. Some people posted videos [&#8230;]",
+      "published": "2025-12-21T19:17:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
     {
       "id": "37b8137bf39f6ce9598f3b0e1b38251008bb196b",
       "title": "Who and what are in the Epstein files?",
@@ -23,6 +41,15 @@
       "category": "malaysia"
     },
     {
+      "id": "b411d9bf67f3a6abb907c6eb723c7da915d8d0b4",
+      "title": "8 killed in floods in Iran over past week: Red Crescent",
+      "link": "https://www.thestar.com.my/news/world/2025/12/22/8-killed-in-floods-in-iran-over-past-week-red-crescent",
+      "summary": "TEHRAN, Dec. 21 (Xinhua) -- At least eight people, including a rescuer, have died in floods that hit Iran's southern provinces over the past week, according to the Iranian Red Crescent Society (IRCS). <a href=\"https://www.thestar.com.my/news/world/2025/12/22/8-killed-in-floods-in-iran-over-past-week-red-crescent\">Read full story</a>",
+      "published": "2025-12-21T18:34:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
       "id": "3d4925788074890af94c0d73f7b608c1143c3eb1",
       "title": "Sources: DHS is investigating whether 6 staffers misled CISA's acting director into taking a polygraph that he failed, compounding instability at the agency (John Sakellariadis/Politico)",
       "link": "http://www.techmeme.com/251221/p11#a251221p11",
@@ -32,10 +59,10 @@
       "category": "tech"
     },
     {
-      "id": "408bd640f4c61d267da32fa215d68d92893c82f1",
-      "title": "Source: OpenAI's compute margin has jumped to about 70% in October from about 52% at the end of 2024 and roughly 35% in January 2024 (Sri Muppidi/The Information)",
+      "id": "59260187d7a414d46eb533c31f90620e2d207ae3",
+      "title": "Source: OpenAI's share of revenue after the cost of running AI models for paying users has jumped to ~70% in October, up from ~52% at the end of 2024 (Sri Muppidi/The Information)",
       "link": "http://www.techmeme.com/251221/p10#a251221p10",
-      "summary": "<a href=\"https://www.theinformation.com/articles/openai-getting-efficient-running-ai-internal-financials-show\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251221/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251221/p10#a251221p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sri Muppidi / <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/articles/openai-getting-efficient-running-ai-internal-financials-show\">Source: OpenAI's compute margin has jumped to about 70% in October from about 52% at the end of 2024 and roughly 35% in January 2024</a></b></span>&nbsp; &mdash;&nbsp; As OpenAI discusses raising an unprecedented investment round of up to $100 billion, it can crow about some key improvements to how it runs its business.</p>",
+      "summary": "<a href=\"https://www.theinformation.com/articles/openai-getting-efficient-running-ai-internal-financials-show\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251221/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251221/p10#a251221p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sri Muppidi / <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/articles/openai-getting-efficient-running-ai-internal-financials-show\">Source: OpenAI's share of revenue after the cost of running AI models for paying users has jumped to ~70% in October, up from ~52% at the end of 2024</a></b></span>&nbsp; &mdash;&nbsp; As OpenAI discusses raising an unprecedented investment round of up to $100 billion, it can crow about some key improvements to how it runs its business.</p>",
       "published": "2025-12-21T18:15:01+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -410,30 +437,12 @@
       "category": "malaysia"
     },
     {
-      "id": "f3b4492273cfe4184bf46a819027cfabb48da629",
-      "title": "Cops foil RM2.8mil cigarette smuggling in Machang",
-      "link": "https://www.thestar.com.my/news/nation/2025/12/21/cops-foil-rm28mil-cigarette-smuggling-in-machang",
-      "summary": "KOTA BARU: The General Operations Force (PGA) successfully foiled an attempt to smuggle untaxed white cigarettes worth over RM2.8kmil during a raid at Jalan Kampung Pek here on Sunday (Dec 21). <a href=\"https://www.thestar.com.my/news/nation/2025/12/21/cops-foil-rm28mil-cigarette-smuggling-in-machang\">Read full story</a>",
-      "published": "2025-12-21T11:32:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "550e7c2b45158f671f0f5f0d0219ecaec617bd09",
       "title": "Asian Football Confederation to launch Nations League to boost competition and commercial growth",
       "link": "https://www.malaymail.com/news/sports/2025/12/21/asian-football-confederation-to-launch-nations-league-to-boost-competition-and-commercial-growth/202795",
       "summary": "KUALA LUMPUR, Dec 21 &mdash; The Asian Football Confederation said today it will launch a Nations League contest in a bi...",
       "published": "2025-12-21T11:31:58+00:00",
       "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "4f1b2cdc5ff905737052763d73b8463528914e91",
-      "title": "Warisan info chief denies talk of riot, calls for resignation at party convention",
-      "link": "https://www.thestar.com.my/news/nation/2025/12/21/warisan-info-chief-denies-talk-of-riot-calls-for-resignation-at-party-convention",
-      "summary": "KOTA KINABALU: Parti Warisan Information chief Datuk Mohd Azis Jamman denies reports of any riot, calls for the party president to step down or any long debate urging such action. <a href=\"https://www.thestar.com.my/news/nation/2025/12/21/warisan-info-chief-denies-talk-of-riot-calls-for-resignation-at-party-convention\">Read full story</a>",
-      "published": "2025-12-21T11:27:00+00:00",
-      "source": "The Star : News Feed",
       "category": "malaysia"
     },
     {
@@ -794,15 +803,6 @@
       "summary": "ChatGPT users can now tweak the chatbot’s warmth, enthusiasm, and emoji use.",
       "published": "2025-12-20T20:34:07+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "58512adb4694adcd13b573ad7a2d68e81fd9d6dc",
-      "title": "The Verge’s 2025 holiday gift guide",
-      "link": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
-      "summary": "The holidays have a way of sneaking up on us. One minute you're trick-or-treating with your kids, and the next you're panic shopping in a Buc-ee's gift aisle. But it doesn't have to be that way. With the right cheat sheet, you can keep the holiday spirit high and stress levels low. Fortunately, we did [&#8230;]",
-      "published": "2025-12-20T20:30:00+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -1355,11 +1355,11 @@
       "category": "malaysia"
     },
     {
-      "id": "50103c93a3bd0ce37e530d32c1dc249e512e9d12",
-      "title": "SAM Audio",
-      "link": "https://www.producthunt.com/products/meta",
-      "summary": "<p>\n            Segment any sound with text, visual, or time prompts\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/meta?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1052037?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-19T06:31:45+00:00",
+      "id": "7a5c9b489d241bce8cb6f33595f7e7453bba4a69",
+      "title": "Evidence Embedded Analytics",
+      "link": "https://www.producthunt.com/products/evidence",
+      "summary": "<p>\n            A modern dev workflow for your most important data products\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/evidence?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1052003?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-19T03:47:26+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1427,15 +1427,6 @@
       "category": "events"
     },
     {
-      "id": "3145afcaf3e61b3af36eb315b10b4c025de35a26",
-      "title": "Vurge",
-      "link": "https://www.producthunt.com/products/vurge-ai-data-extraction",
-      "summary": "<p>\n            It's like Clay but in Google Sheets\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vurge-ai-data-extraction?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1051912?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-18T18:54:54+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "38eb370261573e437f0c532df46d62d2ff90668d",
       "title": "EduRev (Education Revolution)",
       "link": "https://www.producthunt.com/products/edurev-education-revolution",
@@ -1459,6 +1450,15 @@
       "link": "https://www.producthunt.com/products/gitstory-2",
       "summary": "<p>\n            Turn your GitHub commits into a cinematic story\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gitstory-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1051707?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-18T09:50:07+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "2a5359ae8daf443e54cc96050ef28725ac481b69",
+      "title": "VoiceNotes",
+      "link": "https://www.producthunt.com/products/voicenotes-2",
+      "summary": "<p>\n            One tap record with live transcription + automatic cleanup\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/voicenotes-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1051680?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-18T09:13:28+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1544,20 +1544,20 @@
       "category": "events"
     },
     {
-      "id": "94d3c6d2b1484df4d2e70f3cea7e4e3522f653f9",
-      "title": "Loki.Build",
-      "link": "https://www.producthunt.com/products/loki-build-2",
-      "summary": "<p>\n            Design and ship studio-grade landing pages with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/loki-build-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1050863?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-16T13:00:17+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "a5a84cbe5a271029a6c390c307c633c501d0ebb3",
       "title": "hq0",
       "link": "https://www.producthunt.com/products/hq0",
       "summary": "<p>\n            Host meetings on your website instead of Zoom or Google Meet\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hq0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1050622?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-15T22:04:15+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "5cb49e83b66f3bbe0437430fe77f63450177efe5",
+      "title": "Userology AI",
+      "link": "https://www.producthunt.com/products/userology-2",
+      "summary": "<p>\n            The AI user research agent for busy product teams\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/userology-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1039799?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-19T01:07:54+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
