@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2025-12-27T20:16:10.292272+00:00",
+  "generatedAt": "2025-12-27T21:12:37.308368+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "2ad07e07c2646aa848737d4890ed602cb84fe9e6",
+      "title": "Q&A with Edison Scientific CEO Sam Rodriques about Kosmos, Edison's AI tool for scientific research, why AI probably won't cure diseases anytime soon, and more (New York Times)",
+      "link": "http://www.techmeme.com/251227/p9#a251227p9",
+      "summary": "<a href=\"https://www.nytimes.com/2025/12/26/podcasts/hardfork-ai-science.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251227/i9.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251227/p9#a251227p9\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.nytimes.com/\">New York Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nytimes.com/2025/12/26/podcasts/hardfork-ai-science.html\">Q&amp;A with Edison Scientific CEO Sam Rodriques about Kosmos, Edison's AI tool for scientific research, why AI probably won't cure diseases anytime soon, and more</a></b></span>&nbsp; &mdash;&nbsp; A tech C.E.O. explains why A.I. probably won't cure diseases anytime soon.&nbsp; Hint: You still need humans.&nbsp; &mdash;&nbsp; Video</p>",
+      "published": "2025-12-27T20:45:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "8ea70ae6d2c186733e719866912b69bac44adbf4",
+      "title": "FaZe Clan’s future is uncertain after influencers depart",
+      "link": "https://techcrunch.com/2025/12/27/faze-clans-future-is-uncertain-after-influencers-depart/",
+      "summary": "Six influencers recently announced that they are leaving esports group FaZe Clan following unsuccessful contract negotiations with new management.",
+      "published": "2025-12-27T20:39:07+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "e78cd0ce5bf5ac94a81df7e583e5da565582f2ae",
       "title": "Trump administration seeks to deport hate speech researcher previously sued by X",
@@ -797,15 +815,6 @@
       "category": "tech"
     },
     {
-      "id": "9c602f6d32940fd4c1d624f5e2ce95377f5517cf",
-      "title": "Federal records show ICE has increased its surveillance tech spending to $300M+ under Trump, as the White House lowered privacy guardrails around citizens' data (Alfred Ng/Politico)",
-      "link": "http://www.techmeme.com/251226/p10#a251226p10",
-      "summary": "<a href=\"https://www.politico.com/news/2025/12/26/ice-high-tech-surveillance-lower-privacy-guardrails-00705401\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/251226/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/251226/p10#a251226p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Alfred Ng / <a href=\"http://www.politico.com/\">Politico</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.politico.com/news/2025/12/26/ice-high-tech-surveillance-lower-privacy-guardrails-00705401\">Federal records show ICE has increased its surveillance tech spending to $300M+ under Trump, as the White House lowered privacy guardrails around citizens' data</a></b></span>&nbsp; &mdash;&nbsp; The U.S. Immigration and Customs Enforcement is buying millions of dollars' worth of new surveillance tools at the same &hellip; </p>",
-      "published": "2025-12-26T18:50:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "52e746e35f600a2eabdbf989d2392afaf011ae5f",
       "title": "Banish outdoor clutter with this 72-gallon storage box, now $54 (Save 26%)",
       "link": "https://9to5toys.com/2025/12/26/yitahome-72-gallon-outdoor-storage-box/",
@@ -1274,15 +1283,6 @@
       "category": "tech"
     },
     {
-      "id": "8e56ee0f336fe1310554b11ed063431b33c39650",
-      "title": "Waymo is testing Gemini as an in-car AI assistant in its robotaxis",
-      "link": "https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/",
-      "summary": "Waymo is testing a Gemini-powered in-car AI assistant, per findings from a 1,200-line system prompt. The assistant can answer general knowledge questions, control certain in-cabin features, and more.",
-      "published": "2025-12-24T16:27:55+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "d8cde0f0022cc23eac9963f9f28187c2dd5a034f",
       "title": "Being Santa Claus is a year-round calling",
       "link": "https://arstechnica.com/science/2025/12/being-santa-claus-is-a-year-round-calling/",
@@ -1416,15 +1416,6 @@
       "published": "2025-12-23T17:02:26+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "b756593d479d8db34d5dc67bf0a4507dcb008322",
-      "title": "Spring Boot CRUD Generator",
-      "link": "https://www.producthunt.com/products/jetbrains",
-      "summary": "<p>\n            Generate production-ready Spring Boot CRUD in seconds\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/jetbrains?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1053711?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-23T16:19:48+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "6bb3665218e2d90415d820e00809c853ea8d8f7b",
@@ -1576,6 +1567,15 @@
       "link": "https://www.producthunt.com/products/thordata",
       "summary": "<p>\n            Fuel AI training with high-quality, scaled data via proxies\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/thordata?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048944?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-11T07:07:21+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "62c119f92a7708d42830b1fad4e65fab4bfe67ab",
+      "title": "GitHired",
+      "link": "https://www.producthunt.com/products/githired-2",
+      "summary": "<p>\n            Find your next 10x Engineer by proof of work, not keywords\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/githired-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1044945?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-12-02T07:52:24+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
