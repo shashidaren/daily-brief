@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2025-12-28T16:17:36.030472+00:00",
+  "generatedAt": "2025-12-28T17:12:54.404573+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "cd4bb0289db19fd1357114b469395410e6686094",
+      "title": "Ubisoft shuts down ‘Rainbow Six Siege’ servers following hack",
+      "link": "https://www.theverge.com/news/850551/ubisoft-shuts-down-rainbow-six-siege-servers-following-hack",
+      "summary": "Yesterday, Ubisoft confirmed that Rainbow Six Siege had been compromised and that it had shut down the game's servers and marketplace while it resolved the issue. The hackers managed to gain control over a significant chunk of the game's systems, including the ability to ban and unban users, sending custom messages to ban ticker, unlocking [&#8230;]",
+      "published": "2025-12-28T16:42:07+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "ca0399485bcec8f6bc6558ea4234af0cbead008e",
+      "title": "Brazil's Bolsonaro undergoes medical treatment for hiccups",
+      "link": "https://www.bbc.com/news/articles/c3r7ge7937qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 70-year-old had suffered with the spasms for nine months, his wife says, and was already in hospital for hernia surgery.",
+      "published": "2025-12-28T16:41:45+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "cbb56f9fc306841a5112e13eb43b2325b74a1257",
+      "title": "MayimFlow wants to stop data center leaks before they happen",
+      "link": "https://techcrunch.com/2025/12/28/mayimflow-wants-to-stop-data-center-leaks-before-they-happen/",
+      "summary": "Leaks cause damage, down time, and cost money. MayimFlow's founder John Khazraee wants to change that.",
+      "published": "2025-12-28T16:30:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "29539f0a5e1e5a426904a1b97a7b79fb3fcafe7c",
       "title": "Bangladesh&#039;s student-led party allies with Islamists ahead of election",
@@ -491,15 +518,6 @@
       "category": "tech"
     },
     {
-      "id": "706820ad9902bcb349703c75acd84eb8d4880cfb",
-      "title": "Zelensky says Russia 'doesn't want peace' ahead of meeting Trump in Florida",
-      "link": "https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pair are expected to discuss territorial concessions and security guarantees during the negotiations.",
-      "published": "2025-12-28T05:53:06+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "47857adebd92f71649ce74913ec910bf5178442a",
       "title": "Sources: ~90% of Groq employees will join Nvidia and be paid cash for all vested shares; most shareholders will get per-share payouts tied to the $20B valuation (Dan Primack/Axios)",
       "link": "http://www.techmeme.com/251228/p2#a251228p2",
@@ -633,15 +651,6 @@
       "published": "2025-12-27T23:00:00+00:00",
       "source": "The Verge",
       "category": "tech"
-    },
-    {
-      "id": "8a3cfb0d8115cee5f6327685173436cd4ca59266",
-      "title": "UK restricts DR Congo visas over migrant return policy",
-      "link": "https://www.bbc.com/news/articles/c5y21xlxng2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Home Office says Kinshasa has failed to agree to measures allowing the return of illegal immigrants and foreign national offenders.",
-      "published": "2025-12-27T22:35:46+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "ce8ba7d3a97cf0ba26bca4c32c54ca5c05872a20",
@@ -968,6 +977,15 @@
       "category": "deals"
     },
     {
+      "id": "c0eb4ea1db5d9443e90f4b46dc35eb46d9aa6530",
+      "title": "One general, one mathematician: The men competing for power in two African elections",
+      "link": "https://www.bbc.com/news/articles/cpwk9grv290o?at_medium=RSS&at_campaign=rss",
+      "summary": "The leaders of Guinea and the Central African Republic aim to consolidate power after Sunday's polls.",
+      "published": "2025-12-27T00:57:52+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "9b045929c477b0ee43f98d605ed10568cd63c136",
       "title": "How reality crushed Ÿnsect, the French startup that had raised over $600M for insect farming",
       "link": "https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/",
@@ -1148,15 +1166,6 @@
       "category": "events"
     },
     {
-      "id": "2538254c72e4dcaeb7bf22013c75e2e859f8ad59",
-      "title": "Google is letting some people change their @gmail address",
-      "link": "https://www.theverge.com/news/850237/google-change-your-gmail-address",
-      "summary": "If you've been saddled with some awful Gmail address you chose in high school (looking at you, LazySexyCool3030), help appears to be on the way. According to a Google account support page in Hindi the company is allowing some people to change their email address. According to the page (via Google Translate): If your Google [&#8230;]",
-      "published": "2025-12-26T15:41:48+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "5b3c0e0d81ed204e163d18b4fae48a6123d8ada0",
       "title": "The 9 top cybersecurity startups from Disrupt Startup Battlefield",
       "link": "https://techcrunch.com/2025/12/26/the-9-top-cybersecurity-startups-from-disrupt-startup-battlefield/",
@@ -1191,15 +1200,6 @@
       "published": "2025-12-26T14:02:23+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "13ce5cd4837ebb73ae5076bec4144c6dc7cd27c6",
-      "title": "These are the cybersecurity stories we were jealous of in 2025",
-      "link": "https://techcrunch.com/2025/12/26/these-are-the-cybersecurity-stories-we-were-jealous-of-in-2025/",
-      "summary": "The very best reporting and investigative journalism from our friends at other publications.",
-      "published": "2025-12-26T14:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "df8db71bf383a760e95c510f7f5e27a050e3e066",
