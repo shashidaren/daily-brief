@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-01-10T21:13:31.158893+00:00",
+  "generatedAt": "2026-01-10T22:14:08.599483+00:00",
   "counts": {
     "total": 175
   },
   "items": [
     {
+      "id": "c5a2350413fd80ceca8c0b8f61bc03ff98425653",
+      "title": "SpaceX gets FCC approval to launch 7,500 more Starlink satellites",
+      "link": "https://techcrunch.com/2026/01/10/spacex-gets-fcc-approval-to-launch-7500-more-starlink-satellites/",
+      "summary": "The Federal Communications Commission has given SpaceX approval to launch another 7,500 of its second generation Starlink satellites.",
+      "published": "2026-01-10T22:11:21+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "8db82bb199b19a9bb117774a9f210f378a838357",
+      "title": "Musk says he&#8217;s going to open-source the new X algorithm next week",
+      "link": "https://www.theverge.com/news/860294/elon-musk-open-source-x-algorithm",
+      "summary": "In 2023, what was then still called Twitter, open-sourced at least portions of the code that decided what it served up in your feed. But that GitHub repository is hopelessly out of date, with the vast majority of the files appearing to be from the initial upload three years ago. Elon Musk says that in [&#8230;]",
+      "published": "2026-01-10T21:57:35+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "ea5a56e70663a5aa77efcb51dd43810bb8e8e3bf",
+      "title": "These are the smart home gadgets that impressed me at CES 2026",
+      "link": "https://www.theverge.com/tech/860241/best-smart-home-devices-ces-2026-matter-ikea-aqara-amazon",
+      "summary": "I picked Aqara's Smart Lock U400 and Roborock's Saros Rover robot vacuum as the overall best smart home gadgets from CES 2026, but there were gazillions of other great gadgets on the show floor. It was a banner year for smart home products, but the big trends I saw weren't about new product categories; they [&#8230;]",
+      "published": "2026-01-10T21:30:17+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "b0462525062b1b4d5959462b76a1c3108d75123b",
+      "title": "OpenAI is reportedly asking contractors to upload real work from past jobs",
+      "link": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
+      "summary": "An intellectual property lawyer says OpenAI is \"putting itself at great risk\" with this approach.",
+      "published": "2026-01-10T21:18:29+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
       "id": "50ec8164c920e585365ddca2266924d59bbf01f2",
       "title": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
       "link": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Health workers in Tehran report being overwhelmed by injured on Friday night as security forces and demonstrators clash.",
+      "summary": "Hundreds of people are believed to have been killed and injured by the security forces, with more than 70 bodies brought to one hospital.",
       "published": "2026-01-10T21:12:03+00:00",
       "source": "BBC News",
       "category": "world"
@@ -365,15 +401,6 @@
       "category": "tech"
     },
     {
-      "id": "5924b4238faa6b8e7f658c4db1ae910059c9a001",
-      "title": "A charity speedrunning event has turned into a perfect showcase for smaller games",
-      "link": "https://www.theverge.com/games/859891/awesome-games-done-quick-2026-indie-games-small-saga",
-      "summary": "Games Done Quick, the biannual charity speedrunning event currently going on right now, not only helps organizations like the Prevent Cancer Foundation and Doctors Without Borders - it helps indie games get noticed, too. Indie game developers face an incredible uphill battle not only getting their projects funded, completed, and launched, but discovered as well. [&#8230;]",
-      "published": "2026-01-10T13:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "e4788f90f8ed4c94715ad84205978008318418b4",
       "title": "9to5Toys Steals Weekly – Philips Hue Wall Tap, wall charger and power bank combo, rugged Apple Watch band, more",
       "link": "https://9to5toys.com/2026/01/10/steals-weekly-jan-10/",
@@ -482,10 +509,10 @@
       "category": "world"
     },
     {
-      "id": "6966874663e71c8adfdb19734fa105a61a1021ea",
-      "title": "Stack Overflow recorded just 6,866 questions in Dec. 2025, about the same monthly volume as in 2008; annual revenue has risen ~2x to $115M since ChatGPT's debut (Claire Yubin Oh/Sherwood News)",
+      "id": "672f473961dce4b344bb9c11ca047a4ce5fa59ef",
+      "title": "Stack Overflow's monthly question volume in Dec. 2025 sank to 2008 levels; revenue has doubled since ChatGPT's debut driven by enterprise tools and AI licensing (Claire Yubin Oh/Sherwood News)",
       "link": "http://www.techmeme.com/260110/p7#a260110p7",
-      "summary": "<a href=\"https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260110/i7.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260110/p7#a260110p7\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Claire Yubin Oh / <a href=\"https://sherwood.news/\">Sherwood News</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/\">Stack Overflow recorded just 6,866 questions in Dec. 2025, about the same monthly volume as in 2008; annual revenue has risen ~2x to $115M since ChatGPT's debut</a></b></span>&nbsp; &mdash;&nbsp; The platform is raking in millions of dollars in revenue, with AI an ironic new source of revenue.</p>",
+      "summary": "<a href=\"https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260110/i7.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260110/p7#a260110p7\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Claire Yubin Oh / <a href=\"https://sherwood.news/\">Sherwood News</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/\">Stack Overflow's monthly question volume in Dec. 2025 sank to 2008 levels; revenue has doubled since ChatGPT's debut driven by enterprise tools and AI licensing</a></b></span>&nbsp; &mdash;&nbsp; The platform is raking in millions of dollars in revenue, with AI an ironic new source of revenue.</p>",
       "published": "2026-01-10T11:35:01+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -722,15 +749,6 @@
       "summary": "<a href=\"https://arstechnica.com/tech-policy/2026/01/cloudflare-may-pull-servers-out-of-italy-over-order-that-it-block-pirate-sites/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260109/i27.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260109/p27#a260109p27\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jon Brodkin / <a href=\"http://arstechnica.com/\">Ars Technica</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://arstechnica.com/tech-policy/2026/01/cloudflare-may-pull-servers-out-of-italy-over-order-that-it-block-pirate-sites/\">Italy fines Cloudflare &euro;14.2M for refusing to block pirate sites on its 1.1.1.1 DNS service; CEO Matthew Prince says he will discuss it with US officials</a></b></span>&nbsp; &mdash;&nbsp; Italy fined Cloudflare 14.2 million euros for refusing to block access to pirate sites on its 1.1.1.1 DNS service &hellip; </p>",
       "published": "2026-01-10T01:30:00+00:00",
       "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "d8625564506e0e5db03ed7159462d94d72057594",
-      "title": "Betterment&#8217;s financial app sends customers a $10,000 crypto scam message",
-      "link": "https://www.theverge.com/news/860106/betterment-crypto-scam-notification",
-      "summary": "Betterment, a financial app, sent a sketchy-looking notification on Friday asking users to send $10,000 to Bitcoin and Ethereum crypto wallets and promising to \"triple your crypto,\" according to a thread on Reddit. The Betterment account says in an X thread that this was an \"unauthorized message\" that was sent via a \"third-party system.\" Here's [&#8230;]",
-      "published": "2026-01-10T01:14:20+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -1418,24 +1436,6 @@
       "category": "tech"
     },
     {
-      "id": "24e523aac34de181ecd0b149641796cbc6152249",
-      "title": "Anduril’s Palmer Luckey thinks the future of tech is in the past",
-      "link": "https://techcrunch.com/2026/01/08/andurils-palmer-luckey-thinks-the-future-of-tech-is-in-the-past/",
-      "summary": "Luckey, who initially made his fortune in VR and now runs the defense contractor Anduril, and Ohanian both seemed to agree: Stuff was better in the old days.",
-      "published": "2026-01-08T18:05:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "05c01f4b0a9e44f73d87690a94b41e2c50f24fcb",
-      "title": "Disney+ is launching short-form videos this year",
-      "link": "https://techcrunch.com/2026/01/08/disney-is-launching-short-form-videos-this-year/",
-      "summary": "The move comes as Disney launched a personalized vertical video feed in the ESPN app last year.",
-      "published": "2026-01-08T17:59:45+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "8cf924a8db831d8461792c973f5ecca24714df5b",
       "title": "Owl Browser",
       "link": "https://www.producthunt.com/products/owl-browser",
@@ -1508,6 +1508,15 @@
       "category": "malaysia"
     },
     {
+      "id": "9eeab17064a3d7662e1d1384a7eaab02e5eeca00",
+      "title": "Montella",
+      "link": "https://www.producthunt.com/products/montella",
+      "summary": "<p>\n            Everything is a project. Plan it like one.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/montella?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1059881?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-01-07T22:05:23+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "d7cc7b77a581d28a494b474f5819145f47806b91",
       "title": "HtmlDrag",
       "link": "https://www.producthunt.com/products/htmldrag",
@@ -1567,15 +1576,6 @@
       "link": "https://www.producthunt.com/products/seorce",
       "summary": "<p>\n            See where your brand is discovered and fix what blocks it\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/seorce?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1053497?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-23T07:23:25+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "1be9c94290a8b5ce9663edcdf2e1c4d248df8d27",
-      "title": "Sloggo",
-      "link": "https://www.producthunt.com/products/sloggo",
-      "summary": "<p>\n            Minimal syslog collector and viewer based on DuckDB\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sloggo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1052557?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-20T17:09:52+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
