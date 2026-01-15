@@ -1,9 +1,306 @@
 {
-  "generatedAt": "2026-01-15T10:17:42.567429+00:00",
+  "generatedAt": "2026-01-15T11:15:22.814662+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "ce3700b2b9dd06d6c23718e829dc2f6ecef6ce79",
+      "title": "OpenAI’s ChatGPT translator challenges Google Translate",
+      "link": "https://www.theverge.com/news/862448/openai-chatgpt-translate-tool-launch-website",
+      "summary": "OpenAI has launched ChatGPT Translate, a standalone web translation tool that supports over 50 languages and is positioned as a direct competitor to Google Translate. The two services look visually similar: both feature two text boxes - one for typing or pasting the source text, and another that displays the translated results - alongside dropdown [&#8230;]",
+      "published": "2026-01-15T11:13:45+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "84739f2c90c028b08ec838f18cfec16020865852",
+      "title": "Redmi Buds 8 Lite Lands In Malaysia For RM79",
+      "link": "https://www.lowyat.net/2026/378696/redmi-buds-8-lite/",
+      "summary": "<p>In addition to the Redmi Note 15 lineup, Xiaomi launched the Redmi Buds 8 Lite under its Redmi sub-brand. According to the company, the entry-level earbuds offer practicality, with fast charging and durability as some of the highlights. The buds are equipped with 12.4mm titanium-diaphragm drivers to deliver a balanced and detailed sound. Moreover, they [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/378696/redmi-buds-8-lite/\">Redmi Buds 8 Lite Lands In Malaysia For RM79</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-01-15T11:12:18+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "9ce3b5b5cc0e041ea7d4197fed26e234f9c2ff72",
+      "title": "Self-help gurus like Tony Robbins, Gabby Bernstein, and Matthew Hussey are charging up to $99 per month to access AI chatbots that promise personalized advice (Sara Ashley O'Brien/Wall Street Journal)",
+      "link": "http://www.techmeme.com/260115/p20#a260115p20",
+      "summary": "<a href=\"https://www.wsj.com/style/ai-self-help-chat-bots-tony-robbins-gabby-bernstein-0cf8b3b0?st=mJPksS&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260115/i20.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260115/p20#a260115p20\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sara Ashley O'Brien / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/style/ai-self-help-chat-bots-tony-robbins-gabby-bernstein-0cf8b3b0?st=mJPksS&amp;reflink=desktopwebshare_permalink\">Self-help gurus like Tony Robbins, Gabby Bernstein, and Matthew Hussey are charging up to $99 per month to access AI chatbots that promise personalized advice</a></b></span>&nbsp; &mdash;&nbsp; Self-help gurus like Matthew Hussey and Gabby Bernstein have expanded their empires with AI chatbots promising personalized advice</p>",
+      "published": "2026-01-15T11:10:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "fcca71a1d60d68f3360a66e8cf50eac92ea00b19",
+      "title": "MACC to meet Mindef next week to address governance and corruption issues",
+      "link": "https://www.malaymail.com/news/malaysia/2026/01/15/macc-to-meet-mindef-next-week-to-address-governance-and-corruption-issues/205567",
+      "summary": "PUTRAJAYA, Jan 15 &mdash; The Malaysian Anti-Corruption Commission (MACC) will hold a meeting with the Ministry of Defen...",
+      "published": "2026-01-15T11:09:55+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "4f771d7140e9a24333a909f3542a336420f9df4a",
+      "title": "Tokyo eviction turns deadly as man stabs two, killing one",
+      "link": "https://www.malaymail.com/news/world/2026/01/15/tokyo-eviction-turns-deadly-as-man-stabs-two-killing-one/205566",
+      "summary": "TOKYO, Jan 15 &mdash; A man was arrested Thursday for allegedly stabbing two men, one of them fatally, who had come to h...",
+      "published": "2026-01-15T11:08:14+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "dabcac35280ce98a88861b14a605ad09e17b1b33",
+      "title": "Ringgit slips as stronger US dollar pressures local and regional currencies",
+      "link": "https://www.malaymail.com/news/money/2026/01/15/ringgit-slips-as-stronger-us-dollar-pressures-local-and-regional-currencies/205565",
+      "summary": "KUALA LUMPUR, Jan 15 &mdash; The ringgit closed lower on Thursday as the US dollar strengthened against other major curr...",
+      "published": "2026-01-15T11:05:36+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "f1cfbf831304304f5327e2bc2ae050517ab97086",
+      "title": "Cops arrest three in KL, Selangor raids, bust syndicate posing as Bukit Aman officers in RM70,000 phone scam",
+      "link": "https://www.malaymail.com/news/malaysia/2026/01/15/cops-arrest-three-in-kl-selangor-raids-bust-syndicate-posing-as-bukit-aman-officers-in-rm70000-phone-scam/205563",
+      "summary": "KUALA LUMPUR, Jan 15 &mdash; Police have crippled a phone scam syndicate that impersonated senior police officers follow...",
+      "published": "2026-01-15T11:05:25+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "3d390e249205ddd71b12e7edd24362e6b6b5ca34",
+      "title": "Apple Watch Ultra 2 up to $369 off the orig. price today (Refurb), or up to $250 off new",
+      "link": "https://9to5toys.com/2026/01/15/apple-watch-ultra-2-sale/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Apple-Watch-Ultra-2-deals.jpg?quality=82&#038;strip=all&#038;w=1500\" /></div><p>Over at Woot this morning you’ll find a <a href=\"https://howl.link/jvw2fi6h9faod\">new Apple Watch sale event</a> featuring some deep discounts on refurbished units. Apple Watch Ultra 2 can still fetch its full $799 price despite being available at closer to $200+ off at the moment, but at Woot you’ll find both the Natural and Black variants <a href=\"https://howl.link/x5o4ms87xm4rg\">sitting at <strong>$369 off </strong></a>the original new prices today. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/01/15/apple-watch-ultra-2-sale/#more-1187913\">more…</a>",
+      "published": "2026-01-15T11:03:30+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "33814e4b8661d68b0a4ae581d49145c71a556fea",
+      "title": "ASML hits a $500B+ market cap for the first time, the third European company to reach the milestone, after TSMC reported strong earnings; ASML is up 24% YTD (Bloomberg)",
+      "link": "http://www.techmeme.com/260115/p19#a260115p19",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-01-15/asml-soars-beyond-500-billion-value-after-tsmc-s-upbeat-outlook\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260115/i19.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260115/p19#a260115p19\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-01-15/asml-soars-beyond-500-billion-value-after-tsmc-s-upbeat-outlook\">ASML hits a $500B+ market cap for the first time, the third European company to reach the milestone, after TSMC reported strong earnings; ASML is up 24% YTD</a></b></span>&nbsp; &mdash;&nbsp; ASML Holding NV shares soared to a record high, sending its market value beyond $500 billion, after its key customer Taiwan &hellip; </p>",
+      "published": "2026-01-15T11:01:28+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "71cfc409bb5d3541805c9f918d083505a5997d08",
+      "title": "Petronas court bid is institutional due diligence, not hostility to Sarawak, says ex-Treasury official",
+      "link": "https://www.malaymail.com/news/malaysia/2026/01/15/petronas-court-bid-is-institutional-due-diligence-not-hostility-to-sarawak-says-ex-treasury-official/205561",
+      "summary": "KUALA LUMPUR, Jan 15 &mdash; Former senior Treasury official Nik Azmi Nik Daud has defended Petronas&rsquo;s decision to...",
+      "published": "2026-01-15T10:53:02+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "a08e871a1d23d199bcc20ee3f2770b79b7641448",
+      "title": "WitnessAI, which intercepts employees' custom GenAI models usage and applies safeguards, raised $58M led by Sound Ventures, taking its total funding to $85M (Ionut Arghire/SecurityWeek)",
+      "link": "http://www.techmeme.com/260115/p18#a260115p18",
+      "summary": "<a href=\"https://www.securityweek.com/witnessai-raises-58-million-for-ai-security-platform/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260115/i18.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260115/p18#a260115p18\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ionut Arghire / <a href=\"https://www.securityweek.com/\">SecurityWeek</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.securityweek.com/witnessai-raises-58-million-for-ai-security-platform/\">WitnessAI, which intercepts employees' custom GenAI models usage and applies safeguards, raised $58M led by Sound Ventures, taking its total funding to $85M</a></b></span>&nbsp; &mdash;&nbsp; The company will use the fresh investment to accelerate its global go-to-market and product expansion.</p>",
+      "published": "2026-01-15T10:50:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "c7f9e34a2f352f34904a085a6a429eddbc9603c7",
+      "title": "Man killed as vehicle plunges six metres into ravine in Kapit",
+      "link": "https://www.malaymail.com/news/malaysia/2026/01/15/man-killed-as-vehicle-plunges-six-metres-into-ravine-in-kapit/205559",
+      "summary": "KAPIT, Jan 15 &mdash; A 60-year-old man was killed after the vehicle he was travelling in plunged into a ravine about si...",
+      "published": "2026-01-15T10:45:45+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "5efcf559ea341cf04e2cf21634b1f836185e14c5",
+      "title": "Reasons to believe Russia behind cyberattack on Polish power system, PM says",
+      "link": "https://www.thestar.com.my/news/world/2026/01/15/reasons-to-believe-russia-behind-cyberattack-on-polish-power-system-pm-says",
+      "summary": "WARSAW, Jan 15 (Reuters) - ‌There are strong reasons to ‌believe a group connected to Russian ‌secret services was behind a December cyberattack on Poland's energy infrastructure, Polish Prime Minister Donald ‍Tusk said on Thursday. <a href=\"https://www.thestar.com.my/news/world/2026/01/15/reasons-to-believe-russia-behind-cyberattack-on-polish-power-system-pm-says\">Read full story</a>",
+      "published": "2026-01-15T10:45:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "9e6c7cceb5d95e827fb9d00b130a62006a73ccdd",
+      "title": "Kremlin says Trump is right about Zelenskiy holding up a peace deal in Ukraine",
+      "link": "https://www.thestar.com.my/news/world/2026/01/15/kremlin-says-trump-is-right-about-zelenskiy-holding-up-a-peace-deal-in-ukraine",
+      "summary": "MOSCOW, Jan 15 (Reuters) - The Kremlin said ‌on Thursday that Russia agreed with U.S. President Donald Trump that it was ‌Ukrainian President Volodymyr Zelenskiy, not Russia, who was holding up a potential peace ‌deal to end the war in Ukraine. <a href=\"https://www.thestar.com.my/news/world/2026/01/15/kremlin-says-trump-is-right-about-zelenskiy-holding-up-a-peace-deal-in-ukraine\">Read full story</a>",
+      "published": "2026-01-15T10:44:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "982fc918be0ab168a2bfe85abd9f48955d8c7fdc",
+      "title": "Cops detain three for suspected murder in Sibu",
+      "link": "https://www.thestar.com.my/news/nation/2026/01/15/cops-detain-three-for-suspected-murder-in-sibu",
+      "summary": "SIBU: Three local men aged between 27 and 31 have been arrested to assist investigations into the murder of a foreign national, believed to have resulted from a fight at a hotel here early Thursday (Jan 15). <a href=\"https://www.thestar.com.my/news/nation/2026/01/15/cops-detain-three-for-suspected-murder-in-sibu\">Read full story</a>",
+      "published": "2026-01-15T10:44:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "3d9dd5fae3dcac8bfc157e651b93d270b0bc2c53",
+      "title": "Zelensky declares energy emergency as biting cold persists",
+      "link": "https://www.bbc.com/news/articles/cq6vm677z76o?at_medium=RSS&at_campaign=rss",
+      "summary": "The move comes as US President Donald Trump said Ukraine is \"less ready\" than the Russian president to make a peace deal.",
+      "published": "2026-01-15T10:41:04+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "677428a3288ab0ed83a5596e9b30b0be0f217ba6",
+      "title": "Xiaomi Launches Mijia Smart Audio Glasses In Malaysia; Priced From RM799",
+      "link": "https://www.lowyat.net/2026/378612/xiaomi-launches-mijia-smart-audio-glasses-in-malaysia/",
+      "summary": "<p>It has been some time since we last heard about the Mijia Smart Audio Glasses, Xiaomi’s audio-focused eyewear accessory. As such, it comes as a pleasant surprise that the company is now bringing the latest incarnation of wearable to the Malaysian market, alongside the Redmi Note 15 series. For those unaware, the original Smart Audio [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/378612/xiaomi-launches-mijia-smart-audio-glasses-in-malaysia/\">Xiaomi Launches Mijia Smart Audio Glasses In Malaysia; Priced From RM799</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-01-15T10:40:02+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "103a3f6fae826ece1a2900d3b9f0883adc544774",
+      "title": "The Wikimedia Foundation says Microsoft, Meta, Amazon, Perplexity, and Mistral joined Wikimedia Enterprise to get \"tuned\" API access; Google is already a member (Emma Roth/The Verge)",
+      "link": "http://www.techmeme.com/260115/p17#a260115p17",
+      "summary": "<a href=\"https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260115/i17.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260115/p17#a260115p17\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Emma Roth / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation\">The Wikimedia Foundation says Microsoft, Meta, Amazon, Perplexity, and Mistral joined Wikimedia Enterprise to get &ldquo;tuned&rdquo; API access; Google is already a member</a></b></span>&nbsp; &mdash;&nbsp; The companies have joined Google as the latest members of the Wikimedia Enterprise program.</p>",
+      "published": "2026-01-15T10:40:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "6140acde88ff39f6131403da013f1fc946f6e463",
+      "title": "Redmi Note 15 Pro series now official in Malaysia: Dimensity 7400 Ultra SoC, 200MP camera, IP69K water resistance, priced from RM1,399",
+      "link": "https://soyacincau.com/2026/01/15/redmi-note-15-pro-5g-series-launch-price-specs-malaysia/",
+      "summary": "The latest Redmi Note 15 series of smartphones has made its official launch in Malaysia. There are a total of four devices being offered in Malaysia, but we will be focusing on the Pro models — specifically the Redmi Note 15 Pro 5G and Note 15 Pro+ 5G in this story. For details on the [&#8230;]",
+      "published": "2026-01-15T10:39:02+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "5a84da3a99c32f499e881baa149f887a5a1dee0d",
+      "title": "Singapore, Indonesia join forces to tighten pharmaceutical and clinical trial oversight in Asean",
+      "link": "https://www.malaymail.com/news/singapore/2026/01/15/singapore-indonesia-join-forces-to-tighten-pharmaceutical-and-clinical-trial-oversight-in-asean/205558",
+      "summary": "JAKARTA, Jan 15 &mdash; Indonesia&rsquo;s Food and Drug Authority (BPOM) has formalised cooperation with Singapore&amp;rsquo...",
+      "published": "2026-01-15T10:38:44+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "597ae42deeabae14921c1f43e6864fe8002d7676",
+      "title": "Watch: Astronauts return to Earth after medical evacuation",
+      "link": "https://www.bbc.com/news/videos/c89q0y5xd79o?at_medium=RSS&at_campaign=rss",
+      "summary": "Four astronauts who left the International Space Station (ISS) a month early due to one of the crew members falling ill have returned to Earth on Thursday.",
+      "published": "2026-01-15T10:38:41+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "7cad0cbca4d21cfd21a48616f137bd7d228186a5",
+      "title": "Widespread delays hit Uganda election amid internet shutdown",
+      "link": "https://www.bbc.com/news/articles/cx2xn1yvgr4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The election is a rematch between Bobi Wine and Yoweri Museveni, who has been president for 40 years.",
+      "published": "2026-01-15T10:36:21+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "abbccaea5a844efb4b606a889cd2c357f564a055",
+      "title": "Wanita Umno wants URA bill halted pending assurances for residents, owners",
+      "link": "https://www.thestar.com.my/news/nation/2026/01/15/wanita-umno-wants-ura-bill-halted-pending-assurances-for-residents-owners",
+      "summary": "KUALA LUMPUR: The proposed 2025 Urban Renewal Bill must be postponed until it undergoes proper and comprehensive revisions that take public and property owners' feedback into account, says a Wanita Umno delegate. <a href=\"https://www.thestar.com.my/news/nation/2026/01/15/wanita-umno-wants-ura-bill-halted-pending-assurances-for-residents-owners\">Read full story</a>",
+      "published": "2026-01-15T10:36:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "f4219b46c24d62592cc68f85016705869fafedb9",
+      "title": "Yield Sec: the top 10 pirate sports streaming sites in the UK, largely funded by ads from unlicensed gambling operators, had 1.6B views in H1 2025, up 33% YoY (Olivia Solon/Bloomberg)",
+      "link": "http://www.techmeme.com/260115/p16#a260115p16",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-01-15/illegal-sports-streaming-in-uk-soared-33-in-first-half-of-2025\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260115/i16.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260115/p16#a260115p16\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Olivia Solon / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-01-15/illegal-sports-streaming-in-uk-soared-33-in-first-half-of-2025\">Yield Sec: the top 10 pirate sports streaming sites in the UK, largely funded by ads from unlicensed gambling operators, had 1.6B views in H1 2025, up 33% YoY</a></b></span>&nbsp; &mdash;&nbsp; Illegal sports streaming is surging in the UK, fueled by sites that are largely funded by advertising from unlicensed gambling operators &hellip; </p>",
+      "published": "2026-01-15T10:30:05+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "8d0d97f00b75c922653e9cad3afcbc5d84b11e8b",
+      "title": "US pressing Mexico to allow US forces to fight cartels, NYT reports",
+      "link": "https://www.thestar.com.my/news/world/2026/01/15/us-pressing-mexico-to-allow-us-forces-to-fight-cartels-nyt-reports",
+      "summary": "Jan 15 (Reuters) - The ‌United States is intensifying pressure on Mexico to ‌allow U.S. military forces to conduct joint operations ‌to dismantle fentanyl labs inside the country, the New York Times reported on Thursday, citing U.S. officials. <a href=\"https://www.thestar.com.my/news/world/2026/01/15/us-pressing-mexico-to-allow-us-forces-to-fight-cartels-nyt-reports\">Read full story</a>",
+      "published": "2026-01-15T10:30:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "0aeb1432049e4ac3601526493b236ed8abf51293",
+      "title": "New IMF mission chief to visit to Senegal next week",
+      "link": "https://www.thestar.com.my/news/world/2026/01/15/new-imf-mission-chief-to-visit-to-senegal-next-week",
+      "summary": "DAKAR, Jan ‌15 - The International Monetary Fund's new mission chief for ‌Senegal will make a short trip to the ‌West African nation early next week, an IMF spokesperson said, but no substantive negotiations are expected. <a href=\"https://www.thestar.com.my/news/world/2026/01/15/new-imf-mission-chief-to-visit-to-senegal-next-week\">Read full story</a>",
+      "published": "2026-01-15T10:30:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "166a36b2514ee9a60fe9645760737e494d7f430c",
+      "title": "Bargain buying in banks lifts Bursa Malaysia to levels unseen since 2019",
+      "link": "https://www.malaymail.com/news/money/2026/01/15/bargain-buying-in-banks-lifts-bursa-malaysia-to-levels-unseen-since-2019/205557",
+      "summary": "KUALA LUMPUR, Jan 15 &mdash; Bargain hunting in heavyweight financial services counters lifted Bursa Malaysia&rsquo;s be...",
+      "published": "2026-01-15T10:26:57+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "607962a29f92e33ac81c4bd0e86e881907bb28ac",
+      "title": "Owner of &#039;gay-friendly&#039; hotel in Melaka meets with authorities",
+      "link": "https://www.thestar.com.my/news/nation/2026/01/15/owner-of-039gay-friendly039-hotel-in-melaka-meets-with-authorities",
+      "summary": "PETALING JAYA: The owner of a so-called \"gay-friendly\" hotel in Melaka has given his statement at the Hang Tuah Jaya Municipal Council (MPHTJ). <a href=\"https://www.thestar.com.my/news/nation/2026/01/15/owner-of-039gay-friendly039-hotel-in-melaka-meets-with-authorities\">Read full story</a>",
+      "published": "2026-01-15T10:26:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "3d38e606b3f29bc9187b897c94cb6a76011bd9dd",
+      "title": "Federal agent shoots Minneapolis man in leg after attack, officials say",
+      "link": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The agent was acting in self-defence after being attacked with a shovel, said the Department of Homeland Security.",
+      "published": "2026-01-15T10:22:45+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "4710c98ce0f04528580e3084dda259ef227a4f11",
+      "title": "South Korea’s exam obsession fuels millions in bribes, prison for stolen papers",
+      "link": "https://www.malaymail.com/news/world/2026/01/15/south-koreas-exam-obsession-fuels-millions-in-bribes-prison-for-stolen-papers/205556",
+      "summary": "SEOUL, Jan 15 &mdash; In South Korea, the race for top exam scores has become a high-stakes gamble, with bribery and the...",
+      "published": "2026-01-15T10:22:34+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "811867327451eba84ea6a49af706357a15abcb0e",
+      "title": "Immigration officer among eight held over illegal passport syndicate",
+      "link": "https://www.thestar.com.my/news/nation/2026/01/15/immigration-officer-among-eight-held-over-illegal-passport-syndicate",
+      "summary": "KUALA LUMPUR: Eight locals, including an Immigration Department officer, have been arrested in an operation to dismantle a syndicate involved in illegally obtaining Malaysian passports. <a href=\"https://www.thestar.com.my/news/nation/2026/01/15/immigration-officer-among-eight-held-over-illegal-passport-syndicate\">Read full story</a>",
+      "published": "2026-01-15T10:22:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "2d11012c69c7e500d4d3f06abe5895d5150121bc",
+      "title": "Redmi Note 15 series launched in Malaysia: 6,000mAh battery, 108MP camera, 4-year major OS updates, priced from RM799",
+      "link": "https://soyacincau.com/2026/01/15/redmi-note-15-series-price-specs-launch-malaysia/",
+      "summary": "Xiaomi Malaysia has launched the latest-gen Redmi Note 15 series. A total of four models are offered in Malaysia, but we will be focusing on the non-Pro Redmi Note 15 4G and the Redmi Note 15 5G. For details on the Redmi Note 15 Pro series, you may check them out here. Redmi Note 15 [&#8230;]",
+      "published": "2026-01-15T10:20:51+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "99dd41a6d59e536928f94bba8c0f74e344690cac",
+      "title": "The Kodak Charmera Is A Reminder To Just Enjoy The Little Things",
+      "link": "https://www.lowyat.net/2026/378631/kodak-charmera-is-a-reminder-to-just-enjoy-the-little-things/",
+      "summary": "<p>When it was first introduced last year, the Kodak Charmera took the world by storm, attracting photography enthusiasts and casual users alike. What&#8217;s more, it was sold out almost immediately, prompting most to wait for a restock or, god forbid, cave to scalper prices. Adding to the intrigue is the fact that it’s a blind [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/378631/kodak-charmera-is-a-reminder-to-just-enjoy-the-little-things/\">The Kodak Charmera Is A Reminder To Just Enjoy The Little Things</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-01-15T10:19:56+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
     {
       "id": "04e534013f6af686bd52cb7bf1bf7da7883eb0ff",
       "title": "HELP University backs PM’s call for swift probe into campus cafeteria blast",
@@ -23,6 +320,15 @@
       "category": "tech"
     },
     {
+      "id": "159d5a196d1f87cba4621fe57e1f0e33aba25430",
+      "title": "Beware of fake news articles spoofing The Star",
+      "link": "https://www.thestar.com.my/news/nation/2026/01/15/beware-of-fake-news-articles-spoofing-the-star",
+      "summary": "Star Media Group Berhad, which publishes The Star print products and online portal, refers to a site misusing The Star's brand identity. <a href=\"https://www.thestar.com.my/news/nation/2026/01/15/beware-of-fake-news-articles-spoofing-the-star\">Read full story</a>",
+      "published": "2026-01-15T10:15:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
       "id": "e5bab4a7cb1bb352da19067636e8cdb74a3e8bec",
       "title": "Ethiopia accuses Eritrea of arming rebels in escalating war of words",
       "link": "https://www.thestar.com.my/news/world/2026/01/15/ethiopia-accuses-eritrea-of-arming-rebels-in-escalating-war-of-words",
@@ -38,15 +344,6 @@
       "summary": "KUALA LUMPUR, Jan 15 &mdash; Professional mixed doubles pair, Goh Soon Huat&ndash;Shevon Jemie Lai advanced to the quart...",
       "published": "2026-01-15T10:09:28+00:00",
       "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "31d00bff3e27492287cd5a812afa0e76f0e9fdf4",
-      "title": "SpaceX capsule with four astronauts, one ailing, splashes down safely off California",
-      "link": "https://www.thestar.com.my/news/world/2026/01/15/spacex-capsule-with-four-astronauts-one-ailing-splashes-down-safely-off-california",
-      "summary": "(Corrects day of week to Thursday ‌in first paragraph) <a href=\"https://www.thestar.com.my/news/world/2026/01/15/spacex-capsule-with-four-astronauts-one-ailing-splashes-down-safely-off-california\">Read full story</a>",
-      "published": "2026-01-15T10:06:00+00:00",
-      "source": "The Star : News Feed",
       "category": "malaysia"
     },
     {
@@ -77,24 +374,6 @@
       "category": "deals"
     },
     {
-      "id": "4010137c30966afe0dad5c56e9d34d4c61b51910",
-      "title": "Iran protests show bitter schism among exiled opposition factions",
-      "link": "https://www.thestar.com.my/news/world/2026/01/15/iran-protests-show-bitter-schism-among-exiled-opposition-factions",
-      "summary": "PARIS, Jan 15 (Reuters) - Huge protests in Iran have galvanised exiled foes of ‌the authorities but despite their hatred of the ruling clerics, a bitter schism dating to before the 1979 Islamic Revolution still afflicts the leading opposition factions. <a href=\"https://www.thestar.com.my/news/world/2026/01/15/iran-protests-show-bitter-schism-among-exiled-opposition-factions\">Read full story</a>",
-      "published": "2026-01-15T10:00:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "35dc666af68b5bda48bd9e86ba56fc748c3bf247",
-      "title": "Environs Ministry to table first National Climate Change Bill in Parliament by March, says Arthur",
-      "link": "https://www.thestar.com.my/news/nation/2026/01/15/environs-ministry-to-table-first-national-climate-change-bill-in-parliament-by-march-says-arthur",
-      "summary": "CYBERJAYA: Malaysia is set to table its first National Climate Change Bill in Parliament by March this year, marking a key step towards strengthening the country's legal framework to address climate change, said the Natural Resources and Environmental Sustainability Ministry (NRES). <a href=\"https://www.thestar.com.my/news/nation/2026/01/15/environs-ministry-to-table-first-national-climate-change-bill-in-parliament-by-march-says-arthur\">Read full story</a>",
-      "published": "2026-01-15T09:56:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "6791f6aceb84cf30c49a04417e75ab339d45255f",
       "title": "Redmi Note 15 Series Now Official In Malaysia; Starts From RM799",
       "link": "https://www.lowyat.net/2026/378574/redmi-note-15-series-now-official-in-malaysia/",
@@ -113,40 +392,13 @@
       "category": "tech"
     },
     {
-      "id": "79f5841a9ff114da55b7a9636b3917497b828a29",
-      "title": "Sabah businesses, consumers paying the price for congestion at Sepanggar port, says Warisan",
-      "link": "https://www.thestar.com.my/news/nation/2026/01/15/sabah-businesses-consumers-paying-the-price-for-congestion-at-sepanggar-port-says-warisan",
-      "summary": "KOTA KINABALU: The continued congestion in one of Sabah's main ports, the Sepanggar Bay Container Port, was a result of leadership failure from various levels of operations, claims Parti Warisan. <a href=\"https://www.thestar.com.my/news/nation/2026/01/15/sabah-businesses-consumers-paying-the-price-for-congestion-at-sepanggar-port-says-warisan\">Read full story</a>",
-      "published": "2026-01-15T09:46:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "be7ef263b027e9cf41e1a0a31bedb56a6adb3ae8",
-      "title": "Zahid wants to meet Akmal over combative remarks",
-      "link": "https://www.thestar.com.my/news/nation/2026/01/15/zahid-wants-to-meet-akmal-over-combative-remarks",
-      "summary": "KUALA LUMPUR: Datuk Seri Dr Ahmad Zahid Hamidi says he will meet Datuk Dr Muhamad Akmal Saleh to seek clarification over his combative remarks after his resignation as a Melaka executive committee member. <a href=\"https://www.thestar.com.my/news/nation/2026/01/15/zahid-wants-to-meet-akmal-over-combative-remarks\">Read full story</a>",
-      "published": "2026-01-15T09:44:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "e1b361d78af1804f030f11ff6ebbc4bbde369ef7",
-      "title": "She's offered Trump her Nobel Prize. But what might Venezuela's Machado ask for in return?",
+      "id": "5112883d834d90a3aa3ac276c9c877f5f0d5dced",
+      "title": "She's offered to share her Nobel with Trump. But what might Machado ask for in return?",
       "link": "https://www.bbc.com/news/articles/c801p8jppv5o?at_medium=RSS&at_campaign=rss",
       "summary": "Venezuela's opposition leader will meet with US President Donald Trump at the White House on Thursday.",
       "published": "2026-01-15T09:42:42+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "5717fc2bd5ed46ab4c3733b50807078a9e3f9767",
-      "title": "LHDN launches WhatsApp tax inquiry platform",
-      "link": "https://www.thestar.com.my/news/nation/2026/01/15/lhdn-launches-whatsapp-tax-inquiry-platform",
-      "summary": "PUTRAJAYA: The Inland Revenue Board (LHDN) has introduced a new information search platform using the WhatsApp application. <a href=\"https://www.thestar.com.my/news/nation/2026/01/15/lhdn-launches-whatsapp-tax-inquiry-platform\">Read full story</a>",
-      "published": "2026-01-15T09:42:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "596ac9842ac9189e05bbcee7fa232c00928d38e3",
@@ -156,15 +408,6 @@
       "published": "2026-01-15T09:40:02+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "7cad0cbca4d21cfd21a48616f137bd7d228186a5",
-      "title": "Widespread delays hit Uganda election amid internet shutdown",
-      "link": "https://www.bbc.com/news/articles/cx2xn1yvgr4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The election is a rematch between Bobi Wine and Yoweri Museveni, who has been president for 40 years.",
-      "published": "2026-01-15T09:39:02+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "74954907cc3cf9a0d6fa0feba54f3c8a9483b2d9",
@@ -192,15 +435,6 @@
       "published": "2026-01-15T09:30:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "3d38e606b3f29bc9187b897c94cb6a76011bd9dd",
-      "title": "Federal agent shoots Minneapolis man in leg after attack, officials say",
-      "link": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The agent was acting in self-defence after being attacked with a shovel, said the Department of Homeland Security.",
-      "published": "2026-01-15T09:26:45+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "f1602632da39660e890417da6a46a249336fbc6c",
@@ -239,24 +473,6 @@
       "category": "malaysia"
     },
     {
-      "id": "d7f387a4d4da9569a8ac33b6729071880e6f6744",
-      "title": "Saudi Arabia pledges $500 million Yemen development after UAE withdrawal",
-      "link": "https://www.thestar.com.my/news/world/2026/01/15/saudi-arabia-pledges-500-million-yemen-development-after-uae-withdrawal",
-      "summary": "RIYADH, Jan 15 (Reuters) - Saudi Arabia ‌has announced a slew of development projects across southern Yemen worth about $500 ‌million, many in areas long-held by the United Arab Emirates and ‌allied separatists who were routed in a Saudi-backed offensive this month. <a href=\"https://www.thestar.com.my/news/world/2026/01/15/saudi-arabia-pledges-500-million-yemen-development-after-uae-withdrawal\">Read full story</a>",
-      "published": "2026-01-15T09:13:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "fb0ae24b673e5ab2bad834a11057e97f3dedaf0d",
-      "title": "RTS Link construction on track for completion by end 2026",
-      "link": "https://www.thestar.com.my/news/nation/2026/01/15/rts-link-construction-on-track-for-completion-by-end-2026",
-      "summary": "PETALING JAYA: The Rapid Transit System (RTS) Link project connecting Malaysia and Singapore is progressing smoothly and is expected to be completed on schedule by the end of this year, says Transport Minister Anthony Loke. <a href=\"https://www.thestar.com.my/news/nation/2026/01/15/rts-link-construction-on-track-for-completion-by-end-2026\">Read full story</a>",
-      "published": "2026-01-15T09:10:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "1df44a664f092e43320f196578747da0eb4bd912",
       "title": "Police: Doctor set to face murder charges after wife, four-year-old son found dead in JB home",
       "link": "https://www.malaymail.com/news/malaysia/2026/01/15/police-doctor-set-to-face-murder-charges-after-wife-four-year-old-son-found-dead-in-jb-home/205547",
@@ -272,15 +488,6 @@
       "summary": "LONDON, Jan 15 &mdash; Microsoft has agreed with Indigo Carbon to buy a record 2.85 million soil carbon credits linked t...",
       "published": "2026-01-15T09:04:47+00:00",
       "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "33e7f8f6ab95212bf72b7f1aed8e6f08fb487a12",
-      "title": "MACC wants law on deferred prosecution agreements to be expedited",
-      "link": "https://www.thestar.com.my/news/nation/2026/01/15/macc-wants-law-on-deferred-prosecution-agreements-to-be-expedited",
-      "summary": "PUTRAJAYA: The Malaysian Anti-Corruption Commission (MACC) wants the law governing the mechanism for Deferred Prosecution Agreements (DPA) to be tabled as soon as possible. <a href=\"https://www.thestar.com.my/news/nation/2026/01/15/macc-wants-law-on-deferred-prosecution-agreements-to-be-expedited\">Read full story</a>",
-      "published": "2026-01-15T09:02:00+00:00",
-      "source": "The Star : News Feed",
       "category": "malaysia"
     },
     {
@@ -307,24 +514,6 @@
       "link": "https://www.malaymail.com/news/malaysia/2026/01/15/gobind-to-ag-why-draw-out-paa-fight-in-court-when-parliament-can-just-fix-it/205542",
       "summary": "KUALA LUMPUR, Jan 15 &mdash; DAP chairman Gobind Singh Deo has urged Attorney General Tan Sri Mohd Dusuki Mokhtar to wit...",
       "published": "2026-01-15T08:47:39+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "5dcce3e81f7b2782403302447879e09a6b93cb27",
-      "title": "Singapore’s first ever Opposition Leader Pritam Singh stripped of post, PM finds role ‘untenable’ after conviction",
-      "link": "https://www.malaymail.com/news/singapore/2026/01/15/singapores-first-ever-opposition-leader-pritam-singh-stripped-of-post-pm-finds-role-untenable-after-conviction/205538",
-      "summary": "SINGAPORE, Jan 15 &mdash; Singapore Prime Minister Lawrence Wong has stripped Pritam Singh of his designation as Leader...",
-      "published": "2026-01-15T08:47:15+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "5b4db95554573f0b7fcf57c43b83533a231fadfe",
-      "title": "Watercolour exhibition ‘Siasah’ explores politics, identity and power at Ruang Teduh Gallery",
-      "link": "https://www.malaymail.com/news/life/2026/01/15/watercolour-exhibition-siasah-explores-politics-identity-and-power-at-ruang-teduh-gallery/205541",
-      "summary": "KUALA LUMPUR, Jan 15 &mdash; A new exhibition at Ruang Teduh Gallery is using watercolour to unpack big ideas about poli...",
-      "published": "2026-01-15T08:45:26+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
@@ -356,39 +545,12 @@
       "category": "deals"
     },
     {
-      "id": "145e655ce72df883d13cfe2a15d8cd7df9632967",
-      "title": "New Japan-Philippines military pact deepens trilateral ties with US amid concerns over China",
-      "link": "https://www.malaymail.com/news/world/2026/01/15/new-japan-philippines-military-pact-deepens-trilateral-ties-with-us-amid-concerns-over-china/205536",
-      "summary": "MANILA, Jan 15 &mdash; The Philippines and Japan signed two defence pacts today, including a deal allowing their forces...",
-      "published": "2026-01-15T08:18:02+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "2e8cc26b5c22534e63cc1eca860505d672860baa",
-      "title": "Bomba: Two-week investigation underway for deadly HELP University AC blast",
-      "link": "https://www.malaymail.com/news/malaysia/2026/01/15/bomba-two-week-investigation-underway-for-deadly-help-university-ac-blast/205537",
-      "summary": "KUALA LUMPUR, Jan 15 &mdash; The investigation into the fatal air-conditioning system explosion at HELP University that...",
-      "published": "2026-01-15T08:07:44+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "12bc2ac7ca8420ae339083a25f67673e01288411",
       "title": "Use Apple Pay with HLB Visa Cards and Earn RM30 Cashback for a Limited Time",
       "link": "https://soyacincau.com/2026/01/15/use-apple-pay-with-hlb-visa-cards-and-earn-rm30-cashback-for-a-limited-time/",
       "summary": "Hong Leong Bank (HLB) is currently running a limited-time RM30 cashback promotion for customers who use Apple Pay with their HLB Visa credit or debit cards, giving Apple users an added incentive to start paying with their iPhone or Apple Watch. How the RM30 Cashback Promotion Works To qualify for the cashback, customers simply need [&#8230;]",
       "published": "2026-01-15T08:02:06+00:00",
       "source": "SoyaCincau",
-      "category": "malaysia"
-    },
-    {
-      "id": "c4d4918807a6e6e1d05501456b11223d5c18c4c8",
-      "title": "Generational change takes centre stage as Nepal’s oldest party splits ahead of March elections",
-      "link": "https://www.malaymail.com/news/world/2026/01/15/generational-change-takes-centre-stage-as-nepals-oldest-party-splits-ahead-of-march-elections/205535",
-      "summary": "KATHMANDU, Jan 15 &mdash; Nepal&rsquo;s oldest political party, Nepali Congress, has split ahead of March general electi...",
-      "published": "2026-01-15T08:00:59+00:00",
-      "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
@@ -399,24 +561,6 @@
       "published": "2026-01-15T08:00:15+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "9159c75a44ef1370caf78945d839789ab06dca47",
-      "title": "Sinner opens title defence against Gaston, Sabalenka handed wildcard in Melbourne start",
-      "link": "https://www.malaymail.com/news/sports/2026/01/15/sinner-opens-title-defence-against-gaston-sabalenka-handed-wildcard-in-melbourne-start/205534",
-      "summary": "MELBOURNE, Jan 15 &mdash; Defending champion Jannik Sinner will meet French world number 94 Hugo Gaston in the first rou...",
-      "published": "2026-01-15T07:52:45+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "ac93b23575d663b91d8f1a3234335752ea0012ff",
-      "title": "‘I’m really happy’: HK singer Charlene Choi goes official with fitness coach 10 years her junior",
-      "link": "https://www.malaymail.com/news/showbiz/2026/01/15/im-really-happy-hk-singer-charlene-choi-goes-official-with-fitness-coach-10-years-her-junior/205532",
-      "summary": "HONG KONG, Jan 15 &mdash; After months of speculation, Charlene Choi has finally made it official &mdash; and she did so...",
-      "published": "2026-01-15T07:40:58+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "14c5841f00ca8dcc0015c731717d7b403bba1652",
@@ -446,15 +590,6 @@
       "category": "tech"
     },
     {
-      "id": "c9a1b81c387bc61444a91d901f456845233030c0",
-      "title": "Your gym membership just got competition — weight-loss drug Wegovy launches in Malaysia",
-      "link": "https://www.malaymail.com/news/malaysia/2026/01/15/your-gym-membership-just-got-competition-weight-loss-drug-wegovy-launches-in-malaysia/205531",
-      "summary": "KUALA LUMPUR, Jan 15 &mdash; Novo Nordisk today announced that its weight-loss drug, Wegovy (semaglutide 2.4mg), is now...",
-      "published": "2026-01-15T07:17:43+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "3f80b202c79f13fa435f53a211581bf31c01e882",
       "title": "EPOS360: mSME can accept TNG eWallet Tap-and-Pay, DuitNow QR and card payments from a single terminal",
       "link": "https://soyacincau.com/2026/01/15/tng-ewallet-epos-360-sme-bluetap-tap-and-pay/",
@@ -471,15 +606,6 @@
       "published": "2026-01-15T07:05:01+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "92ce96f52ed6f5dc218c94404286d2320112f550",
-      "title": "Jay Chou loses in a second at the 1 Point Slam tennis exhibition in Melbourne — and wins the crowd (VIDEO)",
-      "link": "https://www.malaymail.com/news/showbiz/2026/01/15/jay-chou-bows-out-in-a-second-at-1-point-slam-exhibition-in-melbourne-and-laughs-it-off-video/205530",
-      "summary": "MELBOURNE, Jan 15 &mdash; For fans who came hoping to see Jay Chou trade lyrical bars for baseline rallies, the 1 Point...",
-      "published": "2026-01-15T07:04:37+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "16a92c536d811538cc386a6aa29fbc3416f27665",
@@ -527,15 +653,6 @@
       "category": "tech"
     },
     {
-      "id": "e7e09face6e43bf29face6ef5b5490172295352b",
-      "title": "OpenAI quietly rolls out ChatGPT Translate, a standalone website that currently supports plain text translations across 50+ languages (Adamya Sharma/Android Authority)",
-      "link": "http://www.techmeme.com/260115/p5#a260115p5",
-      "summary": "<a href=\"https://www.androidauthority.com/chatgpt-translate-3632584/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260115/i5.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260115/p5#a260115p5\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Adamya Sharma / <a href=\"https://www.androidauthority.com/\">Android Authority</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.androidauthority.com/chatgpt-translate-3632584/\">OpenAI quietly rolls out ChatGPT Translate, a standalone website that currently supports plain text translations across 50+ languages</a></b></span>&nbsp; &mdash;&nbsp; OpenAI's new standalone translation tool supports over 50 languages and features AI-powered prompt customization.&nbsp; &mdash;&nbsp; &bull;&nbsp; &mdash;&nbsp; TL;DR</p>",
-      "published": "2026-01-15T06:10:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "b99884dab12363710e0c24b93e0b2ecd243a16cf",
       "title": "Rift at top of the Taliban: BBC reveals clash of wills behind internet shutdown",
       "link": "https://www.bbc.com/news/articles/cg7vdpy1l2vo?at_medium=RSS&at_campaign=rss",
@@ -543,15 +660,6 @@
       "published": "2026-01-15T06:05:57+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "b717e94c2b9560e146b90b7a29d2659f1774f5f2",
-      "title": "TSMC reports Q4 net profit up 35% YoY to a record ~$16B, above $15.17B est., as it benefited from surging demand for AI chips and hit $100B in 2025 revenue (Reuters)",
-      "link": "http://www.techmeme.com/260115/p4#a260115p4",
-      "summary": "<a href=\"https://www.reuters.com/world/china/tsmc-q4-profit-jumps-35-record-beats-expectations-2026-01-15/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260115/i4.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260115/p4#a260115p4\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/china/tsmc-q4-profit-jumps-35-record-beats-expectations-2026-01-15/\">TSMC reports Q4 net profit up 35% YoY to a record ~$16B, above $15.17B est., as it benefited from surging demand for AI chips and hit $100B in 2025 revenue</a></b></span>&nbsp; &mdash;&nbsp; TSMC, the world's largest contract chipmaker, posted a 35% jump in fourth-quarter net profit on Thursday, beating market forecasts &hellip; </p>",
-      "published": "2026-01-15T06:05:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "1481e04849923cd5b00d2b0fc3b26e2fd6cdcfc2",
@@ -563,15 +671,6 @@
       "category": "world"
     },
     {
-      "id": "3ccc477498ec5c017717a94a63df86c7f3e8362e",
-      "title": "Sources: China is drafting rules for Nvidia H200 purchases, limiting how many chips local companies can buy and requiring them to justify the need (Nikkei Asia)",
-      "link": "http://www.techmeme.com/260115/p3#a260115p3",
-      "summary": "<a href=\"https://asia.nikkei.com/business/technology/artificial-intelligence/china-drafting-purchase-rules-for-nvidia-h200-chips\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260115/i3.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260115/p3#a260115p3\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://asia.nikkei.com/\">Nikkei Asia</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://asia.nikkei.com/business/technology/artificial-intelligence/china-drafting-purchase-rules-for-nvidia-h200-chips\">Sources: China is drafting rules for Nvidia H200 purchases, limiting how many chips local companies can buy and requiring them to justify the need</a></b></span>&nbsp; &mdash;&nbsp; TAIPEI/HONG KONG/PALO ALTO &mdash; China is working to set rules on how many advanced AI chips companies can buy from foreign makers like Nvidia &hellip; </p>",
-      "published": "2026-01-15T05:15:11+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "1fb3f68146c490e24eac9c3591c6c8904017c3d9",
       "title": "MCMC Wants To Meet With X To Talk About Temporary Suspension Of Grok",
       "link": "https://www.lowyat.net/2026/378571/mcmc-x-suspension-grok-talk/",
@@ -579,24 +678,6 @@
       "published": "2026-01-15T05:09:06+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "186361a5047f83dd210a8479b61b02e77d965c3c",
-      "title": "A source close to Thinking Machines alleged that ex-CTO Barret Zoph, who is returning to OpenAI, had shared confidential company information with competitors (Maxwell Zeff/Wired)",
-      "link": "http://www.techmeme.com/260115/p2#a260115p2",
-      "summary": "<a href=\"https://www.wired.com/story/thinking-machines-lab-cofounders-leave-for-openai/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260115/i2.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260115/p2#a260115p2\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Maxwell Zeff / <a href=\"http://www.wired.com/\">Wired</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wired.com/story/thinking-machines-lab-cofounders-leave-for-openai/\">A source close to Thinking Machines alleged that ex-CTO Barret Zoph, who is returning to OpenAI, had shared confidential company information with competitors</a></b></span>&nbsp; &mdash;&nbsp; The departures are a blow for Thinking Machines Lab.&nbsp; Two narratives are already emerging about why they happened.</p>",
-      "published": "2026-01-15T05:05:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "e9bb40e119954d37524b264b2149a67468ab17a9",
-      "title": "GlobalFoundries agrees to acquire Synopsys' ARC processor IP business, which includes ARC-V (RISC-V) and ARC CPU IP, and integrate it into its MIPS business (Nitin Dahad/EE Times)",
-      "link": "http://www.techmeme.com/260115/p1#a260115p1",
-      "summary": "<p><a href=\"http://www.techmeme.com/260115/p1#a260115p1\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Nitin Dahad / <a href=\"http://www.eetimes.com/\">EE Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.eetimes.com/globalfoundries-mips-to-buy-arc-ip-business-from-synopsys/\">GlobalFoundries agrees to acquire Synopsys' ARC processor IP business, which includes ARC-V (RISC-V) and ARC CPU IP, and integrate it into its MIPS business</a></b></span>&nbsp; &mdash;&nbsp; Today sees a bold move to bring two key processor architectures, MIPS and ARC, under one umbrella, as GlobalFoundries announced &hellip; </p>",
-      "published": "2026-01-15T05:00:54+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "46e4e780a00da72c4ef37467a565e53a291a8aab",
@@ -608,15 +689,6 @@
       "category": "world"
     },
     {
-      "id": "1a6356697369eef104504bae487dc13995032eb6",
-      "title": "Elon Musk: Tesla To Make Full Self Driving Subscription Only After 14 February",
-      "link": "https://www.lowyat.net/2026/378566/elon-musk-tesla-full-self-driving-subscription-only-14-february/",
-      "summary": "<p>One of the main reasons to buy a Tesla EV was its Full Self-Driving feature, even if it has failed to live up to its name. Though in a month&#8217;s time, you won&#8217;t even be able to buy the feature any more. This is because company owner Elon Musk has announced that the feature will [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/378566/elon-musk-tesla-full-self-driving-subscription-only-14-february/\">Elon Musk: Tesla To Make Full Self Driving Subscription Only After 14 February</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-01-15T04:05:39+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
       "id": "6e3e39ec199986b96547b54866923c61dfc3523f",
       "title": "GROOVY",
       "link": "https://www.producthunt.com/products/groovy",
@@ -624,24 +696,6 @@
       "published": "2026-01-15T03:56:39+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "3d9dd5fae3dcac8bfc157e651b93d270b0bc2c53",
-      "title": "Zelensky declares energy emergency as biting cold persists",
-      "link": "https://www.bbc.com/news/articles/cq6vm677z76o?at_medium=RSS&at_campaign=rss",
-      "summary": "The move comes as US President Donald Trump said Ukraine is \"less ready\" than the Russian president to make a peace deal.",
-      "published": "2026-01-15T03:35:12+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "5e39d1fc4becf4cffae0a0a482a3a51c50959da6",
-      "title": "TNG Digital, Ant International Launch EPOS360 And EPOS360 BlueTap For Malaysian SMEs",
-      "link": "https://www.lowyat.net/2026/378554/tng-digital-ant-international-epos360-bluetap/",
-      "summary": "<p>TNG Digital has partnered with Ant International to launch EPOS360 and EPOS360 BlueTap in Malaysia. Tailored to support the digitalisation of local SMEs, the technologies offer AI-driven tools, plus payment and marketing capabilities. EPOS360 launches within TNG eWallet as a mini-programme, allowing business owners to manage their operations in one place. With the app, users [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/378554/tng-digital-ant-international-epos360-bluetap/\">TNG Digital, Ant International Launch EPOS360 And EPOS360 BlueTap For Malaysian SMEs</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-01-15T03:20:27+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
     },
     {
       "id": "8d153829577fc2174ea9798693d1f490647b86f2",
@@ -662,15 +716,6 @@
       "category": "tech"
     },
     {
-      "id": "554a862d3ca2e546b56f4c422f38f4cdbdefe6cc",
-      "title": "Hong Leong Bank Introduces RM30 Cashback For Apple Pay Users",
-      "link": "https://www.lowyat.net/2026/378446/hong-leong-bank-rm30-cashback-apple-pay-users/",
-      "summary": "<p>Since 16 December 2025, Hong Leong Bank (HLB) Visa cards have officially received support on Apple Pay. This in turn allows iPhone users to link their HLB Cards to Apple Wallet and use its NFC-based cashless payment feature for both in-store and online transactions. According to the bank, the rollout aligns with its goal of [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/378446/hong-leong-bank-rm30-cashback-apple-pay-users/\">Hong Leong Bank Introduces RM30 Cashback For Apple Pay Users</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-01-15T02:02:18+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
       "id": "b08e3cea691dfd58bf2fdbbd6fb47c1573fc155a",
       "title": "GitHub Space Shooter",
       "link": "https://www.producthunt.com/products/github-space-shooter",
@@ -678,15 +723,6 @@
       "published": "2026-01-15T01:15:02+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "cc1174a65119ff4237e5237855bd74e08269da21",
-      "title": "Why two Canadian provinces are in a spat over Crown Royal whisky",
-      "link": "https://www.bbc.com/news/articles/c8x9v241z2qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK-owned, Canadian-made whisky is testing a united \"Team Canada\" approach in the face of US tariffs.",
-      "published": "2026-01-15T01:05:39+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "fc4bff1be917bf32f2c0e40c7edc97275886d18a",
@@ -854,7 +890,7 @@
       "id": "e1ef2ea95574e7073f218e257d6ea4b4f66ca087",
       "title": "Naya Connect is a modular mechanical keyboard system for the indecisive",
       "link": "https://www.theverge.com/news/862123/naya-connect-modular-mechanical-keyboard-kickstarter",
-      "summary": "Naya has already shipped one successful Kickstarter for a weird keyboard. The Naya Create was an ergonomic split deck with four swappable controller addons: a touchpad, a trackball, a rotary encoder, or a 6DoF spatial mouse. The Connect takes that modular concept, applies it to a more traditional flat keyboard form factor, and expands the [&#8230;]",
+      "summary": "Naya has already shipped one successful Kickstarter for a weird keyboard. The Naya Create was an ergonomic split deck with four swappable controller add-ons: a touchpad, a trackball, a rotary encoder, or a 6DoF spatial mouse. The Connect takes that modular concept, applies it to a more traditional flat keyboard form factor, and expands the [&#8230;]",
       "published": "2026-01-14T21:38:30+00:00",
       "source": "The Verge",
       "category": "tech"
@@ -982,15 +1018,6 @@
       "link": "https://www.theverge.com/news/861955/bmw-m3-electric-ev-quad-motor-neue-klasse",
       "summary": "BMW teased its forthcoming all-electric M-series performance sedan today, promising that the quad-motor M3 sports car would feature specs that are truly next level when it arrives in 2027. The M3 will have four electric motors and simulated gear shifting, a feature that is quickly becoming a must-have for electrified sports cars. BMW says the [&#8230;]",
       "published": "2026-01-14T19:30:29+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "1f42e97f419e22a4ffea04ee62c10fd91f075a78",
-      "title": "I’ve tested 30 smart locks, and these are the best",
-      "link": "https://www.theverge.com/23393163/best-smart-door-lock",
-      "summary": "A smart lock is an easy solution to some common problems. Locked yourself out? Need to let a friend in to water the plants? Your latchkey kid lost their key? Hands are full, and it’s raining cats and dogs? A smart lock solves all of these problems and more. One of the best smart home [&#8230;]",
-      "published": "2026-01-14T19:27:00+00:00",
       "source": "The Verge",
       "category": "tech"
     },
@@ -1283,15 +1310,6 @@
       "category": "tech"
     },
     {
-      "id": "07a8d8c4e180344703682b9b0bb2a025eef5616a",
-      "title": "UGREEN FineTrack Slim S Wallet Tracker Card w/ native Samsung Find app support now under $24",
-      "link": "https://9to5toys.com/2026/01/14/ugreen-wallet-tracker-card-samsung-find-app/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/UGREEN-FineTrack-Slim-samsung-app-tracker-04.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><h2 class=\"wp-block-heading has-text-align-center\">UGREEN FineTrack Slim S Wallet Tracker Card</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $24 (Reg. $24)</h3>\n\n\n\n<p class=\"has-text-align-center\"><em>Using code <strong>H62X675Y</strong> at checkout</em></p>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A white line on a red background\" class=\"wp-image-1187827 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/01/UGREEN-FineTrack-Slim-S-Wallet-Tracker-Card.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p style=\"text-align: left;\">UGREEN unleashed its FineTrack Slim wallet tracker card specifically designed for Samsung devices and you can now score one at under $24 using the code above at checkout. It is specifically made for the Samsung app, delivering a wallet-friendly tracker solution “for Samsung users who value native system integration and simplicity.” </p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/01/14/ugreen-wallet-tracker-card-samsung-find-app/#more-1187826\">more…</a>",
-      "published": "2026-01-14T16:05:34+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "9df7456f4db47ccd60c410e83d6dfc25cac7af91",
       "title": "Gemini’s new beta feature provides proactive responses based on your photos, emails, and more",
       "link": "https://techcrunch.com/2026/01/14/geminis-new-beta-feature-provides-proactive-responses-based-on-your-photos-emails-and-more/",
@@ -1427,6 +1445,15 @@
       "category": "malaysia"
     },
     {
+      "id": "44dc5df707d96f1b72206d1ae48e54522fd0288b",
+      "title": "Redlight Greenlight for Claude Code",
+      "link": "https://www.producthunt.com/products/redlight-greenlight-for-claude-code",
+      "summary": "<p>\n            Accept or reject Claude Code permission from anywhere on Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/redlight-greenlight-for-claude-code?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1062664?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-01-14T06:06:03+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "b044b47138196125bd417ea6b93fe88fa1d3236e",
       "title": "BMW’s first electric M car is coming in 2027—with one motor per wheel",
       "link": "https://arstechnica.com/cars/2026/01/bmws-first-electric-m-car-is-coming-in-2027-with-one-motor-per-wheel/",
@@ -1463,15 +1490,6 @@
       "category": "events"
     },
     {
-      "id": "73a9556c2f5ad8ea15adafc620c218dc79a78bb5",
-      "title": "Tidey",
-      "link": "https://www.producthunt.com/products/tidey-clean-your-desktop-in-seconds",
-      "summary": "<p>\n            A tiny Mac app that helps you clean your desktop mess     \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tidey-clean-your-desktop-in-seconds?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1062372?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-01-13T14:52:54+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "a561effe29c3824aef7f30396d9094e5ae26f0a2",
       "title": "AI Mode API",
       "link": "https://www.producthunt.com/products/ai-mode-api",
@@ -1495,24 +1513,6 @@
       "link": "https://soyacincau.com/2026/01/13/upnm-to-cut-annual-electricity-costs-by-rm1-3-million-through-campus-solar-project/",
       "summary": "Universiti Pertahanan Nasional Malaysia (UPNM) is expected to reduce its annual electricity expenditure by approximately RM1.3 million following the signing of a renewable energy supply agreement to implement a campus-wide solar energy system. The initiative is part of the university’s efforts to improve long-term operational cost efficiency while supporting Malaysia’s renewable energy transition. The agreement [&#8230;]",
       "published": "2026-01-13T11:13:10+00:00",
-      "source": "SoyaCincau",
-      "category": "malaysia"
-    },
-    {
-      "id": "78d590a7a6264da5f120a5f40631547811039f94",
-      "title": "Astro to Pause New Fibre Sign-Ups From 1 February 2026, Existing Customers Unaffected",
-      "link": "https://soyacincau.com/2026/01/13/astro-to-pause-new-fibre-sign-ups-from-1-february-2026-existing-customers-unaffected/",
-      "summary": "Astro has announced that it will stop accepting new Astro Fibre subscriptions starting 1st February 2026, with the pause remaining in effect until further notice. The move is part of what the company describes as a strategic review of its businesses. Importantly, Astro says the decision will not impact existing Astro Fibre customers, including those [&#8230;]",
-      "published": "2026-01-13T10:24:36+00:00",
-      "source": "SoyaCincau",
-      "category": "malaysia"
-    },
-    {
-      "id": "399e0efacb5aea1c8f75ec28ff010b82fff11ffd",
-      "title": "MCMC to take legal action against X over Grok misuse involving obscene content",
-      "link": "https://soyacincau.com/2026/01/13/mcmc-to-take-legal-action-against-x-over-grok-misuse-involving-obscene-content/",
-      "summary": "The Malaysian Communications and Multimedia Commission (MCMC) has confirmed that it is taking legal action against X Corp. (formerly Twitter) and xAI LLC over alleged failures to ensure user safety in Malaysia related to the use of Grok. This comes after MCMC directed a restriction on Grok on 11th January 2026 In a media statement, [&#8230;]",
-      "published": "2026-01-13T09:10:21+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
     },
