@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-01-17T18:20:49.624966+00:00",
+  "generatedAt": "2026-01-17T19:10:57.206817+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "fc23a16f3696841e826602a27ffb549691efa526",
+      "title": "Disney deleted a Thread because people kept quoting its movies at it",
+      "link": "https://www.theverge.com/news/863980/disney-deleted-anti-fascist-thread",
+      "summary": "\"Share a Disney quote that sums up how you're feeling right now!\" That's what Disney posted on Threads the other day, and people immediately replied with lines from Star Wars, The Hunchback of Notre Dame, and even Mary Poppins. The throughline between all the quotes: they were pretty pointedly anti-fascist and clearly aimed at the [&#8230;]",
+      "published": "2026-01-17T18:38:13+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
     {
       "id": "b05dc717ea00d2c19bd1ec88090f16c716b3f04b",
       "title": "1st LD Writethru: Trump says U.S. to impose tariffs on 8 European nations over Greenland",
@@ -98,7 +107,7 @@
       "id": "bf7f899ecd168df3022ae8eecf993eef9c23d9d7",
       "title": "EU and Mercosur sign trade deal after 25 years of negotiations",
       "link": "https://www.thestar.com.my/news/world/2026/01/18/eu-and-mercosur-sign-trade-deal-after-25-years-of-negotiations",
-      "summary": "ASUNCION, Jan 17 (Reuters) - Top officials from the EU and the ‌South American bloc Mercosur signed a free trade agreement on ‌Saturday in Paraguay, paving the way for the European Union's largest ever trade accord after 25 years of negotiations. <a href=\"https://www.thestar.com.my/news/world/2026/01/18/eu-and-mercosur-sign-trade-deal-after-25-years-of-negotiations\">Read full story</a>",
+      "summary": "ASUNCION, Jan ‌17 (Reuters) - Top officials from the EU and the South American bloc Mercosur signed a free ‌trade agreement on Saturday in Paraguay, paving the way for the European Union's largest-ever trade ‌accord after 25 years of negotiations. <a href=\"https://www.thestar.com.my/news/world/2026/01/18/eu-and-mercosur-sign-trade-deal-after-25-years-of-negotiations\">Read full story</a>",
       "published": "2026-01-17T17:03:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
@@ -806,15 +815,6 @@
       "category": "deals"
     },
     {
-      "id": "1d39496202f8314c785aa8d4c57eec65040e5fae",
-      "title": "Google is appealing a judge’s search monopoly ruling",
-      "link": "https://www.theverge.com/news/863710/google-search-antitrust-monopoly-appeal",
-      "summary": "Google is appealing a federal court's decision ruling it an illegal online search monopolist. The company filed a notice to appeal on Friday, requesting a pause on the court-ordered remedies meant to restore competition to the online search market. \"As we have long said, the Court's August 2024 ruling ignored the reality that people use [&#8230;]",
-      "published": "2026-01-16T22:36:55+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "74ec53dd8b0e7062a549b8401709b09404fdf233",
       "title": "Segway’s new X4 + i2 AWD robot mower pre-orders open: 10% coupon, 1-year extended support, FREE gear with up to $200 deposit",
       "link": "https://9to5toys.com/2026/01/16/segway-navimow-x4-i2-awd-robot-mower-pre-orders/",
@@ -1454,20 +1454,20 @@
       "category": "tech"
     },
     {
-      "id": "6938c92c849e068a63052237ca4e763c9e91041f",
-      "title": "Design in Figma using Cursor Agent + MCP",
-      "link": "https://www.producthunt.com/products/cursor-ai-for-figma",
-      "summary": "<p>\n            Design automation in Figma using AI and natural language\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cursor-ai-for-figma?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1063468?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-01-15T19:03:14+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "390a90803b4a7d48dc19b7b59871dcb611969a43",
       "title": "TranslateGemma",
       "link": "https://www.producthunt.com/products/translategemma",
       "summary": "<p>\n            Open translation on Google models, supporting 55 languages\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/translategemma?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1063458?app_id=339\">Link</a>\n          </p>",
       "published": "2026-01-15T18:22:03+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "9acbc287d4ae6885c4b13f9d4b1c2c463bd82de8",
+      "title": "ADB Wrench",
+      "link": "https://www.producthunt.com/products/adb-wrench",
+      "summary": "<p>\n            ADB in your browser + AI assistant with no install required\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/adb-wrench?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1063413?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-01-15T16:37:05+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1499,20 +1499,20 @@
       "category": "malaysia"
     },
     {
-      "id": "37f30f262e3e7478382158f640991445034b200c",
-      "title": "Festiveo",
-      "link": "https://www.producthunt.com/products/festiveo-your-music-festival-companion",
-      "summary": "<p>\n            Discover festivals, plan your trips, and never miss a beat\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/festiveo-your-music-festival-companion?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1063325?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-01-15T12:23:32+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "ea56dbfae6528ddaf43bfe57eaf72ace38ef058a",
       "title": "StealthHound",
       "link": "https://www.producthunt.com/products/stealthhound",
       "summary": "<p>\n            Your browser's blind spots, Exposed.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/stealthhound?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1063306?app_id=339\">Link</a>\n          </p>",
       "published": "2026-01-15T11:57:11+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "136fa57bc57c6662a5f4e7f7832a9892f74c2887",
+      "title": "Orca",
+      "link": "https://www.producthunt.com/products/orca-4",
+      "summary": "<p>\n            The fun way to learn a new language \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/orca-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1063075?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-01-14T22:49:43+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1562,11 +1562,11 @@
       "category": "events"
     },
     {
-      "id": "81da3e42afde0501f1cd632ec0fd23facbeef396",
-      "title": "Waylight for macOS",
-      "link": "https://www.producthunt.com/products/waylight",
-      "summary": "<p>\n            ChatGPT, but with context from your tabs, meetings, and docs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/waylight?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1051364?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-12-17T15:43:02+00:00",
+      "id": "063218fc55fc66b0156b5fd1a9a7c8e66c6db825",
+      "title": "dibma / Joki Strava",
+      "link": "https://www.producthunt.com/products/dibma-2",
+      "summary": "<p>\n            Fake your runs and flex on Strava\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dibma-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1061268?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-01-11T09:19:10+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
