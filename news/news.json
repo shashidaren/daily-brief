@@ -1,17 +1,197 @@
 {
-  "generatedAt": "2026-01-20T20:07:58.915852+00:00",
+  "generatedAt": "2026-01-20T21:15:45.730493+00:00",
   "counts": {
     "total": 175
   },
   "items": [
     {
-      "id": "0d5ee3351f44fcef7d9ab854402f861ec3692de3",
-      "title": "Filings from Elon Musk's OpenAI lawsuit detail Microsoft's decade-long relationship with OpenAI, including plans for a new subsidiary during Sam Altman's firing (Todd Bishop/GeekWire)",
+      "id": "a150de8350b19e4ed299fd173d80b5144dc37a45",
+      "title": "Flash: Two trains derail in Catalonia, Spain, leaving at least four people seriously injured: media",
+      "link": "https://www.thestar.com.my/news/world/2026/01/21/flash-two-trains-derail-in-catalonia-spain-leaving-at-least-four-people-seriously-injured-media",
+      "summary": "<a href=\"https://www.thestar.com.my/news/world/2026/01/21/flash-two-trains-derail-in-catalonia-spain-leaving-at-least-four-people-seriously-injured-media\">Read full story</a>",
+      "published": "2026-01-20T21:07:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "3b7cb346392db75f94b588b92b4e278f9c2f8427",
+      "title": "The US DOJ says at least two DOGE employees accessed Social Security data that was off-limits under a court ruling and shared agency data on third-party servers (April Rubin/Axios)",
+      "link": "http://www.techmeme.com/260120/p36#a260120p36",
+      "summary": "<a href=\"https://www.axios.com/2026/01/20/doge-employees-social-security-information-court-filing\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260120/i36.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260120/p36#a260120p36\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> April Rubin / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/2026/01/20/doge-employees-social-security-information-court-filing\">The US DOJ says at least two DOGE employees accessed Social Security data that was off-limits under a court ruling and shared agency data on third-party servers</a></b></span>&nbsp; &mdash;&nbsp; - At least two DOGE employees, the filing reveals, were in touch with a political advocacy group that asked them to analyze data &hellip; </p>",
+      "published": "2026-01-20T21:00:14+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "e11af78ecd128f526d1b1bbe4a66f15264f74186",
+      "title": "Trump administration admits DOGE may have misused Americans’ Social Security data",
+      "link": "https://techcrunch.com/2026/01/20/trump-administration-admits-doge-may-have-misused-americans-social-security-data/",
+      "summary": "The revelation comes as part of a series of corrections in a legal case over DOGE’s access to Social Security Administration data.",
+      "published": "2026-01-20T20:56:25+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "1a8790a6ab2d756caa0c8b5956d145fc3e6d7dad",
+      "title": "Nova Launcher’s new owner might offer a version with ads",
+      "link": "https://www.theverge.com/news/864585/nova-launcher-instabridge-acquisition-owner-ads",
+      "summary": "Last year, Nova Launcher founder and sole developer Kevin Barry announced he had left Branch Metrics, Nova's parent company at the time - which followed an announcement from 2024 that nearly everyone working on the project had been laid off. But the launcher is getting new life: in a blog post on Tuesday, the Swedish [&#8230;]",
+      "published": "2026-01-20T20:55:04+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "3c4114ba57336129e86d5ce57faa2721b7f5754d",
+      "title": "The US FTC plans to appeal to revive its case accusing Meta of bolstering an illegal monopoly by acquiring Instagram and WhatsApp; Meta won the case in 2025 (Jody Godoy/Reuters)",
+      "link": "http://www.techmeme.com/260120/p35#a260120p35",
+      "summary": "<a href=\"https://www.reuters.com/world/ftc-will-appeal-ruling-meta-antitrust-case-over-instagram-whatsapp-deals-2026-01-20/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260120/i35.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260120/p35#a260120p35\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jody Godoy / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/ftc-will-appeal-ruling-meta-antitrust-case-over-instagram-whatsapp-deals-2026-01-20/\">The US FTC plans to appeal to revive its case accusing Meta of bolstering an illegal monopoly by acquiring Instagram and WhatsApp; Meta won the case in 2025</a></b></span>&nbsp; &mdash;&nbsp; The U.S. Federal Trade Commission will file an appeal seeking to revive its case accusing Facebook parent company Meta Platforms &hellip; </p>",
+      "published": "2026-01-20T20:50:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "374c524693fe1e0fba44a943e0ee20d522ad65af",
+      "title": "UStrive security lapse exposed personal data of its users, including children",
+      "link": "https://techcrunch.com/2026/01/20/ustrive-security-lapse-exposed-personal-data-of-its-users-including-children/",
+      "summary": "The online mentoring site UStrive exposed email addresses, phone numbers, and other non-public information to other logged-in users. The nonprofit told TechCrunch that the issue is now fixed, but wouldn't commit to alerting affected individuals.",
+      "published": "2026-01-20T20:47:47+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "359be1a2fef16140dbb87a661c57f69597bf7ed1",
+      "title": "Get smarter 15 minutes at a time with the Headway app for $40 (Reg. $300)",
+      "link": "https://9to5toys.com/2026/01/20/get-smarter-15-minutes-time/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/01/Headway-Premium.jpg?quality=82&#038;strip=all&#038;w=1500\" /></div><p>Make this the year you prioritize your learning and growth with a <a href=\"https://specials.9to5toys.com/sales/headway-premium-lifetime-subscription?utm_source=9to5toys.com&amp;utm_content=PS-11075&amp;utm_medium=Referral&amp;utm_campaign=headway-premium-lifetime-subscription-2026-01-13&amp;utm_term=SALE-318822\" rel=\"noreferrer noopener\" target=\"_blank\">lifetime subscription to Headway Premium for $<strong>39.99</strong></a> with code <strong>SUMMARY20</strong> (Reg. $299.95). With the Headway book summary and learning app, you can learn the most important takeaways of the most thought-provoking books, all at your own pace. It’s a time-efficient way of staying current with the biggest ideas of the day and decide which works are worth reading in full.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/01/20/get-smarter-15-minutes-time/#more-1188108\">more…</a>",
+      "published": "2026-01-20T20:40:47+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "870cbca3506bca049b9fb3920ca2626e51370f4a",
+      "title": "EcoFlow flash savings drops DELTA 3 Max power station back at second-best $749 (Reg. $1,199), more from $399",
+      "link": "https://9to5toys.com/2026/01/20/ecoflow-power-stations-delta-3-max-749-more/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/12/EcoFlow-DELTA-3-Max-Portable-Power-Station.png?w=1200\" /></div><p>As part of its <a href=\"https://9to5toys.com/2026/01/16/ecoflow-winter-sale-delta-pro-3-power-station-new-1899-low-more/\">ongoing Disaster Winter Storm Sale</a>, EcoFlow has <a href=\"https://www.awin1.com/cread.php?awinmid=59181&amp;awinaffid=1642421&amp;ued=https%3A%2F%2Fus.ecoflow.com%2Fpages%2Fhome-backup-sale\">launched another 48-hour flash sale</a> that will continue through tomorrow, January 21, with up to 62% discounts on four offers – two being add-on accessory bundles and two being power stations. One notable price drop is the <a href=\"https://www.awin1.com/cread.php?awinmid=59181&amp;awinaffid=1642421&amp;ued=https%3A%2F%2Fus.ecoflow.com%2Fpages%2Fhome-backup-sale\">DELTA 3 Max Portable Power Station that is now back at <strong>$749 shipped</strong></a>, matching its Amazon pricing. Starting from $1,499 here and $1,199 at Amazon, we saw this same rate appear last week in a similar flash sale, with the price otherwise having been kept at $799 lately at Amazon. You’re getting another chance at the second-best price while these short-term savings last, saving you $450 off the going rate and $750 off the MSRP, which is only beaten out by the $699 low last seen during Cyber Monday. Head below to learn more about it and see the three other flash offers while they’re still around. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/01/20/ecoflow-power-stations-delta-3-max-749-more/#more-1188762\">more…</a>",
+      "published": "2026-01-20T20:38:40+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "469061da67e4cfe9d3343d840d09da8b293c2431",
+      "title": "UK defends Chagos deal after Trump calls it 'act of great stupidity'",
+      "link": "https://www.bbc.com/news/articles/c0mkp021rvro?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says it is \"another in a very long line of National Security reasons why Greenland has to be acquired\".",
+      "published": "2026-01-20T20:33:02+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "e42e962b70b4f37c67bc1a31a5e7f812570a90d9",
+      "title": "OpenAI rolls out age prediction on ChatGPT globally to identify users under 18 and apply automatic content protections as it prepares to introduce adult content (Juby Babu/Reuters)",
+      "link": "http://www.techmeme.com/260120/p34#a260120p34",
+      "summary": "<a href=\"https://www.reuters.com/technology/openai-rolls-out-age-prediction-chatgpt-2026-01-20/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260120/i34.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260120/p34#a260120p34\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Juby Babu / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/technology/openai-rolls-out-age-prediction-chatgpt-2026-01-20/\">OpenAI rolls out age prediction on ChatGPT globally to identify users under 18 and apply automatic content protections as it prepares to introduce adult content</a></b></span>&nbsp; &mdash;&nbsp; OpenAI on Tuesday said it is rolling out age prediction on ChatGPT globally, to determine whether an account is likely owned by a minor &hellip; </p>",
+      "published": "2026-01-20T20:30:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "05dc2389039a8efa2755401ad3890d3f7dab2d4e",
+      "title": "State Department approves potential sale of aircraft, torpedoes to Singapore for $2.3 billion, Pentagon says",
+      "link": "https://www.thestar.com.my/news/world/2026/01/21/state-department-approves-potential-sale-of-aircraft-torpedoes-to-singapore-for-23-billion-pentagon-says",
+      "summary": "Jan ‌20 (Reuters) - The ‌U.S. State ‌Department has approved the potential ‍sale of ‍maritime patrol ‌and reconnaissance aircraft ‍and ​lightweight ⁠torpedoes and related equipment to ‌Singapore in ⁠a ‍deal valued at ‍an estimated $2.3 billion, ‌the Pentagon said on Tuesday. <a href=\"https://www.thestar.com.my/news/world/2026/01/21/state-department-approves-potential-sale-of-aircraft-torpedoes-to-singapore-for-23-billion-pentagon-says\">Read full story</a>",
+      "published": "2026-01-20T20:28:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "300feed260f60ad5550c248fd1f89b738a360650",
+      "title": "Ethernovia raises $90M as investors rush to fund ‘physical AI’",
+      "link": "https://techcrunch.com/2026/01/20/ethernovia-raises-90m-as-investors-rush-to-fund-physical-ai/",
+      "summary": "The automotive-focused company is looking to expand its Ethernet-based processors to fields like robotics.",
+      "published": "2026-01-20T20:27:30+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "c1b8fefdc578d6a767440643183cabb751121ec1",
+      "title": "Anker’s Smart Display Nano Charger now available on Amazon down at $30 Prime shipped",
+      "link": "https://9to5toys.com/2026/01/20/anker-smart-display-nano-charger/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/01/Anker-Smart-Display-Nano-Charger.jpg?quality=82&#038;strip=all&#038;w=1500\" /></div><p>Anker unleashed its Smart Display Nano Charger at CES 2026 this year, and just after getting a chance to serve up <a href=\"https://9to5toys.com/2026/01/19/anker-nano-charger-smart-display-review/\">some of my personal thoughts</a>, it has now appeared on the brand’s official Amazon storefront with the same launch deal we were tracking previously. You can now land this mini charger with the animated display down at $29.99 Prime shipped. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/01/20/anker-smart-display-nano-charger/#more-1188763\">more…</a>",
+      "published": "2026-01-20T20:26:07+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "7f0fe58c55b549ca6148c3c83bce14f5a5e6d7cc",
+      "title": "Feature-packed Pliers Pro multi-tool jams 31 capabilities into one, now $37 (Reg. $60)",
+      "link": "https://9to5toys.com/2026/01/20/bibury-pliers-pro-31-in-1-multi-tool/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/01/BIBURY-Pliers-Pro-31-in-1-Multi-Tool.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">BIBURY Pliers Pro 31-in-1 Multi-Tool</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $37 (Reg. $60)</h3>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A red background with a line\" class=\"wp-image-1188731 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/01/BIBURY-Pliers-Pro-31-in-1-Multi-Tool-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p>This feature-packed multi-tool is outfitted with pliers, a wire cutter, wire stripper, punch, replaceable saw, scissors, ruler, can opener, bottle opener, and much more. I love that there are 16 screwdriver bits too, allowing you to quickly tighten or loosen things while on the go.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/01/20/bibury-pliers-pro-31-in-1-multi-tool/#more-1188730\">more…</a>",
+      "published": "2026-01-20T20:25:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "45a084a8df9796a41fa394e85c3f9f96cc3ddd29",
+      "title": "Lyse Doucet: Trump is shaking the world order more than any president since WW2",
+      "link": "https://www.bbc.com/news/articles/cx2lej7d52po?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump's demands over Greenland are a rude awakening in a moment fraught with risk.",
+      "published": "2026-01-20T20:18:43+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "137688f36be5daaeec42cba6858d12494d199187",
+      "title": "Crude futures settle higher",
+      "link": "https://www.thestar.com.my/news/world/2026/01/21/crude-futures-settle-higher",
+      "summary": "NEW YORK, Jan. 20 (Xinhua) -- Oil prices climbed on Tuesday. <a href=\"https://www.thestar.com.my/news/world/2026/01/21/crude-futures-settle-higher\">Read full story</a>",
+      "published": "2026-01-20T20:16:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "e7ccc14588a03fd9cd53bbe652d7fba9258acc3d",
+      "title": "U.S. dollar ticks down",
+      "link": "https://www.thestar.com.my/news/world/2026/01/21/us-dollar-ticks-down",
+      "summary": "NEW YORK, Jan. 20 (Xinhua) -- The U.S. dollar fell in late trading on Tuesday. <a href=\"https://www.thestar.com.my/news/world/2026/01/21/us-dollar-ticks-down\">Read full story</a>",
+      "published": "2026-01-20T20:15:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "dd62cc40d0fd47a0cfc8ef7e701fb24164236298",
+      "title": "Five soldiers killed in ambush in northwestern Nigeria",
+      "link": "https://www.thestar.com.my/news/world/2026/01/21/five-soldiers-killed-in-ambush-in-northwestern-nigeria",
+      "summary": "ABUJA, Jan ‌20 (Reuters) - Five soldiers and one ‌police officer were killed when ‌troops were ambushed by militants in northwestern Nigeria on Monday, the military said ‍on Tuesday. <a href=\"https://www.thestar.com.my/news/world/2026/01/21/five-soldiers-killed-in-ambush-in-northwestern-nigeria\">Read full story</a>",
+      "published": "2026-01-20T20:09:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "7af53f45b838792180334ca4b5ffd8fe605d1a90",
+      "title": "US will soon target drugs coming in by land, Trump says",
+      "link": "https://www.thestar.com.my/news/world/2026/01/21/us-will-soon-target-drugs-coming-in-by-land-trump-says",
+      "summary": "WASHINGTON, Jan ‌20 (Reuters) - U.S. President ‌Donald Trump on ‌Tuesday said his administration would \"very shortly\" start targeting drugs ‍coming into the ‍United States ‌by land, after he claimed ‍strikes ​by U.S. forces on ⁠suspected drug boats in the ‌Caribbean Sea and Pacific ⁠Ocean ‍have reduced the amount of drugs coming ‍into the U.S. ‌by water. <a href=\"https://www.thestar.com.my/news/world/2026/01/21/us-will-soon-target-drugs-coming-in-by-land-trump-says\">Read full story</a>",
+      "published": "2026-01-20T20:07:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "ff4f893b080a1487543dea0aa1f8315ad4758d1e",
+      "title": "Filings from Elon Musk's OpenAI lawsuit detail Microsoft's decade-long OpenAI relationship, like establishing a new subsidiary for Sam Altman while he was fired (Todd Bishop/GeekWire)",
       "link": "http://www.techmeme.com/260120/p33#a260120p33",
-      "summary": "<a href=\"https://www.geekwire.com/2026/the-microsoft-openai-files-internal-documents-reveal-the-realities-of-ais-defining-alliance/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260120/i33.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260120/p33#a260120p33\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Todd Bishop / <a href=\"https://www.geekwire.com/\">GeekWire</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.geekwire.com/2026/the-microsoft-openai-files-internal-documents-reveal-the-realities-of-ais-defining-alliance/\">Filings from Elon Musk's OpenAI lawsuit detail Microsoft's decade-long relationship with OpenAI, including plans for a new subsidiary during Sam Altman's firing</a></b></span>&nbsp; &mdash;&nbsp; The launch of the AI lab that would redefine Microsoft caught the tech giant by surprise.&nbsp; &mdash;&nbsp; &ldquo;Did we get called to participate?&rdquo;</p>",
+      "summary": "<a href=\"https://www.geekwire.com/2026/the-microsoft-openai-files-internal-documents-reveal-the-realities-of-ais-defining-alliance/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260120/i33.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260120/p33#a260120p33\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Todd Bishop / <a href=\"https://www.geekwire.com/\">GeekWire</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.geekwire.com/2026/the-microsoft-openai-files-internal-documents-reveal-the-realities-of-ais-defining-alliance/\">Filings from Elon Musk's OpenAI lawsuit detail Microsoft's decade-long OpenAI relationship, like establishing a new subsidiary for Sam Altman while he was fired</a></b></span>&nbsp; &mdash;&nbsp; The launch of the AI lab that would redefine Microsoft caught the tech giant by surprise.&nbsp; &mdash;&nbsp; &ldquo;Did we get called to participate?&rdquo;</p>",
       "published": "2026-01-20T20:05:01+00:00",
       "source": "Techmeme",
       "category": "tech"
+    },
+    {
+      "id": "d5b42e263f4f97eb05270e7325c906afd7cb9f70",
+      "title": "Heavy dust storm causes death, flight cancellations in Libya",
+      "link": "https://www.thestar.com.my/news/world/2026/01/21/heavy-dust-storm-causes-death-flight-cancellations-in-libya",
+      "summary": "TRIPOLI, Jan. 20 (Xinhua) -- A heavy dust storm swept across eastern Libya on Tuesday, killing one person, halting flights, and prompting school closures, authorities reported. <a href=\"https://www.thestar.com.my/news/world/2026/01/21/heavy-dust-storm-causes-death-flight-cancellations-in-libya\">Read full story</a>",
+      "published": "2026-01-20T20:05:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
     },
     {
       "id": "9e5c2c2bf084bae483aab37218fdc49845a663f4",
@@ -104,6 +284,15 @@
       "category": "tech"
     },
     {
+      "id": "93df0cc3bbedccdfdce655f79b0e0f5c4af1cc2d",
+      "title": "Interview: China&#039;s innovation, opening up to drive global growth, stabilize world economy: Deloitte China CEO",
+      "link": "https://www.thestar.com.my/news/world/2026/01/21/interview-china039s-innovation-opening-up-to-drive-global-growth-stabilize-world-economy-deloitte-china-ceo",
+      "summary": "DAVOS, Switzerland, Jan. 20 (Xinhua) -- China's technological leaps and its commitment to deepening opening up are positioning the country as a new driver of global growth and a stabilizing anchor for the world economy, Deloitte China CEO Dora Liu told Xinhua in an exclusive interview. <a href=\"https://www.thestar.com.my/news/world/2026/01/21/interview-china039s-innovation-opening-up-to-drive-global-growth-stabilize-world-economy-deloitte-china-ceo\">Read full story</a>",
+      "published": "2026-01-20T19:18:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
       "id": "8de580d41737aebc13e638da936aee42a67b752c",
       "title": "New ceasefire in Syria after Kurdish-led forces pull out of camp for IS families",
       "link": "https://www.bbc.com/news/articles/c4g39w8k8zwo?at_medium=RSS&at_campaign=rss",
@@ -111,15 +300,6 @@
       "published": "2026-01-20T19:12:56+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "c6a2c284b73c7cc3e3f0c56a4cfed371f06a1a40",
-      "title": "4 killed in Tunisia as heaviest rainfall since 1950 causes flooding",
-      "link": "https://www.thestar.com.my/news/world/2026/01/21/4-killed-in-tunisia-as-heaviest-rainfall-since-1950-causes-flooding",
-      "summary": "TUNIS, Jan. 20 (Xinhua) -- At least four people have been killed in Tunisia as the heaviest rainfall since 1950 caused flooding in the country, the state-run Tunis Afrique Presse (TAP) reported Tuesday. <a href=\"https://www.thestar.com.my/news/world/2026/01/21/4-killed-in-tunisia-as-heaviest-rainfall-since-1950-causes-flooding\">Read full story</a>",
-      "published": "2026-01-20T19:03:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "801709075274dad78ac8b477fffa06c0126848af",
@@ -185,10 +365,10 @@
       "category": "tech"
     },
     {
-      "id": "59587113bd75331e355d78841251ef214576ce55",
-      "title": "OpenAI and ServiceNow sign a three-year deal to integrate OpenAI's models into ServiceNow's business software, including embedding OpenAI's AI agents (Belle Lin/Wall Street Journal)",
+      "id": "21ee8e6834b1accb4c5ccd9e8b5f2f6e6a2cf0d3",
+      "title": "OpenAI and ServiceNow sign a three-year deal to integrate OpenAI's models into ServiceNow's business software, including using OpenAI's AI agents for IT tasks (Belle Lin/Wall Street Journal)",
       "link": "http://www.techmeme.com/260120/p30#a260120p30",
-      "summary": "<a href=\"https://www.wsj.com/articles/openai-and-servicenow-strike-deal-to-put-ai-agents-in-business-software-57d1da5c?st=er3xaw&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260120/i30.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260120/p30#a260120p30\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Belle Lin / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/articles/openai-and-servicenow-strike-deal-to-put-ai-agents-in-business-software-57d1da5c?st=er3xaw&amp;reflink=desktopwebshare_permalink\">OpenAI and ServiceNow sign a three-year deal to integrate OpenAI's models into ServiceNow's business software, including embedding OpenAI's AI agents</a></b></span>&nbsp; &mdash;&nbsp; The AI model maker and business-software provider signed a three-year pact that underscores how AI agents are increasingly being embedded in corporate software</p>",
+      "summary": "<a href=\"https://www.wsj.com/articles/openai-and-servicenow-strike-deal-to-put-ai-agents-in-business-software-57d1da5c?st=er3xaw&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260120/i30.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260120/p30#a260120p30\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Belle Lin / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/articles/openai-and-servicenow-strike-deal-to-put-ai-agents-in-business-software-57d1da5c?st=er3xaw&amp;reflink=desktopwebshare_permalink\">OpenAI and ServiceNow sign a three-year deal to integrate OpenAI's models into ServiceNow's business software, including using OpenAI's AI agents for IT tasks</a></b></span>&nbsp; &mdash;&nbsp; The AI model maker and business-software provider signed a three-year pact that underscores how AI agents are increasingly being embedded in corporate software</p>",
       "published": "2026-01-20T18:35:01+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -221,10 +401,10 @@
       "category": "world"
     },
     {
-      "id": "fa42466b97b39839767ec3107595ac58897bf5bb",
-      "title": "At the WEF in Davos, Palantir CEO Alex Karp says that AI-driven job displacement will \"make it hard to imagine why we should have large-scale immigration\" (Shona Ghosh/Bloomberg)",
+      "id": "10911091fb72b6015a493a5daacdffe7acdf895b",
+      "title": "World Economic Forum panel: Palantir CEO Alex Karp says AI-driven job displacement will \"make it hard to imagine why we should have large-scale immigration\" (Shona Ghosh/Bloomberg)",
       "link": "http://www.techmeme.com/260120/p29#a260120p29",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-01-20/palantir-ceo-says-ai-to-make-large-scale-immigration-obsolete\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260120/i29.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260120/p29#a260120p29\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Shona Ghosh / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-01-20/palantir-ceo-says-ai-to-make-large-scale-immigration-obsolete\">At the WEF in Davos, Palantir CEO Alex Karp says that AI-driven job displacement will &ldquo;make it hard to imagine why we should have large-scale immigration&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; Artificial intelligence will displace so many jobs that it will eliminate the need for mass immigration &hellip; </p>",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-01-20/palantir-ceo-says-ai-to-make-large-scale-immigration-obsolete\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260120/i29.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260120/p29#a260120p29\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Shona Ghosh / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-01-20/palantir-ceo-says-ai-to-make-large-scale-immigration-obsolete\">World Economic Forum panel: Palantir CEO Alex Karp says AI-driven job displacement will &ldquo;make it hard to imagine why we should have large-scale immigration&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; Artificial intelligence will displace so many jobs that it will eliminate the need for mass immigration &hellip; </p>",
       "published": "2026-01-20T18:10:00+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -269,7 +449,7 @@
       "id": "96460ba5c61fd742e4b00a3e41abccd13b67d0c3",
       "title": "Retail startup Another raises a $2.5M seed to help sell excess inventory",
       "link": "https://techcrunch.com/2026/01/20/retail-startup-another-raises-a-2-5m-seed-to-help-sell-excess-inventory/",
-      "summary": "Another raises a $2.5 million seed round led by Anthemis FIL and Westbound to help retailers with off-channel inventory.",
+      "summary": "Another hopes to help companies address excess inventory before brands opt to sell items to bulk resellers. Corina Marshall, Another's founder, says items sold through such resellers may be deeply discounted, an outcome brands might not want.",
       "published": "2026-01-20T18:00:52+00:00",
       "source": "TechCrunch",
       "category": "tech"
@@ -293,15 +473,6 @@
       "category": "world"
     },
     {
-      "id": "2fe124f40a156e71c0e06e520f96a0c25696e9c2",
-      "title": "Lithuania president says joint security deal could end Greenland row",
-      "link": "https://www.thestar.com.my/news/world/2026/01/21/lithuania-president-says-joint-security-deal-could-end-greenland-row",
-      "summary": "DAVOS, Switzerland, Jan 20 (Reuters) - ‌An agreement on sharing responsibility for the security of the Arctic and the North Atlantic ‌could provide a way out of the stand-off between the United States and Europe ‌over Greenland, Lithuanian President Gitanas Nauseda said on Tuesday. <a href=\"https://www.thestar.com.my/news/world/2026/01/21/lithuania-president-says-joint-security-deal-could-end-greenland-row\">Read full story</a>",
-      "published": "2026-01-20T18:00:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "c38a35c096c11f8902c78ae849892f334e079a8d",
       "title": "The best iPad deals you can get right now",
       "link": "https://www.theverge.com/21280354/best-ipad-deals-apple",
@@ -311,31 +482,13 @@
       "category": "tech"
     },
     {
-      "id": "454ce0977570118bc10a4e87277dbe12b2ae0e54",
-      "title": "Demis Hassabis says Chinese AI companies are about six months behind leading western labs and the response to DeepSeek's R1 was a \"massive overreaction\" (Bloomberg)",
+      "id": "8010de233cdfe521d1690cad77c08ff71e8e8df3",
+      "title": "Demis Hassabis says Chinese AI companies are about six months behind leading western labs and the response to DeepSeek's R1 in 2025 was a \"massive overreaction\" (Bloomberg)",
       "link": "http://www.techmeme.com/260120/p27#a260120p27",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-01-20/deepmind-ceo-says-chinese-ai-firms-are-6-months-behind-the-west\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260120/i27.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260120/p27#a260120p27\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-01-20/deepmind-ceo-says-chinese-ai-firms-are-6-months-behind-the-west\">Demis Hassabis says Chinese AI companies are about six months behind leading western labs and the response to DeepSeek's R1 was a &ldquo;massive overreaction&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; Google DeepMind Chief Executive Officer Demis Hassabis said Chinese artificial intelligence companies haven't been able &hellip; </p>",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-01-20/deepmind-ceo-says-chinese-ai-firms-are-6-months-behind-the-west\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260120/i27.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260120/p27#a260120p27\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-01-20/deepmind-ceo-says-chinese-ai-firms-are-6-months-behind-the-west\">Demis Hassabis says Chinese AI companies are about six months behind leading western labs and the response to DeepSeek's R1 in 2025 was a &ldquo;massive overreaction&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; Google DeepMind Chief Executive Officer Demis Hassabis said Chinese artificial intelligence companies haven't been able &hellip; </p>",
       "published": "2026-01-20T17:50:03+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "6d309575a82a1c6e0331c87db9da48605cc7bf85",
-      "title": "Chinese embassy donates agricultural machinery to boost food security in South Sudan state",
-      "link": "https://www.thestar.com.my/news/world/2026/01/21/chinese-embassy-donates-agricultural-machinery-to-boost-food-security-in-south-sudan-state",
-      "summary": "JUBA, Jan. 20 (Xinhua) -- The Chinese Embassy in South Sudan on Tuesday donated more than 20 pieces of agricultural machinery to boost food production in the African country's Western Equatoria State. <a href=\"https://www.thestar.com.my/news/world/2026/01/21/chinese-embassy-donates-agricultural-machinery-to-boost-food-security-in-south-sudan-state\">Read full story</a>",
-      "published": "2026-01-20T17:50:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "d4dc9a571fb1a45cfaa7f2aca4a0c45ca0d1a0a9",
-      "title": "China reaches final for first time in AFC U23 Asian Cup",
-      "link": "https://www.thestar.com.my/news/world/2026/01/21/china-reaches-final-for-first-time-in-afc-u23-asian-cup",
-      "summary": "JEDDAH, Saudi Arabia, Jan. 20 (Xinhua) -- China reached the final of AFC U23 Asian Cup for the first time after defeating Vietnam 3-0 in the semifinals on Tuesday in Jeddah, Saudi Arabia. <a href=\"https://www.thestar.com.my/news/world/2026/01/21/china-reaches-final-for-first-time-in-afc-u23-asian-cup\">Read full story</a>",
-      "published": "2026-01-20T17:46:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "bf64b4e58953358680b60b3448b4f3639ba7eb5c",
@@ -347,24 +500,6 @@
       "category": "deals"
     },
     {
-      "id": "17c271fe8a2b1f37cf91874b79cba8873a7a7f6e",
-      "title": "Urgent: China reaches final for first time in AFC U23 Asian Cup",
-      "link": "https://www.thestar.com.my/news/world/2026/01/21/urgent-china-reaches-final-for-first-time-in-afc-u23-asian-cup",
-      "summary": "JEDDAH, Jan. 20 (Xinhua) -- China reached the final of AFC U23 Asian Cup for the first time after defeating Vietnam 3-0 in the semifinals on Tuesday in Jeddah, Saudi Arabia. <a href=\"https://www.thestar.com.my/news/world/2026/01/21/urgent-china-reaches-final-for-first-time-in-afc-u23-asian-cup\">Read full story</a>",
-      "published": "2026-01-20T17:27:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "7395340102217df79182a33108ffb9665cbca52c",
-      "title": "ICE crackdown creates double-edged campaign issue for Republicans and Democrats",
-      "link": "https://www.thestar.com.my/news/world/2026/01/21/ice-crackdown-creates-double-edged-campaign-issue-for-republicans-and-democrats",
-      "summary": "WASHINGTON, Jan 20 (Reuters) - President Donald Trump's immigration crackdown is fast becoming ‌a double-edged campaign issue in November's hotly contested midterm congressional elections because of mounting public unease over aggressive tactics by federal immigration officers. <a href=\"https://www.thestar.com.my/news/world/2026/01/21/ice-crackdown-creates-double-edged-campaign-issue-for-republicans-and-democrats\">Read full story</a>",
-      "published": "2026-01-20T17:27:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "9a7c3fbb0604e62da2c261f141c5dd0b7bd4da09",
       "title": "The World Economic Forum in Davos is now dominated by tech giants, whose interests shunt aside topics like climate change, as Trump and AI take center stage (Peter S. Goodman/New York Times)",
       "link": "http://www.techmeme.com/260120/p26#a260120p26",
@@ -374,15 +509,6 @@
       "category": "tech"
     },
     {
-      "id": "2fccbf141e10fb413ba2e784abdffc235a4cbbab",
-      "title": "Bulgaria&#039;s third region declares flu epidemic",
-      "link": "https://www.thestar.com.my/news/world/2026/01/21/bulgaria039s-third-region-declares-flu-epidemic",
-      "summary": "SOFIA, Jan. 20 (Xinhua) -- Bulgaria's Health Ministry announced on Tuesday that the coastal Burgas District has become the third region this year to declare a flu epidemic. <a href=\"https://www.thestar.com.my/news/world/2026/01/21/bulgaria039s-third-region-declares-flu-epidemic\">Read full story</a>",
-      "published": "2026-01-20T17:24:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "284c3ef7f64e3a1f95ec06751ee550e905d0ffca",
       "title": "Netflix’s Star Search will let you vote to decide who wins",
       "link": "https://www.theverge.com/entertainment/864424/netflix-star-search-live-voting",
@@ -390,15 +516,6 @@
       "published": "2026-01-20T17:19:41+00:00",
       "source": "The Verge",
       "category": "tech"
-    },
-    {
-      "id": "fb1a0340e8f83f58b3badefb6d4be10c0abadecc",
-      "title": "Roundup: Fuel price hike sparks public concern in Malawi",
-      "link": "https://www.thestar.com.my/news/world/2026/01/21/roundup-fuel-price-hike-sparks-public-concern-in-malawi",
-      "summary": "LILONGWE, Jan. 20 (Xinhua) -- A sharp increase in fuel prices announced by the Malawi Energy Regulatory Authority (MERA) on Monday has triggered public concern, with many Malawians warning that higher costs will push up prices of basic goods and services. <a href=\"https://www.thestar.com.my/news/world/2026/01/21/roundup-fuel-price-hike-sparks-public-concern-in-malawi\">Read full story</a>",
-      "published": "2026-01-20T17:16:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "c14fdf3bffbfac9891e65b2d2fe3ba6ccf2ee9bc",
@@ -435,15 +552,6 @@
       "published": "2026-01-20T16:45:03+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "469061da67e4cfe9d3343d840d09da8b293c2431",
-      "title": "UK defends Chagos deal after Trump calls it 'act of great stupidity'",
-      "link": "https://www.bbc.com/news/articles/c0mkp021rvro?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says it is \"another in a very long line of National Security reasons why Greenland has to be acquired\".",
-      "published": "2026-01-20T16:42:13+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "cdc79fed38a083c4033a8d6af541de15be838e46",
@@ -545,15 +653,6 @@
       "category": "tech"
     },
     {
-      "id": "d40d497129e78ef172b860767e61e0ce57c79e94",
-      "title": "Anker’s SOLIX Winter Sale ramps power station savings up to 65% – F3800 unit at second-best $1,899, more from $150",
-      "link": "https://9to5toys.com/2026/01/20/anker-solix-winter-sale-f3800-1899-more-from-150/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/01/Anker-SOLIX-Winter-Sale-2026-FI.png?w=1600\" /></div><p>Anker SOLIX is joining its competitors in bringing back <a href=\"https://ankersolix.pxf.io/Xm30xg\">previous holiday savings in the form of its latest Winter Sale</a> that is offering up to 65% discounts and FREE gifts with select units. One unit I want to point out is <a href=\"https://ankersolix.pxf.io/kODyWd\">Anker’s SOLIX F3800 Portable Power Station at <strong>$1,899 shipped</strong></a>, which matches the price we’re seeing at Amazon, though be sure to clip the on-page 5% off coupon. It may have a $3,999 MSRP direct from the brand, but at Amazon you can find it starting between $2,399 and $2,599. It’s mostly been keeping above $2,000 since December, which is when we saw the $1,799 low from Black Friday and Cyber Monday sales rise in price. You’re looking at the next-best rate today that even beats out the previous New Year sale by $100, with $700 struck from the going rate ($2,100 off the MSRP), making this quite the surprise offer. Head below to check out the full lineup for Anker’s SOLIX Winter Sale while it lasts through the week. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/01/20/anker-solix-winter-sale-f3800-1899-more-from-150/#more-1188644\">more…</a>",
-      "published": "2026-01-20T15:44:32+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "c90bdf2f5cd7c0f4246f2fa503f6514db486afb8",
       "title": "Corsair’s wired Hall effect gaming keyboard is cheaper than ever",
       "link": "https://www.theverge.com/gadgets/864339/corsair-hall-effect-gaming-keyboard-resident-evil-requiem-surface-laptop-deal-sale",
@@ -570,24 +669,6 @@
       "published": "2026-01-20T15:30:01+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "cecfe16b333fbe56b6c95e8c8cd97cc5ade8bd8f",
-      "title": "Filings: Michael Saylor's Strategy has bought more than $3B in Bitcoin since January 5, marking its biggest two-week purchase since December 2024 (Melos Ambaye/Bloomberg)",
-      "link": "http://www.techmeme.com/260120/p21#a260120p21",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-01-20/strategy-purchases-2-13-billion-of-bitcoin-the-most-in-seven-months\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260120/i21.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260120/p21#a260120p21\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Melos Ambaye / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-01-20/strategy-purchases-2-13-billion-of-bitcoin-the-most-in-seven-months\">Filings: Michael Saylor's Strategy has bought more than $3B in Bitcoin since January 5, marking its biggest two-week purchase since December 2024</a></b></span>&nbsp; &mdash;&nbsp; Michael Saylor's Strategy Inc. acquired almost $2.13 billion in Bitcoin over the previous eight days, marking the digital asset treasury &hellip; </p>",
-      "published": "2026-01-20T15:20:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "d61eded5cf4fee84f9bf21640f35658596aa502d",
-      "title": "Samsung’s latest 32-inch M8 Smart Monitor w/ webcam, game streaming now down at $400 (Reg. $700)",
-      "link": "https://9to5toys.com/2026/01/20/samsung-32-inch-m8-smart-monitor-deal/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/01/32-inch-Samsung-Smart-Monitor-M8-M80F-4K-UHD-Display.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>We are still tracking a <strong>$300 off </strong>the list price at Amazon and <a href=\"https://howl.link/j1d31k8wa7hs6\">Samsung</a>. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/01/20/samsung-32-inch-m8-smart-monitor-deal/#more-1188654\">more…</a>",
-      "published": "2026-01-20T15:15:33+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "86b8b9e5a3dde942183936162e2558cfd3cef173",
@@ -644,15 +725,6 @@
       "category": "malaysia"
     },
     {
-      "id": "b9faf9f3f6652f91e269e3742e79202e05e80274",
-      "title": "Today’s iOS app deals and freebies: Cytus II, Streets of Rage 4, more",
-      "link": "https://9to5toys.com/2026/01/20/today-ios-app-deals-free-rebels-streets-rage/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/01/App-Store-iOS-app-deals-Jan-20.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Today’s lineup of the best iOS game and app deals is now ready to roll, including titles like Slaughter 3: The Rebels, Streets of Rage 4, and some notable hangover offers on titles like The Last Game, and more. On your way down, be sure to scope out the<a href=\"https://9to5toys.com/2026/01/16/amazon-offering-ginormous-699-off-m4-ipad-pro-today/\"><strong>$699 off</strong> this M4 iPad Pro</a>, Apple’s black <a href=\"https://9to5toys.com/2026/01/20/apple-black-techwoven-case-deals/\">TechWoven Case for iPhone 17 Pro at <strong>25% off</strong></a>, and this <a href=\"https://9to5toys.com/2026/01/20/apple-watch-series-11-titanium-model-sale/\">Apple Watch Series 11 Titanium model</a> with the Milanese Loop <a href=\"https://9to5toys.com/2026/01/20/apple-watch-series-11-titanium-model-sale/\">at $127 off </a>(Amazon al-time low). As for the apps, everything awaits below. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/01/20/today-ios-app-deals-free-rebels-streets-rage/#more-1188645\">more…</a>",
-      "published": "2026-01-20T14:43:05+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "12e00fafc91b904ed05b82fa0235c34642fff655",
       "title": "France makes first interception targeting small boat crossings to UK",
       "link": "https://www.bbc.com/news/articles/ceqz1lzdxw1o?at_medium=RSS&at_campaign=rss",
@@ -660,15 +732,6 @@
       "published": "2026-01-20T14:37:58+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "089aa6eb9825e3cfd06fccdcf945dfc624017351",
-      "title": "Baseus’ regularly $80 portable tire inflator is down to just $20 today and comes with FREE MagSafe mount for your phone",
-      "link": "https://9to5toys.com/2026/01/20/baseus-portable-tire-inflator-is-down-to-just-20-today/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/01/Baseus-tire-inflator.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">Baseus portable Tire Inflator</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $20 (Reg. $80)</h3>\n\n\n\n<p class=\"has-text-align-center\"><em>Enter promo code <strong>7SMJGGBG</strong> for $20 off</em> + <em><strong>FREE</strong> MagSafe car mount offer.</em></p>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A white line on a red background\" class=\"wp-image-1188638 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/01/Baseus-portable-tire-inflator-price-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p style=\"text-align: left;\">This mini tire inflator is a small portable air pump you can keep in your car. It helps you add air to flat or low pressure tires without going to a service station, and you can even use it for bike tires, footballs/basketballs and other small inflatables. It has a built-in battery to work wirelessly without external power, and it also has a display to show the pressure as it fills so you don’t overinflate. ￼</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/01/20/baseus-portable-tire-inflator-is-down-to-just-20-today/#more-1188634\">more…</a>",
-      "published": "2026-01-20T14:22:17+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "719f21060df2f131c84e624a0d7b230174ebed0b",
@@ -698,24 +761,6 @@
       "category": "tech"
     },
     {
-      "id": "bb0f5c61abbd0d5fc23cc4b723ea9289b00d4687",
-      "title": "Legal AI startup Ivo, which aims to reduce hallucinations by breaking legal reviews into 400+ tasks, raised a $55M Series B, a source says at a $355M valuation (Aditya Soni/Reuters)",
-      "link": "http://www.techmeme.com/260120/p20#a260120p20",
-      "summary": "<a href=\"https://www.reuters.com/technology/legal-ai-startup-ivo-raises-55-million-latest-funding-round-2026-01-20/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260120/i20.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260120/p20#a260120p20\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Aditya Soni / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/technology/legal-ai-startup-ivo-raises-55-million-latest-funding-round-2026-01-20/\">Legal AI startup Ivo, which aims to reduce hallucinations by breaking legal reviews into 400+ tasks, raised a $55M Series B, a source says at a $355M valuation</a></b></span>&nbsp; &mdash;&nbsp; Artificial intelligence startup Ivo raised $55 million in a funding round, led by existing investor Blackbird &hellip; </p>",
-      "published": "2026-01-20T13:30:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "21f4a8696f8f37c91dacf0f098161cbd543d17d4",
-      "title": "Nielsen: Christmas Day 2025 set a record for US streaming usage with 55.1B minutes, or 54% of all TV viewing for the day, up by 3.9B minutes on Christmas 2024 (Rick Porter/The Hollywood Reporter)",
-      "link": "http://www.techmeme.com/260120/p19#a260120p19",
-      "summary": "<a href=\"https://www.hollywoodreporter.com/business/business-news/christmas-2025-biggest-us-streaming-day-ever-1236477751/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260120/i19.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260120/p19#a260120p19\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Rick Porter / <a href=\"https://www.hollywoodreporter.com/\">The Hollywood Reporter</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.hollywoodreporter.com/business/business-news/christmas-2025-biggest-us-streaming-day-ever-1236477751/\">Nielsen: Christmas Day 2025 set a record for US streaming usage with 55.1B minutes, or 54% of all TV viewing for the day, up by 3.9B minutes on Christmas 2024</a></b></span>&nbsp; &mdash;&nbsp; The month of December also marked another all-time high for streaming usage.&nbsp; &mdash;&nbsp; With three streaming-exclusive NFL games &hellip; </p>",
-      "published": "2026-01-20T13:20:03+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "cd8ae85ba5f6eddc954a3d0f12d2c5cb8a272104",
       "title": "Valentino Garavani remembered for elegance, cinema-inspired fashion and timeless style",
       "link": "https://www.malaymail.com/news/life/2026/01/20/valentino-garavani-remembered-for-elegance-cinema-inspired-fashion-and-timeless-style/206041",
@@ -741,15 +786,6 @@
       "published": "2026-01-20T13:00:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "a33ccd0cf1e8d7d1c4b5a22cc7058240834ff9e1",
-      "title": "Netflix revises Warner Bros. bid to an all-cash offer",
-      "link": "https://www.theverge.com/news/863318/netflix-warner-bros-discovery-merger-revision-cash-deal",
-      "summary": "Netflix has updated the acquisition terms for its Warner Bros. Discovery offer to an all-cash deal, replacing its initial $82.7 billion cash and stock agreement. The changes are designed to expedite the sale of WBD studios and streaming businesses, following repeated attempts by rival bidder Paramount to pressure shareholders into accepting its own $108 billion [&#8230;]",
-      "published": "2026-01-20T12:26:10+00:00",
-      "source": "The Verge",
-      "category": "tech"
     },
     {
       "id": "61cecbac10b26fd6fd0b2c2693e8ab900b899c8f",
@@ -1283,15 +1319,6 @@
       "category": "tech"
     },
     {
-      "id": "48629b116a4908d8268d431d0c87c7b1d1632219",
-      "title": "BioticsAI, which won Disrupt’s Battlefield competition in 2023, gains FDA approval for its AI-powered fetal ultrasound product",
-      "link": "https://techcrunch.com/2026/01/19/biotics-ai-battlefield-2023-gains-fda-approval-for-its-ai-powered-fetal-ultrasound-product/",
-      "summary": "TechCrunch Disrupt Battlefield 2023 winner BioticsAI announced on Monday that it has received FDA clearance for its AI software that helps detect fetal abnormalities in ultrasound images.",
-      "published": "2026-01-19T15:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "b7a5d37633c947e7cd847d65563998926bb7ecf0",
       "title": "AskUCP",
       "link": "https://www.producthunt.com/products/askucp",
@@ -1299,15 +1326,6 @@
       "published": "2026-01-19T14:56:03+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "b0667df9dc3962cbd5a790bac02ec8a084f6400e",
-      "title": "Lawyers for Swiss bar owners condemn 'vindictiveness' after deadly fire",
-      "link": "https://www.bbc.com/news/articles/c5yvl4x3nqeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lawyers for the Moretti couple say \"lies\" have been circulating about their clients, in their first public statement since the fire.",
-      "published": "2026-01-19T14:53:42+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "4016e434ece69bc6d64a362072dde4f34b445877",
@@ -1346,6 +1364,15 @@
       "category": "events"
     },
     {
+      "id": "bc60c8a913c4ab0646da04c8c236c64f7d80d908",
+      "title": "Stroke",
+      "link": "https://www.producthunt.com/products/stroke",
+      "summary": "<p>\n            Animate SVGs. Beautifully.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/stroke?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1064890?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-01-19T09:57:05+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "f2a79aafa380b02e84624b2972a548dae8e2a8af",
       "title": "3D Viewer for Google Drive",
       "link": "https://www.producthunt.com/products/3d-viewer-for-google-drive",
@@ -1371,24 +1398,6 @@
       "published": "2026-01-18T22:52:24+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "1671b60231165f05568e25c900140e97fb8a36e0",
-      "title": "Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT",
-      "link": "https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/",
-      "summary": "Venture capital firms have historically avoided backing competing companies in the same sector, preferring to place their bets on a single winner. Yet here's Sequoia, already invested in both OpenAI and Elon Musk's xAI, now throwing its weight behind Anthropic, too.",
-      "published": "2026-01-18T22:15:17+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "b7e7f957362a561dbd4c69816541093f1f1ec1af",
-      "title": "TechCrunch Mobility: ‘Physical AI’ enters the hype machine",
-      "link": "https://techcrunch.com/2026/01/18/techcrunch-mobility-physical-ai-enters-the-hype-machine/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for all things “future of transportation.”",
-      "published": "2026-01-18T17:05:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "1866d051a50b90f13c8033c3d073eb9bb7eb96b0",
@@ -1418,6 +1427,15 @@
       "category": "malaysia"
     },
     {
+      "id": "76592f28784f1612f8bc7761befb9034db7cf4e6",
+      "title": "Sapiare New Tab",
+      "link": "https://www.producthunt.com/products/sapiare-new-tab",
+      "summary": "<p>\n            Find inspiration every time you open a new tab.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sapiare-new-tab?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1064170?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-01-17T14:41:57+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "410de4732635e7d260519406ca49209a4915ccb5",
       "title": "Raycaster",
       "link": "https://www.producthunt.com/products/raycaster",
@@ -1443,15 +1461,6 @@
       "published": "2026-01-17T10:52:57+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "8128d47ec9ddcb7906d7cd1c3190981fc12e5e00",
-      "title": "Typeless for Android",
-      "link": "https://www.producthunt.com/products/typeless-2",
-      "summary": "<p>\n            First AI voice keyboard for Android\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/typeless-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1064085?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-01-17T10:17:06+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "302884dae861533d6e224865fe71fb4d4a11d548",
@@ -1522,15 +1531,6 @@
       "link": "https://www.producthunt.com/products/babycheck-kids-food-scanner",
       "summary": "<p>\n            Scan baby food: Spot dangers & get healthier alternatives\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/babycheck-kids-food-scanner?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1063794?app_id=339\">Link</a>\n          </p>",
       "published": "2026-01-16T14:19:46+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "b67f87e89aefcf122ac2f27647b74276eae8b948",
-      "title": "Caffeine Curfew iOS App",
-      "link": "https://www.producthunt.com/products/caffeine-curfew-ios-app",
-      "summary": "<p>\n            Track caffeine intake, hydration, and master your sleep\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/caffeine-curfew-ios-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1063554?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-01-16T01:42:51+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
