@@ -1,9 +1,261 @@
 {
-  "generatedAt": "2026-01-28T10:22:04.832060+00:00",
+  "generatedAt": "2026-01-28T11:18:22.633115+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "d02abdb123746b35dcb2ad6e8dbc1676d24462ff",
+      "title": "Astronomers used AI to find 1,400 ‘anomalous objects’ from Hubble archives",
+      "link": "https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives",
+      "summary": "A pair of astronomers at the European Space Agency (ESA) discovered more than 800 previously undocumented \"astrophysical anomalies\" hiding in Hubble's archives. To do so, researchers David O'Ryan and Pablo G&#243;mez trained an AI model to comb through Hubble's 35-year dataset, hunting for strange objects and flagging them for manual review. It's \"a treasure trove [&#8230;]",
+      "published": "2026-01-28T11:15:37+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "067cedb8339e1034b6c1fb571817bb381ac9d4b9",
+      "title": "Toronto-based self-driving truck startup Waabi raised a $750M Series C led by Khosla and G2 and partners with Uber, which can invest $250M based on performance (Natalie Lung/Bloomberg)",
+      "link": "http://www.techmeme.com/260128/p21#a260128p21",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-01-28/self-driving-trucking-startup-waabi-raises-1-billion-expands-to-robotaxis\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260128/i21.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260128/p21#a260128p21\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Natalie Lung / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-01-28/self-driving-trucking-startup-waabi-raises-1-billion-expands-to-robotaxis\">Toronto-based self-driving truck startup Waabi raised a $750M Series C led by Khosla and G2 and partners with Uber, which can invest $250M based on performance</a></b></span>&nbsp; &mdash;&nbsp; Waabi Innovation Inc., a Canadian startup that develops self-driving technology for trucks, has secured $1 billion in funding &hellip; </p>",
+      "published": "2026-01-28T11:15:13+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "3a5419a6d2da438e5a2f468620c7ad2b73e5e711",
+      "title": "India confirms two Nipah cases in West Bengal, says outbreak contained with 196 contacts traced",
+      "link": "https://www.malaymail.com/news/world/2026/01/28/india-confirms-two-nipah-cases-in-west-bengal-says-outbreak-contained-with-196-contacts-traced/207168",
+      "summary": "MUMBAI, INDIA, Jan 28 &mdash; Indian authorities said they had ensured &ldquo;timely containment&rdquo; of the deadly Ni...",
+      "published": "2026-01-28T11:14:08+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "c57e2dbbe8b68cdc038115a5f1a8af294226c30f",
+      "title": "A Google bug report apparently leaks the planned Android desktop interface, showing a taller status bar, a new mouse cursor, Chrome extensions, and more (Abner Li/9to5Google)",
+      "link": "http://www.techmeme.com/260128/p20#a260128p20",
+      "summary": "<a href=\"https://9to5google.com/2026/01/27/android-desktop-leak/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260128/i20.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260128/p20#a260128p20\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Abner Li / <a href=\"https://9to5google.com/\">9to5Google</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://9to5google.com/2026/01/27/android-desktop-leak/\">A Google bug report apparently leaks the planned Android desktop interface, showing a taller status bar, a new mouse cursor, Chrome extensions, and more</a></b></span>&nbsp; &mdash;&nbsp; A Google bug report on the Chromium Issue Tracker today has inadvertently leaked the Android desktop interface for the first time.</p>",
+      "published": "2026-01-28T11:10:04+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "9fc8ea8dd92eb353e38243c1f7666ce26871c5f6",
+      "title": "When sport fails as a shield: Football match massacre underscores Mexico’s gang scourge",
+      "link": "https://www.malaymail.com/news/world/2026/01/28/when-sport-fails-as-a-shield-football-match-massacre-underscores-mexicos-gang-scourge/207101",
+      "summary": "LOROMA DE FLORES (Mexico), Jan 28 &mdash; The murder of 11 people at a football game has sparked deep anger in the centr...",
+      "published": "2026-01-28T11:09:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "f149f5a9e411c7b5ca09c0be815cd5bd21850e68",
+      "title": "Chanel takes flight: Blazy’s bird-inspired couture lands in Paris",
+      "link": "https://www.malaymail.com/news/life/2026/01/28/chanel-takes-flight-blazys-bird-inspired-couture-lands-in-paris/207102",
+      "summary": "PARIS, Jan 28 &mdash; After reaching for the stars in his first show for Chanel, new chief designer Matthieu Blazy took...",
+      "published": "2026-01-28T11:07:40+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "63ec2d7e254fb3e66357329d55507d951887193a",
+      "title": "Ringgit continues climb, hits 3.9175 against US dollar on Fed easing hopes",
+      "link": "https://www.malaymail.com/news/money/2026/01/28/ringgit-continues-climb-hits-39175-against-us-dollar-on-fed-easing-hopes/207167",
+      "summary": "KUALA LUMPUR, Jan 28 &mdash; The ringgit jumped to a seven-year high to close at 3.9175 versus the US dollar today as im...",
+      "published": "2026-01-28T11:07:19+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "d0ef02338b3a5bc85fe042061a52393210d921a5",
+      "title": "Japan PM’s food tax plan unnerves voters and markets before February vote",
+      "link": "https://www.malaymail.com/news/money/2026/01/28/japan-pms-food-tax-plan-unnerves-voters-and-markets-before-february-vote/207092",
+      "summary": "TOKYO, Jan 28 &mdash; Ahead of a snap election in Japan, Prime Minister Sanae Takaichi has pledged to scrap a tax on foo...",
+      "published": "2026-01-28T11:06:58+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "e9db5deb4a4175a6b5581f33a1cb5ebdf440efbe",
+      "title": "‘Raped, then killed’: Chechen women face deadly punishment for defiance amid Russia’s war, say activists",
+      "link": "https://www.malaymail.com/news/life/2026/01/28/raped-then-killed-chechen-women-face-deadly-punishment-for-defiance-amid-russias-war-say-activists/207097",
+      "summary": "EUROPE, Jan 28 &mdash;&nbsp;Facing what activists say is a hardening of repression inside Chechnya amid Russia&rsquo;s i...",
+      "published": "2026-01-28T11:06:16+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "ca0d2dda6f1d80da60c5158b2e23f15badd7daff",
+      "title": "You can land an always-on Apple Watch SE 3 today down at $173 (30% off, Open-box ‘excellent’)",
+      "link": "https://9to5toys.com/2026/01/28/apple-watch-se-3-deal/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/09/Apple-Watch-SE-3-launch-deals.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>Over the holidays last year we did feature some $50 price drops to deliver new all-time lows on Apple’s latest <a href=\"https://sovrn.co/hgwucp9\">Apple Watch SE 3</a>, Apple’s most compelling SE model yet. But this morning we spotted a chance to land the <a href=\"https://sovrn.co/hgwucp9\">40mm variant down at $173 shipped</a> in “Certified Open Box” condition. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/01/28/apple-watch-se-3-deal/#more-1190084\">more…</a>",
+      "published": "2026-01-28T11:03:16+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "4a8ec009da3bea35694d521e7f9056da5c34e58b",
+      "title": "Waabi raises $1B and expands into robotaxis with Uber",
+      "link": "https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/",
+      "summary": "Waabi has secured a $750 million Series C round to accelerate autonomous trucking, and another roughly $250 million commitment from Uber to deploy 25,000 robotaxis exclusively on its platform.",
+      "published": "2026-01-28T11:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "949af633b868e8bb677c0221d716d674e71a13fe",
+      "title": "Self-driving truck startup Waabi is teaming up with Uber on robotaxis",
+      "link": "https://www.theverge.com/news/868535/waabi-robotaxi-uber-fundraising-self-driving-truck",
+      "summary": "Waabi, the Toronto-based autonomous trucking startup, is expanding its portfolio to include robotaxis. And it's bringing Uber along for the ride. Raquel Urtasun, the former chief scientist at Uber's now defunct Advanced Technologies Group, founded Waabi in 2021 to be a more \"AI-centric approach\" to autonomous vehicles. That approach initially focused on trucking, with Waabi [&#8230;]",
+      "published": "2026-01-28T11:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "30a850154c446d67894a6936cc84f12f06b1986b",
+      "title": "Expect more data centre projects this year, says ISF Group after buoyant ACE Market debut",
+      "link": "https://www.malaymail.com/news/money/2026/01/28/expect-more-data-centre-projects-this-year-says-isf-group-after-buoyant-ace-market-debut/207165",
+      "summary": "KUALA LUMPUR, Jan 28 &mdash; ACE Market debutant ISF Group Bhd will continue to benefit from Malaysia&rsquo;s data centr...",
+      "published": "2026-01-28T10:59:45+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "101d003b87ce0daeac3a334746d384bf67cc8c8a",
+      "title": "Osaka-based Capcom reports game sales up 13.5% to a record 34.64M from March to December 2025; the Street Fighter and Resident Evil maker's stock jumps 10%+ (Takashi Mochizuki/Bloomberg)",
+      "link": "http://www.techmeme.com/260128/p19#a260128p19",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-01-28/capcom-jumps-most-in-18-months-on-surprise-resident-evil-boost\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260128/i19.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260128/p19#a260128p19\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Takashi Mochizuki / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-01-28/capcom-jumps-most-in-18-months-on-surprise-resident-evil-boost\">Osaka-based Capcom reports game sales up 13.5% to a record 34.64M from March to December 2025; the Street Fighter and Resident Evil maker's stock jumps 10%+</a></b></span>&nbsp; &mdash;&nbsp; Japanese video game publisher Capcom Co. posted its biggest single-day share gain in 18 months on Wednesday after December-quarter &hellip; </p>",
+      "published": "2026-01-28T10:55:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "f367e8caaf6e955bfa760f9d7a4199b0f2476587",
+      "title": "Malaysia To Introduce New Rule Against Foreign Purchasers Of RON95 Starting April",
+      "link": "https://www.lowyat.net/2026/379666/malaysia-to-introduce-new-rule-against-foreign-purchasers-of-ron95-starting-april/",
+      "summary": "<p>The Malaysian government recently said that it plans on introducing a new rule that will allow it to take legal action against foreign purchasers of our RON95 petrol. The new rule will be introduced and implemented by April of this year. Currently, the law only allows for the government to prosecute petrol station operators, and [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/379666/malaysia-to-introduce-new-rule-against-foreign-purchasers-of-ron95-starting-april/\">Malaysia To Introduce New Rule Against Foreign Purchasers Of RON95 Starting April</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-01-28T10:54:23+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "1425dc06368e9baeee64c4140c19e46cdc5b740d",
+      "title": "Tim Cook had ‘a good conversation’ with Trump about deescalation",
+      "link": "https://www.theverge.com/news/869155/apple-tim-cook-president-trump-deescalate-minneapolis",
+      "summary": "Apple CEO Tim Cook has spoken out about \"the events in Minneapolis\" after federal agents shot and killed another protester over the weekend, telling employees that he has shared his feelings with President Trump. In an internal memo reported by Bloomberg, Cook said that \"this is a time for deescalation,\" and that he had \"a [&#8230;]",
+      "published": "2026-01-28T10:52:14+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "f89275c78e03c61ca7c1fdb13de18813fa71cee4",
+      "title": "Five directors and business owners join arrest list as MACC cracks down over crony company tenders at Lumut naval base",
+      "link": "https://www.malaymail.com/news/malaysia/2026/01/28/five-directors-and-business-owners-join-arrest-list-as-macc-cracks-down-over-crony-company-tenders-at-lumut-naval-base/207161",
+      "summary": "KUALA LUMPUR, Jan 28 &mdash; The Malaysian Anti-Corruption Commission (MACC) arrested five more individuals to assist in...",
+      "published": "2026-01-28T10:51:30+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "afda7cb281a13ce834252941ee6bc0c8b056f703",
+      "title": "Bursa ends five-day winning streak as investors lock in gains ahead of US Fed decision",
+      "link": "https://www.malaymail.com/news/money/2026/01/28/bursa-ends-five-day-winning-streak-as-investors-lock-in-gains-ahead-of-us-fed-decision/207164",
+      "summary": "KUALA LUMPUR, Jan 28 &mdash; Bursa Malaysia snapped its five-day winning streak to close lower today, as investors took...",
+      "published": "2026-01-28T10:46:40+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "008270c5c41c96467b3778a86e95c9f22245f5e6",
+      "title": "Bomba drops 33,000 litres of water over Johor peat fire",
+      "link": "https://www.thestar.com.my/news/nation/2026/01/28/bomba-drops-33000-litres-of-water-over-johor-peat-fire",
+      "summary": "KOTA TINGGI: The Malaysian Fire and Rescue Department has conducted 21 water-bombing sorties and dropped 33,000 litres of water to extinguish a peatland fire spanning nearly 100ha at Jalan Sungai Kapal, Taman Bayu Damai in Pengerang. <a href=\"https://www.thestar.com.my/news/nation/2026/01/28/bomba-drops-33000-litres-of-water-over-johor-peat-fire\">Read full story</a>",
+      "published": "2026-01-28T10:46:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "a8ede7c0897938e7e4ec531a4a6e8f10a102d56f",
+      "title": "ASML CEO Christophe Fouquet says the company plans to cut 1,700 jobs, or 4% of its workforce, mainly in its Tech and IT organizations; ASML jumps 5%+ pre-market (Sarah Jacob/Bloomberg)",
+      "link": "http://www.techmeme.com/260128/p18#a260128p18",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-01-28/asml-plans-about-1-700-job-cuts-in-netherlands-us-as-sales-boom\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260128/i18.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260128/p18#a260128p18\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sarah Jacob / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-01-28/asml-plans-about-1-700-job-cuts-in-netherlands-us-as-sales-boom\">ASML CEO Christophe Fouquet says the company plans to cut 1,700 jobs, or 4% of its workforce, mainly in its Tech and IT organizations; ASML jumps 5%+ pre-market</a></b></span>&nbsp; &mdash;&nbsp; ASML Holding NV said it will cut about 1,700 jobs in the middle of a sales boom after feedback that the Dutch chip-machine maker is too bureaucratic.</p>",
+      "published": "2026-01-28T10:45:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "498dee54e247047ebafb6e1bc7b5587d436695b1",
+      "title": "MFL clears JDT’s three suspended heritage players to return to M-League",
+      "link": "https://www.malaymail.com/news/sports/2026/01/28/mfl-clears-jdts-three-suspended-heritage-players-to-return-to-m-league/207162",
+      "summary": "KUALA LUMPUR, Jan 28 &mdash; Three Johor Darul Ta&rsquo;zim (JDT) heritage players, namely Joao Figueiredo, Jon Irazabal...",
+      "published": "2026-01-28T10:42:32+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "01665780f585350cc3fa3cd76ebb6a806fbe702c",
+      "title": "US singer Chris Brown in UK court ahead of October assault trial",
+      "link": "https://www.thestar.com.my/news/world/2026/01/28/us-singer-chris-brown-in-uk-court-ahead-of-october-assault-trial",
+      "summary": "LONDON, Jan 28 (Reuters) - U.S. ‌singer Chris Brown appeared in a London ‌court on Wednesday for a brief hearing ahead of ‌his trial later this year on charges of attacking a music producer in a London nightclub. <a href=\"https://www.thestar.com.my/news/world/2026/01/28/us-singer-chris-brown-in-uk-court-ahead-of-october-assault-trial\">Read full story</a>",
+      "published": "2026-01-28T10:42:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "76c218aab7562f04ec4ea6e0bf01c3baeb11a109",
+      "title": "Johor peatland fire under control with water bombing, smoke yet to reach Singapore, says Bomba",
+      "link": "https://www.malaymail.com/news/malaysia/2026/01/28/johor-peatland-fire-under-control-with-water-bombing-smoke-yet-to-reach-singapore-says-bomba/207163",
+      "summary": "KOTA TINGGI, Jan 28 &mdash; The Johor Malaysian Fire and Rescue Department (JBPM) is closely monitoring smoke from a pea...",
+      "published": "2026-01-28T10:38:27+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "e21a3c46bb9a34c3657d3df026dea4911ad610e5",
+      "title": "Fuel prices Jan 29-Feb 4: Diesel up four sen in Peninsula, RON97, RON95 unchanged",
+      "link": "https://www.thestar.com.my/news/nation/2026/01/28/fuel-prices-jan-29-feb-4-diesel-up-four-sen-in-peninsula-ron97-ron95-unchanged",
+      "summary": "KUALA LUMPUR: The retail price diesel will increase by four sen in Peninsular Malaysia from Jan 29 to Feb 4. <a href=\"https://www.thestar.com.my/news/nation/2026/01/28/fuel-prices-jan-29-feb-4-diesel-up-four-sen-in-peninsula-ron97-ron95-unchanged\">Read full story</a>",
+      "published": "2026-01-28T10:36:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "19685103e45de54862b4ac1f6bb6ca8d7b6832c1",
+      "title": "Amazon plans to cut ~16,000 roles across the company as part of an ongoing effort to reduce organizational layers and bureaucracy, after cuts in October 2025 (Beth Galetti/About Amazon)",
+      "link": "http://www.techmeme.com/260128/p17#a260128p17",
+      "summary": "<a href=\"https://www.aboutamazon.com/news/company-news/amazon-layoffs-corporate-jan-2026\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260128/i17.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260128/p17#a260128p17\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Beth Galetti / <a href=\"https://www.aboutamazon.com/\">About Amazon</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.aboutamazon.com/news/company-news/amazon-layoffs-corporate-jan-2026\">Amazon plans to cut ~16,000 roles across the company as part of an ongoing effort to reduce organizational layers and bureaucracy, after cuts in October 2025</a></b></span>&nbsp; &mdash;&nbsp; I want to let you know that we're making additional organizational changes across Amazon that will impact some of our teammates.</p>",
+      "published": "2026-01-28T10:33:03+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "97a10ac7edbf788d8d2298a68cd9f1dce35ed942",
+      "title": "Over RM100,000 worth of illegal fireworks seized in Sitiawan",
+      "link": "https://www.thestar.com.my/news/nation/2026/01/28/over-rm100000-worth-of-illegal-fireworks-seized-in-sitiawan",
+      "summary": "IPOH: Marine police here arrested a local man and seized various types of fireworks, estimated to be worth RM105,400, during a raid at a house in Taman Rasa Sayang near Sitiawan on Tuesday (Jan 27). <a href=\"https://www.thestar.com.my/news/nation/2026/01/28/over-rm100000-worth-of-illegal-fireworks-seized-in-sitiawan\">Read full story</a>",
+      "published": "2026-01-28T10:26:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "289a97ecf56f80876a52aa7f62fc495dafd3be52",
+      "title": "Despite female PM, Japan’s gender gap in election candidates barely shifts — ruling party fields an even smaller share of women",
+      "link": "https://www.malaymail.com/news/world/2026/01/28/despite-female-pm-japans-gender-gap-in-election-candidates-barely-shifts-ruling-party-fields-an-even-smaller-share-of-women/207158",
+      "summary": "TOKYO, Jan 28 &mdash; The proportion of women running in Japan&rsquo;s general election next month has barely advanced,...",
+      "published": "2026-01-28T10:23:20+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "449c8afa1d215c80c493a71f3becfc2a1e86a8e9",
+      "title": "Three brothers die after falling in frozen Texas pond",
+      "link": "https://www.bbc.com/news/articles/cvg1z091melo?at_medium=RSS&at_campaign=rss",
+      "summary": "Their mother says she tried to rescue them by lifting them out but the ice kept breaking.",
+      "published": "2026-01-28T10:18:57+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "61235b8ba18a8ffdc1cff3a9fcc1896bc4594983",
       "title": "Thailand puts wild elephants on birth control as human-animal conflict rises",
@@ -14,19 +266,19 @@
       "category": "malaysia"
     },
     {
-      "id": "9ccb235281af3b390f557a9bdf7ef81ac50d9067",
-      "title": "Pope Leo appeals against rising anti-Semitism in weekly audience",
+      "id": "81a0ba6f26a44b0c5b501fa64c3bffd7289f6e62",
+      "title": "Pope Leo calls for end to antisemitism worldwide",
       "link": "https://www.thestar.com.my/news/world/2026/01/28/pope-leo-appeals-against-rising-anti-semitism-in-weekly-audience",
-      "summary": "VATICAN CITY, ‌Jan 28 (Reuters) - Pope Leo ‌appealed against the global ‌rise of anti-Semitism on Wednesday, marking the annual commemoration of the ‍Holocaust during his ‍weekly audience ‌at the Vatican with a prayer ‍for ​a world without prejudice or ⁠racism. <a href=\"https://www.thestar.com.my/news/world/2026/01/28/pope-leo-appeals-against-rising-anti-semitism-in-weekly-audience\">Read full story</a>",
+      "summary": "VATICAN CITY, Jan ‌28 (Reuters) - Pope Leo called on ‌Wednesday for an end to antisemitism worldwide, ‌marking the annual commemoration of the Holocaust with a prayer for a world without prejudice or ‍racism. <a href=\"https://www.thestar.com.my/news/world/2026/01/28/pope-leo-appeals-against-rising-anti-semitism-in-weekly-audience\">Read full story</a>",
       "published": "2026-01-28T10:12:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
     },
     {
-      "id": "4f0f9a892f24d3cec89f585fa428b67ed3dc30d0",
-      "title": "Minnesota congresswoman Ilhan Omar attacked with unknown liquid at event",
+      "id": "aad254f7e66d0cbb0825e9bd67ac989aa31a8d07",
+      "title": "'I don't let bullies win': US congresswoman Omar defiant after substance thrown at her",
       "link": "https://www.bbc.com/news/articles/cn9zpee3llxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Omar was uninjured and continued to speak at the event following the incident.",
+      "summary": "The Minnesota Democrat was uninjured and continued to speak at her event, after being sprayed with an unidentified liquid.",
       "published": "2026-01-28T10:11:19+00:00",
       "source": "BBC News",
       "category": "world"
@@ -56,6 +308,24 @@
       "summary": "<p><a href=\"http://www.techmeme.com/260128/p16#a260128p16\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Casey Newton / <a href=\"https://www.platformer.news/\">Platformer</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.platformer.news/social-media-screen-time-manchester-study-haidt/\">A critique of a large UK social media study that suggested measures like social media bans are unlikely to have an effect on teens' long term mental health</a></b></span>&nbsp; &mdash;&nbsp; The &ldquo;moral panic&rdquo; framing misses how platforms actually harm kids.&nbsp; PLUS: Newsom investigates TikTok over Trump, and the Clawdbot frenzy</p>",
       "published": "2026-01-28T10:10:00+00:00",
       "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "7da553ac16e518544cc9ce4d592ae1c996c335f3",
+      "title": "Over 60 Malaysian migrant smugglers nabbed in Kedah since 2023, police say",
+      "link": "https://www.thestar.com.my/news/nation/2026/01/28/over-60-malaysian-migrant-smugglers-nabbed-in-kedah-since-2023-police-say",
+      "summary": "ALOR SETAR: Kedah police have arrested 66 locals acting as agents in migrant smuggling between 2023 and Monday (Jan 26), with 42 foreigners nabbed in the same period. <a href=\"https://www.thestar.com.my/news/nation/2026/01/28/over-60-malaysian-migrant-smugglers-nabbed-in-kedah-since-2023-police-say\">Read full story</a>",
+      "published": "2026-01-28T10:06:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "0409be6f17b7a78ebacc1410678ab5479c76bba3",
+      "title": "Google pitches Gemini to students studying for India’s most competitive college entrance exam",
+      "link": "https://techcrunch.com/2026/01/28/google-turns-gemini-toward-indias-most-competitive-entrance-exam/",
+      "summary": "Google's launch of practice tests for JEE follows its recent move to offer full-length SAT practice tests in Gemini.",
+      "published": "2026-01-28T10:00:00+00:00",
+      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -104,33 +374,6 @@
       "category": "tech"
     },
     {
-      "id": "3fb101e53d90f1ad86dafa707d98b4a008092313",
-      "title": "Trump&#039;s &#039;Board of Peace&#039; is self-serving, lacks legitimacy, says group",
-      "link": "https://www.thestar.com.my/news/nation/2026/01/28/trump039s-039board-of-peace039-is-self-serving-lacks-legitimacy-says-group",
-      "summary": "PETALING JAYA: A group of Malaysian political leaders, academics and civil society figures strongly reject Donald Trump's proposed \"Board of Peace\", part of the US president's peace plan for the Gaza strip, saying that it is self-serving and lacks legitimacy. <a href=\"https://www.thestar.com.my/news/nation/2026/01/28/trump039s-039board-of-peace039-is-self-serving-lacks-legitimacy-says-group\">Read full story</a>",
-      "published": "2026-01-28T09:40:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "b74cd66b2ecef1e1c93b67e13e67d5a14735eab0",
-      "title": "Rayer praises caring nurse, urges Opposition to emulate her",
-      "link": "https://www.thestar.com.my/news/nation/2026/01/28/rayer-praises-caring-nurse-urges-opposition-to-emulate-her",
-      "summary": "KUALA LUMPUR: Penang nurse Nur Deena Nadzhiefa has been praised by an MP for embodying the qualities of a true Malaysian. <a href=\"https://www.thestar.com.my/news/nation/2026/01/28/rayer-praises-caring-nurse-urges-opposition-to-emulate-her\">Read full story</a>",
-      "published": "2026-01-28T09:36:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "d3299d66fb52e5c1eaf8333b6ec95976728ba5fa",
-      "title": "MACC obtains remand orders for five &#039;cronies&#039; of Navy officer",
-      "link": "https://www.thestar.com.my/news/nation/2026/01/28/macc-obtains-remand-orders-for-five-039cronies039-of-navy-officer",
-      "summary": "KUALA LUMPUR: Five people, said to be \"cronies\" of a senior Navy officer, have been remanded over an investigation into several companies suspected of corrupt practices. <a href=\"https://www.thestar.com.my/news/nation/2026/01/28/macc-obtains-remand-orders-for-five-039cronies039-of-navy-officer\">Read full story</a>",
-      "published": "2026-01-28T09:34:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "54c90822f963b946bd383c945c0260c312c3b1e5",
       "title": "Pos Malaysia launches Year of the Horse stamp pack with angpow sets ahead of CNY 2026, priced at RM20",
       "link": "https://www.malaymail.com/news/life/2026/01/28/pos-malaysia-launches-year-of-the-horse-stamp-pack-with-angpow-sets-ahead-of-cny-2026-priced-at-rm20/207156",
@@ -152,7 +395,7 @@
       "id": "2f2adef5bded9030c8b76aacf018379b73a57103",
       "title": "SK Hynix reports Q4 revenue up 66% YoY to $23B, above ~$22.4B est., and operating profit up 137% YoY to $13.3B, both company records, driven by AI HBM demand (Dylan Butts/CNBC)",
       "link": "http://www.techmeme.com/260128/p13#a260128p13",
-      "summary": "<a href=\"https://www.cnbc.com/2026/01/28/sk-hynix-smashes-earnings-estimates-as-ai-memory-demand-drives-record-profit.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260128/i13.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260128/p13#a260128p13\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Dylan Butts / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/01/28/sk-hynix-smashes-earnings-estimates-as-ai-memory-demand-drives-record-profit.html\">SK Hynix reports Q4 revenue up 66% YoY to $23B, above ~$22.4B est., and operating profit up 137% YoY to $13.3B, both company records, driven by AI HBM demand</a></b></span>&nbsp; &mdash;&nbsp; South Korea's SK Hynix on Wednesday posted record quarterly revenue and profit, boosted by surging memory prices and demand &hellip; </p>",
+      "summary": "<a href=\"https://www.cnbc.com/2026/01/28/sk-hynix-smashes-earnings-estimates-as-ai-memory-demand-drives-record-profit.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260128/i13.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260128/p13#a260128p13\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Dylan Butts / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/01/28/sk-hynix-smashes-earnings-estimates-as-ai-memory-demand-drives-record-profit.html\">SK Hynix reports Q4 revenue up 66% YoY to $23B, above ~$22.4B est., and operating profit up 137% YoY to $13.3B, both company records, driven by AI HBM demand</a></b></span>&nbsp; &mdash;&nbsp; South Korea's SK Hynix on Wednesday reported record full-year profit for 2025, more than doubling its operating earnings as shortages &hellip; </p>",
       "published": "2026-01-28T09:30:01+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -183,24 +426,6 @@
       "published": "2026-01-28T09:25:31+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "46a470d88b76c8c900923850a9b302a37d82af63",
-      "title": "Nilai cops nab four foreigners over Facebook, Tinder love scams",
-      "link": "https://www.thestar.com.my/news/nation/2026/01/28/nilai-cops-nab-four-foreigners-over-facebook-tinder-love-scams",
-      "summary": "NILAI: Police have arrested four foreigners suspected of being involved in online scams targeting locals and Thai nationals. <a href=\"https://www.thestar.com.my/news/nation/2026/01/28/nilai-cops-nab-four-foreigners-over-facebook-tinder-love-scams\">Read full story</a>",
-      "published": "2026-01-28T09:25:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "1ce6d81966c746eeeb3990f9f35706bd7ac5834f",
-      "title": "Govt unveils dashboard tracking MA63 progress",
-      "link": "https://www.thestar.com.my/news/nation/2026/01/28/govt-unveils-dashboard-tracking-ma63-progress",
-      "summary": "KUALA LUMPUR: The public can now remotely track the implementation progress of the Malaysia Agreement 1963 (MA63) following the launch of an official digital dashboard. <a href=\"https://www.thestar.com.my/news/nation/2026/01/28/govt-unveils-dashboard-tracking-ma63-progress\">Read full story</a>",
-      "published": "2026-01-28T09:23:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "dc2c4bab6aa3f5adb7a79bee25c6d55bff3b4a1d",
@@ -302,78 +527,6 @@
       "category": "world"
     },
     {
-      "id": "9bc040b27088c01be25a27f930f7624ed14ef52f",
-      "title": "Britain’s Starmer heads to China as Western alliances face strain",
-      "link": "https://www.malaymail.com/news/world/2026/01/28/britains-starmer-heads-to-china-as-western-alliances-face-strain/207143",
-      "summary": "LONDON, Jan 28 &mdash; British Prime Minister Keir Starmer will arrive in Beijing this evening for a visit aimed at stre...",
-      "published": "2026-01-28T08:31:41+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "c900d221720a5022caba7292bebbcbb035be09e5",
-      "title": "Man found dead in parked car at Jalan Bukit Beruang apartment in Melaka; post‑mortem cites heart blockage",
-      "link": "https://www.malaymail.com/news/malaysia/2026/01/28/man-found-dead-in-parked-car-at-jalan-bukit-beruang-apartment-in-melaka-postmortem-cites-heart-blockage/207147",
-      "summary": "MELAKA, Jan 28 &mdash; A man was found dead inside a car at a parking lot of an apartment on Jalan Bukit Beruang yesterd...",
-      "published": "2026-01-28T08:31:33+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "01812c379daa6055be2f3744d02308c8e2427ac6",
-      "title": "Three Iranian nationals plead not guilty to gang‑robbery charge involving RM30,000 jewellery in Sri Petaling",
-      "link": "https://www.malaymail.com/news/malaysia/2026/01/28/three-iranian-nationals-plead-not-guilty-to-gangrobbery-charge-involving-rm30000-jewellery-in-sri-petaling/207145",
-      "summary": "KUALA LUMPUR, Jan 28 &mdash; Three Iranian nationals, including a woman, pleaded not guilty in the Sessions Court here t...",
-      "published": "2026-01-28T08:21:31+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "320d8af29e63d14928236dc4184a2a4c8686005a",
-      "title": "DoSM: Cheaper crude oil and palm oil push Malaysia’s producer prices lower in December 2025",
-      "link": "https://www.malaymail.com/news/money/2026/01/28/dosm-cheaper-crude-oil-and-palm-oil-push-malaysias-producer-prices-lower-in-december-2025/207136",
-      "summary": "KUALA LUMPUR, Jan 28 &mdash; Malaysia&rsquo;s producer price index (PPI), which measures price changes at the producer l...",
-      "published": "2026-01-28T08:19:19+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "32df7068d30d8d75b9abae5825dae4c026dbab18",
-      "title": "Record-breaking Australia heatwave fuels bushfires, cuts power to thousands",
-      "link": "https://www.malaymail.com/news/world/2026/01/28/record-breaking-australia-heatwave-fuels-bushfires-cuts-power-to-thousands/207144",
-      "summary": "SYDNEY, Jan 28 &mdash; A record-breaking heatwave baked Australia&rsquo;s southeast for a fifth straight day today, fann...",
-      "published": "2026-01-28T08:15:59+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "6dadbe9917e2100dc1c2931ec4245304ec666cc9",
-      "title": "Domestic Trade Ministry drafting new rules to ban RON95 purchases by foreign‑registered vehicles, says Armizan",
-      "link": "https://www.malaymail.com/news/malaysia/2026/01/28/domestic-trade-ministry-drafting-new-rules-to-ban-ron95-purchases-by-foreignregistered-vehicles-says-armizan/207140",
-      "summary": "KUALA LUMPUR, Jan 28 &mdash; The Ministry of Domestic Trade and Cost of Living (KPDN) is drafting new regulations to exp...",
-      "published": "2026-01-28T08:10:26+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "f0ef4b9965e3603baa7597209313da407cf28775",
-      "title": "Persistent profit-taking drags Bursa Malaysia lower at mid-afternoon",
-      "link": "https://www.malaymail.com/news/money/2026/01/28/persistent-profit-taking-drags-bursa-malaysia-lower-at-mid-afternoon/207142",
-      "summary": "KUALA LUMPUR, Jan 28 &mdash; Bursa Malaysia remained lower at mid-afternoon, weighed down by persistent profit-taking in...",
-      "published": "2026-01-28T08:10:11+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "c8cee0add4c542464a0c1697ac5222a4732620b2",
-      "title": "Anwar gives enforcement chiefs one-week ultimatum: Act on corruption or step aside",
-      "link": "https://www.malaymail.com/news/malaysia/2026/01/28/anwar-gives-enforcement-chiefs-one-week-ultimatum-act-on-corruption-or-step-aside/207141",
-      "summary": "PUTRAJAYA, Jan 28 &mdash; Prime Minister Datuk Seri Anwar Ibrahim today issued an ultimatum to the heads of departments...",
-      "published": "2026-01-28T08:08:28+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "b7834f8035281ae914aeb215d139f03cd028314f",
       "title": "Zelensky condemns Russian drone strike that killed five on passenger train",
       "link": "https://www.bbc.com/news/articles/crkrpl4ngdzo?at_medium=RSS&at_campaign=rss",
@@ -381,33 +534,6 @@
       "published": "2026-01-28T08:04:36+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "996b33895813118e8bae93de4106dffb57399bca",
-      "title": "R&B star Yuna to mesmerise fans in KL at Feb 7 ‘The Valour Hour’ concert, only standing tickets left",
-      "link": "https://www.malaymail.com/news/showbiz/2026/01/28/rb-star-yuna-to-mesmerise-fans-in-kl-at-feb-7-the-valour-hour-concert-only-standing-tickets-left/207137",
-      "summary": "KUALA LUMPUR, Jan 28 &mdash; Malaysian R&amp;B star Yuna is set to mesmerise fans, also known as Yunationals, at her upcomin...",
-      "published": "2026-01-28T07:58:56+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "3cd5b77ad69a4e293ca430cde070499b97b215a8",
-      "title": "Court officials, police force way into Jamal Yunos’s house to seize items over debt to Teresa Kok",
-      "link": "https://www.malaymail.com/news/malaysia/2026/01/28/court-officials-police-force-way-into-jamal-yunoss-house-to-seize-items-over-debt-to-teresa-kok/207139",
-      "summary": "KUALA LUMPUR, Jan 28 &mdash; The High Court today seized 14 household items from Umno leader Datuk Seri Jamal Md Yunos&amp;r...",
-      "published": "2026-01-28T07:57:31+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "e01db27f92f368388779a8b6a8a38df7334890df",
-      "title": "Putrajaya to table National Ageing Blueprint White Paper as Malaysia prepares for aged nation status, says minister",
-      "link": "https://www.malaymail.com/news/malaysia/2026/01/28/putrajaya-to-table-national-ageing-blueprint-white-paper-as-malaysia-prepares-for-aged-nation-status-says-minister/207138",
-      "summary": "KUALA LUMPUR, Jan 28 &mdash; A White Paper on the National Ageing Blueprint (NAB) 2025-2045 will be tabled in Parliament...",
-      "published": "2026-01-28T07:52:19+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "56ae917b3c0e6b22e167fbdb467597850d83e419",
@@ -419,15 +545,6 @@
       "category": "tech"
     },
     {
-      "id": "eb7f368ab8e1e359be6f7df90d386a4fe2d4f0dd",
-      "title": "AutoSend",
-      "link": "https://www.producthunt.com/products/autosend-2",
-      "summary": "<p>\n            Email for Developers, Marketers, and AI Agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/autosend-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1069320?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-01-28T07:30:15+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "f95eff13082eb10fc8dff3df2c663cf520afd783",
       "title": "dumppp",
       "link": "https://www.producthunt.com/products/dumppp",
@@ -435,15 +552,6 @@
       "published": "2026-01-28T07:26:46+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "4a4b56ef32dcd8083e5f2b8bde843348af1a9bbe",
-      "title": "Police: Three ‘Captain Praba’ gang leaders face organised crime charges today",
-      "link": "https://www.malaymail.com/news/malaysia/2026/01/28/police-three-captain-praba-gang-leaders-face-organised-crime-charges-today/207135",
-      "summary": "KUALA LUMPUR &mdash; Three alleged leaders of the &ldquo;Captain Praba&rdquo; organised crime group will be charged at t...",
-      "published": "2026-01-28T07:22:41+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "2e984d72ff33b4fc2570866dcaad8dd01465d813",
@@ -469,15 +577,6 @@
       "link": "http://www.techmeme.com/260128/p7#a260128p7",
       "summary": "<a href=\"https://www.ft.com/content/9493ee78-e18b-41ae-8719-8d1380e1e63d\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260128/i7.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260128/p7#a260128p7\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Daniel Thomas / <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/9493ee78-e18b-41ae-8719-8d1380e1e63d\">Sources: Google sends &ldquo;cease and desist&rdquo; letters to Kantar, halting Kantar and Barb's UK TV measurement tools comparing YouTube with linear TV and streamers</a></b></span>&nbsp; &mdash;&nbsp; &lsquo;Cease and desist&rsquo; letter forces Barb and Kantar to halt measurement service just months after its launch</p>",
       "published": "2026-01-28T06:55:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "cdbb9da5f06c6b14528c77d06d72717d24330a3e",
-      "title": "ASML reports record quarterly bookings of €13.2B in Q4, beating €6.32B est., and projects its 2026 full-year sales at between €34B and €39B, above €35B est. (Reuters)",
-      "link": "http://www.techmeme.com/260128/p6#a260128p6",
-      "summary": "<a href=\"https://www.reuters.com/business/asml-q4-bookings-beat-expectations-chipmakers-order-more-satisfy-ai-demand-2026-01-28/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260128/i6.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260128/p6#a260128p6\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/business/asml-q4-bookings-beat-expectations-chipmakers-order-more-satisfy-ai-demand-2026-01-28/\">ASML reports record quarterly bookings of &euro;13.2B in Q4, beating &euro;6.32B est., and projects its 2026 full-year sales at between &euro;34B and &euro;39B, above &euro;35B est.</a></b></span>&nbsp; &mdash;&nbsp; ASML (ASML.AS) reported stronger-than-expected bookings on Wednesday as the world's largest supplier &hellip; </p>",
-      "published": "2026-01-28T06:45:01+00:00",
       "source": "Techmeme",
       "category": "tech"
     },
@@ -527,15 +626,6 @@
       "category": "events"
     },
     {
-      "id": "236140ea1084ee10419612e6de277c70f8ba7809",
-      "title": "Sources: Hugging Face declined Nvidia's $500M investment offer at a $7B valuation in late 2025; Hugging Face says it does not want a single dominant investor (Melissa Heikkilä/Financial Times)",
-      "link": "http://www.techmeme.com/260128/p5#a260128p5",
-      "summary": "<a href=\"https://www.ft.com/content/d14419c5-7fa5-4128-9858-7f83259ca02e\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260128/i5.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260128/p5#a260128p5\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Melissa Heikkil&auml; / <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/d14419c5-7fa5-4128-9858-7f83259ca02e\">Sources: Hugging Face declined Nvidia's $500M investment offer at a $7B valuation in late 2025; Hugging Face says it does not want a single dominant investor</a></b></span>&nbsp; &mdash;&nbsp; Amid investor frenzy over AI, the &lsquo;anti Silicon Valley&rsquo; group chose independence and desire to promote open models</p>",
-      "published": "2026-01-28T06:15:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "9f3d2b5ec54775699c3caff7d007ca5fe90c625c",
       "title": "Google Photos brings its prompt-based editing feature to India, Australia and Japan",
       "link": "https://techcrunch.com/2026/01/27/google-photos-brings-its-prompt-based-editing-feature-to-india-australia-and-japan/",
@@ -563,24 +653,6 @@
       "category": "events"
     },
     {
-      "id": "646749b50f0cd3ed57321988c8b730b579f3966e",
-      "title": "The AI Whistleblower Initiative says OpenAI recently updated its whistleblower policy, addressing eight of 13 recommendations and going further than Anthropic (Rocket Drew/The Information)",
-      "link": "http://www.techmeme.com/260128/p4#a260128p4",
-      "summary": "<a href=\"https://www.theinformation.com/articles/openai-one-ups-anthropic-new-whistleblower-policy\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260128/i4.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260128/p4#a260128p4\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Rocket Drew / <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/articles/openai-one-ups-anthropic-new-whistleblower-policy\">The AI Whistleblower Initiative says OpenAI recently updated its whistleblower policy, addressing eight of 13 recommendations and going further than Anthropic</a></b></span>&nbsp; &mdash;&nbsp; OpenAI recently updated its policy for handling whistleblower complaints, following concerns about AI startups ignoring what are standard rules applying to all companies.</p>",
-      "published": "2026-01-28T05:55:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "e611eda8601a7b9029495a685a37b31769b55da5",
-      "title": "Sources: Elon Musk proposes timing SpaceX's IPO with a rare planetary alignment and his June birthday; SpaceX seeks to raise up to $50B at a ~$1.5T valuation (Financial Times)",
-      "link": "http://www.techmeme.com/260128/p3#a260128p3",
-      "summary": "<a href=\"https://giftarticle.ft.com/giftarticle/actions/redeem/f5c5bc0d-12b1-4c11-bef3-e9bc2b109573\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260128/i3.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260128/p3#a260128p3\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://giftarticle.ft.com/giftarticle/actions/redeem/f5c5bc0d-12b1-4c11-bef3-e9bc2b109573\">Sources: Elon Musk proposes timing SpaceX's IPO with a rare planetary alignment and his June birthday; SpaceX seeks to raise up to $50B at a ~$1.5T valuation</a></b></span>&nbsp; &mdash;&nbsp; Celestial calendar meets high finance, as billionaire's personal impulses shape plans to raise $50bn in record listing</p>",
-      "published": "2026-01-28T05:45:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "ab16803559259284ca04d859cb1298aed2a715c9",
       "title": "India’s Shadowfax slips on listing, as client concentration spooks investors",
       "link": "https://techcrunch.com/2026/01/27/indias-shadowfax-slips-on-listing-as-client-concentration-spooks-investors/",
@@ -597,15 +669,6 @@
       "published": "2026-01-28T05:38:48+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "d57058068319cec5f2297a9639d6e62e584590b8",
-      "title": "Sources: Nvidia has allocated ~70% of its 2026 HBM4 demand to SK Hynix; Counterpoint estimates SK Hynix will account for 54% of the global HBM4 market in 2026 (Kang Yoon-seung/Yonhap News Agency)",
-      "link": "http://www.techmeme.com/260128/p2#a260128p2",
-      "summary": "<a href=\"https://en.yna.co.kr/view/AEN20260128002800320\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260128/i2.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260128/p2#a260128p2\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kang Yoon-seung / <a href=\"https://en.yna.co.kr/\">Yonhap News Agency</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://en.yna.co.kr/view/AEN20260128002800320\">Sources: Nvidia has allocated ~70% of its 2026 HBM4 demand to SK Hynix; Counterpoint estimates SK Hynix will account for 54% of the global HBM4 market in 2026</a></b></span>&nbsp; &mdash;&nbsp; SK hynix Inc. has secured over two-thirds of high-bandwidth memory (HBM) supply orders from U.S. tech giant Nvidia Corp. to be used &hellip; </p>",
-      "published": "2026-01-28T05:25:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "72cfa9209f5606b1d6f989ad6ed6735612961678",
@@ -669,15 +732,6 @@
       "published": "2026-01-28T03:07:18+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "39d929e61fe4a61fe146ee4653987dc5226da9d6",
-      "title": "Apple Watch Gets New Hypertension Notifications Feature In Malaysia",
-      "link": "https://www.lowyat.net/2026/379557/apple-watch-hypertension-notifications-malaysia/",
-      "summary": "<p>Apple has officially rolled out its hypertension notifications feature for Apple Watch users in Malaysia. The new tool is designed to alert users when consistent signs of chronic high blood pressure, or hypertension, are detected over time. Hypertension notifications are available on Apple Watch Series 9 and later, as well as Apple Watch Ultra 2 [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/379557/apple-watch-hypertension-notifications-malaysia/\">Apple Watch Gets New Hypertension Notifications Feature In Malaysia</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-01-28T02:39:22+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
     },
     {
       "id": "86dd9daa4a575e42553a518fd38ec8dc60c3edee",
@@ -887,15 +941,6 @@
       "category": "tech"
     },
     {
-      "id": "f2b3accdb0102e64347e886522eed6b4c5e675c6",
-      "title": "The best fitness trackers and watches we’ve tested",
-      "link": "https://www.theverge.com/22985108/best-fitness-tracker",
-      "summary": "Fitness trackers have come a long way from the simple bands that tracked steps and little else. Modern trackers can monitor everything from your heart health to how well you’ve recovered from a hard bout of training. Even flagship smartwatches, which used to be lackluster trackers, have become pretty adept workout companions. Whatever your fitness [&#8230;]",
-      "published": "2026-01-27T21:51:15+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "d47ccdf64fc354c53f6519d57ae725f2d3656535",
       "title": "Live again: Rare deal knocks Apple’s official iPhone Air MagSafe Battery to its best Amazon price yet",
       "link": "https://9to5toys.com/2026/01/27/rare-deal-apple-iphone-air-magsafe-battery-best-amazon-price/",
@@ -1022,15 +1067,6 @@
       "category": "tech"
     },
     {
-      "id": "7109f7bbaa956c8b4b17bd8bdbbbec4c4ab82624",
-      "title": "Razer’s testing a new tool for customizing its keyboards in your browser",
-      "link": "https://www.theverge.com/tech/868843/razer-synapse-web-beta-browser-chromium-configure-settings",
-      "summary": "Razer has announced the beta release of a new online customization tool compatible with several versions of its Huntsman V3 Pro keyboards at launch. Razer Synapse Web isn't a full replacement for the company's Synapse 4 desktop app. It's instead designed to be a streamlined alternative accessible through a browser for situations where you're not [&#8230;]",
-      "published": "2026-01-27T19:38:19+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "16ec0e86f114dbb267f8b78c61a94fc36f53ac32",
       "title": "Steep drop hits this ratcheting Italian leather belt, now $8 (Reg. $15)",
       "link": "https://9to5toys.com/2026/01/27/bostanten-ratcheting-italian-leather-belt/",
@@ -1065,15 +1101,6 @@
       "published": "2026-01-27T19:10:49+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "26c40ef968a8f547ddcdb3cd824f8bf9f894416c",
-      "title": "Amazon shutters all of its physical Go and Fresh stores",
-      "link": "https://www.theverge.com/news/868800/amazon-go-and-fresh-stores-closed",
-      "summary": "Amazon Go and Fresh physical store locations will soon be no more, with Amazon announcing on Tuesday that it's closing the majority of the stores and converting others into Whole Foods Market locations. Customers will still be able to order from Amazon Fresh online, but won't be able to shop at physical stores with the [&#8230;]",
-      "published": "2026-01-27T18:55:55+00:00",
-      "source": "The Verge",
-      "category": "tech"
     },
     {
       "id": "16ca794fcb23fa203f2f45f7ed180f31d3530763",
@@ -1166,15 +1193,6 @@
       "category": "tech"
     },
     {
-      "id": "085835372e68ee347d28c7a304276918056e4aee",
-      "title": "Razer’s Phantom White Barracuda X Chroma RGB wireless headset hits one of its lowest prices at $101",
-      "link": "https://9to5toys.com/2026/01/27/razer-phantom-white-barracuda-x-chroma-rgb-wireless-headset/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/01/Razer-Chroma-X-Barracude-headset.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>We just spotted a deal at Amazon that drops Razer’s latest Phantom White Barracuda X Chroma RGB wireless gaming mouse down to $101.20 shipped. This is a new addition to the Barracuda X Chroma lineup that recently hit the scene alongside other Phantom White accessories carrying a $140 price tag. This model saw its first discount earlier this month when it hit $120, but today’s deal shaves an additional $19 off to mark one of the lowest prices we have tracked for it to date. It briefly dropped below $100 earlier today, but is now hovering at the $101 mark with a 28% discount. You can also get this in black and white finishes, although they’re both fetching $120 with a relatively lighter discount. Head below for more details.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/01/27/razer-phantom-white-barracuda-x-chroma-rgb-wireless-headset/#more-1189957\">more…</a>",
-      "published": "2026-01-27T17:56:54+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "a9ea44ea74ad66671829a69a086e474391fa5e7d",
       "title": "Amid Trump attacks and weaponized sanctions, Europeans look to rely less on US tech",
       "link": "https://techcrunch.com/2026/01/27/amid-trump-attacks-and-weaponized-sanctions-europeans-look-to-rely-less-on-us-tech/",
@@ -1211,15 +1229,6 @@
       "category": "events"
     },
     {
-      "id": "d3a44b9d45f0e95686b5eccd6b08003f2a869eb9",
-      "title": "TikTok settles just before social media addiction trial to begin",
-      "link": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Defendants include Meta, which owns Instagram and Facebook, and YouTube parent Google.",
-      "published": "2026-01-27T17:31:54+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "332baa547dc3b2d6258fe587efcaba0548138f2b",
       "title": "If you live in the UK, you probably won’t be able to visit Pornhub anymore",
       "link": "https://techcrunch.com/2026/01/27/if-you-live-in-the-uk-you-probably-wont-be-able-to-visit-pornhub-anymore/",
@@ -1253,24 +1262,6 @@
       "summary": "AI Overviews may get it right more often with the move to Gemini 3.",
       "published": "2026-01-27T17:00:58+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "0e244c5fd41b0a5e49da2e123f673303d9b4dc31",
-      "title": "Google now lets users jump from AI Overviews into AI Mode conversations",
-      "link": "https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/",
-      "summary": "The tech giant also announced that it's making Gemini 3 the new default model for AI Overviews globally.",
-      "published": "2026-01-27T17:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "ddbfe2313cd66060620425cfa732d0911ca0bf2a",
-      "title": "Android phones are getting more anti-theft features",
-      "link": "https://techcrunch.com/2026/01/27/android-phones-are-getting-more-anti-theft-features/",
-      "summary": "Google says Android devices will get new security features, like stronger authentication safeguards and enhanced recovery tools.",
-      "published": "2026-01-27T17:00:00+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1351,6 +1342,15 @@
       "link": "https://www.producthunt.com/products/sayline",
       "summary": "<p>\n            The Most Productive Way to Type in 2026\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sayline?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1068912?app_id=339\">Link</a>\n          </p>",
       "published": "2026-01-27T13:12:49+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "061151b7934e626c764e5da319d4859585db28e0",
+      "title": "Free unlimited eSign for founders",
+      "link": "https://www.producthunt.com/products/gitlaw",
+      "summary": "<p>\n            No trials. No caps. Just sign.\t\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gitlaw?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1068910?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-01-27T13:09:32+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1544,11 +1544,11 @@
       "category": "malaysia"
     },
     {
-      "id": "7b3872af38f60341fbde8129264a287a52c42a98",
-      "title": "Polyglotta",
-      "link": "https://www.producthunt.com/products/polyglotta",
-      "summary": "<p>\n            Translate and learn many languages at once\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/polyglotta?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1066629?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-01-22T13:13:59+00:00",
+      "id": "6b7d3e234d241280c837ee72e95d33de8f30c51d",
+      "title": "DataFast",
+      "link": "https://www.producthunt.com/products/datafast",
+      "summary": "<p>\n            Revenue-first analytics\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/datafast?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1067556?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-01-24T14:44:51+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
