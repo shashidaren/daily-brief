@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-02-01T21:17:44.579070+00:00",
+  "generatedAt": "2026-02-01T22:17:36.631955+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "cf6aaf61023459d43b56ff5eb6054fb417146b39",
+      "title": "AI layoffs or ‘AI-washing’?",
+      "link": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
+      "summary": "How many of the companies with recent layoffs are just using AI as an excuse?",
+      "published": "2026-02-01T22:15:53+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "8be0ecb79cb234d4ed27f22463ffc034330cc22a",
+      "title": "Epstein sent $75,000 to accounts linked to Mandelson, files suggest",
+      "link": "https://www.bbc.com/news/articles/cn82elvzpz7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lord Mandelson says he has no record or recollection of receiving the sums and does not know if the documents are authentic.",
+      "published": "2026-02-01T22:07:57+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "a70c0ff9cb1ac5a32b0aad3aa237dbc0cd6ef8d5",
+      "title": "Survey of 100 companies in the Global 2000 on AI use: 78% of CIOs use OpenAI models in production vs. 44% for Anthropic, but Anthropic's gains are impressive (a16z)",
+      "link": "http://www.techmeme.com/260201/p17#a260201p17",
+      "summary": "<a href=\"https://www.a16z.news/p/leaders-gainers-and-unexpected-winners\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260201/i17.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260201/p17#a260201p17\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.a16z.news/\">a16z</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.a16z.news/p/leaders-gainers-and-unexpected-winners\">Survey of 100 companies in the Global 2000 on AI use: 78% of CIOs use OpenAI models in production vs. 44% for Anthropic, but Anthropic's gains are impressive</a></b></span>&nbsp; &mdash;&nbsp; Results from our third annual CIO Survey&nbsp; &mdash;&nbsp; The enterprise AI battleground is heating up, and we've got some fresh data on the state of play and who's winning.</p>",
+      "published": "2026-02-01T21:45:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "4c3cd0f5079679bc0b5eca54e0cd7f89394dd682",
+      "title": "3 killed, over 28,000 affected as cyclone Fytia hits Madagascar",
+      "link": "https://www.thestar.com.my/news/world/2026/02/02/3-killed-over-28000-affected-as-cyclone-fytia-hits-madagascar",
+      "summary": "ANTANANARIVO, Feb. 1 (Xinhua) -- The passage of tropical cyclone Fytia has left three people dead and more than 28,000 affected in Madagascar, according to a latest report released by the National Office for Risk and Disaster Management (BNGRC) on Sunday. <a href=\"https://www.thestar.com.my/news/world/2026/02/02/3-killed-over-28000-affected-as-cyclone-fytia-hits-madagascar\">Read full story</a>",
+      "published": "2026-02-01T21:24:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
     {
       "id": "f9afa5beba93525cd8b91490877a85cfc61bed33",
       "title": "Twelve miners killed by Russian strike in Ukraine, energy company says",
@@ -230,6 +266,15 @@
       "category": "deals"
     },
     {
+      "id": "ea8f6d6d56b1d98b9361ee2e4517fe137ee46208",
+      "title": "‘Review personal tax relief system’",
+      "link": "https://www.thestar.com.my/news/nation/2026/02/02/review-personal-tax-relief-system",
+      "summary": "PETALING JAYA: As income tax filing season approaches and public attention has turned to the RM37,333 personal tax exemption threshold, taxpayers are calling for a broader overhaul of Malaysia's personal tax relief system. <a href=\"https://www.thestar.com.my/news/nation/2026/02/02/review-personal-tax-relief-system\">Read full story</a>",
+      "published": "2026-02-01T16:00:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
       "id": "d73ff3e92fadd6e00b7866ed0f10c2739fcc8c1d",
       "title": "This tiny pocket-friendly e-reader is packed with frustration and potential",
       "link": "https://www.theverge.com/tech/870583/xteink-x4-e-ink-reader-books-hands-on",
@@ -311,15 +356,6 @@
       "category": "tech"
     },
     {
-      "id": "8be0ecb79cb234d4ed27f22463ffc034330cc22a",
-      "title": "Epstein sent $75,000 to accounts linked to Mandelson, files suggest",
-      "link": "https://www.bbc.com/news/articles/cn82elvzpz7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lord Mandelson says he has no record or recollection of receiving the sums and does not know if the documents are authentic.",
-      "published": "2026-02-01T14:53:08+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "f39180ba4b9d8e458c35dff915971eff42b99c65",
       "title": "Death toll of Swiss New Year bar blaze rises to 41",
       "link": "https://www.thestar.com.my/news/world/2026/02/01/death-toll-of-swiss-new-year-bar-blaze-rises-to-41",
@@ -336,24 +372,6 @@
       "published": "2026-02-01T14:43:26+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "7f7618b655efbd0d8a2812a5c49672c2eb782fce",
-      "title": "Venezuela releases at least nine prisoners including activists",
-      "link": "https://www.thestar.com.my/news/world/2026/02/01/venezuela-rights-activist-tarazona-freed-in-prisoner-release",
-      "summary": "Feb 1 (Reuters) - At least nine Venezuelans were ‌released from a notorious Caracas prison on Sunday including human rights activist Javier Tarazona, a relative ‌and a nongovernmental organization said, as families of detainees complained the process has been too slow. <a href=\"https://www.thestar.com.my/news/world/2026/02/01/venezuela-rights-activist-tarazona-freed-in-prisoner-release\">Read full story</a>",
-      "published": "2026-02-01T14:37:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "c69527b0b1d3d39df52a75396f1f9e0f400e99f3",
-      "title": "Woman in her 70s dies in Kota Baru crash",
-      "link": "https://www.thestar.com.my/news/nation/2026/02/01/woman-in-her-70s-dies-in-kota-baru-crash",
-      "summary": "KOTA BARU: A woman in her 70s, known to locals as 'Moksu Bedak Sejuk', has died in a car accident in front of a petrol station on Jalan Sultan Ibrahim here Sunday (Feb 1). <a href=\"https://www.thestar.com.my/news/nation/2026/02/01/woman-in-her-70s-dies-in-kota-baru-crash\">Read full story</a>",
-      "published": "2026-02-01T14:25:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "7ca595f352c5d65f9f995a4ba65d8a10ef084514",
@@ -383,8 +401,8 @@
       "category": "deals"
     },
     {
-      "id": "9cbc7da6dd0f634dedfad566e5084ab8270cc17e",
-      "title": "Antigravity’s 360-degree A1 drone is nearly $250 off",
+      "id": "b747335c387cf7ad8eed53df3184d9e0a58e92cb",
+      "title": "Antigravity’s 360-degree A1 drone is nearly $250 off right now",
       "link": "https://www.theverge.com/gadgets/870772/antigravity-insta360-a1-drone-deal-sale",
       "summary": "Antigravity’s ambitious A1 360-degree drone is 15 percent off through February 9th. The first-ever discount on this model is available across all bundles, with the most affordable option dropping from $1,599 to $1,359 at Amazon and Best Buy. Pricier bundles are also discounted and include accessories such as a carrying case, additional replaceable drone wings, [&#8230;]",
       "published": "2026-02-01T14:00:00+00:00",
@@ -815,15 +833,6 @@
       "category": "tech"
     },
     {
-      "id": "f94ac148a658e9706047dc832b73ed42f7ebb732",
-      "title": "Filing: Chinese AI chip designer Cambricon reports a $316M net profit in 2025, its first profitable year; rivals Moore Threads and MetaX narrowed their losses (Coco Feng/South China Morning Post)",
-      "link": "http://www.techmeme.com/260201/p2#a260201p2",
-      "summary": "<a href=\"https://www.scmp.com/tech/tech-trends/article/3341834/chinas-semiconductor-firms-post-hefty-2025-profits-amid-ai-boom-tech-self-reliance-drive\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260201/i2.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260201/p2#a260201p2\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Coco Feng / <a href=\"http://www.scmp.com/\">South China Morning Post</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.scmp.com/tech/tech-trends/article/3341834/chinas-semiconductor-firms-post-hefty-2025-profits-amid-ai-boom-tech-self-reliance-drive\">Filing: Chinese AI chip designer Cambricon reports a $316M net profit in 2025, its first profitable year; rivals Moore Threads and MetaX narrowed their losses</a></b></span>&nbsp; &mdash;&nbsp; Domestic A-share companies in the sector are forecast to achieve substantial growth in their 2025 results, according to Donghai Securities</p>",
-      "published": "2026-02-01T06:00:42+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "5a5ac48306c836f5bbd81767e67c6bb67914c947",
       "title": "Compressor",
       "link": "https://www.producthunt.com/products/compressor-2",
@@ -1238,15 +1247,6 @@
       "category": "tech"
     },
     {
-      "id": "6b6a0dbdd1fa7a78f06fa6524a43b1ca3ef0b682",
-      "title": "Uber is literally in the driver’s seat when it comes to AV bets",
-      "link": "https://techcrunch.com/video/uber-is-literally-in-the-drivers-seat-when-it-comes-to-av-bets/",
-      "summary": "Self-driving truck startup&#160;Waabi&#8217;s billion-dollar fundraise&#160;isn&#8217;t&#160;just about trucks.&#160;&#160; The deal, for $750 million up front plus another $250 million from Uber tied to deployment milestones, marks a major expansion into robotaxis for the company founded by former Uber AI chief Raquel Urtasun. It also feels like another chip from Uber on the&#160;autonomous vehicle&#160;roulette table. With more [&#8230;]",
-      "published": "2026-01-30T18:56:17+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "806b8060b537ddd7eda47a2a2cf82ccc9700937e",
       "title": "Web portal leaves kids' chats with AI toy open to anyone with Gmail account",
       "link": "https://arstechnica.com/security/2026/01/web-portal-leaves-kids-chats-with-ai-toy-open-to-anyone-with-gmail-account/",
@@ -1427,20 +1427,20 @@
       "category": "events"
     },
     {
-      "id": "f8d9d5ac83778d80bd0d7c7b4acf4214c9a10e42",
-      "title": "Superagent from Airtable",
-      "link": "https://www.producthunt.com/products/superagent-from-airtable",
-      "summary": "<p>\n            The multi-agent system that delivers finished work\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/superagent-from-airtable?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1070047?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-01-29T17:09:37+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "08b4842d4ec43eb5cf9bd6a03c16b191cc02126c",
       "title": "TENDERD",
       "link": "https://www.producthunt.com/products/tenderd",
       "summary": "<p>\n            All-in-one fleet & equipment management software\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tenderd?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1070032?app_id=339\">Link</a>\n          </p>",
       "published": "2026-01-29T16:37:50+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "c33f16f4b308b0625b15d0ee5d7318547bf752bd",
+      "title": "NMTV",
+      "link": "https://www.producthunt.com/products/nmtv",
+      "summary": "<p>\n            I built a 24/7 MTV time machine to save my wife’s birthday\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nmtv?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1070031?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-01-29T16:36:07+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1459,15 +1459,6 @@
       "link": "https://www.producthunt.com/products/archimyst",
       "summary": "<p>\n            AI-powered platform for designing system architecture\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/archimyst?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1069990?app_id=339\">Link</a>\n          </p>",
       "published": "2026-01-29T14:16:58+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "c2a1af6ca76cae2b2b8f7846a6acc8e018f76236",
-      "title": "YepCode",
-      "link": "https://www.producthunt.com/products/yepcode",
-      "summary": "<p>\n            Developer-first AI integrations: build, run, scale safely\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/yepcode?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1069969?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-01-29T13:33:20+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1499,6 +1490,15 @@
       "category": "malaysia"
     },
     {
+      "id": "0b26a573f5b67e7b59df978fce41cf570925207c",
+      "title": "Webhound Reports",
+      "link": "https://www.producthunt.com/products/webhound",
+      "summary": "<p>\n            Deep research that scales with your budget\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/webhound?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1069193?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-01-28T00:19:06+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "caf514474e37c908021cd559dc928d73ea13a13a",
       "title": "MOT launches old vehicle replacement scheme: Only 5,000 slots available",
       "link": "https://soyacincau.com/2026/01/27/malaysia-grant-rm4k-for-old-vehicle-replacement/",
@@ -1526,15 +1526,6 @@
       "category": "events"
     },
     {
-      "id": "36f0ef8aa3db27ef1e19a902d7fb4bb320fdfb37",
-      "title": "Leapility",
-      "link": "https://www.producthunt.com/products/leapility-3",
-      "summary": "<p>\n            Turn your repetitive workflows into AI-powered playbooks\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/leapility-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1068217?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-01-26T08:08:41+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "ced1bd9256868a2969f129a12034beb1187a92f4",
       "title": "ClaudeUsageBar",
       "link": "https://www.producthunt.com/products/claudeusagebar",
@@ -1549,6 +1540,15 @@
       "link": "https://www.producthunt.com/products/pretty-prompt",
       "summary": "<p>\n            Grammarly for prompting. Turn any text into perfect prompts.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pretty-prompt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1066254?app_id=339\">Link</a>\n          </p>",
       "published": "2026-01-21T17:15:55+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "f8c69b34a4cd7c6457e1b8351f31c9b663e30c3a",
+      "title": "Kalendar.work",
+      "link": "https://www.producthunt.com/products/kalendar-work-the-calendly-replacement",
+      "summary": "<p>\n            A free fully featured Calendly alternative\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kalendar-work-the-calendly-replacement?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1066080?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-01-21T11:30:33+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
