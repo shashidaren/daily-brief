@@ -1,12 +1,282 @@
 {
-  "generatedAt": "2026-02-11T12:55:10.856312+00:00",
+  "generatedAt": "2026-02-11T14:13:20.681315+00:00",
   "counts": {
     "total": 175
   },
   "items": [
     {
-      "id": "1b78daa1f35e9cdc39796dc024b1d42f49cfb8bc",
-      "title": "MACC working with UK fraud agency on IJM's RM2.5b foreign investment probe",
+      "id": "af63cd4094bb58a59e62ed9d2d5e0ecb9810013d",
+      "title": "How an ‘icepocalypse’ raises more questions about Meta’s biggest data center project",
+      "link": "https://www.theverge.com/science/876555/meta-data-center-winter-power-outages-storm-ice",
+      "summary": "Donna Collins lives about 20 miles from where Meta's biggest data center is being built, in a house her family has lived in for five generations. Construction has thrown the small agricultural community in North Louisiana into the spotlight as a high-profile example of how the infrastructure behind generative AI could impact nearby residents. For [&#8230;]",
+      "published": "2026-02-11T14:06:11+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "efe5bba8d5b542144ab79aec0f199ffbae3ad16a",
+      "title": "GitGuardian, which integrates with GitHub to offer nonhuman identity and AI agent security, raised a $50M Series C, taking its total funding to ~$106M (Duncan Riley/SiliconANGLE)",
+      "link": "http://www.techmeme.com/260211/p24#a260211p24",
+      "summary": "<a href=\"https://siliconangle.com/2026/02/11/gitguardian-raises-50m-expand-non-human-identity-ai-agent-security/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260211/i24.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260211/p24#a260211p24\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Duncan Riley / <a href=\"http://siliconangle.com/\">SiliconANGLE</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://siliconangle.com/2026/02/11/gitguardian-raises-50m-expand-non-human-identity-ai-agent-security/\">GitGuardian, which integrates with GitHub to offer nonhuman identity and AI agent security, raised a $50M Series C, taking its total funding to ~$106M</a></b></span>&nbsp; &mdash;&nbsp; Non-human identity security platform company GitGuardian SAS today announced that it had raised $50 million in new funding to fuel &hellip; </p>",
+      "published": "2026-02-11T14:05:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "677ed042d663de6f4657825ec7fd53185708a81d",
+      "title": "Complyance raises $20M to help companies manage risk and compliance",
+      "link": "https://techcrunch.com/2026/02/11/complyance-raises-20m-to-help-companies-manage-risk-and-compliance/",
+      "summary": "Complyance raised a $20 million Series A led by GV for its AI-native compliance platform.",
+      "published": "2026-02-11T14:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "18c5882649720a536848209d0e51a9b1d70cfdb4",
+      "title": "Humanoid robot startup Apptronik has now raised $935M at a $5B+ valuation",
+      "link": "https://techcrunch.com/2026/02/11/humanoid-robot-startup-apptronik-has-now-raised-935m-at-a-5b-valuation/",
+      "summary": "Apptronik has sold another $520 million in a Series A extension to existing and new investors like Google and Mercedes-Benz.",
+      "published": "2026-02-11T14:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "0002ec874540f5cf7ea045a1a377e54fde523bac",
+      "title": "Meridian raises $17 million to remake the agentic spreadsheet",
+      "link": "https://techcrunch.com/2026/02/11/meridian-ai-raises-17-million-to-remake-the-agentic-spreadsheet/",
+      "summary": "A new company called Meridian.AI has emerged from stealth with an IDE-based approach to agentic financial modeling.",
+      "published": "2026-02-11T14:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "2364a335e91245483f0078ae0095c5824c47d94e",
+      "title": "Process Zero is even better with a little processing on the side",
+      "link": "https://www.theverge.com/tech/875919/halide-mark-iii-process-zero-hands-on",
+      "summary": "Something happens every time I try to use an iPhone camera like a real camera. Here's how it goes: I shoot RAW in addition to the default HEIC output, and since I have the RAW file I might as well edit it to my taste. And if I'm going to do that, I want to [&#8230;]",
+      "published": "2026-02-11T14:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "341af9b78bca389219978dc2bc845b2f207bdf78",
+      "title": "Pokopia turns the Pokémon world into a relaxing, human-free paradise",
+      "link": "https://www.theverge.com/games/876285/pokemon-pokopia-hands-on-preview",
+      "summary": "Though catching monsters and making them fight have always been core elements of the Pok&#233;mon brand, spinoffs like the Pok&#233;mon Snap and Detective Pikachu series have stood out by approaching the franchise from different angles. In different (and often small) ways, recent mainline Pok&#233;mon titles like Sword / Shield, Scarlet / Violet, and Legends: Z-A [&#8230;]",
+      "published": "2026-02-11T14:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "6392d462b2f2c7297a74fc0339ccbe469016660e",
+      "title": "Satechi launches Essential Tech Upgrade sale: Find My gadgets from $24, docks, chargers, more",
+      "link": "https://9to5toys.com/2026/02/11/satechi-launches-essential-tech-upgrade-sale-find-my/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/Satechi-tech-essentials-sale-2026.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Satechi is among our favorite Apple gear accessory makers out there, offering up a wide range of gear from keyboards and chargers to its latest slate of Find My gear. And while some of the deals are also matched over on its official Amazon storefront, it has now launched an <a href=\"https://tidd.ly/4ae8nCE\">Essential Tech Upgrade sale to deliver <strong>20% </strong>in savings </a>on a sizable collection of gear – use code <strong>ESSENTIAL20</strong> at checkout to redeem the deals. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/11/satechi-launches-essential-tech-upgrade-sale-find-my/#more-1192615\">more…</a>",
+      "published": "2026-02-11T13:59:09+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "4c111b46d7772c5e4659f93c0c3ef796bda769d7",
+      "title": "&#039;Spiderman&#039; viral video: Mum says unaware daughter was begging",
+      "link": "https://www.thestar.com.my/news/nation/2026/02/11/039spiderman039-viral-video-mum-says-unaware-daughter-was-begging",
+      "summary": "MELAKA: The mother of the young girl who went viral wearing a 'Spiderman' superhero costume and soliciting sympathy from the public at a petrol station here recently, denied that her child is a beggar, and claimed to be unaware of the matter. <a href=\"https://www.thestar.com.my/news/nation/2026/02/11/039spiderman039-viral-video-mum-says-unaware-daughter-was-begging\">Read full story</a>",
+      "published": "2026-02-11T13:53:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "94e6fb1034ab61c005036165204b1ff2a3770f36",
+      "title": "Tumbler Ridge mass shooting: What we know so far",
+      "link": "https://www.bbc.com/news/articles/c1e98w35qyjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nine people have been killed and 25 injured in the shootings at a school and home in a rural community in western Canada.",
+      "published": "2026-02-11T13:49:21+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "2f7bc7b7ceaa79b3df074585bd5fe721ac6f1b05",
+      "title": "Russia to fly its tourists out of Cuba and then suspend airline operations due to fuel crisis",
+      "link": "https://www.thestar.com.my/news/world/2026/02/11/russia-to-fly-its-tourists-out-of-cuba-and-then-suspend-airline-operations-due-to-fuel-crisis",
+      "summary": "MOSCOW, Feb ⁠11 (Reuters) - Two Russian airlines plan ⁠to fly Russian tourists ‌out of Cuba in the coming days and then suspend operations until a ​jet fuel shortage ⁠eases, aviation regulator ⁠Rosaviatsia said on Wednesday. <a href=\"https://www.thestar.com.my/news/world/2026/02/11/russia-to-fly-its-tourists-out-of-cuba-and-then-suspend-airline-operations-due-to-fuel-crisis\">Read full story</a>",
+      "published": "2026-02-11T13:45:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "72b494af78112719b0125e477679442fd2cbf32a",
+      "title": "Engineer loses RM1.195mil to gold investment scam",
+      "link": "https://www.thestar.com.my/news/nation/2026/02/11/engineer-loses-rm1195mil-to-gold-investment-scam",
+      "summary": "KUALA LUMPUR: An engineer lost RM1.195mil after falling victim to a gold investment scam. <a href=\"https://www.thestar.com.my/news/nation/2026/02/11/engineer-loses-rm1195mil-to-gold-investment-scam\">Read full story</a>",
+      "published": "2026-02-11T13:44:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "529730721c9263b52ad84514734488f8feb17bc8",
+      "title": "Former Melaka CM&#039;s ex-political secretary, wife nabbed in RM3mil MACC probe",
+      "link": "https://www.thestar.com.my/news/nation/2026/02/11/former-melaka-cm039s-ex-political-secretary-wife-nabbed-in-rm3mil-macc-probe",
+      "summary": "KUALA LUMPUR: A former Melaka chief minister's ex-political secretary and his wife were detained by graft busters on suspicion of soliciting and receiving about RM3mil in bribes. <a href=\"https://www.thestar.com.my/news/nation/2026/02/11/former-melaka-cm039s-ex-political-secretary-wife-nabbed-in-rm3mil-macc-probe\">Read full story</a>",
+      "published": "2026-02-11T13:44:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "393406d5e2dcf458f2e406a70dd08379cdce42a2",
+      "title": "Grass fire near mosque razes 44 vehicles",
+      "link": "https://www.thestar.com.my/news/nation/2026/02/11/grass-fire-near-mosque-razes-44-vehicles",
+      "summary": "PETALING JAYA: A grass fire that broke out in front of a mosque in Taman Putra Perdana, Puchong, spread to a nearby open vehicle storage facility, destroying 44 vehicles on Wednesday (Feb 11). <a href=\"https://www.thestar.com.my/news/nation/2026/02/11/grass-fire-near-mosque-razes-44-vehicles\">Read full story</a>",
+      "published": "2026-02-11T13:40:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "34d8aea55d8c3dda37c378577f258bda4eaab619",
+      "title": "Fuel prices Feb 12-18: Diesel up 3 sen in peninsula, RON95, unsubsidised RON97 petrol unchanged",
+      "link": "https://www.thestar.com.my/news/nation/2026/02/11/fuel-prices-feb-12-18-diesel-up-3-sen-in-peninsula-ron95-unsubsidised-ron97-petrol-unchanged",
+      "summary": "KUALA LUMPUR: The retail price of diesel in Peninsular Malaysia will increase by three sen to RM2.99 per litre from Feb 12-18 while prices in Sabah, Sarawak and Labuan remain at RM2.15 per litre. <a href=\"https://www.thestar.com.my/news/nation/2026/02/11/fuel-prices-feb-12-18-diesel-up-3-sen-in-peninsula-ron95-unsubsidised-ron97-petrol-unchanged\">Read full story</a>",
+      "published": "2026-02-11T13:39:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "5c40a7257cb801ef82686a633aba9cf617968216",
+      "title": "Best Buy updates its 2026 President’s Day sale with new deals: TVs from $60, up to 40% off appliances, more",
+      "link": "https://9to5toys.com/2026/02/11/best-buy-2026-presidents-day-sale-new-deals/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/BB-Presidents-Day-sale-poster.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>With <a href=\"https://9to5toys.com/2026/02/11/amazon-2026-presidents-day-sale/\">Amazon’s President’s Day sale</a> launching this morning, Best Buy has <a href=\"https://bestbuycreators.7tiv.net/LKdQ0M\">updated its existing line up of deals</a> to keep the momentum going with some fresh offers. These new deals are now live alongside the ones we <a href=\"https://9to5toys.com/2026/02/09/best-buy-2026-presidents-day-sale-live/\">previously highlighted</a>, and you’ll find everything from TVs, home appliances, Apple gear, Windows laptops, and more discounted right now. We’ve highlighted some of the new offers from the updated sale separately like this deal on <a href=\"https://9to5toys.com/2026/02/11/anke-qi2-25w-3-in-1-prime-magsafe-charger-lowest-price/\">Anker’s 25W Qi2.2 charging station</a> and the <a href=\"https://9to5toys.com/2026/02/11/asus-vivobook-s-16-3k-oled-copilot-pc-24gb-ram-1tb-ssd-500-off-today/\">ASUS Vivobook S 16 OLED Copilot+ PC</a>. All the deals are ready and waiting for you over at the dedicated <a href=\"https://bestbuycreators.7tiv.net/LKdQ0M\">President’s Day sale page right here</a>, and they’ll be live through February 16. Head below for more details.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/11/best-buy-2026-presidents-day-sale-new-deals/#more-1192603\">more…</a>",
+      "published": "2026-02-11T13:37:41+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "334e866f374435fff64ed09ace6d7f9065e97784",
+      "title": "Cops nab unemployed man, seize drugs worth RM2.185mil in Bukit Mertajam",
+      "link": "https://www.thestar.com.my/news/nation/2026/02/11/cops-nab-unemployed-man-seize-drugs-worth-rm2185mil-in-bukit-mertajam",
+      "summary": "BUKIT MERTAJAM: Police arrested a man and seized RM2.185mil of various types of drugs, including paraphernalia, in a raid in Seberang Perai Tengah (SPT) here on Tuesday (Feb 10). <a href=\"https://www.thestar.com.my/news/nation/2026/02/11/cops-nab-unemployed-man-seize-drugs-worth-rm2185mil-in-bukit-mertajam\">Read full story</a>",
+      "published": "2026-02-11T13:33:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "a0b89407a6eb38bf823151120c79fbfefda09392",
+      "title": "Two injured after tree falls on car in Nilai",
+      "link": "https://www.thestar.com.my/news/nation/2026/02/11/two-injured-after-tree-falls-on-car-in-nilai",
+      "summary": "NILAI: Two men have been injured after tree fell onto the car they were travelling in. <a href=\"https://www.thestar.com.my/news/nation/2026/02/11/two-injured-after-tree-falls-on-car-in-nilai\">Read full story</a>",
+      "published": "2026-02-11T13:32:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "190aacfdf795e13a6a820eb6f9731f22bbea6f22",
+      "title": "More Japanese students choosing Malaysia, says envoy",
+      "link": "https://www.thestar.com.my/news/nation/2026/02/11/more-japanese-students-choosing-malaysia-says-envoy",
+      "summary": "KUALA LUMPUR: More Japanese students are opting to resume their tertiary education in Malaysia, as well as starting up companies on our shores, says the Japanese Embassy. <a href=\"https://www.thestar.com.my/news/nation/2026/02/11/more-japanese-students-choosing-malaysia-says-envoy\">Read full story</a>",
+      "published": "2026-02-11T13:31:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "59407fb176aa2ee1bd834568e7944abd426c8678",
+      "title": "Samsung 165Hz 4K OLED M9 Smart Monitor now $300 off at Amazon + extra $100+ off promo",
+      "link": "https://9to5toys.com/2026/02/11/samsung-165hz-4k-oled-m9-smart-monitor-deal/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Samsung-32-OLED-M9-M90SF-Smart-Monitor.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>While the <a href=\"https://howl.link/e6qmdsgw75f5b\">Samsung site</a> isn’t offering any cash discounts on these Smart Monitors right now, we are tracking a particularly notable deal on the latest <a href=\"https://9to5toys.com/2026/02/10/samsung-32-inch-4k-m8-smart-monitor-best-price/\">M8 Samsung Smart Monitor down at <strong>$320</strong></a> (or $380 off), and the price drops on the flagship high-end OLED M9 model have returned at $300 off the list price – you can have the chance to knock an additional $100 off your order (details below). </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/11/samsung-165hz-4k-oled-m9-smart-monitor-deal/#more-1192609\">more…</a>",
+      "published": "2026-02-11T13:27:58+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "9d856ad981bcd89615bd66d3aa6b45f96f383df0",
+      "title": "Outgoing US envoy Kagan meets with PM Anwar in Putrajaya",
+      "link": "https://www.thestar.com.my/news/nation/2026/02/11/outgoing-us-envoy-kagan-meets-with-pm-anwar-in-putrajaya",
+      "summary": "PETALING JAYA: Outgoing US Ambassador to Malaysia Edgard D. Kagan visited Prime Minister Datuk Seri Anwar Ibrahim in Putrajaya on Wednesday (Feb 11). <a href=\"https://www.thestar.com.my/news/nation/2026/02/11/outgoing-us-envoy-kagan-meets-with-pm-anwar-in-putrajaya\">Read full story</a>",
+      "published": "2026-02-11T13:27:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "227a8b5d978f418b74a88f7242cdc4ee03b6fe17",
+      "title": "xAI all-hands meeting: Elon Musk tells staff that xAI needs a factory on the moon to build AI satellites and a massive catapult to launch them into space (New York Times)",
+      "link": "http://www.techmeme.com/260211/p23#a260211p23",
+      "summary": "<a href=\"https://www.nytimes.com/2026/02/10/technology/elon-musk-lunar-factory.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260211/i23.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260211/p23#a260211p23\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.nytimes.com/\">New York Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nytimes.com/2026/02/10/technology/elon-musk-lunar-factory.html\">xAI all-hands meeting: Elon Musk tells staff that xAI needs a factory on the moon to build AI satellites and a massive catapult to launch them into space</a></b></span>&nbsp; &mdash;&nbsp; In a meeting with employees at his company xAI, Mr. Musk revealed a vision for a facility that includes a giant catapult to launch his satellites into space.</p>",
+      "published": "2026-02-11T13:20:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "1c263dbaf4497b6109dc4b913c9fd3262e212d1d",
+      "title": "US closes airspace over Texas border town for 10 days for 'special security reasons'",
+      "link": "https://www.bbc.com/news/articles/cqxdwjn578do?at_medium=RSS&at_campaign=rss",
+      "summary": "The FAA said the area around the Texas border town would be closed for \"special security reasons\".",
+      "published": "2026-02-11T13:19:18+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "7392cb96dcb07995c7add130f63517441dae8374",
+      "title": "El Paso flights grounded 10 days for ‘special security reasons’",
+      "link": "https://www.theverge.com/transportation/877019/el-paso-airport-faa-flights-grounded-airspace-special-security",
+      "summary": "The Federal Aviation Administration has closed the airspace around El Paso International Airport in Texas, grounding all flights in and out of the airport for the next 10 days. No explanation for the closure has been given, beyond a vague reference to \"Special Security Reasons.\" The closure was announced late on February 10th in a [&#8230;]",
+      "published": "2026-02-11T13:11:15+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "154f6ba449ab38d63676c10e0ae768b87d61d3e8",
+      "title": "Filing: San Jose Mayor Matt Mahan, set to run for California governor to succeed Newsom, gets donations from Sergey Brin, Roblox CEO David Baszucki, and others (Bloomberg)",
+      "link": "http://www.techmeme.com/260211/p22#a260211p22",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-02-11/silicon-valley-mayor-gets-sergey-brin-caruso-backing-in-governor-run?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MDc3NDc2NywiZXhwIjoxNzcxMzc5NTY3LCJhcnRpY2xlSWQiOiJUQTlPUVRLSkg2VjUwMCIsImJjb25uZWN0SWQiOiIzOEVENDg5NkRGOEU0Njk4OUE2NTI2QTA0MzNFQjgyNSJ9.mbItx5svEkJJ94mBQhRl9-DMnxQEoPWd_tgm7yNMyF8\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260211/i22.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260211/p22#a260211p22\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-02-11/silicon-valley-mayor-gets-sergey-brin-caruso-backing-in-governor-run?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MDc3NDc2NywiZXhwIjoxNzcxMzc5NTY3LCJhcnRpY2xlSWQiOiJUQTlPUVRLSkg2VjUwMCIsImJjb25uZWN0SWQiOiIzOEVENDg5NkRGOEU0Njk4OUE2NTI2QTA0MzNFQjgyNSJ9.mbItx5svEkJJ94mBQhRl9-DMnxQEoPWd_tgm7yNMyF8\">Filing: San Jose Mayor Matt Mahan, set to run for California governor to succeed Newsom, gets donations from Sergey Brin, Roblox CEO David Baszucki, and others</a></b></span>&nbsp; &mdash;&nbsp; A group of billionaires, including Sergey Brin, is backing San Jose Mayor Matt Mahan's campaign for California governor &hellip; </p>",
+      "published": "2026-02-11T13:05:04+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "2d18de5187cfaa4d49e7fc7561cfdd9c40ca7bba",
+      "title": "Fur-ever together: Sao Paulo legalises pet burial with humans",
+      "link": "https://www.malaymail.com/news/life/2026/02/11/fur-ever-together-sao-paulo-legalises-pet-burial-with-humans/208827",
+      "summary": "SAO PAOLO, Feb 11 &mdash; In pet-mad Brazil, the state of Sao Paulo will allow animals to be buried in family graves sta...",
+      "published": "2026-02-11T13:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "3717830f89ea5f2749493cad6cb37b73b041cbe3",
+      "title": "After 2024 uprising, Bangladesh’s youth head to polls in historic leadership contest",
+      "link": "https://www.malaymail.com/news/world/2026/02/11/after-2024-uprising-bangladeshs-youth-head-to-polls-in-historic-leadership-contest/208819",
+      "summary": "DHAKA, Feb 11 &mdash; Millions of young Bangladeshis will vote for the first time on Thursday in a landmark election to...",
+      "published": "2026-02-11T13:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "d83945e1e702e435500ce4d9dbabe087ee708d92",
+      "title": "Warming Arctic leaves Greenland’s hunters sailing farther, earning less",
+      "link": "https://www.malaymail.com/news/life/2026/02/11/warming-arctic-leaves-greenlands-hunters-sailing-farther-earning-less/208821",
+      "summary": "SISIMIUT (Denmark), Feb 11 &mdash; Standing in his boat with binoculars in hand, hunter Malik Kleist scans the horizon f...",
+      "published": "2026-02-11T13:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "7958185eb91b9e3986d6b507fe25814582c6c5a1",
+      "title": "From mating and feeding to survival: Research shows how human noise is harming birds worldwide",
+      "link": "https://www.malaymail.com/news/life/2026/02/11/from-mating-and-feeding-to-survival-research-shows-how-human-noise-is-harming-birds-worldwide/208822",
+      "summary": "PARIS, Feb 11 &mdash; Noise pollution is affecting bird behaviour across the globe, disrupting everything from courtship...",
+      "published": "2026-02-11T13:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "4a21ea5eaeafa0d8a372e78ea12e025ec6c5c91b",
+      "title": "Early President’s Day AirPods deals up to $140 off: AirPods Pro 3, USB-C AirPods Max, more",
+      "link": "https://9to5toys.com/2026/02/11/early-airpods-presidents-day-deals/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/AirPods-Presidents-Day-deals-01.jpg?quality=82&#038;strip=all&#038;w=1500\" /></div><p>Amazon’s 2026 President’s Day sale is now live as of this morning, and Best Buy has now $100 off </strong>(or as much as $140 off in open-box condition) alongside deals on AirPods Pro 3 and more. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/11/early-airpods-presidents-day-deals/#more-1192605\">more…</a>",
+      "published": "2026-02-11T12:56:02+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "88b22e5315116b0fd9e330fcaae92c072ad892e9",
+      "title": "MACC working with UK fraud agency on IJM’s RM2.5b foreign investment probe",
       "link": "https://www.malaymail.com/news/malaysia/2026/02/11/macc-working-with-uk-fraud-agency-on-ijms-rm25b-foreign-investment-probe/208904",
       "summary": "PUTRAJAYA, Feb 11 &mdash; The Malaysian Anti-Corruption Commission (MACC) is working with the United Kingdom&rsquo;s Ser...",
       "published": "2026-02-11T12:51:21+00:00",
@@ -14,10 +284,10 @@
       "category": "malaysia"
     },
     {
-      "id": "77317e179f16a1e0ccb905f7fdf2b9853cc1d5ca",
-      "title": "T-Mobile announces a network-level, AI-based Live Translation feature supporting 50+ languages, coming \"this spring\" in beta and available on 5G and 4G LTE (Jess Weatherbed/The Verge)",
+      "id": "7b2844bc0037a4064984b6958d74fb180f854b5c",
+      "title": "T-Mobile announces a network-level, AI-based Live Translation feature that supports 50+ languages, coming \"this spring\" in beta and available on 4G LTE and 5G (Jess Weatherbed/The Verge)",
       "link": "http://www.techmeme.com/260211/p21#a260211p21",
-      "summary": "<a href=\"https://www.theverge.com/tech/877008/t-mobile-live-translation-languages-ai-network\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260211/i21.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260211/p21#a260211p21\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jess Weatherbed / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/tech/877008/t-mobile-live-translation-languages-ai-network\">T-Mobile announces a network-level, AI-based Live Translation feature supporting 50+ languages, coming &ldquo;this spring&rdquo; in beta and available on 5G and 4G LTE</a></b></span>&nbsp; &mdash;&nbsp; &#65279;Live Translation will be available to beta testers &lsquo;this Spring.&rsquo;&nbsp; &mdash;&nbsp; T-Mobile is preparing to test a new AI feature &hellip; </p>",
+      "summary": "<a href=\"https://www.theverge.com/tech/877008/t-mobile-live-translation-languages-ai-network\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260211/i21.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260211/p21#a260211p21\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jess Weatherbed / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/tech/877008/t-mobile-live-translation-languages-ai-network\">T-Mobile announces a network-level, AI-based Live Translation feature that supports 50+ languages, coming &ldquo;this spring&rdquo; in beta and available on 4G LTE and 5G</a></b></span>&nbsp; &mdash;&nbsp; &#65279;Live Translation will be available to beta testers &lsquo;this Spring.&rsquo;&nbsp; &mdash;&nbsp; T-Mobile is preparing to test &hellip; </p>",
       "published": "2026-02-11T12:50:01+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -32,15 +302,6 @@
       "category": "tech"
     },
     {
-      "id": "8e1148193fd5d69e84161d359b94ea0f6985fad2",
-      "title": "Czech ammunition scheme for Kyiv faces funding shortfalls - NATO official",
-      "link": "https://www.thestar.com.my/news/world/2026/02/11/czech-ammunition-scheme-for-kyiv-faces-funding-shortfalls---nato-official",
-      "summary": "BRUSSELS, Feb 11 (Reuters) - ⁠A Czech initiative sourcing ammunition for Ukraine aims ⁠to secure shells worth five billion euros ($5.95 billion) ‌globally but has only managed to raise 1.4 billion euros so far, a senior NATO military official said on Wednesday. <a href=\"https://www.thestar.com.my/news/world/2026/02/11/czech-ammunition-scheme-for-kyiv-faces-funding-shortfalls---nato-official\">Read full story</a>",
-      "published": "2026-02-11T12:38:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "ba335a3c004e2b2e1432c4d1a822a07351fff8ae",
       "title": "T-Mobile will live translate regular phone calls without an app",
       "link": "https://www.theverge.com/tech/877008/t-mobile-live-translation-languages-ai-network",
@@ -48,6 +309,15 @@
       "published": "2026-02-11T12:35:00+00:00",
       "source": "The Verge",
       "category": "tech"
+    },
+    {
+      "id": "9d320f81ce21b0ef08963994a43ef93f2b8753db",
+      "title": "Watch: BBC in Tehran sees government's 'political reply' to massive protests",
+      "link": "https://www.bbc.com/news/videos/cewz2lxq2gvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lyse Doucet is in Iran for the first time since the crackdown on nationwide anti-government protests.",
+      "published": "2026-02-11T12:34:41+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "70dd06eba6015611d78c061fdc3a64846e978119",
@@ -62,7 +332,7 @@
       "id": "7e84c06853f1eae6ae3625704dfb07bf273ab2c3",
       "title": "Shopify reports Q4 revenue up 31% YoY to $3.7B, vs. $3.59B est., and forecasts Q1 revenue growth at a low-thirties percentage rate, vs. 25% est.; SHOP jumps 10% (Deborah Sophia/Reuters)",
       "link": "http://www.techmeme.com/260211/p19#a260211p19",
-      "summary": "<a href=\"https://www.reuters.com/business/retail-consumer/shopify-forecasts-quarterly-revenue-above-estimates-strong-demand-2026-02-11/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260211/i19.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260211/p19#a260211p19\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Deborah Sophia / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/business/retail-consumer/shopify-forecasts-quarterly-revenue-above-estimates-strong-demand-2026-02-11/\">Shopify reports Q4 revenue up 31% YoY to $3.7B, vs. $3.59B est., and forecasts Q1 revenue growth at a low-thirties percentage rate, vs. 25% est.; SHOP jumps 10%</a></b></span>&nbsp; &mdash;&nbsp; Shopify (SHOP.TO), projected quarterly revenue above market estimates on Wednesday, as the e-commerce platform expects consumer spending &hellip; </p>",
+      "summary": "<a href=\"https://www.reuters.com/business/retail-consumer/shopify-forecasts-quarterly-revenue-above-estimates-strong-demand-2026-02-11/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260211/i19.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260211/p19#a260211p19\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Deborah Sophia / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/business/retail-consumer/shopify-forecasts-quarterly-revenue-above-estimates-strong-demand-2026-02-11/\">Shopify reports Q4 revenue up 31% YoY to $3.7B, vs. $3.59B est., and forecasts Q1 revenue growth at a low-thirties percentage rate, vs. 25% est.; SHOP jumps 10%</a></b></span>&nbsp; &mdash;&nbsp; Shopify (SHOP.TO) projected quarterly revenue well above market estimates on Wednesday, as the e-commerce platform benefits &hellip; </p>",
       "published": "2026-02-11T12:25:10+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -86,33 +356,6 @@
       "category": "deals"
     },
     {
-      "id": "5433a6b09ab6b476014a4162a22616688b587be8",
-      "title": "MyKiosk project not a &#039;white elephant&#039;, helps raise income of over 7,000 hawkers",
-      "link": "https://www.thestar.com.my/news/nation/2026/02/11/mykiosk-project-not-a-039white-elephant039-helps-raise-income-of-over-7000-hawkers",
-      "summary": "PUTRAJAYA: The Housing and Local Government Ministry says allegations that the MyKiosk project is a 'white elephant' as inaccurate, noting it has helped increase the income of over 7,000 hawkers nationwide. <a href=\"https://www.thestar.com.my/news/nation/2026/02/11/mykiosk-project-not-a-039white-elephant039-helps-raise-income-of-over-7000-hawkers\">Read full story</a>",
-      "published": "2026-02-11T12:19:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "0ab19cc2ac32bdb40e2a31db3b98eeb922399efe",
-      "title": "Lekas to activate SMART Lane system from tomorrow to tackle peak hour congestion",
-      "link": "https://www.thestar.com.my/news/nation/2026/02/11/lekas-to-activate-smart-lane-system-from-tomorrow-to-tackle-peak-hour-congestion",
-      "summary": "KUALA LUMPUR: Lebuhraya Kajang-Seremban Sdn Bhd (Lekas) will activate a Smart Lane system along selected sections of the Lekas Highway from Thursday (Feb 12) to ease traffic congestion during morning and evening peak hours. <a href=\"https://www.thestar.com.my/news/nation/2026/02/11/lekas-to-activate-smart-lane-system-from-tomorrow-to-tackle-peak-hour-congestion\">Read full story</a>",
-      "published": "2026-02-11T12:19:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "dc59e39744c89bed15914900012d50f6d4d37b4b",
-      "title": "CAT affirms MyCC&#039;s RM415.5mil decision against chicken feed cartel",
-      "link": "https://www.thestar.com.my/news/nation/2026/02/11/cat-affirms-mycc039s-rm4155mil-decision-against-chicken-feed-cartel",
-      "summary": "KUALA LUMPUR: The Malaysia Competition Commission (MyCC) has welcomed the unanimous decision by the Competition Appeal Tribunal (CAT) to dismiss all appeals by several feed mill companies against MyCC's December 2023 decision on price-fixing of chicken feed. <a href=\"https://www.thestar.com.my/news/nation/2026/02/11/cat-affirms-mycc039s-rm4155mil-decision-against-chicken-feed-cartel\">Read full story</a>",
-      "published": "2026-02-11T12:18:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "2c6b49e2752681b207a78814fe0bb996d53ff4b3",
       "title": "Hat Yai school attack ends as Thai police capture 18-year-old shooter; at least three injured",
       "link": "https://www.malaymail.com/news/world/2026/02/11/hat-yai-school-attack-ends-as-thai-police-capture-18-year-old-shooter-at-least-three-injured/208903",
@@ -122,31 +365,13 @@
       "category": "malaysia"
     },
     {
-      "id": "3547d006c8bad2d7e7c778b8cd8b18bc20553f1e",
-      "title": "Mistral plans to spend €1.2B to build AI infrastructure in Sweden in partnership with EcoDataCenter, set to open in 2027 and its first investment outside France (Yazhou Sun/Bloomberg)",
+      "id": "31104378b3288e2934b6b825fa4a57ace71be50b",
+      "title": "Mistral says it will spend €1.2B to build AI infrastructure in Sweden with partner EcoDataCenter, set to open in 2027 as its first data center outside France (Yazhou Sun/Bloomberg)",
       "link": "http://www.techmeme.com/260211/p18#a260211p18",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-02-11/mistral-invests-1-2-billion-in-swedish-ai-data-center-buildout\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260211/i18.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260211/p18#a260211p18\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Yazhou Sun / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-02-11/mistral-invests-1-2-billion-in-swedish-ai-data-center-buildout\">Mistral plans to spend &euro;1.2B to build AI infrastructure in Sweden in partnership with EcoDataCenter, set to open in 2027 and its first investment outside France</a></b></span>&nbsp; &mdash;&nbsp; French startup Mistral AI is investing &euro;1.2 billion ($1.4 billion) to build AI infrastructure in Sweden &hellip; </p>",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-02-11/mistral-invests-1-2-billion-in-swedish-ai-data-center-buildout\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260211/i18.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260211/p18#a260211p18\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Yazhou Sun / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-02-11/mistral-invests-1-2-billion-in-swedish-ai-data-center-buildout\">Mistral says it will spend &euro;1.2B to build AI infrastructure in Sweden with partner EcoDataCenter, set to open in 2027 as its first data center outside France</a></b></span>&nbsp; &mdash;&nbsp; French startup Mistral AI is investing &euro;1.2 billion ($1.4 billion) to build AI infrastructure in Sweden &hellip; </p>",
       "published": "2026-02-11T12:15:05+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "65e266ca1a75459bc58a40b4a5e240fbbb848a32",
-      "title": "Another 46,000 EMUPlus train tickets available for CNY travel",
-      "link": "https://www.thestar.com.my/news/nation/2026/02/11/another-46000-emuplus-train-tickets-available-for-cny-travel",
-      "summary": "KUALA LUMPUR: Keretapi Tanah Melayu Berhad is providing an additional 46,000 EMUPlus train tickets to meet high demand during the Chinese New Year holiday period. <a href=\"https://www.thestar.com.my/news/nation/2026/02/11/another-46000-emuplus-train-tickets-available-for-cny-travel\">Read full story</a>",
-      "published": "2026-02-11T12:10:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "072d134bb9706d8c8ef932ffe0ac67da45400602",
-      "title": "Trump privately weighs quitting USMCA trade pact he negotiated, Bloomberg News reports",
-      "link": "https://www.thestar.com.my/news/world/2026/02/11/trump-privately-weighs-quitting-usmca-trade-pact-he-negotiated-bloomberg-news-reports",
-      "summary": "Feb ⁠11 (Reuters) - U.S. ⁠President Donald Trump ‌is privately musing about exiting ​the North ⁠American trade ⁠pact, injecting further ⁠uncertainty about ‌the deal's ⁠future into pivotal renegotiations ​involving ‌the U.S., Canada ⁠and ​Mexico, Bloomberg News ⁠reported on Wednesday, ​citing people familiar with the ⁠matter. <a href=\"https://www.thestar.com.my/news/world/2026/02/11/trump-privately-weighs-quitting-usmca-trade-pact-he-negotiated-bloomberg-news-reports\">Read full story</a>",
-      "published": "2026-02-11T12:06:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "c0c6a2f4506e82e4970456c517b50aa75db676ac",
@@ -165,6 +390,15 @@
       "published": "2026-02-11T12:03:27+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
+    },
+    {
+      "id": "e4def2b4fe6bfc49aa1615f2df36db66cf1b15c5",
+      "title": "America, it's time to think beyond leather for luxury car seats",
+      "link": "https://arstechnica.com/features/2026/02/america-its-time-to-think-beyond-leather-for-luxury-car-seats/",
+      "summary": "Some brands are already ahead of the curve, while others leave the US in the cold.",
+      "published": "2026-02-11T12:00:35+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
     },
     {
       "id": "af5d9cc28f000827dfbb969ec6cc4d92d91e9717",
@@ -212,24 +446,6 @@
       "category": "deals"
     },
     {
-      "id": "622d8d55715b36e8a40466b5adbe907bf9a47263",
-      "title": "Lorry driver killed in crash with van at Felda Kahang Timur",
-      "link": "https://www.thestar.com.my/news/nation/2026/02/11/lorry-driver-killed-in-crash-with-van-at-felda-kahang-timur",
-      "summary": "KLUANG: A lorry driver perished in an accident involving a van at Jalan Felda Kahang Timur near here. <a href=\"https://www.thestar.com.my/news/nation/2026/02/11/lorry-driver-killed-in-crash-with-van-at-felda-kahang-timur\">Read full story</a>",
-      "published": "2026-02-11T11:50:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "1f19e49e3fb7030c1f1ab2acf84bbde4623db86c",
-      "title": "I don&#039;t own shares in any company, claiming otherwise is defamatory, says Azam Baki",
-      "link": "https://www.thestar.com.my/news/nation/2026/02/11/i-don039t-own-shares-in-any-company-claiming-otherwise-is-defamatory-says-azam-baki",
-      "summary": "PUTRAJAYA: Tan Sri Azam Baki says he no longer owns any shares in any company, inlcuding Velocity Capital Partner Bhd. <a href=\"https://www.thestar.com.my/news/nation/2026/02/11/i-don039t-own-shares-in-any-company-claiming-otherwise-is-defamatory-says-azam-baki\">Read full story</a>",
-      "published": "2026-02-11T11:47:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "a1079b1456369e487a0d86fc1a0b740f5c991179",
       "title": "Researchers find Kalshi and Polymarket bettors can more accurately predict economic data, earnings, and political events than analysts, likely due to incentives (Lydia DePillis/New York Times)",
       "link": "http://www.techmeme.com/260211/p16#a260211p16",
@@ -237,15 +453,6 @@
       "published": "2026-02-11T11:45:01+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "88472738913a1c508bd32581062576d02151d87a",
-      "title": "Mother suspected of giving sons methadone, one dead, two critical",
-      "link": "https://www.thestar.com.my/news/nation/2026/02/11/mother-suspected-of-giving-sons-methadone-one-dead-two-critical",
-      "summary": "KAJANG: A 35-year-old mother is believed to have given her three sons a dangerous liquid form of methadone, which allegedly resulted in the death of one of them on Wednesday (Feb 11). <a href=\"https://www.thestar.com.my/news/nation/2026/02/11/mother-suspected-of-giving-sons-methadone-one-dead-two-critical\">Read full story</a>",
-      "published": "2026-02-11T11:39:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "550909699ec9aefa4753ae9c5d01ca82f1974887",
@@ -263,15 +470,6 @@
       "summary": "KUALA LUMPUR, Feb 11 &mdash; The ringgit rose by 0.25 per cent against the US dollar, strengthening for the third consec...",
       "published": "2026-02-11T11:38:34+00:00",
       "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "3e15ef1127b324c42b437b11a2f92c424a1641af",
-      "title": "Gunman who entered southern Thai school detained, two wounded",
-      "link": "https://www.thestar.com.my/news/world/2026/02/11/gunman-holds-students-and-teachers-hostage-at-thai-school-local-administration-says",
-      "summary": "BANGKOK, Feb 11 (Reuters) - A ⁠gunman who fired shots at a school in ⁠Hat Yai district in southern Thailand on Wednesday ‌has been detained and all the people who were held hostage have been freed, a police official told Reuters. <a href=\"https://www.thestar.com.my/news/world/2026/02/11/gunman-holds-students-and-teachers-hostage-at-thai-school-local-administration-says\">Read full story</a>",
-      "published": "2026-02-11T11:38:00+00:00",
-      "source": "The Star : News Feed",
       "category": "malaysia"
     },
     {
@@ -347,10 +545,10 @@
       "category": "malaysia"
     },
     {
-      "id": "fe5f025a679e61d070fc0716407c731f87e93f0f",
-      "title": "SMIC CEO Zhao Haijun says the industry is \"a bit panicked\" about memory shortages, and new supply may arrive in nine months; memory prices are up 80%+ in 2026 (Sherry Qin/Wall Street Journal)",
+      "id": "a7763fbc2946be709ebc0b74cefb3c7098b3f59a",
+      "title": "SMIC CEO Zhao Haijun says the industry is \"a bit panicked\" about the memory chip shortage, and more supply may arrive in nine months; prices are up 80%+ in 2026 (Sherry Qin/Wall Street Journal)",
       "link": "http://www.techmeme.com/260211/p13#a260211p13",
-      "summary": "<a href=\"https://www.wsj.com/tech/smic-ceo-says-industry-panicked-about-memory-supply-shortage-f0e1aaed?st=cHRnm5&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260211/i13.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260211/p13#a260211p13\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sherry Qin / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/tech/smic-ceo-says-industry-panicked-about-memory-supply-shortage-f0e1aaed?st=cHRnm5&amp;reflink=desktopwebshare_permalink\">SMIC CEO Zhao Haijun says the industry is &ldquo;a bit panicked&rdquo; about memory shortages, and new supply may arrive in nine months; memory prices are up 80%+ in 2026</a></b></span>&nbsp; &mdash;&nbsp; More supply could come to market in nine months, executive says&nbsp; &mdash;&nbsp; The chief executive of China's largest contract chip maker &hellip; </p>",
+      "summary": "<a href=\"https://www.wsj.com/tech/smic-ceo-says-industry-panicked-about-memory-supply-shortage-f0e1aaed?st=cHRnm5&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260211/i13.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260211/p13#a260211p13\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sherry Qin / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/tech/smic-ceo-says-industry-panicked-about-memory-supply-shortage-f0e1aaed?st=cHRnm5&amp;reflink=desktopwebshare_permalink\">SMIC CEO Zhao Haijun says the industry is &ldquo;a bit panicked&rdquo; about the memory chip shortage, and more supply may arrive in nine months; prices are up 80%+ in 2026</a></b></span>&nbsp; &mdash;&nbsp; More supply could come to market in nine months, executive says&nbsp; &mdash;&nbsp; The chief executive of China's largest contract chip maker &hellip; </p>",
       "published": "2026-02-11T11:11:11+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -473,24 +671,6 @@
       "category": "malaysia"
     },
     {
-      "id": "94e6fb1034ab61c005036165204b1ff2a3770f36",
-      "title": "Tumbler Ridge mass shooting: What we know so far",
-      "link": "https://www.bbc.com/news/articles/c1e98w35qyjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nine people have been killed and 25 injured in the shootings at a school and home in a rural community in western Canada.",
-      "published": "2026-02-11T10:18:16+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "5d36f7b36a86505ab1d3aa08c9247f861060915e",
-      "title": "Ex-minister: I heard Saudi king promise donation to Najib at 2010 palace meeting",
-      "link": "https://www.malaymail.com/news/malaysia/2026/02/11/ex-minister-i-heard-saudi-king-promise-donation-to-najib-at-2010-palace-meeting/208884",
-      "summary": "KUALA LUMPUR, Feb 11 &mdash; Former minister in the Prime Minister&rsquo;s Department (Religious Affairs) Datuk Seri Jam...",
-      "published": "2026-02-11T10:17:01+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "e68ff3a8f21c53e3b3e590e8e73512bbbc30a513",
       "title": "Australia's opposition leader under pressure after key resignation",
       "link": "https://www.bbc.com/news/articles/cm2r4d5mnero?at_medium=RSS&at_campaign=rss",
@@ -507,15 +687,6 @@
       "published": "2026-02-11T10:06:39+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "085ec241c1b3fff833f8ded7eb49af11b073a577",
-      "title": "Mistral CEO Arthur Mensch says the startup's annualized revenue run rate was \"north of $400M\", up from $20M a year ago, and it is set to hit $1B ARR by 2026-end (Financial Times)",
-      "link": "http://www.techmeme.com/260211/p9#a260211p9",
-      "summary": "<a href=\"https://t.co/JBh6MtDCyc\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260211/i9.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260211/p9#a260211p9\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://t.co/JBh6MtDCyc\">Mistral CEO Arthur Mensch says the startup's annualized revenue run rate was &ldquo;north of $400M&rdquo;, up from $20M a year ago, and it is set to hit $1B ARR by 2026-end</a></b></span>&nbsp; &mdash;&nbsp; French start-up is riding a growing wave of demand from European businesses for alternatives to US tech</p>",
-      "published": "2026-02-11T10:05:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "f82df27448ef6dea64d2614608538d5b0b23e413",
@@ -554,15 +725,6 @@
       "category": "malaysia"
     },
     {
-      "id": "9516ddc9c920916c8c485baae243c8bc418a9d53",
-      "title": "Malaysia’s main interfaith group urges PM to clarify directive to local councils on unauthorised places of worship",
-      "link": "https://www.malaymail.com/news/malaysia/2026/02/11/malaysias-main-interfaith-group-urges-pm-to-clarify-directive-to-local-councils-on-unauthorised-places-of-worship/208885",
-      "summary": "KUALA LUMPUR, Feb 11 &mdash; The Malaysian Consultative Council of Buddhism, Christianity, Hinduism, Sikhism and Taoism...",
-      "published": "2026-02-11T09:21:42+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "8aee94ff10e31090799fade7ecbd03e05e2bd0f0",
       "title": "ECRL Reaches 91.7% Completion; Testing Phase To Commence",
       "link": "https://www.lowyat.net/2026/382923/ecrl-testing-phase/",
@@ -570,33 +732,6 @@
       "published": "2026-02-11T09:18:23+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "35033b4ec3760d461cb48573108c46e9d989e060",
-      "title": "Anwar to attend Kedah PKR state convention on Friday",
-      "link": "https://www.malaymail.com/news/malaysia/2026/02/11/anwar-to-attend-kedah-pkr-state-convention-on-friday/208883",
-      "summary": "ALOR SETAR, Feb 11 &mdash; Kedah PKR will hold its convention at Hotel Raia here this Friday.Statet PKR communications d...",
-      "published": "2026-02-11T09:12:27+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "b8be8ac22bb0a8f9790e9ca39a9c2e1545f1f858",
-      "title": "Q&A with Fidji Simo on ChatGPT ads, OpenAI's efforts to ship a new model soon to end Sam Altman's Code Red, Anthropic's Super Bowl ads, Sora, Jony Ive, and more (Alex Heath/Sources)",
-      "link": "http://www.techmeme.com/260211/p8#a260211p8",
-      "summary": "<a href=\"https://sources.news/p/openais-fidji-simo-on-ads-in-chatgpt\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260211/i8.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260211/p8#a260211p8\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Alex Heath / <a href=\"https://sources.news/\">Sources</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://sources.news/p/openais-fidji-simo-on-ads-in-chatgpt\">Q&amp;A with Fidji Simo on ChatGPT ads, OpenAI's efforts to ship a new model soon to end Sam Altman's Code Red, Anthropic's Super Bowl ads, Sora, Jony Ive, and more</a></b></span>&nbsp; &mdash;&nbsp; How ads in ChatGPT will work, what will end the Code Red, those Anthropic attack ads, working with Sam Altman, and much more...</p>",
-      "published": "2026-02-11T08:55:53+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "64932b99e3396730f6403b56e337e07067e27b75",
-      "title": "Cambodia says it has closed almost 200 scam centres in fraud crackdown",
-      "link": "https://www.malaymail.com/news/world/2026/02/11/cambodia-says-it-has-closed-almost-200-scam-centres-in-fraud-crackdown/208882",
-      "summary": "KAMPOT (Cambodia), Feb 11 &mdash; Cambodia has closed almost 200 scam centres in a crackdown on transnational fraud in r...",
-      "published": "2026-02-11T08:55:27+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "025e3c7ed7597a2a2645000c24034a7d6b74733f",
@@ -626,13 +761,13 @@
       "category": "deals"
     },
     {
-      "id": "74d8219cc88a72cfa9b9e82fdb7cc3843600e889",
-      "title": "GPT-5.3-Codex and Claude Opus 4.6 can handle the full app development lifecycle on their own, a sign of what's coming for most knowledge work within five years (Matt Shumer)",
-      "link": "http://www.techmeme.com/260211/p7#a260211p7",
-      "summary": "<p><a href=\"http://www.techmeme.com/260211/p7#a260211p7\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://shumer.dev/\">Matt Shumer</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://shumer.dev/something-big-is-happening\">GPT-5.3-Codex and Claude Opus 4.6 can handle the full app development lifecycle on their own, a sign of what's coming for most knowledge work within five years</a></b></span>&nbsp; &mdash;&nbsp; Think back to February 2020.&nbsp; &mdash;&nbsp; If you were paying close attention, you might have noticed a few people talking about a virus spreading overseas.</p>",
-      "published": "2026-02-11T07:40:51+00:00",
-      "source": "Techmeme",
-      "category": "tech"
+      "id": "34c37190f7f32b51cf63adeec85766c89f391450",
+      "title": "AI Community Manager",
+      "link": "https://www.producthunt.com/products/ai-community-manager",
+      "summary": "<p>\n            A humanlike agent that knows who, what and when to respond\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ai-community-manager?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1077616?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-11T07:52:11+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "d9cedeca55c87f6db5a7f992ac03f5737bd0331a",
@@ -705,15 +840,6 @@
       "published": "2026-02-11T03:26:37+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "1c0d5990c639733c3b41a7a25efc2b167360b15a",
-      "title": "On-Call Health",
-      "link": "https://www.producthunt.com/products/on-call-health",
-      "summary": "<p>\n            Catch overload before it burns out your incident responders\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/on-call-health?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1077510?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-11T03:07:18+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "3f125fb8f7980f269c57fc39b8fae0faedf4d3d8",
@@ -824,15 +950,6 @@
       "category": "tech"
     },
     {
-      "id": "9e1490b8b6dd0bb4212abdbbc406bb7135b6cb08",
-      "title": "Bezos could have saved The Washington Post’s local news and sports reporters",
-      "link": "https://www.theverge.com/policy/876834/bezos-washington-post-sports-local-reporters",
-      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politicking in the age of Trump. If you're a subscriber, you are dominant and talented, like the Seattle Seahawks. If you're not a subscriber yet, it's time to get your act together, like the New England Patriots. (I'm from Boston and I'm allowed [&#8230;]",
-      "published": "2026-02-10T23:34:59+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "889791ed5ea435a05233c373d914cb9d7653bbf0",
       "title": "Chatvas",
       "link": "https://www.producthunt.com/products/chatvas",
@@ -848,24 +965,6 @@
       "summary": "A new report claims the e-commerce giant is looking to create a pipeline of licensable content between media publishers and AI companies.",
       "published": "2026-02-10T23:16:28+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "00e466b78d94c21da4e33c6d65c9d33b74539972",
-      "title": "ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer",
-      "summary": "OpenAI is updating ChatGPT's deep research tool with a full-screen viewer that you can use to scroll through and navigate to specific areas of its AI-generated reports. As shown in a video shared by OpenAI, the built-in viewer allows you to open ChatGPT's reports in a window separate from your chat, while showing a table [&#8230;]",
-      "published": "2026-02-10T23:02:32+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "9d57d564d491653bd95d2e8aa911ec755cf4dbe2",
-      "title": "Samsung’s next Unpacked is confirmed for later this month",
-      "link": "https://www.theverge.com/tech/876717/samsung-galaxy-unpacked-february-2026-s26",
-      "summary": "Samsung's annual Galaxy S-series reveal is later than usual this year, but we finally have a confirmed date to circle on the calendar: February 25th. And if you were hoping for major hardware upgrades from the company's flagship phones, you probably shouldn't hold your breath: an extensive leak published by WinFuture has seemingly confirmed that [&#8230;]",
-      "published": "2026-02-10T23:00:00+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -893,15 +992,6 @@
       "summary": "Czech ice dancers Katerina Mrazkova and Daniel Mrazek are learning the hard way that LLMs sometimes spit out straight-up plagiarism.",
       "published": "2026-02-10T22:31:13+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "63517cbe186b9a0d63a775c624fb285adc87011a",
-      "title": "Trump’s new ‘Buy American’ requirement for EV charging would dramatically curtail build-out",
-      "link": "https://www.theverge.com/transportation/876703/trump-ev-charging-buy-american-nevi-funds",
-      "summary": "It seems clear at this point to say that Donald Trump does not want to spend a single dime on EV charging. He tried to freeze $5 billion in funding for the National Electric Vehicle Infrastructure (NEVI) program, which was approved as part of the Bipartisan Infrastructure Law. And when a federal judge ordered the [&#8230;]",
-      "published": "2026-02-10T22:30:54+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -950,15 +1040,6 @@
       "category": "deals"
     },
     {
-      "id": "c51c2da8edb815aae96b8d73999207b72171702a",
-      "title": "Nolain OCR",
-      "link": "https://www.producthunt.com/products/nolain-ocr",
-      "summary": "<p>\n            Turn hundreds of documents into one clean spreadsheet\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nolain-ocr?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1077402?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-10T21:22:22+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "cbf37688a05bce0c1cc0d29268001be76eab68a1",
       "title": "Boston Dynamics CEO Robert Playter steps down after 30 years at the company",
       "link": "https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/",
@@ -977,6 +1058,15 @@
       "category": "tech"
     },
     {
+      "id": "bf2026b2ecfc7c98c1555eda19dc35be60340f26",
+      "title": "The Genesis",
+      "link": "https://www.producthunt.com/products/the-genesis",
+      "summary": "<p>\n            Turn your special date into \"living\" generative art\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/the-genesis?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1077389?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-10T20:58:11+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "6c2453c2d248115a6c6e43a7315bf7e98b45fd3e",
       "title": "The premium Tenways AGO X all-terrain mid-drive e-bike gets a $307 bundle of FREE gear at its $1,899 low, more from $1,599",
       "link": "https://9to5toys.com/2026/02/10/tenways-ago-x-all-terrain-mid-drive-e-bike-307-free-gear-1899-low-more/",
@@ -984,6 +1074,15 @@
       "published": "2026-02-10T20:56:24+00:00",
       "source": "9to5Toys",
       "category": "deals"
+    },
+    {
+      "id": "9900352d43840dddaae3323ef9fda02df05c0122",
+      "title": "DASCA",
+      "link": "https://www.producthunt.com/products/dasca",
+      "summary": "<p>\n            Creative effects processor for designers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dasca?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1077387?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-10T20:56:22+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "755c87d248a49bc894466a741ac28a1c7ab33ec3",
@@ -1004,15 +1103,6 @@
       "category": "tech"
     },
     {
-      "id": "2f3a1a384bc8e6b14c253c144f243aebbf3ed288",
-      "title": "Amazon just dropped another $50 off brand new condition Google Pixel 10 models, now at $200 off",
-      "link": "https://9to5toys.com/2026/02/10/amazon-new-google-pixel-10-deals/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/Google-Pixel-10-deals.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>While we have caught some wild open-box offers on Google’s more pricey Pixel 10 Pro devices lately, there are a series of ongoing discounts live across the lineup on brand new listings, and Amazon knocked another $50 off the base Pixel 10 – it is now $200 off. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/10/amazon-new-google-pixel-10-deals/#more-1192510\">more…</a>",
-      "published": "2026-02-10T20:16:56+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "f82ec906bad630388247e945032ff64274b74131",
       "title": "Bid launched to extend Zimbabwe president's term in office",
       "link": "https://www.bbc.com/news/articles/c15x3xl52qdo?at_medium=RSS&at_campaign=rss",
@@ -1020,24 +1110,6 @@
       "published": "2026-02-10T20:08:01+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "f93546e2c1f38e24abaf39874a3417945b24dfce",
-      "title": "Elevation Lab 10-Year Extended Battery Case for AirTag 1 or 2 down at $16 (Up to 30% off)",
-      "link": "https://9to5toys.com/2026/02/10/elevation-lab-10-year-extended-battery-case-airtag/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/01/Elevation-Lab-AirTag-10-Year-Extended-Battery-Case.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">Elevation Lab AirTag 1/2 Battery Extension Case</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-buy-for-16-30-off\">Buy for $16 (30% off)</h3>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A red background with a line drawn on it\" class=\"wp-image-1192507 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/Elevation-Lab-AirTag-12-Battery-Extension-Case.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p class=\"p1\">There are loads of AirTag accessories, but this is a rather unique one – it provides a rugged, waterproof housing that extends the battery life of AirTag 1 or 2 up o 10-years. It can be great set-it-and-forget-it tracking solution at $16 Prime shipped.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/10/elevation-lab-10-year-extended-battery-case-airtag/#more-1192505\">more…</a>",
-      "published": "2026-02-10T20:04:20+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "8e8e820860fee986a9744be03441dbba9d3a1392",
-      "title": "Today’s Apple Books and audiobook deals from $2",
-      "link": "https://9to5toys.com/2026/02/10/todays-apple-books-and-audiobook-deals-from-2/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/Apple-Books-deals-feb10.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Today’s lineup of the best deals on Apple Books is now ready to roll, including titles like Destiny by Sally Beauman, A Cold Day in Paradise by Steve Hamilton, God’s Junk Drawer by Peter Clines, The Viper by Brad Meltzer, a series of Elizabeth Peters and James A. Michener readers, and more. Head below to check them all out. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/10/todays-apple-books-and-audiobook-deals-from-2/#more-1192501\">more…</a>",
-      "published": "2026-02-10T19:39:17+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "11a53b39344625e1aebc4570da00a494dad043ce",
@@ -1067,13 +1139,13 @@
       "category": "tech"
     },
     {
-      "id": "5fc0b39981003dda441156f3e2a939ac442c1aa8",
-      "title": "This deal on ASUS’ AMD-powered ultra-thin Vivobook 16 Copilot+ PC is too good to pass up at $420 off",
-      "link": "https://9to5toys.com/2026/02/10/asus-ultra-thin-vivobook-16-copilot-pc-420-off/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/Vivobook-16-copilot-pc.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>As part of its wider <a href=\"https://bhpho.to/4gSYf31\">3-day Mega Deal Zone sale event</a>, B&amp;H is offering <a href=\"https://bhpho.to/3Oya9G0\">ASUS’ Vivobook 16 AMD-powered Copilot+ PC in Cool Silver finish for <strong>$479.99 shipped</strong></a>. This 16GB RAM/1TB SSD configuration usually sells for around $900, but today’s deal delivers a straight-up 40% markdown, shaving $420 off its usual going rate. That makes it cheaper than its own 14-inch counterpart, which is currently listed at $750 at Amazon. It’s a pretty good option to consider if you’re looking to pick up a Copilot+ laptop for a good price, and you can learn more about it below.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/10/asus-ultra-thin-vivobook-16-copilot-pc-420-off/#more-1192492\">more…</a>",
-      "published": "2026-02-10T19:11:51+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
+      "id": "5960aba0c83e8acd0cc969fa0f4056cef019cc78",
+      "title": "SkillShield",
+      "link": "https://www.producthunt.com/products/skillshield",
+      "summary": "<p>\n            Security-scored directory for AI skills and agent tools\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/skillshield?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1077351?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-10T19:27:34+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "907922f8f4d104b690b76ef44cb190d903edc354",
@@ -1101,15 +1173,6 @@
       "published": "2026-02-10T18:44:32+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "209ac19954e717e8af92975f63c04e5d2f92d47a",
-      "title": "Typeflow",
-      "link": "https://www.producthunt.com/products/typeflow-translate-fix-instantly",
-      "summary": "<p>\n            Write like a native in any language with one shortcut\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/typeflow-translate-fix-instantly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1077292?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-10T18:15:32+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "43f9d9e91e1bd99f2020738bf2016520573b2487",
@@ -1256,33 +1319,6 @@
       "category": "tech"
     },
     {
-      "id": "8ebd269114b517b6f40829e2c11ab19f7b8573ce",
-      "title": "YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying",
-      "link": "https://techcrunch.com/2026/02/10/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/",
-      "summary": "YouTubers are no longer just creators, and in some cases, their side businesses are growing faster than their channels.",
-      "published": "2026-02-10T15:06:26+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "96b7cef2d0080ebe57af028358c8ace45684d1be",
-      "title": "Hauler Hero collects $16M for its AI waste management software",
-      "link": "https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software/",
-      "summary": "Hauler Hero has seen its customer base, revenue, and head count double since the company raised its seed round in 2024.",
-      "published": "2026-02-10T15:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "c5f313139c18d14bbcf8f1b0050fc8b5bcb3be4e",
-      "title": "India orders social media platforms to take down deepfakes faster",
-      "link": "https://techcrunch.com/2026/02/10/india-orders-social-media-platforms-to-take-down-deepfakes-faster/",
-      "summary": "India’s new rules take effect February 20, tightening deepfake oversight and shrinking takedown windows to as little as two hours.",
-      "published": "2026-02-10T14:51:13+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "36982f8707538a218ba149471a10e4dd1ed3d8ae",
       "title": "Alphabet selling very rare 100-year bonds to help fund AI investment",
       "link": "https://arstechnica.com/gadgets/2026/02/alphabet-selling-very-rare-100-year-bunds-to-help-fund-ai-investment/",
@@ -1299,15 +1335,6 @@
       "published": "2026-02-10T14:42:57+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "1b949683eaa4e168ef69f16bcef36f7535be5e29",
-      "title": "Marc Anthony says the way Beckham feud has played out is 'hardly the truth'",
-      "link": "https://www.bbc.com/news/articles/c98gyegzypxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 57-year-old performed at Brooklyn and Nicola Peltz Beckham's wedding reception in 2022.",
-      "published": "2026-02-10T13:32:09+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "c9dbabcaf64e199fd211e37a6c5aad7a79be78b6",
@@ -1373,13 +1400,13 @@
       "category": "events"
     },
     {
-      "id": "796070cbadf705a11844498c6f12127348cf254a",
-      "title": "Chappell Roan leaves talent agency led by Casey Wasserman after Epstein fallout",
-      "link": "https://www.bbc.com/news/articles/cewz1keql5no?at_medium=RSS&at_campaign=rss",
-      "summary": "Wasserman's flirtatious emails to Ghislaine Maxwell were revealed in the Epstein files.",
-      "published": "2026-02-10T07:12:36+00:00",
-      "source": "BBC News",
-      "category": "world"
+      "id": "ddcd647b616b5bdca15178e1ba4c5ba96ad03499",
+      "title": "Willow for Developers",
+      "link": "https://www.producthunt.com/products/willow-voice",
+      "summary": "<p>\n            Dictation for Cursor & AI IDEs, the fastest way to vibe code\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1076736?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-09T23:04:25+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "c56d4433a6b40684b54faf47cd98e31214bdff18",
@@ -1389,6 +1416,15 @@
       "published": "2026-02-09T22:51:16+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
+    },
+    {
+      "id": "e8c1bd308f1dfba4a287bd7e7aa3d8668d389f10",
+      "title": "0xAudit",
+      "link": "https://www.producthunt.com/products/0xaudit",
+      "summary": "<p>\n            The security layer for AI agents to scan, fix verify via MCP\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/0xaudit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1076715?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-09T21:46:54+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "e903042bdc6793ef2b721e9b05fc7e823c83ac1b",
@@ -1463,13 +1499,13 @@
       "category": "tech"
     },
     {
-      "id": "a441be1524f9852f52a65762c5815a7fdd61f13a",
-      "title": "Why would Elon Musk pivot from Mars to the Moon all of a sudden?",
-      "link": "https://arstechnica.com/space/2026/02/has-elon-musk-given-up-on-mars/",
-      "summary": "\"SpaceX has already shifted focus to building a self-growing city on the Moon.\"",
-      "published": "2026-02-09T14:38:39+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
+      "id": "af3f22bae17263aabeb1b51338f076e5b78815f2",
+      "title": "Antal.Ai",
+      "link": "https://www.producthunt.com/products/antal-ai",
+      "summary": "<p>\n            Detects and obscures people in realtime video streams\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/antal-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1076540?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-09T15:10:37+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "54aa196422e6f50dabeb122a0bdd819ad0415c3b",
@@ -1508,15 +1544,6 @@
       "category": "malaysia"
     },
     {
-      "id": "2ac68d6b78d3726cb5ed83da45215c23b4b2cbe1",
-      "title": "Migma AI",
-      "link": "https://www.producthunt.com/products/migma-ai",
-      "summary": "<p>\n            Make emails sexy again\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/migma-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1076182?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-08T23:19:46+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "59ae68269ddc062e57016b0df00e8d9d1b7319e4",
       "title": "Drift",
       "link": "https://www.producthunt.com/products/drift-7",
@@ -1535,47 +1562,20 @@
       "category": "events"
     },
     {
-      "id": "49c0080f362ce70f6f6e5e214ed07b453eed6c0e",
-      "title": "Doraverse's All-in-One AI for Meetings",
-      "link": "https://www.producthunt.com/products/doraverse-3",
-      "summary": "<p>\n            Meet in any language with live translations\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/doraverse-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1075004?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-06T10:25:44+00:00",
+      "id": "362b7ad66228a07d3d5c808baf67a51e9642fe4e",
+      "title": "Tines",
+      "link": "https://www.producthunt.com/products/tines",
+      "summary": "<p>\n            Integrate agents, teams, and tools across your workspace\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tines?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1071929?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-02T23:54:07+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "70c8dbf7df284f42e51336bade05011d976fd6ce",
-      "title": "happycapy",
-      "link": "https://www.producthunt.com/products/happycapy",
-      "summary": "<p>\n            The agent-native computer, for the rest of us\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/happycapy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1074937?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-06T07:57:19+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "7e1bdd6e82bae524fc0a792bc0ea1da8c250b525",
-      "title": "SpotVault",
-      "link": "https://www.producthunt.com/products/spotvault",
-      "summary": "<p>\n            Collect, save, and keep your foraging spots private\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/spotvault?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1074050?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-05T15:19:37+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "0a84817fee7f779dd3e68a2dbefea1d43c557e91",
-      "title": "serenities",
-      "link": "https://www.producthunt.com/products/serenities",
-      "summary": "<p>\n            Connect your own AI with unlimited prompts and easy deploy\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/serenities?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1072182?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-03T11:12:04+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "5d97eea57d5f1846a7e521fb6413d45d2fd31f8c",
-      "title": "Revo AI Email Assistant",
-      "link": "https://www.producthunt.com/products/revo-ai",
-      "summary": "<p>\n            AI with accurate replies that tackle the next-step tasks\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/revo-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1034112?app_id=339\">Link</a>\n          </p>",
-      "published": "2025-11-03T20:19:35+00:00",
+      "id": "a48c60e135747dfe5490cf4cc9e970e86fce38aa",
+      "title": "Subscription Day² for iOS",
+      "link": "https://www.producthunt.com/products/subscription-day",
+      "summary": "<p>\n            Track paid subscriptions w/ analytics from multiple sources\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/subscription-day?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1071619?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-02T12:07:50+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
