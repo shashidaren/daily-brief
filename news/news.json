@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-02-23T21:38:05.549191+00:00",
+  "generatedAt": "2026-02-23T22:34:21.937524+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "dcc076d2d40ddbeb485cde13ea5753a4ca18d180",
+      "title": "Uber agrees to acquire SpotHero for an undisclosed sum, to offer parking reservation for events and at venues and airports; SpotHero was last valued at $290M (Salvador Rodriguez/CNBC)",
+      "link": "http://www.techmeme.com/260223/p27#a260223p27",
+      "summary": "<a href=\"https://www.cnbc.com/2026/02/23/uber-acquiring-spothero.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260223/i27.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260223/p27#a260223p27\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Salvador Rodriguez / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/02/23/uber-acquiring-spothero.html\">Uber agrees to acquire SpotHero for an undisclosed sum, to offer parking reservation for events and at venues and airports; SpotHero was last valued at $290M</a></b></span>&nbsp; &mdash;&nbsp; Uber said it's acquiring SpotHero, a company that provides a parking reservation app for crowded downtowns, sporting events and concerts.</p>",
+      "published": "2026-02-23T22:30:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "ee8c24c6e4b078d1d49cdf4347a4df03cf7355c3",
+      "title": "Egyptian president, Saudi crown prince discuss developments in Gaza",
+      "link": "https://www.thestar.com.my/news/world/2026/02/24/egyptian-president-saudi-crown-prince-discuss-developments-in-gaza",
+      "summary": "CAIRO/RIYADH, Feb. 23 (Xinhua) -- Egyptian President Abdel Fattah al-Sisi and Saudi Crown Prince and Prime Minister Mohammed bin Salman Al Saud discussed on Monday developments in the Gaza Strip and other regional and international issues. <a href=\"https://www.thestar.com.my/news/world/2026/02/24/egyptian-president-saudi-crown-prince-discuss-developments-in-gaza\">Read full story</a>",
+      "published": "2026-02-23T22:01:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "a4e667d29d7ed0f84a669c64cd0e4f096b35efe8",
+      "title": "With AI, investor loyalty is (almost) dead: at least a dozen OpenAI VCs now also back Anthropic",
+      "link": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+      "summary": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
+      "published": "2026-02-23T21:46:41+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "346d6d1e0c92080bae040774197c80fd78d157d9",
       "title": "Apple’s latest Light Blue Alpine Loop with Black Titanium finish now 30% off at Amazon (Medium size)",
@@ -12,6 +39,24 @@
       "published": "2026-02-23T21:30:00+00:00",
       "source": "9to5Toys",
       "category": "deals"
+    },
+    {
+      "id": "7577c67490596aedad99f59ef2bbf78df34b32e5",
+      "title": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
+      "link": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss",
+      "summary": "A wave of violence has erupted across Mexico since a powerful drug cartel boss died following his capture by special forces.",
+      "published": "2026-02-23T21:12:47+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "9a71d8b90075e5e7bd3bb8e1626f0a8dd129a238",
+      "title": "Trump threatens countries that 'play games' with existing trade deals",
+      "link": "https://www.bbc.com/news/articles/c5yvky5ldk1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The threat comes after the Supreme Court ruled on Friday that Trump had exceeded his authority in enacting a sweeping global programme of tariffs.",
+      "published": "2026-02-23T21:12:43+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "2aa735b584a476ada71426bc259b8682358fb2dc",
@@ -257,6 +302,15 @@
       "category": "deals"
     },
     {
+      "id": "593df445e5cf7fdde603e52696f31ed2515308b1",
+      "title": "US partially evacuates Beirut embassy amid rising Iran tensions",
+      "link": "https://www.bbc.com/news/articles/cj32l00k47lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The State Department has ordered non-essential staff to leave the embassy in Beirut after a security review.",
+      "published": "2026-02-23T19:08:55+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "ff267fb50fa49236405470fae36278a1258ece36",
       "title": "US says it struck vessel in Caribbean, killing three men",
       "link": "https://www.thestar.com.my/news/world/2026/02/24/us-says-it-struck-vessel-in-caribbean-killing-three-men",
@@ -318,15 +372,6 @@
       "published": "2026-02-23T18:32:25+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "779ecf3341ec0dd0ac519d520d8bb4dec0114c54",
-      "title": "Italian region resists US pressure to curb use of Cuban doctors",
-      "link": "https://www.thestar.com.my/news/world/2026/02/24/italian-region-resists-us-pressure-to-curb-use-of-cuban-doctors",
-      "summary": "ROME, Feb 23 (Reuters) - Cuban doctors ⁠are essential to keeping local hospitals running in Italy's southern Calabria region, its governor told a ⁠senior U.S. diplomat on Monday, rebuffing Washington's effort to halt the recruitment of medics from ‌the Caribbean island. <a href=\"https://www.thestar.com.my/news/world/2026/02/24/italian-region-resists-us-pressure-to-curb-use-of-cuban-doctors\">Read full story</a>",
-      "published": "2026-02-23T18:29:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "fb573b4b337b8962d770d9a77c4cd7a443d02217",
@@ -671,15 +716,6 @@
       "category": "tech"
     },
     {
-      "id": "7d9cf9d8ac4e23c411464418d12d62725cbdc7e6",
-      "title": "Aalyria, a Google spinoff whose software allows routing of traffic across diverse satellite platforms in low earth orbit, raised $100M at a $1.3B valuation (Lora Kolodny/CNBC)",
-      "link": "http://www.techmeme.com/260223/p12#a260223p12",
-      "summary": "<a href=\"https://www.cnbc.com/2026/02/23/google-spinout-aalyria-valued-at-1point3-billion-in-100-million-round.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260223/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260223/p12#a260223p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lora Kolodny / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/02/23/google-spinout-aalyria-valued-at-1point3-billion-in-100-million-round.html\">Aalyria, a Google spinoff whose software allows routing of traffic across diverse satellite platforms in low earth orbit, raised $100M at a $1.3B valuation</a></b></span>&nbsp; &mdash;&nbsp; In 2022, Google spun out a project focused on high-speed communications networks into a startup called Aalyria.</p>",
-      "published": "2026-02-23T14:25:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "33ddb64fb5c04b34bbdc48afadc82dcbe6760421",
       "title": "Huawei Launches Band 11 Series; Retails From RM189",
       "link": "https://www.lowyat.net/2026/383914/huawei-launches-band-11-series-retails-from-rm189/",
@@ -822,15 +858,6 @@
       "published": "2026-02-23T11:30:43+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "a077a13df75b8ba87c0a50384c08e77b8b98322b",
-      "title": "Cartel henchmen unleash violence after top drug lord killed in Mexico",
-      "link": "https://www.bbc.com/news/articles/c795qgejzpxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The death of the most-wanted Jalisco cartel chief sparks retaliatory violence in at least a dozen states in Mexico.",
-      "published": "2026-02-23T11:27:45+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "3e3bc3880fa2109a6e39ce4fd1c6b519212891f3",
@@ -1148,15 +1175,6 @@
       "category": "world"
     },
     {
-      "id": "f44d5f08db3e4efec0c3dded62f54a72fe056393",
-      "title": "Trump says Netflix will face ‘consequences’ if it doesn’t fire board member Susan Rice",
-      "link": "https://techcrunch.com/2026/02/22/trump-says-netflix-will-face-consequences-if-it-doesnt-fire-board-member-susan-rice/",
-      "summary": "Netflix board member Susan Rice had predicted that corporations that “take a knee” to Trump will be “held accountable” when Democrats return to power.",
-      "published": "2026-02-22T17:39:55+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "5f6a61bcc028b6fe45abd3dd8cdd8d58d8158b3f",
       "title": "Greenland says 'no thanks' to Trump US hospital boat",
       "link": "https://www.bbc.com/news/articles/cy7jnvdzpr7o?at_medium=RSS&at_campaign=rss",
@@ -1180,15 +1198,6 @@
       "link": "https://www.bbc.com/news/articles/clyz8d79djeo?at_medium=RSS&at_campaign=rss",
       "summary": "Twenty-five people were injured by explosions overnight in what officials are calling a terror attack.",
       "published": "2026-02-22T14:19:02+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "d8d0cb5987f3ce1a9bf36ba0bd9453f951c7a6b7",
-      "title": "'Affront to humanity': Sudan slams Uganda for hosting RSF paramilitary boss",
-      "link": "https://www.bbc.com/news/articles/c20lwznegk4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Sudan accuses Uganda of flouting international law by meeting Rapid Support Forces boss Mohamed Hamdan Dagalo.",
-      "published": "2026-02-22T13:52:09+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -1245,15 +1254,6 @@
       "published": "2026-02-22T02:08:20+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "207c87f07e6f55f7beab937c992e48ca2ab5695a",
-      "title": "Final missing Lake Tahoe skier found dead 5 days after avalanche",
-      "link": "https://www.bbc.com/news/articles/cp9m0zp04xyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities released the names of the six women and three guides who died in the worst avalanche in state history.",
-      "published": "2026-02-22T02:06:23+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "ed2cb6aa04e756a5108d73f6ea4fb195b9d16150",
