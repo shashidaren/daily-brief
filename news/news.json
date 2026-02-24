@@ -1,9 +1,126 @@
 {
-  "generatedAt": "2026-02-24T22:27:09.065293+00:00",
+  "generatedAt": "2026-02-24T23:25:21.481265+00:00",
   "counts": {
-    "total": 175
+    "total": 160
   },
   "items": [
+    {
+      "id": "78b09c7171eebec6113fca3ad664053bd2a4729b",
+      "title": "Apple rolls out age verification tools worldwide to comply with growing web of child safety laws",
+      "link": "https://techcrunch.com/2026/02/24/apple-rolls-out-age-verification-tools-worldwide-to-comply-with-growing-web-of-child-safety-laws/",
+      "summary": "Apple complies with new age assurance laws in the U.S. and abroad, including those that block users from downloading apps aimed at adults.",
+      "published": "2026-02-24T23:21:54+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "720a37beb1ea7847055c1dfb455a51c733547d40",
+      "title": "Uber engineers built an AI version of their boss",
+      "link": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/",
+      "summary": "Uber CEO Dara Khosrowshahi said the company’s employees have gone all in on AI, going so far as to build a chatbot of him that they use to practice their pitches.",
+      "published": "2026-02-24T23:09:28+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "b7b00c1be09919cf9aeaf46d4bed8afeb2ec977d",
+      "title": "OpenAI defeats xAI’s trade secrets lawsuit",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit",
+      "summary": "OpenAI won a victory Tuesday in one of its legal battles with xAI, which involved allegations of poaching and theft of trade secrets. The former company's motion to dismiss the lawsuit was granted on Tuesday with leave to amend, meaning xAI has the option to refile with modified claims. In the ruling, US District Judge [&#8230;]",
+      "published": "2026-02-24T23:05:28+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "9534d4f83bb31ac2fe63b3fc186c1997f6e30f17",
+      "title": "How digital platforms are redefining Ramadan engagement in Malaysia",
+      "link": "https://www.malaymail.com/news/malaysia/2026/02/25/how-digital-platforms-are-redefining-ramadan-engagement-in-malaysia/210217",
+      "summary": "KUALA LUMPUR, Feb 25&nbsp;&mdash; The Ramadan atmosphere, traditionally enlivened through activities at mosques and sura...",
+      "published": "2026-02-24T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "967620d82198304991e495f4dcee740ea0dee349",
+      "title": "Inside SK Gong Nangka’s push to inspire young aviators",
+      "link": "https://www.malaymail.com/news/life/2026/02/25/inside-sk-gong-nangkas-push-to-inspire-young-aviators/210211",
+      "summary": "MARANG, Feb 25&nbsp;&mdash; Gazing up at the sky, a group of pupils at a school here no longer see God&rsquo;s creation...",
+      "published": "2026-02-24T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "99bd8f0b8b0a9f24a31258ca01fed5b34c2625c4",
+      "title": "From AI to Starlink: How drone tech is reshaping war in Ukraine",
+      "link": "https://www.malaymail.com/news/world/2026/02/25/from-ai-to-starlink-how-drone-tech-is-reshaping-war-in-ukraine/210218",
+      "summary": "KYIV, Feb 25 &mdash; As the war in Ukraine drags into its fifth year, drones have come to completely dominate the front...",
+      "published": "2026-02-24T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "0b2d5b179da7defeac1f7be70027234b1bb5428c",
+      "title": "'Considered a traitor': Life of an anti-war Ukrainian in Russia",
+      "link": "https://www.malaymail.com/news/world/2026/02/25/considered-a-traitor-life-of-an-anti-war-ukrainian-in-russia/210233",
+      "summary": "MOSCOW, Feb 25 &mdash; In war-torn Ukraine, her family considers her a traitor. In tightly controlled Russia, her life i...",
+      "published": "2026-02-24T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "3001c7e3d2eef070fa40f2f46ae49e96d31c54a1",
+      "title": "Sweet deals: Ramadan treats from only RM1 in Kota Bharu",
+      "link": "https://www.malaymail.com/news/life/2026/02/25/sweet-deals-ramadan-treats-from-only-rm1-in-kota-bharu/210221",
+      "summary": "KOTA BHARU, Feb 25&nbsp;&mdash;&nbsp;Premium nasi lemak, cakes and puddings are typically sold at higher prices, but at...",
+      "published": "2026-02-24T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "999a43edae4284c2b643cae8d3422d50ca05414e",
+      "title": "From kuih raya container to coin machine: Why BNM wants your spare coins spent, not stored",
+      "link": "https://www.malaymail.com/news/malaysia/2026/02/25/from-kuih-raya-container-to-coin-machine-why-bnm-wants-your-spare-coins-spent-not-stored/208599",
+      "summary": "PUTRAJAYA, Feb 25 &mdash; At a Maybank branch here, a man who wished to be known only as Pak Cik Rahmat waited patiently...",
+      "published": "2026-02-24T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "29bbb3787d67e2a4c6f14e2eb5771af894e4e55c",
+      "title": "How high will EPF dividends be for 2025? Take a guess in our poll!",
+      "link": "https://www.thestar.com.my/news/nation/2026/02/25/how-high-will-epf-dividends-be-for-2025-take-a-guess-in-our-poll",
+      "summary": "Contributors are eagaerly awaiting the EPF's dividend announcement, which is expected soon. <a href=\"https://www.thestar.com.my/news/nation/2026/02/25/how-high-will-epf-dividends-be-for-2025-take-a-guess-in-our-poll\">Read full story</a>",
+      "published": "2026-02-24T23:00:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "585868547cc3b2be1233954c899f1b6093dbfb8d",
+      "title": "Mexico weighs legal action after Musk links president to drug cartels",
+      "link": "https://www.thestar.com.my/news/world/2026/02/25/mexico-weighs-legal-action-after-musk-links-president-to-drug-cartels",
+      "summary": "MEXICO CITY, Feb 24 (Reuters) - Mexican President Claudia ⁠Sheinbaum said on Tuesday she is considering legal action following a comment by tech billionaire Elon ⁠Musk, the world's richest man, that alleged she was connected to drug cartels. <a href=\"https://www.thestar.com.my/news/world/2026/02/25/mexico-weighs-legal-action-after-musk-links-president-to-drug-cartels\">Read full story</a>",
+      "published": "2026-02-24T22:53:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "d7b95f38a28ccb9af8c515b04fa99a6d3ed98ad1",
+      "title": "Stripe is reportedly eyeing deal to buy some or all of PayPal",
+      "link": "https://techcrunch.com/2026/02/24/stripe-is-reportedly-eyeing-deal-to-buy-some-or-all-of-paypal/",
+      "summary": "Stripe might be looking to buy PayPal, or parts of it, per early reports.",
+      "published": "2026-02-24T22:35:30+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "4a3c62b2da88b995e9c9e241882d2724fe995183",
+      "title": "Inside the Mexican country villa that became &#039;El Mencho&#039;s&#039; final refuge",
+      "link": "https://www.thestar.com.my/news/world/2026/02/25/inside-the-mexican-country-villa-that-became-039el-mencho039s039-final-refuge",
+      "summary": "TAPALPA, ⁠Mexico, Feb 24 (Reuters) - Feared Mexican cartel leader Nemesio Oseguera, or \"El Mencho,\" spent his final hours in a luxury villa ⁠tucked inside the exclusive Tapalpa Country Club, a gated enclave of weekend homes in the hills of ‌Mexico's western state of Jalisco. <a href=\"https://www.thestar.com.my/news/world/2026/02/25/inside-the-mexican-country-villa-that-became-039el-mencho039s039-final-refuge\">Read full story</a>",
+      "published": "2026-02-24T22:29:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
     {
       "id": "5d8e03306af6a3e153f73d0c7f12c47874b12707",
       "title": "Floods and landslides in Brazil kill at least 25",
@@ -12,15 +129,6 @@
       "published": "2026-02-24T22:25:54+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "126654404b6ba7e7271c9d35dd78524c585ec76c",
-      "title": "A US judge sentences ex-L3Harris exec Peter Williams to over 7 years in prison, after he pleaded guilty in 2025 to theft of trade secrets and selling exploits (Greg Otto/CyberScoop)",
-      "link": "http://www.techmeme.com/260224/p49#a260224p49",
-      "summary": "<a href=\"https://cyberscoop.com/l3harris-executive-peter-williams-sentenced-zero-day-exploits-russia/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i49.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p49#a260224p49\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Greg Otto / <a href=\"https://cyberscoop.com/\">CyberScoop</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://cyberscoop.com/l3harris-executive-peter-williams-sentenced-zero-day-exploits-russia/\">A US judge sentences ex-L3Harris exec Peter Williams to over 7 years in prison, after he pleaded guilty in 2025 to theft of trade secrets and selling exploits</a></b></span>&nbsp; &mdash;&nbsp; Additionally, the U.S. Treasury sanctioned the Russian zero-day brokerage that Peter Williams sold the exploits to.&nbsp; &mdash;&nbsp; Learn more.</p>",
-      "published": "2026-02-24T22:20:03+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "7ba92bf8b42fe71a2e750ee2cce91465fec85349",
@@ -77,15 +185,6 @@
       "category": "malaysia"
     },
     {
-      "id": "77f14449da9ff7219a33211558b852fa2ea585d2",
-      "title": "The US Treasury sanctions Russian zero-day broker Operation Zero, its founder Sergey Zelenyuk, and others for acquiring and reselling stolen US defense exploits (Lorenzo Franceschi-Bicchierai/TechCrunch)",
-      "link": "http://www.techmeme.com/260224/p48#a260224p48",
-      "summary": "<a href=\"https://techcrunch.com/2026/02/24/treasury-sanctions-russian-zero-day-broker-accused-of-buying-exploits-stolen-from-u-s-defense-contractor/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i48.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p48#a260224p48\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lorenzo Franceschi-Bicchierai / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/02/24/treasury-sanctions-russian-zero-day-broker-accused-of-buying-exploits-stolen-from-u-s-defense-contractor/\">The US Treasury sanctions Russian zero-day broker Operation Zero, its founder Sergey Zelenyuk, and others for acquiring and reselling stolen US defense exploits</a></b></span>&nbsp; &mdash;&nbsp; The U.S. government announced on Tuesday sanctions against two companies that acquire and resell zero-day exploits &hellip; </p>",
-      "published": "2026-02-24T21:40:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "ab6b75fe5f77fadf48bf3e092be5421397bd61ac",
       "title": "Google’s new 1.9GW clean energy deal includes massive 100-hour battery",
       "link": "https://techcrunch.com/2026/02/24/googles-new-1-9gw-clean-energy-deal-includes-massive-100-hour-battery/",
@@ -113,15 +212,6 @@
       "category": "tech"
     },
     {
-      "id": "12494eb6cfe43c7fa17de3ead8b4dd1d72dbf19f",
-      "title": "Sources: MacBook Pros with touch screens, due this fall, will have a Dynamic Island and a refreshed, dynamic UI optimized for touch or point-and-click input (Mark Gurman/Bloomberg)",
-      "link": "http://www.techmeme.com/260224/p47#a260224p47",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-02-24/apple-s-touch-screen-macbook-pro-to-have-dynamic-island-new-interface\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i47.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p47#a260224p47\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Mark Gurman / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-02-24/apple-s-touch-screen-macbook-pro-to-have-dynamic-island-new-interface\">Sources: MacBook Pros with touch screens, due this fall, will have a Dynamic Island and a refreshed, dynamic UI optimized for touch or point-and-click input</a></b></span>&nbsp; &mdash;&nbsp; Apple Inc.'s long-awaited foray into touch-screen laptops will bring major changes to the Mac interface, including the addition &hellip; </p>",
-      "published": "2026-02-24T21:25:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "1136eee223aeb9a9d332ba4b0efc625cdedc1fc6",
       "title": "Anthropic won’t budge as Pentagon escalates AI dispute",
       "link": "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/",
@@ -140,15 +230,6 @@
       "category": "tech"
     },
     {
-      "id": "9ee51b5933be4348c0f1e7c21c236fcceccae681",
-      "title": "Apple will block users in Australia, Brazil, and Singapore from downloading apps rated 18+ without age assurance and rolls out new age assurance tools for devs (Marcus Mendes/9to5Mac)",
-      "link": "http://www.techmeme.com/260224/p46#a260224p46",
-      "summary": "<a href=\"https://9to5mac.com/2026/02/24/apple-expands-age-assurance-tools-as-new-app-store-requirements-roll-out-in-several-regions/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i46.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p46#a260224p46\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Marcus Mendes / <a href=\"https://9to5mac.com/\">9to5Mac</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://9to5mac.com/2026/02/24/apple-expands-age-assurance-tools-as-new-app-store-requirements-roll-out-in-several-regions/\">Apple will block users in Australia, Brazil, and Singapore from downloading apps rated 18+ without age assurance and rolls out new age assurance tools for devs</a></b></span>&nbsp; &mdash;&nbsp; Apple is rolling out new age assurance tools for developers in regions including Brazil, Australia, Singapore, and parts of the US &hellip; </p>",
-      "published": "2026-02-24T21:10:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "4150dae0e0d0f9daae7ae6917ec9516636bd0121",
       "title": "Let me see some ID: age verification is spreading across the internet",
       "link": "https://www.theverge.com/tech/883855/age-verification-internet-apps-laws-privacy-safety",
@@ -158,30 +239,12 @@
       "category": "tech"
     },
     {
-      "id": "7727baff88443487bd7a448972a6e14a187ff86a",
-      "title": "Sources: Stripe, which is privately held, has expressed preliminary interest in a potential acquisition of PayPal or its assets; PYPL jumps 6.7% (Bloomberg)",
-      "link": "http://www.techmeme.com/260224/p45#a260224p45",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-02-24/payments-processor-stripe-expresses-interest-in-paypal?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MTk2NjI5NCwiZXhwIjoxNzcyNTcxMDk0LCJhcnRpY2xlSWQiOiJUQVo4TjZLSzNOWUcwMCIsImJjb25uZWN0SWQiOiJENjBGNzhFNUYzMzg0QUZDQjgzRThCRTdGQUQyODM1MSJ9.jOIBYEbhNqQp7daQ2BihfeGXFIO2QP1mrYA6uyRWoo8\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i45.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p45#a260224p45\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-02-24/payments-processor-stripe-expresses-interest-in-paypal?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MTk2NjI5NCwiZXhwIjoxNzcyNTcxMDk0LCJhcnRpY2xlSWQiOiJUQVo4TjZLSzNOWUcwMCIsImJjb25uZWN0SWQiOiJENjBGNzhFNUYzMzg0QUZDQjgzRThCRTdGQUQyODM1MSJ9.jOIBYEbhNqQp7daQ2BihfeGXFIO2QP1mrYA6uyRWoo8\">Sources: Stripe, which is privately held, has expressed preliminary interest in a potential acquisition of PayPal or its assets; PYPL jumps 6.7%</a></b></span>&nbsp; &mdash;&nbsp; Payment processing firm Stripe Inc. is considering an acquisition of all or parts of PayPal Holdings Inc., according to people familiar with the matter.</p>",
-      "published": "2026-02-24T20:50:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "9e56752da943534bb1994d807da2306863f69cf7",
       "title": "Discord delays global rollout of age verification after backlash",
       "link": "https://techcrunch.com/2026/02/24/discord-delays-global-rollout-of-age-verification-after-backlash/",
       "summary": "The company added that 90% of users won’t need to verify their age and will be able to keep using Discord as usual.",
       "published": "2026-02-24T20:48:06+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "4c93cd44bf79dfd1fb259a8d060d90addb794274",
-      "title": "Sources: CoreWeave is seeking an ~$8.5B loan from banks, backed by a contract Meta signed last year to pay CoreWeave up to $14.2B for its services (Bloomberg)",
-      "link": "http://www.techmeme.com/260224/p44#a260224p44",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-02-24/coreweave-seeks-8-5-billion-loan-from-banks-backed-by-meta-deal\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i44.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p44#a260224p44\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-02-24/coreweave-seeks-8-5-billion-loan-from-banks-backed-by-meta-deal\">Sources: CoreWeave is seeking an ~$8.5B loan from banks, backed by a contract Meta signed last year to pay CoreWeave up to $14.2B for its services</a></b></span>&nbsp; &mdash;&nbsp; CoreWeave Inc. is looking to raise about $8.5 billion from banks including Morgan Stanley and Mitsubishi UFJ Financial Group Inc. to help finance &hellip; </p>",
-      "published": "2026-02-24T20:45:01+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -197,27 +260,9 @@
       "id": "ccc6465e5fc9ef4822da4752d38b4e992b545fc7",
       "title": "Instagram head pressed on lengthy delay to launch teen safety features, like a nudity filter, court filing reveals",
       "link": "https://techcrunch.com/2026/02/24/instagram-head-pressed-on-lengthy-delay-to-launch-teen-safety-features-like-a-nudity-filter-court-filing-reveals/",
-      "summary": "An email chain with Instagram head Adam Mosseri indicated the company was aware of teen safety issues in DMs in 2018, but didn't launch its unwanted nudity filter until 2024.",
+      "summary": "An email chain with Instagram head Adam Mosseri indicated the company was aware of teen safety issues in DMs in 2018, but didn't launch its unwanted-nudity filter until 2024.",
       "published": "2026-02-24T20:35:47+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "d6053ed77b118c1c756bd7addf006f3fdfa93343",
-      "title": "Source: Anthropic has no intention of easing Claude usage restrictions for military purposes, following Dario Amodei's meeting with Pete Hegseth (David Jeans/Reuters)",
-      "link": "http://www.techmeme.com/260224/p43#a260224p43",
-      "summary": "<a href=\"https://www.reuters.com/world/anthropic-digs-heels-dispute-with-pentagon-source-says-2026-02-24/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i43.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p43#a260224p43\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> David Jeans / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/anthropic-digs-heels-dispute-with-pentagon-source-says-2026-02-24/\">Source: Anthropic has no intention of easing Claude usage restrictions for military purposes, following Dario Amodei's meeting with Pete Hegseth</a></b></span>&nbsp; &mdash;&nbsp; Artificial intelligence lab Anthropic has no intention of easing its usage restrictions for military purposes, a person familiar with the matter &hellip; </p>",
-      "published": "2026-02-24T20:30:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "19dd38ae30cb306af4b47c2dee985a7e9c3a0543",
-      "title": "Anthropic updates its Responsible Scaling Policy, including separating the safety commitments it'll make unilaterally and its recommendations for the industry (Billy Perrigo/Time)",
-      "link": "http://www.techmeme.com/260224/p42#a260224p42",
-      "summary": "<a href=\"https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i42.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p42#a260224p42\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Billy Perrigo / <a href=\"https://time.com/\">Time</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/\">Anthropic updates its Responsible Scaling Policy, including separating the safety commitments it'll make unilaterally and its recommendations for the industry</a></b></span>&nbsp; &mdash;&nbsp; Anthropic, the wildly successful AI company that has cast itself as the most safety-conscious of the top research labs &hellip; </p>",
-      "published": "2026-02-24T20:26:38+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -230,29 +275,11 @@
       "category": "malaysia"
     },
     {
-      "id": "8effec4aadb7c6a97bde5f25c69a3d4e7fbe2448",
-      "title": "A California judge dismisses a lawsuit from xAI that accused OpenAI of stealing its trade secrets, with permission for xAI to refile the case at a later date (Blake Brittain/Reuters)",
-      "link": "http://www.techmeme.com/260224/p41#a260224p41",
-      "summary": "<a href=\"https://www.reuters.com/world/us-judge-dismisses-xai-trade-secrets-lawsuit-against-rival-openai-now-2026-02-24/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i41.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p41#a260224p41\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Blake Brittain / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/us-judge-dismisses-xai-trade-secrets-lawsuit-against-rival-openai-now-2026-02-24/\">A California judge dismisses a lawsuit from xAI that accused OpenAI of stealing its trade secrets, with permission for xAI to refile the case at a later date</a></b></span>&nbsp; &mdash;&nbsp; A California judge on Tuesday dismissed a lawsuit from Elon Musk's artificial intelligence startup xAI that accused rival Sam Altman's OpenAI &hellip; </p>",
-      "published": "2026-02-24T20:21:57+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "20b7473769da7253365a363c85f571074c9e651e",
       "title": "Crude futures settle lower",
       "link": "https://www.thestar.com.my/news/world/2026/02/25/crude-futures-settle-lower",
       "summary": "NEW YORK, Feb. 24 (Xinhua) -- Oil prices fell on Tuesday. <a href=\"https://www.thestar.com.my/news/world/2026/02/25/crude-futures-settle-lower\">Read full story</a>",
       "published": "2026-02-24T20:18:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "aa184b781305cf94520894e790b18aa9cceed5bb",
-      "title": "U.S. dollar ticks up",
-      "link": "https://www.thestar.com.my/news/world/2026/02/25/us-dollar-ticks-up",
-      "summary": "NEW YORK, Feb. 24 (Xinhua) -- The U.S. dollar increased in late trading on Tuesday. <a href=\"https://www.thestar.com.my/news/world/2026/02/25/us-dollar-ticks-up\">Read full story</a>",
-      "published": "2026-02-24T20:16:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
     },
@@ -264,24 +291,6 @@
       "published": "2026-02-24T20:14:50+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "a7e45f9bbbc2947835b75a6dbc0fe8c69f03adf8",
-      "title": "Zambia declares polio outbreak after virus detected in wastewater",
-      "link": "https://www.thestar.com.my/news/world/2026/02/25/zambia-declares-polio-outbreak-after-virus-detected-in-wastewater",
-      "summary": "LUSAKA, Feb. 24 (Xinhua) -- Zambia on Tuesday declared an outbreak of poliovirus in accordance with the International Health Regulations after samples collected from a wastewater treatment plant in Lusaka, the country's capital, tested positive for the virus. <a href=\"https://www.thestar.com.my/news/world/2026/02/25/zambia-declares-polio-outbreak-after-virus-detected-in-wastewater\">Read full story</a>",
-      "published": "2026-02-24T20:11:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "c2810b3367c6d6a81280e0ff1e53ec750f7068fd",
-      "title": "Discord says it won't roll out age verification globally next month as previously announced, delaying the change until H2 after it adds verification options (Stevie Bonifield/The Verge)",
-      "link": "http://www.techmeme.com/260224/p40#a260224p40",
-      "summary": "<a href=\"https://www.theverge.com/policy/883852/discord-age-verification-global-walkback-delay\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i40.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p40#a260224p40\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Stevie Bonifield / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/policy/883852/discord-age-verification-global-walkback-delay\">Discord says it won't roll out age verification globally next month as previously announced, delaying the change until H2 after it adds verification options</a></b></span>&nbsp; &mdash;&nbsp; &#65279;Now it will hold off on expansion until it adds more verification options, vendor transparency, and other changes.</p>",
-      "published": "2026-02-24T20:05:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "84c0f1489bd3f4cd2f893f308c235ceb60f4fb84",
@@ -320,19 +329,10 @@
       "category": "deals"
     },
     {
-      "id": "f9508d01e0ab0d685f7f5e419e26babfb9e4918f",
-      "title": "YouTube updates its $7.99-per-month Premium Lite subscription to let users download videos for offline access and play videos in the background (Sarah Perez/TechCrunch)",
-      "link": "http://www.techmeme.com/260224/p39#a260224p39",
-      "summary": "<a href=\"https://techcrunch.com/2026/02/24/youtube-beefs-up-its-7-99-month-lite-subscription-with-downloads-and-background-play/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i39.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p39#a260224p39\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sarah Perez / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/02/24/youtube-beefs-up-its-7-99-month-lite-subscription-with-downloads-and-background-play/\">YouTube updates its $7.99-per-month Premium Lite subscription to let users download videos for offline access and play videos in the background</a></b></span>&nbsp; &mdash;&nbsp; YouTube is expanding its more affordable, $7.99 per month Premium Lite subscription service with new features, including the ability to download videos &hellip; </p>",
-      "published": "2026-02-24T19:40:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "75918eaee268d1ec0006a6eb252a69c75264abdf",
       "title": "More startups are hitting $10M ARR in 3 months than ever before",
       "link": "https://techcrunch.com/2026/02/24/more-startups-are-hitting-10m-arr-in-3-months-than-ever-before/",
-      "summary": "AI has brought the startup world the rise of startups that instantly hit multimillion ARR. Stripe revealed some data that shows how common this has become.",
+      "summary": "AI has brought the startup world the rise of companies that instantly hit multimillion-dollar ARR. Stripe revealed some data that shows how common this has become.",
       "published": "2026-02-24T19:39:36+00:00",
       "source": "TechCrunch",
       "category": "tech"
@@ -363,15 +363,6 @@
       "published": "2026-02-24T19:17:37+00:00",
       "source": "The Verge",
       "category": "tech"
-    },
-    {
-      "id": "d683cd293f4cd054b90ffd52e1dbd863d8b707e3",
-      "title": "Mandelson&#039;s lawyers say his arrest followed &#039;baseless suggestion&#039; he planned to leave UK",
-      "link": "https://www.thestar.com.my/news/world/2026/02/25/mandelson039s-lawyers-say-his-arrest-followed-039baseless-suggestion039-he-planned-to-leave-uk",
-      "summary": "LONDON, Feb 24 (Reuters) - Lawyers ⁠representing Britain's former ambassador to the U.S. Peter Mandelson, who ⁠has faced scrutiny over his ties to Jeffrey Epstein, said ‌his arrest stemmed from a \"baseless suggestion\" that he intended to leave the country and settle abroad. <a href=\"https://www.thestar.com.my/news/world/2026/02/25/mandelson039s-lawyers-say-his-arrest-followed-039baseless-suggestion039-he-planned-to-leave-uk\">Read full story</a>",
-      "published": "2026-02-24T19:15:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "d14d22a6afb2d60ed31226fa31a3b1a082428ef2",
@@ -455,19 +446,10 @@
       "category": "tech"
     },
     {
-      "id": "d7a789da2bbe30ef84d3e7cea204fc886360fee7",
-      "title": "Sources: DOD told Anthropic it will invoke the Defense Production Act or label Anthropic a \"supply chain risk\", if not given unfettered Claude access by Friday (Axios)",
-      "link": "http://www.techmeme.com/260224/p38#a260224p38",
-      "summary": "<a href=\"https://www.axios.com/2026/02/24/anthropic-pentagon-claude-hegseth-dario\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i38.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p38#a260224p38\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/2026/02/24/anthropic-pentagon-claude-hegseth-dario\">Sources: DOD told Anthropic it will invoke the Defense Production Act or label Anthropic a &ldquo;supply chain risk&rdquo;, if not given unfettered Claude access by Friday</a></b></span>&nbsp; &mdash;&nbsp; Defense Secretary Pete Hegseth gave Anthropic CEO Dario Amodei until Friday evening to give the military unfettered access &hellip; </p>",
-      "published": "2026-02-24T18:45:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "8aef39bf73fe42666b31b70a89094e88844c0d0c",
       "title": "1Password is going up in price",
       "link": "https://www.theverge.com/tech/883837/1password-price-increase",
-      "summary": "1Password is increasing its prices on March 27th, 2026. In an email sent to users, the password manager says it will raise the price of its yearly individual plan from $35.88 to $47.88, and that its family plan is going from $59.88 to $71.88. \"While 1Password has grown substantially in value and capability, our pricing [&#8230;]",
+      "summary": "1Password is increasing its prices on March 27th, 2026. In an email sent to users, the password manager says it will raise the price of its individual plan from $3.99 / month ($35.88 / year) to $4.99 / month ($47.88 / year), and that its family plan is going from $6.95 / month ($59.88 / [&#8230;]",
       "published": "2026-02-24T18:41:41+00:00",
       "source": "The Verge",
       "category": "tech"
@@ -525,15 +507,6 @@
       "published": "2026-02-24T18:13:58+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "53174d570021e5185c94ea6232ea57e34100e669",
-      "title": "Waymo opens its robotaxi service to \"select riders\" in Dallas, Houston, San Antonio, and Orlando, expanding its operations to 10 US cities (Lora Kolodny/CNBC)",
-      "link": "http://www.techmeme.com/260224/p37#a260224p37",
-      "summary": "<a href=\"https://www.cnbc.com/2026/02/24/waymo-opens-robotaxi-service-to-select-riders-in-4-more-us-cities.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i37.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p37#a260224p37\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lora Kolodny / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/02/24/waymo-opens-robotaxi-service-to-select-riders-in-4-more-us-cities.html\">Waymo opens its robotaxi service to &ldquo;select riders&rdquo; in Dallas, Houston, San Antonio, and Orlando, expanding its operations to 10 US cities</a></b></span>&nbsp; &mdash;&nbsp; Alphabet-owned Waymo on Tuesday opened its robotaxi service to some public passengers in Dallas, Houston, San Antonio and Orlando, the company announced.</p>",
-      "published": "2026-02-24T18:10:03+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "67044a4559e936e7f4beef81f6e3d8dc8716abd6",
@@ -599,15 +572,6 @@
       "category": "deals"
     },
     {
-      "id": "808ff402d4b1876ecf59eaee374b31188bc2f258",
-      "title": "Software stocks rebound as Anthropic announces partnerships integrating its AI tools with enterprise apps, including Slack, Intuit, Docusign, and FactSet (Annie Palmer/CNBC)",
-      "link": "http://www.techmeme.com/260224/p36#a260224p36",
-      "summary": "<a href=\"https://www.cnbc.com/2026/02/24/software-stocks-anthropic-ai.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i36.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p36#a260224p36\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Annie Palmer / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/02/24/software-stocks-anthropic-ai.html\">Software stocks rebound as Anthropic announces partnerships integrating its AI tools with enterprise apps, including Slack, Intuit, Docusign, and FactSet</a></b></span>&nbsp; &mdash;&nbsp; Software stocks made a comeback on Tuesday after Anthropic hosted its enterprise agents event, where it revealed new partnerships &hellip; </p>",
-      "published": "2026-02-24T17:45:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "cd97e644a537dfd1af158cd3d47ce3bf16ba4ce1",
       "title": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
       "link": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
@@ -632,15 +596,6 @@
       "summary": "Stripe has conducted another tender offer, where employees sell shares. Investors include Thrive Capital, Coatue, a16z, and Stripe itself.",
       "published": "2026-02-24T17:28:23+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "818f5e65556b9df28b8e999b70e96ad4de1eeb7c",
-      "title": "SambaNova, which says its SN50 AI chip runs 5x faster than its rivals and will be deployed by SoftBank, raised a $350M Series E led by Vista Equity and Cambium (Bloomberg)",
-      "link": "http://www.techmeme.com/260224/p35#a260224p35",
-      "summary": "<p><a href=\"http://www.techmeme.com/260224/p35#a260224p35\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-02-24/intel-backed-sambanova-raises-cash-touts-softbank-chip-contract\">SambaNova, which says its SN50 AI chip runs 5x faster than its rivals and will be deployed by SoftBank, raised a $350M Series E led by Vista Equity and Cambium</a></b></span>&nbsp; &mdash;&nbsp; Artificial intelligence chip startup SambaNova Systems Inc. raised $350 million in a new funding round and said that customers &hellip; </p>",
-      "published": "2026-02-24T17:25:02+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -707,15 +662,6 @@
       "category": "tech"
     },
     {
-      "id": "e799fb87595227ef726e8299efdded345953afaa",
-      "title": "Anthropic&#8217;s Claude Cowork is plugging AI into more boring enterprise stuff",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates",
-      "summary": "On Tuesday, Anthropic announced updates to its Claude Cowork platform that allow the AI to help with a wider range of office tasks. Claude Cowork can now connect with several popular office apps, including Google Workspace, Docusign, and WordPress. New pre-built plug-ins can also automate tasks in a range of fields, including HR, design, engineering, [&#8230;]",
-      "published": "2026-02-24T16:43:56+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "b2bd23ff5ed2761fac81ab2a6355811f064cdfc4",
       "title": "50 mpg in a Nissan crossover? Testing the new E-Power hybrid system.",
       "link": "https://arstechnica.com/cars/2026/02/on-the-road-with-nissans-new-e-power-hybrid-coming-to-the-2027-rogue/",
@@ -730,15 +676,6 @@
       "link": "https://techcrunch.com/2026/02/24/marquis-sonicwall-lawsuit-ransomware-firewall-breach/",
       "summary": "Fintech giant Marquis is suing its firewall provider SonicWall, claiming that an earlier breach with SonicWall allowed hackers to deploy ransomware on Marquis' network.",
       "published": "2026-02-24T16:37:41+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "a94bbb2ead0480cd6d2c2d6e611c4de2d6579c78",
-      "title": "Ukraine’s startups keep building",
-      "link": "https://techcrunch.com/2026/02/24/ukraines-startups-keep-building/",
-      "summary": "In the four years since Russia’s full-scale invasion of their country, Ukrainian startups have done more than survive: they are still building and growing.",
-      "published": "2026-02-24T15:48:45+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
@@ -767,24 +704,6 @@
       "summary": "Investing heavily in battery EVs would be \"financially irresponsible,\" CEO said.",
       "published": "2026-02-24T15:24:02+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "b4e98543e9874c88d22702d2af7aa112fb86f980",
-      "title": "Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’",
-      "link": "https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/",
-      "summary": "Meta is buying billions of dollars in AMD AI chips in a multiyear deal tied to a 160 million-share warrant, deepening its push to diversify beyond Nvidia and expand data center capacity.",
-      "published": "2026-02-24T15:15:16+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "81b01a4b3a74ceea405481364dbdb3966c6a4513",
-      "title": "Oura launches a proprietary AI model focused on women’s health",
-      "link": "https://techcrunch.com/2026/02/24/oura-launches-a-proprietary-ai-model-focused-on-womens-health/",
-      "summary": "The model supports questions spanning the full reproductive health spectrum, from early menstrual cycles through menopause.",
-      "published": "2026-02-24T15:08:01+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -995,15 +914,6 @@
       "category": "malaysia"
     },
     {
-      "id": "48641186350d7e5ebbe4daf5e8c902ed5d5aece8",
-      "title": "Transport minister orders probe after LRT Kelana Jaya Line suffers two disruptions in one day",
-      "link": "https://www.malaymail.com/news/malaysia/2026/02/24/transport-minister-orders-probe-after-lrt-kelana-jaya-line-suffers-two-disruptions-in-one-day/210283",
-      "summary": "KUALA LUMPUR, Feb 24 &mdash; Transport Minister Anthony Loke has weighed in on the breakdowns plaguing the LRT Kelana Ja...",
-      "published": "2026-02-24T11:19:58+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "92f95bc6002b542c6f2b625f4f244d6739ceca3e",
       "title": "Lenovo Raising Prices Of Select Devices In March",
       "link": "https://www.lowyat.net/2026/384038/lenovo-raising-prices-of-select-devices-in-march/",
@@ -1013,15 +923,6 @@
       "category": "deals"
     },
     {
-      "id": "077c52b33726a3e732924cacb68b5ac24e6215dc",
-      "title": "One dead, two injured after Lexus and trailer skid into 15m ravine near Tapah",
-      "link": "https://www.malaymail.com/news/malaysia/2026/02/24/one-dead-two-injured-after-lexus-and-trailer-skid-into-15m-ravine-near-tapah/210281",
-      "summary": "IPOH, Feb 24 &mdash; An elderly woman was killed, while two men were injured after being involved in a road accident whe...",
-      "published": "2026-02-24T10:48:56+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "1cc5527522070b75340d34cda7e474e9c95411d1",
       "title": "iQOO 15R Now Official; Coming To Malaysia On 2 March",
       "link": "https://www.lowyat.net/2026/384030/iqoo-15r-now-official-coming-to-malaysia-on-2-march/",
@@ -1029,42 +930,6 @@
       "published": "2026-02-24T10:42:13+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "bd097e5207f2b2e0f3a529b0faa9c77735f89a1e",
-      "title": "ICC prosecutor alleges Duterte drew up ‘death lists’ in drugs war hearing",
-      "link": "https://www.malaymail.com/news/world/2026/02/24/icc-prosecutor-alleges-duterte-drew-up-death-lists-in-drugs-war-hearing/210280",
-      "summary": "THE HAGUE, Feb 24 &mdash;&nbsp;Former Philippines president Rodrigo Duterte personally drew up &ldquo;death lists&rdquo;...",
-      "published": "2026-02-24T10:39:38+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "cd424b64c946bca651149de220b2133eda6ace33",
-      "title": "Ringgit eases versus US dollar amid renewed US tariff uncertainty",
-      "link": "https://www.malaymail.com/news/money/2026/02/24/ringgit-eases-versus-us-dollar-amid-renewed-us-tariff-uncertainty/210279",
-      "summary": "&nbsp;KUALA LUMPUR, Feb 24 &mdash; The ringgit closed lower against the US dollar on Tuesday as issues surrounding the U...",
-      "published": "2026-02-24T10:36:28+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "d849c5c8d7792abf4e44b905a2ac538203b73897",
-      "title": "Bursa Malaysia ends three-day winning streak as profit-taking pulls FBM KLCI lower",
-      "link": "https://www.malaymail.com/news/money/2026/02/24/bursa-malaysia-ends-three-day-winning-streak-as-profit-taking-pulls-fbm-klci-lower/210278",
-      "summary": "KUALA LUMPUR, Feb 24 &mdash; Bursa Malaysia finished in the red on Tuesday on profit-taking after recent gains, ending a...",
-      "published": "2026-02-24T10:24:29+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "287a04729c3ccbb592cc73020107b4404e9d22ef",
-      "title": "Foreign Ministry monitoring Mexico unrest, Malaysians told to exercise caution",
-      "link": "https://www.malaymail.com/news/malaysia/2026/02/24/foreign-ministry-monitoring-mexico-unrest-malaysians-told-to-exercise-caution/210277",
-      "summary": "KUALA LUMPUR, Feb 24 &mdash; The Foreign Ministry, through the Embassy of Malaysia in Mexico City, is closely monitoring...",
-      "published": "2026-02-24T10:18:32+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "36e1931621f3c99cf3da7782a7f03b6294cc430d",
@@ -1139,15 +1004,6 @@
       "category": "deals"
     },
     {
-      "id": "fa7715d1aa659222214f55ec734da3b352be31e5",
-      "title": "Nag Alarm AI",
-      "link": "https://www.producthunt.com/products/nag-alarm-ai",
-      "summary": "<p>\n            An alarm that talks to you with a personalized message\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nag-alarm-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1084773?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-24T07:56:02+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "1978d2e2744f9a9fbbda6550304108dc44ba319e",
       "title": "Panasonic Also Exits TV Business; Passes It Over To Skyworth",
       "link": "https://www.lowyat.net/2026/383953/panasonic-exits-tv-business-passes-to-skyworth/",
@@ -1155,6 +1011,15 @@
       "published": "2026-02-24T07:53:43+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
+    },
+    {
+      "id": "e8a429ba75fb9d8ab3331bf1b87c321571f95bf7",
+      "title": "Liner Write",
+      "link": "https://www.producthunt.com/products/liner-write",
+      "summary": "<p>\n            Cursor for professional writing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/liner-write?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1084759?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-24T07:31:01+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "177cfef5ad2adc5480403c4e3280a257c75a6f65",
@@ -1173,15 +1038,6 @@
       "published": "2026-02-24T05:59:14+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "d39fad3e7fcc04446535c017f79d06ee806290de",
-      "title": "Gemma",
-      "link": "https://www.producthunt.com/products/gemma",
-      "summary": "<p>\n            AI personal assistant that calls you with reminders\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gemma?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1084700?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-24T05:33:11+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "098253566b791b560f15d4a79767ac3060b814af",
@@ -1218,15 +1074,6 @@
       "published": "2026-02-23T22:14:28+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "cc8e4c80a26db6306e6bb646edc9e114e7dc06e6",
-      "title": "Live AI Design Benchmark",
-      "link": "https://www.producthunt.com/products/live-ai-design-benchmark",
-      "summary": "<p>\n            Write a prompt and watch AI models compete on creativity\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/live-ai-design-benchmark?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1084563?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-23T22:02:19+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "0329ea7444afc630339cfd52c6a6af1a7abda834",
@@ -1283,15 +1130,6 @@
       "category": "tech"
     },
     {
-      "id": "520fded8146f4cb154fb1e9c5b497f782a99778c",
-      "title": "Radial",
-      "link": "https://www.producthunt.com/products/radial",
-      "summary": "<p>\n            Automate anything with a gesture\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/radial?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1084433?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-23T17:29:48+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "624f0fee7fdef3438d6be9eab2a536f3d086ea3b",
       "title": "The 2026 Mazda CX-5, driven: It got bigger; plus, radical tech upgrade",
       "link": "https://arstechnica.com/cars/2026/02/the-2026-mazda-cx-5-driven-it-got-bigger-plus-radical-tech-upgrade/",
@@ -1333,15 +1171,6 @@
       "link": "https://www.producthunt.com/products/toktrack",
       "summary": "<p>\n            Track AI CLI spending across Claude, Codex & Gemini in 40ms\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/toktrack?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1084353?app_id=339\">Link</a>\n          </p>",
       "published": "2026-02-23T15:18:07+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "5c9d134decc5021e3baebd6be0ac0ee9b0fb1923",
-      "title": "Dock 3.0",
-      "link": "https://www.producthunt.com/products/dock-developer-optimization-content-kit",
-      "summary": "<p>\n            Optimize, track & grow your apps now w/ Google Play support\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dock-developer-optimization-content-kit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1084329?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-23T14:32:29+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1472,6 +1301,24 @@
       "category": "malaysia"
     },
     {
+      "id": "9c48fddaaadf08eef9c46fcef9cfeca97160b401",
+      "title": "Scriptmine",
+      "link": "https://www.producthunt.com/products/scriptmine-turn-trends-into-scripts",
+      "summary": "<p>\n            Turns Reddit conversation insights into camera-ready scripts\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/scriptmine-turn-trends-into-scripts?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1082673?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-20T11:37:17+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "63197e345c81f20d83550caaacc6193ea3597a5b",
+      "title": "Lemonade Password Manager",
+      "link": "https://www.producthunt.com/products/lemonade-password-manager",
+      "summary": "<p>\n            Simple, secure, with an Env Vault for your .env files\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lemonade-password-manager?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1082493?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-20T03:32:06+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "6019d5dc020792136a257e91680644f00dd9e791",
       "title": "Xiaomi TV Stick 4K Second Gen: Google TV on a stick, priced at RM219",
       "link": "https://soyacincau.com/2026/02/19/xiaomi-tv-stick-4k-second-gen-malaysia-price-specs-google-tv/",
@@ -1499,6 +1346,15 @@
       "category": "malaysia"
     },
     {
+      "id": "bed5d3f9a8de047322283ced0cdfd6e14a15a233",
+      "title": "SoloGuard",
+      "link": "https://www.producthunt.com/products/sologuard",
+      "summary": "<p>\n            Safety Check-In for Solo Living / Seniors\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sologuard?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1082006?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-19T08:41:31+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "d3f53e9ae9a4229efeb2d08e7c521d29c030e1c4",
       "title": "Falconer",
       "link": "https://www.producthunt.com/products/falconer",
@@ -1517,11 +1373,20 @@
       "category": "malaysia"
     },
     {
-      "id": "1b1c317833168ae7581fce8ae79d2fa8bc00bc58",
-      "title": "Liftsell",
-      "link": "https://www.producthunt.com/products/liftsell",
-      "summary": "<p>\n            Smart popups & widgets that track revenue\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/liftsell?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1081707?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-18T18:43:48+00:00",
+      "id": "4b58016142cffd792b651c0df6526125dddbd60e",
+      "title": "Polsia",
+      "link": "https://www.producthunt.com/products/polsia",
+      "summary": "<p>\n            AI that runs your company while you sleep\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/polsia?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1081859?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-19T00:29:39+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "b2adcf0de4fe3ee5a6c559192b591585592d70dc",
+      "title": "Modelence App Builder",
+      "link": "https://www.producthunt.com/products/modelence-app-builder",
+      "summary": "<p>\n            Build real apps, not prototypes\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/modelence-app-builder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1081280?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-18T04:17:57+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1562,20 +1427,20 @@
       "category": "events"
     },
     {
-      "id": "2469f0a9f4cb837e178c7c668816ed599a145772",
-      "title": "Quilt",
-      "link": "https://www.producthunt.com/products/quilt-5",
-      "summary": "<p>\n            The smartest and most efficient heat pump on the market\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/quilt-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1079998?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-16T01:53:43+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "5e7108aa38f33dccd64a9856ea48d16b5de481cf",
       "title": "semn.ai",
       "link": "https://www.producthunt.com/products/semn-ai",
       "summary": "<p>\n            see and hear bitcoin\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/semn-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1077088?app_id=339\">Link</a>\n          </p>",
       "published": "2026-02-10T12:27:43+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "cae0e6fdf85665de312f4df9f68972677d4ce516",
+      "title": "Bazaar V4",
+      "link": "https://www.producthunt.com/products/bazaar-2",
+      "summary": "<p>\n            AI motion graphics and video generator \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bazaar-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1038928?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-17T05:10:26+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
