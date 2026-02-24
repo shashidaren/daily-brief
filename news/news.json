@@ -1,9 +1,126 @@
 {
-  "generatedAt": "2026-02-24T15:51:38.471260+00:00",
+  "generatedAt": "2026-02-24T16:59:01.526018+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "123032b3bd379210e011b0c2a22f00be36f90301",
+      "title": "Music generator ProducerAI joins Google Labs",
+      "link": "https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/",
+      "summary": "Wyclef Jean used Google's AI music tools on his new song \"Back in Abu Dhabi.\"",
+      "published": "2026-02-24T16:57:21+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "e799fb87595227ef726e8299efdded345953afaa",
+      "title": "Anthropic&#8217;s Claude Cowork is plugging AI into more boring enterprise stuff",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates",
+      "summary": "On Tuesday, Anthropic announced updates to its Claude Cowork platform that allow the AI to help with a wider range of office tasks. Claude Cowork can now connect with several popular office apps, including Google Workspace, Docusign, and WordPress. New pre-built plug-ins can also automate tasks in a range of fields, including HR, design, engineering, [&#8230;]",
+      "published": "2026-02-24T16:43:56+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "9f5888574ad545707c903737f45d71af9f1bbf1a",
+      "title": "Marquis sues firewall provider SonicWall, alleges security failings with its firewall backup led to ransomware attack",
+      "link": "https://techcrunch.com/2026/02/24/marquis-sonicwall-lawsuit-ransomware-firewall-breach/",
+      "summary": "Fintech giant Marquis is suing its firewall provider SonicWall, claiming that an earlier breach with SonicWall allowed hackers to deploy ransomware on Marquis' network.",
+      "published": "2026-02-24T16:37:41+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "6909a9b787eb2cfe24d9652c4965581a2063d7ba",
+      "title": "DOJ files reveal how Jeffrey Epstein ingratiated himself with top Microsoft executives, aiding his return to society after his release from prison in 2009 (New York Times)",
+      "link": "http://www.techmeme.com/260224/p33#a260224p33",
+      "summary": "<a href=\"https://www.nytimes.com/2026/02/24/technology/jeffrey-epstein-microsoft-executives.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i33.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p33#a260224p33\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.nytimes.com/\">New York Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nytimes.com/2026/02/24/technology/jeffrey-epstein-microsoft-executives.html\">DOJ files reveal how Jeffrey Epstein ingratiated himself with top Microsoft executives, aiding his return to society after his release from prison in 2009</a></b></span>&nbsp; &mdash;&nbsp; For more than two decades, the convicted sex offender developed a network at the tech giant, making him privy to succession discussions and other business.</p>",
+      "published": "2026-02-24T16:35:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "10f04100e2840d58b717d8f875e925be8b78d1fc",
+      "title": "Russia accuses Ukraine of seeking to acquire nuclear weapon with help from UK and France",
+      "link": "https://www.thestar.com.my/news/world/2026/02/25/russia-accuses-ukraine-of-seeking-to-acquire-nuclear-weapon-with-help-from-uk-and-france",
+      "summary": "MOSCOW, Feb 24 (Reuters) - Russia accused ⁠Ukraine on Tuesday of trying to obtain a nuclear weapon with help from ⁠Britain and France, an allegation Kyiv called an absurd lie. <a href=\"https://www.thestar.com.my/news/world/2026/02/25/russia-accuses-ukraine-of-seeking-to-acquire-nuclear-weapon-with-help-from-uk-and-france\">Read full story</a>",
+      "published": "2026-02-24T16:32:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "5fe906de87803f051399b88c10555205a0694455",
+      "title": "Floods and landslides in Brazil kill at least 20",
+      "link": "https://www.bbc.com/news/articles/c70k7vjllzeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of people have been displaced and dozens are missing, with rescue operations still ongoing in Juiz de Fora.",
+      "published": "2026-02-24T16:24:37+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "635fb33c99521c34b8aee2c62aa759b4a3d078d7",
+      "title": "Seven killed in air ambulance crash in India&#039;s Jharkhand state",
+      "link": "https://www.thestar.com.my/news/world/2026/02/25/seven-killed-in-air-ambulance-crash-in-india039s-jharkhand-state",
+      "summary": "NEW DELHI, Feb 24 (Reuters) - All seven ⁠people on board a Beechcraft air ambulance were killed on Monday when it crashed in the ⁠Indian state of Jharkhand, officials said a day later, including two crew members, a ‌patient and his relatives. <a href=\"https://www.thestar.com.my/news/world/2026/02/25/seven-killed-in-air-ambulance-crash-in-india039s-jharkhand-state\">Read full story</a>",
+      "published": "2026-02-24T16:21:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "e230bc89eef771277befb2fcd0515f8525d114d7",
+      "title": "Slang AI, which develops voice-based software for the hospitality industry that answers inbound calls, manages reservations, and more, raised a $36M Series B (Natalie Breymeyer/Axios)",
+      "link": "http://www.techmeme.com/260224/p32#a260224p32",
+      "summary": "<a href=\"https://www.axios.com/pro/all-deals/2026/02/24/slang-ai-hospitality-voice-tech-usvp\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i32.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p32#a260224p32\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Natalie Breymeyer / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/pro/all-deals/2026/02/24/slang-ai-hospitality-voice-tech-usvp\">Slang AI, which develops voice-based software for the hospitality industry that answers inbound calls, manages reservations, and more, raised a $36M Series B</a></b></span>&nbsp; &mdash;&nbsp; Slang AI, a New York-based AI platform for the hospitality industry, raised a $36 million Series B led by U.S. Venture Partners, CEO Alex Sambvani tells Axios exclusively.</p>",
+      "published": "2026-02-24T16:20:06+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "48a703a02b9fc076a8153264c55526219787a5a0",
+      "title": "Baseus’ regularly $40 10,000mAh tiny power bank with built-in USB-C cable is just $18 today (55% off)",
+      "link": "https://9to5toys.com/2026/02/24/baseus-10000mah-tiny-power-bank-with-built-in-usb-c-cable-just-18/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/06/Baseus-Picogo-10000mAh-power-bank.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>As part of a <a href=\"https://howl.link/v3f3uszvouvrd\">wider sale on charging accessories</a>, Woot is offering Baseus’ <a href=\"https://howl.link/qc4gyqpnagjhw\">10,000mAh Picogo power bank with a built-in USB-C cable for <strong>$17.99 Prime shipped</strong></a> (a $6 delivery fee will apply otherwise). This battery pack originally hit the scene carrying a $50 price tag and has more recently been going for around $40 on Amazon. Today’s deal at Woot drops it by 55% from its usual rate, bringing it back down to the lowest price we’ve seen for this model. It’s a solid pick if you’re looking for a compact, easy-to-carry power bank, and you can learn more about it below.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/24/baseus-10000mah-tiny-power-bank-with-built-in-usb-c-cable-just-18/#more-1194910\">more…</a>",
+      "published": "2026-02-24T16:11:53+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "10600f048eedf868b165d052009106b64ad778f9",
+      "title": "Estella’s top pet deals of the week: Up to 35% off Greenies, up to 29% off Earth Rated, discounts on Swiffer, more",
+      "link": "https://9to5toys.com/2026/02/24/estellas-top-pet-deals-35-off-greenies-29-off-earth-rated-discounts-swiffer/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/01/Estella-full-pic.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>9to5Toys mascot Estella the Frenchie is back with this week’s top deals. She’s tracked down fresh promo codes, limited-time offers, and solid savings on go-to pet brands like Earth Rated, Native Pet, and more. This time, she’s also sniffing out deals for her kitty friends, including Friskies and Purina.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/24/estellas-top-pet-deals-35-off-greenies-29-off-earth-rated-discounts-swiffer/#more-1194912\">more…</a>",
+      "published": "2026-02-24T16:11:12+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "2f946c4b15b482df46aac88ee0ace513ae06d82d",
+      "title": "Profound, which tracks how AI models recommend brands across millions of prompts, raised a $96M Series C at a $1B valuation, bringing its total funding to $155M (Lily Mae Lazarus/Fortune)",
+      "link": "http://www.techmeme.com/260224/p31#a260224p31",
+      "summary": "<a href=\"https://fortune.com/2026/02/24/exclusive-as-ai-threatens-search-profound-raises-96-million-to-help-brands-stay-visible/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i31.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p31#a260224p31\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lily Mae Lazarus / <a href=\"http://www.fortune.com/\">Fortune</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://fortune.com/2026/02/24/exclusive-as-ai-threatens-search-profound-raises-96-million-to-help-brands-stay-visible/\">Profound, which tracks how AI models recommend brands across millions of prompts, raised a $96M Series C at a $1B valuation, bringing its total funding to $155M</a></b></span>&nbsp; &mdash;&nbsp; Profound, an 18-month-old startup betting that the future of marketing will be shaped not by Google links but by AI answers, is now a unicorn.</p>",
+      "published": "2026-02-24T16:00:51+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "542a1ff242d402ce6c31f1915c7c7623f644dc58",
+      "title": "US envoy calls French minister after foreign ministry snub, source says",
+      "link": "https://www.thestar.com.my/news/world/2026/02/24/us-envoy-calls-french-minister-after-foreign-ministry-snub-source-says",
+      "summary": "PARIS, Feb 24 (Reuters) - The U.S. ⁠ambassador to France, Charles Kushner, called France's foreign minister on Tuesday ⁠and said he did not want to interfere in the public ‌debate, a day after snubbing a summons at the foreign ministry, a source close to the minister said. <a href=\"https://www.thestar.com.my/news/world/2026/02/24/us-envoy-calls-french-minister-after-foreign-ministry-snub-source-says\">Read full story</a>",
+      "published": "2026-02-24T15:55:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "a8926523921ecbee3b9a319794f02b21347f5338",
+      "title": "Samsung’s artsy Frame TV has dropped to a record-low price for a limited time",
+      "link": "https://www.theverge.com/gadgets/883331/samsung-2025-frame-tv-anker-nano-travel-adapter-deal-sale",
+      "summary": "Not everybody wants their living room to be dominated by a big, hulking TV screen. Luckily, Samsung’s 2025 Frame TV, which is designed to fade into the background when idle, is discounted to its lowest price to date at Woot. Now through February 28th, the 43- and 55-inch panels are on sale for $587.99 ($312 [&#8230;]",
+      "published": "2026-02-24T15:53:52+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
     {
       "id": "2a1a6b3012170fe5bf0482af55ad03ed44de75ef",
       "title": "An Evercore ISI economist criticizes Citrini's AI report, calling its assumptions \"extreme and improbable\", but says it's a thought-provoking exercise (Robin Wigglesworth/Financial Times)",
@@ -41,6 +158,15 @@
       "category": "deals"
     },
     {
+      "id": "e2f2f0065b9732079f87f4c82af3e511cecbafa2",
+      "title": "Two dead after winter storm hammers the US northeast",
+      "link": "https://www.bbc.com/news/articles/c5yjpx2lgdjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two people died when a tree fell on their car during a historic winter storm that has also delayed flights and left thousands without power.",
+      "published": "2026-02-24T15:31:14+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "c2b78c092d47239691c9bf469fc069822b66a26f",
       "title": "Kraken launches what it claims are the first regulated perpetual futures contracts based on tokenized stocks, available to non-US users and trading 24/7 (Krisztian Sandor/CoinDesk)",
       "link": "http://www.techmeme.com/260224/p28#a260224p28",
@@ -53,7 +179,7 @@
       "id": "e25f44e00959218aa4791d50a60af04215d1ff4c",
       "title": "Nancy Guthrie's family offers $1m reward to bring home missing mother",
       "link": "https://www.bbc.com/news/articles/cy4wd11j0evo?at_medium=RSS&at_campaign=rss",
-      "summary": "Fighting back tears, the missing woman's NBC host daughter says they accept she \"may be lost\".",
+      "summary": "Fighting back tears, the missing woman's NBC host daughter says they accept she may be dead.",
       "published": "2026-02-24T15:27:35+00:00",
       "source": "BBC News",
       "category": "world"
@@ -392,33 +518,6 @@
       "category": "deals"
     },
     {
-      "id": "2d10d89a636087b2b89ed3f9bc17956fd1044706",
-      "title": "Integrated enforcement key to tackling e-waste, plastic issue, says MACC",
-      "link": "https://www.thestar.com.my/news/nation/2026/02/24/integrated-enforcement-key-to-tackling-e-waste-plastic-issue-says-macc",
-      "summary": "KUALA LUMPUR: Firm enforcement action and seamless coordination among relevant agencies are critical to curbing the growing accumulation of containers filled with e-waste and plastic waste in the country, says Tan Sri Azam Baki. <a href=\"https://www.thestar.com.my/news/nation/2026/02/24/integrated-enforcement-key-to-tackling-e-waste-plastic-issue-says-macc\">Read full story</a>",
-      "published": "2026-02-24T13:56:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "3980748ba24ef93cac1415cb203feb4f6927a092",
-      "title": "Dewan Rakyat approves motion on A-G&#039;s first report for 2026",
-      "link": "https://www.thestar.com.my/news/nation/2026/02/24/dewan-rakyat-passes-motion-on-a-g039s-first-report-for-2026",
-      "summary": "KUALA LUMPUR: The Dewan Rakyat today passed the motion on the Auditor-General's Report (AG's Report) 1/2026 on the Financial Statements of Federal Agencies for 2024, which revealed 273 new issues involving financial management and governance at the federal and state levels. <a href=\"https://www.thestar.com.my/news/nation/2026/02/24/dewan-rakyat-passes-motion-on-a-g039s-first-report-for-2026\">Read full story</a>",
-      "published": "2026-02-24T13:52:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "d16fee7d7e95285e2b9df35fa8acdec45e3c9d8e",
-      "title": "Alleged domestic dispute between Penang exco member and wife goes viral",
-      "link": "https://www.thestar.com.my/news/nation/2026/02/24/alleged-domestic-dispute-between-penang-exco-member-and-wife-goes-viral",
-      "summary": "GEORGE TOWN: A domestic dispute is said to have occurred between a state executive councillor and his wife, with the issue going viral on social media. <a href=\"https://www.thestar.com.my/news/nation/2026/02/24/alleged-domestic-dispute-between-penang-exco-member-and-wife-goes-viral\">Read full story</a>",
-      "published": "2026-02-24T13:50:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "f058a0017e3d242d6ea48f744c945fca2be6d06f",
       "title": "Mexico hunts 23 inmates sprung from jail during wave of violence",
       "link": "https://www.bbc.com/news/articles/c07jpx7kkvpo?at_medium=RSS&at_campaign=rss",
@@ -491,24 +590,6 @@
       "category": "tech"
     },
     {
-      "id": "5d6bc29156a786af93b83c5b66c07bdc8b06e8c6",
-      "title": "Stripe hits a $159B valuation after an employee share sale to investors like Thrive, Coatue, and a16z, a 70% jump from its $92B valuation in February 2025 (Akila Quinio/Financial Times)",
-      "link": "http://www.techmeme.com/260224/p18#a260224p18",
-      "summary": "<a href=\"https://www.ft.com/content/42639c42-2e95-42e7-aacf-3a39743657f5\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i18.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p18#a260224p18\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Akila Quinio / <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/42639c42-2e95-42e7-aacf-3a39743657f5\">Stripe hits a $159B valuation after an employee share sale to investors like Thrive, Coatue, and a16z, a 70% jump from its $92B valuation in February 2025</a></b></span>&nbsp; &mdash;&nbsp; Deal will allow payments company to stay private for longer&nbsp; &mdash;&nbsp; Stripe's valuation has soared by more than 70 per cent to $159bn &hellip; </p>",
-      "published": "2026-02-24T13:12:17+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "fac2a9b70ca28bf6e511dc0fcd03309dadbe785b",
-      "title": "Basis, which builds AI agents to help accounting firms with tasks like tax returns, raised $100M led by Accel at a $1.15B valuation, for $138M in total funding (Rebecca Torrence/Bloomberg)",
-      "link": "http://www.techmeme.com/260224/p17#a260224p17",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-02-24/ai-for-accounting-startup-basis-hits-1-15-billion-valuation\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i17.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p17#a260224p17\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Rebecca Torrence / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-02-24/ai-for-accounting-startup-basis-hits-1-15-billion-valuation\">Basis, which builds AI agents to help accounting firms with tasks like tax returns, raised $100M led by Accel at a $1.15B valuation, for $138M in total funding</a></b></span>&nbsp; &mdash;&nbsp; AI-for-accounting startup Basis has surged to unicorn status with a new funding round as advances in artificial intelligence rattle the financial services markets.</p>",
-      "published": "2026-02-24T13:00:51+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "369ba2108b38c38a48776b1ec7507d19a7ab0045",
       "title": "Trump’s second-term report card: What he’ll defend in his State of the Union address",
       "link": "https://www.malaymail.com/news/world/2026/02/24/trumps-second-term-report-card-what-hell-defend-in-his-state-of-the-union-address/210239",
@@ -572,15 +653,6 @@
       "category": "deals"
     },
     {
-      "id": "8caaeb5060caa57b6a193a90effc1ae71a3346b2",
-      "title": "Roku reported an $88.4M profit in 2025, after a $498M loss in 2022, a $709.6M loss in 2023, and a $129.4M loss in 2024, boosted by new ad deals and cost cutting (Mark Maurer/Wall Street Journal)",
-      "link": "http://www.techmeme.com/260224/p16#a260224p16",
-      "summary": "<a href=\"https://www.wsj.com/articles/rokus-new-ad-deals-and-cost-cuts-help-it-end-a-three-year-profit-slide-0c5678ad?st=3VqP1w&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260224/i16.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260224/p16#a260224p16\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Mark Maurer / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/articles/rokus-new-ad-deals-and-cost-cuts-help-it-end-a-three-year-profit-slide-0c5678ad?st=3VqP1w&amp;reflink=desktopwebshare_permalink\">Roku reported an $88.4M profit in 2025, after a $498M loss in 2022, a $709.6M loss in 2023, and a $129.4M loss in 2024, boosted by new ad deals and cost cutting</a></b></span>&nbsp; &mdash;&nbsp; Investments in digital ads help propel the streaming video platform to its first year in the black since 2021</p>",
-      "published": "2026-02-24T12:50:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "fc419347eabf074580887d27e5f1ddd749410125",
       "title": "Putrajaya signals GLC dividend rule shake-up as EPF investments remain resilient",
       "link": "https://www.malaymail.com/news/malaysia/2026/02/24/putrajaya-signals-glc-dividend-rule-shake-up-as-epf-investments-remain-resilient/210292",
@@ -642,15 +714,6 @@
       "published": "2026-02-24T12:02:05+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "5102cfb74df8f71efaee1ae7f3d4a6f06dceeb07",
-      "title": "More than 5,000 flights cancelled as US east coast digs out of record snow",
-      "link": "https://www.bbc.com/news/articles/cx289g1yw97o?at_medium=RSS&at_campaign=rss",
-      "summary": "A major snowstorm dumps more than a foot of snow in several areas, bringing power cuts and disruption.",
-      "published": "2026-02-24T12:01:32+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "ecb5d6c43ba01c5ab3dbfc07bbadf5c97bdf743e",
@@ -959,15 +1022,6 @@
       "category": "tech"
     },
     {
-      "id": "e8a429ba75fb9d8ab3331bf1b87c321571f95bf7",
-      "title": "Liner Write",
-      "link": "https://www.producthunt.com/products/liner-write",
-      "summary": "<p>\n            Cursor for professional writing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/liner-write?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1084759?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-24T07:31:01+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "177cfef5ad2adc5480403c4e3280a257c75a6f65",
       "title": "Russian soldiers tell BBC they saw fellow troops executed on commanders' orders",
       "link": "https://www.bbc.com/news/articles/cz7gw3l395ro?at_medium=RSS&at_campaign=rss",
@@ -1031,11 +1085,29 @@
       "category": "malaysia"
     },
     {
+      "id": "3798974f8474f9662476d5ebee3e3aa257bc94b1",
+      "title": "WebMCP",
+      "link": "https://www.producthunt.com/products/webmcp",
+      "summary": "<p>\n            Give AI agents access to web apps via JavaScript\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/webmcp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1084692?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-24T05:17:13+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "01b150aa43186a44b7d706a9952408986977b49e",
       "title": "Orchids 1.0",
       "link": "https://www.producthunt.com/products/orchids",
       "summary": "<p>\n            Build any app using your existing AI subscriptions\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/orchids?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1084674?app_id=339\">Link</a>\n          </p>",
       "published": "2026-02-24T04:23:29+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "c9153c1113a36ffc76dc1eccb35b70e08df2ff59",
+      "title": "Ziva.sh",
+      "link": "https://www.producthunt.com/products/ziva-sh-ai-agent-for-game-engines",
+      "summary": "<p>\n            AI agent built for the Godot game engine\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ziva-sh-ai-agent-for-game-engines?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1084659?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-24T03:27:11+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1094,15 +1166,6 @@
       "category": "tech"
     },
     {
-      "id": "346d6d1e0c92080bae040774197c80fd78d157d9",
-      "title": "Apple’s latest Light Blue Alpine Loop with Black Titanium finish now 30% off at Amazon (Medium size)",
-      "link": "https://9to5toys.com/2026/02/23/apple-light-blue-alpine-loop-deal/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/01/Apple-Alpine-Loop-Light-Blue.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>We had a, frankly, crazy run of deals on the official Apple Watch Ultra bands late last month, delivering some near unheard of prices on a large selection of the latest Alpine and Trail Loops as well as the Ocean Bands. While many of those deals are back up in price now, this morning we did spot a notable <strong>30%</strong> price drop on the latest Apple Light Blue Alpine Loop in the medium size. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/23/apple-light-blue-alpine-loop-deal/#more-1194659\">more…</a>",
-      "published": "2026-02-23T21:30:00+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "b7fe43fd17577ff8ad9bd9ae1b9b5f7c7ca7d361",
       "title": "Panasonic, the former plasma king, will no longer make its own TVs",
       "link": "https://arstechnica.com/gadgets/2026/02/panasonic-the-former-plasma-king-will-no-longer-make-its-own-tvs/",
@@ -1121,39 +1184,12 @@
       "category": "world"
     },
     {
-      "id": "88e6a0cd042536175850e6d650111d9cbe73dd8d",
-      "title": "Pokémon Day 2026 Hub: All of the reveals, announcements, new Switch games, more",
-      "link": "https://9to5toys.com/2026/02/23/pokemon-day-2026-hub-reveals-announcements-new-switch-games/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/Pokemon-Day-2026.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>The annual Pokémon Presents is now set in stone for this Friday, and it should be a big one. Not only does it land on Pokémon Day (February 27) but this year’s showcase also marks the 30th anniversary of the original Gen 1 Pokémon Red and Blue and things have already kicked off with a bang. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/23/pokemon-day-2026-hub-reveals-announcements-new-switch-games/#more-1194825\">more…</a>",
-      "published": "2026-02-23T21:07:49+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "6c11a1c11c1956a9a9cb767cfcb5a9a04da531a4",
-      "title": "Will Trump’s DOJ actually take on Ticketmaster?",
-      "link": "https://www.theverge.com/policy/883155/doj-antitrust-division-gail-slater-live-nation-ticketmaster-trial",
-      "summary": "In mid-February, the Department of Justice lost its head antitrust enforcer - just weeks before it was scheduled to argue one of the year's biggest anti-monopoly cases in court. Antitrust Division chief Gail Slater announced her departure suddenly, via a post on her personal X account. But to those who follow the agency closely, it [&#8230;]",
-      "published": "2026-02-23T20:37:24+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "96fb761430f85a10bf3776fb1e5f97bb9a294416",
       "title": "Ex-Apple team launches Acme Weather, a new take on weather forecasting",
       "link": "https://techcrunch.com/2026/02/23/ex-apple-team-launches-acme-weather-a-new-take-on-weather-forecasting/",
       "summary": "The team that sold their last app Dark Sky to Apple are back with Acme Weather, which offers alternative forecasts, rainbow and sunset alerts, and more.",
       "published": "2026-02-23T20:35:06+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "db6755c3406410465d6db41304259acfc9f6a124",
-      "title": "Billions of dollars later and still nobody knows what an Xbox is",
-      "link": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
-      "summary": "The last few years of Xbox have been expensive. Under Phil Spencer's leadership, Microsoft has spent billions of dollars in an attempt to build an ambitious future for gaming that looks a lot like Netflix. And while its subscription service Game Pass started out as a good deal for gamers (although now not so much), [&#8230;]",
-      "published": "2026-02-23T20:30:00+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -1166,15 +1202,6 @@
       "category": "tech"
     },
     {
-      "id": "e55790b6432d13c52796e6fe1a43c9d903b745bb",
-      "title": "Uber wants to be a Swiss Army Knife for robotaxis",
-      "link": "https://techcrunch.com/2026/02/23/uber-autonomous-solutions-av-robotaxi-delivery-robots/",
-      "summary": "Uber Autonomous Solutions will see the company selling both software and services for all the tasks associated with operating a robotaxi, self-driving truck, or sidewalk delivery robot business.",
-      "published": "2026-02-23T19:54:22+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "d176250f8e7bcb99e842884879125c89e1ccb70e",
       "title": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
       "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
@@ -1182,15 +1209,6 @@
       "published": "2026-02-23T19:26:32+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "9885c69c06350dacfc1cfe44516ed8bb48cfcb59",
-      "title": "Google’s Cloud AI leads on the three frontiers of model capability",
-      "link": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
-      "summary": "AI models are pushing against three frontiers at once: raw intelligence, response time, and a third quality you might call \"extensibility.\"",
-      "published": "2026-02-23T19:18:42+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "5e21e50f00869c0611c48bf6de2cf0963f76d5a3",
@@ -1274,6 +1292,15 @@
       "category": "events"
     },
     {
+      "id": "5c9d134decc5021e3baebd6be0ac0ee9b0fb1923",
+      "title": "Dock 3.0",
+      "link": "https://www.producthunt.com/products/dock-developer-optimization-content-kit",
+      "summary": "<p>\n            Optimize, track & grow your apps now w/ Google Play support\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dock-developer-optimization-content-kit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1084329?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-23T14:32:29+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "567eab38128463136c3717f805008d21141d2409",
       "title": "Briton among 19 killed in Nepal bus crash",
       "link": "https://www.bbc.com/news/articles/c39wz97y90no?at_medium=RSS&at_campaign=rss",
@@ -1299,24 +1326,6 @@
       "published": "2026-02-23T13:44:09+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "5320e1be4aeb91db5a9ae343258cc8069de901bb",
-      "title": "Prosaic",
-      "link": "https://www.producthunt.com/products/prosaic",
-      "summary": "<p>\n            A minimal, open-source, writer-first terminal writing app\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/prosaic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1084278?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-23T12:43:21+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "88cfe2cce8c79e52b2cfaa7435fc5e7889d58f17",
-      "title": "Robert Mugabe's son charged with attempted murder in South Africa",
-      "link": "https://www.bbc.com/news/articles/cz9qk9y4d32o?at_medium=RSS&at_campaign=rss",
-      "summary": "Bellarmine Mugabe and one other man have not commented on the charges after a 23-year-old was shot.",
-      "published": "2026-02-23T12:21:05+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "b67a716bde04c4d8b3ef4db1da7cfbca5fc1ff02",
@@ -1549,15 +1558,6 @@
       "link": "https://www.producthunt.com/products/collective-os",
       "summary": "<p>\n            The Al-powered referral network for agencies & consultants\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/collective-os?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1080026?app_id=339\">Link</a>\n          </p>",
       "published": "2026-02-16T03:47:19+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "2469f0a9f4cb837e178c7c668816ed599a145772",
-      "title": "Quilt",
-      "link": "https://www.producthunt.com/products/quilt-5",
-      "summary": "<p>\n            The smartest and most efficient heat pump on the market\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/quilt-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1079998?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-16T01:53:43+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
