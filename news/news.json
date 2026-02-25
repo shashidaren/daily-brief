@@ -1,9 +1,243 @@
 {
-  "generatedAt": "2026-02-25T12:49:48.570106+00:00",
+  "generatedAt": "2026-02-25T14:06:09.286137+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "a6d2391495812f1c222557a37784598471c673fe",
+      "title": "Harbinger acquires autonomous driving company Phantom AI",
+      "link": "https://techcrunch.com/2026/02/25/harbinger-acquires-autonomous-driving-company-phantom-ai/",
+      "summary": "It's the Los Angeles trucking startup's first acquisition — the latest in a series of moves to spin up new revenue streams.",
+      "published": "2026-02-25T14:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "a9675ce71a46ed9ebbdeff4bc4a1b38cc1b342f2",
+      "title": "Jira’s latest update allows AI agents and humans to work side by side",
+      "link": "https://techcrunch.com/2026/02/25/jiras-latest-update-allows-ai-agents-and-humans-to-work-side-by-side/",
+      "summary": "Atlassian is unveiling \"agents in Jira\" which gives users the ability to assign and manage work given to AI agents the same as humans.",
+      "published": "2026-02-25T14:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "cd60dcdad5964652fe963d7a3ba12b39cf45b64d",
+      "title": "Y Combinator grad and AI insurance brokerage Harper raises $47M",
+      "link": "https://techcrunch.com/2026/02/25/ai-insurance-brokerage-harper-raises-45m-series-a-and-seed/",
+      "summary": "Harper is an AI-native insurance brokerage that just raised a $45 million combined Series A and seed, after a member of YC's Winter 2025 cohort.",
+      "published": "2026-02-25T14:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "83a01de0ceb62fd1b5c648c8ce1cad6722ab4aca",
+      "title": "Amazon’s AI-powered Alexa+ gets new personality options",
+      "link": "https://techcrunch.com/2026/02/25/amazons-ai-powered-alexa-gets-new-personality-options/",
+      "summary": "Users will be able to choose from Alexa styles like Brief, Chill or Sweet, Amazon says.",
+      "published": "2026-02-25T14:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "d955eec6259fed7125fdda3a9e03394a7e311b70",
+      "title": "Adobe Firefly’s video editor can now automatically create a first draft from footage",
+      "link": "https://techcrunch.com/2026/02/25/adobe-fireflys-video-editor-can-now-automatically-create-a-first-draft-from-footage/",
+      "summary": "Adobe Firefly is getting a new feature called Quick Cut that uses AI to edit footage to create a first draft of the final video based on user instructions.",
+      "published": "2026-02-25T14:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "827d6d4b26f11a7dd4ddfbce00264660cca773e8",
+      "title": "You can now make Alexa’s AI personality more friendly, blunt, or chilled out",
+      "link": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability",
+      "summary": "Amazon is giving you more control over how Alexa behaves during conversations and responses. Three \"personality style\" presets are launching today for Alexa Plus users in the US that allow you to make the AI-powered voice assistant more concise, cheerful, or relaxed, depending on your personal preferences. \"Alexa's personality is one of the things customers [&#8230;]",
+      "published": "2026-02-25T14:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "cc9d0b4757738bb4da22a58d313319e00fbc9128",
+      "title": "Adobe’s new AI video editing tool stitches clips into a first draft",
+      "link": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut",
+      "summary": "Adobe is launching a new Firefly tool that helps video editors to focus on storytelling by creating a first cut to refine and build around. The Quick Cut feature is launching in beta today for Firefly's video editor, allowing users to automatically assemble clips together based on text prompts and simple creator inputs. \"Quick Cut [&#8230;]",
+      "published": "2026-02-25T14:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "09fc98a9d34dd84f7982dfa15c942ba649c5ec54",
+      "title": "Louvre museum director resigns months after high-profile heist",
+      "link": "https://www.bbc.com/news/articles/ce3gj7jjl7jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Laurence des Carrs submitted her resignation to President Emmanel Macron, who said it was \"an act of responsibility\".",
+      "published": "2026-02-25T13:56:08+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "4596842c6441de9a276baad03f167858eecb11b5",
+      "title": "Mexico&#039;s Sheinbaum presents electoral reform bill",
+      "link": "https://www.thestar.com.my/news/world/2026/02/25/mexico039s-sheinbaum-presents-electoral-reform-bill",
+      "summary": "MEXICO ⁠CITY, Feb 25 (Reuters) - ⁠Mexican President Claudia ‌Sheinbaum on Wednesday began outlining in her ​regular morning ⁠press conference ⁠the government's proposal for ⁠a ‌reform to the ⁠country's electoral law that ​was ‌expected to reduce ⁠electoral ​budgets and change the system ⁠for plurinominal lawmakers. <a href=\"https://www.thestar.com.my/news/world/2026/02/25/mexico039s-sheinbaum-presents-electoral-reform-bill\">Read full story</a>",
+      "published": "2026-02-25T13:54:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "62183acc8a75028d44592e108733e001ee90ff0f",
+      "title": "ZAGG’s magnetic Pro 2 Apple Pencil alternative with wireless charging live again at $30 Amazon low (Reg. $80)",
+      "link": "https://9to5toys.com/2026/02/25/zagg-magnetic-pro-2-apple-pencil-deal/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/ZAGG-Pro-Stylus-2.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p><strong>Update 2/25: </strong>This deal is now live and back in-stock at Amazon (white and light blue only)</p>\n\n\n\n<p>If you’re just looking for an ultra-casual style for your iPad, maybe just score this bargain bin model <a href=\"https://9to5toys.com/2026/02/11/just-5-usb-c-ipad-stylus-looks-like-an-apple-pencil-80-off/\">we spotted this morning while it’s literally just <strong>$5 Prime shipped</strong></a>. But if you’re looking to step it up a touch to a higher-end Apple Pencil alternative, the regular $80 ZAGG Pro Stylus 2 is now down at the $30 Amazon all-time low. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/25/zagg-magnetic-pro-2-apple-pencil-deal/#more-1195135\">more…</a>",
+      "published": "2026-02-25T13:53:54+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "16fe1941e25924cd754ea7f9a5195125eaaaa845",
+      "title": "Amazon continues retreat from games by ending publishing deal for open-world racer",
+      "link": "https://www.theverge.com/entertainment/884280/amazon-publishing-deal-maverick-games-forza-cancel",
+      "summary": "Amazon continues to scale back its gaming efforts, this time by ending a notable publishing deal. The Game Business reports that Amazon will no longer be the publisher of an upcoming open-world racing title from Maverick Games, a new studio made up of former Forza developers. The deal was originally announced in 2024. The news [&#8230;]",
+      "published": "2026-02-25T13:46:44+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "f80c8a5b45442959c92f170fdf0e239c4fa4b82a",
+      "title": "London-based enterprise coding startup SolveAI raised a $45M Series A led by GV in November 2025 and a $5M pre-seed led by Accel in August 2025 (Allie Garfinkle/Fortune)",
+      "link": "http://www.techmeme.com/260225/p20#a260225p20",
+      "summary": "<a href=\"https://fortune.com/2026/02/25/exclusive-solveai-eight-months-raises-50-million-ai-coding-tool-race/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260225/i20.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260225/p20#a260225p20\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Allie Garfinkle / <a href=\"http://www.fortune.com/\">Fortune</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://fortune.com/2026/02/25/exclusive-solveai-eight-months-raises-50-million-ai-coding-tool-race/\">London-based enterprise coding startup SolveAI raised a $45M Series A led by GV in November 2025 and a $5M pre-seed led by Accel in August 2025</a></b></span>&nbsp; &mdash;&nbsp; Senior Finance Reporter And Author Of Term Sheet&nbsp; &mdash;&nbsp; In just eight months of existence, SolveAI has raised $50 million.</p>",
+      "published": "2026-02-25T13:40:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "be619c22f3a5fec96b5d3e49f781d118dc126d3c",
+      "title": "Score the latest black Apple Watch Ultra 3 at up to $159 off right now (‘Excellent-refurb’), more",
+      "link": "https://9to5toys.com/2026/02/25/black-apple-watch-ultra-3-deals-3/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/Apple-Watch-Ultra-3-deals.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Deals on brand new condition Apple Watch Ultra 3 models remain relatively light over at Amazon and from all major retailers, but there are some deep deals to be had nonetheless. You will find price drops on Amazon right now, but nothing nearly as deep as the “excellent” open-box and “excellent-refurbished” options over at Best Buy right now. Details below. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/25/black-apple-watch-ultra-3-deals-3/#more-1195132\">more…</a>",
+      "published": "2026-02-25T13:34:15+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "4005526f30ce37550f89a2eab7cfa651d022dbec",
+      "title": "Queen breaks fast with Cabinet ministers, foreign dignitaries",
+      "link": "https://www.thestar.com.my/news/nation/2026/02/25/queen-breaks-fast-with-cabinet-ministers-foreign-dignitaries",
+      "summary": "KUALA LUMPUR: Her Majesty, Raja Zarith Sofiah, Queen of Malaysia attended a breaking of the fast ceremony with members of the Cabinet and foreign delegates at Istana Negara here on Wednesday (Feb 25). <a href=\"https://www.thestar.com.my/news/nation/2026/02/25/queen-breaks-fast-with-cabinet-ministers-foreign-dignitaries\">Read full story</a>",
+      "published": "2026-02-25T13:30:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "62167f45f027c2012101d66562b253e7a878713c",
+      "title": "Khosla’s Keith Rabois backs Comp, which wants to bolster HR teams with AI",
+      "link": "https://techcrunch.com/2026/02/25/khoslas-keith-rabois-backs-comp-which-wants-to-bolster-hr-teams-with-ai/",
+      "summary": "The HR tech startup, which currently operates in Brazil, has raised a $17.25 million Series A.",
+      "published": "2026-02-25T13:30:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "903d01d66afa5875cd656588f35dcac8c2820247",
+      "title": "Perlis records 21 TB cases in 2026, says state health director",
+      "link": "https://www.thestar.com.my/news/nation/2026/02/25/perlis-records-21-tb-cases-in-2026-says-state-health-director",
+      "summary": "ARAU: A total of 21 tuberculosis (TB) cases have been recorded in Perlis since January, says state health director Dr Ghazali Chik. <a href=\"https://www.thestar.com.my/news/nation/2026/02/25/perlis-records-21-tb-cases-in-2026-says-state-health-director\">Read full story</a>",
+      "published": "2026-02-25T13:20:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "ca08b6b42b42feef3b6e7967df15a63141954a6b",
+      "title": "We need guns, more guns, says AKPS DG after shooting incident",
+      "link": "https://www.thestar.com.my/news/nation/2026/02/25/we-need-guns-more-guns-says-akps-dg-after-shooting-incident",
+      "summary": "BUKIT KAYU HITAM: Security at the Bukit Kayu Hitam border checkpoint cannot be taken lightly following a shooting involving unknown assailants on Wednesday, says the Malaysian Border Control and Protection Agency (AKPS). <a href=\"https://www.thestar.com.my/news/nation/2026/02/25/we-need-guns-more-guns-says-akps-dg-after-shooting-incident\">Read full story</a>",
+      "published": "2026-02-25T13:11:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "3a821c0f32fe74c43a9c0476a62cdaf18338812c",
+      "title": "Thunderstorms, heavy rain expected in several states until 11pm, says MetMalaysia",
+      "link": "https://www.thestar.com.my/news/nation/2026/02/25/thunderstorms-heavy-rain-expected-in-several-states-until-11pm-says-metmalaysia",
+      "summary": "KUALA LUMPUR: Thunderstorms, heavy rain and strong winds are expected to hit four states as well as Kuala Lumpur and Labuan until 11pm on Wednesday (Feb 25) night. <a href=\"https://www.thestar.com.my/news/nation/2026/02/25/thunderstorms-heavy-rain-expected-in-several-states-until-11pm-says-metmalaysia\">Read full story</a>",
+      "published": "2026-02-25T13:10:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "d76244e3b3983b3e48da3837796823d5bdbec982",
+      "title": "Don’t want a dock just for HDMI? Just $10 gets you this Anker Nano USB-C to HDMI cable with 140W PD charging (50% off)",
+      "link": "https://9to5toys.com/2026/02/25/anker-nano-usb-c-to-hdmi-cable-with-140w-pd-charging-50-off/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/Anker-USB-C-to-HDMI-cable-adapter.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">Anker Nano USB-C to HDMI Cable Adapter with 140W Charging</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $10 (Reg. $20)</h3>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A red background with a white line\" class=\"wp-image-1195119 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/Anker-USB-C-to-HDMI-cable-adapter-with-PD-charging.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p style=\"text-align: left;\">This USB-C to HDMI cable adapter is a great pick if you’re looking to declutter and simplify your setup without investing in a full-fledged dock just to connect your Mac, iPhone, or iPad to a display. It also supports up to 140W Power Delivery, so your device stays charged while outputting to HDMI – all through a single cable.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/25/anker-nano-usb-c-to-hdmi-cable-with-140w-pd-charging-50-off/#more-1195116\">more…</a>",
+      "published": "2026-02-25T13:09:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "6fe2afec8291088abcddeb2fd9e84c48313fce9c",
+      "title": "Samsung appears to already be giving out bonus $50 store credits ahead of Galaxy S26 pre-orders, go check your account",
+      "link": "https://9to5toys.com/2026/02/25/samsung-bonus-50-store-credits-galaxy-s26-preorder/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/Samsung-FREE-credit-Galaxy-S26-preorder.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>With the new Galaxy S26 lineup set to <a href=\"https://howl.link/e67lt2pmmy1i2\">go up for pre-order today</a>, there are ways to secure some FREE Samsung credit head of time you’ll want to be aware of if you’re not already. There is only a few hours left to lock down the <a href=\"https://howl.link/e67lt2pmmy1i2\"><strong>FREE</strong> $30 credit</a> Samsung is promoting ahead of the Galaxy launch today and some users are reporting a surprise<strong> $50 credit</strong> waiting on their account already. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/25/samsung-bonus-50-store-credits-galaxy-s26-preorder/#more-1195117\">more…</a>",
+      "published": "2026-02-25T13:08:02+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "f68388bc25f8d6f2557ba323b02a2ecce823c94f",
+      "title": "Border agency to intensify security after Bukit Kayu Hitam shooting",
+      "link": "https://www.thestar.com.my/news/nation/2026/02/25/border-agency-to-intensify-security-after-bukit-kayu-hitam-shooting",
+      "summary": "SUNGAI BULOH: Authorities insist border enforcement will be further strengthened after a senior officer was shot at in Bukit Kayu Hitam. <a href=\"https://www.thestar.com.my/news/nation/2026/02/25/border-agency-to-intensify-security-after-bukit-kayu-hitam-shooting\">Read full story</a>",
+      "published": "2026-02-25T13:03:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "68bb3b1957adb1d7dc0dd5bc1007471e7c58d74e",
+      "title": "From Beijing heartbreak to Milano redemption: Aruwin sets her sights on mental mastery for French Alps 2030",
+      "link": "https://www.malaymail.com/news/sports/2026/02/25/from-beijing-heartbreak-to-milano-redemption-aruwin-sets-her-sights-on-mental-mastery-for-french-alps-2030/210346",
+      "summary": "KUALA LUMPUR, Feb 25 &mdash;&nbsp;National alpine skier Aruwin Salehhuddin may have just carved her name as one of Asia&...",
+      "published": "2026-02-25T13:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "cb0722a0bb21a38a8b75e73a0a192d2d9306d9ef",
+      "title": "‘Everything was removed’: Gambians share pain with FGM ban in balance",
+      "link": "https://www.malaymail.com/news/life/2026/02/25/everything-was-removed-gambians-share-pain-with-fgm-ban-in-balance/210367",
+      "summary": "BANJUL (Gambia), Feb 25 &mdash; Fatou Sanyang still experiences extreme pain she says feels like &ldquo;hot water is bei...",
+      "published": "2026-02-25T13:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "0252c3c67b6f577f0f149bad0fa3211c843456c5",
+      "title": "Alexandria bids farewell to historic tram in latest urban upheaval",
+      "link": "https://www.malaymail.com/news/life/2026/02/25/alexandria-bids-farewell-to-historic-tram-in-latest-urban-upheaval/210364",
+      "summary": "ALEXANDRIA, Feb 25 &mdash; Along Egypt&rsquo;s Mediterranean coast, the oldest tram in Africa and the Middle East rumble...",
+      "published": "2026-02-25T13:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "a87b8653e1121b5ea28ac98215b11499bf4cd20c",
+      "title": "Can mental illness justify assisted dying? Canada explores new frontiers",
+      "link": "https://www.malaymail.com/news/life/2026/02/25/can-mental-illness-justify-assisted-dying-canada-explores-new-frontiers/210363",
+      "summary": "MONTREAL, Feb 25 &mdash; Jacques Poissant&rsquo;s suffering stopped the day he asked his daughter if it would be &ldquo;...",
+      "published": "2026-02-25T13:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "0ee23267d81ccfad1160c69aff5913fd1a39ce98",
+      "title": "A study finds GPT-5.2, Claude Sonnet 4, and Gemini 3 Flash deployed tactical nuclear weapons in 95% of 21 simulated war game scenarios, and never surrendered (Chris Stokel-Walker/New Scientist)",
+      "link": "http://www.techmeme.com/260225/p19#a260225p19",
+      "summary": "<a href=\"https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260225/i19.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260225/p19#a260225p19\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Chris Stokel-Walker / <a href=\"http://www.newscientist.com/\">New Scientist</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/\">A study finds GPT-5.2, Claude Sonnet 4, and Gemini 3 Flash deployed tactical nuclear weapons in 95% of 21 simulated war game scenarios, and never surrendered</a></b></span>&nbsp; &mdash;&nbsp; Leading AIs from OpenAI, Anthropic and Google opted to use nuclear weapons in simulated war games in 95 per cent of cases</p>",
+      "published": "2026-02-25T12:55:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
     {
       "id": "8d216024d43f9bdac9194c1a4ed72d85c46a5028",
       "title": "Protect nation&#039;s borders with integrity, says Home Ministry deputy sec-gen",
@@ -26,7 +260,7 @@
       "id": "cfc1fbf273e26e7ac582a0e10961db58cd2047ae",
       "title": "Swiss government to pay $56,000 to each victim of Crans-Montana bar fire",
       "link": "https://www.thestar.com.my/news/world/2026/02/25/swiss-government-to-pay-56000-to-each-victim-of-crans-montana-bar-fire",
-      "summary": "ZURICH, Feb 25 (Reuters) - Switzerland ⁠said on Wednesday it would make a one-off ⁠payment of 50,000 Swiss francs ($56,000) to severely injured survivors ‌and bereaved families of the New Year bar fire in the ski resort of Crans-Montana that killed 41 people and injured over 100 more. <a href=\"https://www.thestar.com.my/news/world/2026/02/25/swiss-government-to-pay-56000-to-each-victim-of-crans-montana-bar-fire\">Read full story</a>",
+      "summary": "ZURICH, Feb 25 (Reuters) - Switzerland said ⁠on Wednesday it would make a one-off payment of 50,000 Swiss ⁠francs ($56,000) to severely injured survivors and bereaved families of the New ‌Year bar fire in the ski resort of Crans-Montana that killed 41 people and injured over 100 more. <a href=\"https://www.thestar.com.my/news/world/2026/02/25/swiss-government-to-pay-56000-to-each-victim-of-crans-montana-bar-fire\">Read full story</a>",
       "published": "2026-02-25T12:36:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
@@ -113,15 +347,6 @@
       "category": "malaysia"
     },
     {
-      "id": "7fb1c988b1d49ae3e03fff026358b1e0a4c221d2",
-      "title": "Lula, Flavio Bolsonaro tied in Brazil run-off, poll shows",
-      "link": "https://www.thestar.com.my/news/world/2026/02/25/lula-flavio-bolsonaro-tied-in-brazil-run-off-poll-shows",
-      "summary": "SAO PAULO, Feb 25 (Reuters) - ⁠Brazilian President Luiz Inacio Lula da Silva leads ⁠all first-round scenarios for October's election but has seen ‌his advantage over Senator Flavio Bolsonaro in a potential run-off disappear, an AtlasIntel/Bloomberg poll showed on Wednesday. <a href=\"https://www.thestar.com.my/news/world/2026/02/25/lula-flavio-bolsonaro-tied-in-brazil-run-off-poll-shows\">Read full story</a>",
-      "published": "2026-02-25T11:52:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "0bce50e66b2dcb7263193557e468de530f4f2a5c",
       "title": "Official Apple Crossbody Strap colors drop even lower to new Amazon lows from $24 (Up to 60% off)",
       "link": "https://9to5toys.com/2026/02/25/apple-crossbody-strap-best-prices/",
@@ -149,24 +374,6 @@
       "category": "tech"
     },
     {
-      "id": "50b97fe6cd683da96a9315e765997e2157b4c464",
-      "title": "France tasks Versailles director with overhauling Louvre after heist",
-      "link": "https://www.thestar.com.my/news/world/2026/02/25/france-tasks-versailles-director-with-overhauling-louvre-after-heist",
-      "summary": "PARIS, Feb 25 (Reuters) - France ⁠on Wednesday appointed Christophe Leribault as the new head of the ⁠Louvre, bringing in the director of the Palace of Versailles ‌to turn around the world's most-visited museum after a humiliating jewellery heist and staff strikes. <a href=\"https://www.thestar.com.my/news/world/2026/02/25/france-tasks-versailles-director-with-overhauling-louvre-after-heist\">Read full story</a>",
-      "published": "2026-02-25T11:34:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "4545ab77a085b83fc55c4daca311fe11c163c46e",
-      "title": "Construction worker crushed to death by excavator in Tumpat",
-      "link": "https://www.thestar.com.my/news/nation/2026/02/25/construction-worker-crushed-to-death-by-excavator-in-tumpat",
-      "summary": "KOTA BARU: A construction worker was killed after he was crushed by an excavator bucket that slipped during the installation of a drain at a construction site along Jalan Pantai Geting near Pengkalan Kubor, Tumpat on Wednesday (Feb 25). <a href=\"https://www.thestar.com.my/news/nation/2026/02/25/construction-worker-crushed-to-death-by-excavator-in-tumpat\">Read full story</a>",
-      "published": "2026-02-25T11:24:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "98f6fa09e21baebaa84f94f327cee5495bdfeb66",
       "title": "Diesel and RON97 petrol in Peninsular Malaysia up five sen from Feb 26 to March 4",
       "link": "https://www.malaymail.com/news/malaysia/2026/02/25/diesel-and-ron97-petrol-in-peninsular-malaysia-up-five-sen-from-feb-26-to-march-4/210435",
@@ -191,33 +398,6 @@
       "summary": "KUALA LUMPUR, Feb 25 &mdash; Parliament today passed the Environmental Quality (Amendment) Bill 2026.The amendment, made...",
       "published": "2026-02-25T11:14:45+00:00",
       "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "a097eb7163b7db9874e04d2c372a3db637586788",
-      "title": "PM Anwar hails youths for rescuing mother, children from lake",
-      "link": "https://www.thestar.com.my/news/nation/2026/02/25/pm-anwar-hails-youths-for-rescuing-mother-children-from-lake",
-      "summary": "KUALA LUMPUR: Seven young men, who dived into a lake to rescue a mother and her two young children following an accident at Tasik Biru, Kundang, near here, have drawn the praise of Prime Minister Datuk Seri Anwar Ibrahim. <a href=\"https://www.thestar.com.my/news/nation/2026/02/25/pm-anwar-hails-youths-for-rescuing-mother-children-from-lake\">Read full story</a>",
-      "published": "2026-02-25T11:12:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "5421a16d5c5a63d827fdd15b8b6fcb11b0e4dd71",
-      "title": "LBS closes 2025 with 45.2% growth in PATMI",
-      "link": "https://www.thestar.com.my/news/nation/2026/02/25/lbs-closes-2025-with-452-growth-in-patmi",
-      "summary": "PETALING jAYA: LBS Bina Group Bhd has announced its unaudited financial results for the fourth quarter (4Q25) and full year ended Dec 31, 2025 (FY25), marking a resilient performance in the first year of its three-year 8 x 8 Strategy. <a href=\"https://www.thestar.com.my/news/nation/2026/02/25/lbs-closes-2025-with-452-growth-in-patmi\">Read full story</a>",
-      "published": "2026-02-25T11:12:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "1d544d97011d6988e03b6f46cfeffd9390e8e239",
-      "title": "OpenAI&#039;s ban of Canada school shooter&#039;s account raises scrutiny of other online activity",
-      "link": "https://www.thestar.com.my/news/world/2026/02/25/openai039s-ban-of-canada-school-shooter039s-account-raises-scrutiny-of-other-online-activity",
-      "summary": "OTTAWA, Feb 25 (Reuters) - OpenAI's admission ⁠it banned the ChatGPT account of mass shooter Jesse Van Rootselaar months before the 18-year-old killed eight people and herself is drawing more scrutiny to her past online ⁠activity and raising questions about whether opportunities were missed to prevent one of Canada's worst-ever mass killings. <a href=\"https://www.thestar.com.my/news/world/2026/02/25/openai039s-ban-of-canada-school-shooter039s-account-raises-scrutiny-of-other-online-activity\">Read full story</a>",
-      "published": "2026-02-25T11:12:00+00:00",
-      "source": "The Star : News Feed",
       "category": "malaysia"
     },
     {
@@ -410,29 +590,11 @@
       "category": "malaysia"
     },
     {
-      "id": "fa4ef7777863743178325eb44138abade23291e0",
-      "title": "China showcases new eVTOL ‘air taxis’ in Wuhan amid rapid low‑altitude expansion",
-      "link": "https://www.malaymail.com/news/life/2026/02/25/china-showcases-new-evtol-air-taxis-in-wuhan-amid-rapid-lowaltitude-expansion/210417",
-      "summary": "WUHAN, Feb 25 &mdash; A silent aircraft with rotors tucked inside its fuselage lifted off in front of an auditorium in d...",
-      "published": "2026-02-25T09:33:01+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "ea6c88472a6648826de7257f219d4d55e9121ffa",
       "title": "Tasik Biru heroes hailed: Anwar lauds seven youths who rescued mum, children from lake in Kundang",
       "link": "https://www.malaymail.com/news/malaysia/2026/02/25/tasik-biru-heroes-hailed-anwar-lauds-seven-youths-who-rescued-mum-children-from-lake-in-kundang/210418",
       "summary": "KUALA LUMPUR, Feb 25 &mdash; The swift action of seven young men who dived into a lake to rescue a mother and her two yo...",
       "published": "2026-02-25T09:28:59+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "248c4f773d6e255e5ffc043c5184614a2a1124c2",
-      "title": "AGC: Lead prosecutor Wan Shaharuddin’s transfer from MACC is ‘normal practice’, won’t affect his ongoing work",
-      "link": "https://www.malaymail.com/news/malaysia/2026/02/25/agc-lead-prosecutor-wan-shaharuddins-transfer-from-macc-is-normal-practice-wont-affect-his-ongoing-work/210419",
-      "summary": "&nbsp;KUALA LUMPUR, Feb 25 &mdash; The upcoming transfer of Datuk Wan Shaharuddin Wan Ladin, the lead prosecutor in seve...",
-      "published": "2026-02-25T09:25:53+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
@@ -444,24 +606,6 @@
       "published": "2026-02-25T09:25:04+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "e71558b890fa989db8ef3ffb3ddd1475bb8ac5e2",
-      "title": "Ex-security guard loses appeal, begins five-year prison term for sexual assault of 12-year-old boy in 2020",
-      "link": "https://www.malaymail.com/news/malaysia/2026/02/25/ex-security-guard-loses-appeal-begins-five-year-prison-term-for-sexual-assault-of-12-year-old-boy-in-2020/210416",
-      "summary": "PUTRAJAYA, Feb 25 &mdash; A former security guard began serving his five-year prison sentence today after the Court of A...",
-      "published": "2026-02-25T09:20:03+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "578ad57b759598d04df0528c429c624e71d544c8",
-      "title": "Australian team creates graphene from peanut shells for next‑gen batteries, solar panels and electronics",
-      "link": "https://www.malaymail.com/news/life/2026/02/25/australian-team-creates-graphene-from-peanut-shells-for-nextgen-batteries-solar-panels-and-electronics/210414",
-      "summary": "SYDNEY, Feb 25 &mdash; Researchers in Australia have developed a cheaper, greener way to turn discarded peanut shells in...",
-      "published": "2026-02-25T09:19:14+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "97aeeb97d46df9dec79057957355eb333fe2679f",
@@ -581,29 +725,11 @@
       "category": "deals"
     },
     {
-      "id": "a9dcb99fbf8c408f17eb5b914aa8db8d5eefc01d",
-      "title": "General Legal",
-      "link": "https://www.producthunt.com/products/general-legal",
-      "summary": "<p>\n            A lightening fast law firm in your Slack\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/general-legal?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1085485?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-25T06:48:11+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "69a830fbfd35070a1f72351483a51db263570432",
       "title": "Ask",
       "link": "https://www.producthunt.com/products/ask-7",
       "summary": "<p>\n            Memory infrastructure for AI coding agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ask-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1085484?app_id=339\">Link</a>\n          </p>",
       "published": "2026-02-25T06:46:51+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "60e417aa25333a45b59e10de76510a5d995bd7d9",
-      "title": "Custom Models",
-      "link": "https://www.producthunt.com/products/travel-animator",
-      "summary": "<p>\n            Personalized 3D models for animated travel stories\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/travel-animator?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1085482?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-25T06:45:51+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -615,15 +741,6 @@
       "published": "2026-02-25T06:26:20+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "29e9a71509d4b67a1a77d18e6d2ed235908efe2d",
-      "title": "A look at Motif Technologies and Upstage, South Korean AI startups competing with SK Group and LG in the race for a national AI foundation model (Yoolim Lee/Bloomberg)",
-      "link": "http://www.techmeme.com/260225/p5#a260225p5",
-      "summary": "<a href=\"https://www.bloomberg.com/news/features/2026-02-24/south-korea-s-ai-startups-challenge-sk-lg-for-tech-dominance\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260225/i5.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260225/p5#a260225p5\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Yoolim Lee / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/features/2026-02-24/south-korea-s-ai-startups-challenge-sk-lg-for-tech-dominance\">A look at Motif Technologies and Upstage, South Korean AI startups competing with SK Group and LG in the race for a national AI foundation model</a></b></span>&nbsp; &mdash;&nbsp; Motif Technologies and Upstage take on SK and LG in the race for a national AI foundation model.&nbsp; &mdash;&nbsp; While pursuing his doctorate in mathematics &hellip; </p>",
-      "published": "2026-02-25T06:25:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "8b5bdadcb8cbf65bd346e537a5cfb4d86a33a7aa",
@@ -651,15 +768,6 @@
       "published": "2026-02-25T06:00:50+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "150c7ded622fe795e8cea99ab8ed429fb77cb652",
-      "title": "Zetrix, a publicly traded Malaysian digital infrastructure provider, raised ~$40M from the World Bank's IFC and plans to list its AI unit on Nasdaq by end-2026 (Saritha Rai/Bloomberg)",
-      "link": "http://www.techmeme.com/260225/p4#a260225p4",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-02-25/malaysia-s-zetrix-raises-funds-plans-to-list-ai-unit-on-nasdaq\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260225/i4.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260225/p4#a260225p4\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Saritha Rai / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-02-25/malaysia-s-zetrix-raises-funds-plans-to-list-ai-unit-on-nasdaq\">Zetrix, a publicly traded Malaysian digital infrastructure provider, raised ~$40M from the World Bank's IFC and plans to list its AI unit on Nasdaq by end-2026</a></b></span>&nbsp; &mdash;&nbsp; Zetrix AI Bhd., a publicly traded Malaysian provider of digital infrastructure, raised about $40 million from the World Bank's investment arm &hellip; </p>",
-      "published": "2026-02-25T06:00:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "2153e6f188b4e5ded0d6146dbaf00249931932f5",
@@ -923,6 +1031,15 @@
       "category": "tech"
     },
     {
+      "id": "d8e370714802774da7526557cc8dd5b9d04d0ad4",
+      "title": "Thinklet AI",
+      "link": "https://www.producthunt.com/products/thinklet-ai-voice-notes-with-local-ai",
+      "summary": "<p>\n            Voice notes you can chat with.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/thinklet-ai-voice-notes-with-local-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1085264?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-24T21:35:46+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "ab6b75fe5f77fadf48bf3e092be5421397bd61ac",
       "title": "Google’s new 1.9GW clean energy deal includes massive 100-hour battery",
       "link": "https://techcrunch.com/2026/02/24/googles-new-1-9gw-clean-energy-deal-includes-massive-100-hour-battery/",
@@ -1067,15 +1184,6 @@
       "category": "tech"
     },
     {
-      "id": "161d9d1852bf9f4eae4d1c7976f874fcc122a4e7",
-      "title": "Prep for spring weather with three long sleeve polo shirts down at $21 (Only $7 each)",
-      "link": "https://9to5toys.com/2026/02/24/pinspark-long-sleeve-polo-shirts-3-pack-4/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/PINSPARK-Long-Sleeve-Polo-Shirts-3-pack.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">PINSPARK Long Sleeve Polo Shirts (3-pack)</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $21 (Reg. $34)</h3>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A red background with white lines\" class=\"wp-image-1194975 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/PINSPARK-Long-Sleeve-Polo-Shirts-3-pack-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p><span>With warmer weather slowly coming our way, it won’t be long until long sleeve polos like this can be your go-to style during cool spring weather and beyond. At only $7 per shirt, these are an incredibly affordable way to refresh your wardrobe.</span></p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/24/pinspark-long-sleeve-polo-shirts-3-pack-4/#more-1194973\">more…</a>",
-      "published": "2026-02-24T19:35:00+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "ef476da37f1850169653f7ee1bd17acb583c4763",
       "title": "Opal 2.0 by Google Labs",
       "link": "https://www.producthunt.com/products/google",
@@ -1083,24 +1191,6 @@
       "published": "2026-02-24T19:24:55+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "09fc98a9d34dd84f7982dfa15c942ba649c5ec54",
-      "title": "Louvre museum director resigns months after high-profile heist",
-      "link": "https://www.bbc.com/news/articles/ce3gj7jjl7jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Laurence des Carrs submitted her resignation to President Emmanel Macron, who said it was \"an act of responsibility\".",
-      "published": "2026-02-24T19:23:36+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "fa93afbca74a55b54cca4887eca547ea42c19dc1",
-      "title": "Get your EDC gear out of your pockets and in this sling bag for just $12.50",
-      "link": "https://9to5toys.com/2026/02/24/choliss-small-sling-bag-4/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/CHOLISS-Small-Sling-Bag.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">CHOLISS Small Sling Bag</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $12.50 (Reg. $15)</h3>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A line drawing of a line\" class=\"wp-image-1194970 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/CHOLISS-Small-Sling-Bag-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p><span>I personally picked up a compact sling bag like this last year and I have zero desire to go back to carrying things in my pockets. I was a little hesitant about shaking up my EDC at first, so if you are too, this is an affordable way to give this sort of style a shot.</span></p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/24/choliss-small-sling-bag-4/#more-1194968\">more…</a>",
-      "published": "2026-02-24T19:20:00+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "e39f08b02a3dface952fd37e52f66f4a399b9e2d",
@@ -1112,58 +1202,13 @@
       "category": "tech"
     },
     {
-      "id": "d14d22a6afb2d60ed31226fa31a3b1a082428ef2",
-      "title": "Instagram’s TV app is launching on Google TV devices",
-      "link": "https://techcrunch.com/2026/02/24/instagrams-tv-app-is-launching-on-google-tv-devices/",
-      "summary": "By bringing Reels to TV, Instagram is looking to better compete with YouTube, which largely dominates the TV space.",
-      "published": "2026-02-24T19:13:06+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "38533d2d636df6c88351802c6f7de5d4a6a18d40",
-      "title": "Grab this USB-C rechargeable 35-in-1 rotary tool kit while it’s 40% off, now $30",
-      "link": "https://9to5toys.com/2026/02/24/hoto-cordless-rotary-tool-kit-2/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/12/HOTO-Cordless-Rotary-Tool-Kit.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">HOTO Cordless Rotary Tool Kit</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $30 (Reg. $50)</h3>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A line drawing of a line\" class=\"wp-image-1194966 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/HOTO-Cordless-Rotary-Tool-Kit-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p><span>To my eye this this rotary tool kit has sleek design and nice, entry-level $30 price point. I dig the minimalist, pen-like design on this model which is less bulky than some of the other models out there.</span></p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/24/hoto-cordless-rotary-tool-kit-2/#more-1194964\">more…</a>",
-      "published": "2026-02-24T19:05:00+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "bafadf7b77227ef6ef7918407f1b2f8ec252a3a3",
-      "title": "Today’s best Android app deals: SaGa SCARLET GRACE, Paths & Danger, Blood of Calamity, more",
-      "link": "https://9to5toys.com/2026/02/24/best-android-app-deals-saga-scarlet-grace-paths-danger/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/Android-game-and-app-deals-feb24.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Your afternoon lineup of the best Android game and app deals is now ready to roll, including titles like Romancing SaGa3, SaGa Frontier Remastered, SaGa SCARLET GRACE, Paths &amp; Danger, Blood of Calamity, and more. We are now less than 24 hours from the <a href=\"https://howl.link/nx9hzymhd2i25\">official launch of the new Samsung Galaxy S26 lineup</a> and all of the details you need on <a href=\"https://9to5toys.com/2026/02/24/how-to-best-deals-galaxy-s26-preorder/\">how to score the best deals</a> on pre-orders are <a href=\"https://9to5toys.com/2026/02/24/how-to-best-deals-galaxy-s26-preorder/\">right here</a>. Just be sure to also scope out the deals we have today on <a href=\"https://9to5toys.com/2026/02/24/samsung-27-inch-3d-4k-odyssey-gaming-monitor-down-to-800/\">Samsung’s 4K 3D Odyssey gaming monitor</a>, the <a href=\"https://9to5toys.com/2026/02/24/google-3rd-gen-nest-cam-indoor-deals-amazon/\">latest 3rd Gen Nest Cam Indoor</a>, and <a href=\"https://9to5toys.com/2026/02/24/new-galaxy-buds-4-pro-launch-deal/\">Galaxy Buds 3 Pro at <strong>$144 off</strong></a>. All of the apps await below. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/24/best-android-app-deals-saga-scarlet-grace-paths-danger/#more-1195029\">more…</a>",
-      "published": "2026-02-24T19:01:18+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "744fbc5b9e5c76d931fce39727455b1215535f20",
-      "title": "Treasury sanctions Russian zero-day broker accused of buying exploits stolen from US defense contractor",
-      "link": "https://techcrunch.com/2026/02/24/treasury-sanctions-russian-zero-day-broker-accused-of-buying-exploits-stolen-from-u-s-defense-contractor/",
-      "summary": "The U.S. Treasury announced it was imposing sanctions against a Russian broker of zero-day exploits, its founder and two affiliates, citing a threat to U.S. national security. Another affiliated zero-day broker in the United Arab Emirates was also sanctioned.",
-      "published": "2026-02-24T19:01:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "4c73a47f3c9c208a7de28d8b722a9fab26997afd",
-      "title": "Google adds a way to create automated workflows to Opal",
-      "link": "https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/",
-      "summary": "The company said that a new agent being introduced in Opal will allow users to create mini-apps that can let them plan and execute tasks using text prompts.",
-      "published": "2026-02-24T19:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "d21d48032b8390ce61144d8f26edff0055ba4dcd",
-      "title": "Spotify and Liquid Death release a limited-edition speaker shaped like … an urn?",
-      "link": "https://techcrunch.com/2026/02/24/spotify-and-liquid-death-release-a-limited-edition-speaker-shaped-like-an-urn/",
-      "summary": "Spotify and Liquid Death launched what might be the wildest product of the year: a speaker shaped like a urn.",
-      "published": "2026-02-24T18:48:13+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
+      "id": "9af6a0845f538f81f6d69b362f083759d3b62c19",
+      "title": "Tadak",
+      "link": "https://www.producthunt.com/products/tadak",
+      "summary": "<p>\n            Your Personal White Noise Player\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tadak?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1085193?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-24T19:17:15+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "877af361136018f75df4d27578f812b41a2ac1e8",
@@ -1172,24 +1217,6 @@
       "summary": "Apple is still working to get favorable tariff treatment from the Trump administration.",
       "published": "2026-02-24T18:46:03+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "8aef39bf73fe42666b31b70a89094e88844c0d0c",
-      "title": "1Password is going up in price",
-      "link": "https://www.theverge.com/tech/883837/1password-price-increase",
-      "summary": "1Password is increasing its prices on March 27th, 2026. In an email sent to users, the password manager says it will raise the price of its individual plan from $3.99 / month ($35.88 / year) to $4.99 / month ($47.88 / year), and that its family plan is going from $6.95 / month ($59.88 / [&#8230;]",
-      "published": "2026-02-24T18:41:41+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "07d30d92bba6ff9e3df211a3519eec89e8cc021e",
-      "title": "Seedance 2.0 might be gen AI video’s next big hope, but it’s still slop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/883615/seedance-bytedance-tom-cruise-brad-pitt-jia-zhangke",
-      "summary": "When Irish filmmaker Ruairi Robinson began uploading a series of short clips created with Seedance 2.0 - TikTok developer ByteDance's newest video generation model - it was hard to deny that the footage was much more impressive than what we've seen from other gen AI outfits. The clips' star (a digital duplicate of Tom Cruise) [&#8230;]",
-      "published": "2026-02-24T18:30:00+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -1209,33 +1236,6 @@
       "published": "2026-02-24T18:13:58+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "17601340a8cecb849a6b7019ea8edf085caf7b47",
-      "title": "Twitch is overhauling its suspensions policy",
-      "link": "https://techcrunch.com/2026/02/24/twitch-is-overhauling-its-suspensions-policy/",
-      "summary": "The company is implementing two suspension types: streaming suspensions and chatting suspensions.",
-      "published": "2026-02-24T18:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "60eed94dd07435413e6660c8fad323ef27c8b04c",
-      "title": "You can still get $30 in Samsung credit when you reserve a Galaxy S26 phone",
-      "link": "https://www.theverge.com/gadgets/883686/samsung-galaxy-s26-plus-ultra-reserve-preorder-unpacked-deal-sale",
-      "summary": "Samsung is set to introduce its new Galaxy S26 lineup at its next Unpacked event on February 25th, potentially alongside a new pair of earbuds and other wearables. If you’re thinking about picking up any of the new devices, it’s worth claiming Samsung’s $30 promotional credit before it expires, which you can do by registering your [&#8230;]",
-      "published": "2026-02-24T18:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "cd97e644a537dfd1af158cd3d47ce3bf16ba4ce1",
-      "title": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
-      "link": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
-      "summary": "There is a lot of talk around AI agents taking over business processes and claiming that \"SaaS is dead.\" While these predictions have moved SaaS stocks at times, they haven't really come true.",
-      "published": "2026-02-24T17:44:34+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "f7ad2b684b90c4e73fc21051c650041eaea0b73c",
@@ -1517,15 +1517,6 @@
       "category": "malaysia"
     },
     {
-      "id": "ff5658af40049f5e85902b929b80461113d26b6b",
-      "title": "Arzule",
-      "link": "https://www.producthunt.com/products/arzule",
-      "summary": "<p>\n            Turn partnerships into predictable revenue with AI \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/arzule?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1082426?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-19T22:26:41+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "6019d5dc020792136a257e91680644f00dd9e791",
       "title": "Xiaomi TV Stick 4K Second Gen: Google TV on a stick, priced at RM219",
       "link": "https://soyacincau.com/2026/02/19/xiaomi-tv-stick-4k-second-gen-malaysia-price-specs-google-tv/",
@@ -1576,6 +1567,15 @@
       "link": "https://www.producthunt.com/products/kiloclaw",
       "summary": "<p>\n            Hosted OpenClaw. No Mac mini required.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kiloclaw?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1080572?app_id=339\">Link</a>\n          </p>",
       "published": "2026-02-16T23:00:56+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "07618aed5bd7201b7296f16b42cd76d80a309366",
+      "title": "Thinglo",
+      "link": "https://www.producthunt.com/products/thinglo-save-anything-lose-nothing",
+      "summary": "<p>\n            Save anything from any app — AI-organized, private, instant\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/thinglo-save-anything-lose-nothing?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1079739?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-15T12:26:48+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
