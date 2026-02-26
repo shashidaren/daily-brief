@@ -1,12 +1,147 @@
 {
-  "generatedAt": "2026-02-26T22:27:19.515489+00:00",
+  "generatedAt": "2026-02-26T23:23:29.107135+00:00",
   "counts": {
     "total": 175
   },
   "items": [
     {
-      "id": "46d582d44b6bff057ea633c79b32217fc01c31e6",
-      "title": "PayPal might not be looking to sell itself, report",
+      "id": "94929648ed8321222ef6221e5611a3d95febb516",
+      "title": "Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance",
+      "link": "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei",
+      "summary": "Less than 24 hours before the deadline in an ultimatum issued by the Pentagon, Anthropic has refused the Department of Defense's demands for unrestricted access to its AI. It's the culmination of a dramatic exchange of public statements, social media posts, and behind-the-scenes negotiations, coming down to Defense Secretary Pete Hegseth's desire to renegotiate all [&#8230;]",
+      "published": "2026-02-26T23:22:44+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "cc6cb40a1dfa9e6bb99c0b238b0002b0f662ba7a",
+      "title": "Anthropic CEO stands firm as Pentagon deadline looms",
+      "link": "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/",
+      "summary": "Anthropic CEO Dario Amodei said Thursday that he \"cannot in good conscience accede\" to the Pentagon's demands to give the military unrestricted access to its AI systems.",
+      "published": "2026-02-26T23:19:06+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "29c02b0241343b362833533c7cbe686013d5abb3",
+      "title": "Netflix walks away from its deal to buy Warner Bros. after Paramount came back with a better offer",
+      "link": "https://www.theverge.com/streaming/885753/netflix-exit-warner-bros-discovery-deal-paramount",
+      "summary": "Netflix has dropped its $83 billion deal to acquire the Warner Bros. studio and its streaming service HBO Max. In an announcement on Thursday, co-CEOs Ted Sarandos and Greg Peters say the streamer is \"declining to match\" the new bid made by Paramount: The transaction we negotiated would have created shareholder value with a clear [&#8230;]",
+      "published": "2026-02-26T23:10:12+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "2d8066001e87d994f7b73f44ad14b5b61c24b082",
+      "title": "Anthropic says new DOD \"contract language\" made \"virtually no progress\" on preventing Claude's use for mass domestic surveillance or fully autonomous weapons (Axios)",
+      "link": "http://www.techmeme.com/260226/p55#a260226p55",
+      "summary": "<a href=\"https://www.axios.com/2026/02/26/anthropic-rejects-pentagon-ai-terms\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260226/i55.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260226/p55#a260226p55\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/2026/02/26/anthropic-rejects-pentagon-ai-terms\">Anthropic says new DOD &ldquo;contract language&rdquo; made &ldquo;virtually no progress&rdquo; on preventing Claude's use for mass domestic surveillance or fully autonomous weapons</a></b></span>&nbsp; &mdash;&nbsp; Anthropic CEO Dario Amodei on Thursday said there has been &ldquo;virtually no progress&rdquo; on negotiations with the Pentagon.</p>",
+      "published": "2026-02-26T23:10:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "12ff7d4c87518333e2964c7a70d483d4dbd14170",
+      "title": "US justice department accused of withholding Trump-related Epstein files",
+      "link": "https://www.bbc.com/news/articles/ckg3elr1dwpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The top Democrat on the congressional panel investigating Epstein has called on the attorney general to publish the material.",
+      "published": "2026-02-26T23:08:58+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "31cac688850582a4495bd1ea88fa4fc9c54e5c99",
+      "title": "Urgent: Budapest-Belgrade railway resumes freight operations in Hungary",
+      "link": "https://www.thestar.com.my/news/world/2026/02/27/urgent-budapest-belgrade-railway-resumes-freight-operations-in-hungary",
+      "summary": "BUDAPEST, Feb. 27 (Xinhua) -- Freight services on the Hungarian section of the Budapest-Belgrade railway officially resumed just after midnight on Friday, with the first train departing from Budapest's Ferencvaros station. <a href=\"https://www.thestar.com.my/news/world/2026/02/27/urgent-budapest-belgrade-railway-resumes-freight-operations-in-hungary\">Read full story</a>",
+      "published": "2026-02-26T23:08:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "ec01bb018c74623cd661c02dd85e1852f26b629e",
+      "title": "Bolivia confirms 5th death from Chikungunya fever as cases spike",
+      "link": "https://www.thestar.com.my/news/world/2026/02/27/bolivia-confirms-5th-death-from-chikungunya-fever-as-cases-spike",
+      "summary": "LA PAZ, Feb. 26 (Xinhua) -- Bolivia recorded its fifth death from Chikungunya outbreak in the eastern department of Santa Cruz while infections from the virus keep surging, the Departmental Health Service reported Thursday. <a href=\"https://www.thestar.com.my/news/world/2026/02/27/bolivia-confirms-5th-death-from-chikungunya-fever-as-cases-spike\">Read full story</a>",
+      "published": "2026-02-26T23:01:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "7ad8bed853a35026966e973776d5c36741f9e38d",
+      "title": "American citizen among those killed in Cuba boat shooting, US official says",
+      "link": "https://www.bbc.com/news/articles/c80j3rlp904o?at_medium=RSS&at_campaign=rss",
+      "summary": "Cuba has accused those on board of planning \"an infiltration with terrorist aims” and firing first.",
+      "published": "2026-02-26T22:58:53+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "99809a58cb8c5a6f2b87cf2c83953003260a0a45",
+      "title": "Bank of Mexico raises 2026 economic growth forecast to 1.6 pct",
+      "link": "https://www.thestar.com.my/news/world/2026/02/27/bank-of-mexico-raises-2026-economic-growth-forecast-to-16-pct",
+      "summary": "MEXICO CITY, Feb. 26 (Xinhua) -- The Bank of Mexico said Thursday that it has raised its 2026 economic growth forecast for the country to 1.6 percent, up from 1.1 percent. <a href=\"https://www.thestar.com.my/news/world/2026/02/27/bank-of-mexico-raises-2026-economic-growth-forecast-to-16-pct\">Read full story</a>",
+      "published": "2026-02-26T22:57:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "08b122bde6e326a77b8835e4ff811924452e9b5a",
+      "title": "Microsoft&#8217;s Copilot Tasks AI uses its own computer to get things done",
+      "link": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai",
+      "summary": "Microsoft is previewing a new AI system, Copilot Tasks, that it says is designed to take care of busywork for you in the background, the company announced on Thursday. The feature takes the load off your device using its own cloud-based computer and browser, allowing it to handle a variety of jobs ranging from scheduling [&#8230;]",
+      "published": "2026-02-26T22:56:09+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "c36e29c5cc50580d89281a71f18c37f8430ffada",
+      "title": "Netflix walks away from a deal to buy WBD's studio and streaming assets after WBD deemed Paramount's $31/share bid to be superior; NFLX up 9%+ after hours (CNBC)",
+      "link": "http://www.techmeme.com/260226/p54#a260226p54",
+      "summary": "<a href=\"https://www.cnbc.com/2026/02/26/warner-bros-discovery-paramount-skydance-deal-superior-netflix.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260226/i54.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260226/p54#a260226p54\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/02/26/warner-bros-discovery-paramount-skydance-deal-superior-netflix.html\">Netflix walks away from a deal to buy WBD's studio and streaming assets after WBD deemed Paramount's $31/share bid to be superior; NFLX up 9%+ after hours</a></b></span>&nbsp; &mdash;&nbsp; Netflix is walking away from a deal to buy Warner Bros. Discovery's studio and streaming assets after the WBD board on Thursday deemed &hellip; </p>",
+      "published": "2026-02-26T22:51:43+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "8b01ebb7ecfe2a01731b70f9fdd5491bc25d8c97",
+      "title": "The Pentagon says it has offered compromises to Anthropic, including putting in writing that laws already bar the military from mass surveillance of Americans (Jennifer Jacobs/CBS News)",
+      "link": "http://www.techmeme.com/260226/p53#a260226p53",
+      "summary": "<a href=\"https://www.cbsnews.com/news/pentagon-anthropic-feud-ai-military-says-it-made-compromises/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260226/i53.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260226/p53#a260226p53\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jennifer Jacobs / <a href=\"http://www.cbsnews.com/\">CBS News</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cbsnews.com/news/pentagon-anthropic-feud-ai-military-says-it-made-compromises/\">The Pentagon says it has offered compromises to Anthropic, including putting in writing that laws already bar the military from mass surveillance of Americans</a></b></span>&nbsp; &mdash;&nbsp; Add CBS News on Google&nbsp; &mdash;&nbsp; As the U.S. military's partnership with artificial intelligence giant Anthropic teeters on the edge of collapse &hellip; </p>",
+      "published": "2026-02-26T22:50:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "6f812211cdc937fe15cf55514b7569858657b0bd",
+      "title": "Albanian PM fires deputy as corruption investigation heats up",
+      "link": "https://www.thestar.com.my/news/world/2026/02/27/albanian-pm-fires-deputy-as-corruption-investigation-heats-up",
+      "summary": "TIRANA, Feb 26 (Reuters) - Albanian Prime ⁠Minister Edi Rama late on Thursday dismissed his deputy, Belinda Balluku, ⁠who faces accusations of manipulating public tenders, allegations that have sparked ‌opposition protests. <a href=\"https://www.thestar.com.my/news/world/2026/02/27/albanian-pm-fires-deputy-as-corruption-investigation-heats-up\">Read full story</a>",
+      "published": "2026-02-26T22:34:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "86b9a2f3e8408fd2aa03cf8c10df5300c30071fb",
+      "title": "Social media addiction trial: 20-year-old plaintiff KGM testifies her social media use, which began in childhood, exacerbated depression and suicidal thoughts (Associated Press)",
+      "link": "http://www.techmeme.com/260226/p52#a260226p52",
+      "summary": "<a href=\"https://apnews.com/article/meta-instagram-facebook-trial-social-media-addiction-2afb4809d2dbbb0d1e69739c7f2b20b3\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260226/i52.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260226/p52#a260226p52\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.apnews.com/\">Associated Press</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://apnews.com/article/meta-instagram-facebook-trial-social-media-addiction-2afb4809d2dbbb0d1e69739c7f2b20b3\">Social media addiction trial: 20-year-old plaintiff KGM testifies her social media use, which began in childhood, exacerbated depression and suicidal thoughts</a></b></span>&nbsp; &mdash;&nbsp; A young woman who is battling against social media giants took the stand Thursday to testify about her experience using the platforms &hellip; </p>",
+      "published": "2026-02-26T22:30:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "c4a916e755fcb0e0c767a488ec87a97f9c9bb658",
+      "title": "Countdown to Pokémon Day 2026: Be ready for tomorrow’s new Switch game release, Pokémon livestream, more",
+      "link": "https://9to5toys.com/2026/02/26/pokemon-day-2026-schedule-release-date/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/Pokemon-Day-30th-Anniversary-1.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>This is it folks, we are less than 24 hours out from the big-time 30th anniversary Pokémon Day celebrations. We have already had some exciting announcements, product reveals, and more ahead of the official date, so let the countdown begin!</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/26/pokemon-day-2026-schedule-release-date/#more-1195441\">more…</a>",
+      "published": "2026-02-26T22:30:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "b802e8b37a94b48e5b3948e94a949391204f9498",
+      "title": "PayPal might not be looking to sell itself: Report",
       "link": "https://techcrunch.com/2026/02/26/paypal-might-not-be-looking-to-sell-itself-report/",
       "summary": "PayPal may not be in talks to be acquired, sources have told Semafor, after a previous news report that Stripe was sniffing around.",
       "published": "2026-02-26T22:23:42+00:00",
@@ -19,6 +154,24 @@
       "link": "https://9to5toys.com/2026/02/26/best-samsung-galaxy-s26-preorder-deals-live/",
       "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/Galaxy-S26-preorder-deals-now-live-04.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Samsung Galaxy S26 pre-orders <a href=\"https://howl.link/tq4wmy8foo6vz\">are now live</a>. The new lineup is now being officially revealed at today’s Unpacked event and the Galaxy S26 pre-order deals are now ready to go. Pre-orders for the <a href=\"https://howl.link/v6xc5i3wk3eyq\">Galaxy S26</a>, <a href=\"https://howl.link/v6xc5i3wk3eyq\">Galaxy S26+</a>, and <a href=\"https://howl.link/tq4wmy8foo6vz\">Galaxy S26 Ultra</a> are available on the official Samsung site at <a href=\"https://howl.link/ccw4i7kko05iv\">up to <strong>$900 off</strong> with trade-ins </a>alongside <a href=\"https://howl.link/ccw4i7kko05iv\">bonus $30 credits</a> through our links, <a href=\"https://9to5toys.com/2026/02/25/how-to-free-galaxy-buds-4-s26-ultra/\"><strong>FREE</strong> Galaxy Buds 4</a>, and you can also take advantage of a <a href=\"https://howl.link/ccw4i7kko05iv\"><strong>FREE </strong>$150 credit</a> to use towards Galaxy Buds, wearables, and other eligible accessories. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/26/best-samsung-galaxy-s26-preorder-deals-live/#more-1195063\">more…</a>",
       "published": "2026-02-26T22:20:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "3b01be2565952bf54a9a2357582a5b98c6fdbb0e",
+      "title": "xAI spent $7M building wall that barely muffles annoying power plant noise",
+      "link": "https://arstechnica.com/tech-policy/2026/02/pops-whines-and-roars-xai-accused-of-torturing-neighbors-of-noisy-power-plant/",
+      "summary": "“Temu sound wall” not enough to quell fury over xAI’s power plant.",
+      "published": "2026-02-26T22:19:39+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "cc42b84b686dba18098bab62195ec728c6d2ba9f",
+      "title": "LIVE TOMORROW: Special 30-year anniversary Pokémon Presents announced",
+      "link": "https://9to5toys.com/2026/02/26/30-year-anniversary-pokemon-presents-announced/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/Pokemon-Presents-2026-30-year-anniversary.png?w=800\" /></div><p>Pokémon Day 2026 is set to be a major one and the festivities have already began with a major Nintendo Switch announcement this morning and confirmation of next Friday’s Pokémon Presents showcase.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/26/30-year-anniversary-pokemon-presents-announced/#more-1194387\">more…</a>",
+      "published": "2026-02-26T22:15:00+00:00",
       "source": "9to5Toys",
       "category": "deals"
     },
@@ -50,13 +203,13 @@
       "category": "tech"
     },
     {
-      "id": "84446758efcc9820c2d0b738710c688d799becdf",
-      "title": "Cuba says group shot on US-registered speedboat planned 'armed infiltration'",
-      "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The passengers were Cuban nationals living in the US, the Cuban government says.",
-      "published": "2026-02-26T22:00:13+00:00",
-      "source": "BBC News",
-      "category": "world"
+      "id": "b9f027282b0d38e6389c783f6a875fb2c5d914b0",
+      "title": "Pokémon FireRed and LeafGreen Switch pre-orders now live, and these Pokémon titles are up to 30% off",
+      "link": "https://9to5toys.com/2026/02/26/pokemon-firered-leafgreen-switch-preorder-deals/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/Pokemmon-Switch-game-deals-LeafGreen.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>The 2026 Pokémon Day festivities are already starting with this morning’s official announcements – the special <a href=\"https://9to5toys.com/2026/02/20/30-year-anniversary-pokemon-presents-announced/\">30-year anniversary Pokémon Presents showcase</a> has been confirmed and Nintendo just announced <a href=\"https://9to5toys.com/2026/02/20/pokemon-firered-leafgreen-announced-switch-2/\">Pokémon FireRed and LeafGreen </a>for Switch and Switch 2! All of the details you need on the Gen 1 remakes landing on Switch are <a href=\"https://9to5toys.com/2026/02/20/pokemon-firered-leafgreen-announced-switch-2/\">right here</a> – pre-orders are now live, but in celebration of today’s reveals we are highlighting a host of Pokémon Switch game deals you can scope out below:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Pokémon FireRed Version Switch <a href=\"https://www.nintendo.com/us/store/products/english-pokemon-firered-version-switch/\">pre-order $20</a></li>\n\n\n\n<li>Pokémon LeafGreen Version Switch <a href=\"https://www.nintendo.com/us/store/products/english-pokemon-leafgreen-version-switch/\">pre-order $20</a></li>\n\n\n\n<li>Pokémon Legends: Z-A <a href=\"https://howl.link/xeu2tywz7f4ir\"><strong>from $45</strong> (Reg. $60)</a></li>\n\n\n\n<li>Pokémon Sword <a href=\"https://howl.link/lf9v296mb8fh6\"><strong>$47</strong> (Reg. $60)</a></li>\n\n\n\n<li>Pokémon: Let’s Go, Eevee! <a href=\"https://howl.link/te94rb21g9io5\"><strong>$47</strong> (Reg. $60)</a></li>\n\n\n\n<li>Pokémon: Let’s Go, Pikachu! <a href=\"https://howl.link/bkvah5qeuk473\"><strong>$42</strong> (Reg. $60)</a></li>\n\n\n\n<li>Pokémon Violet <a href=\"https://howl.link/fdstrf1mhwsj7\"><strong>$47</strong> (Reg. $60)</a></li>\n\n\n\n<li>Pokémon Legends: Arceus <a href=\"https://howl.link/y2d8equpzkgiq\"><strong>$47</strong> (Reg. $60)</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-pokemon-firered-and-leafgreen-officially-announced-for-switch-and-switch-2\"><a href=\"https://9to5toys.com/2026/02/20/pokemon-firered-leafgreen-announced-switch-2/\">Pokémon FireRed and LeafGreen officially announced for Switch and Switch 2</a></h3>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-special-30-year-anniversary-pokemon-presents-announced\"><a href=\"https://9to5toys.com/2026/02/20/30-year-anniversary-pokemon-presents-announced/\">Special 30-year anniversary Pokémon Presents announced</a></h3>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/26/pokemon-firered-leafgreen-switch-preorder-deals/#more-1194429\">more…</a>",
+      "published": "2026-02-26T22:00:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
     },
     {
       "id": "44ba8a97a52cc9fcaa18a0c8dbed9b25b011011e",
@@ -83,6 +236,15 @@
       "summary": "<a href=\"https://www.reuters.com/business/coreweave-beats-fourth-quarter-revenue-estimates-2026-02-26/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260226/i51.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260226/p51#a260226p51\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/business/coreweave-beats-fourth-quarter-revenue-estimates-2026-02-26/\">CoreWeave reports Q4 revenue up 110% YoY to $1.57B, vs. $1.55B est., and adjusted loss of $284M, vs. $258.9M est.; CRWV drops 5%+ after hours</a></b></span>&nbsp; &mdash;&nbsp; CoreWeave (CRWV.O) beat Wall Street estimates for quarterly revenue on Thursday, benefiting from the artificial intelligence boom that has driven companies &hellip; </p>",
       "published": "2026-02-26T21:55:00+00:00",
       "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "02b9093a3269fc44a04fe1f8ea0a181f93be69c4",
+      "title": "The physics of squeaking sneakers",
+      "link": "https://arstechnica.com/science/2026/02/the-physics-of-squeaking-sneakers/",
+      "summary": "Geometry of tread patterns determines frequency, so blocks were designed to play Star Wars music.",
+      "published": "2026-02-26T21:48:37+00:00",
+      "source": "Ars Technica - All content",
       "category": "tech"
     },
     {
@@ -185,8 +347,8 @@
       "category": "tech"
     },
     {
-      "id": "53e569653b537912914834546d87cb3b43eb715e",
-      "title": "Samsung exec confirms you can blame RAM — and other materials — for the Galaxy S26’s higher pricetag",
+      "id": "70902320a85fce4f76c945850f7e37fbd0975e4c",
+      "title": "Samsung exec confirms you can blame RAM — and other materials — for the Galaxy S26’s higher price tag",
       "link": "https://www.theverge.com/tech/885566/samsung-ram-galaxy-s26-price",
       "summary": "The Samsung Galaxy S26 and S26 Plus are \"more of the same for more money,\" my colleague Allison Johnson reported this week. Now, Samsung is confirming what we previously only suspected: RAMageddon is partly to blame. Samsung's Won-Joon Choi, the COO of its mobile business, tells The Verge that the memory shortage alone made a [&#8230;]",
       "published": "2026-02-26T20:57:19+00:00",
@@ -320,30 +482,12 @@
       "category": "deals"
     },
     {
-      "id": "595b8c4ea66fb70de75a9efb7667a937a6675656",
-      "title": "DHS detained — then released — a Columbia University &#8216;studytok&#8217; influencer",
-      "link": "https://www.theverge.com/policy/885525/columbia-university-student-detained-dhs-influencer",
-      "summary": "Columbia University said Department of Homeland Security agents \"made misrepresentations\" about searching for a missing person to gain access to a residential building and detain a student on Thursday. By the afternoon, the student had been released after New York Mayor Zohran Mamdani made a personal appeal to Donald Trump. The Columbia Daily Spectator, the [&#8230;]",
-      "published": "2026-02-26T19:49:09+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "f0590386dc3b4fba78a3be7e8e2e04d1c6d88d7e",
       "title": "Memory shortage could cause the biggest dip in smartphone shipments in over a decade",
       "link": "https://techcrunch.com/2026/02/26/memory-shortage-could-cause-the-biggest-smartphone-shipments-dip-in-over-a-decade/",
       "summary": "IDC says phone makers will ship only 1.12 billion smartphones as compared to 1.26 billion last year.",
       "published": "2026-02-26T19:43:51+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "e6732d773d2ff3e44ebcdbb7d877d71a85c8299f",
-      "title": "Netflix&#8217;s F1 series Drive to Survive will stream on Apple TV, too",
-      "link": "https://www.theverge.com/streaming/885538/netflix-f1-drive-to-survive-apple-tv-streaming",
-      "summary": "Netflix's sports docuseries obsession started a few years ago with F1: Drive to Survive, but when the eighth season premieres after midnight tonight, it will also be available on Apple TV. Now that Apple TV has a five-year deal to be the US streaming home for F1 races, subscribers in the US will be able [&#8230;]",
-      "published": "2026-02-26T19:40:16+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -354,15 +498,6 @@
       "published": "2026-02-26T19:35:00+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "704613dc4296880d1606a70ea2d05e28a3449bc7",
-      "title": "Corsair is halting Drop sales after March 25th",
-      "link": "https://www.theverge.com/news/884824/corsair-ending-drop-shopping-site",
-      "summary": "The Drop store, which was acquired by gaming gear giant Corsair in 2023, was a haven for mechanical keyboard enthusiasts and audiophiles to discover and buy hard-to-find gear - sometimes at surprisingly good prices. The company will cease sales after March 25th at 11:59PM PT, which is also the cut off to redeem Drop Rewards. [&#8230;]",
-      "published": "2026-02-26T19:34:53+00:00",
-      "source": "The Verge",
-      "category": "tech"
     },
     {
       "id": "a044a77c53825f9ea7e99a436e8b18f1a5019122",
@@ -464,33 +599,6 @@
       "category": "malaysia"
     },
     {
-      "id": "0bb7d5dfc57c0ec8d7314ef2f0cfebffc5bc24cb",
-      "title": "Upgrade your casual look with these quilted summer shorts from $10 (Save 33%)",
-      "link": "https://9to5toys.com/2026/02/26/jmierr-quilted-summer-shorts/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/JMIERR-Quilted-Summer-Shorts.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">JMIERR Quilted Summer Shorts</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-buy-from-10-reg-15\">Buy from $10 (Reg. $15)</h3>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A white line on a red background\" class=\"wp-image-1195545 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/JMIERR-Quilted-Summer-Shorts-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p><span>I know for many of us it’s still cold outside, but these shorts are a solid value at $10. I love the quilted diamond pattern because it adds a textured look that sets these apart from standard alternatives.</span></p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/26/jmierr-quilted-summer-shorts/#more-1195543\">more…</a>",
-      "published": "2026-02-26T18:35:00+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "c4a916e755fcb0e0c767a488ec87a97f9c9bb658",
-      "title": "Countdown to Pokémon Day 2026: Be ready for tomorrow’s new Switch game release, Pokémon livestream, more",
-      "link": "https://9to5toys.com/2026/02/26/pokemon-day-2026-schedule-release-date/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/Pokemon-Day-30th-Anniversary-1.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>This is it folks, we are less than 24 hours out from the big-time 30th anniversary Pokémon Day celebrations. We have already had some exciting announcements, product reveals, and more ahead of the official date, so let the countdown begin!</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/26/pokemon-day-2026-schedule-release-date/#more-1195441\">more…</a>",
-      "published": "2026-02-26T18:23:38+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "df07f01b7cd586d04579fe15f843a6433771af6a",
-      "title": "New low knocks 8BitDo’s officially licensed Xbox all-button arcade controller down to $48 (Save 52%)",
-      "link": "https://9to5toys.com/2026/02/26/8bitdo-officially-licensed-xbox-all-button-arcade-controller-down-to-48/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/8BitDo-all-button-arcade-controller.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>As part of its <a href=\"https://howl.link/30ov54lacqse4\">ongoing video game sale</a>, Woot is offering the officially licensed <a href=\"https://howl.link/wnz5s5ayjjruq\">Xbox variant of 8BitDo’s All-Button Arcade Controller for <strong>$47.99 Prime shipped</strong></a> (a $6 delivery fee will apply otherwise). Be sure to enter promo code <strong>LEVEL20</strong> to see the discounted price during checkout. This particular variant of the controller is compatible with Xbox Series X|S and Windows PCs, and it typically goes for $100 at Amazon, where it’s currently fetching $97. Today’s deal knocks 52% off, shaving $48 from its usual price. It dropped to $60 just earlier this month as part of a similar Woot sale, but today’s offer undercuts that by another $12 to mark a new all-time low. Notably, the <a href=\"https://howl.link/p66wbzvoctins\">standard variant compatible with Switch 2 is also down to <strong>$47.99 Prime shipped</strong></a>, which is also the lowest price we have tracked for it.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/02/26/8bitdo-officially-licensed-xbox-all-button-arcade-controller-down-to-48/#more-1195533\">more…</a>",
-      "published": "2026-02-26T18:20:57+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "4f73db99ea57cc35005ddc9f20b01ea233c7fa25",
       "title": "Apple says iPhone and iPad on iOS 26 and iPadOS 26 have become the first consumer devices NATO approved for use up to the \"restricted\" level of classified data (Elyse Betters Picaro/ZDNET)",
       "link": "http://www.techmeme.com/260226/p43#a260226p43",
@@ -498,15 +606,6 @@
       "published": "2026-02-26T18:16:05+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "609007dbd088d43ddf64f01957e42346955fd496",
-      "title": "Moody&#039;s upgrades outlook on Georgia&#039;s banking system from negative to stable",
-      "link": "https://www.thestar.com.my/news/world/2026/02/27/moody039s-upgrades-outlook-on-georgia039s-banking-system-from-negative-to-stable",
-      "summary": "TBILISI, Feb. 26 (Xinhua) -- International credit rating agency Moody's Ratings has revised its outlook on Georgia's banking system from negative to stable, the National Bank of Georgia said Thursday. <a href=\"https://www.thestar.com.my/news/world/2026/02/27/moody039s-upgrades-outlook-on-georgia039s-banking-system-from-negative-to-stable\">Read full story</a>",
-      "published": "2026-02-26T18:05:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "a5f65976d316d1e66823daf22fd3499d2896aaf9",
@@ -525,42 +624,6 @@
       "published": "2026-02-26T17:58:53+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "860b692487034c3265e40ca73b94439fe7baa630",
-      "title": "Pakistan, Afghan forces clash after days of hostilities",
-      "link": "https://www.thestar.com.my/news/world/2026/02/27/afghanistan-launches-retaliatory-attacks-on-pakistan-border-posts-taliban-says",
-      "summary": "KABUL, Feb 26 (Reuters) - Pakistani and Afghan border forces ⁠clashed on Thursday night after the Taliban launched what it called retaliatory strikes on Pakistani installations, sharply escalating tensions ⁠after days of cross-border hostilities. <a href=\"https://www.thestar.com.my/news/world/2026/02/27/afghanistan-launches-retaliatory-attacks-on-pakistan-border-posts-taliban-says\">Read full story</a>",
-      "published": "2026-02-26T17:55:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "12ff7d4c87518333e2964c7a70d483d4dbd14170",
-      "title": "US justice department accused of withholding Trump-related Epstein files",
-      "link": "https://www.bbc.com/news/articles/ckg3elr1dwpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The top Democrat on the congressional panel investigating Epstein has called on the attorney general to publish the material.",
-      "published": "2026-02-26T17:30:50+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "65ef77a52d0266cbb3357e36e4103b784a403413",
-      "title": "Botswana central bank keeps monetary policy rate at 3.5 pct",
-      "link": "https://www.thestar.com.my/news/world/2026/02/27/botswana-central-bank-keeps-monetary-policy-rate-at-35-pct",
-      "summary": "GABORONE, Feb. 26 (Xinhua) -- The Bank of Botswana's Monetary Policy Committee on Thursday unanimously decided to keep the monetary policy rate at 3.5 percent. <a href=\"https://www.thestar.com.my/news/world/2026/02/27/botswana-central-bank-keeps-monetary-policy-rate-at-35-pct\">Read full story</a>",
-      "published": "2026-02-26T17:28:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "15ab639423100002028307fb1be489a58b63c2b5",
-      "title": "Botswana VP calls for agricultural investment for economic diversification",
-      "link": "https://www.thestar.com.my/news/world/2026/02/27/botswana-vp-calls-for-agricultural-investment-for-economic-diversification",
-      "summary": "GABORONE, Feb. 26 (Xinhua) -- Botswana's Vice President and Minister of Finance Ndaba Gaolathe emphasized on Thursday the need for greater investment in the southern African country's agricultural sector to reposition it as a central driver of economic diversification. <a href=\"https://www.thestar.com.my/news/world/2026/02/27/botswana-vp-calls-for-agricultural-investment-for-economic-diversification\">Read full story</a>",
-      "published": "2026-02-26T17:26:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "f5f7a0d32b6e16828ec971550bee523fb0b31513",
@@ -599,15 +662,6 @@
       "category": "tech"
     },
     {
-      "id": "e886789364fbdf9e1eb9d28ecd55428ff503929c",
-      "title": "A Greek court sentences four people, including spyware maker Intellexa's founder, to prison, for using spyware to target journalists, politicians, and others (Nektaria Stamouli/Politico)",
-      "link": "http://www.techmeme.com/260226/p40#a260226p40",
-      "summary": "<a href=\"https://www.politico.eu/article/predatorgate-greece-court-sentences-predator-spyware-gang/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260226/i40.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260226/p40#a260226p40\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Nektaria Stamouli / <a href=\"http://www.politico.com/\">Politico</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.politico.eu/article/predatorgate-greece-court-sentences-predator-spyware-gang/\">A Greek court sentences four people, including spyware maker Intellexa's founder, to prison, for using spyware to target journalists, politicians, and others</a></b></span>&nbsp; &mdash;&nbsp; Greece's &ldquo;Predatorgate&rdquo; scandal is one of Europe's biggest political crises over the use of hacking software.</p>",
-      "published": "2026-02-26T16:55:03+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "ed05af6bb03c121f24b6caf2b0e8d2ba64a7b7ba",
       "title": "Ford is recalling 4.3 million trucks and SUVs to fix a towing software bug",
       "link": "https://arstechnica.com/cars/2026/02/ford-is-recalling-4-3-million-trucks-and-suvs-to-fix-a-towing-software-bug/",
@@ -626,15 +680,6 @@
       "category": "world"
     },
     {
-      "id": "b45076a1f40302af1843002b740d89098339c269",
-      "title": "Driverless truck startup Einride raised a $113M PIPE at a $1.35B pre-money valuation, down from $1.8B initially attached to its upcoming SPAC deal (Rebecca Bellan/TechCrunch)",
-      "link": "http://www.techmeme.com/260226/p39#a260226p39",
-      "summary": "<a href=\"https://techcrunch.com/2026/02/26/self-driving-truck-startup-einride-raises-113m-pipe-ahead-of-public-debut/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260226/i39.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260226/p39#a260226p39\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Rebecca Bellan / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/02/26/self-driving-truck-startup-einride-raises-113m-pipe-ahead-of-public-debut/\">Driverless truck startup Einride raised a $113M PIPE at a $1.35B pre-money valuation, down from $1.8B initially attached to its upcoming SPAC deal</a></b></span>&nbsp; &mdash;&nbsp; Einride has secured an oversubscribed $113 million PIPE (private investment in public equity) ahead of its public debut that's expected for the first half of 2026.</p>",
-      "published": "2026-02-26T16:50:17+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "39ab2f3219cd1924bee9f3c6521a1f0c31d4e748",
       "title": "AfD hails court injunction on 'extremist' label as victory",
       "link": "https://www.bbc.com/news/articles/clyg10ek7r7o?at_medium=RSS&at_campaign=rss",
@@ -642,15 +687,6 @@
       "published": "2026-02-26T16:49:07+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "539e39d899944a8ab3d96dec918261f5ac0ace53",
-      "title": "Encord, whose software helps companies developing AI models manage training data for robots and other uses, raised $60M at a $500M pre-money valuation (Rocket Drew/The Information)",
-      "link": "http://www.techmeme.com/260226/p38#a260226p38",
-      "summary": "<a href=\"https://www.theinformation.com/articles/robot-data-startup-raises-60-million\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260226/i38.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260226/p38#a260226p38\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Rocket Drew / <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/articles/robot-data-startup-raises-60-million\">Encord, whose software helps companies developing AI models manage training data for robots and other uses, raised $60M at a $500M pre-money valuation</a></b></span>&nbsp; &mdash;&nbsp; Companies developing AI models to power humanoid and other robots have been hard at work collecting videos and other data for training their models &hellip; </p>",
-      "published": "2026-02-26T16:40:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "3bd1a69db961ff35f659df70f69b35f279bdf209",
@@ -668,15 +704,6 @@
       "summary": "The suit said Walmart would mislead drivers about their possible tips and would reduce their base pay, among other things.",
       "published": "2026-02-26T16:37:13+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "512497524570ae2ac349cfa288f618f933b9ccfb",
-      "title": "Google says Nano Banana 2 can create images with a resolution ranging from 512px to 4K, and will become the default image generation model in the Gemini app (Ivan Mehta/TechCrunch)",
-      "link": "http://www.techmeme.com/260226/p37#a260226p37",
-      "summary": "<a href=\"https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260226/i37.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260226/p37#a260226p37\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ivan Mehta / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/\">Google says Nano Banana 2 can create images with a resolution ranging from 512px to 4K, and will become the default image generation model in the Gemini app</a></b></span>&nbsp; &mdash;&nbsp; Google today announced the latest version of its popular image generation model, Nano Banana 2.&nbsp; The new model, which is technically &hellip; </p>",
-      "published": "2026-02-26T16:35:05+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -833,15 +860,6 @@
       "category": "tech"
     },
     {
-      "id": "9051d4fa765ef0b6fb5804796ebaeeae04a63719",
-      "title": "Exhibit in Boston’s startup ecosystem at TechCrunch Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/02/26/exhibit-in-bostons-startup-ecosystem-at-techcrunch-founder-summit-2026/",
-      "summary": "On June 9, over 1,000 founders, investors, and decision-makers will gather for TechCrunch Founder Summit 2026. This isn’t just foot traffic. It’s a full day of concentrated deal flow.",
-      "published": "2026-02-26T14:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "4cb86339bb9c0547c3e0ae1faf7d313587d225d6",
       "title": "Danish PM calls snap election with Greenland issue centre-stage",
       "link": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss",
@@ -993,15 +1011,6 @@
       "published": "2026-02-26T05:40:28+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "3447dff7dd5c9596bde952bf4194530c7357874f",
-      "title": "Spike in unregistered rat poison cases puts young children at risk, warns NPC",
-      "link": "https://www.malaymail.com/news/malaysia/2026/02/26/spike-in-unregistered-rat-poison-cases-puts-young-children-at-risk-warns-npc/210478",
-      "summary": "GEORGE TOWN, Feb 26 &mdash; The National Poison Centre (NPC) has detected a worrying rise in poisoning cases involving u...",
-      "published": "2026-02-26T05:30:37+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "ce5b93a3414870cbc5c97bb47dbbb7ab6243d84d",
@@ -1247,11 +1256,20 @@
       "category": "malaysia"
     },
     {
-      "id": "62e4065241379e0f610f2631d80b3d363db388d2",
-      "title": "IronClaw",
-      "link": "https://www.producthunt.com/products/ironclaw",
-      "summary": "<p>\n            Secure, open-source alternative to OpenClaw\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ironclaw?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1086019?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-26T00:17:12+00:00",
+      "id": "c65f4ef55e8e3a922bc70e6b06b39cd352800ca7",
+      "title": "In Dewan Rakyat today, MPs to quiz govt on entry permits, public dakwah and Visit Malaysia Year 2026",
+      "link": "https://www.malaymail.com/news/malaysia/2026/02/26/in-dewan-rakyat-today-mps-to-quiz-govt-on-entry-permits-public-dakwah-and-visit-malaysia-year-2026/210454",
+      "summary": "&nbsp;KUALA LUMPUR, Feb 26 &mdash; The latest status of reforms to entry permits into Malaysia and the government&rsquo;...",
+      "published": "2026-02-26T01:56:57+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "96ef53f55b7c425b9f1f2f19a8902efd3e1b5354",
+      "title": "Commit Please",
+      "link": "https://www.producthunt.com/products/commit-please",
+      "summary": "<p>\n            GitHub-powered coworking for developers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/commit-please?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1086049?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-26T01:50:43+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1308,15 +1326,6 @@
       "published": "2026-02-25T20:53:54+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "9ed0e2c14218f5d6d96b895adb14b8abd1acdca8",
-      "title": "Digital Twin by Read AI",
-      "link": "https://www.producthunt.com/products/read-dashboard",
-      "summary": "<p>\n            cc: ada@read.ai. and let your digital twin handle the rest\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/read-dashboard?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1085923?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-25T19:33:21+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "3da3c2766c6343fa60c2ba5554ca0b1898078adf",
@@ -1472,24 +1481,6 @@
       "category": "tech"
     },
     {
-      "id": "b38c8ee0daff811c39a1746efdcfc576cfbc712a",
-      "title": "Following 35% growth, solar has passed hydro on US grid",
-      "link": "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/",
-      "summary": "Coal makes a bit of a comeback, if only by accident.",
-      "published": "2026-02-24T22:40:08+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "6bf91e1a8101bf4b8bccfd3a01eb8853aee34510",
-      "title": "DJI sues the FCC for “carelessly” restricting its drones",
-      "link": "https://arstechnica.com/gadgets/2026/02/dji-sues-the-fcc-for-carelessly-restricting-its-drones/",
-      "summary": "DJI lawsuit says company has been \"severely harmed by the FCC’s ruling.\"",
-      "published": "2026-02-24T21:15:26+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
       "id": "a11d75c79d78b60d81a2c57fdefb874a58c632a3",
       "title": "Maxis has enabled AI-powered firewall to block scam calls and SMS on their network",
       "link": "https://soyacincau.com/2026/02/24/maxis-ai-powered-firewall-block-scam-sms-calls/",
@@ -1526,11 +1517,38 @@
       "category": "events"
     },
     {
+      "id": "290a0a9e2d80c9ff3feb3c32ac9ddbdf4922ba62",
+      "title": "API Pick",
+      "link": "https://www.producthunt.com/products/api-pick",
+      "summary": "<p>\n            Data APIs for AI agents & developers — free to start\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/api-pick?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1083794?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-22T16:03:15+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "39797258ec939989dbba5298c5a27e576e708dfd",
+      "title": "Qwarm",
+      "link": "https://www.producthunt.com/products/qwarm",
+      "summary": "<p>\n            Write tests in plain English AI agents run them in browsers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/qwarm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1083191?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-21T09:30:58+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "c88ed3333ee4bfe70b1e7115484591f51359fdf9",
       "title": "Padel Chess",
       "link": "https://www.producthunt.com/products/padel-chess",
       "summary": "<p>\n            Padel tactics learning app\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/padel-chess?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1082205?app_id=339\">Link</a>\n          </p>",
       "published": "2026-02-19T15:12:23+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "6ae18c462941fa97427e150e9ee99c5f8af290dc",
+      "title": "Wordwand",
+      "link": "https://www.producthunt.com/products/wordwand",
+      "summary": "<p>\n            AI anywhere you type. 10x your productivity\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wordwand?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1080136?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-16T08:44:47+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1558,24 +1576,6 @@
       "link": "https://www.producthunt.com/products/koidex-2",
       "summary": "<p>\n            Know if a package, extension, or AI model is actually safe\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/koidex-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1077214?app_id=339\">Link</a>\n          </p>",
       "published": "2026-02-10T16:33:08+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "923797883baef093370b0eec62576ed580f96649",
-      "title": "Rover by rtrvr.ai",
-      "link": "https://www.producthunt.com/products/rtrvr-ai",
-      "summary": "<p>\n            Turn your website into an AI agent with one script tag.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rtrvr-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1071298?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-01T20:36:03+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "c47313f067b00ab9da5ded2419cd18b5022795bf",
-      "title": "Zavi AI - Voice to Action OS",
-      "link": "https://www.producthunt.com/products/zavi-ai-voice-talk-to-text",
-      "summary": "<p>\n            Voice that types, edits, sees and takes action in every app.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zavi-ai-voice-talk-to-text?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1069025?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-01-27T16:44:06+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
