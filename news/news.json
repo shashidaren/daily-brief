@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-02-28T17:15:00.189537+00:00",
+  "generatedAt": "2026-02-28T18:24:16.280783+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "ba5a9194e362894b4471f3be4ad3082e7b88d726",
+      "title": "Luxury Dubai hotel hit as Iran launches retaliatory strikes across region",
+      "link": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&at_campaign=rss",
+      "summary": "Smoke and flames rose from Dubai's Fairmont The Palm hotel as civilian targets came under fire along with the US military bases across the middle east.",
+      "published": "2026-02-28T18:15:02+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "2df64bd8e656cbace6a097d3e8f4e0c4efb9ac3b",
+      "title": "Casualties feared as chopper crashes in northwestern Kenya",
+      "link": "https://www.thestar.com.my/news/world/2026/03/01/casualties-feared-as-chopper-crashes-in-northwestern-kenya",
+      "summary": "NAIROBI, Feb. 28 (Xinhua) -- An unknown number of people are feared dead after a helicopter crashed on Saturday evening in Mosop Constituency, Nandi County, in northwestern Kenya, local police said. <a href=\"https://www.thestar.com.my/news/world/2026/03/01/casualties-feared-as-chopper-crashes-in-northwestern-kenya\">Read full story</a>",
+      "published": "2026-02-28T17:59:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "4b95027c46b8a45187944a86a485e5b462690b46",
+      "title": "Claude hit #2 on Apple's US App Store, hours after the DOD designated Anthropic a supply chain risk; it bounced between #20 and #50 for much of February (Jordan Novet/CNBC)",
+      "link": "http://www.techmeme.com/260228/p12#a260228p12",
+      "summary": "<a href=\"https://www.cnbc.com/2026/02/28/anthropics-claude-apple-apps.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260228/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260228/p12#a260228p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jordan Novet / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/02/28/anthropics-claude-apple-apps.html\">Claude hit #2 on Apple's US App Store, hours after the DOD designated Anthropic a supply chain risk; it bounced between #20 and #50 for much of February</a></b></span>&nbsp; &mdash;&nbsp; Anthropic's Claude artificial intelligence assistant app jumped to the No. 2 slot on Apple's chart of top U.S. free apps late on Friday &hellip; </p>",
+      "published": "2026-02-28T17:55:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "84d10389f2d3695af3553257a8b0c75e55163123",
+      "title": "Sources: Israel hacked BadeSaba, a popular Iranian prayer app with 5M+ installs on Google Play, to send messages urging Iranian military personnel to defect (Wall Street Journal)",
+      "link": "http://www.techmeme.com/260228/p11#a260228p11",
+      "summary": "<a href=\"https://www.wsj.com/livecoverage/iran-strikes-2026/card/israel-hacked-popular-iranian-prayer-app-to-urge-defections-resistance-wtYyb29CmKrTXoJBIV3C\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260228/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260228/p11#a260228p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/livecoverage/iran-strikes-2026/card/israel-hacked-popular-iranian-prayer-app-to-urge-defections-resistance-wtYyb29CmKrTXoJBIV3C\">Sources: Israel hacked BadeSaba, a popular Iranian prayer app with 5M+ installs on Google Play, to send messages urging Iranian military personnel to defect</a></b></span>&nbsp; &mdash;&nbsp; Israel hacked a popular Iranian prayer app to send notifications to potentially millions of phones Saturday morning urging &hellip; </p>",
+      "published": "2026-02-28T17:35:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "7c37e9e50bfa83ffed5d8e88d3910b2cf9769d4e",
+      "title": "What we know so far: Supreme Leader's compound hit and Iran's retaliatory strikes",
+      "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Kuwait and the UAE.",
+      "published": "2026-02-28T17:32:26+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "ef318da9ba7102dd8cbc8f06005b1dd49ad7e6d6",
       "title": "Q&A with Reiner Pope, a former Google TPU architect and CEO of MatX, which designs specialized chips for LLMs, on the limitations of current AI chips, and more (John Collison/Cheeky Pint)",
@@ -93,15 +138,6 @@
       "published": "2026-02-28T15:56:05+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "8cb41f4a9d11dfb7905e7110a7c7c73758355997",
-      "title": "What we know after US and Israel attacks on Iran hit compound of supreme leader",
-      "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Saudi Arabia, and the UAE.",
-      "published": "2026-02-28T15:49:23+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "de2d7d4a5e4f09a56fe9b0efc56903f569a9c440",
@@ -248,15 +284,6 @@
       "category": "tech"
     },
     {
-      "id": "03dbace55ae5109958257288b873b684eff5ceec",
-      "title": "Iran says it has hit US base in Bahrain, as it launches strikes across region",
-      "link": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&at_campaign=rss",
-      "summary": "Huge plumes of black smoke were seen rising from an area near the headquarters of the US Navy's Fifth Fleet in Manama, Bahrain.",
-      "published": "2026-02-28T13:35:44+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "43e30ecff5174ca6e3e6fe0890669f8b27a7ccbf",
       "title": "How India's outsourcing industry, which employs 6M+ people and is worth nearly $300B, is racing to adapt as AI promises to automate white-collar work (New York Times)",
       "link": "http://www.techmeme.com/260228/p7#a260228p7",
@@ -361,15 +388,6 @@
       "link": "https://www.thestar.com.my/news/nation/2026/02/28/malaysians-in-jordan-bahrain-urged-to-stay-in-safe-locations",
       "summary": "KUALA LUMPUR: The Malaysian embassies in both Jordan and Bahrain have urged Malaysians in those countries to stay calm and take shelter in safe locations in the wake of recent Israeli airstrikes on Iran. <a href=\"https://www.thestar.com.my/news/nation/2026/02/28/malaysians-in-jordan-bahrain-urged-to-stay-in-safe-locations\">Read full story</a>",
       "published": "2026-02-28T12:47:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "86f692e78a7231b676dc83a23ce70291a53b05a1",
-      "title": "MAHB: Passengers travelling via Middle East advised to check latest flight status with airlines",
-      "link": "https://www.thestar.com.my/news/nation/2026/02/28/mahb-passengers-travelling-via-middle-east-advised-to-check-latest-flight-status-with-airlines",
-      "summary": "PETALING JAYA: Passengers travelling to, from, or transiting through parts of the Middle East have been advised to check their latest flight status directly with their respective airlines before proceeding to the airport. <a href=\"https://www.thestar.com.my/news/nation/2026/02/28/mahb-passengers-travelling-via-middle-east-advised-to-check-latest-flight-status-with-airlines\">Read full story</a>",
-      "published": "2026-02-28T12:43:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
     },
@@ -716,15 +734,6 @@
       "category": "tech"
     },
     {
-      "id": "c7bd7c836930972c2d2a4333519bf9b6792cc72b",
-      "title": "A look at a local group's lawsuit against Micron over its $100B New York manufacturing complex, alleging a rushed permitting process and environmental review (Fast Company)",
-      "link": "http://www.techmeme.com/260227/p41#a260227p41",
-      "summary": "<a href=\"https://www.fastcompany.com/91495639/microns-100-billion-new-york-semiconductor-manufacturing-project-is-facing-local-pushback\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260227/i41.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260227/p41#a260227p41\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.fastcompany.com/\">Fast Company</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.fastcompany.com/91495639/microns-100-billion-new-york-semiconductor-manufacturing-project-is-facing-local-pushback\">A look at a local group's lawsuit against Micron over its $100B New York manufacturing complex, alleging a rushed permitting process and environmental review</a></b></span>&nbsp; &mdash;&nbsp; Lawsuit over Micron's massive Syracuse project raises concerns about toxic risks and alleges a rushed environmental review.</p>",
-      "published": "2026-02-28T02:55:04+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "61e21c3a7913e0c14239fff2bdc576f031f29d40",
       "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
       "link": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
@@ -741,15 +750,6 @@
       "published": "2026-02-28T02:17:20+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "cabeb4db0f35900032bb646cc91444ccb400b2ab",
-      "title": "Sources: DeepSeek plans to release its multimodal model V4 next week and worked with Huawei and Chinese AI chipmaker Cambricon to optimize V4 for their products (Financial Times)",
-      "link": "http://www.techmeme.com/260227/p40#a260227p40",
-      "summary": "<a href=\"https://www.ft.com/content/e3366881-0622-40a7-9c34-a0d82e3d573e\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260227/i40.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260227/p40#a260227p40\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/e3366881-0622-40a7-9c34-a0d82e3d573e\">Sources: DeepSeek plans to release its multimodal model V4 next week and worked with Huawei and Chinese AI chipmaker Cambricon to optimize V4 for their products</a></b></span>&nbsp; &mdash;&nbsp; Chinese AI group has worked with Huawei to cut reliance on Nvidia chips&nbsp; &mdash;&nbsp; Eleanor Olcott in Istanbul and Zijing Wu in Sapporo</p>",
-      "published": "2026-02-28T02:05:03+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "e30a4cc5e4cf2bc2a9365f249eaf1d9772cd6aa3",
@@ -1337,15 +1337,6 @@
       "category": "world"
     },
     {
-      "id": "2a1428a104fedfaa0aa113a84240922a7ac459f3",
-      "title": "Hacker News for macOS",
-      "link": "https://www.producthunt.com/products/hacker-news-for-macos",
-      "summary": "<p>\n            A native macOS client for Hacker News, built with SwiftUI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hacker-news-for-macos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1086669?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-27T01:30:07+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "f9d1e02db885a3fd6a1076da88ddfb1ea88a234c",
       "title": "Neanderthals seemed to have a thing for modern human women",
       "link": "https://arstechnica.com/science/2026/02/genomes-chart-the-history-of-neanderthal-modern-human-interactions/",
@@ -1380,6 +1371,15 @@
       "published": "2026-02-26T21:48:37+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
+    },
+    {
+      "id": "ec9d00811322d17f2a2c59c4c89abc496de86a42",
+      "title": "Flarehawk",
+      "link": "https://www.producthunt.com/products/flarehawk",
+      "summary": "<p>\n            Monitors security tools, probes threats, + prompts action\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/flarehawk?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1086546?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-26T19:59:34+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "e06e7b841ae1c2d878f8f7a7ed68f6aa201155ff",
@@ -1508,6 +1508,15 @@
       "category": "events"
     },
     {
+      "id": "f6b1d6cce0d3b329cfca0edb6c4246204cb0d939",
+      "title": "Claude Code Remote Control",
+      "link": "https://www.producthunt.com/products/claude-code-remote-access",
+      "summary": "<p>\n            Continue local sessions from any device with Remote Control\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-code-remote-access?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1085498?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-25T07:04:22+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "ca0f30dced2489a64fbfb65d2e6201be19e5c6b2",
       "title": "Study OS",
       "link": "https://www.producthunt.com/products/study-os",
@@ -1553,15 +1562,6 @@
       "category": "events"
     },
     {
-      "id": "259d3fe78c65b6ca03ca480db82a438e0319a936",
-      "title": "HelixDB",
-      "link": "https://www.producthunt.com/products/helixdb",
-      "summary": "<p>\n            An open-source OLTP graph-vector database built in Rust.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/helixdb?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1083326?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-21T15:31:24+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "08d05d81a412f38a802922f98ef7281296944900",
       "title": "Pixel",
       "link": "https://www.producthunt.com/products/pixel-10",
@@ -1571,11 +1571,11 @@
       "category": "events"
     },
     {
-      "id": "ebaff29dfef84ae1c53a00f5b396826cd4ee6f92",
-      "title": "Alkemi",
-      "link": "https://www.producthunt.com/products/alkemi",
-      "summary": "<p>\n            Your AI data teammate in Slack\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/alkemi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1079014?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-13T18:23:38+00:00",
+      "id": "d6bb78821253d5a26f04363547d7361415bc151f",
+      "title": "Superset",
+      "link": "https://www.producthunt.com/products/superset-5",
+      "summary": "<p>\n            Run an army of Claude Code, Codex, etc. on your machine\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/superset-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1077301?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-10T18:25:56+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
