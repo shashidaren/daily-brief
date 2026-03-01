@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-03-01T19:18:46.104023+00:00",
+  "generatedAt": "2026-03-01T20:19:10.960982+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "af3a91ec0fd51bc143c1f546835a32bd945c5a0c",
+      "title": "Portable Sonos Play speaker leaks on Canadian Best Buy",
+      "link": "https://www.theverge.com/tech/887220/sonos-play-leak",
+      "summary": "An unannounced Sonos speaker called Play has been spotted on the Canadian Best Buy site. The Sonos Play looks like a slightly shrunk-down version of the Move 2 with a loop on the back for toting it around. While nothing is confirmed yet, it's listed at CAD $399.99 with a release date of March 31st, [&#8230;]",
+      "published": "2026-03-01T20:10:10+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "2591c35a51ee7c6436d4b9edbdfd587bd89a53df",
+      "title": "Sources describe in detail the failed talks between Anthropic and DOD, and how officials at agencies, including the CIA, still hope for a peace agreement (New York Times)",
+      "link": "http://www.techmeme.com/260301/p11#a260301p11",
+      "summary": "<a href=\"https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260301/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260301/p11#a260301p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.nytimes.com/\">New York Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html\">Sources describe in detail the failed talks between Anthropic and DOD, and how officials at agencies, including the CIA, still hope for a peace agreement</a></b></span>&nbsp; &mdash;&nbsp; The Pentagon and Anthropic were close to agreeing on the use of artificial intelligence.&nbsp; But strong personalities, mutual dislike and a rival company unraveled a deal.</p>",
+      "published": "2026-03-01T19:55:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "815255c4c796ebdeaf3e87195909f456394f2f5d",
+      "title": "Deadly Texas bar shooting is 'potentially an act of terrorism', FBI says",
+      "link": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss",
+      "summary": "Two people were killed and 14 injured, with the suspected gunman also shot dead on the scene.",
+      "published": "2026-03-01T19:43:56+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "0197910c85126d9d2c8a203deb286dec4129ce2a",
       "title": "Polymarket saw $529M traded on bets tied to bombing of Iran",
@@ -50,6 +77,15 @@
       "category": "tech"
     },
     {
+      "id": "db84f12b4209c6a06763feb3e1f315ea53e2b0e0",
+      "title": "Iran's regime is still intact - the coming days will show if it can hold out",
+      "link": "https://www.bbc.com/news/articles/cx2lgvg5rl1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's surviving leaders are in crisis mode, battling to project security as US and Israel strikes continue.",
+      "published": "2026-03-01T18:05:06+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "042f84c379ae5f19da1f215a6a029856535b0cc6",
       "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
       "link": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
@@ -57,15 +93,6 @@
       "published": "2026-03-01T17:30:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "815255c4c796ebdeaf3e87195909f456394f2f5d",
-      "title": "Deadly Texas bar shooting is 'potentially an act of terrorism', FBI says",
-      "link": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss",
-      "summary": "Two people were killed and 14 injured, with the suspected gunman also shot dead on the scene.",
-      "published": "2026-03-01T17:11:18+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "ffd9c99b9607d35cfa8c8bcac2f0e6f116f9ab97",
@@ -300,15 +327,6 @@
       "published": "2026-03-01T14:00:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "87bc007c2d92792080f97f5256328b0282aedb01",
-      "title": "Watch: How US-Israel strikes on Iran unfolded... in two minutes",
-      "link": "https://www.bbc.com/news/videos/clyv5rnd8r0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran launched retaliatory attacks in the Middle East after US-Israel strikes across the country.",
-      "published": "2026-03-01T13:49:35+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "b9f7c603b4929a70a7c09df768347257709aefe2",
@@ -815,15 +833,6 @@
       "category": "world"
     },
     {
-      "id": "e3e6af96b0c2b772333f5edc258e1a9e2bbdf99e",
-      "title": "AI coding agents are fueling productivity panic among executives and engineers, as a UCB study finds those offloading work to AI are also working longer hours (Issie Lapowsky/Bloomberg)",
-      "link": "http://www.techmeme.com/260228/p17#a260228p17",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-02-26/ai-coding-agents-like-claude-code-are-fueling-a-productivity-panic-in-tech\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260228/i17.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260228/p17#a260228p17\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Issie Lapowsky / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-02-26/ai-coding-agents-like-claude-code-are-fueling-a-productivity-panic-in-tech\">AI coding agents are fueling productivity panic among executives and engineers, as a UCB study finds those offloading work to AI are also working longer hours</a></b></span>&nbsp; &mdash;&nbsp; AI coding agents promised to make software development easier.&nbsp; Instead they've kicked off a high-pressure race to build at any cost.</p>",
-      "published": "2026-02-28T22:20:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "d8a1f83ebba9ae085ec774eba1317c62066477db",
       "title": "Why did Netflix back down from its deal to acquire Warner Bros.?",
       "link": "https://techcrunch.com/2026/02/28/why-did-netflix-back-down-from-its-deal-to-acquire-warner-bros/",
@@ -866,15 +875,6 @@
       "summary": "The Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
       "published": "2026-02-28T20:00:26+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "11bdd5ab7074dd78d3201d91289c349641d9235a",
-      "title": "The Rubin Observatory’s alert system sent 800,000 pings on its first night",
-      "link": "https://www.theverge.com/science/887037/vera-c-rubin-observatory-800000-alerts",
-      "summary": "The Vera C. Rubin Observatory's automated alert system is online and already bombarding astronomers with things to look at in the night sky. The system went live publicly on Tuesday, February 24th, and on the first night dropped some 800,000 alerts about asteroids, supernovas, and feasting black holes. And that number is only expected to [&#8230;]",
-      "published": "2026-02-28T19:33:51+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -1346,15 +1346,6 @@
       "category": "tech"
     },
     {
-      "id": "9b687e7006bc54364c80719d731e292269d63f02",
-      "title": "Google AI Edge Gallery",
-      "link": "https://www.producthunt.com/products/google",
-      "summary": "<p>\n            Bring on-device function calling to iPhone\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1086990?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-27T13:56:51+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "d032ac624a618c63be47a7f8cabccc43e89ef538",
       "title": "Apple says it has \"a big week ahead.\" Here's what we expect to see.",
       "link": "https://arstechnica.com/gadgets/2026/02/what-new-hardware-to-expect-from-apple-next-week/",
@@ -1549,6 +1540,15 @@
       "link": "https://www.producthunt.com/products/epismo",
       "summary": "<p>\n            Everything your agent needs to run reliably\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/epismo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1084134?app_id=339\">Link</a>\n          </p>",
       "published": "2026-02-23T08:02:36+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "08d05d81a412f38a802922f98ef7281296944900",
+      "title": "Pixel",
+      "link": "https://www.producthunt.com/products/pixel-10",
+      "summary": "<p>\n            Scale performance ads without juggling 7 ad platforms\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pixel-10?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1082403?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-19T21:49:20+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
