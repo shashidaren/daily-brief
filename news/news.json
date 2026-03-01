@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-03-01T18:24:42.915274+00:00",
+  "generatedAt": "2026-03-01T19:18:46.104023+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "0197910c85126d9d2c8a203deb286dec4129ce2a",
+      "title": "Polymarket saw $529M traded on bets tied to bombing of Iran",
+      "link": "https://techcrunch.com/2026/03/01/polymarket-saw-529m-traded-on-bets-tied-to-bombing-of-iran/",
+      "summary": "Six newly-created accounts made a profit of $1 million by correctly betting that the U.S. would strike Iran by February 28.",
+      "published": "2026-03-01T19:05:35+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "1c8cf9d879c9b4dee2abdfcd66a928e37082f7a9",
+      "title": "Let’s explore the best alternatives to Discord",
+      "link": "https://techcrunch.com/2026/03/01/best-discord-alternatives-age-verification-identity-privacy/",
+      "summary": "With many users feeling uneasy about Discord's new age verification requirement, here are some alternatives that could be worth exploring.",
+      "published": "2026-03-01T19:00:01+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "af0b5c91630094a783b05675f8b3e0246c119385",
       "title": "Chinese matchmaking apps like Wanmei Qinjia, which has 50M users and lets parents look for spouses for their children, surge as marriage rates continue to fall (Kohei Fujimura/Nikkei Asia)",
@@ -1247,15 +1265,6 @@
       "category": "tech"
     },
     {
-      "id": "4aba65a774879f39117298ba65381b07bf474e1f",
-      "title": "Anthropic vs. the Pentagon: What’s actually at stake?",
-      "link": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
-      "summary": "Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for military AI.",
-      "published": "2026-02-27T19:11:04+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "eaaee3ca3645ce8111d34f2ddd029ca1c119bc71",
       "title": "The AI apocalypse is nigh in Good Luck, Have Fun, Don't Die",
       "link": "https://arstechnica.com/culture/2026/02/the-ai-apocalypse-is-nigh-in-good-luck-have-fun-dont-die/",
@@ -1271,15 +1280,6 @@
       "summary": "I went into <em>Hyperion</em> blind, decades ago, knowing almost nothing about it. I was never the same.",
       "published": "2026-02-27T18:36:04+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "9374b0748fc2485964be0bf32170e1e5bdf43485",
-      "title": "ChatGPT reaches 900M weekly active users",
-      "link": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
-      "summary": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding.",
-      "published": "2026-02-27T18:25:51+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1517,6 +1517,15 @@
       "category": "events"
     },
     {
+      "id": "a2e9d7c63d5ad2c9d0da57bfdda51a344c1f0de0",
+      "title": "Producer AI by Google Labs",
+      "link": "https://www.producthunt.com/products/google",
+      "summary": "<p>\n            Turn ideas into tracks with your AI co-producer\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1085003?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-24T14:08:45+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "e9e485561a7bdd08cac164472d2534848062bee8",
       "title": "Claude in Excel",
       "link": "https://www.producthunt.com/products/claude",
@@ -1540,15 +1549,6 @@
       "link": "https://www.producthunt.com/products/epismo",
       "summary": "<p>\n            Everything your agent needs to run reliably\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/epismo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1084134?app_id=339\">Link</a>\n          </p>",
       "published": "2026-02-23T08:02:36+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "08d05d81a412f38a802922f98ef7281296944900",
-      "title": "Pixel",
-      "link": "https://www.producthunt.com/products/pixel-10",
-      "summary": "<p>\n            Scale performance ads without juggling 7 ad platforms\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pixel-10?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1082403?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-19T21:49:20+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
