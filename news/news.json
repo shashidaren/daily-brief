@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-03-07T21:15:23.863378+00:00",
+  "generatedAt": "2026-03-07T22:16:40.304513+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "6aabbf9f0384bac9b55130f14546a5e60767c3c8",
+      "title": "Hunting for elusive \"ghost elephants\"",
+      "link": "https://arstechnica.com/science/2026/03/hunting-for-elusive-ghost-elephants/",
+      "summary": "Werner Herzog directed this evocative NatGeo documentary of an ornithologist's quest to find a new species.",
+      "published": "2026-03-07T21:06:46+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
     {
       "id": "41a0eb9bcf971621818d8b94749ab0bb942ca40a",
       "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
@@ -1274,15 +1283,6 @@
       "category": "tech"
     },
     {
-      "id": "829137af708e66a05524f8775112bfb808f4e94a",
-      "title": "Which of these two arcades is the \"world largest\"—and does it matter?",
-      "link": "https://arstechnica.com/gaming/2026/03/which-of-these-two-arcades-is-the-world-largest-and-does-it-matter/",
-      "summary": "While semantics count for some, gamers win either way.",
-      "published": "2026-03-06T12:00:02+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
       "id": "24198b47f218cfcf969999cd939c2d37edf1b578",
       "title": "Rocket Report: SpaceX launch prices are going up; Russia fixes broken launch pad",
       "link": "https://arstechnica.com/space/2026/03/rocket-report-spacex-launch-prices-are-going-up-russia-fixes-broken-launch-pad/",
@@ -1400,6 +1400,15 @@
       "category": "world"
     },
     {
+      "id": "3f4ca03811723d55d90a39654b345daac772319c",
+      "title": "Vera Platform by Cortex Research",
+      "link": "https://www.producthunt.com/products/vera-platform-by-cortex-research",
+      "summary": "<p>\n            Your next breakthrough, accelerated by AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vera-platform-by-cortex-research?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1091013?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-06T01:06:21+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "18aea98339016978185750af291e93d5652bc207",
       "title": "ChatGPT for Excel",
       "link": "https://www.producthunt.com/products/chatgpt",
@@ -1418,11 +1427,11 @@
       "category": "world"
     },
     {
-      "id": "c46dceea2d67bbfb0bd0a8f769374613a97f5383",
-      "title": "Cushion",
-      "link": "https://www.producthunt.com/products/cushion-4",
-      "summary": "<p>\n             combines posts, messaging, + check‑ins for better teamwork\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cushion-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1090733?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-05T16:37:43+00:00",
+      "id": "6d9487526a545688319240a782947866d4c904b5",
+      "title": "GPT‑5.4",
+      "link": "https://www.producthunt.com/products/openai",
+      "summary": "<p>\n            OpenAI's most efficient model: less tokens, more clarity\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1090795?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-05T18:12:40+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1499,20 +1508,11 @@
       "category": "malaysia"
     },
     {
-      "id": "c10bdc34e4b18748d4b6f3558a87aeb4ef314315",
-      "title": "Context Gateway",
-      "link": "https://www.producthunt.com/products/context-gateway",
-      "summary": "<p>\n            Make Claude Code faster and cheaper without losing context\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/context-gateway?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1089561?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-04T04:44:04+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "e26a4f352b179bc4a52ee2d7ccd1818cba476d48",
-      "title": "Zesty by DoorDash",
-      "link": "https://www.producthunt.com/products/zesty-local-food-discovery-2",
-      "summary": "<p>\n            Your personal restaurant concierge\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zesty-local-food-discovery-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1089324?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-03T18:43:52+00:00",
+      "id": "d9d8465cc1b5ef00ebe00bbec2fbf50bdbbc5e2e",
+      "title": "CoChat",
+      "link": "https://www.producthunt.com/products/cochat",
+      "summary": "<p>\n            Openclaw for Teams that is secure, collaborative, autonomous\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cochat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1089269?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-03T16:41:21+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
