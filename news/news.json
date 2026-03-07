@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-03-07T18:24:57.678177+00:00",
+  "generatedAt": "2026-03-07T19:17:20.422332+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "e57fc154356b59f29e7a29384a4ca609e9e76e2d",
+      "title": "PopSockets founder David Barnett talks about building a viral business",
+      "link": "https://techcrunch.com/2026/03/07/popsockets-founder-david-barnett-talks-about-building-a-viral-business/",
+      "summary": "David Barnett, founder of PopSocket, stops by Equity to talk about scaling the business and what he's learned as a leader.",
+      "published": "2026-03-07T18:40:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "d05e208478fd9c7c103930b31ab86527b13fb717",
       "title": "Sony appears to be testing dynamic pricing on PlayStation games",
@@ -1382,15 +1391,6 @@
       "category": "world"
     },
     {
-      "id": "39aedf0d3cb47c878a8e250ae54d4125829274ec",
-      "title": "Anthropic to challenge DOD’s supply-chain label in court",
-      "link": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
-      "summary": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk. He claims most Anthropic customers are unaffected by the label.",
-      "published": "2026-03-06T01:28:54+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "3f4ca03811723d55d90a39654b345daac772319c",
       "title": "Vera Platform by Cortex Research",
       "link": "https://www.producthunt.com/products/vera-platform-by-cortex-research",
@@ -1425,15 +1425,6 @@
       "published": "2026-03-05T23:13:57+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "6d9487526a545688319240a782947866d4c904b5",
-      "title": "GPT‑5.4",
-      "link": "https://www.producthunt.com/products/openai",
-      "summary": "<p>\n            OpenAI's most efficient model: less tokens, more clarity\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1090795?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-05T18:12:40+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "c46dceea2d67bbfb0bd0a8f769374613a97f5383",
@@ -1576,6 +1567,15 @@
       "link": "https://www.producthunt.com/products/testsprite",
       "summary": "<p>\n            Agentic testing for the AI-native team.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/testsprite?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1079493?app_id=339\">Link</a>\n          </p>",
       "published": "2026-02-14T19:43:21+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "8b7388a0d33cd097b3a4500c08790f890ee6fb0e",
+      "title": "Gemlet",
+      "link": "https://www.producthunt.com/products/gemlet",
+      "summary": "<p>\n            Native, keyboard-first Gemini client for macOS\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gemlet?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1079070?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-13T20:51:20+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
