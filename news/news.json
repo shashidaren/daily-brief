@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-03-07T17:16:00.989613+00:00",
+  "generatedAt": "2026-03-07T18:24:57.678177+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "d05e208478fd9c7c103930b31ab86527b13fb717",
+      "title": "Sony appears to be testing dynamic pricing on PlayStation games",
+      "link": "https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games",
+      "summary": "A site called PSprices has been tracking prices on Sony's digital game store and noticed something unusual: some games were being offered at different prices to different users. What's more, those offers are tracked in the PlayStation API with experiment identifiers like IPT_PILOT and IPT_OPR_TESTING. Dynamic pricing is nothing new and is used across a [&#8230;]",
+      "published": "2026-03-07T17:52:10+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "b2a05a9204014eb05e0acb12493c9b6e9f16d47f",
+      "title": "Caitlin Kalinowski, OpenAI's head of hardware and robotics, resigns over concerns about domestic surveillance and autonomous weapons after OpenAI's DOD contract (Sharon Goldman/Fortune)",
+      "link": "http://www.techmeme.com/260307/p11#a260307p11",
+      "summary": "<a href=\"https://fortune.com/2026/03/07/openai-robotics-leader-caitlin-kalinowski-resignation-pentagon-surveillance-autonomous-weapons-anthropic/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260307/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260307/p11#a260307p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sharon Goldman / <a href=\"http://www.fortune.com/\">Fortune</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://fortune.com/2026/03/07/openai-robotics-leader-caitlin-kalinowski-resignation-pentagon-surveillance-autonomous-weapons-anthropic/\">Caitlin Kalinowski, OpenAI's head of hardware and robotics, resigns over concerns about domestic surveillance and autonomous weapons after OpenAI's DOD contract</a></b></span>&nbsp; &mdash;&nbsp; Caitlin Kalinowski, who had been leading hardware and robotic engineering teams at OpenAI since November 2024, announced she has left the company.</p>",
+      "published": "2026-03-07T17:42:34+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "8160f43df9d407fd1bad8897f28d66be338f1574",
+      "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
+      "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
+      "summary": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
+      "published": "2026-03-07T17:28:41+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "de41c4f4078bb3d3e4f79570f267fddff3e31496",
       "title": "Sources: Palmer Luckey's ModRetro, which wants to sell updated versions of 1990s consoles like the Nintendo 64, is in talks to raise funding at a $1B valuation (Financial Times)",
@@ -734,15 +761,6 @@
       "category": "world"
     },
     {
-      "id": "8159590c4615bd58088ccbd6bb59ee84436b88d7",
-      "title": "Sources: Kalshi and Polymarket are each eyeing valuations of ~$20B in fundraising talks; Kalshi was valued at $11B in December and Polymarket at $9B in October (Wall Street Journal)",
-      "link": "http://www.techmeme.com/260306/p31#a260306p31",
-      "summary": "<a href=\"https://www.wsj.com/finance/kalshi-and-polymarket-are-each-eyeing-roughly-20-billion-valuations-d7b9c5d8?st=35GUmZ&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260306/i31.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260306/p31#a260306p31\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/finance/kalshi-and-polymarket-are-each-eyeing-roughly-20-billion-valuations-d7b9c5d8?st=35GUmZ&amp;reflink=desktopwebshare_permalink\">Sources: Kalshi and Polymarket are each eyeing valuations of ~$20B in fundraising talks; Kalshi was valued at $11B in December and Polymarket at $9B in October</a></b></span>&nbsp; &mdash;&nbsp; Prediction market rivals are speaking to investors about roughly doubling their previous valuations</p>",
-      "published": "2026-03-07T00:10:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "c7df36a0d2af9f184e2674cf56d4ad316f54830b",
       "title": "Ding-dong! The Exploration Upper Stage is dead",
       "link": "https://arstechnica.com/space/2026/03/ding-dong-the-exploration-upper-stage-is-dead/",
@@ -838,15 +856,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
       "summary": "Grammarly's \"expert review\" feature offers to give users writing advice \"inspired by\" subject matter experts, including recently deceased professors, as Wired reported on Wednesday. When I tried the feature out myself, I found some experts that came as a surprise for a different reason - one of them was my boss. The AI-generated feedback included [&#8230;]",
       "published": "2026-03-06T20:58:24+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "2f336e9334f64d111d58ec4f557f0f4c8ea3aa48",
-      "title": "The best microSD Express card for the Switch 2 is the cheapest one you can find",
-      "link": "https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy",
-      "summary": "Unlike the original Switch, the Nintendo Switch 2 requires microSD Express cards for storing and playing games. While physically identical to microSD cards (aside from a small, easy-to-miss “EX” emblem etched onto the front of the card, as highlighted in the main image above), microSD Express cards are significantly faster. They advertise a 4.4x increase [&#8230;]",
-      "published": "2026-03-06T20:30:00+00:00",
       "source": "The Verge",
       "category": "tech"
     },
@@ -1409,15 +1418,6 @@
       "category": "events"
     },
     {
-      "id": "e8407cd5e32b2acffecb2e8e8b91346ccf9f438d",
-      "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
-      "link": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
-      "summary": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.",
-      "published": "2026-03-05T23:14:04+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "6b4a74d3df926d911292ccd1280df20fe3f5557e",
       "title": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
       "link": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
@@ -1425,6 +1425,15 @@
       "published": "2026-03-05T23:13:57+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "6d9487526a545688319240a782947866d4c904b5",
+      "title": "GPT‑5.4",
+      "link": "https://www.producthunt.com/products/openai",
+      "summary": "<p>\n            OpenAI's most efficient model: less tokens, more clarity\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1090795?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-05T18:12:40+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "c46dceea2d67bbfb0bd0a8f769374613a97f5383",
@@ -1517,29 +1526,20 @@
       "category": "malaysia"
     },
     {
-      "id": "e26a4f352b179bc4a52ee2d7ccd1818cba476d48",
-      "title": "Zesty by DoorDash",
-      "link": "https://www.producthunt.com/products/zesty-local-food-discovery-2",
-      "summary": "<p>\n            Your personal restaurant concierge\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zesty-local-food-discovery-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1089324?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-03T18:43:52+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "d9d8465cc1b5ef00ebe00bbec2fbf50bdbbc5e2e",
-      "title": "CoChat",
-      "link": "https://www.producthunt.com/products/cochat",
-      "summary": "<p>\n            Openclaw for Teams that is secure, collaborative, autonomous\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cochat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1089269?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-03T16:41:21+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "8f363beac1275f6aed395d1b0bc438919dcae1de",
       "title": "Tailwind Form Builder",
       "link": "https://www.producthunt.com/products/sheet-monkey",
       "summary": "<p>\n            Create responsive HTML forms in minutes. No login required.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sheet-monkey?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1089217?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-03T15:08:05+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "494f973f1abbe30115508852c2cd73736a7de8bc",
+      "title": "SuperPowers AI",
+      "link": "https://www.producthunt.com/products/superpowers-ai-2",
+      "summary": "<p>\n            Real time ambient visual agents for phones and wearables\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/superpowers-ai-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1088206?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-02T02:11:28+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
