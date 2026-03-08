@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-03-08T20:18:43.486671+00:00",
+  "generatedAt": "2026-03-08T21:17:10.775706+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "2241edf14dfafe20546760e84f37068aac584eb0",
+      "title": "Roundup: Finland&#039;s nuclear weapons ban lift plan sparks broad debate",
+      "link": "https://www.thestar.com.my/news/world/2026/03/09/roundup-finland039s-nuclear-weapons-ban-lift-plan-sparks-broad-debate",
+      "summary": "HELSINKI, March 8 (Xinhua) -- Finland's plan to lift its long-standing legal ban on nuclear weapons has triggered an unusually broad debate, with opposition parties, experts and peace advocates questioning not only how the decision was made, but also whether it could distance Finland from the Nordic security tradition and ultimately make the country less secure. <a href=\"https://www.thestar.com.my/news/world/2026/03/09/roundup-finland039s-nuclear-weapons-ban-lift-plan-sparks-broad-debate\">Read full story</a>",
+      "published": "2026-03-08T20:58:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "a23e90c94edb0e6964e5e79d69fbb18711e4bc91",
+      "title": "Luma AI debuts Uni-1, an image model that combines image understanding and generation in a single architecture, topping Nano Banana 2 on logic-based benchmarks (Matthias Bastian/The Decoder)",
+      "link": "http://www.techmeme.com/260308/p11#a260308p11",
+      "summary": "<a href=\"https://the-decoder.com/luma-ais-new-uni-1-image-model-tops-nano-banana-2-and-gpt-image-1-5-on-logic-based-benchmarks/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260308/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260308/p11#a260308p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Matthias Bastian / <a href=\"https://the-decoder.com/\">The Decoder</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://the-decoder.com/luma-ais-new-uni-1-image-model-tops-nano-banana-2-and-gpt-image-1-5-on-logic-based-benchmarks/\">Luma AI debuts Uni-1, an image model that combines image understanding and generation in a single architecture, topping Nano Banana 2 on logic-based benchmarks</a></b></span>&nbsp; &mdash;&nbsp; Ask about this article...&nbsp; Like Google's Nano Banana Pro and GPT Image 1.5, Uni-1 is built on an autoregressive transformer &hellip; </p>",
+      "published": "2026-03-08T20:55:06+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "287098a53388dbedc5b78dcfe322fe8f1cb52f96",
+      "title": "Swiss reject right-wing plan to cut licence fee for public broadcaster",
+      "link": "https://www.bbc.com/news/articles/c0q32322wq8o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 60% voters said they wanted to keep the current licence fee levels, initial projections show.",
+      "published": "2026-03-08T20:47:29+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "cef81c1f5df8ea35ce3919cd2d4473947596618f",
       "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
@@ -203,15 +230,6 @@
       "category": "malaysia"
     },
     {
-      "id": "e7cf81feb31ea6702330367296434bfc11cd934a",
-      "title": "Volunteer fireman drowns after falling off boat",
-      "link": "https://www.thestar.com.my/news/nation/2026/03/08/volunteer-fireman-drowns-after-falling-off-boat",
-      "summary": "IPOH: A 24-year-old man is feared drowned after falling off a boat into a lake at Bandar Baru Lahat Mines here. <a href=\"https://www.thestar.com.my/news/nation/2026/03/08/volunteer-fireman-drowns-after-falling-off-boat\">Read full story</a>",
-      "published": "2026-03-08T14:48:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "202f27b442c77045abbe4afe99f4a542a51e186d",
       "title": "9to5Toys News Weekly recap – Mario Day 2026, MacBook Neo, next-gen Xbox, more",
       "link": "https://9to5toys.com/2026/03/08/news-weekly-recap-mario-day-2026/",
@@ -264,15 +282,6 @@
       "published": "2026-03-08T13:13:03+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "287098a53388dbedc5b78dcfe322fe8f1cb52f96",
-      "title": "Swiss reject right-wing plan to cut licence fee for public broadcaster",
-      "link": "https://www.bbc.com/news/articles/c0q32322wq8o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 60% voters said they wanted to keep the current licence fee levels, initial projections show.",
-      "published": "2026-03-08T13:12:54+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "195a6183c7c00aee80ce729bcf15d198326351a0",
@@ -795,15 +804,6 @@
       "published": "2026-03-07T16:53:57+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "b2a05a9204014eb05e0acb12493c9b6e9f16d47f",
-      "title": "Caitlin Kalinowski, OpenAI's head of hardware and robotics, resigns over concerns about domestic surveillance and autonomous weapons after OpenAI's DOD contract (Sharon Goldman/Fortune)",
-      "link": "http://www.techmeme.com/260307/p11#a260307p11",
-      "summary": "<a href=\"https://fortune.com/2026/03/07/openai-robotics-leader-caitlin-kalinowski-resignation-pentagon-surveillance-autonomous-weapons-anthropic/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260307/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260307/p11#a260307p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sharon Goldman / <a href=\"http://www.fortune.com/\">Fortune</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://fortune.com/2026/03/07/openai-robotics-leader-caitlin-kalinowski-resignation-pentagon-surveillance-autonomous-weapons-anthropic/\">Caitlin Kalinowski, OpenAI's head of hardware and robotics, resigns over concerns about domestic surveillance and autonomous weapons after OpenAI's DOD contract</a></b></span>&nbsp; &mdash;&nbsp; Caitlin Kalinowski, who had been leading hardware and robotic engineering teams at OpenAI since November 2024, announced she has left the company.</p>",
-      "published": "2026-03-07T16:42:34+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "e45c4fff7d0d64de2a6e38e696859f7f0822e757",
@@ -1445,15 +1445,6 @@
       "category": "events"
     },
     {
-      "id": "6fd912711c94795fcc752395f7d7857259171910",
-      "title": "Cockpit",
-      "link": "https://www.producthunt.com/products/cockpit-3",
-      "summary": "<p>\n            Transform your VPS into a powerful desktop-like interface\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cockpit-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1090621?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-05T13:30:51+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "8912a2c633252303909f20a8ec536303960aa935",
       "title": "Tesla Supercharger Malaysia now support non-Tesla EVs: Here’s what you need to know",
       "link": "https://soyacincau.com/2026/03/05/tesla-supercharger-malaysia-support-non-other-evs-guide/",
@@ -1515,6 +1506,15 @@
       "published": "2026-03-04T09:28:55+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "d9d8465cc1b5ef00ebe00bbec2fbf50bdbbc5e2e",
+      "title": "CoChat",
+      "link": "https://www.producthunt.com/products/cochat",
+      "summary": "<p>\n            Openclaw for Teams that is secure, collaborative, autonomous\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cochat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1089269?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-03T16:41:21+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "8f363beac1275f6aed395d1b0bc438919dcae1de",
