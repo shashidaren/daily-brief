@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-03-08T19:19:16.493611+00:00",
+  "generatedAt": "2026-03-08T20:18:43.486671+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "cef81c1f5df8ea35ce3919cd2d4473947596618f",
+      "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+      "link": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+      "summary": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
+      "published": "2026-03-08T20:14:42+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "31f45faf9796692bbc712f2cbde484102f3fab5b",
+      "title": "&quot;Hoppers&quot; tops North American box office in opening weekend",
+      "link": "https://www.thestar.com.my/news/world/2026/03/09/hoppers-tops-north-american-box-office-in-opening-weekend",
+      "summary": "LOS ANGELES, March 8 (Xinhua) -- Disney and Pixar's animated film \"Hoppers\" took the top spot at the North American box office with an estimated three-day cume of 46 million U.S. dollars in its opening weekend, according to figures released by Comscore on Sunday. <a href=\"https://www.thestar.com.my/news/world/2026/03/09/hoppers-tops-north-american-box-office-in-opening-weekend\">Read full story</a>",
+      "published": "2026-03-08T20:07:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
     {
       "id": "16e2fa940c7165392845f5d5765aca841c45de8a",
       "title": "How Circle, Stripe, Coinbase, and others are building stablecoin-based agentic payments infrastructure that makes microtransactions between AI agents economical (Emily Mason/Bloomberg)",
@@ -219,15 +237,6 @@
       "published": "2026-03-08T14:00:01+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "1f762b05130aca4aa8b649e630f95ff93737bfca",
-      "title": "Swiss voters set to reject plan to cut funding for state broadcaster",
-      "link": "https://www.thestar.com.my/news/world/2026/03/08/swiss-voters-set-to-reject-plan-to-cut-funding-for-state-broadcaster",
-      "summary": "ZURICH, March ⁠8 (Reuters) - Swiss voters looked set on Sunday to reject ⁠a referendum to slash public broadcaster SRG's funding, with ‌early projections showing 62% opposing a plan to cut the annual licence fee, a move critics warned would weaken media and fuel disinformation. <a href=\"https://www.thestar.com.my/news/world/2026/03/08/swiss-voters-set-to-reject-plan-to-cut-funding-for-state-broadcaster\">Read full story</a>",
-      "published": "2026-03-08T14:00:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "7bcf796b70dd7c3b39073f5abe7e32c9b63834b0",
@@ -1247,15 +1256,6 @@
       "category": "tech"
     },
     {
-      "id": "9bb30addfe847ba41c031e1fdae390526f53ed07",
-      "title": "India PC shipments surpass pandemic peak as first-time users upgrade",
-      "link": "https://techcrunch.com/2026/03/06/india-pc-shipments-surpass-pandemic-peak-as-first-time-users-upgrade/",
-      "summary": "Pandemic-driven lockdowns exposed many people in India to PCs for the first time, expanding the country's PC userbase and creating demand for upgrades as those devices age.",
-      "published": "2026-03-06T17:51:49+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "5927ee094f326969ed072e3abe2a7732aea4840d",
       "title": "Americans trust Fauci over RFK Jr. and career scientists over Trump officials",
       "link": "https://arstechnica.com/health/2026/03/americans-trust-fauci-over-rfk-jr-and-career-scientists-over-trump-officials/",
@@ -1445,6 +1445,15 @@
       "category": "events"
     },
     {
+      "id": "6fd912711c94795fcc752395f7d7857259171910",
+      "title": "Cockpit",
+      "link": "https://www.producthunt.com/products/cockpit-3",
+      "summary": "<p>\n            Transform your VPS into a powerful desktop-like interface\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cockpit-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1090621?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-05T13:30:51+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "8912a2c633252303909f20a8ec536303960aa935",
       "title": "Tesla Supercharger Malaysia now support non-Tesla EVs: Here’s what you need to know",
       "link": "https://soyacincau.com/2026/03/05/tesla-supercharger-malaysia-support-non-other-evs-guide/",
@@ -1461,6 +1470,15 @@
       "published": "2026-03-05T10:29:03+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "f2d74cb20c82f22108b8f34eda84c755657d0fcf",
+      "title": "Pitwall F1",
+      "link": "https://www.producthunt.com/products/pitwall-f1-macos-app",
+      "summary": "<p>\n            Live F1 timing & standings in your Mac menu bar\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pitwall-f1-macos-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1090432?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-05T08:55:55+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "241d6be502852eca9ed82513903ce7cb15c4b217",
@@ -1497,24 +1515,6 @@
       "published": "2026-03-04T09:28:55+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "e26a4f352b179bc4a52ee2d7ccd1818cba476d48",
-      "title": "Zesty by DoorDash",
-      "link": "https://www.producthunt.com/products/zesty-local-food-discovery-2",
-      "summary": "<p>\n            Your personal restaurant concierge\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zesty-local-food-discovery-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1089324?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-03T18:43:52+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "d9d8465cc1b5ef00ebe00bbec2fbf50bdbbc5e2e",
-      "title": "CoChat",
-      "link": "https://www.producthunt.com/products/cochat",
-      "summary": "<p>\n            Openclaw for Teams that is secure, collaborative, autonomous\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cochat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1089269?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-03T16:41:21+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "8f363beac1275f6aed395d1b0bc438919dcae1de",
