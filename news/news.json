@@ -1,233 +1,386 @@
 {
-  "generatedAt": "2026-03-10T01:22:53.221692+00:00",
+  "generatedAt": "2026-03-10T04:03:18.320545+00:00",
   "counts": {
     "total": 175
   },
   "items": [
     {
-      "id": "c65bb85e16608bf56d8eb8e1353aef82403ea086",
-      "title": "A child’s drawing, a pilot’s heart: Malaysia Airlines unveils new campaign inspired by young fan",
-      "link": "https://www.malaymail.com/news/life/2026/03/10/a-childs-drawing-a-pilots-heart-malaysia-airlines-unveils-new-campaign-inspired-by-young-fan/212035",
-      "summary": "SEPANG, March 10 &mdash; Malaysia Airlines has turned a young passenger&rsquo;s heartfelt gratitude into a global brand...",
-      "published": "2026-03-10T01:20:37+00:00",
+      "id": "0a0b0e6227bdfffcf43e29f50c489d488bdec4db",
+      "title": "Indonesian rescuers end search after seven killed in massive landfill landslide",
+      "link": "https://www.malaymail.com/news/malaysia/2026/03/10/indonesian-rescuers-end-search-after-seven-killed-in-massive-landfill-landslide/212061",
+      "summary": "&nbsp;JAKARTA, March 10 &mdash; Indonesian rescuers have called off the search for victims of a landslide at the country...",
+      "published": "2026-03-10T04:00:45+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
-      "id": "737005c5a13d5fae983a4adc6dba16057b8c7a62",
-      "title": "Colombia&#039;s ruling party to be top force in Senate, but without majority",
-      "link": "https://www.thestar.com.my/news/world/2026/03/10/colombia039s-ruling-party-to-be-top-force-in-senate-but-without-majority",
-      "summary": "BOGOTA, March ⁠9 (Reuters) - Colombia's ruling party, the left-leaning Historic Pact, emerged from Sunday's elections ⁠as the strongest political force in the incoming Senate, analysts said ‌on Monday, although its failure to secure an absolute majority means it will need to form coalitions and may struggle if Colombia's divided right wing wins the presidency. <a href=\"https://www.thestar.com.my/news/world/2026/03/10/colombia039s-ruling-party-to-be-top-force-in-senate-but-without-majority\">Read full story</a>",
-      "published": "2026-03-10T01:19:00+00:00",
+      "id": "fe52756b48014984d396c39dd5a219d8b098ba5c",
+      "title": "Driver loses control, crashes into another car in Taiping",
+      "link": "https://www.thestar.com.my/news/nation/2026/03/10/driver-loses-control-crashes-into-another-car-in-taiping",
+      "summary": "IPOH: Two men in their 50s were seriously injured after a car lost control and crashed into them at an eatery in Taman Kota Jaya in Taiping <a href=\"https://www.thestar.com.my/news/nation/2026/03/10/driver-loses-control-crashes-into-another-car-in-taiping\">Read full story</a>",
+      "published": "2026-03-10T03:53:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
     },
     {
-      "id": "ceee3d7f08d00fcf7c073c302fe428fd93c03c15",
-      "title": "Indonesian woman dies after falling into Cheras lake while fleeing embassy officers",
-      "link": "https://www.malaymail.com/news/malaysia/2026/03/10/indonesian-woman-dies-after-falling-into-cheras-lake-while-fleeing-embassy-officers/212033",
-      "summary": "KUALA LUMPUR, March 10 &mdash; An Indonesian woman believed to have been fleeing from embassy officers died after fallin...",
-      "published": "2026-03-10T01:17:25+00:00",
+      "id": "7c74f736cb1f4f92ba35bc36d6e878ceee91100a",
+      "title": "JPJ warns Thai vehicles: No ICP, no entry into Malaysia beyond border checkpoints",
+      "link": "https://www.malaymail.com/news/malaysia/2026/03/10/jpj-warns-thai-vehicles-no-icp-no-entry-into-malaysia-beyond-border-checkpoints/212060",
+      "summary": "ARAU, March 10 &mdash; The Road Transport Department (JPJ) will not compromise with any Thai vehicle entering the countr...",
+      "published": "2026-03-10T03:49:18+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
-      "id": "844a52d05a32d8abdc907c7df876b6cd3e091120",
-      "title": "Sabah Bersatu Armada leaders quit over party infighting",
-      "link": "https://www.thestar.com.my/news/nation/2026/03/10/sabah-bersatu-armada-leaders-quit-over-party-infighting",
-      "summary": "KOTA KINABALU: A total of 15 leaders of Bersatu youth wing (Armada) in Sabah on Monday (March 9) announced they are leaving the party with immediate effect. <a href=\"https://www.thestar.com.my/news/nation/2026/03/10/sabah-bersatu-armada-leaders-quit-over-party-infighting\">Read full story</a>",
-      "published": "2026-03-10T01:14:00+00:00",
+      "id": "ac89f24e2a2460a8f4f238135aa4f2a7499df5e9",
+      "title": "Champions League drama set as PSG, Chelsea, Real Madrid and Man City headline last-16 ties",
+      "link": "https://www.malaymail.com/news/sports/2026/03/10/champions-league-drama-set-as-psg-chelsea-real-madrid-and-man-city-headline-last-16-ties/212059",
+      "summary": "PARIS, March 10 &mdash; Tomorrow's&nbsp;Champions League action sees Paris Saint-Germain and Chelsea meet for the fi...",
+      "published": "2026-03-10T03:47:40+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "d9b0049c662c9a8301f26d1f7a3417e9a3d51315",
+      "title": "Tune Talk Launches Country’s First Cloud-Native Mobile Network On AWS",
+      "link": "https://www.lowyat.net/2026/385854/tune-talk-launches-cloud-native-mobile-network-aws/",
+      "summary": "<p>Tune Talk has just announced that it has launched the country’s first cloud-native core network on Amazon Web Services (AWS). The move is part of the company’s effort to modernise its network infrastructure and prepare for future 5G services. If you may recall, AWS first launched in the country back in 2024, with the goal [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/385854/tune-talk-launches-cloud-native-mobile-network-aws/\">Tune Talk Launches Country’s First Cloud-Native Mobile Network On AWS</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-03-10T03:45:54+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "07f690935841249bd730354a49b1e54fc43cba98",
+      "title": "Real Madrid enter Champions League clash as underdogs against Manchester City",
+      "link": "https://www.malaymail.com/news/sports/2026/03/10/real-madrid-enter-champions-league-clash-as-underdogs-against-manchester-city/212058",
+      "summary": "MADRID, March 10 &mdash;&nbsp;Rarely do record 15-time winners Real Madrid enter a Champions League clash as underdogs,...",
+      "published": "2026-03-10T03:40:57+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "aff92765570edfe631d66113c1013f0b73c054f3",
+      "title": "Sources: Apple made ~55M iPhones in India in 2025, up 53% YoY from 36M in 2024, ~25% of total iPhone production as it shifts away from China to avoid tariffs (Sankalp Phartiyal/Bloomberg)",
+      "link": "http://www.techmeme.com/260309/p44#a260309p44",
+      "summary": "<p><a href=\"http://www.techmeme.com/260309/p44#a260309p44\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sankalp Phartiyal / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-03-10/apple-now-makes-about-25-of-iphones-in-india-after-china-pivot\">Sources: Apple made ~55M iPhones in India in 2025, up 53% YoY from 36M in 2024, ~25% of total iPhone production as it shifts away from China to avoid tariffs</a></b></span>&nbsp; &mdash;&nbsp; Apple Inc. increased iPhone production in India by about 53% last year and now makes a quarter of its marquee devices there &hellip; </p>",
+      "published": "2026-03-10T03:40:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "b6801b9f5f62a071056834a4fe841f6fa1c438f6",
+      "title": "JPJ suspends bus driver&#039;s licence after Johor crash that left 10 hurt",
+      "link": "https://www.thestar.com.my/news/nation/2026/03/10/jpj-suspends-bus-driver039s-licence-after-johor-crash-that-left-10-hurt",
+      "summary": "ALOR SETAR: The Road Transport Department (JPJ) has suspended, with immediate effect, the Public Service Vehicle (PSV) licence of an express bus driver involved in a crash that left 10 passengers injured at KM19 of Jalan Johor Baru-Air Hitam in Johor on Sunday (March 8). <a href=\"https://www.thestar.com.my/news/nation/2026/03/10/jpj-suspends-bus-driver039s-licence-after-johor-crash-that-left-10-hurt\">Read full story</a>",
+      "published": "2026-03-10T03:37:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
     },
     {
-      "id": "0855bc0fb545b600f56561e568e3eac3881949d1",
-      "title": "Veteran journo Adibah Amin stable, requires full-time care",
-      "link": "https://www.thestar.com.my/news/nation/2026/03/10/veteran-journo-adibah-amin-stable-requires-full-time-care",
-      "summary": "PETALING JAYA: National Journalism Laureate Khalidah Adibah Amin is in stable condition, although she is physically weak and requires full-time care. <a href=\"https://www.thestar.com.my/news/nation/2026/03/10/veteran-journo-adibah-amin-stable-requires-full-time-care\">Read full story</a>",
-      "published": "2026-03-10T01:13:00+00:00",
+      "id": "aacdc2c9071bf232959c1935f8698812ad1dad08",
+      "title": "JPJ suspends bus driver’s licence after Johor crash that injured 10",
+      "link": "https://www.malaymail.com/news/malaysia/2026/03/10/jpj-suspends-bus-drivers-licence-after-johor-crash-that-injured-10/212057",
+      "summary": "ALOR SETAR, March 10 &mdash; The Road Transport Department (JPJ) has suspended, with immediate effect, the Public Servic...",
+      "published": "2026-03-10T03:36:34+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "53dbdab1a37e67e8b2b11cc1e6af55d6c5c9d6ad",
+      "title": "North Korea warns of ‘terrible consequences’ over South Korea-US military drills",
+      "link": "https://www.malaymail.com/news/world/2026/03/10/north-korea-warns-of-terrible-consequences-over-south-korea-us-military-drills/212056",
+      "summary": "SEOUL, March 10 &mdash; The powerful sister of North Korea&rsquo;s leader warned of &ldquo;terrible consequences&rdquo;...",
+      "published": "2026-03-10T03:29:57+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "74252c2f6dbcef60f15cee1b61c40b9860ee9624",
+      "title": "Man claims his three cars were set on fire in Puchong",
+      "link": "https://www.thestar.com.my/news/nation/2026/03/10/man-claims-his-three-cars-were-set-on-fire-in-puchong",
+      "summary": "PETALING JAYA: A man claimed on social media that his cars have been set on fire in Taman Kinrara, Puchong, Selangor. <a href=\"https://www.thestar.com.my/news/nation/2026/03/10/man-claims-his-three-cars-were-set-on-fire-in-puchong\">Read full story</a>",
+      "published": "2026-03-10T03:29:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
     },
     {
-      "id": "45404511e14cb8239f00ab912bd3b86125b002db",
-      "title": "Bandar Kuching MP presses EC to fix voter imbalances, warning against gerrymandering and rushed four-month timeline",
-      "link": "https://www.malaymail.com/news/malaysia/2026/03/10/bandar-kuching-mp-presses-ec-to-fix-voter-imbalances-warning-against-gerrymandering-and-rushed-four-month-timeline/212032",
-      "summary": "KUALA LUMPUR, March 10 &mdash; Bandar Kuching Member of Parliament (MP) Dr Kelvin Yii Lee Wuen has urged the Election Co...",
-      "published": "2026-03-10T01:10:46+00:00",
-      "source": "Malay Mail  -  All",
+      "id": "67bb4620fbfdcafc3e833678824c194994e5e7c0",
+      "title": "JomCharge x DBKL deploy EV Chargers at TK Bakery Bandar Menjalara Kepong, 50% off this weekend",
+      "link": "https://soyacincau.com/2026/03/10/jomcharge-dbkl-ev-chargers-tk-bakery-bandar-menjalara-kepong/",
+      "summary": "JomCharge x DBKL continue to deploy more street-level EV chargers and the latest location is at Bandar Menjalara Kepong. As part of its opening promo, they are offering 50% off for EV charging this coming weekend. This is #JomChargeDiKL location #13 and the destination charger allows EV users to top up their vehicle while running [&#8230;]",
+      "published": "2026-03-10T03:28:29+00:00",
+      "source": "SoyaCincau",
       "category": "malaysia"
     },
     {
-      "id": "a44e568cea9a678be40c31401a05caa6a6edb9d4",
-      "title": "Manchester City set for blockbuster FA Cup quarter-final against Liverpool",
-      "link": "https://www.malaymail.com/news/sports/2026/03/10/manchester-city-set-for-blockbuster-fa-cup-quarter-final-against-liverpool/212029",
-      "summary": "LONDON, March 10 &mdash; Manchester City will face Liverpool in a blockbuster FA Cup quarter-final, while quadruple-chas...",
-      "published": "2026-03-10T01:09:49+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "991de8b93366c8dd9d926d1a6f47f5a3aa50c858",
-      "title": "West Ham reach FA Cup quarter-finals after penalty shoot-out drama against Brentford",
-      "link": "https://www.malaymail.com/news/sports/2026/03/10/west-ham-reach-fa-cup-quarter-finals-after-penalty-shoot-out-drama-against-brentford/212028",
-      "summary": "LONDON, March 10 &mdash; West Ham moved into the FA Cup quarter-finals with a 5-3 penalty shoot-out win against Brentfor...",
-      "published": "2026-03-10T01:09:34+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "00df08c8b4726f17ba115a7aad55ce9656905fa8",
-      "title": "Paul Scholes clarifies criticism of Michael Carrick, insists no offence intended",
-      "link": "https://www.malaymail.com/news/sports/2026/03/10/paul-scholes-clarifies-criticism-of-michael-carrick-insists-no-offence-intended/212027",
-      "summary": "LONDON, March 10 &mdash; Paul Scholes claims he did not mean to offend former Manchester United team-mate Michael Carric...",
-      "published": "2026-03-10T01:09:27+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "bd6ccd0296a82272e5ef6ead53de435230b2c00f",
-      "title": "Masked men torch three cars belonging to ‘Cikgu Chandra’ in Shah Alam (VIDEO)",
-      "link": "https://www.malaymail.com/news/malaysia/2026/03/10/masked-men-torch-three-cars-belonging-to-cikgu-chandra-in-shah-alam-video/212031",
-      "summary": "SHAH ALAM, March 10 &nbsp;&mdash; Three cars belonging to an individual known as Cikgu Chandra were set on fire, alleged...",
-      "published": "2026-03-10T01:09:14+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "b2b7bf4a6d4289ff705bbfece0b100297cecbeb0",
-      "title": "From date brownies dipped in ‘kaya’ to light-as-cloud biscuits: Raya treats worth seeking out",
-      "link": "https://www.malaymail.com/news/eat-drink/2026/03/10/from-date-brownies-dipped-in-kaya-to-light-as-cloud-biscuits-raya-treats-worth-seeking-out/212030",
-      "summary": "KUALA LUMPUR, Mar 10 &mdash; Jars begin to fill and boxes are tied with ribbon. The approach of Hari Raya means it&amp;rsquo...",
-      "published": "2026-03-10T01:06:42+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "61624c76f2f16c828707c79db1b7dd01351d3f2c",
-      "title": "Electrical fault behind deadly Raub fire that claimed five family members, Sultan pledges new home for grieving survivors",
-      "link": "https://www.malaymail.com/news/malaysia/2026/03/10/electrical-fault-behind-deadly-raub-fire-that-claimed-five-family-members-sultan-pledges-new-home-for-grieving-survivors/212025",
-      "summary": "KUANTAN, March 10 &mdash; A fire that claimed the lives of five family members at a house in Kampung Pamah Kulat, Raub o...",
-      "published": "2026-03-10T01:06:19+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "dc800718d4307c21031cc829306de7fd48715b20",
-      "title": "Lawsuit challenges Trump administration&#039;s ending of protections for Somalis",
-      "link": "https://www.thestar.com.my/news/world/2026/03/10/lawsuit-challenges-trump-administration039s-ending-of-protections-for-somalis",
-      "summary": "BOSTON, March 9 (Reuters) - Immigrant rights ⁠advocates filed a lawsuit on Monday seeking to stop U.S. President Donald Trump's administration from next week ending legal ⁠protections that allow nearly 1,100 Somalis to live and work in the United States. <a href=\"https://www.thestar.com.my/news/world/2026/03/10/lawsuit-challenges-trump-administration039s-ending-of-protections-for-somalis\">Read full story</a>",
-      "published": "2026-03-10T01:06:00+00:00",
+      "id": "836630a12c8b5d80bb545e28d302e131c913f7f5",
+      "title": "Practise prudence when it comes to sensitive issues, says National Unity Minister",
+      "link": "https://www.thestar.com.my/news/nation/2026/03/10/practise-prudence-when-it-comes-to-sensitive-issues-says-national-unity-minister",
+      "summary": "PETALING JAYA: Malaysians should not act emotionally and must always be prudent when it comes to sensitive issues, says National Unity Minister Datuk Aaron Ago Dagang. <a href=\"https://www.thestar.com.my/news/nation/2026/03/10/practise-prudence-when-it-comes-to-sensitive-issues-says-national-unity-minister\">Read full story</a>",
+      "published": "2026-03-10T03:28:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
     },
     {
-      "id": "5f1cafbd96a81c20d73b7cfbf508ff807cfb7ed8",
-      "title": "Founders Fund nears $6 billion close for latest growth fund, sources say",
-      "link": "https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/",
-      "summary": "The firm is raising this growth fund less than a year after closing its previous $4.6 billion vehicle.",
-      "published": "2026-03-10T01:03:48+00:00",
+      "id": "facb64cb5037b9165d91ebb6dc62bcc9bd1c6883",
+      "title": "MACC busts cross-border fraud ring in joint op with China, seizes RM3.5mil in assets",
+      "link": "https://www.thestar.com.my/news/nation/2026/03/10/macc-busts-cross-border-fraud-ring-in-joint-op-with-china-seizes-rm35mil-in-assets",
+      "summary": "KUALA LUMPUR: The Malaysian Anti-Corruption Commission (MACC) and Chinese authorities have jointly crippled an international scam syndicate believed to be run by Chinese nationals. <a href=\"https://www.thestar.com.my/news/nation/2026/03/10/macc-busts-cross-border-fraud-ring-in-joint-op-with-china-seizes-rm35mil-in-assets\">Read full story</a>",
+      "published": "2026-03-10T03:23:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "a985d9a10fca21526e25f19b20e6e15d2dedf7e7",
+      "title": "Two childcare centre employees remanded in probe into four-month-old&#039;s death",
+      "link": "https://www.thestar.com.my/news/nation/2026/03/10/two-childcare-centre-employees-remanded-in-probe-into-four-month-old039s-death",
+      "summary": "BUKIT MERTAJAM: Two female employees of a 24-hour childcare centre have been remanded for seven days to assist investigations into the death of a four-month-old boy at the centre at Seberang Jaya Hospital on Monday (March 9). <a href=\"https://www.thestar.com.my/news/nation/2026/03/10/two-childcare-centre-employees-remanded-in-probe-into-four-month-old039s-death\">Read full story</a>",
+      "published": "2026-03-10T03:22:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "3077d71d93b7e6ce98dc53e536569c9ccacb78ce",
+      "title": "Eight ‘Geng Adik Labu Besar’ members charged over RM1m Penang burglary spree",
+      "link": "https://www.malaymail.com/news/malaysia/2026/03/10/eight-geng-adik-labu-besar-members-charged-over-rm1m-penang-burglary-spree/212052",
+      "summary": "KUALA LUMPUR, March 10 &mdash; Eight individuals, including two couples, have been charged at the Sessions Court in Butt...",
+      "published": "2026-03-10T03:21:05+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "b6ebf5eb6bfef83efe20e59e88e9652a7ae2da23",
+      "title": "Police: Machete attack in Sungai Petani leaves man dead, sister’s hand almost severed",
+      "link": "https://www.malaymail.com/news/malaysia/2026/03/10/police-machete-attack-in-sungai-petani-leaves-man-dead-sisters-hand-almost-severed/212053",
+      "summary": "SUNGAI PETANI, March 10 &mdash; A man was killed while his younger sister suffered a near-severed hand after they were a...",
+      "published": "2026-03-10T03:09:06+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "5d05f3944b2194e1b6cc76eff187cd8d65cb4d1f",
+      "title": "Pixel 11 Pro Fold Renders Leak",
+      "link": "https://www.lowyat.net/2026/385846/pixel-11-pro-fold-renders-leak/",
+      "summary": "<p>The Google Pixel 11 Pro Fold is still months away from its official debut, but the rumour mill has already started churning. Industry tipster Steve Hemmerstoffer, better known as OnLeaks, has published what are said to be the first CAD-based renders of the upcoming foldable. At first glance, the device looks almost identical to its [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/385846/pixel-11-pro-fold-renders-leak/\">Pixel 11 Pro Fold Renders Leak</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-03-10T03:00:36+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "4c35755e17a2c2658ec4a50bfc8b240aeece0fcf",
+      "title": "Flipkart moves its headquarters back to India, more than a decade after it moved to Singapore, as it prepares for a potential IPO in India in the coming months (Jagmeet Singh/TechCrunch)",
+      "link": "http://www.techmeme.com/260309/p43#a260309p43",
+      "summary": "<a href=\"https://techcrunch.com/2026/03/09/flipkart-moves-its-headquarters-back-to-india-ahead-of-ipo/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260309/i43.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260309/p43#a260309p43\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jagmeet Singh / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/03/09/flipkart-moves-its-headquarters-back-to-india-ahead-of-ipo/\">Flipkart moves its headquarters back to India, more than a decade after it moved to Singapore, as it prepares for a potential IPO in India in the coming months</a></b></span>&nbsp; &mdash;&nbsp; Indian e-commerce giant Flipkart has moved its headquarters back to India from Singapore as it prepares for a potential IPO in the coming months.</p>",
+      "published": "2026-03-10T02:55:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "2f0c18a6f985b8d827d7bc7cd48d56165cb40fb2",
+      "title": "Eight suspected members of burglary gang charged under Sosma",
+      "link": "https://www.thestar.com.my/news/nation/2026/03/10/eight-suspected-members-of-burglary-gang-charged-under-sosma",
+      "summary": "BUTTERWORTH: Eight people have been charged in the Sessions Court here with being members of the organised crime group known as Geng Adik Labu Besar. <a href=\"https://www.thestar.com.my/news/nation/2026/03/10/eight-suspected-members-of-burglary-gang-charged-under-sosma\">Read full story</a>",
+      "published": "2026-03-10T02:53:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "7c6b97bcae7aaa100aa51f99ccaa62567b56457d",
+      "title": "Immigration counters for Migrant Repatriation Programme 2.0 to close March 19–25 for Hari Raya Aidilfitri",
+      "link": "https://www.malaymail.com/news/malaysia/2026/03/10/immigration-counters-for-migrant-repatriation-programme-20-to-close-march-1925-for-hari-raya-aidilfitri/212050",
+      "summary": "PUTRAJAYA, March 10 &mdash; Counters for the Migrant Repatriation Programme 2.0 (PRM 2.0) will be temporarily closed fro...",
+      "published": "2026-03-10T02:45:16+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "36583262a126e443d8c3addcba231604a51b0543",
+      "title": "Becoming equals in pursuit of truth — Amir Hazwan Abdul Rahim",
+      "link": "https://www.malaymail.com/news/what-you-think/2026/03/10/becoming-equals-in-pursuit-of-truth-amir-hazwan-abdul-rahim/212051",
+      "summary": "MARCH 10 &mdash; It has been ten years since I first walked through the gates of Universiti Malaya as a trainee lecturer...",
+      "published": "2026-03-10T02:44:34+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "8f1c78a7aef357cbd6889873a8350d90fcffbdde",
+      "title": "Rising domestic and digital abuse pushes more Malaysian women to seek help, WAO report finds",
+      "link": "https://www.malaymail.com/news/malaysia/2026/03/10/rising-domestic-and-digital-abuse-pushes-more-malaysian-women-to-seek-help-wao-report-finds/212049",
+      "summary": "KUALA LUMPUR, March 10 &mdash; The Women&rsquo;s Aid Organisation (WAO) has released its 2024-2025 Statistics and Findin...",
+      "published": "2026-03-10T02:36:42+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "9b9fe41d46c8924cd0cbf30e97550a5f4abc5eef",
+      "title": "Man killed, sister seriously hurt in machete attack in Sungai Petani",
+      "link": "https://www.thestar.com.my/news/nation/2026/03/10/man-killed-sister-seriously-hurt-in-machete-attack-in-sungai-petani",
+      "summary": "SUNGAI PETANI: A man was killed while his younger sister's hand was almost severed when they were attacked with a machete in an incident at Taman Kempas here on Tuesday (March 10) morning. <a href=\"https://www.thestar.com.my/news/nation/2026/03/10/man-killed-sister-seriously-hurt-in-machete-attack-in-sungai-petani\">Read full story</a>",
+      "published": "2026-03-10T02:36:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "7f039f97f336662bbb14f3be53ed9a68531023b5",
+      "title": "Kampar man suffering hallucinations stabs son and sister in living room, police say victims remain in critical condition",
+      "link": "https://www.malaymail.com/news/malaysia/2026/03/10/kampar-man-suffering-hallucinations-stabs-son-and-sister-in-living-room-police-say-victims-remain-in-critical-condition/212039",
+      "summary": "IPOH, March 10 &mdash; Two individuals were critically injured after being stabbed by a man believed to have been experi...",
+      "published": "2026-03-10T02:33:41+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "5e5e964db628c0465132556129982d7864440c26",
+      "title": "POCO Confirms 17 March Launch Date For X8 Pro Series",
+      "link": "https://www.lowyat.net/2026/385837/poco-x8-pro-series-launch-date/",
+      "summary": "<p>POCO recently began teasing the debut of the newest additions to its X range of smartphones. Now, the Xiaomi sub-brand has revealed the launch date for the X8 Pro lineup, and it is as the previous leak has claimed. The handsets will go official next week, on 17 March 2026 at 8PM. While the company [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/385837/poco-x8-pro-series-launch-date/\">POCO Confirms 17 March Launch Date For X8 Pro Series</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-03-10T02:31:49+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "676ac0f8b21a6d6494f7c926db55c6ad5d8e2f4e",
+      "title": "Source: Spark Capital, the first VC firm to back Anthropic in 2023, is raising about $3B in new funds, 50% more than the size of funds it raised two years ago (The Information)",
+      "link": "http://www.techmeme.com/260309/p42#a260309p42",
+      "summary": "<a href=\"https://www.theinformation.com/articles/anthropic-backer-spark-capital-targets-3-billion-new-funds\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260309/i42.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260309/p42#a260309p42\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/articles/anthropic-backer-spark-capital-targets-3-billion-new-funds\">Source: Spark Capital, the first VC firm to back Anthropic in 2023, is raising about $3B in new funds, 50% more than the size of funds it raised two years ago</a></b></span>&nbsp; &mdash;&nbsp; Spark Capital, the first venture firm to back Anthropic, is in the process of raising about $3 billion in new funds &hellip; </p>",
+      "published": "2026-03-10T02:25:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "4b2393a8efb9f0154649e7e14bd50215c3a2fca1",
+      "title": "Trump vows Iran war will &#039;end very soon&#039;",
+      "link": "https://www.thestar.com.my/news/world/2026/03/10/trump-vows-iran-war-will-039end-very-soon039",
+      "summary": "TEHRAN: President Donald Trump said Monday that US military operations in Iran would be ending soon, reassuring markets that have been thrust into chaos by a war still reverberating across the Middle East. <a href=\"https://www.thestar.com.my/news/world/2026/03/10/trump-vows-iran-war-will-039end-very-soon039\">Read full story</a>",
+      "published": "2026-03-10T02:18:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "86c1bf9193d5f489dbc424cd0ef60b8af671dc6f",
+      "title": "Volunteer fireman’s body recovered at Lahat Mines lake after training accident in Ipoh",
+      "link": "https://www.malaymail.com/news/malaysia/2026/03/10/volunteer-firemans-body-recovered-at-lahat-mines-lake-after-training-accident-in-ipoh/212046",
+      "summary": "IPOH, March 10 &mdash; The body of a member of the Volunteer Fire Brigade (PBS) who was feared drowned after falling int...",
+      "published": "2026-03-10T02:16:37+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "618bae8d016741e40dd9da7d94c481e56ba2dd90",
+      "title": "Asian markets rebound on falling oil prices amid hopes of easing Iran conflict",
+      "link": "https://www.malaymail.com/news/money/2026/03/10/asian-markets-rebound-on-falling-oil-prices-amid-hopes-of-easing-iran-conflict/212048",
+      "summary": "TOKYO, March 10 &mdash; Stock markets in South Korea and Japan rose sharply in early trade today after the US crude oil...",
+      "published": "2026-03-10T02:13:01+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "9bb446513bcd65f1e6afc31367626d754ccb0fd0",
+      "title": "JPJ Launches JPJvBid App For Online Auctions Of Seized Vehicles",
+      "link": "https://www.lowyat.net/2026/385832/jpj-launches-jpjvbid-app/",
+      "summary": "<p>The Road Transport Department (JPJ) has launched a new digital platform called JPJvBid to manage public auctions of seized and forfeited vehicles. The mobile application allows users to browse listings, review vehicle information, and place bids directly through their smartphones. The app is now available through the Apple App Store, Google Play Store, and Huawei [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/385832/jpj-launches-jpjvbid-app/\">JPJ Launches JPJvBid App For Online Auctions Of Seized Vehicles</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-03-10T02:11:52+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "bd45ace645810d398f66198ef9119b52b98efa51",
+      "title": "US, Israel see gap on Iran as Trump under pressure",
+      "link": "https://www.thestar.com.my/news/world/2026/03/10/us-israel-see-gap-on-iran-as-trump-under-pressure",
+      "summary": "WASHINGTON: Ten days after attacking Iran together, the United States and Israel have seen a public divergence, with President Donald Trump facing political pressure and not sharing Israel's long-term goals. <a href=\"https://www.thestar.com.my/news/world/2026/03/10/us-israel-see-gap-on-iran-as-trump-under-pressure\">Read full story</a>",
+      "published": "2026-03-10T02:08:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "c805c6d2739f6db57c98d0af4f2b8450142b19bd",
+      "title": "Armada exodus: 15 Sabah Bersatu youth leaders walk out, rejecting divisive politics and selective discipline",
+      "link": "https://www.malaymail.com/news/malaysia/2026/03/10/armada-exodus-15-sabah-bersatu-youth-leaders-walk-out-rejecting-divisive-politics-and-selective-discipline/212044",
+      "summary": "KOTA KINABALU, March 10 &mdash; A total of 15 leaders of Bersatu youth wing (Armada) in Sabah today announced they are l...",
+      "published": "2026-03-10T02:03:40+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "e6dbb3e661ad88391cf65affc96f40ea43a15d13",
+      "title": "Students score extra Aidilfitri break in 2026 term calendar",
+      "link": "https://www.malaymail.com/news/malaysia/2026/03/10/students-score-extra-aidilfitri-break-in-2026-term-calendar/212043",
+      "summary": "KUALA LUMPUR, March 10 &mdash; Students, teachers, and parents will have a slightly longer break this Aidilfitri, as the...",
+      "published": "2026-03-10T02:00:36+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "93213f14983210edea62f656b4c96016cf4a4d8b",
+      "title": "An iPhone-hacking toolkit used by Russian spies likely came from U.S military contractor",
+      "link": "https://techcrunch.com/2026/03/09/an-iphone-hacking-toolkit-used-by-russian-spies-likely-came-from-u-s-military-contractor/",
+      "summary": "Google found a series of hacking tools they said were used by a Russian espionage group and a cybercriminal group in China. Sources from a U.S. government defense contractor said some of those hacking tools were theirs.",
+      "published": "2026-03-10T01:56:01+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
     {
-      "id": "ba5597849f441b5f84503d10085fb8cfceb33c86",
-      "title": "MACC’s Ops Dragon nets 16 alleged Chinese fraud masterminds in Malaysia, RM3.5m assets seized",
-      "link": "https://www.malaymail.com/news/malaysia/2026/03/10/maccs-ops-dragon-nets-16-alleged-chinese-fraud-masterminds-in-malaysia-rm35m-assets-seized/212026",
-      "summary": "KUALA LUMPUR, March 10 &mdash; An international fraud syndicate run by Chinese nationals wanted by authorities in China...",
-      "published": "2026-03-10T00:58:55+00:00",
+      "id": "7ab042f7a8078e4de207ee9c174f704ac15266a8",
+      "title": "Three Filipinos, including teen, arrested over assault on Sandakan enforcement officer at Batu 8 market",
+      "link": "https://www.malaymail.com/news/malaysia/2026/03/10/three-filipinos-including-teen-arrested-over-assault-on-sandakan-enforcement-officer-at-batu-8-market/212042",
+      "summary": "SANDAKAN, March 10 &mdash; Police arrested three more Filipinos &mdash; two men and a 14-year-old boy &mdash; on Saturda...",
+      "published": "2026-03-10T01:50:55+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
-      "id": "a9bf43c35474d67bfea0381828a08ff56c86ab7c",
-      "title": "Eric and Donald Jr. Trump back autonomous drones amid Iran war and ethics concerns",
-      "link": "https://www.malaymail.com/news/world/2026/03/10/eric-and-donald-jr-trump-back-autonomous-drones-amid-iran-war-and-ethics-concerns/212023",
-      "summary": "NEW YORK, March 10 &mdash; Donald Trump&rsquo;s sons are backing a new business venture to produce autonomous drones, in...",
-      "published": "2026-03-10T00:56:53+00:00",
+      "id": "9b226442351dcc2bf9b2d2b1bf152ec5eacbb9fd",
+      "title": "Why Malaysia’s plans gather dust while the world moves on — Ahmad Ibrahim",
+      "link": "https://www.malaymail.com/news/what-you-think/2026/03/10/why-malaysias-plans-gather-dust-while-the-world-moves-on-ahmad-ibrahim/212041",
+      "summary": "MARCH 10 &mdash; Malaysia has never suffered from a shortage of ambition. From visionary economic roadmaps to sophistica...",
+      "published": "2026-03-10T01:43:34+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
-      "id": "66cb5583aa191d97b00976f0764ca87b7c458701",
-      "title": "Three brothers found guilty of sex trafficking women using luxury real estate network",
-      "link": "https://www.malaymail.com/news/world/2026/03/10/three-brothers-found-guilty-of-sex-trafficking-women-using-luxury-real-estate-network/212022",
-      "summary": "NEW YORK, March 10 &mdash; Three brothers were found guilty of sex trafficking yesterday, following a trial that showed...",
-      "published": "2026-03-10T00:54:26+00:00",
+      "id": "3a3e11a7c0f2a61af983dff3fd37b31681bbcc2d",
+      "title": "Electric air taxi maker Archer hits back at Joby in countersuit alleging concealed Chinese ties",
+      "link": "https://techcrunch.com/2026/03/09/electric-air-taxi-maker-archer-hits-back-at-joby-in-countersuit-alleging-concealed-chinese-ties/",
+      "summary": "Archer's countersuit comes four months after Joby sued its rival for alleged 'corporate espionage.'",
+      "published": "2026-03-10T01:41:38+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "ac3ccacb8bab93d8de0130a5013ef0697f05caa6",
+      "title": "Strategic cousins and Asean: Rebuilding world order after the Gulf War? — Phar Kim Beng",
+      "link": "https://www.malaymail.com/news/what-you-think/2026/03/10/strategic-cousins-and-asean-rebuilding-world-order-after-the-gulf-war-phar-kim-beng/212040",
+      "summary": "MARCH 10 &mdash; President Donald Trump&rsquo;s declaration that the war in the Gulf is &ldquo;near complete&rdquo; does...",
+      "published": "2026-03-10T01:37:16+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
-      "id": "d25e0a08dc2251d6f3438737e41d18e1645a8546",
-      "title": "Trader loses RM48,300 in e-commerce scam",
-      "link": "https://www.thestar.com.my/news/nation/2026/03/10/trader-loses-rm48300-in-e-commerce-scam",
-      "summary": "KUALA TERENGGANU: A woman trader in Terengganu lost RM48,300 after falling victim to an e-commerce scam via the WhatsApp application. <a href=\"https://www.thestar.com.my/news/nation/2026/03/10/trader-loses-rm48300-in-e-commerce-scam\">Read full story</a>",
-      "published": "2026-03-10T00:54:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "c91683a24a68235c6c8b76074631b8bacf641c5e",
-      "title": "Anwar reaches out with heartfelt support as Malaysia stands by Kuwait and Oman amid West Asia tensions",
-      "link": "https://www.malaymail.com/news/malaysia/2026/03/10/anwar-reaches-out-with-heartfelt-support-as-malaysia-stands-by-kuwait-and-oman-amid-west-asia-tensions/212019",
-      "summary": "KUALA LUMPUR, March 10 &mdash; Malaysia has conveyed its sympathies and support to Kuwait and Oman as both countries fac...",
-      "published": "2026-03-10T00:53:25+00:00",
+      "id": "6b7f423346dad16a22aee997a9278826ea4e8735",
+      "title": "Ringgit opens firmer against US dollar as Trump signals Iran war could end soon",
+      "link": "https://www.malaymail.com/news/money/2026/03/10/ringgit-opens-firmer-against-us-dollar-as-trump-signals-iran-war-could-end-soon/212038",
+      "summary": "&nbsp;KUALA LUMPUR, March 10 &mdash; The ringgit opened firmer against the US dollar on Tuesday, supported by improved r...",
+      "published": "2026-03-10T01:26:14+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
-      "id": "289d3c0555ab93ee55c2f0eca04819c33cd072e2",
-      "title": "Punch the snow monkey is a global star — his wild cousins are being culled for stealing crops",
-      "link": "https://www.malaymail.com/news/life/2026/03/10/punch-the-snow-monkey-is-a-global-star-his-wild-cousins-are-being-culled-for-stealing-crops/212024",
-      "summary": "AZUMINO, March 10 &mdash; &zwnj;Punch the baby snow monkey and his stuffed ​orangutan have captured hearts around the wo...",
-      "published": "2026-03-10T00:51:40+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
+      "id": "023128d3318eca11e806dfa8605b86b4225f989d",
+      "title": "Dify, which offers an open-source platform to build and run AI applications and agentic workflows, raised a $30M pre-Series A led by HSG at a $180M valuation (FinSMEs)",
+      "link": "http://www.techmeme.com/260309/p41#a260309p41",
+      "summary": "<a href=\"https://www.finsmes.com/2026/03/dify-raises-30m-in-series-pre-a-funding.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260309/i41.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260309/p41#a260309p41\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.finsmes.com/\">FinSMEs</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.finsmes.com/2026/03/dify-raises-30m-in-series-pre-a-funding.html\">Dify, which offers an open-source platform to build and run AI applications and agentic workflows, raised a $30M pre-Series A led by HSG at a $180M valuation</a></b></span>&nbsp; &mdash;&nbsp; Dify, a Menlo Park, CA-based provider of an open-source platform that helps teams build, deploy, and operate production-grade AI applications &hellip; </p>",
+      "published": "2026-03-10T01:25:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
     },
     {
-      "id": "a74e49b12a628c314a180bb4fd36faf643aabe23",
-      "title": "IATA: 2025 aviation deaths rise to 394 despite fewer total accidents",
-      "link": "https://www.malaymail.com/news/life/2026/03/10/iata-2025-aviation-deaths-rise-to-394-despite-fewer-total-accidents/212020",
-      "summary": "PARIS, March 10 &mdash; More people died in air crashes in 2025 despite fewer reported accidents, the main aviation indu...",
-      "published": "2026-03-10T00:45:06+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "7abea904f2f878b9f8492a3eea7331f925a82a78",
-      "title": "Democratic US senators demand immediate hearings on Iran war",
-      "link": "https://www.thestar.com.my/news/world/2026/03/10/democratic-us-senators-demand-immediate-hearings-on-iran-war",
-      "summary": "WASHINGTON, March 9 (Reuters) - Six Democrats ⁠in the U.S. Senate on Monday said they are embarking on an intensified campaign for public ⁠hearings on the Iran war, with top Trump administration officials testifying under oath and to take ‌steps to interrupt regular Senate business if Republicans resist. <a href=\"https://www.thestar.com.my/news/world/2026/03/10/democratic-us-senators-demand-immediate-hearings-on-iran-war\">Read full story</a>",
-      "published": "2026-03-10T00:42:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "16786d26af9bb0db6693e74031b44945b967470b",
-      "title": "Death toll rises across Middle East as US-Israel strikes on Iran spread war",
-      "link": "https://www.malaymail.com/news/world/2026/03/10/death-toll-rises-across-middle-east-as-us-israel-strikes-on-iran-spread-war/212018",
-      "summary": "DUBAI, March 10 &mdash; Since the US and Israel unleashed strikes on Iran on February 28, war has spread across the regi...",
-      "published": "2026-03-10T00:38:22+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "7b5357a5c6d491e3b88071750ed8abdc5ef58e9c",
-      "title": "Trump signals Iran war to end soon as Gulf attacks rattle oil and stocks",
-      "link": "https://www.malaymail.com/news/world/2026/03/10/trump-signals-iran-war-to-end-soon-as-gulf-attacks-rattle-oil-and-stocks/212016",
-      "summary": "TEHRAN, March 10 &mdash;&nbsp;President Donald Trump said today that US military operations in Iran would be ending soon...",
-      "published": "2026-03-10T00:38:05+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "6c45e8a62f44e9a7498c772f0f9465b3f66ca312",
-      "title": "Republicans meet at Trump club to contain Iran war impact on November vote",
-      "link": "https://www.malaymail.com/news/world/2026/03/10/republicans-meet-at-trump-club-to-contain-iran-war-impact-on-november-vote/212017",
-      "summary": "WASHINGTON, March 10 &mdash;Republican lawmakers held an annual strategy session with US President Donald Trump yesterda...",
-      "published": "2026-03-10T00:37:50+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
+      "id": "1dcd67003285c936f6cc5fc0df3007c7381e23e6",
+      "title": "Founders Fund nears $6B close for latest growth fund, sources say",
+      "link": "https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/",
+      "summary": "The fresh fundraise comes less than a year after Founders Fund closed its third growth fund, a $4.6 billion vehicle intended primarily for follow-on investments in its successful late-stage companies.",
+      "published": "2026-03-10T01:03:48+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
     },
     {
       "id": "d6c7ded4683b5c7720ab8bdf7c4f3024e44ecfc6",
@@ -237,24 +390,6 @@
       "published": "2026-03-10T00:20:03+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "af650b7a21bee51e1296bd48352cd58efb5bbab0",
-      "title": "US says UN aid to Afghanistan needs evaluation",
-      "link": "https://www.thestar.com.my/news/world/2026/03/10/us-says-un-aid-to-afghanistan-needs-evaluation",
-      "summary": "March 9 (Reuters) - Despite ⁠what it called a humanitarian \"disaster\" in Afghanistan, the U.S. said on Monday international ⁠assistance to the country should be evaluated, given Taliban \"intransigence\" and its exclusion ‌of the female population from basic rights.     <a href=\"https://www.thestar.com.my/news/world/2026/03/10/us-says-un-aid-to-afghanistan-needs-evaluation\">Read full story</a>",
-      "published": "2026-03-10T00:00:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "03a20cb475a336ade4ab6403861d995091767fde",
-      "title": "QuickCheck: Is it illegal to take photos of the Eiffel Tower at night?",
-      "link": "https://www.thestar.com.my/news/true-or-not/2026/03/10/quickcheck-is-it-illegal-to-take-photos-of-the-eiffel-tower-at-night",
-      "summary": "Ah, Paris. The City of Love. The City of Lights. <a href=\"https://www.thestar.com.my/news/true-or-not/2026/03/10/quickcheck-is-it-illegal-to-take-photos-of-the-eiffel-tower-at-night\">Read full story</a>",
-      "published": "2026-03-10T00:00:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "ea7e78c541d8064b5826671e984c43d373aedaf6",
@@ -311,24 +446,6 @@
       "category": "tech"
     },
     {
-      "id": "c69778b5c9a746a6f19d42c4cbbc17213ba9bf78",
-      "title": "Russian drone injures six by apartment block in Ukraine&#039;s Kharkiv",
-      "link": "https://www.thestar.com.my/news/world/2026/03/10/russian-drone-injures-six-by-apartment-block-in-ukraine039s-kharkiv",
-      "summary": "March 9 (Reuters) - ⁠A Russian drone struck ⁠an area near a high-rise ‌apartment building on Monday in Ukraine's second-largest city, Kharkiv, injuring six ​people, smashing windows and ⁠setting cars ⁠ablaze, the city's mayor said. <a href=\"https://www.thestar.com.my/news/world/2026/03/10/russian-drone-injures-six-by-apartment-block-in-ukraine039s-kharkiv\">Read full story</a>",
-      "published": "2026-03-09T23:14:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "708485f3de0eb6cf28a1b990d5580cb8031f46e8",
-      "title": "Trump says he discussed Ukraine and Iran conflicts with Putin",
-      "link": "https://www.thestar.com.my/news/world/2026/03/10/trump-says-he-discussed-ukraine-and-iran-conflicts-with-putin",
-      "summary": "DORAL, Florida, March ⁠9 (Reuters) - U.S. President Donald Trump on ‌Monday told reporters he had a \"very good call\" with Russian President Vladimir Putin about Ukraine and ​the conflict in the Middle ⁠East. <a href=\"https://www.thestar.com.my/news/world/2026/03/10/trump-says-he-discussed-ukraine-and-iran-conflicts-with-putin\">Read full story</a>",
-      "published": "2026-03-09T23:12:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "04cf2f92c2ca78f33163592c6804674c504dc8ba",
       "title": "After falling far behind the rest of industry, Blue Origin creates new stock option plan",
       "link": "https://arstechnica.com/space/2026/03/after-years-of-missteps-blue-origin-to-finally-offer-meaningful-stock-options/",
@@ -336,24 +453,6 @@
       "published": "2026-03-09T23:00:18+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "964367706326192a3ab07bfe1bdeb01d451d9ae7",
-      "title": "The parliamentary whip system: What happens behind the scenes when a key Bill is voted on",
-      "link": "https://www.malaymail.com/news/malaysia/2026/03/10/the-parliamentary-whip-system-what-happens-behind-the-scenes-when-a-key-bill-is-voted-on/211846",
-      "summary": "KUALA LUMPUR, March 10&nbsp;&mdash; The government&rsquo;s failure to muster enough votes to pass the crucial Constituti...",
-      "published": "2026-03-09T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "3eda1bd8bc956c1ed99976a181b764aa705a7f26",
-      "title": "Israelis and Palestinians find humour and hacks amid missile alerts",
-      "link": "https://www.malaymail.com/news/world/2026/03/10/israelis-and-palestinians-find-humour-and-hacks-amid-missile-alerts/211947",
-      "summary": "JERUSALEM, March 10 &mdash; What is Israel&rsquo;s best bomb shelter? And when is the best time of day to shower without...",
-      "published": "2026-03-09T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "c991ad3b138f10e769f53381c6fdbd8aabd952d1",
@@ -644,15 +743,6 @@
       "category": "tech"
     },
     {
-      "id": "8ba2c24ae7b87eaa2a56581733e8b228cac44ece",
-      "title": "Anthropic debuts Code Review for Claude Code, which uses agents to check pull requests for bugs, and says a code review could average $15-$25 in token usage (David Gewirtz/ZDNET)",
-      "link": "http://www.techmeme.com/260309/p29#a260309p29",
-      "summary": "<a href=\"https://www.zdnet.com/article/claude-code-review-ai-agents-pull-request-bug-detection/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260309/i29.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260309/p29#a260309p29\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> David Gewirtz / <a href=\"https://www.zdnet.com/\">ZDNET</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.zdnet.com/article/claude-code-review-ai-agents-pull-request-bug-detection/\">Anthropic debuts Code Review for Claude Code, which uses agents to check pull requests for bugs, and says a code review could average $15-$25 in token usage</a></b></span>&nbsp; &mdash;&nbsp; ZDNET's key takeaways&nbsp; &mdash; Anthropic launches AI agents to review developer pull requests.&nbsp; &mdash; Internal tests tripled meaningful code review feedback.</p>",
-      "published": "2026-03-09T19:30:07+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "c4baf12a219520ce91ba0cddc92de3698e65a9d0",
       "title": "‘Cash Apples’ is giving away $500,000 to people who click on trees in a web browser",
       "link": "https://www.theverge.com/games/891544/cash-apples-is-giving-away-500000-to-people-who-click-on-trees-in-a-web-browser",
@@ -678,15 +768,6 @@
       "published": "2026-03-09T19:13:34+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "87901932fa4e4f41ad5a81e03f72253ffb600462",
-      "title": "Jay Graber is stepping down as Bluesky CEO, saying a \"seasoned operator focused on scaling and execution\" is needed; VC Toni Schneider is named interim CEO (Kate Knibbs/Wired)",
-      "link": "http://www.techmeme.com/260309/p28#a260309p28",
-      "summary": "<a href=\"https://www.wired.com/story/bluesky-ceo-jay-graber-is-stepping-down/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260309/i28.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260309/p28#a260309p28\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kate Knibbs / <a href=\"http://www.wired.com/\">Wired</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wired.com/story/bluesky-ceo-jay-graber-is-stepping-down/\">Jay Graber is stepping down as Bluesky CEO, saying a &ldquo;seasoned operator focused on scaling and execution&rdquo; is needed; VC Toni Schneider is named interim CEO</a></b></span>&nbsp; &mdash;&nbsp; Venture capitalist Toni Schneider will take over as interim CEO as Bluesky's board of directors hunts for a permanent replacement.</p>",
-      "published": "2026-03-09T19:12:36+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "058a5527c35ed9686fd67ea862ddc2a2607d0af6",
@@ -716,15 +797,6 @@
       "category": "deals"
     },
     {
-      "id": "4cc09299db782fc672ec48390f9a9c5f1adc6534",
-      "title": "Sources: Apple delayed the release of its smart home display, planned for this month, until later this year to let the company finish work on the new Siri (Mark Gurman/Bloomberg)",
-      "link": "http://www.techmeme.com/260309/p27#a260309p27",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-03-09/apple-postpones-smart-home-display-launch-as-it-waits-for-new-ai-and-siri\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260309/i27.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260309/p27#a260309p27\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Mark Gurman / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-03-09/apple-postpones-smart-home-display-launch-as-it-waits-for-new-ai-and-siri\">Sources: Apple delayed the release of its smart home display, planned for this month, until later this year to let the company finish work on the new Siri</a></b></span>&nbsp; &mdash;&nbsp; Apple Inc.'s artificial intelligence struggles are rippling through its product plans, forcing the company to delay a long &hellip; </p>",
-      "published": "2026-03-09T18:53:18+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "2957d052eacda9b27e4a70f8271a4478771847cb",
       "title": "Bring home adidas’ Golf Tour Patch Hat for $20, X_PLR Path Shoes $36, more from $19",
       "link": "https://9to5toys.com/2026/03/09/adidas-originals-golf-tour-archive-5-panel-patch-hat/",
@@ -750,15 +822,6 @@
       "published": "2026-03-09T18:35:32+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "900213f616577d453a8d366d74f97ccd53662c74",
-      "title": "NBC News poll of 1,000 registered voters: just 26% had a positive view of AI, while 46% had a negative view, the third worst net negative score of all topics (Jake Angelo/Fortune)",
-      "link": "http://www.techmeme.com/260309/p26#a260309p26",
-      "summary": "<a href=\"https://fortune.com/2026/03/09/ai-opinion-poll-democrats-iran-war-president-donald-trump/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260309/i26.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260309/p26#a260309p26\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jake Angelo / <a href=\"http://www.fortune.com/\">Fortune</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://fortune.com/2026/03/09/ai-opinion-poll-democrats-iran-war-president-donald-trump/\">NBC News poll of 1,000 registered voters: just 26% had a positive view of AI, while 46% had a negative view, the third worst net negative score of all topics</a></b></span>&nbsp; &mdash;&nbsp; Artificial intelligence has permeated nearly every part of daily American life.&nbsp; It's being adopted across the professional sphere &hellip; </p>",
-      "published": "2026-03-09T18:35:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "443fc48f703d729240de6ef902a90a8e212a3874",
@@ -1022,15 +1085,6 @@
       "category": "tech"
     },
     {
-      "id": "f39dff2e86a689966e34a4e66f137f6554c1a78b",
-      "title": "Flipkart moves its headquarters back to India ahead of IPO",
-      "link": "https://techcrunch.com/2026/03/09/flipkart-moves-its-headquarters-back-to-india-ahead-of-ipo/",
-      "summary": "Flipkart's headquarters shift comes as the Walmart-backed e-commerce giant reaches about $30 billion in GMV.",
-      "published": "2026-03-09T12:47:36+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "7ad7548fb2d101dcaa95eb14fc44378abf2c666b",
       "title": "Police release images of Oslo US embassy explosion suspect",
       "link": "https://www.bbc.com/news/articles/ce8wk563473o?at_medium=RSS&at_campaign=rss",
@@ -1157,15 +1211,6 @@
       "category": "deals"
     },
     {
-      "id": "ef243550131267e567111c6a3c4359f425eb0790",
-      "title": "Leak Suggests DJI To Launch The Avata 360, Its First 360-Degree Drone",
-      "link": "https://www.lowyat.net/2026/385757/dji-avata-360-leak/",
-      "summary": "<p>DJI has begun teasing a new drone with a 360-degree camera earlier this month, but refrained from sharing more details. However, thanks to a recent leak by industry tipster Jasper Ellens, it is said that the upcoming device will debut under the brand&#8217;s FPV drone line-up, sporting the name &#8220;Avata 360&#8221;. From the looks of [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/385757/dji-avata-360-leak/\">Leak Suggests DJI To Launch The Avata 360, Its First 360-Degree Drone</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-03-09T05:30:01+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
       "id": "7dc0f02fe24165ae10d2e252d89a33abc38aa46b",
       "title": "EV charger hogging is getting worse in Malaysia? | Let’s Talk About #137",
       "link": "https://soyacincau.com/2026/03/09/ev-charger-hogging-is-getting-worse-in-malaysia-lets-talk-about-137/",
@@ -1191,42 +1236,6 @@
       "published": "2026-03-09T04:37:34+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "1b54347ba731486adad26e5c1fcfe714cd238462",
-      "title": "Ring’s Jamie Siminoff is still trying to calm privacy fears, but his answers may not help",
-      "link": "https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/",
-      "summary": "The facial recognition question is where things get more tangled.",
-      "published": "2026-03-09T04:35:06+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "4536fae16e5faa2e3b7f4cabf35c6c548a224f71",
-      "title": "Apple Working On 3D-Printed Aluminium For Future Products",
-      "link": "https://www.lowyat.net/2026/385731/apple-3d-printed-aluminium-future-products/",
-      "summary": "<p>Many smart devices today come with aluminium casings. But it&#8217;s not often you hear of them being 3D-printed. But that looks like what Apple is working towards, in an effort to make the process save as much metal as possible to cut costs down, while also speeding up production. Mark Gurman of Bloomberg says in [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/385731/apple-3d-printed-aluminium-future-products/\">Apple Working On 3D-Printed Aluminium For Future Products</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-03-09T04:34:58+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
-      "id": "4222bf9ce453727e5266a76e86236a0cbff580a9",
-      "title": "realme C83 5G Launched In India With 7,000mAh Battery, 144Hz Display",
-      "link": "https://www.lowyat.net/2026/385735/realme-c83-5g-india/",
-      "summary": "<p>realme has announced the newest entry in its budget-friendly C series of smartphones. Dubbed the realme C83, the device recently made its debut in India as the successor to the C73. Naturally, it comes with some improvements from the previous generation, particularly in terms of screen and battery. Aside from that, it is quite similar [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/385735/realme-c83-5g-india/\">realme C83 5G Launched In India With 7,000mAh Battery, 144Hz Display</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-03-09T04:17:48+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
-      "id": "3424d4352c6b586c883bb5cc967410eb8590ab9f",
-      "title": "Nintendo Sues US Govt Over Trump’s Illegal Tariffs",
-      "link": "https://www.lowyat.net/2026/385733/nintendo-sues-us-govt-over-trumps-illegal-tariffs/",
-      "summary": "<p>Nintendo has an infamous history of suing people left, right, and centre for one reason or another. Usually, the gaming giant targets companies and/or individuals, but now it’s reportedly setting its sights on the US government itself. However, rather than copyright infringement or something similar, Nintendo is suing the US government over its tariff policy. [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/385733/nintendo-sues-us-govt-over-trumps-illegal-tariffs/\">Nintendo Sues US Govt Over Trump&#8217;s Illegal Tariffs</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-03-09T04:10:24+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
     },
     {
       "id": "ebe01cfb819c3acb032386b2c572d133c38fc7df",
@@ -1373,15 +1382,6 @@
       "category": "events"
     },
     {
-      "id": "b93fdac8f856029e4c831a139554bed87a1f6c60",
-      "title": "Claude Marketplace",
-      "link": "https://www.producthunt.com/products/claude-marketplace",
-      "summary": "<p>\n            Helping companies easily get the AI tools they need\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-marketplace?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1092091?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-07T14:25:04+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "6dadfc0dc7dd0fde4d45960576a4a1fb682c22de",
       "title": "A unicorn-like Spinosaurus found in the Sahara",
       "link": "https://arstechnica.com/science/2026/03/a-unicorn-like-spinosaurus-found-in-the-sahara/",
@@ -1472,13 +1472,13 @@
       "category": "malaysia"
     },
     {
-      "id": "9e22a505699976d752d9c4068caacaa0746a6746",
-      "title": "MACC joins global crackdown on LeakBase hacker forum, servers hosted in KL seized",
-      "link": "https://soyacincau.com/2026/03/06/leakbase-hacker-forum-kl-hosted-crackdown-us-doj-macc-malaysia/",
-      "summary": "The Malaysian Anti-Corruption Commission (MACC) has recently joined a global law enforcement operation that dismantled LeakBase, an online forum used by cybercriminals to buy and sell stolen data. Authorities confirmed that servers linked to the platform were hosted in Kuala Lumpur and were seized as part of the coordinated enforcement action. The operation was led [&#8230;]",
-      "published": "2026-03-06T13:29:11+00:00",
-      "source": "SoyaCincau",
-      "category": "malaysia"
+      "id": "8234ee7cbc5a52d08eba9c7d251dec0e7d68482e",
+      "title": "Song Sweeper",
+      "link": "https://www.producthunt.com/products/song-sweeper",
+      "summary": "<p>\n            Remove duplicate songs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/song-sweeper?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1091010?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-06T00:52:22+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "60c33cc2beb190df6cd4a811baa7cee9f7e01b0a",
