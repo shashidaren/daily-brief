@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-03-15T15:22:53.702419+00:00",
+  "generatedAt": "2026-03-15T16:24:43.237143+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "bba210231fd3cb232ee937a7dff6c114d1072147",
+      "title": "French police detain brothers over 'lethal and antisemitic' plot",
+      "link": "https://www.bbc.com/news/articles/ckgl5d3d3kjo?at_medium=RSS&at_campaign=rss",
+      "summary": "A loaded gun, hydrochloric acid and an Islamic State flag were found in their car, prosecutors say.",
+      "published": "2026-03-15T16:12:34+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "a94d4a2fb4a63e786a687bd1f380eba45b2c8357",
+      "title": "Severe flooding kills 66 in Kenya, as heavy rains continue",
+      "link": "https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eleven people were rescued overnight after a minibus taxi got stuck in rising floodwaters in Nairobi.",
+      "published": "2026-03-15T16:12:11+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "dddc31654e19b899ad5c56e0bdce188c3e33084f",
+      "title": "TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again",
+      "link": "https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "published": "2026-03-15T16:05:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "dde6811ae3162dac2eb9942bb26519e55bf2cbb1",
+      "title": "African nations tiptoe around recruitment of citizens by Russian networks",
+      "link": "https://www.thestar.com.my/news/world/2026/03/16/african-nations-tiptoe-around-recruitment-of-citizens-by-russian-networks",
+      "summary": "LONDON/JOHANNESBURG, March 15 (Reuters) - Kenya's foreign minister ⁠is visiting Russia this week under pressure back home to convince Moscow to stop recruiting Kenyans into its military, but Nairobi – like other governments in Africa – is unlikely to ⁠take too confrontational an approach. <a href=\"https://www.thestar.com.my/news/world/2026/03/16/african-nations-tiptoe-around-recruitment-of-citizens-by-russian-networks\">Read full story</a>",
+      "published": "2026-03-15T16:02:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "6a9e2ecc13e84feee07674d804ea09e98f6ebecb",
+      "title": "Wiz investor unpacks Google’s $32B acquisition",
+      "link": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+      "summary": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+      "published": "2026-03-15T15:30:33+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "2680b3f3bd0cc605d23c08832c10053f8335fc3d",
       "title": "Why are Malaysians still buying EVs in 2026? | Let’s Talk About #138",
@@ -75,15 +120,6 @@
       "published": "2026-03-15T13:51:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
-    },
-    {
-      "id": "93816da717dd0b419247b3f64e84b26a90c1741b",
-      "title": "Severe flooding kills 62 in Kenya, as heavy rains continue",
-      "link": "https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Eleven people were rescued overnight after a minibus taxi got stuck in rising floodwaters in Nairobi.",
-      "published": "2026-03-15T13:19:04+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "4c3151ae66fa49e2161dc66d6777c802fff47a37",
@@ -410,15 +446,6 @@
       "category": "malaysia"
     },
     {
-      "id": "ad433ecc1f0a0cf2ad22ac27c825a2b26bd99337",
-      "title": "Aidilfitri: Expect congestion at Rantau Panjang ICQS, 50,000 travellers to cross border",
-      "link": "https://www.thestar.com.my/news/nation/2026/03/15/aidilfitri-expect-congestion-at-rantau-panjang-icqs-50000-travellers-to-cross-border",
-      "summary": "PASIR MAS: The Rantau Panjang Immigration, Customs, Quarantine and Security Complex (ICQS) is expected to see the movement of about 50,000 travellers in the three days before and after Hari Raya Aidilfitri when Thais working in Malaysia begin to return to their hometowns. <a href=\"https://www.thestar.com.my/news/nation/2026/03/15/aidilfitri-expect-congestion-at-rantau-panjang-icqs-50000-travellers-to-cross-border\">Read full story</a>",
-      "published": "2026-03-15T10:28:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "61b9b0ab7ce4a657a0a6972323417dbfbdbff573",
       "title": "Ramadan goodwill: Sultan Ibrahim foundation distributes aid to Johoreans",
       "link": "https://www.malaymail.com/news/malaysia/2026/03/15/ramadan-goodwill-sultan-ibrahim-foundation-distributes-aid-to-johoreans/212747",
@@ -581,11 +608,20 @@
       "category": "deals"
     },
     {
-      "id": "7223314ac285427e23c58069c13d20095480e31c",
-      "title": "Medvedev stuns Alcaraz to set up Sinner final",
-      "link": "https://www.bbc.com/sport/tennis/articles/cqlgn0vz4y1o?at_medium=RSS&at_campaign=rss",
-      "summary": "World number two Jannik Sinner puts on a masterclass to beat Alexander Zverev 6-2 6-4 and reach his first final at Indian Wells, while Daniil Medvedev ends Carlos Alcaraz's winning run.",
-      "published": "2026-03-15T00:32:02+00:00",
+      "id": "af1199283bb54cd7de7c08492be8ba6778c46aed",
+      "title": "My letter to my dead daughter - after forgiving the man who killed her",
+      "link": "https://www.bbc.com/news/articles/cnv6ne1zqyro?at_medium=RSS&at_campaign=rss",
+      "summary": "The mother of Ann Grosmaire, 19, who was shot dead by her boyfriend, explains why she chose restorative justice.",
+      "published": "2026-03-15T00:48:44+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "316d321642f5f2b1756d1adfd3ee4ddb5829333c",
+      "title": "The women bringing chess into the 21st Century - with 'bullet' matches and viral videos",
+      "link": "https://www.bbc.com/news/articles/ce3g0kel3jyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Women content creators are helping chess shake its image as an \"old man's game\" and bring it into the digital age.",
+      "published": "2026-03-15T00:40:18+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -599,11 +635,20 @@
       "category": "world"
     },
     {
-      "id": "827cce7fabf49159d3dfb622a4c02a9280f4a415",
-      "title": "Iraq taking private plane to Mexico for World Cup play-off",
-      "link": "https://www.bbc.com/sport/football/articles/c0k10zzjk6yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iraq will travel to Mexico by private plane for their World Cup play-off despite calls from coach Graham Arnold to postpone the match amid the escalating US-Israeli war with Iran, the country's FA president Adnan Dirjal says.",
-      "published": "2026-03-14T23:56:28+00:00",
+      "id": "2849758afb10d32e5b8704cd3be843ef9e39cbaa",
+      "title": "Oscars 2026: What to expect and who will win",
+      "link": "https://www.bbc.com/news/articles/clyv4e2ldpjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sinners, One Battle After Another and Hamnet will all be vying for Hollywood's highest honour on Sunday.",
+      "published": "2026-03-15T00:01:28+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "6c722ff7c8d16042e9f030dd755306243b05e779",
+      "title": "Will Trump help or hinder Zimbabwe's white farmers in their compensation battle?",
+      "link": "https://www.bbc.com/news/articles/c8jxd91y2ylo?at_medium=RSS&at_campaign=rss",
+      "summary": "They have engaged a lobbying firm with close ties to the US president to argue their case.",
+      "published": "2026-03-15T00:01:25+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -660,15 +705,6 @@
       "published": "2026-03-14T21:57:07+00:00",
       "source": "The Verge",
       "category": "tech"
-    },
-    {
-      "id": "d8039bdb5af918cb7bf9e875850649a17e772f77",
-      "title": "Russia exploiting Iran war, Zelensky says after fresh bombardment",
-      "link": "https://www.bbc.com/news/articles/c0mger2zkmwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Volodymyr Zelensky cast concern over the supply of air-defence missiles after a heavy overnight attack kills at least five.",
-      "published": "2026-03-14T21:50:22+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "7acf12461cd88b2ffd7d81303895a036c485db78",
@@ -743,15 +779,6 @@
       "category": "tech"
     },
     {
-      "id": "101b7ed46fa9ca7ad30c3a91c934ab6e8a2d36a2",
-      "title": "German philosopher and social critic Jürgen Habermas dies at 96",
-      "link": "https://www.bbc.com/news/articles/crk8yxd2g0no?at_medium=RSS&at_campaign=rss",
-      "summary": "One the most influential thinkers in post-war Germany, he linked philosophy and political action throughout his life.",
-      "published": "2026-03-14T18:02:15+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "494bbb18a7fc49e117b4379f880dc832be429c11",
       "title": "Honda is killing its EVs — and any chance of competing in the future",
       "link": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
@@ -759,15 +786,6 @@
       "published": "2026-03-14T17:23:24+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "1a0a2dc4789d5ffac659bf4d4783ff8778574cfd",
-      "title": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
-      "link": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC joins a French Alps rescue team as the number of skiers killed this season passes 100.",
-      "published": "2026-03-14T16:32:25+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "3c5dc9983fe74b1dfcb4dec3c607b1a5bf3df24f",
@@ -815,15 +833,6 @@
       "category": "tech"
     },
     {
-      "id": "5da6098cf44a02f987b81755848c1d6bdd248863",
-      "title": "Kennedy Center head steps down after tumultuous year",
-      "link": "https://www.bbc.com/news/articles/cy7jlgez0ljo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump ally's departure comes as the centre  prepares to shut down for a two-year renovation.",
-      "published": "2026-03-14T15:31:01+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "2f24f57666b417b6ee91f2339ac7dea263672cc0",
       "title": "Prediction markets want the Oscars to be your gateway drug to betting on everything",
       "link": "https://www.theverge.com/entertainment/894878/oscars-2026-kalshi-sinners-one-battle-after-anothers-marty-supreme-baftas-gambling",
@@ -860,6 +869,15 @@
       "category": "deals"
     },
     {
+      "id": "d31d14c90679939568c7d2a6114df1615d28431d",
+      "title": "Why has the US targeted Iran's Kharg Island?",
+      "link": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
+      "published": "2026-03-14T13:42:48+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "c8f821fa6d18ccfde18c9081e18c52c80db62631",
       "title": "Hamas urges key ally Iran to halt attacks on Gulf states",
       "link": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss",
@@ -894,15 +912,6 @@
       "published": "2026-03-14T13:00:00+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "8c9a47485b0a6b917d4da907f95191633eca952a",
-      "title": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor",
-      "link": "https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Security had been increased at Jewish public institutions following an earlier incident in Rotterdam.",
-      "published": "2026-03-14T12:45:41+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "bac48389c2a27566554beb0fda8c6234ef1cd1f6",
@@ -1058,15 +1067,6 @@
       "category": "events"
     },
     {
-      "id": "edc48fc21f672f55fb4f0197eba7731426332848",
-      "title": "'Hate-watch classic' War of the Worlds sweeps Razzie Awards",
-      "link": "https://www.bbc.com/news/articles/c23zx8pgx28o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ice Cube's alien invasion adaptation receives five Razzies, which go to the year's worst movies.",
-      "published": "2026-03-14T04:34:30+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "1b37a380dad3e8fe19337fe5b78caeea9973ca41",
       "title": "NASA officials sidestepped questions on Artemis II risks—there's a reason why",
       "link": "https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/",
@@ -1083,6 +1083,15 @@
       "published": "2026-03-14T00:12:22+00:00",
       "source": "TechCrunch",
       "category": "tech"
+    },
+    {
+      "id": "d2dd04d3a85eb0c306104e611a0160e2547887f2",
+      "title": "Is Dubai's glossy image under threat? Not everyone thinks so",
+      "link": "https://www.bbc.com/news/articles/c86y2gpgn54o?at_medium=RSS&at_campaign=rss",
+      "summary": "The city has been considered a safe haven by expats, tourists and influencers  - but that's now being tested.",
+      "published": "2026-03-14T00:02:29+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "b64b741452742a6786598bd200362035e6a6747e",
@@ -1128,6 +1137,15 @@
       "published": "2026-03-13T22:03:00+00:00",
       "source": "9to5Toys",
       "category": "deals"
+    },
+    {
+      "id": "2c7d81672762cbbb176e43711e0c76c848aca893",
+      "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
+      "link": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
+      "summary": "A group of fighters based in Iraq say they are \"ready to go home\", as they face drone attacks from Tehran.",
+      "published": "2026-03-13T22:02:39+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "4a38ef18f407fabf15114c11537309eab2c480f4",
@@ -1337,24 +1355,6 @@
       "category": "tech"
     },
     {
-      "id": "92e55cc15a0ca30374bb3a83910998474bd97db2",
-      "title": "Apple drops commission rates in China without a fuss",
-      "link": "https://techcrunch.com/2026/03/13/apple-drops-commission-rates-in-china-25-percent/",
-      "summary": "Apple dropped its App Store commission rates to 25% in China, and commissions on auto-renewed subscriptions down to 12%.",
-      "published": "2026-03-13T15:12:14+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "62e95f3b42e825e802ca6f1414c9dee505895779",
-      "title": "The FBI is investigating malware hidden inside games hosted on Steam",
-      "link": "https://techcrunch.com/2026/03/13/valve-steam-malware-games-fbi/",
-      "summary": "The FBI believes a series of video games published on Steam in the last two years were embedded with malware by the same hacker.",
-      "published": "2026-03-13T14:55:06+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "a4f2ab59a3f173eb6398f3964163d97323b40446",
       "title": "Aliens announce their presence in latest Disclosure Day trailer",
       "link": "https://arstechnica.com/culture/2026/03/aliens-announce-their-presence-in-latest-disclosure-day-trailer/",
@@ -1517,6 +1517,15 @@
       "category": "events"
     },
     {
+      "id": "4713e3e4c3ad0cc79c541f1928d770f756a5531f",
+      "title": "Rainfrog",
+      "link": "https://www.producthunt.com/products/rainfrog-2",
+      "summary": "<p>\n            Mix, match, and create stunning consistent campaign visuals\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rainfrog-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1091613?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-06T21:05:49+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "8802b096b8b51265a52115e9c2dfc56cc6c59294",
       "title": "Aura Water: Private Hydration",
       "link": "https://www.producthunt.com/products/aura-water",
@@ -1531,15 +1540,6 @@
       "link": "https://www.producthunt.com/products/github-google-workspace-cli",
       "summary": "<p>\n            CLI for Google Workspace ecosystem built for humans & agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/github-google-workspace-cli?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1090413?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-05T08:37:03+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "9e981f53db20aa5e7b32d608875be1f0e54c5259",
-      "title": "Agent 37",
-      "link": "https://www.producthunt.com/products/agent-37",
-      "summary": "<p>\n            Your own OpenClaw instance for $3.99/mo\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agent-37?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1089061?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-03T09:43:32+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
