@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-03-15T20:21:29.086423+00:00",
+  "generatedAt": "2026-03-15T21:22:32.439796+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "0bce8e157ad3ce60ba2f4e2e678911950a1ac2ce",
+      "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+      "link": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+      "summary": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
+      "published": "2026-03-15T21:01:51+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "38cd14a5bf72bc7bd2f0e09c49031c0315ffd711",
       "title": "Scanner, which helps organizations build cloud-native security data lakes for threat hunting, detection, and response, raised a $22M Series A led by Sequoia (Ionut Arghire/SecurityWeek)",
@@ -23,8 +32,8 @@
       "category": "malaysia"
     },
     {
-      "id": "d03b5961d77a6163b26c2e1ca4fee7a5dda46ba4",
-      "title": "Aether OS is computer in a browser built for the AT Protocol",
+      "id": "7a866319fb50d325944d617c22e6e505b06d0e36",
+      "title": "Aether OS is a computer in a browser built for the AT Protocol",
       "link": "https://www.theverge.com/tech/895083/aether-os-browser-at-protocol",
       "summary": "Aether OS puts a full-fledged desktop in your browser that ties directly into the AT Protocol. That means it connects to your Bluesky account and other public records. It offers a pretty full suite of apps, 42 in total, covering text editing, task management, and social media. There's even a rudimentary tracker for making chiptunes, [&#8230;]",
       "published": "2026-03-15T19:35:57+00:00",
@@ -1319,15 +1328,6 @@
       "category": "tech"
     },
     {
-      "id": "051f89dc12c0b25ed7ad37fc2cdedea074b8cab9",
-      "title": "Spotify will let you edit your Taste Profile to control your recommendations",
-      "link": "https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/",
-      "summary": "When you edit your Taste Profile, you'll impact your personalized playlists like Discover Weekly, recommendations, and Wrapped.",
-      "published": "2026-03-13T17:04:12+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "69b93d04d04ac858e2a80ec0c72c7e37659f2f04",
       "title": "DC Handal deploys 60kW DC Charger at Genting Indahpura Sales Gallery Johor",
       "link": "https://soyacincau.com/2026/03/14/dc-handal-60kw-dc-charger-genting-indahpura-sales-gallery-johor/",
@@ -1553,15 +1553,6 @@
       "category": "events"
     },
     {
-      "id": "67b5cce8218d0ac81849229fa471af9a9f59d6ab",
-      "title": "Struct",
-      "link": "https://www.producthunt.com/products/struct-2",
-      "summary": "<p>\n            AI agent that root-causes engineering alerts\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/struct-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1090110?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-04T21:44:43+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "9e981f53db20aa5e7b32d608875be1f0e54c5259",
       "title": "Agent 37",
       "link": "https://www.producthunt.com/products/agent-37",
@@ -1576,6 +1567,15 @@
       "link": "https://www.producthunt.com/products/the-banana-app",
       "summary": "<p>\n            Speak human - Where every word finds its way home\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/the-banana-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1085687?app_id=339\">Link</a>\n          </p>",
       "published": "2026-02-25T12:32:45+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "999a894215ca114a08e6d2d7275d9416356ab5e8",
+      "title": "Lemon",
+      "link": "https://www.producthunt.com/products/lemon-3",
+      "summary": "<p>\n            Voice-Powered AI Agent That Turns Voice Into Done Tasks\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lemon-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1082821?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-20T16:25:04+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
