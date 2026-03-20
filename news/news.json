@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-03-20T20:25:05.130404+00:00",
+  "generatedAt": "2026-03-20T21:24:15.263601+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "49d93f7bcfc99726c98ddd437f0efeef30e6c99b",
+      "title": "Super Micro says co-founder Yih-Shyan Liaw has resigned from its board after US prosecutors indicted him on allegations of smuggling Nvidia AI chips to China (Jordan Novet/CNBC)",
+      "link": "http://www.techmeme.com/260320/p22#a260320p22",
+      "summary": "<a href=\"https://www.cnbc.com/2026/03/20/super-micro-co-founder-leaves-board.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260320/i22.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260320/p22#a260320p22\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jordan Novet / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/03/20/super-micro-co-founder-leaves-board.html\">Super Micro says co-founder Yih-Shyan Liaw has resigned from its board after US prosecutors indicted him on allegations of smuggling Nvidia AI chips to China</a></b></span>&nbsp; &mdash;&nbsp; Super Micro Computer said Friday that Yih-Shyan &ldquo;Wally&rdquo; Liaw, a co-founder, has resigned from the server maker's board &hellip; </p>",
+      "published": "2026-03-20T21:05:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "63a6b4a43ca8d5b0af6a45ef9724ed3096b39f5f",
+      "title": "Anthropic launches Claude Code channels, which let users interact with a Claude Code session through Telegram and Discord (Marcus Schuler/Implicator.ai)",
+      "link": "http://www.techmeme.com/260320/p21#a260320p21",
+      "summary": "<a href=\"https://www.implicator.ai/anthropic-ships-its-openclaw-rival-connecting-claude-code-to-telegram-and-discord/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260320/i21.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260320/p21#a260320p21\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Marcus Schuler / <a href=\"https://www.implicator.ai/\">Implicator.ai</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.implicator.ai/anthropic-ships-its-openclaw-rival-connecting-claude-code-to-telegram-and-discord/\">Anthropic launches Claude Code channels, which let users interact with a Claude Code session through Telegram and Discord</a></b></span>&nbsp; &mdash;&nbsp; Anthropic released Claude Code Channels, letting developers send prompts from Telegram or Discord directly into a running session on their laptop.</p>",
+      "published": "2026-03-20T20:55:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "f107e164add8aa4712f6ec064b31e741431e020f",
+      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+      "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+      "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+      "published": "2026-03-20T20:53:09+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "4b2e976b06cc79708e7c38e19aba56371ff17472",
+      "title": "US and allies move to build missiles and drones closer to Asia&#039;s flashpoints",
+      "link": "https://www.thestar.com.my/news/world/2026/03/21/us-and-allies-move-to-build-missiles-and-drones-closer-to-asia039s-flashpoints",
+      "summary": "WASHINGTON, March 20 (Reuters) - ⁠A U.S.-led defense manufacturing partnership agreed to launch a new ⁠missile motor production program with Japan, push forward a drone ‌cooperation effort across Asia and explore building a new ammunition production line in the Philippines, the Pentagon said on Friday. <a href=\"https://www.thestar.com.my/news/world/2026/03/21/us-and-allies-move-to-build-missiles-and-drones-closer-to-asia039s-flashpoints\">Read full story</a>",
+      "published": "2026-03-20T20:35:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "d3391521b2b9ab2ffd0d70b28c8033781947dc02",
+      "title": "NASA issues draft request for moving space shuttle Discovery—or Orion capsule",
+      "link": "https://arstechnica.com/space/2026/03/nasa-issues-draft-request-for-moving-space-shuttle-discovery-or-orion-capsule/",
+      "summary": "The request goes beyond a one-time move to transporting all types of vehicles.",
+      "published": "2026-03-20T20:30:02+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
     {
       "id": "460e7f7e78ee0837128cd0bc6e8643c8e333ee4b",
       "title": "Ukraine-Hungary oil pipeline row threatens EU loan",
@@ -21,6 +66,24 @@
       "published": "2026-03-20T20:15:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
+    },
+    {
+      "id": "396008b3a3eddd851c5002b0396c141acf06cee5",
+      "title": "U.S. stocks close lower",
+      "link": "https://www.thestar.com.my/news/world/2026/03/21/us-stocks-close-lower",
+      "summary": "NEW YORK, March 20 (Xinhua) -- U.S. stocks ended lower on Friday. <a href=\"https://www.thestar.com.my/news/world/2026/03/21/us-stocks-close-lower\">Read full story</a>",
+      "published": "2026-03-20T20:11:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "af19bb8be284c1326802eb627170352b243041ee",
+      "title": "Trump FCC lets Nexstar buy Tegna and blow way past 39% TV ownership cap",
+      "link": "https://arstechnica.com/tech-policy/2026/03/fcc-lets-nexstar-buy-tegna-creating-trump-approved-broadcaster-reaching-80-of-us/",
+      "summary": "Brendan Carr lets Trump-favorite Nexstar exceed national station ownership limit.",
+      "published": "2026-03-20T20:08:01+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
     },
     {
       "id": "9055f53497ef979ccfc3d4f30d70ccad64e09fd1",
@@ -257,15 +320,6 @@
       "category": "tech"
     },
     {
-      "id": "d500786416c0c210a41286541cb42f247ad36f0b",
-      "title": "China&#039;s commerce minister meets with Apple CEO Tim Cook",
-      "link": "https://www.thestar.com.my/news/world/2026/03/21/china039s-commerce-minister-meets-with-apple-ceo-tim-cook",
-      "summary": "BEIJING, March 20 (Xinhua) -- China's Minister of Commerce Wang Wentao met with Apple CEO Tim Cook on Friday and exchanged views on topics including China-U.S. economic and trade relations, and Apple's business operations and development in China, according to a press release from the Ministry of Commerce. <a href=\"https://www.thestar.com.my/news/world/2026/03/21/china039s-commerce-minister-meets-with-apple-ceo-tim-cook\">Read full story</a>",
-      "published": "2026-03-20T18:44:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "bc127c94993f963ac78ac5a513b9aa38ba6909a5",
       "title": "Road trip on the horizon? Keep backseat riders entertained with this iPad mount down at $13.50",
       "link": "https://9to5toys.com/2026/03/20/lisen-ipad-backseat-car-mount/",
@@ -327,15 +381,6 @@
       "published": "2026-03-20T18:08:47+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "a5ceaaa23c564a40d94b7d79aed32fca882723db",
-      "title": "US strike against alleged drug smugglers in eastern Pacific kills two, Coast Guard says",
-      "link": "https://www.thestar.com.my/news/world/2026/03/21/us-strike-against-alleged-drug-smugglers-in-eastern-pacific-kills-two-coast-guard-says",
-      "summary": "March 20 (Reuters) - ⁠U.S. forces launched ⁠a strike against ‌a boat allegedly involved in drug smuggling in ​the eastern Pacific, ⁠the U.S. ⁠military said on Friday, ⁠killing two ‌people. <a href=\"https://www.thestar.com.my/news/world/2026/03/21/us-strike-against-alleged-drug-smugglers-in-eastern-pacific-kills-two-coast-guard-says\">Read full story</a>",
-      "published": "2026-03-20T18:08:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "0ce249a0d948d17da4db151d62cb8354808f4097",
@@ -647,7 +692,7 @@
       "id": "a318a40e9e2bcf78e08daea3e8332182cc93d1e3",
       "title": "Google is running a \"small\" experiment replacing news headlines in search results with AI-generated ones, after adding the feature in Google Discover in January (Sean Hollister/The Verge)",
       "link": "http://www.techmeme.com/260320/p11#a260320p11",
-      "summary": "<a href=\"https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260320/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260320/p11#a260320p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sean Hollister / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment\">Google is running a &ldquo;small&rdquo; experiment replacing news headlines in search results with AI-generated ones, after adding the feature in Google Discover in January</a></b></span>&nbsp; &mdash;&nbsp; We're seeing Verge headlines rewritten by Google AI. &hellip; Since roughly the turn of the millennium, Google Search has been the bedrock of the web.</p>",
+      "summary": "<a href=\"https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjI0Q05IV0dlS3EiLCJwIjoiL3RlY2gvODk2NDkwL2dvb2dsZS1yZXBsYWNlLW5ld3MtaGVhZGxpbmVzLWluLXNlYXJjaC1jYW5hcnktY29hbC1taW5lLWV4cGVyaW1lbnQiLCJleHAiOjE3NzQ0NzIwOTAsImlhdCI6MTc3NDA0MDA5MH0.3exwHWG6qdR5YeFLjzS1qvUy3tgfASQhbFZDTbHrkKE&amp;utm_medium=gift-link\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260320/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260320/p11#a260320p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sean Hollister / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjI0Q05IV0dlS3EiLCJwIjoiL3RlY2gvODk2NDkwL2dvb2dsZS1yZXBsYWNlLW5ld3MtaGVhZGxpbmVzLWluLXNlYXJjaC1jYW5hcnktY29hbC1taW5lLWV4cGVyaW1lbnQiLCJleHAiOjE3NzQ0NzIwOTAsImlhdCI6MTc3NDA0MDA5MH0.3exwHWG6qdR5YeFLjzS1qvUy3tgfASQhbFZDTbHrkKE&amp;utm_medium=gift-link\">Google is running a &ldquo;small&rdquo; experiment replacing news headlines in search results with AI-generated ones, after adding the feature in Google Discover in January</a></b></span>&nbsp; &mdash;&nbsp; We're seeing Verge headlines rewritten by Google AI. &hellip; Since roughly the turn of the millennium, Google Search has been the bedrock of the web.</p>",
       "published": "2026-03-20T15:00:52+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -923,15 +968,6 @@
       "category": "malaysia"
     },
     {
-      "id": "4bf899f111fb91c379fc2194688a6e5db71a64ea",
-      "title": "Sources: Amazon's ZeroOne unit is developing \"Transformer\", a phone that syncs with Alexa; it would be Amazon's second smartphone, after the Fire Phone in 2014 (Greg Bensinger/Reuters)",
-      "link": "http://www.techmeme.com/260320/p7#a260320p7",
-      "summary": "<a href=\"https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260320/i7.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260320/p7#a260320p7\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Greg Bensinger / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/\">Sources: Amazon's ZeroOne unit is developing &ldquo;Transformer&rdquo;, a phone that syncs with Alexa; it would be Amazon's second smartphone, after the Fire Phone in 2014</a></b></span>&nbsp; &mdash;&nbsp; In 2014, Amazon (AMZN.O) introduced its first smartphone, hoping to take on Apple and Samsung.</p>",
-      "published": "2026-03-20T10:35:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "1b4ae1ac40cea5f3322f7c36186300e97827a355",
       "title": "MCMC urges iPhone users to update iOS immediately following “Darksword” exploit",
       "link": "https://soyacincau.com/2026/03/20/mcmc-advisory-iphone-update-ios-darksword-security-exploit/",
@@ -986,15 +1022,6 @@
       "category": "world"
     },
     {
-      "id": "82b370753e5dc359876205c9d93c14ccb501e281",
-      "title": "Shareholder letter: crypto exchange Gemini has cut ~30% of its staff since the start of 2026 and employed ~445 people as of March 1; Gemini lost $500M+ in 2025 (Olga Kharif/Bloomberg)",
-      "link": "http://www.techmeme.com/260320/p6#a260320p6",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-03-19/winklevosses-says-jobs-cuts-at-gemini-exchange-reach-30\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260320/i6.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260320/p6#a260320p6\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Olga Kharif / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-03-19/winklevosses-says-jobs-cuts-at-gemini-exchange-reach-30\">Shareholder letter: crypto exchange Gemini has cut ~30% of its staff since the start of 2026 and employed ~445 people as of March 1; Gemini lost $500M+ in 2025</a></b></span>&nbsp; &mdash;&nbsp; Gemini Space Station Inc.'s workforce reduction has reached roughly 30% since the start of the year following layoffs &hellip; </p>",
-      "published": "2026-03-20T09:55:07+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "34c1a1488b46f5a4fa83ace075738f4344769a61",
       "title": "Ubisoft To Cease Development At Red Storm Entertainment, Layoff More Than 100 Staff",
       "link": "https://www.lowyat.net/2026/387304/ubisoft-to-cease-development-at-red-storm-entertainment-layoff-more-than-100-staff/",
@@ -1009,15 +1036,6 @@
       "link": "https://www.producthunt.com/products/gitagent-2",
       "summary": "<p>\n            Your repository becomes your agent\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gitagent-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1102921?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-20T06:11:20+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "ae94e1e6ce7b478ae3df9c812557096a3d0c1375",
-      "title": "Claude Code Channels",
-      "link": "https://www.producthunt.com/products/claude",
-      "summary": "<p>\n            Push events and chat with Claude Code via Telegram & Discord\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1102892?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-20T04:35:29+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1092,6 +1110,15 @@
       "published": "2026-03-20T00:59:29+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "e3cd5a0d91b027186e5ae740562fa8c511958577",
+      "title": "Chat",
+      "link": "https://www.producthunt.com/products/chat-5",
+      "summary": "<p>\n            turn your backend into a chat app instantly\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/chat-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1102815?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-20T00:15:04+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "989034f07a4ab509c9683bd09601b450e9e93e6d",
@@ -1180,6 +1207,15 @@
       "link": "https://www.producthunt.com/products/gaze-guard",
       "summary": "<p>\n            Instant Privacy & Screen Blur\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gaze-guard?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1102765?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-19T21:59:19+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "d0c5988927b7c0c6827ea503d5c8ce6ecfe03b5f",
+      "title": "Room Service",
+      "link": "https://www.producthunt.com/products/room-service-2",
+      "summary": "<p>\n            The Mac cleaner built for developers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/room-service-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1102760?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-19T21:57:07+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1274,15 +1310,6 @@
       "category": "tech"
     },
     {
-      "id": "3d478065029cb7df69103523e7616af8bbc65872",
-      "title": "Bluesky announces $100M Series B after CEO transition",
-      "link": "https://techcrunch.com/2026/03/19/bluesky-announces-100m-series-b-after-ceo-transition/",
-      "summary": "The additional funds have been used to scale Bluesky's team, while the company continues to develop Bluesky's app and the underlying ATProto that powers it.",
-      "published": "2026-03-19T19:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "d6e0d650798cd4f0e47cc285ac79ef3c79bfdb9a",
       "title": "OpenAI is acquiring open source Python tool-maker Astral",
       "link": "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/",
@@ -1299,33 +1326,6 @@
       "published": "2026-03-19T17:50:40+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "9fa0402c90a681f12e7d1bef741e8f0814be6635",
-      "title": "Afroman keeps trolling cops after winning “Lemon Pound Cake” defamation case",
-      "link": "https://arstechnica.com/tech-policy/2026/03/afroman-keeps-trolling-cops-after-winning-lemon-pound-cake-defamation-case/",
-      "summary": "Cops asked the jury for millions after Afroman used raid footage in music videos.",
-      "published": "2026-03-19T17:45:28+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "15e0d4e349ebee191886c753fd115eb13ea1e62e",
-      "title": "Google details new 24-hour process to sideload unverified Android apps",
-      "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "summary": "The \"advanced flow\" will be available before verification enforcement begins later this year.",
-      "published": "2026-03-19T17:28:26+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "8ab00189b976ba44514a92fc1257aba650d70afe",
-      "title": "Composer 2 by Cursor",
-      "link": "https://www.producthunt.com/products/cursor",
-      "summary": "<p>\n            Fast, token-efficient frontier-level coding model\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cursor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1102589?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-19T16:26:55+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "2709480d0dec5fa8d7471ee930be5925333cc8cb",
@@ -1526,15 +1526,6 @@
       "category": "malaysia"
     },
     {
-      "id": "d3982e861342dc71251aa7640527e27314256d34",
-      "title": "AdsTurbo",
-      "link": "https://www.producthunt.com/products/adsturbo-2",
-      "summary": "<p>\n            Create ads with AI actors that look truly human\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/adsturbo-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1100548?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-17T07:31:34+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "5253072294fc40d26fc05c793ce0d9a68f31087e",
       "title": "MCash eWallet now supports DuitNow QR and DuitNow Transfers",
       "link": "https://soyacincau.com/2026/03/17/mcash-paynet-supports-duitnow-qr-and-duitnow-transfers/",
@@ -1551,6 +1542,15 @@
       "published": "2026-03-16T15:09:26+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "460727443a950815068c6719b40f3da48e015b08",
+      "title": "GentleLimit",
+      "link": "https://www.producthunt.com/products/gentlelimit",
+      "summary": "<p>\n            Mindful screen time for macOS without blocking apps\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gentlelimit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1098900?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-15T13:52:25+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "b50be7a7e2384ed4f7acca3bc030b1b396138b66",
