@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-03-21T20:18:50.080591+00:00",
+  "generatedAt": "2026-03-21T21:18:56.456041+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "c2b22a36f6627c1b0ca1f7daf117ced1c1508b0f",
+      "title": "A look at \"tokenmaxxing\", a status game where employees at a number of companies compete on leaderboards to show how much AI they're using (Kevin Roose/New York Times)",
+      "link": "http://www.techmeme.com/260321/p11#a260321p11",
+      "summary": "<a href=\"https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html?unlocked_article_code=1.UlA.Wda2.-3Rz1wP8LBVw&amp;smid=url-share\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260321/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260321/p11#a260321p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kevin Roose / <a href=\"https://www.nytimes.com/\">New York Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html?unlocked_article_code=1.UlA.Wda2.-3Rz1wP8LBVw&amp;smid=url-share\">A look at &ldquo;tokenmaxxing&rdquo;, a status game where employees at a number of companies compete on leaderboards to show how much AI they're using</a></b></span>&nbsp; &mdash;&nbsp; An engineer at OpenAI processed 210 billion &ldquo;tokens&rdquo; &mdash; enough text to fill Wikipedia 33 times &mdash; through the company's artificial intelligence models &hellip; </p>",
+      "published": "2026-03-21T21:05:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "6cbb8f6cc5cf8813dfb4cb9f63133ffabe50432b",
+      "title": "Halide co-founder is suing former partner for bringing source code to Apple",
+      "link": "https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple",
+      "summary": "Lux Optics co-founder Sebastiaan de With made headlines when he joined Apple in late January. The company was behind Halide, one of the most popular photography apps for the iPhone, which gained a cult following for its robust pro-level controls. Apple was apparently a big enough fan that it tried to acquire the developer last [&#8230;]",
+      "published": "2026-03-21T21:02:56+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "be756d47abf03fa4c6a11fbdede8076ba9728820",
+      "title": "It’s been 20 years since the first tweet",
+      "link": "https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/",
+      "summary": "On March 21, 2006, Jack Dorsey posted a simple message: “just setting up my twittr”.",
+      "published": "2026-03-21T20:30:47+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "f3148cf8c10007c06ba980e535300bceea1565d8",
+      "title": "Urgent: Saudi Arabia declares Iranian military attache, 4 other diplomats personae non gratae",
+      "link": "https://www.thestar.com.my/news/world/2026/03/22/urgent-saudi-arabia-declares-iranian-military-attache-4-other-diplomats-personae-non-gratae",
+      "summary": "RIYADH, March 21 (Xinhua) -- Saudi Arabia declared the Iranian embassy's military attache and four other embassy staff personae non gratae, and asked them to leave the country within 24 hours, Al Arabiya News reported Saturday. <a href=\"https://www.thestar.com.my/news/world/2026/03/22/urgent-saudi-arabia-declares-iranian-military-attache-4-other-diplomats-personae-non-gratae\">Read full story</a>",
+      "published": "2026-03-21T20:28:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "94402de6803b5b010210cf4e82d3cb6c780ef114",
+      "title": "Trump threatens to send ICE into airports unless funding deal reached",
+      "link": "https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president said ICE would \"do security\" as airport security staff have gone without pay for weeks due to a partial government shutdown.",
+      "published": "2026-03-21T20:22:10+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "5826c5a1f4c68011c20869a0cf2604100ff801d4",
+      "title": "Flash: Saudi Arabia declares Iranian military attache, 4 other diplomats persona non grata -- media",
+      "link": "https://www.thestar.com.my/news/world/2026/03/22/flash-saudi-arabia-declares-iranian-military-attache-4-other-diplomats-persona-non-grata----media",
+      "summary": "Flash: Saudi Arabia declares Iranian military attache, 4 other diplomats persona non grata -- media <a href=\"https://www.thestar.com.my/news/world/2026/03/22/flash-saudi-arabia-declares-iranian-military-attache-4-other-diplomats-persona-non-grata----media\">Read full story</a>",
+      "published": "2026-03-21T20:18:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
     {
       "id": "78c1646acd02d8f2a3db89e483fbb6d8d75352c2",
       "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
@@ -131,15 +185,6 @@
       "category": "malaysia"
     },
     {
-      "id": "c5dc7d81cdb5c77023d208f2bc0192079d770da8",
-      "title": "Feature: Ethiopia sees expanding e-bike market amid rising fuel price",
-      "link": "https://www.thestar.com.my/news/world/2026/03/22/feature-ethiopia-sees-expanding-e-bike-market-amid-rising-fuel-price",
-      "summary": "by Xinhua writers Muluneh Gebre, Liu Fangqiang <a href=\"https://www.thestar.com.my/news/world/2026/03/22/feature-ethiopia-sees-expanding-e-bike-market-amid-rising-fuel-price\">Read full story</a>",
-      "published": "2026-03-21T16:35:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "b7b0032490536efbf948da1aca83e059c45a8db9",
       "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
       "link": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
@@ -147,15 +192,6 @@
       "published": "2026-03-21T16:28:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "d1dafafd7b1d127095d79ab8dc657274248d6c33",
-      "title": "Feature: Life returns to Khartoum homes on Eid Al-Fitr despite war constraints",
-      "link": "https://www.thestar.com.my/news/world/2026/03/22/feature-life-returns-to-khartoum-homes-on-eid-al-fitr-despite-war-constraints",
-      "summary": "KHARTOUM, March 21 (Xinhua) -- As dawn broke in Al-Droshab, north of Sudan's capital Khartoum, residents gathered to celebrate Eid al-Fitr, the end of the holy month of Ramadan, with prayers and chants, a tentative return to normalcy after years of displacement and turmoil. <a href=\"https://www.thestar.com.my/news/world/2026/03/22/feature-life-returns-to-khartoum-homes-on-eid-al-fitr-despite-war-constraints\">Read full story</a>",
-      "published": "2026-03-21T16:13:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "14b7cc7e0815e783c51ed13125817be261d5be8c",
@@ -626,15 +662,6 @@
       "category": "malaysia"
     },
     {
-      "id": "b266186fce73e62a826f446117ce7de6dea63cca",
-      "title": "The improved battery-powered Starlink Mini is here",
-      "link": "https://www.theverge.com/reviews/898580/peakdo-linkpower-2-review-starlink-mini-battery",
-      "summary": "My Starlink Mini has radically changed the way I live. It's the biggest reason I can work remotely from my converted van, providing fast and reliable internet in places that traditional 4G and 5G data signals don't reach. Peakdo's latest LinkPower battery makes the smallest Starlink terminal even better by setting it free from power [&#8230;]",
-      "published": "2026-03-21T07:29:33+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "75a6843821eafbe83765f42d9092d62666e074a7",
       "title": "ChargEV deploys additional EV Chargers including 240kW DC charger at Aeon Mall Nilai",
       "link": "https://soyacincau.com/2026/03/21/chargev-240kw-120kw-ev-dc-charger-aeon-mall-nilai-negeri-sembilan/",
@@ -669,15 +696,6 @@
       "published": "2026-03-21T05:55:02+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "3da088e04ddba155aef00c4789dfda6170c693c8",
-      "title": "Watch: Thick smoke billows from South Korea car parts plant in deadly fire",
-      "link": "https://www.bbc.com/news/videos/c87wg74wlgyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Eleven people were killed and dozens injured when a huge blaze engulfed a car parts factory in the central city of Daejeon.",
-      "published": "2026-03-21T05:49:15+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "22516cf9db09be2ffe6da51a620e810db917dbc3",
@@ -766,15 +784,6 @@
       "link": "http://www.techmeme.com/260320/p29#a260320p29",
       "summary": "<a href=\"https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260320/i29.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260320/p29#a260320p29\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Paresh Dave / <a href=\"http://www.wired.com/\">Wired</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/\">Filing: Anthropic says it cannot manipulate Claude once the military has deployed it, denying DOD accusations that Anthropic could tamper with models during war</a></b></span>&nbsp; &mdash;&nbsp; The Department of Defense alleges the AI developer could manipulate models in the middle of war.&nbsp; Company executives argue that's impossible.</p>",
       "published": "2026-03-21T00:20:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "97306b78f2af428af625fd22a3add73846139daa",
-      "title": "Leaked DOD letter: Pentagon will adopt Palantir's Maven AI system as an official program of record to streamline its adoption across all arms of the US military (David Jeans/Reuters)",
-      "link": "http://www.techmeme.com/260320/p28#a260320p28",
-      "summary": "<a href=\"https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260320/i28.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260320/p28#a260320p28\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> David Jeans / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/\">Leaked DOD letter: Pentagon will adopt Palantir's Maven AI system as an official program of record to streamline its adoption across all arms of the US military</a></b></span>&nbsp; &mdash;&nbsp; Palantir's (PLTR.O) Maven artificial intelligence system will become an official program of record, Deputy Secretary &hellip; </p>",
-      "published": "2026-03-21T00:00:54+00:00",
       "source": "Techmeme",
       "category": "tech"
     },
@@ -1238,15 +1247,6 @@
       "category": "events"
     },
     {
-      "id": "43b285517e9d9026730f4d390b670caf6fbd5196",
-      "title": "The best AI investment might be in energy tech",
-      "link": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
-      "summary": "Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors.",
-      "published": "2026-03-20T12:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "018f00b1b688d1d703b035a8cf317fbc48ef590e",
       "title": "Rocket Report: Canada makes a major move, US Space Force says actually, let's be hasty",
       "link": "https://arstechnica.com/space/2026/03/rocket-report-canada-makes-a-major-move-us-space-force-says-actually-lets-be-hasty/",
@@ -1346,29 +1346,11 @@
       "category": "world"
     },
     {
-      "id": "d0c5988927b7c0c6827ea503d5c8ce6ecfe03b5f",
-      "title": "Room Service",
-      "link": "https://www.producthunt.com/products/room-service-2",
-      "summary": "<p>\n            The Mac cleaner built for developers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/room-service-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1102760?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-19T21:57:07+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "d86d16e86028e7a9eee93920a49fd33a3e76208c",
       "title": "Replit Agent 4",
       "link": "https://www.producthunt.com/products/replit-agent-4",
       "summary": "<p>\n            Build design, and ship anything AI fast in one flow\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/replit-agent-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1102616?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-19T17:12:23+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "8ab00189b976ba44514a92fc1257aba650d70afe",
-      "title": "Composer 2 by Cursor",
-      "link": "https://www.producthunt.com/products/cursor",
-      "summary": "<p>\n            Fast, token-efficient frontier-level coding model\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cursor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1102589?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-19T16:26:55+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1526,6 +1508,15 @@
       "category": "malaysia"
     },
     {
+      "id": "d3982e861342dc71251aa7640527e27314256d34",
+      "title": "AdsTurbo",
+      "link": "https://www.producthunt.com/products/adsturbo-2",
+      "summary": "<p>\n            Create ads with AI actors that look truly human\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/adsturbo-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1100548?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-17T07:31:34+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "5496e04d219362b8262a70a714c9ed554b870e44",
       "title": "murmur",
       "link": "https://www.producthunt.com/products/murmur-7",
@@ -1558,6 +1549,15 @@
       "link": "https://www.producthunt.com/products/mindspend",
       "summary": "<p>\n            Track how you feel about spending, not just the numbers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mindspend?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1092181?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-07T17:40:08+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "404b2d9c8540a0ad4ff959555e170c0913975e19",
+      "title": "Assembly 2.0",
+      "link": "https://www.producthunt.com/products/assembly-7",
+      "summary": "<p>\n            Build modern client portals for service businesses\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/assembly-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1087184?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-27T21:12:29+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
