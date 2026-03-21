@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-03-21T19:18:56.271757+00:00",
+  "generatedAt": "2026-03-21T20:18:50.080591+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "78c1646acd02d8f2a3db89e483fbb6d8d75352c2",
+      "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
+      "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two children, aged 11 and 15, were also injured in the attack which took place in Zaporizhzhia.",
+      "published": "2026-03-21T19:39:57+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "c72b2d57f39373fb37b3e88ec080aa79baeb4469",
+      "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+      "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+      "summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+      "published": "2026-03-21T19:30:27+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "2b37e21ddd74c09dccc99b2388f0df0ea0447c22",
       "title": "Social media accounts showing AI-generated women as pro-Trump soldiers, truckers, and cops have gone viral, with thousands appearing to believe they are real (Drew Harwell/Washington Post)",
@@ -12,6 +30,15 @@
       "published": "2026-03-21T19:01:08+00:00",
       "source": "Techmeme",
       "category": "tech"
+    },
+    {
+      "id": "4563a87d3a79338ed30d32bfa2f66028508027a9",
+      "title": "4 killed, 2 injured in Warsaw shooting range fire",
+      "link": "https://www.thestar.com.my/news/world/2026/03/22/4-killed-2-injured-in-warsaw-shooting-range-fire",
+      "summary": "WARSAW, March 21 (Xinhua) -- Four people were killed and two others injured in a fire at a shooting range in Warsaw, Poland, on Saturday. <a href=\"https://www.thestar.com.my/news/world/2026/03/22/4-killed-2-injured-in-warsaw-shooting-range-fire\">Read full story</a>",
+      "published": "2026-03-21T18:34:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
     },
     {
       "id": "804c7d9c6794e945087701a437a41d3318be144d",
@@ -158,15 +185,6 @@
       "category": "world"
     },
     {
-      "id": "90963a4f5c779fb421e46ef87aea59ec39dc88ea",
-      "title": "Exclusive-Bahrain cites Patriot interception in March 9 Iranian drone incident",
-      "link": "https://www.thestar.com.my/news/world/2026/03/22/exclusive-bahrain-cites-patriot-interception-in-march-9-iranian-drone-incident",
-      "summary": "DUBAI/WASHINGTON March 21 (Reuters) - A Patriot ⁠air defence system was involved in the interception of ‌an Iranian drone over a residential area of Bahrain on March 9, Bahrain's government said on Saturday, an incident that the U.S. military had characterised as ​a direct Iranian drone strike. <a href=\"https://www.thestar.com.my/news/world/2026/03/22/exclusive-bahrain-cites-patriot-interception-in-march-9-iranian-drone-incident\">Read full story</a>",
-      "published": "2026-03-21T16:02:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "29eb4f052b7a34ff00fa351760587c5be03e9687",
       "title": "Vercel, which helps developers host web apps and AI agents, says its run-rate GAAP revenue hit $340M at the end of February, up 86% YoY, amid the AI coding boom (Richard Nieva/Forbes)",
       "link": "http://www.techmeme.com/260321/p7#a260321p7",
@@ -221,8 +239,8 @@
       "category": "deals"
     },
     {
-      "id": "6e869923e93af9c4d6fc703e0916d0187d83e30a",
-      "title": "First photos as BTS make live return in front of huge crowd",
+      "id": "59b4164b894fe8bab768b7d43cdb83dec7110bb3",
+      "title": "BTS make live return in front of huge crowd",
       "link": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
       "summary": "RM, Jin, Suga, J-Hope, Jimin, V and Jung Kook perform together for the first time since October 2022.",
       "published": "2026-03-21T13:24:34+00:00",
@@ -480,15 +498,6 @@
       "published": "2026-03-21T10:36:36+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "78c1646acd02d8f2a3db89e483fbb6d8d75352c2",
-      "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
-      "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia.",
-      "published": "2026-03-21T10:34:53+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "6b72dd886f802b5a60e546bc5033124b8eee1ce2",
@@ -1247,15 +1256,6 @@
       "category": "tech"
     },
     {
-      "id": "71ee468e18c7d98816651eb6e32525a791a0e73e",
-      "title": "These AI notetaking devices can help you record and transcribe your meetings",
-      "link": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
-      "summary": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation.",
-      "published": "2026-03-20T11:31:38+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "1d9f12566ff4d8b14212122d12d75dedff2330f1",
       "title": "Steam Spring Sale 2026 Ongoing; Here Are Some Suggestions",
       "link": "https://www.lowyat.net/2026/387309/steam-spring-sale-2026/",
@@ -1344,6 +1344,15 @@
       "published": "2026-03-20T00:04:57+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "d0c5988927b7c0c6827ea503d5c8ce6ecfe03b5f",
+      "title": "Room Service",
+      "link": "https://www.producthunt.com/products/room-service-2",
+      "summary": "<p>\n            The Mac cleaner built for developers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/room-service-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1102760?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-19T21:57:07+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "d86d16e86028e7a9eee93920a49fd33a3e76208c",
@@ -1459,15 +1468,6 @@
       "link": "https://www.producthunt.com/products/sanota",
       "summary": "<p>\n            Stories, beautifully crafted\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sanota?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1101671?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-18T13:42:25+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "4fd33b6175560c6463e98b5454b745ed85cd807a",
-      "title": "ProductBridge",
-      "link": "https://www.producthunt.com/products/productbridge",
-      "summary": "<p>\n            Agent that collects feedback across multiple platforms\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/productbridge?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1101621?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-18T12:42:01+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
