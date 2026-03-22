@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-03-22T21:20:07.234985+00:00",
+  "generatedAt": "2026-03-22T22:19:01.890359+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "e0061be10f82b1df5acc1ec42a67977a2375a25a",
+      "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
+      "link": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.",
+      "published": "2026-03-22T21:52:28+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "9d985ff77f4c6cab172d4d5fa06a0d229a43ae7d",
+      "title": "Topical Dancer is propulsive, playful, and political",
+      "link": "https://www.theverge.com/entertainment/898796/charlotte-adigery-bolis-pupul-topical-dancer-review",
+      "summary": "Last week's recommendation, Sotomayor's Wabi Sabi, has a very particular vibe that you don't find in a lot of records. One of the few things it called to mind was 2022's Topical Dancer from Charlotte Adigery and Bolis Pupul, which I ended up revisiting this week a lot. The two records don't seem particularly alike [&#8230;]",
+      "published": "2026-03-22T21:44:30+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "88c8cda5fa7a6db137c74cbf244e614c14cfecb6",
+      "title": "National blackout hits Cuba for second time in a week",
+      "link": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
+      "published": "2026-03-22T21:31:41+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "e7925588fd000262b75dba004e30edafcf0ea5f3",
+      "title": "Roundup: Europe sees wave of protests against U.S., Israeli strikes on Iran",
+      "link": "https://www.thestar.com.my/news/world/2026/03/23/roundup-europe-sees-wave-of-protests-against-us-israeli-strikes-on-iran",
+      "summary": "LONDON, March 22 (Xinhua) -- Thousands of protesters took to the streets in London on Saturday, joining a growing wave of demonstrations across Europe against U.S. and Israeli military strikes on Iran. <a href=\"https://www.thestar.com.my/news/world/2026/03/23/roundup-europe-sees-wave-of-protests-against-us-israeli-strikes-on-iran\">Read full story</a>",
+      "published": "2026-03-22T21:29:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "e844bb17a36554c6618bd1010d880c85b4cb7e32",
+      "title": "Economic Watch: Middle East conflict may undermine safe-haven appeal of U.S. dollar assets",
+      "link": "https://www.thestar.com.my/news/world/2026/03/23/economic-watch-middle-east-conflict-may-undermine-safe-haven-appeal-of-us-dollar-assets",
+      "summary": "by Xinhua writers Fu Yunwei, Yang Hui, Ma Zegang <a href=\"https://www.thestar.com.my/news/world/2026/03/23/economic-watch-middle-east-conflict-may-undermine-safe-haven-appeal-of-us-dollar-assets\">Read full story</a>",
+      "published": "2026-03-22T21:24:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
     {
       "id": "341bd3b5e043aa957e2ce930ef181a6faaa95a11",
       "title": "Tencent launches ClawBot, an OpenClaw-based agent integrated into WeChat, letting its 1B+ MAUs send and receive commands to interact with the AI agent via chat (Reuters)",
@@ -95,15 +140,6 @@
       "category": "tech"
     },
     {
-      "id": "e0061be10f82b1df5acc1ec42a67977a2375a25a",
-      "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
-      "link": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.",
-      "published": "2026-03-22T18:37:07+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "1c96b9e00e2065a09e871a88c9c5dc398c0188f1",
       "title": "Cuba is ready for any potential attack from US amid oil blockade, envoy says",
       "link": "https://www.thestar.com.my/news/world/2026/03/23/cuba-is-ready-for-any-potential-attack-from-us-amid-oil-blockade-envoy-says",
@@ -165,15 +201,6 @@
       "published": "2026-03-22T17:10:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
-    },
-    {
-      "id": "88c8cda5fa7a6db137c74cbf244e614c14cfecb6",
-      "title": "National blackout hits Cuba for second time in a week",
-      "link": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
-      "published": "2026-03-22T16:59:26+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "1c6c6f58f57e9ee4b8f8e24a1f4913aafb01c31a",
@@ -255,24 +282,6 @@
       "published": "2026-03-22T14:43:51+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "5934009d9c6440b9ac2c18369e731167de3d3be2",
-      "title": "Diver feared missing in Pulau Tenggol, still not found",
-      "link": "https://www.thestar.com.my/news/nation/2026/03/22/diver-feared-missing-in-pulau-tenggol-still-not-found",
-      "summary": "DUNGUN: The search and rescue operation for a 66-year-old man who was feared missing while diving near Pulau Tenggol here on Friday (March 20) has still not found the victim as of Sunday afternoon. <a href=\"https://www.thestar.com.my/news/nation/2026/03/22/diver-feared-missing-in-pulau-tenggol-still-not-found\">Read full story</a>",
-      "published": "2026-03-22T14:35:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
-      "id": "99794e2aa7b85ec653a09ee456281b1e7f04bf9d",
-      "title": "Iran to completely close Hormuz if Trump executes threats on Iranian energy, Revolutionary Guards say",
-      "link": "https://www.thestar.com.my/news/world/2026/03/22/iran-to-completely-close-hormuz-if-trump-executes-threats-on-iranian-energy-revolutionary-guards-say",
-      "summary": "DUBAI, March ⁠22 (Reuters) - Iran will completely ⁠shut the strategic Strait of ‌Hormuz if U.S. President Trump executes threats to target Iranian energy ​facilities, the country's ⁠Revolutionary Guards said ⁠in a statement on Sunday. <a href=\"https://www.thestar.com.my/news/world/2026/03/22/iran-to-completely-close-hormuz-if-trump-executes-threats-on-iranian-energy-revolutionary-guards-say\">Read full story</a>",
-      "published": "2026-03-22T14:27:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
     },
     {
       "id": "cc7cdd7517336386fbd25dfa14b76f5835bf2e61",
@@ -821,15 +830,6 @@
       "summary": "<a href=\"http://www.forbes.com/sites/richardnieva/2026/03/17/vercel-guillermo-rauch/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260321/i7.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260321/p7#a260321p7\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Richard Nieva / <a href=\"http://www.forbes.com/\">Forbes</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"http://www.forbes.com/sites/richardnieva/2026/03/17/vercel-guillermo-rauch/\">Vercel, which helps developers host web apps and AI agents, says its run-rate GAAP revenue hit $340M at the end of February, up 86% YoY, amid the AI coding boom</a></b></span>&nbsp; &mdash;&nbsp; One of the most popular ways to view the Epstein Files, an interface called Jmail that mimics a Gmail inbox, is hosted on Guillermo Rauch's $9.3 billion unicorn Vercel.</p>",
       "published": "2026-03-21T15:05:01+00:00",
       "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "66af3da0e647efe8b774bcb3c37f264bc40fb643",
-      "title": "Here are 20 of our favorite outdoor deals from REI’s Member Days Sale",
-      "link": "https://www.theverge.com/gadgets/897628/best-outdoor-deals-rei-member-days-sale-2026",
-      "summary": "REI’s latest sale is in full swing. The outdoor retailer’s exclusive shopping event runs through Monday, March 23rd, bringing with it a batch of discounts on Garmin watches, tents, portable stoves, and a slew of Verge-approved goodies. As expected, most deals are available only to REI members; however, you can still join the co-op for [&#8230;]",
-      "published": "2026-03-21T14:40:00+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -1526,15 +1526,6 @@
       "category": "events"
     },
     {
-      "id": "d1d977dd0090d5143252b1941ed674ada2d81ed8",
-      "title": "Design Agent by Lokuma",
-      "link": "https://www.producthunt.com/products/lokuma-ai",
-      "summary": "<p>\n            The designer for your AI agents (Openclaw, CC, Codex)\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lokuma-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1093404?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-09T10:53:28+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "901554ed5244abcaec9b8d14ef39d6adb035cd45",
       "title": "Mindspend",
       "link": "https://www.producthunt.com/products/mindspend",
@@ -1567,6 +1558,15 @@
       "link": "https://www.producthunt.com/products/novi-notes",
       "summary": "<p>\n            Local-first AI note app for Mac zero config via MCP\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/novi-notes?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1087121?app_id=339\">Link</a>\n          </p>",
       "published": "2026-02-27T18:25:57+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "d16d6fa7746edeba0f47249886c906d4712d76c8",
+      "title": "Fractal",
+      "link": "https://www.producthunt.com/products/fractal-2",
+      "summary": "<p>\n            The fastest way to ship exceptional ChatGPT apps\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fractal-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1086678?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-02-27T01:57:01+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
