@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-03-28T21:24:11.292844+00:00",
+  "generatedAt": "2026-03-28T22:21:55.227641+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "0032242452a18a299fd275ebeb81a37628351ef8",
+      "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+      "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
+      "published": "2026-03-28T21:50:40+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "692729a375c5485a86d8aaef0dd634e8b7e9a028",
+      "title": "No Kings protests across the US rally against Donald Trump",
+      "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The demonstrations against the Trump administration are set to sweep cities across the US on Saturday.",
+      "published": "2026-03-28T21:29:57+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "88b178e8c34895b46005ca85be14e405c069a4c1",
       "title": "Mark Zuckerberg texted Elon Musk to offer help with DOGE",
@@ -12,15 +30,6 @@
       "published": "2026-03-28T21:23:58+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "692729a375c5485a86d8aaef0dd634e8b7e9a028",
-      "title": "No Kings protests across the US rally against Donald Trump",
-      "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The demonstrations against the Trump administration are set to sweep cities across the US on Saturday.",
-      "published": "2026-03-28T21:10:08+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "ad5e4340390c43a8d3a5b129f9cf49581e5f0295",
@@ -39,15 +48,6 @@
       "published": "2026-03-28T20:45:54+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "0032242452a18a299fd275ebeb81a37628351ef8",
-      "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
-      "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
-      "published": "2026-03-28T20:36:03+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "7523b1a5510a82a1fb3f9dfc11227cca35eee0ff",
@@ -833,15 +833,6 @@
       "category": "tech"
     },
     {
-      "id": "eb374b7870b75b211fe39e95e499b6ff7e0d973b",
-      "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
-      "link": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
-      "summary": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC.",
-      "published": "2026-03-28T00:05:47+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "c220214f8e4dc569c916459f7df5e5280760fa28",
       "title": "Maldives tells UK it does not recognise Chagos Islands deal with Mauritius",
       "link": "https://www.bbc.com/news/articles/c74vedxjq8zo?at_medium=RSS&at_campaign=rss",
@@ -1389,6 +1380,15 @@
       "published": "2026-03-27T04:46:43+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
+    },
+    {
+      "id": "2ec908367733a7588cb7a9f160f1601b15e9c3de",
+      "title": "Belarus leader gifts rifle to North Korea's Kim as they sign friendship treaty",
+      "link": "https://www.bbc.com/news/articles/c8957dxjvkxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two key supporters of Russia's war in Ukraine close ranks as Alexander Lukashenko visits Pyongyang.",
+      "published": "2026-03-27T03:14:10+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "fb03b22c1677385d32458921da996cfaa17f7ac7",
