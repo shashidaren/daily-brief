@@ -1,24 +1,51 @@
 {
-  "generatedAt": "2026-03-28T20:22:17.090119+00:00",
+  "generatedAt": "2026-03-28T21:24:11.292844+00:00",
   "counts": {
     "total": 175
   },
   "items": [
     {
-      "id": "0032242452a18a299fd275ebeb81a37628351ef8",
-      "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
-      "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
-      "published": "2026-03-28T20:17:24+00:00",
+      "id": "88b178e8c34895b46005ca85be14e405c069a4c1",
+      "title": "Mark Zuckerberg texted Elon Musk to offer help with DOGE",
+      "link": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/",
+      "summary": "While the relationship was once thorny enough that Musk challenged Zuckerberg to a cagefight, things seem to have warmed up by the early days of the second Trump administration.",
+      "published": "2026-03-28T21:23:58+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "692729a375c5485a86d8aaef0dd634e8b7e9a028",
+      "title": "No Kings protests across the US rally against Donald Trump",
+      "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The demonstrations against the Trump administration are set to sweep cities across the US on Saturday.",
+      "published": "2026-03-28T21:10:08+00:00",
       "source": "BBC News",
       "category": "world"
     },
     {
-      "id": "8b7bca0ba0b517d42aef98d70b730acbf5d27296",
-      "title": "Iran-backed Houthis join war with attack against Israel",
-      "link": "https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss",
-      "summary": "There are fears the Iranian proxy may attack shipping in the Red Sea, adding to global economic woes.",
-      "published": "2026-03-28T20:11:53+00:00",
+      "id": "ad5e4340390c43a8d3a5b129f9cf49581e5f0295",
+      "title": "World Insights: Chinese firms eye bigger EU footprint despite policy uncertainty",
+      "link": "https://www.thestar.com.my/news/world/2026/03/29/world-insights-chinese-firms-eye-bigger-eu-footprint-despite-policy-uncertainty",
+      "summary": "BRUSSELS, March 28 (Xinhua) -- Chinese companies are planning to deepen their presence in the European Union (EU) market despite concerns over regulation and policy uncertainty, according to a report released this week at a forum in Luxembourg. <a href=\"https://www.thestar.com.my/news/world/2026/03/29/world-insights-chinese-firms-eye-bigger-eu-footprint-despite-policy-uncertainty\">Read full story</a>",
+      "published": "2026-03-28T20:57:00+00:00",
+      "source": "The Star : News Feed",
+      "category": "malaysia"
+    },
+    {
+      "id": "3d3f09431abcc4ddd3246a39140f3108f9a569a6",
+      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+      "published": "2026-03-28T20:45:54+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "0032242452a18a299fd275ebeb81a37628351ef8",
+      "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+      "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
+      "published": "2026-03-28T20:36:03+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -401,15 +428,6 @@
       "category": "malaysia"
     },
     {
-      "id": "10434b4db59ec80088f7541b553db8900b1f4084",
-      "title": "Foreign man nabbed for recording voyeuristic videos in mall toilet",
-      "link": "https://www.thestar.com.my/news/nation/2026/03/28/foreign-man-nabbed-for-recording-voyeuristic-videos-in-mall-toilet",
-      "summary": "PETALING JAYA: Police have arrested a foreign man for allegedly recording a video of another man inside a public toilet at a shopping mall in Bukit Jalil. <a href=\"https://www.thestar.com.my/news/nation/2026/03/28/foreign-man-nabbed-for-recording-voyeuristic-videos-in-mall-toilet\">Read full story</a>",
-      "published": "2026-03-28T12:39:00+00:00",
-      "source": "The Star : News Feed",
-      "category": "malaysia"
-    },
-    {
       "id": "a41ef06b367432c58848dc51c8cb37be7f7492fc",
       "title": "Explanation for why we don't see two-foot-long dragonflies anymore fails",
       "link": "https://arstechnica.com/science/2026/03/leading-explanation-for-ancient-giant-flying-insects-gets-squashed/",
@@ -743,8 +761,8 @@
       "category": "deals"
     },
     {
-      "id": "7f5eec7b319682fbeabc5a9d481d6899b435f7ff",
-      "title": "Whoop has LeBron – now it wants your mom",
+      "id": "ba2c0b6a142c0ccc8db035d02bdc390847bf0c2e",
+      "title": "Whoop’s fitness band is cool. Can it stay cool as the company grows?",
       "link": "https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/",
       "summary": "Whoop founder Will Ahmed has spent 14 years building a health wearable beloved by elite athletes, and is now racing Oura — and the FDA, and the limits of consumer medicine — to turn it into something that could one day save your life.",
       "published": "2026-03-28T02:31:10+00:00",
@@ -1378,24 +1396,6 @@
       "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
       "summary": "Sacks will be much further from the power center in Washington than since the outset of this second Trump administration.",
       "published": "2026-03-27T01:26:40+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "602b8c264df43b2b5fc2db19ecaa960d1a1f653a",
-      "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
-      "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
-      "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
-      "published": "2026-03-27T01:18:38+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "d5bfe4639904c224800ed0d823a3bae321a8f5c1",
-      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
-      "link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
-      "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
-      "published": "2026-03-26T23:47:56+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
