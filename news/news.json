@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-03-29T15:25:18.431758+00:00",
+  "generatedAt": "2026-03-29T16:27:58.074449+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "c9e187bf119d85ee413b20dab1da0fb5d4f46b59",
+      "title": "TechCrunch Mobility: When a robotaxi has to call 911",
+      "link": "https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "published": "2026-03-29T16:05:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "e98f7409e3ec720637d80cdc81adcfcd085f6131",
+      "title": "Canada's New Democratic Party elects Avi Lewis as its leader",
+      "link": "https://www.bbc.com/news/articles/czd74q2nqp0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Avi Lewis's campaign platform focused on revitalising the struggling left-leaning party and prioritising workers' rights.",
+      "published": "2026-03-29T16:01:00+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "d80bcd0b3097e1ee5173676ecb632eb8bdac8e6c",
+      "title": "Three arrested in Paris after attempted bomb attack outside Bank of America",
+      "link": "https://www.bbc.com/news/articles/cd9v234j2v7o?at_medium=RSS&at_campaign=rss",
+      "summary": "France's anti-terrorism prosecutor's office said it had immediately taken over the investigation.",
+      "published": "2026-03-29T15:33:36+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "bfc94ff8dc148b506085e1480c0c7115dc19bcc5",
+      "title": "Two Australian states offer free public transport as war pushes up fuel prices",
+      "link": "https://www.bbc.com/news/articles/c937n0yxggeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Victoria and Tasmania incentivise commuters not to drive as the Iran war causes the price of petrol to shoot up.",
+      "published": "2026-03-29T15:24:54+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "d847d8f5fd01b525e22ef5f67751ee41a74ee297",
       "title": "Can my favorite Game Boy gadget tell fake cartridges from real?",
@@ -581,24 +617,6 @@
       "category": "world"
     },
     {
-      "id": "37898d2735522a13b8338967113c9ab03cccb6c2",
-      "title": "One ant for $220: The new frontier of wildlife trafficking",
-      "link": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The craze for collecting ants takes Kenya by surprise as smugglers zone in to make a profit.",
-      "published": "2026-03-29T00:01:15+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "59d314dc977688324190f5ca8589417870bf16e3",
-      "title": "How deepfake porn scandal surrounding TV star rocked Germany",
-      "link": "https://www.bbc.com/news/articles/c9vlm4j47e2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Collien Fernandes has accused her ex-husband of spreading images of her online, but he has categorically denied it.",
-      "published": "2026-03-29T00:00:18+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "899564bfea5c2ae7e5b713c690062b9a4606b46e",
       "title": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
       "link": "https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss",
@@ -995,15 +1013,6 @@
       "category": "world"
     },
     {
-      "id": "d3c272676005f880917abc0e949ddefa0bd6aba6",
-      "title": "Nepal's ex-PM arrested over fatal protest crackdown",
-      "link": "https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 70 people were killed during an uprising last year which ousted Oli's government.",
-      "published": "2026-03-28T06:58:37+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "175b7115776fb03dea77f6be1ff2091dcc62eaa9",
       "title": "Tiger Woods released on bail after DUI arrest",
       "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
@@ -1157,6 +1166,15 @@
       "category": "tech"
     },
     {
+      "id": "f5cceed6f416065b1a00f6d9af5a2ca856369818",
+      "title": "Glance",
+      "link": "https://www.producthunt.com/products/glance-give-claude-code-a-real-browser",
+      "summary": "<p>\n            Real browser for Claude Code Test, Screenshot, Automate     \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/glance-give-claude-code-a-real-browser?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1109439?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-27T20:47:53+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "ac112913e31c4dedfd4170147202e92aece1eef3",
       "title": "AV1’s open, royalty-free promise in question as Dolby sues Snapchat over codec",
       "link": "https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/",
@@ -1164,15 +1182,6 @@
       "published": "2026-03-27T20:31:21+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "8b766a96f70af7834f1d950c693b699adf0af65d",
-      "title": "SlapMac",
-      "link": "https://www.producthunt.com/products/slapmac",
-      "summary": "<p>\n            Slap your MacBook. It screams back. That's it.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/slapmac?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1109422?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-27T20:19:56+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "4fc047c508aaa33d80a40669bb7786ff5c4fa1a3",
@@ -1209,6 +1218,15 @@
       "published": "2026-03-27T19:41:00+00:00",
       "source": "9to5Toys",
       "category": "deals"
+    },
+    {
+      "id": "e0da67ea4825c3f3e49c721398d6d19b019632f4",
+      "title": "WordPress Studio CLI",
+      "link": "https://www.producthunt.com/products/wordpress-studio-cli",
+      "summary": "<p>\n            WordPress Studio now has an independently installable CLI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wordpress-studio-cli?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1109387?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-27T19:31:58+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "13b1406c2f0283af065fc30fa58e10534f3d5da5",
@@ -1334,15 +1352,6 @@
       "summary": "M2 Ultra Mac Pro is no longer for sale, and Apple says no replacement is planned.",
       "published": "2026-03-27T14:47:03+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "19c03bcbd395ecb615753a70f6dd35441775091b",
-      "title": "Apple says no one using Lockdown Mode has been hacked with spyware",
-      "link": "https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/",
-      "summary": "The tech giant's claim that it has not seen any successful spyware attacks targeting Apple devices with Lockdown Mode enabled comes amid a leak of hacking tools targeting users running devices with older software.",
-      "published": "2026-03-27T14:27:32+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1535,15 +1544,6 @@
       "category": "events"
     },
     {
-      "id": "a8b10b8895e59dd1bae867b9df538a642e9b2e68",
-      "title": "CrabTalk",
-      "link": "https://www.producthunt.com/products/crabtalk",
-      "summary": "<p>\n            The agent daemon that hides nothing. 8MB. Open Source\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/crabtalk?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1105969?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-24T10:52:45+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "5a50fdd2b8f0a868368fe00f271fd5f00944e17c",
       "title": "Parallel Code",
       "link": "https://www.producthunt.com/products/parallel-code",
@@ -1562,11 +1562,11 @@
       "category": "events"
     },
     {
-      "id": "207f1d897773ff4452e2fa03af6e4fbd3c374e64",
-      "title": "Apparent for Gmail",
-      "link": "https://www.producthunt.com/products/apparent-for-gmail",
-      "summary": "<p>\n            Make Gmail easier to read and manage.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/apparent-for-gmail?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1098487?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-14T21:39:21+00:00",
+      "id": "43ea1d8fb2c35e4dd1f587085a03449453cf4bfe",
+      "title": "BNA",
+      "link": "https://www.producthunt.com/products/bna-3",
+      "summary": "<p>\n            AI agent that builds full-stack iOS & Android apps with auth\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bna-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1098489?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-14T21:40:54+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
