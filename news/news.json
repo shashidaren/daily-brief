@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-03-29T20:24:12.641981+00:00",
+  "generatedAt": "2026-03-29T21:25:47.594639+00:00",
   "counts": {
     "total": 175
   },
   "items": [
+    {
+      "id": "af792ac4ad3aec4bd1c8985d215f554af270ebbd",
+      "title": "YouTube CEO says the best YouTubers will ‘never leave their home’",
+      "link": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/",
+      "summary": "CEO Neal Mohan insisted that he isn’t worried about Netflix luring away YouTube's most popular creators.",
+      "published": "2026-03-29T21:17:52+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "7fd2706afd50f594eba8abc425fbaf35b0ccbc85",
+      "title": "No Kings protests draw large crowds to rally against Donald Trump",
+      "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
+      "summary": "One of the flagship No Kings rallies happened in Minnesota, where singer Bruce Springsteen performed to crowds.",
+      "published": "2026-03-29T20:42:32+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "58bb3418aab85c32057c22ef2fd611eb31b9cf9b",
       "title": "Israeli police block Latin Patriarch from Palm Sunday mass in Jerusalem",
@@ -57,15 +75,6 @@
       "published": "2026-03-29T19:04:00+00:00",
       "source": "The Star : News Feed",
       "category": "malaysia"
-    },
-    {
-      "id": "4705332e7b6816afb94cefc8e44276c83d1cf2ad",
-      "title": "No Kings protests draw millions to rally against Donald Trump",
-      "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
-      "summary": "One of the flagship No Kings rallies happened in Minnesota, where singer Bruce Springsteen performed to crowds.",
-      "published": "2026-03-29T18:55:56+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "babe4cfd7397b0193dd04dfdbc2224b094615667",
@@ -1184,15 +1193,6 @@
       "category": "tech"
     },
     {
-      "id": "f5cceed6f416065b1a00f6d9af5a2ca856369818",
-      "title": "Glance",
-      "link": "https://www.producthunt.com/products/glance-give-claude-code-a-real-browser",
-      "summary": "<p>\n            Real browser for Claude Code Test, Screenshot, Automate     \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/glance-give-claude-code-a-real-browser?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1109439?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-27T20:47:53+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "ac112913e31c4dedfd4170147202e92aece1eef3",
       "title": "AV1’s open, royalty-free promise in question as Dolby sues Snapchat over codec",
       "link": "https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/",
@@ -1292,15 +1292,6 @@
       "category": "tech"
     },
     {
-      "id": "1ff3267d18898f888a0c55085f054e2ce7ced027",
-      "title": "Aetherflux reportedly raising Series B at $2 billion valuation",
-      "link": "https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/",
-      "summary": "Index Ventures is said to be leading a $250 million to $350 million round.",
-      "published": "2026-03-27T17:05:26+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "1618c47229367494c27d7bf46635557f7bc26198",
       "title": "RepoLens",
       "link": "https://www.producthunt.com/products/repolens",
@@ -1391,15 +1382,6 @@
       "category": "events"
     },
     {
-      "id": "703dd84f42bc100396b3e35c765854cf29012144",
-      "title": "Bulk Exporter for Sora",
-      "link": "https://www.producthunt.com/products/bulk-exporter-for-sora",
-      "summary": "<p>\n            1-click backup for your Sora videos, images & prompts.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bulk-exporter-for-sora?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1109114?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-27T12:45:19+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "a034fa07f9b5868ff47955311498ff6bf04bd282",
       "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
       "link": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
@@ -1463,6 +1445,15 @@
       "category": "malaysia"
     },
     {
+      "id": "26fbdfddb7c77f2951e6bf266b18bd0ce381c2fa",
+      "title": "Aera Browser",
+      "link": "https://www.producthunt.com/products/aera-browser",
+      "summary": "<p>\n            The browser built for automation\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/aera-browser?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1108508?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-26T22:00:34+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "57930bbf54cecae221d688f3a0b825687d47e532",
       "title": "Elon Musk loses big in court; X boycott perfectly legal",
       "link": "https://arstechnica.com/tech-policy/2026/03/elon-musk-loses-big-in-court-x-boycott-perfectly-legal/",
@@ -1497,15 +1488,6 @@
       "published": "2026-03-26T15:26:22+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "9a032b9aee3dcccda7138140db1ff4466eaf26a7",
-      "title": "Cohere Transcribe",
-      "link": "https://www.producthunt.com/products/cohere-2",
-      "summary": "<p>\n            New state-of-the-art in open source speech recognition\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cohere-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1108068?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-26T14:10:22+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "03ff8eb159374eaeed12681ce1474e25c6bd1644",
@@ -1576,6 +1558,24 @@
       "link": "https://www.producthunt.com/products/peopling",
       "summary": "<p>\n            Practice difficult conversations before they happen\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/peopling?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1104682?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-23T00:33:40+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "43ea1d8fb2c35e4dd1f587085a03449453cf4bfe",
+      "title": "BNA",
+      "link": "https://www.producthunt.com/products/bna-3",
+      "summary": "<p>\n            AI agent that builds full-stack iOS & Android apps with auth\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bna-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1098489?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-14T21:40:54+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "207f1d897773ff4452e2fa03af6e4fbd3c374e64",
+      "title": "Apparent for Gmail",
+      "link": "https://www.producthunt.com/products/apparent-for-gmail",
+      "summary": "<p>\n            Make Gmail easier to read and manage.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/apparent-for-gmail?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1098487?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-14T21:39:21+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
