@@ -1,9 +1,90 @@
 {
-  "generatedAt": "2026-03-31T21:33:08.496449+00:00",
+  "generatedAt": "2026-03-31T22:28:11.638153+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "e7acab55d5bb65faa7072dd179adfbf0a16a2435",
+      "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+      "summary": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more than 512,000 lines of code and provides a [&#8230;]",
+      "published": "2026-03-31T22:24:19+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "aba519d6da2127f261fd3130f3dd9eebbac15ab8",
+      "title": "Judge temporarily halts construction of Trump's White House ballroom",
+      "link": "https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Republican-appointed judge ruled that Trump was the \"steward\" of the White House, but not the \"owner\".",
+      "published": "2026-03-31T22:16:06+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "526ddee51d24197ca5ab74321664004e543e12f6",
+      "title": "An excerpt from the book The Infinity Machine details how DeepMind's early governance battles with Google changed Demis Hassabis from an idealist into a realist (Sebastian Mallaby/Colossus)",
+      "link": "http://www.techmeme.com/260331/p59#a260331p59",
+      "summary": "<a href=\"https://colossus.com/article/project-mario-demis-hassabis-deepmind-mallaby/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260331/i59.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260331/p59#a260331p59\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sebastian Mallaby / <a href=\"https://colossus.com/\">Colossus</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://colossus.com/article/project-mario-demis-hassabis-deepmind-mallaby/\">An excerpt from the book The Infinity Machine details how DeepMind's early governance battles with Google changed Demis Hassabis from an idealist into a realist</a></b></span>&nbsp; &mdash;&nbsp; The inside story of how DeepMind's experiments in AI safety governance transformed Demis Hassabis from an idealist into a realist</p>",
+      "published": "2026-03-31T22:10:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "47548e99284fcce0dcf8e085e05e576b09819b08",
+      "title": "Peacekeepers killed by roadside explosion in Lebanon, initial report finds",
+      "link": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The deaths of the two Indonesian nationals came less than a day after another UN peacekeeper - also Indonesian - was killed in Lebanon.",
+      "published": "2026-03-31T22:07:26+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "bea750ff337435d803f7d49777477231bc4f6f68",
+      "title": "You can grab a four-pack of Govee’s color-changing smart bulbs for just $27",
+      "link": "https://www.theverge.com/gadgets/904698/govee-smart-a19-led-color-bulbs-amazon-big-spring-sale-2026-deal",
+      "summary": "Spring cleaning isn’t just about clearing things out. It’s also a chance to refresh your living space, and a simple place to start is smart lighting — specifically, Govee&#8217;s Smart A19 LED Light Bulbs. The color-changing bulbs can instantly change the vibe of your home, and now through the end of today, March 31st, you [&#8230;]",
+      "published": "2026-03-31T21:59:47+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "789f95672c3ce9fa31c8a1d70fb594616b487d75",
+      "title": "Save $314 on Dyson’s highly advanced Gen5detect cordless vacuum that adapts to floor needs at $735",
+      "link": "https://9to5toys.com/2026/03/31/dyson-gen5detect-cordless-vacuum-at-735/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/03/Dyson-Gen5detect-Cordless-vacuum.jpg?quality=82&#038;strip=all&#038;w=1200\" /></div><p>As part of the final day of Amazon’s Big Spring Sale, you can bring home Dyson’s highly-advanced Gen5detect Cordless Vacuum down at <strong>$734.99 shipped</strong>. This model would run you $1,049 were it at full price, but it’s dropping down to the second-best rate we have tracked in four months here while the savings last, beaten out by a short-term lightning sale that took things $35 lower last week. While we have seen the price go lower in 2025, those rates haven’t been seen since Black Friday, with the 30% markdown here still giving you a solid $314 cut from the tag. If you’re looking for a cheaper alternative, you can find a number of <a href=\"https://9to5toys.com/2026/03/30/dyson-cordless-vacuum-air-purifier-or-fan-starting-from-230/\">Dyson’s other vacuums, air purifiers, and fans getting up to 39% savings starting from $230 here</a>. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/03/31/dyson-gen5detect-cordless-vacuum-at-735/#more-1201950\">more…</a>",
+      "published": "2026-03-31T21:57:01+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "0a75af5bcef17d39ec2f1523dc744f39ebf9e888",
+      "title": "Samsung launches Hearapy, a free Android app to mitigate motion sickness by playing a 100Hz sine wave tone; a 60-second session can provide two hours of relief (Andrew Liszewski/The Verge)",
+      "link": "http://www.techmeme.com/260331/p58#a260331p58",
+      "summary": "<a href=\"https://www.theverge.com/tech/904579/samsung-hearapy-mobile-app-galaxy-buds-motion-sickness-symptoms\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260331/i58.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260331/p58#a260331p58\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Andrew Liszewski / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/tech/904579/samsung-hearapy-mobile-app-galaxy-buds-motion-sickness-symptoms\">Samsung launches Hearapy, a free Android app to mitigate motion sickness by playing a 100Hz sine wave tone; a 60-second session can provide two hours of relief</a></b></span>&nbsp; &mdash;&nbsp; &#65279;Listening to a 100Hz sine wave tone for just 60 seconds could reduce motion sickness symptoms for up to two hours.</p>",
+      "published": "2026-03-31T21:55:03+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "02e91d62bac634b1b044712fb486df5530cbfd57",
+      "title": "Austin-based Saronic, which builds military autonomous ships, raised a $1.75B Series D led by Kleiner Perkins at a $9.25B valuation, up from $4B in Feb. 2025 (Samantha Subin/CNBC)",
+      "link": "http://www.techmeme.com/260331/p57#a260331p57",
+      "summary": "<a href=\"https://www.cnbc.com/2026/03/31/autonomous-boat-startup-saronic-raises-1point75-billion-.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260331/i57.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260331/p57#a260331p57\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Samantha Subin / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/03/31/autonomous-boat-startup-saronic-raises-1point75-billion-.html\">Austin-based Saronic, which builds military autonomous ships, raised a $1.75B Series D led by Kleiner Perkins at a $9.25B valuation, up from $4B in Feb. 2025</a></b></span>&nbsp; &mdash;&nbsp; Autonomous ship startup Saronic said Tuesday that it's raised $1.75 billion as it ramps up production to meet mounting U.S. military demand &hellip; </p>",
+      "published": "2026-03-31T21:40:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "99ae2bdaf4483d69a1dfa851273c2671742b7d9d",
+      "title": "Robotaxi companies refuse to say how often their AVs need remote help",
+      "link": "https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/",
+      "summary": "Aurora, May Mobility, Motional, Nuro, Tesla, Waymo, and Zoox all refused to cough up a number during Senator Ed Markey's recent investigation.",
+      "published": "2026-03-31T21:35:51+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "c7ce89f679bf26044c376fedaf01901718a21dde",
       "title": "Sequoia says Doug Leone is returning in a newly created role of chairman, after he announced his retirement in 2022 from his role as \"senior steward\" (Iain Martin/Forbes)",
@@ -50,19 +131,10 @@
       "category": "world"
     },
     {
-      "id": "aba519d6da2127f261fd3130f3dd9eebbac15ab8",
-      "title": "Judge temporarily halts construction of Trump's White House ballroom",
-      "link": "https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Republican-appointed judge ruled that Trump was the \"steward\" of the White House, but not the \"owner\".",
-      "published": "2026-03-31T21:07:19+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "109e69073ebbb1eaa71dbf5a1403702130989cee",
       "title": "You can now use ChatGPT with Apple’s CarPlay",
       "link": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
-      "summary": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently-launched iOS 26.4 update added support for \"voice-based conversational apps\" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform. When [&#8230;]",
+      "summary": "ChatGPT is now accessible from your CarPlay dashboard if you have iOS 26.4 or newer and the latest version of the ChatGPT app, 9to5Mac reports. Apple's recently launched iOS 26.4 update added support for \"voice-based conversational apps\" in CarPlay, opening the door to let you use AI chatbots with voice features through Apple's in-car platform. [&#8230;]",
       "published": "2026-03-31T21:03:18+00:00",
       "source": "The Verge",
       "category": "tech"
@@ -464,15 +536,6 @@
       "category": "tech"
     },
     {
-      "id": "f936e1c3aba440ea5312651584ee6ee5ce52eaa5",
-      "title": "The Sonos Play and mic-less Era 100 SL are now available",
-      "link": "https://www.theverge.com/gadgets/903746/sonos-play-era-100-sl-speakers-price-release-date-availability",
-      "summary": "After a couple of quiet years, Sonos is back with two new consumer speakers: the portable Sonos Play and the more affordable Era 100 SL. They retail for $299 and $189, respectively, and both are now widely available following their announcement earlier this month. With its utility loop and water-resistant design, the brand-new Sonos Play [&#8230;]",
-      "published": "2026-03-31T17:36:22+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "dadcbc02269d4b3b2fdaae69ec93807e0cc5aff4",
       "title": "OkCupid gave 3 million dating-app photos to facial recognition firm, FTC says",
       "link": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
@@ -489,15 +552,6 @@
       "published": "2026-03-31T17:30:05+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "ded07930119d9aa9de9476e45cb46a31542073f8",
-      "title": "Iran says it will start targeting US tech companies such as Apple, Google, Meta, Microsoft, Nvidia, and Tesla in the Middle East on Wednesday at 8pm local time (Julia Shapero/The Hill)",
-      "link": "http://www.techmeme.com/260331/p44#a260331p44",
-      "summary": "<a href=\"https://thehill.com/policy/technology/5809104-iran-irgc-apple-microsoft-google-hp-meta-tesla/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260331/i44.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260331/p44#a260331p44\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Julia Shapero / <a href=\"http://www.thehill.com/\">The Hill</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://thehill.com/policy/technology/5809104-iran-irgc-apple-microsoft-google-hp-meta-tesla/\">Iran says it will start targeting US tech companies such as Apple, Google, Meta, Microsoft, Nvidia, and Tesla in the Middle East on Wednesday at 8pm local time</a></b></span>&nbsp; &mdash;&nbsp; Iran's Islamic Revolutionary Guard Corps (IRGC) said Tuesday that it plans to target major U.S. technology companies across the Middle East &hellip; </p>",
-      "published": "2026-03-31T17:30:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "d3723cb45f573b686aaae4c4a6be8806057c978b",
@@ -536,15 +590,6 @@
       "category": "deals"
     },
     {
-      "id": "503556f88ee085d2733408256f1bd35880be5fb5",
-      "title": "The latest Matter update improves camera streaming",
-      "link": "https://www.theverge.com/tech/904361/matter-spec-update1-5-1-camera-video-streaming-heic-doorbell-chimes",
-      "summary": "The Connectivity Standards Alliance (CSA) released Matter 1.5.1 today, building upon the camera and video doorbell support added as part of the Matter 1.5 update last November. Although 1.5.1 is a minor update, it brings several improvements that will benefit both end users and companies making these types of devices. The most notable update is [&#8230;]",
-      "published": "2026-03-31T17:01:45+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "d400b3f45921c0c65de4a90ddeddca7e90db5d92",
       "title": "Amazon Big Spring Sale storage deals live for World Backup Day: SSDs, enclosures, more from just $14",
       "link": "https://9to5toys.com/2026/03/31/amazon-big-spring-sale-storage-deals-live-for-world-backup-day/",
@@ -581,29 +626,11 @@
       "category": "deals"
     },
     {
-      "id": "6d47fa665afb45f19c504d2fee8c62a19e7a6cc3",
-      "title": "Google researchers warn that quantum computers may crack elliptic-curve cryptography, which helps secure crypto wallets, with 20x fewer resources than expected (Bloomberg)",
-      "link": "http://www.techmeme.com/260331/p43#a260331p43",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-03-31/google-paper-warns-crypto-on-quantum-risk-ahead-of-2029-timeline\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260331/i43.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260331/p43#a260331p43\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-03-31/google-paper-warns-crypto-on-quantum-risk-ahead-of-2029-timeline\">Google researchers warn that quantum computers may crack elliptic-curve cryptography, which helps secure crypto wallets, with 20x fewer resources than expected</a></b></span>&nbsp; &mdash;&nbsp; Google researchers warned that future quantum computers may be able to break some of the cryptography protecting Bitcoin &hellip; </p>",
-      "published": "2026-03-31T16:50:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "676d8d87e863311535faaeaa1f67a3b8c9efa998",
       "title": "Don’t miss Twelve South’s Glacial Blue HiRise 2 charging station at 55% off, now $36",
       "link": "https://9to5toys.com/2026/03/31/twelve-south-hirise-2-deluxe-2-in-1-wireless-charging-station/",
       "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/03/Twelve-South-HiRise-2-Deluxe-2-in-1-Wireless-Charging-Station.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">Twelve South HiRise 2 Deluxe 2-in-1 Wireless Charging Station</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $36 (Reg. $80)</h3>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A red rectangle with white lines\" class=\"wp-image-1201883 size-full\" height=\"770\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/03/Twelve-South-HiRise-2-Deluxe-2-in-1-Wireless-Charging-Station-chart.png?w=1024\" width=\"1540\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p style=\"text-align: left;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at faucibus metus, quis interdum ex. Mauris sit amet arcu sit amet tellus volutpat mollis. Aliquam sodales tellus non est tincidunt vestibulum.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/03/31/twelve-south-hirise-2-deluxe-2-in-1-wireless-charging-station/#more-1201880\">more…</a>",
       "published": "2026-03-31T16:46:10+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "fe393a077e16bd31630fb324cf00964eff0a968e",
-      "title": "Amazon’s latest Echo smart speakers and displays now at all-time lows in final day of spring sale",
-      "link": "https://9to5toys.com/2026/03/31/amazon-latest-echo-smart-speaker-displays/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/11/Black-Friday-Echo-Show-Echo-Dot-Max-deals.jpeg?quality=82&#038;strip=all&#038;w=1450\" /></div><p>We are quickly approaching the finish line on the 2026 Amazon Big Spring Sale and quite possibly the all-time lows on some of its latest Echo gear. Not only are we tracking a long lineup of deals across a series of Amazon’s in-house tech releases, we also have new all-time low prices on the latest Echo Dot Max and the newest Echo Show smart displays it launched in late 2025. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/03/31/amazon-latest-echo-smart-speaker-displays/#more-1201876\">more…</a>",
-      "published": "2026-03-31T16:37:52+00:00",
       "source": "9to5Toys",
       "category": "deals"
     },
@@ -614,15 +641,6 @@
       "summary": "Uber and WeRide have launched robotaxi operations without a human safety operator in Dubai as part of a broader expansion in the Middle East.",
       "published": "2026-03-31T16:26:26+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "a769fe478ee09cf654fa36508e66cafa8d5bb4f9",
-      "title": "Sources: Apple is testing letting Siri process multiple requests in a single query in iOS 27, and explored a Grammarly-like keyboard that expands autocorrect (Mark Gurman/Bloomberg)",
-      "link": "http://www.techmeme.com/260331/p42#a260331p42",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-03-31/apple-tests-siri-feature-that-handles-multiple-commands-at-once\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260331/i42.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260331/p42#a260331p42\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Mark Gurman / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-03-31/apple-tests-siri-feature-that-handles-multiple-commands-at-once\">Sources: Apple is testing letting Siri process multiple requests in a single query in iOS 27, and explored a Grammarly-like keyboard that expands autocorrect</a></b></span>&nbsp; &mdash;&nbsp; Apple Inc. is testing a feature that would let Siri process multiple requests in a single query, according to people familiar with the matter &hellip; </p>",
-      "published": "2026-03-31T16:20:11+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -767,15 +785,6 @@
       "summary": "Tehran hopes to stoke fear and extract intel in a series of cyber attacks.",
       "published": "2026-03-31T13:37:48+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "dd9438dd3319ae923ce75b534288f8ba119af2e7",
-      "title": "Waymo starts robotaxi services at San Antonio International Airport",
-      "link": "https://techcrunch.com/2026/03/31/waymo-starts-robotaxi-services-at-san-antonio-international-airport/",
-      "summary": "It's the fourth major airport Waymo is serving, adding to Phoenix Sky Harbor, San Francisco, and San Jose international airports.",
-      "published": "2026-03-31T13:25:11+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1193,15 +1202,6 @@
       "category": "world"
     },
     {
-      "id": "79374adf5fd3e777218a4e20fae8ee73a8fe3c00",
-      "title": "Inside the cockpit of RAF tanker during defensive mission against Iranian drones",
-      "link": "https://www.bbc.com/news/articles/cdrmg6x2rgxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Defence correspondent Jonathan Beale flies onboard a Royal Air Force Voyager as it refuels jets in the Middle East.",
-      "published": "2026-03-30T23:10:44+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "f7a39581b3fcfb370da0acf7762f80e077e4d63a",
       "title": "Water utility announces it's ditching fluoride—then reveals it did so years ago",
       "link": "https://arstechnica.com/health/2026/03/water-utility-announces-its-ditching-fluoride-then-reveals-it-did-so-years-ago/",
@@ -1209,15 +1209,6 @@
       "published": "2026-03-30T22:32:34+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "4bb93d5d9cb7cfeb8ec6c582a15d8cf2449862c0",
-      "title": "JobFlow",
-      "link": "https://www.producthunt.com/products/jobflow-2",
-      "summary": "<p>\n            Your AI co-pilot for job hunting\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/jobflow-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1111834?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-30T21:44:05+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "2c7854118ba12c6d19f2002978d48f8fca3a974c",
@@ -1256,6 +1247,24 @@
       "category": "tech"
     },
     {
+      "id": "e3bc51deaaa203159aa6fd3754049e2029a738cf",
+      "title": "Autoclaw",
+      "link": "https://www.producthunt.com/products/autoclaw",
+      "summary": "<p>\n            One-click Openclaw set up by Z.AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/autoclaw?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1111619?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-30T16:37:49+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "8d3549e41208ae6ace04276728acc3c4d07c50f2",
+      "title": "FireAPI",
+      "link": "https://www.producthunt.com/products/fireapi",
+      "summary": "<p>\n            Discover, consume, and monetize APIs in one place\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fireapi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1111613?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-30T16:35:27+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "ae9d4dc6c3b6ccdbccd0bc1f37efa419c2ade3d6",
       "title": "Reframe",
       "link": "https://www.producthunt.com/products/reframe-carousel-designer-for-creators",
@@ -1283,15 +1292,6 @@
       "category": "malaysia"
     },
     {
-      "id": "50241d13a96b5c65d154c42f3c41b7b9c3710fe3",
-      "title": "UNCHIKUN",
-      "link": "https://www.producthunt.com/products/unchikun-poop-tracker",
-      "summary": "<p>\n            Track your poops with friends\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/unchikun-poop-tracker?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1111374?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-30T12:35:33+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "c9ac54179bd436deff325d803f9dbc693ed14ba4",
       "title": "Tesla Model Y L 3-row electric SUV to launch in Malaysia on 1 April: 681km range, supports V2L",
       "link": "https://soyacincau.com/2026/03/30/tesla-model-y-l-3-row-ev-malaysia-confirmed/",
@@ -1317,6 +1317,15 @@
       "published": "2026-03-29T09:21:44+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "1915b9b0560e33cf012cfbe50d0eaf7722f63e0a",
+      "title": "Cosmic Team Agents",
+      "link": "https://www.producthunt.com/products/cosmic",
+      "summary": "<p>\n            AI team members that live in Slack, WhatsApp, and Telegram\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cosmic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1110073?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-28T18:48:30+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "140bee0f23e0b0e30f9574b7934eec409e293d67",
@@ -1409,11 +1418,11 @@
       "category": "events"
     },
     {
-      "id": "f666b3ed9e79447b54e1bfe1b2235ad2250dc4a4",
-      "title": "Unify",
-      "link": "https://www.producthunt.com/products/unify-5",
-      "summary": "<p>\n            Hire AI colleagues you onboard just like real people \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/unify-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1107229?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-25T18:03:23+00:00",
+      "id": "e5ccd91c4c5dc97825e1b7fd915e99d37e441e6c",
+      "title": "QoreDB",
+      "link": "https://www.producthunt.com/products/qoredb",
+      "summary": "<p>\n            The fast, open-source database client built with Rust\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/qoredb?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1107973?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-26T12:42:26+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1423,24 +1432,6 @@
       "link": "https://www.producthunt.com/products/relacan",
       "summary": "<p>\n            Your canvas becomes a website. Think, arrange, publish.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/relacan?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1106638?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-25T03:41:51+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "7987e9833f9c7c31cc2b5c6b4db416fd92e055b0",
-      "title": "Metabase Data Studio",
-      "link": "https://www.producthunt.com/products/metabase",
-      "summary": "<p>\n            Build the semantic layer that makes AI analytics trustworthy\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/metabase?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1106586?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-25T01:39:11+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "757a828c2c98ad8ebe9e7c2e248581ba2dae0bf8",
-      "title": "HoneyComb",
-      "link": "https://www.producthunt.com/products/ai-powered-form-that-fills-itself",
-      "summary": "<p>\n            Predication market for job impacted by AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ai-powered-form-that-fills-itself?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1106298?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-24T17:43:25+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1463,11 +1454,11 @@
       "category": "events"
     },
     {
-      "id": "092d9f21db2e6f72388dda4c85381876a9524279",
-      "title": "Perplexity API Platform",
-      "link": "https://www.producthunt.com/products/perplexity-api-platform",
-      "summary": "<p>\n            Power your products with web-wide research, Q&amp;A capabilities\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/perplexity-api-platform?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1096100?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-12T06:00:55+00:00",
+      "id": "639b8b5aaf90f887d39164a8de7ca471475ea01f",
+      "title": "LobeHub IM Integration",
+      "link": "https://www.producthunt.com/products/lobehub",
+      "summary": "<p>\n            Chat with your AI agent right where your team already works\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lobehub?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1097260?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-13T07:51:46+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1486,6 +1477,15 @@
       "link": "https://www.producthunt.com/products/planana-ai",
       "summary": "<p>\n            Break any skill into a plan you can actually follow\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/planana-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1090761?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-05T17:18:40+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "7ca4e0e75bb1ca17da8c506ea31709ceed604f14",
+      "title": "GetWella",
+      "link": "https://www.producthunt.com/products/getwella",
+      "summary": "<p>\n            AI health app for women 40+\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/getwella?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1090531?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-05T11:09:28+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
