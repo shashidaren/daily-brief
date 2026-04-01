@@ -1,17 +1,89 @@
 {
-  "generatedAt": "2026-04-01T22:30:46.221618+00:00",
+  "generatedAt": "2026-04-01T23:30:59.184285+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
-      "id": "03d0a5d42710955e1d4da685b78a09dfc175d8a1",
-      "title": "World's oldest known tortoise, Jonathan, dies aged 193",
-      "link": "https://www.bbc.com/news/articles/c393xmpzjwko?at_medium=RSS&at_campaign=rss",
-      "summary": "The vet who cared for the giant tortoise said he had left behind a \"legacy of resilience and longevity\".",
-      "published": "2026-04-01T22:20:11+00:00",
+      "id": "c521f46c4dce7312be346b82f285be3f9fb8c221",
+      "title": "Megan Thee Stallion taken to hospital during Moulin Rouge performance",
+      "link": "https://www.bbc.com/news/articles/c86e1403793o?at_medium=RSS&at_campaign=rss",
+      "summary": "The rapper says she felt faint while performing in the Broadway show and was later diagnosed with \"extreme exhaustion\".",
+      "published": "2026-04-01T23:16:58+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "021b5883187bc7ea08b6bb3e8e52edd19118aa1c",
+      "title": "Sources: Amazon is in talks to acquire Globalstar to bolster its low Earth orbit satellite business; Apple's 20% stake in Globalstar is a complicating factor (Financial Times)",
+      "link": "http://www.techmeme.com/260401/p36#a260401p36",
+      "summary": "<a href=\"https://www.ft.com/content/abace066-fe93-4ff0-8378-d3c3eb49519c\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260401/i36.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260401/p36#a260401p36\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/abace066-fe93-4ff0-8378-d3c3eb49519c\">Sources: Amazon is in talks to acquire Globalstar to bolster its low Earth orbit satellite business; Apple's 20% stake in Globalstar is a complicating factor</a></b></span>&nbsp; &mdash;&nbsp; Ecommerce giant is trying to catch up with SpaceX's low Earth orbit internet service&nbsp; &mdash;&nbsp; Amazon is in talks to acquire &hellip; </p>",
+      "published": "2026-04-01T23:05:03+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "25ac47d91f3aea70231bf139e4c67bf44b69b404",
+      "title": "We cannot hold: Truckers warn of rising costs, halted projects as diesel surge",
+      "link": "https://www.malaymail.com/news/malaysia/2026/04/02/we-cannot-hold-truckers-warn-of-rising-costs-halted-projects-as-diesel-surge/214555",
+      "summary": "KUALA LUMPUR, April 2 &mdash; Malaysia&rsquo;s lorry industry is taking a direct hit from surging diesel prices, with op...",
+      "published": "2026-04-01T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "4bac0b087a8829297bb1c26d0eaa9c39cf9b2375",
+      "title": "Jailed Palestinians fear hanging under Israel’s new death penalty law",
+      "link": "https://www.malaymail.com/news/world/2026/04/02/jailed-palestinians-fear-hanging-under-israels-new-death-penalty-law/214655",
+      "summary": "RAMALLAH, April 2 &mdash; Palestinians in the occupied West Bank voiced fears on Tuesday that their jailed relatives cou...",
+      "published": "2026-04-01T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "aa4192e6995af0f3297fb4924748a5029b913447",
+      "title": "Americans say rising gas prices show the personal cost of Iran war",
+      "link": "https://www.malaymail.com/news/world/2026/04/02/americans-say-rising-gas-prices-show-the-personal-cost-of-iran-war/214668",
+      "summary": "FALLS CHURCH (United States), April 2 &mdash; At a gas station in the Washington suburbs, drivers confronted the harsh d...",
+      "published": "2026-04-01T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "3355b81c8f09365605b24a4b6eb52ad858cacee1",
+      "title": "Cuban children’s heart hospital makes tough choices amid US blockade",
+      "link": "https://www.malaymail.com/news/world/2026/04/02/cuban-childrens-heart-hospital-makes-tough-choices-amid-us-blockade/214642",
+      "summary": "HAVANA, April 2 &mdash; Doctors at Cuba&rsquo;s main pediatric heart hospital face wrenching decisions as a US fuel bloc...",
+      "published": "2026-04-01T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "04e0cdee8df7d40be269b3a12e364e8b7f6e5abb",
+      "title": "Hong Kong’s ‘hero trees’ lose their glory as climate warms",
+      "link": "https://www.malaymail.com/news/life/2026/04/02/hong-kongs-hero-trees-lose-their-glory-as-climate-warms/214641",
+      "summary": "HONG KONG, April 2 &mdash; Hong Kong&rsquo;s beloved kapok trees are not blooming the way they used to, drawing concern...",
+      "published": "2026-04-01T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "f3ce11d1e4180975eb2265c001d4e64589c610c7",
+      "title": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack",
+      "link": "https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/",
+      "summary": "Blockchain trackers put the cryptocurrency heist in the hundreds of millions of dollars and is already on track to be the largest crypto theft in 2026 so far.",
+      "published": "2026-04-01T22:58:39+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "7279ef80d8665b7d3d02148b1ddced3ccee48934",
+      "title": "NASA launches four astronauts toward the Moon on the Artemis II mission",
+      "link": "https://www.theverge.com/science/904458/nasa-artemis-ii-mission-moon-astronauts",
+      "summary": "NASA's Artemis II flight, which is set to take four astronauts toward the Moon for the first time in more than 50 years, successfully launched on Wednesday evening. The Artemis II mission, part of NASA's Artemis program that's intended to bring humans back onto the Moon as early as 2028, will bring the four astronauts [&#8230;]",
+      "published": "2026-04-01T22:44:30+00:00",
+      "source": "The Verge",
+      "category": "tech"
     },
     {
       "id": "e3b7159d6dd70206f78ae398660125554a6c3d88",
@@ -590,15 +662,6 @@
       "category": "tech"
     },
     {
-      "id": "061229da1474a0071ff6338f67ca4d754fce3650",
-      "title": "These Raspberry Pi price hikes are no joke",
-      "link": "https://www.theverge.com/gadgets/905189/raspberry-pi-price-increases-pi-4-3gb",
-      "summary": "As of today, the price of the 16GB version of the Raspberry Pi 5 is going up by $100, a price bump that's almost as much as the original $120 price tag. Driven by the ongoing RAM shortage, Raspberry Pi is raising prices on over a dozen of its bare-bones computers, after previous increases in [&#8230;]",
-      "published": "2026-04-01T15:13:41+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "77fd4c4927ec72d64af2af3733ab97a8a0acc21b",
       "title": "DR Congo declares national holiday after reaching World Cup for first time in 52 years",
       "link": "https://www.bbc.com/news/articles/cm296yv05eeo?at_medium=RSS&at_campaign=rss",
@@ -677,15 +740,6 @@
       "summary": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
       "published": "2026-04-01T14:00:00+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "a89ee06ce2376322f777575720adeaf156991a43",
-      "title": "US kid safety groups say they didn't know OpenAI had entirely funded the Parents & Kids Safe AI Coalition to promote CA legislation until after it was announced (Emily Shugerman/The San Francisco ...)",
-      "link": "http://www.techmeme.com/260401/p21#a260401p21",
-      "summary": "<a href=\"https://sfstandard.com/2026/04/01/openai-ai-kids-safety-coalition/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260401/i21.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260401/p21#a260401p21\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Emily Shugerman / <a href=\"https://sfstandard.com/\">The San Francisco Standard</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://sfstandard.com/2026/04/01/openai-ai-kids-safety-coalition/\">US kid safety groups say they didn't know OpenAI had entirely funded the Parents &amp; Kids Safe AI Coalition to promote CA legislation until after it was announced</a></b></span>&nbsp; &mdash;&nbsp; In mid-March, organizers for child safety groups across the country received emails from an organization called &hellip; </p>",
-      "published": "2026-04-01T13:55:03+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -914,15 +968,6 @@
       "category": "malaysia"
     },
     {
-      "id": "cea50ce18e1fbc557e942f702435d0e7f8b04616",
-      "title": "Who’s counting? MACC detains man after racking up RM4m in alleged fraudulent claims",
-      "link": "https://www.malaymail.com/news/malaysia/2026/04/01/whos-counting-macc-detains-man-after-racking-up-rm4m-in-alleged-fraudulent-claims/214698",
-      "summary": "KUALA LUMPUR, April 1 &mdash; The Malaysian Anti-Corruption Commission (MACC) has detained an accounting service provide...",
-      "published": "2026-04-01T11:26:37+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "517206820984fa5e519b691fc843aa31fe5a51d6",
       "title": "Bravia, Inc Is The Joint Venture Between TCL And Sony",
       "link": "https://www.lowyat.net/2026/388022/bravia-inc-joint-venture-between-tcl-sony/",
@@ -941,24 +986,6 @@
       "category": "world"
     },
     {
-      "id": "1540c7b6ee3d7d31cf464aaf1a1819081722127c",
-      "title": "From hip hop to Hollywood and now country music: Here’s why Post Malone is worth the hype (VIDEO)",
-      "link": "https://www.malaymail.com/news/showbiz/2026/04/01/from-hip-hop-to-hollywood-and-now-country-music-heres-why-post-malone-is-worth-the-hype-video/214697",
-      "summary": "KUALA LUMPUR, April 1 &mdash; American rapper and singer Post Malone has just announced his first ever Malaysia show hap...",
-      "published": "2026-04-01T11:03:17+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "54bbf9f8af2526d770530d5dd4f4516b6fd51080",
-      "title": "Finance Ministry: Fuel subsidies maintained but BUDI95 quota reduced to 200 litres, as unsubsidised diesel breaches RM6 mark",
-      "link": "https://www.malaymail.com/news/malaysia/2026/04/01/finance-ministry-fuel-subsidies-maintained-but-budi95-quota-reduced-to-200-litres-as-unsubsidised-diesel-breaches-rm6-mark/214695",
-      "summary": "PUTRAJAYA, April 1 &ndash; Amidst a prolonged global energy crisis that has driven crude oil prices up by more than 40 p...",
-      "published": "2026-04-01T11:01:07+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "a38e2be11dd7f08a93cf9b7f30c25bc84a39e73e",
       "title": "Iran war economic shocks will last 'months', says Australia's PM",
       "link": "https://www.bbc.com/news/articles/cvg4nre8nl9o?at_medium=RSS&at_campaign=rss",
@@ -966,15 +993,6 @@
       "published": "2026-04-01T10:53:03+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "8ec08d6c1f48ce5ea3d95c7b268b53f2bac175e4",
-      "title": "Bursa Malaysia climbs 1.10pc, KLCI breaks above 1,700 on improved sentiment",
-      "link": "https://www.malaymail.com/news/money/2026/04/01/bursa-malaysia-climbs-110pc-klci-breaks-above-1700-on-improved-sentiment/214696",
-      "summary": "KUALA LUMPUR, April 1 &mdash; Bursa Malaysia closed higher on Wednesday, with the key index rising 1.10 per cent, in lin...",
-      "published": "2026-04-01T10:45:18+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "3bed92d126ced58416d85fccf37ab0c59d280b59",
@@ -993,15 +1011,6 @@
       "published": "2026-04-01T10:18:55+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "37bfb954c5380eeb80820a386c9eafc579dea029",
-      "title": "Fahmi: Cabinet approves Communications Command Centre to coordinate responses to global energy crisis, all Asean meetings this year to be held online",
-      "link": "https://www.malaymail.com/news/malaysia/2026/04/01/fahmi-cabinet-approves-communications-command-centre-to-coordinate-responses-to-global-energy-crisis-all-asean-meetings-this-year-to-be-held-online/214692",
-      "summary": "KUALA LUMPUR, April 1 &mdash; Communications Minister Datuk Fahmi Fadzil said the Cabinet has approved the creation of a...",
-      "published": "2026-04-01T09:49:34+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "4e8d555ee6d20c2e96afa62ab8eea1c672688365",
@@ -1058,15 +1067,6 @@
       "category": "deals"
     },
     {
-      "id": "c521f46c4dce7312be346b82f285be3f9fb8c221",
-      "title": "Megan Thee Stallion taken to hospital during Moulin Rouge performance",
-      "link": "https://www.bbc.com/news/articles/c86e1403793o?at_medium=RSS&at_campaign=rss",
-      "summary": "The rapper \"started feeling very ill\" mid-way through the show in New York, her representative told US media.",
-      "published": "2026-04-01T05:30:52+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "1a11716c7f93fae6d639c3c331093b77033f74bb",
       "title": "Ditch",
       "link": "https://www.producthunt.com/products/ditch-2",
@@ -1101,15 +1101,6 @@
       "published": "2026-04-01T03:19:10+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "c6815b2c3be47c84c909e251460d6a3d0cdd43b1",
-      "title": "Ollama v0.19",
-      "link": "https://www.producthunt.com/products/ollama",
-      "summary": "<p>\n            Massive local model speedup on Apple Silicon with MLX\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ollama?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1112922?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-01T02:56:44+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "3bec3d5d8c3d4c780016d8ba69b9b472fa0aa7e3",
@@ -1166,6 +1157,24 @@
       "category": "tech"
     },
     {
+      "id": "dccc788232bc19faa50bbeb3f3894705a3398220",
+      "title": "Baton",
+      "link": "https://www.producthunt.com/products/baton-2",
+      "summary": "<p>\n            Orchestrate your AI coding agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/baton-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1112791?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-31T23:25:57+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "5e4f4f4ae1bf75b0bddc645a4af9c3c5bb87fb37",
+      "title": "'You're no longer my sister' - rows erupt as war divides Iranian families",
+      "link": "https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&at_campaign=rss",
+      "summary": "People in Iran describe angry scenes and tense relationships as rifts open up over the war.",
+      "published": "2026-03-31T23:25:19+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "6479ea05b78c0140c2d3310f026c996a6d3af0cc",
       "title": "Running local models on Macs gets faster with Ollama's MLX support",
       "link": "https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/",
@@ -1190,15 +1199,6 @@
       "summary": "The FDA is reportedly planning to allow production of 14 previously banned peptides.",
       "published": "2026-03-31T21:51:26+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "99ae2bdaf4483d69a1dfa851273c2671742b7d9d",
-      "title": "Robotaxi companies refuse to say how often their AVs need remote help",
-      "link": "https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/",
-      "summary": "Aurora, May Mobility, Motional, Nuro, Tesla, Waymo, and Zoox all refused to cough up a number during Senator Ed Markey's recent investigation.",
-      "published": "2026-03-31T21:35:51+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1292,11 +1292,29 @@
       "category": "events"
     },
     {
+      "id": "0baa60597980b2cb114afe52547e0daec639227e",
+      "title": "Google Veo 3.1 Lite",
+      "link": "https://www.producthunt.com/products/google-pay-2",
+      "summary": "<p>\n            Google's most cost-effective video generation model\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google-pay-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1112544?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-31T16:22:35+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "f1a2fc7f94a013e4946f787322ceaf359d3b1288",
       "title": "Elephant Folio",
       "link": "https://www.producthunt.com/products/elephant-folio",
       "summary": "<p>\n            The PDF Library that automatically organizes itself\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/elephant-folio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1112541?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-31T16:17:31+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "82efab99635e5684e7ebff74f2b5a3a330169d09",
+      "title": "Keplars",
+      "link": "https://www.producthunt.com/products/keplars",
+      "summary": "<p>\n            Email Infrastructure for Modern Product Teams\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/keplars?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1112524?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-31T15:50:31+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1319,38 +1337,29 @@
       "category": "events"
     },
     {
-      "id": "45f69d5adc28b8c49a030facafca6d6d355852c0",
-      "title": "Audyr",
-      "link": "https://www.producthunt.com/products/audyr-understand-your-customers",
-      "summary": "<p>\n             AI captures feedback and tells you what to build next\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/audyr-understand-your-customers?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1112408?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-31T13:06:24+00:00",
+      "id": "5951f90777a84527297cbeaad7b17dc776f0235a",
+      "title": "Claras",
+      "link": "https://www.producthunt.com/products/claras",
+      "summary": "<p>\n            Skip ahead & chat with any YouTube video using AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claras?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1112402?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-31T12:55:10+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "9b5bdf6e0551741ac390fb350ad540a2ed0e04bb",
-      "title": "EDAMAME Security",
-      "link": "https://www.producthunt.com/products/axios-litellm-detector",
-      "summary": "<p>\n            Axios / LiteLLM hacks behavioral detector app for Mac/PC\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/axios-litellm-detector?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1112400?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-31T12:48:23+00:00",
+      "id": "6946d38ed23850ab91c461e37235fb67bdd7fc15",
+      "title": "Rent AI Key",
+      "link": "https://www.producthunt.com/products/rent-ai-key",
+      "summary": "<p>\n            Rent real keyboard keys that redirect to your link\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rent-ai-key?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1112278?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-31T10:06:48+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "022bca66346933f3dd139078151f8406c1abf0f4",
-      "title": "IdeaBoard95",
-      "link": "https://www.producthunt.com/products/ideaboard95",
-      "summary": "<p>\n            A community idea board that looks like Windows 95\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ideaboard95?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1112209?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-31T08:53:55+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "87d198d3c5c864cabcf1105eaa6af185cf031836",
-      "title": "OpenBox",
-      "link": "https://www.producthunt.com/products/openbox",
-      "summary": "<p>\n            See, verify, and govern every agent action.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openbox?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1112203?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-31T08:43:05+00:00",
+      "id": "9a1f64c02518f16e68dc54cadcfea00fff0aca45",
+      "title": "OpenBerth",
+      "link": "https://www.producthunt.com/products/openberth",
+      "summary": "<p>\n            AI-assistant native self-hosted deployment platform\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openberth?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1112258?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-31T09:45:54+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1360,15 +1369,6 @@
       "link": "https://www.producthunt.com/products/capycursor",
       "summary": "<p>\n            Cursor highlight, screen draw, zoom & spotlight\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/capycursor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1112147?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-31T07:38:46+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "c66e19c293b234d152871d82f77d48e1861f1e60",
-      "title": "zero",
-      "link": "https://www.producthunt.com/products/zero-deploy-apps-to-your-own-server",
-      "summary": "<p>\n            One command to deploy Docker containers to your own server\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zero-deploy-apps-to-your-own-server?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1111766?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-30T19:49:37+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1400,6 +1400,15 @@
       "category": "events"
     },
     {
+      "id": "b688bd5c186531863644e90b5d829f0d8b74a538",
+      "title": "Prospecting by Clarify",
+      "link": "https://www.producthunt.com/products/clarify-6",
+      "summary": "<p>\n            Source leads, send outbound, grow pipeline. All in your CRM.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clarify-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1110884?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-29T23:52:59+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "3ab26b9dc2093fa403215c697e4ff769c3a6d97c",
       "title": "Noiz Easter Voice",
       "link": "https://www.producthunt.com/products/noiz-studio",
@@ -1427,6 +1436,15 @@
       "category": "malaysia"
     },
     {
+      "id": "cbaadb7587c76534d1f6e4cc95aa4b90c1a304d1",
+      "title": "Snapstick",
+      "link": "https://www.producthunt.com/products/snapstick-photos-to-stickers",
+      "summary": "<p>\n            Turn your camera roll into group chat chaos\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/snapstick-photos-to-stickers?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1109522?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-28T00:17:53+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "f9bcb0a96e4080c8c57b62d5becb38528683204f",
       "title": "How to enable U Mobile 5G SA on iPhone and fix the “SIM not supported” error",
       "link": "https://soyacincau.com/2026/03/27/how-to-enable-u-mobile-5g-sa-iphone-ios-26-4-update/",
@@ -1443,15 +1461,6 @@
       "published": "2026-03-27T11:58:33+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "5e790a74c824a3c3a86b58e1b12351f5ad7de7d4",
-      "title": "traceAI",
-      "link": "https://www.producthunt.com/products/future-agi",
-      "summary": "<p>\n            Open-source LLM tracing that speaks GenAI, not HTTP.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/future-agi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1107797?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-26T10:11:10+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "6ec5cdc510ccf8da9a1af3ec6a8960b9bc6cd039",
@@ -1477,15 +1486,6 @@
       "link": "https://www.producthunt.com/products/tictable",
       "summary": "<p>\n            The spreadsheet rebuilt for AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tictable?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1090845?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-05T19:21:28+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "f21b1ce2fbc208b4842d8c49b0ed562508db0902",
-      "title": "SubscriptionFlow IQ",
-      "link": "https://www.producthunt.com/products/subscriptionflow",
-      "summary": "<p>\n            Turn Website Visitors into Customers with AI Conversations\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/subscriptionflow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1088355?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-02T09:35:28+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
