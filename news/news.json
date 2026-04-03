@@ -1,14 +1,86 @@
 {
-  "generatedAt": "2026-04-03T19:34:14.713029+00:00",
+  "generatedAt": "2026-04-03T20:28:48.536128+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
+      "id": "d28fc3ef3433ebd385b55fee925f3830a703b905",
+      "title": "OpenAI’s AGI boss is taking a leave of absence",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
+      "summary": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of Applications - says in the memo that she will be stepping away on medical leave \"for the next several weeks\" due to [&#8230;]",
+      "published": "2026-04-03T20:22:59+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "4c3b2449f03cf733a054845e88548ab1f4a17fc8",
+      "title": "Anthropic ramps up its political activities with a new PAC",
+      "link": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+      "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
+      "published": "2026-04-03T20:22:18+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "fea12c02ab6e92135845692d03b86547e32a8f73",
+      "title": "Internal memo: Iranian strikes have rendered two AWS zones \"hard down\" in Dubai and Bahrain and Amazon expects them to be \"unavailable for an extended period\" (Alex Kantrowitz/Big Technology)",
+      "link": "http://www.techmeme.com/260403/p15#a260403p15",
+      "summary": "<a href=\"https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260403/i15.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260403/p15#a260403p15\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Alex Kantrowitz / <a href=\"https://www.bigtechnology.com/\">Big Technology</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability\">Internal memo: Iranian strikes have rendered two AWS zones &ldquo;hard down&rdquo; in Dubai and Bahrain and Amazon expects them to be &ldquo;unavailable for an extended period&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; Amazon tells its employees to deprioritize these regions as the Iran war deals meaningful damage to its infrastructure in the Gulf.</p>",
+      "published": "2026-04-03T20:05:04+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "d3334eecd71a5db85ea38d50b1618bcbeebe6b1c",
+      "title": "Right now, 1-year Costco Gold Star Memberships come with a $20 Digital Shop Card",
+      "link": "https://9to5toys.com/2026/04/03/costco-gold-star-memberships-shop-card/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/Costco-1-Year-Gold-Star-Membership.jpg?quality=82&#038;strip=all&#038;w=1500\" /></div><p>Sticking to a set budget may not be as easy as it used to be, but there might be one simple change you can make to help out. Instead of burning through half a tank of gas getting your shopping done all around town, try switching it up and running all your errands under one roof. Costco is a great option if you want to simplify how you shop, and right now, you can get a $20 Digital Costco Shop Card* with your Gold Star Membership one-year subscription, and <a href=\"https://specials.9to5toys.com/sales/costco-1-year-gold-star-membership-20-digital-costco-shop-card?utm_source=9to5toys.com&amp;utm_content=PS-14039&amp;utm_medium=Referral&amp;utm_campaign=costco-1-year-gold-star-membership-20-digital-costco-shop-card-2026-04-01&amp;utm_term=SALE-323822\" rel=\"noreferrer noopener\" target=\"_blank\">it’s still only <strong>$65</strong></a>.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/03/costco-gold-star-memberships-shop-card/#more-1202681\">more…</a>",
+      "published": "2026-04-03T20:04:39+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "1b388f5da65761aaebb70efe36a5b423daff0b97",
+      "title": "Best iPad apps to boost productivity and make your life easier",
+      "link": "https://techcrunch.com/2026/04/03/best-ipad-apps-to-boost-productivity-make-your-life-easier/",
+      "summary": "There are many iPad apps to help you organize recipes, sync tasks across devices, be more productive, and manage your notes.",
+      "published": "2026-04-03T19:56:49+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "b6b918fe42459d2e5fef113301bde5783659a86c",
+      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+      "link": "https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/",
+      "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+      "published": "2026-04-03T19:48:22+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "05afea65f126251626c460310274bab09050ccfc",
+      "title": "Interviews with Codex lead Alexander Embiricos, OpenClaw's Peter Steinberger, and others about OpenAI's upcoming superapp that combines ChatGPT with Codex (Alex Heath/Sources)",
+      "link": "http://www.techmeme.com/260403/p14#a260403p14",
+      "summary": "<a href=\"https://sources.news/p/openai-super-app-plan-codex\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260403/i14.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260403/p14#a260403p14\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Alex Heath / <a href=\"https://sources.news/\">Sources</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://sources.news/p/openai-super-app-plan-codex\">Interviews with Codex lead Alexander Embiricos, OpenClaw's Peter Steinberger, and others about OpenAI's upcoming superapp that combines ChatGPT with Codex</a></b></span>&nbsp; &mdash;&nbsp; Why Codex is becoming the foundation for everything.&nbsp; Also: Fidji Simo's internal memo about taking a leave of absence.&nbsp; &mdash;&nbsp; &#8729; Paid</p>",
+      "published": "2026-04-03T19:44:04+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "9367a8e218f935085e89347738493e86ef1c442e",
+      "title": "Friday Apple Books and audiobook deals from $2",
+      "link": "https://9to5toys.com/2026/04/03/friday-apple-books-and-audiobook-deals-from-2-3/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/Apple-Books-Apr-3.webp?w=1600\" /></div><p>Today’s lineup of the best Apple Books deals is now ready to roll, including titles like The Source, Radiant, Sleeping Giants, The Domino Pattern, The Picasso Heist, Wayward Girls, and more. Head below for a closer look at everything. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/03/friday-apple-books-and-audiobook-deals-from-2-3/#more-1202690\">more…</a>",
+      "published": "2026-04-03T19:35:53+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
       "id": "1aec9092ef326af49d29fba73f91e99264c39a7c",
       "title": "OpenAI COO Brad Lightcap is transitioning to a special projects role reporting to Sam Altman; Fidji Simo is taking medical leave for several weeks (Shirin Ghaffary/Bloomberg)",
       "link": "http://www.techmeme.com/260403/p13#a260403p13",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-03/openai-coo-shifts-out-of-role-agi-ceo-taking-medical-leave\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260403/i13.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260403/p13#a260403p13\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Shirin Ghaffary / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-03/openai-coo-shifts-out-of-role-agi-ceo-taking-medical-leave\">OpenAI COO Brad Lightcap is transitioning to a special projects role reporting to Sam Altman; Fidji Simo is taking medical leave for several weeks</a></b></span>&nbsp; &mdash;&nbsp; OpenAI's chief operating officer is shifting into a new role and two other top executives are going on leave due to health reasons &hellip; </p>",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-03/openai-coo-shifts-out-of-role-agi-ceo-taking-medical-leave?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NTI0Mzk3NCwiZXhwIjoxNzc1ODQ4Nzc0LCJhcnRpY2xlSWQiOiJUQ1hNVDRLR0NURk4wMCIsImJjb25uZWN0SWQiOiJFODA3NUYyRkZGMjA0NUI2QTlEQzA5M0EyQTdEQTE4NiJ9.OAyIJhXpoceHikOoynpujRz-mlK__UKaGUV_c6ACHOs\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260403/i13.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260403/p13#a260403p13\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Shirin Ghaffary / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-03/openai-coo-shifts-out-of-role-agi-ceo-taking-medical-leave?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NTI0Mzk3NCwiZXhwIjoxNzc1ODQ4Nzc0LCJhcnRpY2xlSWQiOiJUQ1hNVDRLR0NURk4wMCIsImJjb25uZWN0SWQiOiJFODA3NUYyRkZGMjA0NUI2QTlEQzA5M0EyQTdEQTE4NiJ9.OAyIJhXpoceHikOoynpujRz-mlK__UKaGUV_c6ACHOs\">OpenAI COO Brad Lightcap is transitioning to a special projects role reporting to Sam Altman; Fidji Simo is taking medical leave for several weeks</a></b></span>&nbsp; &mdash;&nbsp; OpenAI's chief operating officer is shifting into a new role and two other top executives are going on leave due to health reasons &hellip; </p>",
       "published": "2026-04-03T19:31:47+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -30,6 +102,15 @@
       "published": "2026-04-03T19:19:14+00:00",
       "source": "The Verge",
       "category": "tech"
+    },
+    {
+      "id": "3502da2d3d78ec80536451531c72f249eb75f8d2",
+      "title": "Unanswered questions remain after death of Australia's most wanted fugitive",
+      "link": "https://www.bbc.com/news/articles/cg7358zzz0no?at_medium=RSS&at_campaign=rss",
+      "summary": "Double-murderer Dezi Freeman evaded capture for seven months in the bush but police believe he had help.",
+      "published": "2026-04-03T19:19:02+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "bc27901129b5ff5ee5ad55619b49ee7afdc6a6d9",
@@ -275,15 +356,6 @@
       "category": "deals"
     },
     {
-      "id": "b5f80597350a35178522fca5cfe6891d7b185aec",
-      "title": "New Monopoly Super Mario Galaxy Movie edition now up for purchase at $25",
-      "link": "https://9to5toys.com/2026/04/03/new-monopoly-super-mario-galaxy-movie-edition/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/Monopoly-Super-Mario-Galaxy-Movie-Board-Game.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>A brand new special edition, or rather themed, Monopoly set is now up to celebrate the (record-breaking) theatrical release of The Super Mario Galaxy Movie. Much like we have seen for years with these crossover real-estate tycoon boards, this one shakes up the usual formula with a series of themed rules, pieces, and features based on Mario’s latest adventure through the stars. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/03/new-monopoly-super-mario-galaxy-movie-edition/#more-1202567\">more…</a>",
-      "published": "2026-04-03T16:24:27+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "f8f4566112f1055b0a438e8ef1f2254811700ac8",
       "title": "US deports eight people 'of African origin' to Uganda",
       "link": "https://www.bbc.com/news/articles/c8ej43z8yw4o?at_medium=RSS&at_campaign=rss",
@@ -291,15 +363,6 @@
       "published": "2026-04-03T16:22:45+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "1a6dd186f438900bf94c583906cc0976667f54ab",
-      "title": "Friday Apple TV deals up to 88% off: Django Unchained, Team America, Mad Men complete series, Borderlands, more",
-      "link": "https://9to5toys.com/2026/04/03/friday-apple-tv-deals-django-unchained-team-america-mad-men/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/Apple-TV-Apr-3-3.webp?w=1600\" /></div><p>Friday’s lineup of the best Apple TV deals is now ready to go, including titles like Team America: World Police, Borderlands, Mad Men Complete Series, The Menu, Django Unchained, The Death of Stalin, Natural Born Killers, Silicon Valley Complete Series, and more. Just be sure to dive into the <a href=\"https://9to5toys.com/2026/04/03/most-affordable-new-2026-m5-pro-macbook-pro-deals/\">M5 Pro MacBook Pro all-time lows at up to <strong>$199 off</strong></a>, these <a href=\"https://9to5toys.com/2026/04/03/nomad-leather-iphone-17-pro-max-case-deals-2/\">Nomad leather iPhone 17 Pro/Max cases at <strong>20% off</strong></a> with a FREE screen protector, and official <a href=\"https://9to5toys.com/2026/04/03/official-apple-watch-sport-bands-deals/\">Apple Watch Sports Bands for just <strong>$15 Prime shipped</strong></a>. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/03/friday-apple-tv-deals-django-unchained-team-america-mad-men/#more-1202560\">more…</a>",
-      "published": "2026-04-03T16:07:31+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "8d05eaf9d2a17d31785ab6f4303de352942bbece",
@@ -725,15 +788,6 @@
       "category": "malaysia"
     },
     {
-      "id": "05293319e1c0a8b06b10f0bcb4707c785a9ff75c",
-      "title": "When will the Iran war end? Tracing the Trump administration's timelines",
-      "link": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss",
-      "summary": "Experts say many US presidents have offered a timeline for a conflict - only to then shift their estimates.",
-      "published": "2026-04-03T11:28:34+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "7ff28575b76f51e6000fc3debf9b7238f48aa271",
       "title": "Kane to miss Bayern’s Freiburg clash with ankle injury, Kompany says",
       "link": "https://www.malaymail.com/news/sports/2026/04/03/kane-to-miss-bayerns-freiburg-clash-with-ankle-injury-kompany-says/214986",
@@ -896,24 +950,6 @@
       "category": "tech"
     },
     {
-      "id": "46d51f08a7f26f6402945d7f1424974b6fe1b1b8",
-      "title": "Anthropic researchers find that an AI model's representations of emotion can influence its behavior \"in ways that matter,\" such as driving it to act unethically (Nat Rubio-Licht/The Deep View)",
-      "link": "http://www.techmeme.com/260402/p41#a260402p41",
-      "summary": "<a href=\"https://www.thedeepview.com/articles/ai-fakes-emotion-but-the-consequences-are-real\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260402/i41.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260402/p41#a260402p41\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Nat Rubio-Licht / <a href=\"https://www.thedeepview.com/\">The Deep View</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.thedeepview.com/articles/ai-fakes-emotion-but-the-consequences-are-real\">Anthropic researchers find that an AI model's representations of emotion can influence its behavior &ldquo;in ways that matter,&rdquo; such as driving it to act unethically</a></b></span>&nbsp; &mdash;&nbsp; Can we teach machines to feel?&nbsp; Short answer: We don't know.&nbsp; But we can teach them to sound like they do.</p>",
-      "published": "2026-04-03T03:36:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "84d68ac2bb41e0ea2573f8b5415a5482dfd36fa0",
-      "title": "Noon, an AI-native product design tool, emerges from stealth with $44M in funding from Chemistry, First Round Capital, Scribble Ventures, and others (Vaibhavi Khanwalkar/The Economic Times)",
-      "link": "http://www.techmeme.com/260402/p40#a260402p40",
-      "summary": "<a href=\"https://economictimes.indiatimes.com/tech/funding/product-design-startup-noon-emerges-from-stealth-mode-with-44-million-funding/articleshow/129992002.cms\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260402/i40.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260402/p40#a260402p40\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Vaibhavi Khanwalkar / <a href=\"http://economictimes.indiatimes.com/\">The Economic Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://economictimes.indiatimes.com/tech/funding/product-design-startup-noon-emerges-from-stealth-mode-with-44-million-funding/articleshow/129992002.cms\">Noon, an AI-native product design tool, emerges from stealth with $44M in funding from Chemistry, First Round Capital, Scribble Ventures, and others</a></b></span>&nbsp; &mdash;&nbsp; San Francisco-headquartered startup Noon has emerged from stealth mode with $44 million in funding from Chemistry, First Round Capital &hellip; </p>",
-      "published": "2026-04-03T03:21:03+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "6a13995c21b7ae74c6dfc4afbe724b40f02597f3",
       "title": "Infinix Smart 20 Arrives In Malaysia; Priced From RM399",
       "link": "https://www.lowyat.net/2026/388264/infinix-smart-20-malaysia/",
@@ -930,15 +966,6 @@
       "published": "2026-04-03T02:17:37+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "76eb2abf7639347fdb0b02205019db6cbcc80e0c",
-      "title": "Mesh LLM",
-      "link": "https://www.producthunt.com/products/mesh-llm",
-      "summary": "<p>\n            Pool compute to run powerful open models\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mesh-llm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114662?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-03T00:16:57+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "1184c9337ed92943b71292747dcc40565824393c",
@@ -975,15 +1002,6 @@
       "published": "2026-04-02T22:50:02+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "e670ba600f4e84a9d733744dc7eedf0cd88d91f4",
-      "title": "AO3 is finally out of beta after 17 years",
-      "link": "https://www.theverge.com/tech/906346/ao3-archive-of-our-own-beta-exit",
-      "summary": "Archive of Our Own (AO3) is officially exiting beta. The Organization for Transformative Works - the nonprofit behind the fanfiction site - announced the update on Thursday, which comes 17 years after AO3's launch in 2009. \"Since 2009, AO3 has grown and changed a lot,\" the announcement says. \"We've introduced many features over the years [&#8230;]",
-      "published": "2026-04-02T22:07:58+00:00",
-      "source": "The Verge",
-      "category": "tech"
     },
     {
       "id": "59799e4d502f8d8788e5faa6d8e2d352975af15c",
@@ -1058,15 +1076,6 @@
       "category": "tech"
     },
     {
-      "id": "e02db7c264f914957087667db953affd44ee91d4",
-      "title": "Cursor 3",
-      "link": "https://www.producthunt.com/products/cursor-3",
-      "summary": "<p>\n            Unified workspace for parallel local/cloud agents and MCPs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cursor-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114508?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-02T19:32:39+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "59cde2a36310e66776a1639281b6e6c53d9e0d40",
       "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
       "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
@@ -1083,6 +1092,15 @@
       "published": "2026-04-02T19:18:51+00:00",
       "source": "TechCrunch",
       "category": "tech"
+    },
+    {
+      "id": "19d555e44fb873bf52e509d42e0ac6d1cca361a4",
+      "title": "EmDash CMS",
+      "link": "https://www.producthunt.com/products/emdash-cms",
+      "summary": "<p>\n            EmDash is a new open-source CMS from Cloudflare\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/emdash-cms?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114490?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-02T19:03:55+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "2aa05fee8a264d7c58d1b8140b1e44903229dd38",
@@ -1148,6 +1166,15 @@
       "category": "tech"
     },
     {
+      "id": "d4ab70f5805c6af56d9920f1e928ba5e08810414",
+      "title": "MAI-Transcribe-1",
+      "link": "https://www.producthunt.com/products/mai-image-2-3",
+      "summary": "<p>\n            Production ASR for noisy multilingual audio\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mai-image-2-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114405?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-02T16:44:30+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "242c717b7cc0bcbc8a0b9ace3a21c6695577193c",
       "title": "Money transfer app Duc exposed thousands of driver’s licenses and passports to the open web",
       "link": "https://techcrunch.com/2026/04/02/canadian-money-transfer-app-duc-expose-drivers-licenses-passports-amazon-server/",
@@ -1166,11 +1193,11 @@
       "category": "events"
     },
     {
-      "id": "d8d55d70199bfe689f88e2929cf29f1162f107b8",
-      "title": "Google Gemma 4",
-      "link": "https://www.producthunt.com/products/google-gemma",
-      "summary": "<p>\n            Google's most intelligent open models to date\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google-gemma?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114382?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-02T16:07:42+00:00",
+      "id": "b5af5d25bfabf54ab6951b1ab8e0a3c281d84405",
+      "title": "Codictate",
+      "link": "https://www.producthunt.com/products/codictate",
+      "summary": "<p>\n            Free dictation for Any language and any application\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/codictate?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114386?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-02T16:15:03+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1256,24 +1283,6 @@
       "category": "malaysia"
     },
     {
-      "id": "a14747bc2048b460fb510a028fe7a869215660f7",
-      "title": "Tesla’s cheaper vehicles aren’t helping its declining sales",
-      "link": "https://techcrunch.com/2026/04/02/tesla-deliveries-cheaper-vehicles-model-y-3-sales/",
-      "summary": "The company's deliveries in the first quarter were just 6% higher than last year, and Tesla now faces a third straight year of falling sales.",
-      "published": "2026-04-02T14:18:42+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "d160654e3a405e6b3c572c345bf06c346b0fdd5e",
-      "title": "Commonwealth Fusion Systems leans on magnets for near-term revenue",
-      "link": "https://techcrunch.com/2026/04/02/commonwealth-fusion-systems-leans-on-magnets-for-near-term-revenue/",
-      "summary": "Realta Fusion is buying magnets from Commonwealth Fusion Systems, providing a revenue stopgap.",
-      "published": "2026-04-02T14:15:27+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "07d254db4c4417c8aeead69f39a516faef047a59",
       "title": "Tesla sales grew by 6% in Q1, but company has an overproduction problem",
       "link": "https://arstechnica.com/cars/2026/04/tesla-sales-grew-by-6-in-q1-but-company-has-an-overproduction-problem/",
@@ -1292,20 +1301,29 @@
       "category": "tech"
     },
     {
-      "id": "0266e36f172df209818bb4bae7b5f3f2136fe52f",
-      "title": "Diverse teams start with diverse VCs",
-      "link": "https://techcrunch.com/2026/04/02/diverse-teams-start-with-diverse-vcs/",
-      "summary": "It is the path of least resistance for a growth-stage company to hire from the familiar Silicon Valley pipelines but if a founder wants a diverse team, that value has to be put into practice from the very first hire.",
-      "published": "2026-04-02T13:45:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "7a12b95f31d2caec06e8c054e4bdc5f80e6d4633",
       "title": "Otto by Audos.com",
       "link": "https://www.producthunt.com/products/socap",
       "summary": "<p>\n            Your AI co-founder that builds, launches, and sells for you\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/socap?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114259?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-02T12:54:29+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "8814bb651ea89125507ca7efa1621300221537b7",
+      "title": "Qwen3.6-Plus",
+      "link": "https://www.producthunt.com/products/qwen3",
+      "summary": "<p>\n            Multimodal AI optimized for real-world coding agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114214?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-02T12:04:10+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "36264857c9a17041ea5a6c10aef8c6fe2b5a81f1",
+      "title": "Package Mate",
+      "link": "https://www.producthunt.com/products/package-mate-open-source-cli-for-macos",
+      "summary": "<p>\n            Master your macOS dev environment from the terminal\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/package-mate-open-source-cli-for-macos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114166?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-02T11:15:50+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1333,6 +1351,15 @@
       "link": "https://www.producthunt.com/products/side-reminder",
       "summary": "<p>\n            Access Apple Reminders from your screen edge instanly\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/side-reminder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114135?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-02T10:32:11+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "67f9d14b02982bdfe32cf121979bc158e8086496",
+      "title": "Straude",
+      "link": "https://www.producthunt.com/products/straude",
+      "summary": "<p>\n            Strava for Claude Code / Global Tokenmaxxing Leaderboard\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/straude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114059?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-02T08:33:48+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1389,15 +1416,6 @@
       "published": "2026-04-01T20:04:04+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "1b173fd7702297b0f2010005e2d249a23f61968c",
-      "title": "Duck, Duck, Duck! by IDEO",
-      "link": "https://www.producthunt.com/products/duck-duck-duck-by-ideo",
-      "summary": "<p>\n            An opinionated robot rubber duck for Claude code\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/duck-duck-duck-by-ideo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1113595?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-01T18:07:39+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "29911ba57c60f249062d2779d6bc08cd24ed1440",
@@ -1463,29 +1481,11 @@
       "category": "malaysia"
     },
     {
-      "id": "ae55145ddf561cacb36075b90d8ca5148a382724",
-      "title": "ZooClaw",
-      "link": "https://www.producthunt.com/products/zooclaw",
-      "summary": "<p>\n            Your proactive team of AI specialists in one place\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zooclaw?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1109919?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-28T14:37:15+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "fa6469a4362aae834a5fc7ae0d308da4cc301192",
-      "title": "Gerri",
-      "link": "https://www.producthunt.com/products/gerri",
-      "summary": "<p>\n            Put your contract redlines on autopilot\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gerri?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1109260?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-27T16:16:17+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "e628bff69c0fe2a3b6853327670f527fee121c79",
-      "title": "GeneratePPT",
-      "link": "https://www.producthunt.com/products/generateppt",
-      "summary": "<p>\n            Instantly generated simple, design-forward slides\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/generateppt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1068183?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-01-26T06:44:30+00:00",
+      "id": "6ffb073184ebc38729442c9dc3d24de44e2ad5b6",
+      "title": "NotebookLM Custom Infographic Styles",
+      "link": "https://www.producthunt.com/products/notebooklm-custom-infographic-styles",
+      "summary": "<p>\n            Turn any source into a styled infographic\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/notebooklm-custom-infographic-styles?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1089011?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-03T08:11:35+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
