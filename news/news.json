@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-04-04T13:48:36.331997+00:00",
+  "generatedAt": "2026-04-04T14:28:08.025183+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "7097f4378cd67a5fc7d5e24757acbfe9a98b7edf",
+      "title": "Russian attack on Ukraine market kills five",
+      "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
+      "published": "2026-04-04T14:00:31+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "1c5c619240b02fdac408ff6122c578b1c3669413",
+      "title": "My dream pair of AR gaming glasses needs to have these nine features",
+      "link": "https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2",
+      "summary": "I’ve spent months in the lab testing the latest AR glasses from Xreal and Viture. By “lab,” I mean cozied up on my couch each night, playing my Steam Deck or Nintendo Switch 2 on a huge, virtual screen that only I can see through these glasses. Using AR glasses as a portable display for [&#8230;]",
+      "published": "2026-04-04T14:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "5eb6f26a72dd9f77ca51ffc34d6d5da9fa0581ed",
+      "title": "Q&A with Simon Willison on the November release of GPT-5.1 and Opus 4.5 as the inflection point for coding, exhaustion due to managing coding agents, and more (Lenny Rachitsky/Lenny's Newsletter)",
+      "link": "http://www.techmeme.com/260404/p6#a260404p6",
+      "summary": "<a href=\"https://www.lennysnewsletter.com/p/an-ai-state-of-the-union\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260404/i6.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260404/p6#a260404p6\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lenny Rachitsky / <a href=\"https://www.lennysnewsletter.com/\">Lenny's Newsletter</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.lennysnewsletter.com/p/an-ai-state-of-the-union\">Q&amp;A with Simon Willison on the November release of GPT-5.1 and Opus 4.5 as the inflection point for coding, exhaustion due to managing coding agents, and more</a></b></span>&nbsp; &mdash;&nbsp; Simon Willison is a prolific independent software developer, a blogger, and one of the most visible and trusted voices on the impact AI is having on builders.</p>",
+      "published": "2026-04-04T13:55:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
     {
       "id": "9d874bb261c55a47b63aa5c276dae601389b0441",
       "title": "Best of 9to5Toys – This week’s top deals: M5 MacBook Pro, Galaxy Book6, Watch bands, more",
@@ -12,15 +39,6 @@
       "published": "2026-04-04T13:36:53+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "7097f4378cd67a5fc7d5e24757acbfe9a98b7edf",
-      "title": "Russian attack on Ukraine market kills five",
-      "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
-      "summary": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
-      "published": "2026-04-04T13:13:36+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "040dda6261787a22e7eaa4b488107959a48f8b63",
@@ -50,19 +68,19 @@
       "category": "malaysia"
     },
     {
-      "id": "cc1a7a1c0dc4c4eb60f23689dd3cbe69471eebb3",
-      "title": "Italian consumers could get back €500 each after court strikes down Netflix contract clauses",
-      "link": "https://www.malaymail.com/news/money/2026/04/04/italian-consumers-could-get-back-500-each-after-court-strikes-down-netflix-contract-clauses/215066",
-      "summary": "ROME, April 4 &mdash; US streaming giant Netflix may have to reimburse hundreds of millions of euros to its Italian cust...",
+      "id": "5fe12c57a874166c681eb8ba30360fb680dba800",
+      "title": "Will this ‘omiai’ save the Bornean orangutans? Indonesia and Japan team up to matchmake 15-year-olds Jennifer and Hayato",
+      "link": "https://www.malaymail.com/news/life/2026/04/04/will-this-omiai-save-the-bornean-orangutans-indonesia-and-japan-team-up-to-matchmake-15-year-olds-jennifer-and-hayato/215065",
+      "summary": "MATSUYAMA, April 4 &mdash; A zoo in western Japan aims to breed endangered orangutans by pairing a male at the zoo with...",
       "published": "2026-04-04T13:00:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
-      "id": "5fe12c57a874166c681eb8ba30360fb680dba800",
-      "title": "Will this ‘omiai’ save the Bornean orangutans? Indonesia and Japan team up to matchmake 15-year-olds Jennifer and Hayato",
-      "link": "https://www.malaymail.com/news/life/2026/04/04/will-this-omiai-save-the-bornean-orangutans-indonesia-and-japan-team-up-to-matchmake-15-year-olds-jennifer-and-hayato/215065",
-      "summary": "MATSUYAMA, April 4 &mdash; A zoo in western Japan aims to breed endangered orangutans by pairing a male at the zoo with...",
+      "id": "cc1a7a1c0dc4c4eb60f23689dd3cbe69471eebb3",
+      "title": "Italian consumers could get back €500 each after court strikes down Netflix contract clauses",
+      "link": "https://www.malaymail.com/news/money/2026/04/04/italian-consumers-could-get-back-500-each-after-court-strikes-down-netflix-contract-clauses/215066",
+      "summary": "ROME, April 4 &mdash; US streaming giant Netflix may have to reimburse hundreds of millions of euros to its Italian cust...",
       "published": "2026-04-04T13:00:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
@@ -120,6 +138,15 @@
       "published": "2026-04-04T12:14:44+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
+    },
+    {
+      "id": "6a30fcda6cc74bcd3a0f65f16ff64313007bedee",
+      "title": "Australians told to continue Easter travel plans despite fuel shortages",
+      "link": "https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of petrol stations across Australia have run out of fuel as the Iran war disrupts global oil shipments and pushes up prices.",
+      "published": "2026-04-04T12:10:10+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "0067d99b14765bd9389c8df2cd63933c3769088c",
@@ -210,6 +237,15 @@
       "published": "2026-04-04T11:11:13+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
+    },
+    {
+      "id": "c0b421ab5d80b53aa2bf9bd6bede45f725fc1c7e",
+      "title": "Fugitive mafia boss wanted for murder arrested in Amalfi Coast luxury villa",
+      "link": "https://www.bbc.com/news/articles/cn437qkk80lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Roberto Mazzarella has been on the run for more than a year and was living under a false name, police say.",
+      "published": "2026-04-04T11:10:28+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "ab9b1ed9e1c07c97977a5cb7cd7ccc6335e6cf48",
@@ -509,15 +545,6 @@
       "category": "tech"
     },
     {
-      "id": "350cb0167317b7915b54a2cd0d683b4066ac9ed8",
-      "title": "How Canada's largest gun control effort in decades is missing the mark",
-      "link": "https://www.bbc.com/news/articles/cvg09dq4x5qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada recently banned 2,500 models of \"assault-style\" firearms - but a plan to buy-back tens of thousands of guns fell short by half.",
-      "published": "2026-04-04T00:32:45+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "4a95a07e1087fc4383b8309d98db72d428e35170",
       "title": "Sources: Mark Zuckerberg is back to writing code after a two-decade hiatus, submitting three diffs to Meta's monorepo, and is a heavy user of Claude Code CLI (Gergely Orosz/The Pragmatic Engineer)",
       "link": "http://www.techmeme.com/260403/p22#a260403p22",
@@ -561,15 +588,6 @@
       "published": "2026-04-03T23:19:36+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "939d76daa07db1088b20b152586a4c61b7a60fc4",
-      "title": "Faced with new energy shock, Europe asks if reviving nuclear is the answer",
-      "link": "https://www.bbc.com/news/articles/c4g8k8vq8gno?at_medium=RSS&at_campaign=rss",
-      "summary": "As war drives up gas and fuel prices, Europeans turn again to the issue of energy independence.",
-      "published": "2026-04-03T23:14:04+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "74317858146d694dd45fb229c6d7339b82859b9c",
@@ -749,15 +767,6 @@
       "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
       "published": "2026-04-03T20:22:18+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "fea12c02ab6e92135845692d03b86547e32a8f73",
-      "title": "Internal memo: Iranian strikes have rendered two AWS zones \"hard down\" in Dubai and Bahrain and Amazon expects them to be \"unavailable for an extended period\" (Alex Kantrowitz/Big Technology)",
-      "link": "http://www.techmeme.com/260403/p15#a260403p15",
-      "summary": "<a href=\"https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260403/i15.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260403/p15#a260403p15\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Alex Kantrowitz / <a href=\"https://www.bigtechnology.com/\">Big Technology</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability\">Internal memo: Iranian strikes have rendered two AWS zones &ldquo;hard down&rdquo; in Dubai and Bahrain and Amazon expects them to be &ldquo;unavailable for an extended period&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; Amazon tells its employees to deprioritize these regions as the Iran war deals meaningful damage to its infrastructure in the Gulf.</p>",
-      "published": "2026-04-03T20:05:04+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -966,15 +975,6 @@
       "published": "2026-04-03T15:45:25+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "bf12cab0fdeb126eea31922df5fa32021224ed28",
-      "title": "Mercedes adds steer-by-wire — and a dang steering yoke — to the EQS",
-      "link": "https://www.theverge.com/transportation/906539/mercedes-steer-by-wire-steering-yoke-eqs",
-      "summary": "Steer-by-wire, in which a car can be steered electronically rather than through a physical connection between the steering wheel and steering rack, is coming to Mercedes-Benz. The German automaker says it will use the steering technology in its forthcoming refreshed EQS sedan, marking its first foray into the world of steer-by-wire. Steer-by-wire systems replace traditional [&#8230;]",
-      "published": "2026-04-03T15:34:10+00:00",
-      "source": "The Verge",
-      "category": "tech"
     },
     {
       "id": "1a64e0a1d846abc49b5ad88519bbef9f3ea963f5",
@@ -1193,6 +1193,15 @@
       "category": "tech"
     },
     {
+      "id": "76eb2abf7639347fdb0b02205019db6cbcc80e0c",
+      "title": "Mesh LLM",
+      "link": "https://www.producthunt.com/products/mesh-llm",
+      "summary": "<p>\n            Pool compute to run powerful open models\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mesh-llm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114662?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-03T00:16:57+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "e8c3737d88186ee7fe6fee73652ce9e40ec9092b",
       "title": "Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets",
       "link": "https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/",
@@ -1272,6 +1281,15 @@
       "published": "2026-04-02T19:45:19+00:00",
       "source": "TechCrunch",
       "category": "tech"
+    },
+    {
+      "id": "e02db7c264f914957087667db953affd44ee91d4",
+      "title": "Cursor 3",
+      "link": "https://www.producthunt.com/products/cursor-3",
+      "summary": "<p>\n            Unified workspace for parallel local/cloud agents and MCPs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cursor-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114508?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-02T19:32:39+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "59cde2a36310e66776a1639281b6e6c53d9e0d40",
@@ -1409,15 +1427,6 @@
       "category": "events"
     },
     {
-      "id": "1b173fd7702297b0f2010005e2d249a23f61968c",
-      "title": "Duck, Duck, Duck! by IDEO",
-      "link": "https://www.producthunt.com/products/duck-duck-duck-by-ideo",
-      "summary": "<p>\n            An opinionated robot rubber duck for Claude code\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/duck-duck-duck-by-ideo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1113595?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-01T18:07:39+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "525b9b8feab0a31ff75e72f2d1e82770a2ae611b",
       "title": "Gentari deploys 180kW DC Charger at Petronas Desaru, Bandar Penawar",
       "link": "https://soyacincau.com/2026/04/01/gentari-180kw-ev-dc-charger-petronas-desaru-bandar-penawar-johor/",
@@ -1477,15 +1486,6 @@
       "link": "https://www.producthunt.com/products/klick-1-ai-camera-assistant",
       "summary": "<p>\n            Real-time AI camera that teaches you composition live\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/klick-1-ai-camera-assistant?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1089602?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-04T06:14:18+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "6ffb073184ebc38729442c9dc3d24de44e2ad5b6",
-      "title": "NotebookLM Custom Infographic Styles",
-      "link": "https://www.producthunt.com/products/notebooklm-custom-infographic-styles",
-      "summary": "<p>\n            Turn any source into a styled infographic\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/notebooklm-custom-infographic-styles?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1089011?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-03T08:11:35+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
