@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-04-04T15:25:32.983173+00:00",
+  "generatedAt": "2026-04-04T16:28:00.125734+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "94aab6f585f0fdf033fed27f277ed9ca28dd9fb1",
+      "title": "Y Combinator appears to have dropped Delve, removing the company's profile from its startup directory, following allegations of fake compliance certificates (The Economic Times)",
+      "link": "http://www.techmeme.com/260404/p8#a260404p8",
+      "summary": "<a href=\"https://economictimes.indiatimes.com/tech/technology/backer-y-combinator-drops-delve-on-compliance-allegations-top-brass-allege-smear-campaign/articleshow/130015378.cms\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260404/i8.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260404/p8#a260404p8\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://economictimes.indiatimes.com/\">The Economic Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://economictimes.indiatimes.com/tech/technology/backer-y-combinator-drops-delve-on-compliance-allegations-top-brass-allege-smear-campaign/articleshow/130015378.cms\">Y Combinator appears to have dropped Delve, removing the company's profile from its startup directory, following allegations of fake compliance certificates</a></b></span>&nbsp; &mdash;&nbsp; Delve's removal from Y Combinator's directory follows allegations that compliance certifications for hundreds of Delve's clients were fabricated.</p>",
+      "published": "2026-04-04T16:20:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "4cd570ffc6775ea9329308d31479f9c7927c115b",
+      "title": "UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant",
+      "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The International Atomic Energy Agency urges restraint to avoid a nuclear accident at Iran's Bushehr plant.",
+      "published": "2026-04-04T16:19:25+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "23707ef2338916253430c47784824c8dd23a02f1",
+      "title": "US arrests relatives of deceased Iranian ​general Qasem ​Soleimani",
+      "link": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
+      "published": "2026-04-04T16:12:15+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "a4afdbf369c05975c41d1902f0407b93da9d609e",
+      "title": "Russian media says attempts to limit VPN use may have triggered a widespread banking outage, as Moscow intensifies a crackdown on internet use and Telegram (Anthony Halpin/Bloomberg)",
+      "link": "http://www.techmeme.com/260404/p7#a260404p7",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-04/russia-s-vpn-crackdown-caused-bank-outage-telegram-founder-says\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260404/i7.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260404/p7#a260404p7\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Anthony Halpin / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-04/russia-s-vpn-crackdown-caused-bank-outage-telegram-founder-says\">Russian media says attempts to limit VPN use may have triggered a widespread banking outage, as Moscow intensifies a crackdown on internet use and Telegram</a></b></span>&nbsp; &mdash;&nbsp; Russia's attempts to restrict the use of virtual private networks amid a clampdown on the Telegram messaging platform triggered &hellip; </p>",
+      "published": "2026-04-04T15:50:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
     {
       "id": "334648aa200ef3b86e3fe6b2d6aa579600e7f73d",
       "title": "Buy two Nintendo Switch games, get $30 off at Target",
@@ -293,15 +329,6 @@
       "category": "malaysia"
     },
     {
-      "id": "cd6c8affdb3f57af7c7afd1d5321aba1ae604818",
-      "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
-      "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
-      "summary": "A former US marine tells the BBC the priority of any recovery team would be to look for signs of life.",
-      "published": "2026-04-04T10:41:38+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "1a70bcd19eeae373d639c879704c2dbc1baac191",
       "title": "Gold rings, phones, and no goodwill: Police arrest nine, recover stolen loot from Miri house heist",
       "link": "https://www.malaymail.com/news/malaysia/2026/04/04/gold-rings-phones-and-no-goodwill-police-arrest-nine-recover-stolen-loot-from-miri-house-heist/215106",
@@ -473,10 +500,10 @@
       "category": "tech"
     },
     {
-      "id": "c08accff8ddb0e34c376e368fa503f809a3bc32d",
-      "title": "Sources: Microsoft's Judson Althoff said Copilot sales hit \"some pretty big audacious goals\" in Q3; only 3% of customers were paying for Copilot as of January (Brody Ford/Bloomberg)",
+      "id": "ef20cd477fa041be10a8645b781bb386a8bb0548",
+      "title": "Sources: Copilot sales hit \"big audacious goals\" by March end after Microsoft pivoted its sales strategy; 3% of customers were paying for Copilot as of January (Brody Ford/Bloomberg)",
       "link": "http://www.techmeme.com/260404/p1#a260404p1",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-02/microsoft-hit-audacious-copilot-goals-after-wall-street-input\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260404/i1.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260404/p1#a260404p1\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Brody Ford / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-02/microsoft-hit-audacious-copilot-goals-after-wall-street-input\">Sources: Microsoft's Judson Althoff said Copilot sales hit &ldquo;some pretty big audacious goals&rdquo; in Q3; only 3% of customers were paying for Copilot as of January</a></b></span>&nbsp; &mdash;&nbsp; Microsoft Corp., responding to Wall Street feedback, has pivoted its AI sales strategy to focus on selling Copilot rather &hellip; </p>",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-02/microsoft-hit-audacious-copilot-goals-after-wall-street-input\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260404/i1.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260404/p1#a260404p1\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Brody Ford / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-02/microsoft-hit-audacious-copilot-goals-after-wall-street-input\">Sources: Copilot sales hit &ldquo;big audacious goals&rdquo; by March end after Microsoft pivoted its sales strategy; 3% of customers were paying for Copilot as of January</a></b></span>&nbsp; &mdash;&nbsp; Microsoft Corp., responding to Wall Street feedback, has pivoted its AI sales strategy to focus on selling Copilot rather &hellip; </p>",
       "published": "2026-04-04T05:05:01+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -653,15 +680,6 @@
       "category": "tech"
     },
     {
-      "id": "448a84619956ba664a55cc3b7cef57a309d0273f",
-      "title": "Sources: Meta has paused its work with Mercor while it investigates a security breach at the data vendor; OpenAI says it is investigating the security incident (Wired)",
-      "link": "http://www.techmeme.com/260403/p17#a260403p17",
-      "summary": "<a href=\"https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260403/i17.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260403/p17#a260403p17\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.wired.com/\">Wired</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/\">Sources: Meta has paused its work with Mercor while it investigates a security breach at the data vendor; OpenAI says it is investigating the security incident</a></b></span>&nbsp; &mdash;&nbsp; Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor.</p>",
-      "published": "2026-04-03T21:45:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "f4904c5515f9e7e762057ebc8a8e4829447ffebf",
       "title": "Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions",
       "link": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/",
@@ -677,15 +695,6 @@
       "summary": "Experiments show large majorities uncritically accepting \"faulty\" AI answers.",
       "published": "2026-04-03T21:06:15+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "8af88d053076fc3672dee8a124867bc56d8c8ea7",
-      "title": "Utah launches a one-year pilot program allowing Legion Health's AI chatbot to renew prescriptions for 15 low-risk psychiatric maintenance medications (Robert Hart/The Verge)",
-      "link": "http://www.techmeme.com/260403/p16#a260403p16",
-      "summary": "<a href=\"https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260403/i16.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260403/p16#a260403p16\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Robert Hart / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs\">Utah launches a one-year pilot program allowing Legion Health's AI chatbot to renew prescriptions for 15 low-risk psychiatric maintenance medications</a></b></span>&nbsp; &mdash;&nbsp; Some psychiatrists are asking what problem, exactly, this is solving. &hellip; Utah is allowing an AI system to prescribe psychiatric drugs without a doctor.</p>",
-      "published": "2026-04-03T21:00:54+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -926,7 +935,7 @@
       "id": "8c0e856fc24476699f1f2b5529674b40ba8ee535",
       "title": "Sleek Analytics",
       "link": "https://www.producthunt.com/products/sleek-analytics",
-      "summary": "<p>\n            See who's on your site. Right now.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sleek-analytics?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1115155?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            See who's on your site. Right now.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sleek-analytics?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1115155?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-03T17:38:32+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -980,7 +989,7 @@
       "id": "1a64e0a1d846abc49b5ad88519bbef9f3ea963f5",
       "title": "Mercury Edit 2",
       "link": "https://www.producthunt.com/products/mercury-412",
-      "summary": "<p>\n            Ultra-fast next-edit prediction for coding\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mercury-412?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1115087?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Ultra-fast next-edit prediction for coding\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mercury-412?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1115087?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-03T15:32:18+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -989,7 +998,7 @@
       "id": "2e41124676bc216ebbdfabc23eb1e7d9c339b22d",
       "title": "OpenRouter Model Fusion",
       "link": "https://www.producthunt.com/products/openrouter",
-      "summary": "<p>\n            Run many models side by side and fuse the best answer\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openrouter?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1115074?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Run many models side by side and fuse the best answer\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openrouter?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1115074?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-03T15:05:51+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1043,7 +1052,7 @@
       "id": "abba34cb5f381e1f6dfb092c852051f1a87e7a98",
       "title": "Fluently",
       "link": "https://www.producthunt.com/products/fluently-accurate-youtube-subtitles",
-      "summary": "<p>\n            AI subtitles & translations for YouTube. 20+ Languages. \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fluently-accurate-youtube-subtitles?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1115028?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            AI subtitles & translations for YouTube. 20+ Languages. \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fluently-accurate-youtube-subtitles?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1115028?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-03T13:21:21+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1052,7 +1061,7 @@
       "id": "f670b8a7ac2fc04c7f8df90ad289b6675bbf4237",
       "title": "Open Claude in Chrome",
       "link": "https://www.producthunt.com/products/open-claude-in-chrome",
-      "summary": "<p>\n            Claude in Chrome, reverse-engineered, Jailbroken\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/open-claude-in-chrome?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1115025?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Claude in Chrome, reverse-engineered, Jailbroken\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/open-claude-in-chrome?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1115025?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-03T13:20:10+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1083,15 +1092,6 @@
       "published": "2026-04-03T11:54:18+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "5a1aca859a7c1fbb344a46971b9eb4a989e35db9",
-      "title": "Trump removes US Attorney General Pam Bondi",
-      "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Bondi's time as top US law enforcement officer was overshadowed by her handling of the Epstein files.",
-      "published": "2026-04-03T11:42:17+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "f337f5602ec86e2db68f0d4728c7cb04d429bb91",
@@ -1160,7 +1160,7 @@
       "id": "193f830a9e74022d928fd61b00575f9c6c96a067",
       "title": "Faahh",
       "link": "https://www.producthunt.com/products/faahh-app-that-roasts-you-back-to-work",
-      "summary": "<p>\n            Slap your desk. Unplug distractions. Get back to focus.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/faahh-app-that-roasts-you-back-to-work?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1114870?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Slap your desk. Unplug distractions. Get back to focus.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/faahh-app-that-roasts-you-back-to-work?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114870?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-03T08:20:59+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1196,7 +1196,7 @@
       "id": "76eb2abf7639347fdb0b02205019db6cbcc80e0c",
       "title": "Mesh LLM",
       "link": "https://www.producthunt.com/products/mesh-llm",
-      "summary": "<p>\n            Pool compute to run powerful open models\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mesh-llm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1114662?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Pool compute to run powerful open models\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mesh-llm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114662?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-03T00:16:57+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1214,7 +1214,7 @@
       "id": "cc01158602f0e81d2f5ad4c97097837352cdffa0",
       "title": "FindThem",
       "link": "https://www.producthunt.com/products/findthem",
-      "summary": "<p>\n            Describe ideal lead or investor - get their Linkedin & email\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/findthem?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1114631?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Describe ideal lead or investor - get their Linkedin & email\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/findthem?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114631?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-02T22:50:02+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1256,6 +1256,15 @@
       "category": "tech"
     },
     {
+      "id": "eff5fa5688291014d8a7c499db7796585710aed4",
+      "title": "HoloTutor by VictoryXR",
+      "link": "https://www.producthunt.com/products/holotutor-by-victoryxr",
+      "summary": "<p>\n            The immersive AI tutor\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/holotutor-by-victoryxr?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114534?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-02T20:06:29+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "ef7433a02102b0e57d701694db2ae90095844216",
       "title": "Google Vids gets AI upgrade with Veo and Lyria models, directable AI avatars",
       "link": "https://arstechnica.com/ai/2026/04/google-vids-gets-ai-upgrade-with-veo-and-lyria-models-directable-ai-avatars/",
@@ -1286,7 +1295,7 @@
       "id": "e02db7c264f914957087667db953affd44ee91d4",
       "title": "Cursor 3",
       "link": "https://www.producthunt.com/products/cursor-3",
-      "summary": "<p>\n            Unified workspace for parallel local/cloud agents and MCPs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cursor-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1114508?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Unified workspace for parallel local/cloud agents and MCPs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cursor-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114508?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-02T19:32:39+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1322,7 +1331,7 @@
       "id": "eef4964898f8baaec645dff9c8b001ea6d3784f2",
       "title": "Google Vids 2.0",
       "link": "https://www.producthunt.com/products/google",
-      "summary": "<p>\n            Create, edit and share videos at no cost w/ new AI features\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1114433?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Create, edit and share videos at no cost w/ new AI features\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114433?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-02T17:12:09+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1364,15 +1373,6 @@
       "category": "tech"
     },
     {
-      "id": "e49af7c273fda761cbc5eadb2dbb64017aa6828c",
-      "title": "Quip Network",
-      "link": "https://www.producthunt.com/products/quip-network",
-      "summary": "<p>\n            Open-source distributed quantum compute network\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/quip-network?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1114346?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-02T15:11:28+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "18cc8da75070c9b28266b500894f26890a16027b",
       "title": "Toyota Hilux BEV launched in Malaysia: Dual-motor AWD, 750kg payload and less than 300km WLTP-rated range",
       "link": "https://soyacincau.com/2026/04/02/toyota-hilux-bev-malaysia-launch-price-specs/",
@@ -1385,17 +1385,8 @@
       "id": "36264857c9a17041ea5a6c10aef8c6fe2b5a81f1",
       "title": "Package Mate",
       "link": "https://www.producthunt.com/products/package-mate-open-source-cli-for-macos",
-      "summary": "<p>\n            Master your macOS dev environment from the terminal\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/package-mate-open-source-cli-for-macos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1114166?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Master your macOS dev environment from the terminal\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/package-mate-open-source-cli-for-macos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114166?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-02T11:15:50+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "67f9d14b02982bdfe32cf121979bc158e8086496",
-      "title": "Straude",
-      "link": "https://www.producthunt.com/products/straude",
-      "summary": "<p>\n            Strava for Claude Code, the global tokenmaxxing Leaderboard\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/straude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1114059?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-02T08:33:48+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1412,7 +1403,7 @@
       "id": "0c771ce337882e4847dc0b2831b9bccf9665f63c",
       "title": "Slide2Video",
       "link": "https://www.producthunt.com/products/slide2video-2",
-      "summary": "<p>\n            Turn slides into narrated videos\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/slide2video-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1113797?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Turn slides into narrated videos\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/slide2video-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1113797?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-02T01:29:58+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1421,7 +1412,7 @@
       "id": "5cfbb3a3b340fc6e93c3207fa2e3c6d4624168a7",
       "title": "Surf Social Websites",
       "link": "https://www.producthunt.com/products/flipboard-surf",
-      "summary": "<p>\n            Bring together people and content on the social web\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/flipboard-surf?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1113772?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Bring together people and content on the social web\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/flipboard-surf?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1113772?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-01T23:56:29+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1448,7 +1439,7 @@
       "id": "dbd4c9b73aa39ccd36ce6a22730dc141bd4d20a9",
       "title": "APImage",
       "link": "https://www.producthunt.com/products/apimage",
-      "summary": "<p>\n            Create Images that Amaze\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/apimage?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1112220?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Create Images that Amaze\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/apimage?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1112220?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-31T09:07:20+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1457,7 +1448,7 @@
       "id": "7aaf4097603704f50135f3c9f7fdaf36f71fb674",
       "title": "OpenGyver",
       "link": "https://www.producthunt.com/products/opengyver",
-      "summary": "<p>\n            Turn CLI / AI agents into McGyver\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/opengyver?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1112098?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Turn CLI / AI agents into McGyver\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/opengyver?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1112098?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-31T06:23:34+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1466,7 +1457,7 @@
       "id": "7fae5401a04291d99e7c4cec1992bbd1b4c2cda7",
       "title": "Donut Browser",
       "link": "https://www.producthunt.com/products/donut-browser",
-      "summary": "<p>\n            Open Source Anti-Detect Browser with Unlimited Profiles\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/donut-browser?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1110671?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Open Source Anti-Detect Browser with Unlimited Profiles\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/donut-browser?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1110671?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-29T16:13:39+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1475,7 +1466,7 @@
       "id": "c17c1bc8f90d06f8b7ea2a379e60b238254002be",
       "title": "Vista",
       "link": "https://www.producthunt.com/products/vista-4",
-      "summary": "<p>\n            The image viewer macOS should have built.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vista-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1110458?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            The image viewer macOS should have built.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vista-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1110458?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-29T10:00:43+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1484,8 +1475,17 @@
       "id": "2dce5506d61fec07405813d9351fe12c35322452",
       "title": "Klick AI Camera Assistant",
       "link": "https://www.producthunt.com/products/klick-1-ai-camera-assistant",
-      "summary": "<p>\n            Real-time AI camera that teaches you composition live\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/klick-1-ai-camera-assistant?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1089602?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Real-time AI camera that teaches you composition live\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/klick-1-ai-camera-assistant?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1089602?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-04T06:14:18+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "e628bff69c0fe2a3b6853327670f527fee121c79",
+      "title": "GeneratePPT",
+      "link": "https://www.producthunt.com/products/generateppt",
+      "summary": "<p>\n            The Anti-Bloat Presentation Tool\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/generateppt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1068183?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-01-26T06:44:30+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
