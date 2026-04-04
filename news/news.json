@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-04-04T16:28:00.125734+00:00",
+  "generatedAt": "2026-04-04T17:24:19.928829+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "df18b2194845191865f99a025c1a0cd3c007bec4",
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+      "published": "2026-04-04T16:32:22+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "94aab6f585f0fdf033fed27f277ed9ca28dd9fb1",
       "title": "Y Combinator appears to have dropped Delve, removing the company's profile from its startup directory, following allegations of fake compliance certificates (The Economic Times)",
@@ -1306,15 +1315,6 @@
       "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
       "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
       "published": "2026-04-02T19:21:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "2fabfcde73c25c686790875b9ebcf48c7a2d4fe0",
-      "title": "Flipboard’s new ‘social websites’ help publishers and creators tap into the open social web",
-      "link": "https://techcrunch.com/2026/04/02/flipboard-surf-social-websites-help-publishers-and-creators-tap-into-the-open-social-web/",
-      "summary": "Flipboard's social websites consolidate profiles and posts from Bluesky, Mastodon, Threads, YouTube, podcasts, blogs, and RSS feeds into a single, shared destination.",
-      "published": "2026-04-02T19:18:51+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
