@@ -1,12 +1,57 @@
 {
-  "generatedAt": "2026-04-04T21:25:11.007340+00:00",
+  "generatedAt": "2026-04-04T22:22:14.105023+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
-      "id": "32ebb7eedbfdd7e91e8c6b853d4d36fc106b3c8e",
-      "title": "German men aged 17-45 may need military approval for long stays abroad",
+      "id": "3f9a264abbf882210d794b2d9b0b8d793b0e48c6",
+      "title": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
+      "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump wants Iran to strike a deal and to open the strategic Strait of Hormuz whose closure has led to a spike in oil prices.",
+      "published": "2026-04-04T21:56:24+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "4313e56b7741d3186552a9e3029ad3256030a268",
+      "title": "Apple reportedly signed a 3rd-party driver, by Tiny Corp, for AMD or Nvidia eGPUs for Apple Silicon Macs; it's meant for AI research, not accelerating graphics (AppleInsider)",
+      "link": "http://www.techmeme.com/260404/p11#a260404p11",
+      "summary": "<a href=\"https://appleinsider.com/articles/26/04/04/amd-or-nvidia-egpus-can-work-on-apple-silicon-macs-but-not-for-graphic-acceleration\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260404/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260404/p11#a260404p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://appleinsider.com/\">AppleInsider</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://appleinsider.com/articles/26/04/04/amd-or-nvidia-egpus-can-work-on-apple-silicon-macs-but-not-for-graphic-acceleration\">Apple reportedly signed a 3rd-party driver, by Tiny Corp, for AMD or Nvidia eGPUs for Apple Silicon Macs; it's meant for AI research, not accelerating graphics</a></b></span>&nbsp; &mdash;&nbsp; Apple has signed a driver for AMD or Nvidia eGPUs connected to Apple Silicon but there are some big caveats, and it won't improve your graphics.</p>",
+      "published": "2026-04-04T21:55:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "169e7bf782a270fcdb5f90987c4f741711777ce2",
+      "title": "Research across 1,372 participants and 9K+ trials details \"cognitive surrender\", where most subjects had minimal AI skepticism and accepted faulty AI reasoning (Kyle Orland/Ars Technica)",
+      "link": "http://www.techmeme.com/260404/p10#a260404p10",
+      "summary": "<a href=\"https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260404/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260404/p10#a260404p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kyle Orland / <a href=\"http://arstechnica.com/\">Ars Technica</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/\">Research across 1,372 participants and 9K+ trials details &ldquo;cognitive surrender&rdquo;, where most subjects had minimal AI skepticism and accepted faulty AI reasoning</a></b></span>&nbsp; &mdash;&nbsp; When it comes to large language model-powered tools, there are generally two broad categories of users.</p>",
+      "published": "2026-04-04T21:35:03+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "e059c9dc8a82742812d9bd74cc35464fde9d8e1e",
+      "title": "Unpacking Peter Thiel’s big bet on solar-powered cow collars",
+      "link": "https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/",
+      "summary": "Why did Founders Fund invest $220 million in cattle management startup Halter?",
+      "published": "2026-04-04T21:30:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "7ea81c600b0bbb271b00423490ca6e41c88fb404",
+      "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
+      "link": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
+      "published": "2026-04-04T21:29:46+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "c37a6befaea48ecfa81f90b15c4f9c5f8f6701d3",
+      "title": "German males under 45 may need military approval for long stays abroad",
       "link": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
       "summary": "Under the law, travel approvals must generally be granted and it remains unclear how the rule would be enforced if breached.",
       "published": "2026-04-04T21:16:42+00:00",
@@ -59,15 +104,6 @@
       "category": "tech"
     },
     {
-      "id": "7ea81c600b0bbb271b00423490ca6e41c88fb404",
-      "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
-      "link": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
-      "published": "2026-04-04T19:58:51+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "7097f4378cd67a5fc7d5e24757acbfe9a98b7edf",
       "title": "Russian attack on Ukraine market kills five",
       "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
@@ -111,15 +147,6 @@
       "published": "2026-04-04T16:20:00+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "4cd570ffc6775ea9329308d31479f9c7927c115b",
-      "title": "UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant",
-      "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The International Atomic Energy Agency urges restraint to avoid a nuclear accident at Iran's Bushehr plant.",
-      "published": "2026-04-04T16:19:25+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "a4afdbf369c05975c41d1902f0407b93da9d609e",
@@ -698,15 +725,6 @@
       "category": "tech"
     },
     {
-      "id": "f97dfcf5d14b41abbd917315c9c5ea79fb67b296",
-      "title": "Starting tomorrow at 12pm PT, Claude subscriptions will no longer cover usage on third-party tools like OpenClaw. You can still use these tools with your Claude login via extra usage bundles (now available at a discount), or with a Claude API key. (Boris Cherny/@bcherny)",
-      "link": "http://www.techmeme.com/260403/p20#a260403p20",
-      "summary": "<p><a href=\"http://www.techmeme.com/260403/p20#a260403p20\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Boris Cherny / <a href=\"https://x.com/bcherny\">@bcherny</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://x.com/bcherny/status/2040206440556826908\">Starting tomorrow at 12pm PT, Claude subscriptions will no longer cover usage on third-party tools like OpenClaw. You can still use these tools with your Claude login via extra usage bundles (now available at a discount), or with a Claude API key.</a></b></span></p>",
-      "published": "2026-04-03T23:35:07+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "bb6544e5431160d359f908666eb29a2f6ecf366f",
       "title": "Trump proposes steep cut to NASA budget as astronauts head for the Moon",
       "link": "https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/",
@@ -731,15 +749,6 @@
       "summary": "Ice Age hunter-gatherer \"were intentionally relying on random outcomes in repeatable, rule-based ways.\"",
       "published": "2026-04-03T22:55:29+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "164c3cddd1f8349b7b13f5a394619ce617a260d0",
-      "title": "Filing: Anthropic has formed AnthroPAC, a new PAC that will be funded exclusively and voluntarily by its employees and is expected to be bipartisan (Miranda Nazzaro/The Hill)",
-      "link": "http://www.techmeme.com/260403/p19#a260403p19",
-      "summary": "<a href=\"https://thehill.com/policy/technology/5815439-anthropic-launches-corporate-pac/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260403/i19.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260403/p19#a260403p19\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Miranda Nazzaro / <a href=\"http://www.thehill.com/\">The Hill</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://thehill.com/policy/technology/5815439-anthropic-launches-corporate-pac/\">Filing: Anthropic has formed AnthroPAC, a new PAC that will be funded exclusively and voluntarily by its employees and is expected to be bipartisan</a></b></span>&nbsp; &mdash;&nbsp; The artificial intelligence firm Anthropic is launching a new corporate political action committee, becoming the latest technology firm &hellip; </p>",
-      "published": "2026-04-03T22:50:01+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -1307,15 +1316,6 @@
       "summary": "A receptor that's used to find prey is also activated by progesterone.",
       "published": "2026-04-02T19:48:16+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "2307d3e2bf553ae65c651eec5c10292f64f3c329",
-      "title": "Gateway Capital announces first close of $25M Fund II",
-      "link": "https://techcrunch.com/2026/04/02/gateway-capital-dana-guthrie-milwaukee-first-close-fund-ii/",
-      "summary": "Gateway Capital, the Milwaukee-based venture firm founded by Dana Guthrie, can now begin investment operations for its $25M Fund II.",
-      "published": "2026-04-02T19:45:19+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
