@@ -1,15 +1,51 @@
 {
-  "generatedAt": "2026-04-04T20:22:12.167881+00:00",
+  "generatedAt": "2026-04-04T21:25:11.007340+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "32ebb7eedbfdd7e91e8c6b853d4d36fc106b3c8e",
+      "title": "German men aged 17-45 may need military approval for long stays abroad",
+      "link": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Under the law, travel approvals must generally be granted and it remains unclear how the rule would be enforced if breached.",
+      "published": "2026-04-04T21:16:42+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "31edda6def6e6683eed090e704c89159e85fc43a",
+      "title": "Embattled startup Delve has ‘parted ways’ with Y Combinator",
+      "link": "https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/",
+      "summary": "The controversy around Delve appears to have cost the compliance startup its relationship with accelerator Y Combinator.",
+      "published": "2026-04-04T21:03:43+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "c3eed17b09d4f2bc7823f18989d2c49e61f34717",
+      "title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
+      "link": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
+      "summary": "A state bill is a glimpse of how corporations are limiting people's ability to make their own fixes and upgrades.",
+      "published": "2026-04-04T20:36:49+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
     {
       "id": "ed560f9f5456cabe56cfbe98297f714d5ab8b744",
       "title": "Search for missing airman presents serious test for US",
       "link": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
       "summary": "The stakes could rise further if the weapons system officer of the downed F15 Eagle plane is captured by Iran.",
       "published": "2026-04-04T20:13:41+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "29f5e1af84505b07dbbaa50fac4a0b2ceb8e4d36",
+      "title": "What we know so far about the US fighter jet shot down over Iran",
+      "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pilot of the downed jet has been safely rescued, but a search and rescue operation is still under way for the jet's second crew member, US media reports.",
+      "published": "2026-04-04T20:06:12+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -374,6 +410,15 @@
       "category": "malaysia"
     },
     {
+      "id": "cd6c8affdb3f57af7c7afd1d5321aba1ae604818",
+      "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
+      "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "A former US marine tells the BBC the priority of any recovery team would be to look for signs of life.",
+      "published": "2026-04-04T10:41:38+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "1a70bcd19eeae373d639c879704c2dbc1baac191",
       "title": "Gold rings, phones, and no goodwill: Police arrest nine, recover stolen loot from Miri house heist",
       "link": "https://www.malaymail.com/news/malaysia/2026/04/04/gold-rings-phones-and-no-goodwill-police-arrest-nine-recover-stolen-loot-from-miri-house-heist/215106",
@@ -669,6 +714,15 @@
       "published": "2026-04-03T23:19:36+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
+    },
+    {
+      "id": "74317858146d694dd45fb229c6d7339b82859b9c",
+      "title": "After 16 years in power, could Viktor Orban finally be unseated?",
+      "link": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hungary is going to the polls in nine days - after 16 years in power, can Viktor Orban be unseated?",
+      "published": "2026-04-03T23:04:24+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "aef8c6d2da454a5e952f64991b873b0e165c13f0",
@@ -977,15 +1031,6 @@
       "category": "tech"
     },
     {
-      "id": "f8f4566112f1055b0a438e8ef1f2254811700ac8",
-      "title": "US deports eight people 'of African origin' to Uganda",
-      "link": "https://www.bbc.com/news/articles/c8ej43z8yw4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Uganda Law Society criticises the deportation, saying it was illegal and \"dehumanising\".",
-      "published": "2026-04-03T16:22:45+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "1689f26a32867de10a80e1a80eb435acf17147a2",
       "title": "Europe’s cyber agency blames hacking gangs for massive data breach and leak",
       "link": "https://techcrunch.com/2026/04/03/europes-cyber-agency-blames-hacking-gangs-for-massive-data-breach-and-leak/",
@@ -1076,15 +1121,6 @@
       "category": "events"
     },
     {
-      "id": "474617d5db472847844e90d010e241e9390bae43",
-      "title": "France's Muslim gathering ban overturned by courts",
-      "link": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Paris police department had argued that the four-day gathering was a security threat because it could be a target of terrorism.",
-      "published": "2026-04-03T12:20:28+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "6a908401704fef1eba9691dfd4c5f3d64da00af7",
       "title": "PSA: Update Your MAE App Before 11 April To Avoid Service Disruption",
       "link": "https://www.lowyat.net/2026/388360/psa-update-mae-app-before-11-april/",
@@ -1094,15 +1130,6 @@
       "category": "deals"
     },
     {
-      "id": "5a1aca859a7c1fbb344a46971b9eb4a989e35db9",
-      "title": "Trump removes US Attorney General Pam Bondi",
-      "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Bondi's time as top US law enforcement officer was overshadowed by her handling of the Epstein files.",
-      "published": "2026-04-03T11:42:17+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "f337f5602ec86e2db68f0d4728c7cb04d429bb91",
       "title": "Securities Commission, MCMC Team Up To Combat Online Investment Scams",
       "link": "https://www.lowyat.net/2026/388355/sc-mcmc-team-up-to-combat-online-investment-scams/",
@@ -1110,15 +1137,6 @@
       "published": "2026-04-03T11:37:23+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "952c923339e1af6ac7d74166cdaed1de235e2456",
-      "title": "Burkina Faso must 'forget' about democracy, military leader says",
-      "link": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Capt Ibrahim Traoré, who seized power in 2023, says democratic rule would not work for his country.",
-      "published": "2026-04-03T11:11:42+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "1f253a2ef8b387b0092b2e3baf843fad6819eecf",
@@ -1301,15 +1319,6 @@
       "category": "tech"
     },
     {
-      "id": "59cde2a36310e66776a1639281b6e6c53d9e0d40",
-      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-      "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-      "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
-      "published": "2026-04-02T19:21:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "ba409864ccb7610aee141b849e6b9c532e9eb409",
       "title": "New fossil deposits show complex animal groups predating the Cambrian",
       "link": "https://arstechnica.com/science/2026/04/new-fossil-deposits-show-complex-animal-groups-predating-the-cambrian/",
@@ -1351,15 +1360,6 @@
       "link": "https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/",
       "summary": "Gemma 4 brings the first major update to Google's open models in a year.",
       "published": "2026-04-02T16:01:33+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "a5c76a5a447d20d010db448a06749248c7ec58ec",
-      "title": "This Ford is the quickest production car at the Nürburgring, ever",
-      "link": "https://arstechnica.com/cars/2026/04/a-production-ford-sets-third-fastest-time-ever-at-the-nurburgring/",
-      "summary": "Only three race cars have ever gone quicker around this famous track.",
-      "published": "2026-04-02T16:00:11+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
     },
