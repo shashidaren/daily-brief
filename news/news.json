@@ -1,24 +1,33 @@
 {
-  "generatedAt": "2026-04-05T20:25:18.221389+00:00",
+  "generatedAt": "2026-04-05T21:25:04.569216+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "005252c3a40ae5c64e826b6ba779101f2a2ac049",
+      "title": "How rescue of US airman in remote part of Iran unfolded",
+      "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+      "summary": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
+      "published": "2026-04-05T21:19:02+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "4e5b4833eb5cb84dcebab11bc3e7c9874528379b",
+      "title": "Medvi, glorified by the NYT as a two-employee startup with $1B+ in revenue, is a warning about how AI can be misused for shady business and marketing practices (Gary Marcus/Marcus on AI)",
+      "link": "http://www.techmeme.com/260405/p8#a260405p8",
+      "summary": "<a href=\"https://garymarcus.substack.com/p/the-back-story-behind-the-first-18\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260405/i8.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260405/p8#a260405p8\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Gary Marcus / <a href=\"https://garymarcus.substack.com/\">Marcus on AI</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://garymarcus.substack.com/p/the-back-story-behind-the-first-18\">Medvi, glorified by the NYT as a two-employee startup with $1B+ in revenue, is a warning about how AI can be misused for shady business and marketing practices</a></b></span>&nbsp; &mdash;&nbsp; AI isn't the only thing behind Medvi&nbsp; &mdash;&nbsp; On Thursday, The New York Times published a thing&nbsp; &mdash;&nbsp; and it went viral, declared as a victory for AI:</p>",
+      "published": "2026-04-05T20:25:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
     {
       "id": "793da9389f35bd6947f995a273966e413d29f8e2",
       "title": "Analysis: Trump declares victory in Iran war after rescue, but threats to US operation still loom",
       "link": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
       "summary": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
       "published": "2026-04-05T20:02:01+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "005252c3a40ae5c64e826b6ba779101f2a2ac049",
-      "title": "How rescue of US airman in remote part of Iran unfolded",
-      "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
-      "summary": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
-      "published": "2026-04-05T20:00:20+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -149,19 +158,19 @@
       "category": "malaysia"
     },
     {
-      "id": "61c97d6bcd0f875bd783b6aad3fdcfa10ec9e246",
-      "title": "As fuel prices surge, Austria, Italy, Germany, Portugal and Spain moot windfall tax on energy companies",
-      "link": "https://www.malaymail.com/news/money/2026/04/05/as-fuel-prices-surge-austria-italy-germany-portugal-and-spain-moot-windfall-tax-on-energy-companies/215198",
-      "summary": "Ministers from Germany, Italy, Spain, Portugal and Austria send letterThey say companies must help &lsquo;ease burden on...",
+      "id": "16d62443f44a529e82be1ccda3be96f11407260f",
+      "title": "Who's who in graft trial rocking Spanish government",
+      "link": "https://www.malaymail.com/news/world/2026/04/05/whos-who-in-graft-trial-rocking-spanish-government/215183",
+      "summary": "MADRID, April 5 &mdash; Spanish Prime Minister Pedro Sanchez&rsquo;s former right-hand man goes on trial on Tuesday in a...",
       "published": "2026-04-05T13:00:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
-      "id": "16d62443f44a529e82be1ccda3be96f11407260f",
-      "title": "Who's who in graft trial rocking Spanish government",
-      "link": "https://www.malaymail.com/news/world/2026/04/05/whos-who-in-graft-trial-rocking-spanish-government/215183",
-      "summary": "MADRID, April 5 &mdash; Spanish Prime Minister Pedro Sanchez&rsquo;s former right-hand man goes on trial on Tuesday in a...",
+      "id": "61c97d6bcd0f875bd783b6aad3fdcfa10ec9e246",
+      "title": "As fuel prices surge, Austria, Italy, Germany, Portugal and Spain moot windfall tax on energy companies",
+      "link": "https://www.malaymail.com/news/money/2026/04/05/as-fuel-prices-surge-austria-italy-germany-portugal-and-spain-moot-windfall-tax-on-energy-companies/215198",
+      "summary": "Ministers from Germany, Italy, Spain, Portugal and Austria send letterThey say companies must help &lsquo;ease burden on...",
       "published": "2026-04-05T13:00:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
@@ -686,15 +695,6 @@
       "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
       "published": "2026-04-04T16:32:22+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "94aab6f585f0fdf033fed27f277ed9ca28dd9fb1",
-      "title": "Y Combinator appears to have dropped Delve, removing the company's profile from its startup directory, following allegations of fake compliance certificates (The Economic Times)",
-      "link": "http://www.techmeme.com/260404/p8#a260404p8",
-      "summary": "<a href=\"https://economictimes.indiatimes.com/tech/technology/backer-y-combinator-drops-delve-on-compliance-allegations-top-brass-allege-smear-campaign/articleshow/130015378.cms\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260404/i8.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260404/p8#a260404p8\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://economictimes.indiatimes.com/\">The Economic Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://economictimes.indiatimes.com/tech/technology/backer-y-combinator-drops-delve-on-compliance-allegations-top-brass-allege-smear-campaign/articleshow/130015378.cms\">Y Combinator appears to have dropped Delve, removing the company's profile from its startup directory, following allegations of fake compliance certificates</a></b></span>&nbsp; &mdash;&nbsp; Delve's removal from Y Combinator's directory follows allegations that compliance certifications for hundreds of Delve's clients were fabricated.</p>",
-      "published": "2026-04-04T16:20:00+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
