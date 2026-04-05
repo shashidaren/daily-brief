@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-04-05T18:34:11.926410+00:00",
+  "generatedAt": "2026-04-05T19:28:56.439030+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "d373b5bc1c07eab29530bbc0a95a69a49d718c94",
+      "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
+      "link": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.",
+      "published": "2026-04-05T19:17:42+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "9c01cbda84178630395478e2c8d9fa8eca388a98",
+      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+      "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
+      "published": "2026-04-05T18:51:37+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "ab9aa14465fd749877e39f5ab15f7dd0d5dca202",
       "title": "Los Thuthanaka’s Wak&#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite",
@@ -46,15 +64,6 @@
       "link": "https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&at_campaign=rss",
       "summary": "The recovery of the airman follows separate search efforts by both the US and Iran.",
       "published": "2026-04-05T16:46:33+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "d373b5bc1c07eab29530bbc0a95a69a49d718c94",
-      "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
-      "link": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.",
-      "published": "2026-04-05T16:38:06+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -1135,15 +1144,6 @@
       "link": "https://techcrunch.com/2026/04/03/the-final-days-of-the-tesla-model-x-and-s-are-here-all-bets-are-on-the-cybercab/",
       "summary": "It's a new era for Tesla — and one that will rely on its ability to launch the Cybercab and mass-produce the Optimus robot.",
       "published": "2026-04-03T16:48:09+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "1689f26a32867de10a80e1a80eb435acf17147a2",
-      "title": "Europe’s cyber agency blames hacking gangs for massive data breach and leak",
-      "link": "https://techcrunch.com/2026/04/03/europes-cyber-agency-blames-hacking-gangs-for-massive-data-breach-and-leak/",
-      "summary": "CERT-EU blamed the cybercrime group TeamPCP for the recent hack on the European Commission, and said the notorious ShinyHunters gang was responsible for leaking the stolen data online.",
-      "published": "2026-04-03T15:50:43+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
