@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-04-05T13:50:22.306174+00:00",
+  "generatedAt": "2026-04-05T14:30:10.143499+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "6b59962ba5b010892625082e17520e99bcc6dd7b",
+      "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+      "link": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
+      "published": "2026-04-05T14:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "b90b3eca39810a30d114ad6fe610b2a1de0bda94",
+      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+      "link": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+      "summary": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a relatively new addition to Maps. And you know what? It's kind of great. To [&#8230;]",
+      "published": "2026-04-05T14:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
     {
       "id": "efdc4a5580f17739548c23aaa937617f13d70e3d",
       "title": "Tonga’s debt to China hinders rebuild four years on from eruption",
@@ -14,19 +32,19 @@
       "category": "malaysia"
     },
     {
-      "id": "61c97d6bcd0f875bd783b6aad3fdcfa10ec9e246",
-      "title": "As fuel prices surge, Austria, Italy, Germany, Portugal and Spain moot windfall tax on energy companies",
-      "link": "https://www.malaymail.com/news/money/2026/04/05/as-fuel-prices-surge-austria-italy-germany-portugal-and-spain-moot-windfall-tax-on-energy-companies/215198",
-      "summary": "Ministers from Germany, Italy, Spain, Portugal and Austria send letterThey say companies must help &lsquo;ease burden on...",
+      "id": "16d62443f44a529e82be1ccda3be96f11407260f",
+      "title": "Who's who in graft trial rocking Spanish government",
+      "link": "https://www.malaymail.com/news/world/2026/04/05/whos-who-in-graft-trial-rocking-spanish-government/215183",
+      "summary": "MADRID, April 5 &mdash; Spanish Prime Minister Pedro Sanchez&rsquo;s former right-hand man goes on trial on Tuesday in a...",
       "published": "2026-04-05T13:00:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
-      "id": "16d62443f44a529e82be1ccda3be96f11407260f",
-      "title": "Who's who in graft trial rocking Spanish government",
-      "link": "https://www.malaymail.com/news/world/2026/04/05/whos-who-in-graft-trial-rocking-spanish-government/215183",
-      "summary": "MADRID, April 5 &mdash; Spanish Prime Minister Pedro Sanchez&rsquo;s former right-hand man goes on trial on Tuesday in a...",
+      "id": "61c97d6bcd0f875bd783b6aad3fdcfa10ec9e246",
+      "title": "As fuel prices surge, Austria, Italy, Germany, Portugal and Spain moot windfall tax on energy companies",
+      "link": "https://www.malaymail.com/news/money/2026/04/05/as-fuel-prices-surge-austria-italy-germany-portugal-and-spain-moot-windfall-tax-on-energy-companies/215198",
+      "summary": "Ministers from Germany, Italy, Spain, Portugal and Austria send letterThey say companies must help &lsquo;ease burden on...",
       "published": "2026-04-05T13:00:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
@@ -66,6 +84,15 @@
       "published": "2026-04-05T12:41:07+00:00",
       "source": "9to5Toys",
       "category": "deals"
+    },
+    {
+      "id": "142e9462ffb03bd9228332e39cff8bc0392598c9",
+      "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
+      "link": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo XIV addressed thousands of worshippers gathered in St Peter's Square on Easter Sunday in his first address as pontiff.",
+      "published": "2026-04-05T12:35:36+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "4261a06ba506e5cdb58c38b23e7104bfd60fbd4f",
@@ -725,15 +752,6 @@
       "category": "deals"
     },
     {
-      "id": "55a8dbff5f17a337607435f5ae7fa9c9126e7321",
-      "title": "What we know so far about the search for missing US airman in Iran",
-      "link": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
-      "summary": "US and Iranian forces are searching for a missing American crew member after a US warplane was shot down.",
-      "published": "2026-04-04T11:00:34+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "29247182d9edec8b756e9b1f8389868af237cffd",
       "title": "Influcio",
       "link": "https://www.producthunt.com/products/influcio-2",
@@ -759,15 +777,6 @@
       "published": "2026-04-04T07:07:00+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "c4e5b911037fce03f9d3cdbe072645349cbc0b29",
-      "title": "Anker’s Nebula P1 projector is the portable sound king",
-      "link": "https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ",
-      "summary": "The Soundcore Nebula P1 from Anker isn't the most portable Google TV projector I've ever reviewed, nor is it the brightest. It doesn't even have a built-in battery. Instead it's a decent video device that focuses on sound. The Nebula P1's standout feature is a pair of speakers that detach to create true left- and [&#8230;]",
-      "published": "2026-04-04T07:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
     },
     {
       "id": "add66364b27d5bc6529599c1c964b07d95c9a403",
@@ -1289,15 +1298,6 @@
       "summary": "Amazon denies violation, says SpaceX caused conflict by lowering Starlink satellites.",
       "published": "2026-04-02T20:32:05+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "f9adaa76a8ee961ead8c0cbf864ffb8ba0b20112",
-      "title": "Artemis II is NASA’s last moon mission without Silicon Valley",
-      "link": "https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/",
-      "summary": "Next time around, the pressure will be on SpaceX and Blue Origin.",
-      "published": "2026-04-02T20:06:29+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
