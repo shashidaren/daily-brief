@@ -1,9 +1,216 @@
 {
-  "generatedAt": "2026-04-07T23:31:50.999752+00:00",
+  "generatedAt": "2026-04-08T01:52:14.199704+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "81d01ae3bb457275538cae4e2574799fa151ad5a",
+      "title": "Police: Preliminary probe finds gang dispute behind Ipoh murder, not 3R issues",
+      "link": "https://www.malaymail.com/news/malaysia/2026/04/08/police-preliminary-probe-finds-gang-dispute-behind-ipoh-murder-not-3r-issues/215485",
+      "summary": "IPOH, April 8 &mdash; A gang dispute is believed to have led to the murder of a man in Buntong here last night, police s...",
+      "published": "2026-04-08T01:45:22+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "850979ce181658c236b946611e49c15a49f2e09c",
+      "title": "US journalist Shelly Kittleson released after kidnap in Iraq, officials say",
+      "link": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
+      "summary": "US officials say they are now \"working to support her safe departure from Iraq\".",
+      "published": "2026-04-08T01:44:26+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "a611428c8be17f01ba88f171741de3da09843072",
+      "title": "Fahmi ‘shocked’ by Papagomo posts after lawsuit settlement, seeks legal advice",
+      "link": "https://www.malaymail.com/news/malaysia/2026/04/08/fahmi-shocked-by-papagomo-posts-after-lawsuit-settlement-seeks-legal-advice/215483",
+      "summary": "KUALA LUMPUR, April 8 &mdash; The legal team for Communications Minister Datuk Fahmi Fadzil is examining recent social m...",
+      "published": "2026-04-08T01:40:05+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "023ccaa254878fbfb8f5e092a5add7ab0ca68a57",
+      "title": "Ringgit strengthens as markets react to two-week pause in US strikes on Iran",
+      "link": "https://www.malaymail.com/news/money/2026/04/08/ringgit-strengthens-as-markets-react-to-two-week-pause-in-us-strikes-on-iran/215484",
+      "summary": "&nbsp;KUALA LUMPUR, April 8 &mdash; The ringgit strengthened to the 3.99 level against the US dollar, supported by impro...",
+      "published": "2026-04-08T01:35:20+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "891974b9345f645f0cde9bd5331981b4a35b0f16",
+      "title": "US acting attorney general rejects claims of ‘weaponised’ Justice Department under Trump",
+      "link": "https://www.malaymail.com/news/world/2026/04/08/us-acting-attorney-general-rejects-claims-of-weaponised-justice-department-under-trump/215480",
+      "summary": "&nbsp;WASHINGTON, April 8 &mdash; Acting US Attorney General Todd Blanche today&nbsp;defended investigations of individu...",
+      "published": "2026-04-08T01:32:28+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "3cf36119220f4197143a76dcc7d087b942c24179",
+      "title": "North Korea fires ‘unidentified projectile’ from Pyongyang following South Korea’s drone apology",
+      "link": "https://www.malaymail.com/news/world/2026/04/08/north-korea-fires-unidentified-projectile-from-pyongyang-following-south-koreas-drone-apology/215479",
+      "summary": "&nbsp;SEOUL, April 8 &mdash; South Korea&rsquo;s military said today that North Korea fired an &ldquo;unidentified proje...",
+      "published": "2026-04-08T01:32:12+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "e89cb78746070c7139edd735a3379418f0493998",
+      "title": "Israel issues multiple missile warnings after Iran fires toward territory following US ceasefire announcement",
+      "link": "https://www.malaymail.com/news/world/2026/04/08/israel-issues-multiple-missile-warnings-after-iran-fires-toward-territory-following-us-ceasefire-announcement/215478",
+      "summary": "&nbsp;JERUSALEM, April 8 &mdash; Israel&rsquo;s military issued three warnings in quick succession early today that Iran...",
+      "published": "2026-04-08T01:32:02+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "273cf529a84068ff40b89f76035161a9c28fb00b",
+      "title": "MMEA ramps up diesel smuggling crackdown to curb subsidy leakages in national waters",
+      "link": "https://www.malaymail.com/news/malaysia/2026/04/08/mmea-ramps-up-diesel-smuggling-crackdown-to-curb-subsidy-leakages-in-national-waters/215481",
+      "summary": "PUTRAJAYA, April 8 &mdash; The Malaysian Maritime Enforcement Agency (MMEA) has reaffirmed its commitment to strengtheni...",
+      "published": "2026-04-08T01:31:08+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "34ef1bc070cb8d039ef4142f203aa3db6e9988c9",
+      "title": "Oil slides after US-Iran ceasefire deal to reopen Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+      "summary": "The agreement was announced not long before Trump's Tuesday evening deadline was reached.",
+      "published": "2026-04-08T01:30:40+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "2bc12ae10e6c9eefb281aca86a6a89ec54c62ece",
+      "title": "MACC arrests four in Perak, including two lecturers, over RM5m bribes linked to university research funds",
+      "link": "https://www.malaymail.com/news/malaysia/2026/04/08/macc-arrests-four-in-perak-including-two-lecturers-over-rm5m-bribes-linked-to-university-research-funds/215476",
+      "summary": "KUALA LUMPUR, April 8 &mdash; The Malaysian Anti-Corruption Commission (MACC) arrested four individuals, including two p...",
+      "published": "2026-04-08T01:24:29+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "22f5073b4c90846ccf8e7fb5f681e7b7ac0dfd70",
+      "title": "Letter: ICE officials confirm they are using Graphite spyware to intercept encrypted messages, saying it is primarily used to target fentanyl traffickers (Jude Joffe-Block/NPR)",
+      "link": "http://www.techmeme.com/260407/p55#a260407p55",
+      "summary": "<a href=\"https://www.npr.org/2026/04/07/nx-s1-5776799/ice-spyware-privacy\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260407/i55.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260407/p55#a260407p55\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jude Joffe-Block / <a href=\"http://www.npr.org/\">NPR</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.npr.org/2026/04/07/nx-s1-5776799/ice-spyware-privacy\">Letter: ICE officials confirm they are using Graphite spyware to intercept encrypted messages, saying it is primarily used to target fentanyl traffickers</a></b></span>&nbsp; &mdash;&nbsp; Immigration and Customs Enforcement is using spyware tools that can intercept encrypted messages as part of the agency's efforts &hellip; </p>",
+      "published": "2026-04-08T01:20:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "b3baf9577845ef2427c6a9b6ace5b8839f71a08e",
+      "title": "Tehran says US must accept uranium program and lift all sanctions in 10-point peace plan",
+      "link": "https://www.malaymail.com/news/world/2026/04/08/tehran-says-us-must-accept-uranium-program-and-lift-all-sanctions-in-10-point-peace-plan/215477",
+      "summary": "&nbsp;TEHRAN, April 8 &mdash;Tehran said today its 10-point plan for securing an end to the war with the United States w...",
+      "published": "2026-04-08T01:17:29+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "5eacf45c08593df1cf720677bdf95bdc50a7d4f5",
+      "title": "Oil prices plunge and stocks jump after US-Iran two-week ceasefire",
+      "link": "https://www.malaymail.com/news/money/2026/04/08/oil-prices-plunge-and-stocks-jump-after-us-iran-two-week-ceasefire/215475",
+      "summary": "SINGAPORE, April 8 &mdash;&nbsp;Oil prices dived, bonds rallied and stocks surged today after a two-week ceasefire in th...",
+      "published": "2026-04-08T01:12:41+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "5ef3db04c18d455e7d39cca141a75f717f07aece",
+      "title": "Pakistan PM says US-Iran ceasefire now covers ‘everywhere’, including Lebanon, with talks set for Islamabad",
+      "link": "https://www.malaymail.com/news/world/2026/04/08/pakistan-pm-says-us-iran-ceasefire-now-covers-everywhere-including-lebanon-with-talks-set-for-islamabad/215474",
+      "summary": "&nbsp;Islamabad, Pakistan, April 8, 2026 (AFP) -Pakistan&rsquo;s Prime Minister Shehbaz Sharif said today&nbsp;that the...",
+      "published": "2026-04-08T01:08:10+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "e8a6811e40bf527de863dbc9a8bc38583e4e390b",
+      "title": "Perhilitan seizes RM36.8m Johor haul: Compressed tiger parts, primate parts and suspected python genitalia among contraband",
+      "link": "https://www.malaymail.com/news/malaysia/2026/04/08/perhilitan-seizes-rm368m-johor-haul-compressed-tiger-parts-primate-parts-and-suspected-python-genitalia-among-contraband/215471",
+      "summary": "JOHOR BAHRU, April 7 &mdash; The Wildlife and National Parks Department (Perhilitan) seized a large haul of various exot...",
+      "published": "2026-04-08T01:07:21+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "8792ec25a5a065ebfe4cece5748c7e2fba7d6816",
+      "title": "Andre Agassi serves up history in pickleball match atop Merdeka 118",
+      "link": "https://www.malaymail.com/news/sports/2026/04/08/andre-agassi-serves-up-history-in-pickleball-match-atop-merdeka-118/215472",
+      "summary": "KUALA LUMPUR, April 8 &mdash; Tennis legend Andre Agassi made history in Malaysia last night, taking part in what organi...",
+      "published": "2026-04-08T01:01:04+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "fa250a38989d31e6dd76f73a418a9ce31b43d303",
+      "title": "Things they don’t tell you about life post-cancer",
+      "link": "https://www.malaymail.com/news/opinion/2026/04/08/things-they-dont-tell-you-about-life-post-cancer/215470",
+      "summary": "APRIL 7 &mdash; As I write this I&rsquo;m having a little pity party.It&rsquo;s been 11 days since I caught an upper res...",
+      "published": "2026-04-08T00:52:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "6e8faaf470951580477dc2a4dd8ab6d6b505c831",
+      "title": "Iran ceasefire deal a temporary win for Trump - but it comes at a cost",
+      "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
+      "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
+      "published": "2026-04-08T00:45:08+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "c02d3384c0b1a36498fe337b8c576cdb43da24f7",
+      "title": "US and Iran agree to two-week ceasefire as Trump pauses strikes and Tehran reopens Strait of Hormuz",
+      "link": "https://www.malaymail.com/news/world/2026/04/08/us-and-iran-agree-to-two-week-ceasefire-as-trump-pauses-strikes-and-tehran-reopens-strait-of-hormuz/215469",
+      "summary": "WASHINGTON, April 8 &mdash;&nbsp;The United States and Iran agreed to a two-week ceasefire late yesterday,&nbsp;barely a...",
+      "published": "2026-04-08T00:41:50+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "47a776d0f1ff0f9257550969c5f96f896553b38e",
+      "title": "For a change, try a lighter ‘tonkotsu’ ramen cooked by a Japanese chef at PJ’s Restoran SS2 Chow Yang Kopitiam.",
+      "link": "https://www.malaymail.com/news/eat-drink/2026/04/08/for-a-change-try-a-lighter-tonkotsu-ramen-cooked-by-a-japanese-chef-at-pjs-restoran-ss2-chow-yang-kopitiam/215468",
+      "summary": "PETALING JAYA, April 8 &mdash; Within the confines of a local coffee shop, you&nbsp; can sometimes find something differ...",
+      "published": "2026-04-08T00:39:32+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "90c7d8bd5e222e80548ec31fd70428f534cc4dc3",
+      "title": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
+      "link": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss",
+      "summary": "He will serve out the rest of Marjorie Taylor Greene's term, which ends in January 2027.",
+      "published": "2026-04-08T00:37:00+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "c8a0c2251fe7319bd1514c7bf910182ba85d4ea5",
+      "title": "A pro-Iranian cybercrime group claims responsibility for cyberattacks on Chime and Pinterest that knocked the websites of both companies offline this month (Bloomberg)",
+      "link": "http://www.techmeme.com/260407/p54#a260407p54",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-07/pro-iran-group-takes-credit-for-cyberattacks-on-chime-pinterest\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260407/i54.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260407/p54#a260407p54\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-07/pro-iran-group-takes-credit-for-cyberattacks-on-chime-pinterest\">A pro-Iranian cybercrime group claims responsibility for cyberattacks on Chime and Pinterest that knocked the websites of both companies offline this month</a></b></span>&nbsp; &mdash;&nbsp; A pro-Iranian cybercrime group has claimed responsibility for cyberattacks on Chime Financial Inc. and Pinterest Inc. that knocked the websites of both companies offline.</p>",
+      "published": "2026-04-07T23:55:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "716c2991c2322470008dcb6a0e98a2386a32f304",
+      "title": "Mythos Preview system card: the model was able to escape a sandbox after it was instructed to try, and posted details about its exploit without being prompted (Brent D. Griffiths/Business Insider)",
+      "link": "http://www.techmeme.com/260407/p53#a260407p53",
+      "summary": "<p><a href=\"http://www.techmeme.com/260407/p53#a260407p53\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Brent D. Griffiths / <a href=\"https://www.businessinsider.com/\">Business Insider</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.businessinsider.com/anthropic-mythos-latest-ai-model-too-powerful-to-be-released-2026-4\">Mythos Preview system card: the model was able to escape a sandbox after it was instructed to try, and posted details about its exploit without being prompted</a></b></span>&nbsp; &mdash;&nbsp; - Anthropic said its next-generation AI model is too powerful for the public.&nbsp; &mdash; That's why Claude Mythos won't be publicly released, Anthropic said.</p>",
+      "published": "2026-04-07T23:50:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
     {
       "id": "d51495be7410279126ca5529fa4b7394e9e86321",
       "title": "The US FDIC proposes a rule to establish a regulatory framework for stablecoin issuers, including requirements related to reserve assets, under the GENIUS Act (Sarah Wynn/The Block)",
@@ -50,15 +257,6 @@
       "category": "malaysia"
     },
     {
-      "id": "8558408be13eedd1da8f6a64bf367547ea336be2",
-      "title": "How US forces pulled off a high-risk rescue of downed F-15 crew in Iran",
-      "link": "https://www.malaymail.com/news/world/2026/04/08/how-us-forces-pulled-off-a-high-risk-rescue-of-downed-f-15-crew-in-iran/215412",
-      "summary": "WASHINGTON, April 8&nbsp;&mdash; US forces carried out a high-risk mission to recover the pilot and weapon systems offic...",
-      "published": "2026-04-07T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "e4fb6c342f1f9cea0627a9dd8e156b959d8721d3",
       "title": "Semporna paradise under siege: Locals battle pollution and foreign domination of tourism",
       "link": "https://www.malaymail.com/news/malaysia/2026/04/08/semporna-paradise-under-siege-locals-battle-pollution-and-foreign-domination-of-tourism/215432",
@@ -68,19 +266,10 @@
       "category": "malaysia"
     },
     {
-      "id": "c4c4c119108cc738621422c1246ef9a31c88f898",
-      "title": "From sea jacuzzi to pickleball on water: Penang unveils new tourism site Forest Island",
-      "link": "https://www.malaymail.com/news/malaysia/2026/04/08/from-sea-jacuzzi-to-pickleball-on-water-penang-unveils-new-tourism-site-forest-island/215467",
-      "summary": "GEORGE TOWN, April 8 &mdash; A new tourism product in Penang will offer visitors experiences in the middle of the sea, r...",
-      "published": "2026-04-07T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "355be5f6badf11571e5ddc15284c57a1c426f379",
-      "title": "‘Not the Cairo we know’: Energy shock from Iran war dims Egypt nights",
-      "link": "https://www.malaymail.com/news/life/2026/04/08/not-the-cairo-we-know-energy-shock-from-iran-war-dims-egypt-nights/215437",
-      "summary": "CAIRO, April 8 &mdash; At a roadside cafe in downtown Cairo, Abu Ali was mid domino throw when the lights snapped off un...",
+      "id": "8558408be13eedd1da8f6a64bf367547ea336be2",
+      "title": "How US forces pulled off a high-risk rescue of downed F-15 crew in Iran",
+      "link": "https://www.malaymail.com/news/world/2026/04/08/how-us-forces-pulled-off-a-high-risk-rescue-of-downed-f-15-crew-in-iran/215412",
+      "summary": "WASHINGTON, April 8&nbsp;&mdash; US forces carried out a high-risk mission to recover the pilot and weapon systems offic...",
       "published": "2026-04-07T23:00:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
@@ -201,24 +390,6 @@
       "published": "2026-04-07T21:05:14+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "31a0d1797d78de52accaead1c37ac68cb769225f",
-      "title": "Indian migrant workers hit by cooking gas shortages are leaving cities",
-      "link": "https://www.bbc.com/news/articles/c20d10980e9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Migrant workers say they are struggling to access cooking gas cylinders as the Iran war squeezes supplies.",
-      "published": "2026-04-07T21:02:07+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "eea36a135755dc5dd9965951e72af38f4c7ef898",
-      "title": "What the US military could do if Iran fails to meet Trump's ultimatum",
-      "link": "https://www.bbc.com/news/articles/c98kn1zlxr1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US can do a lot of damage to civilian infrastructure but military experts say it's not feasible to carry out all Trump's threats.",
-      "published": "2026-04-07T20:55:50+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "659b009e45a4e57673a6d60f1082363348506991",
@@ -374,15 +545,6 @@
       "category": "tech"
     },
     {
-      "id": "e4bb712a17d851c7fc151608d2a3843729c76a0e",
-      "title": "Waterloo-based Mappedin, which uses AI and LiDAR to create and maintain 3D digital maps of indoor spaces, raised $24.5M, bringing its total funding to $35M (Chris Metinko/Axios)",
-      "link": "http://www.techmeme.com/260407/p40#a260407p40",
-      "summary": "<a href=\"https://www.axios.com/pro/enterprise-software-deals/2026/04/07/indoor-digital-mapping-mappedin-edison\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260407/i40.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260407/p40#a260407p40\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Chris Metinko / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/pro/enterprise-software-deals/2026/04/07/indoor-digital-mapping-mappedin-edison\">Waterloo-based Mappedin, which uses AI and LiDAR to create and maintain 3D digital maps of indoor spaces, raised $24.5M, bringing its total funding to $35M</a></b></span>&nbsp; &mdash;&nbsp; Mappedin, a Canadian indoor digital mapping startup, raised a US$24.5 million growth equity financing led by Edison Partners, CEO Hongwei Liu tells Axios Pro exclusively.</p>",
-      "published": "2026-04-07T19:00:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "e7c6eb7920194130ecf3ff76f634006a9f8ee60f",
       "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
       "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
@@ -399,24 +561,6 @@
       "published": "2026-04-07T18:39:37+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "2b0cfaa25a98c3da5f7f1db6be068a77c9f8dc04",
-      "title": "Anthropic's Project Glasswing launch partners include AWS, Apple, Broadcom, Cisco, CrowdStrike, Google, Microsoft, Nvidia, and Palo Alto Networks (David Gewirtz/ZDNET)",
-      "link": "http://www.techmeme.com/260407/p39#a260407p39",
-      "summary": "<a href=\"https://www.zdnet.com/article/project-glasswing-microsoft-google-apple-anthropic/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260407/i39.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260407/p39#a260407p39\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> David Gewirtz / <a href=\"https://www.zdnet.com/\">ZDNET</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.zdnet.com/article/project-glasswing-microsoft-google-apple-anthropic/\">Anthropic's Project Glasswing launch partners include AWS, Apple, Broadcom, Cisco, CrowdStrike, Google, Microsoft, Nvidia, and Palo Alto Networks</a></b></span>&nbsp; &mdash;&nbsp; ZDNET's key takeaways&nbsp; &mdash; AI found thousands of hidden bugs in critical systems.&nbsp; &mdash; Tech rivals unite to secure shared infrastructure risks.</p>",
-      "published": "2026-04-07T18:35:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "f57210712d580480d5355de28a542d90870222d2",
-      "title": "Anthropic announces Project Glasswing, a cybersecurity initiative that will use its Claude Mythos Preview model to help find and fix software vulnerabilities (Anthropic)",
-      "link": "http://www.techmeme.com/260407/p38#a260407p38",
-      "summary": "<a href=\"https://anthropic.com/glasswing\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260407/i38.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260407/p38#a260407p38\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.anthropic.com/\">Anthropic</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://anthropic.com/glasswing\">Anthropic announces Project Glasswing, a cybersecurity initiative that will use its Claude Mythos Preview model to help find and fix software vulnerabilities</a></b></span>&nbsp; &mdash;&nbsp; Today we're announcing Project Glasswing1, a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom &hellip; </p>",
-      "published": "2026-04-07T18:26:25+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "da0dd0ca8b68e2967fd546910902c97aa4321c72",
@@ -489,15 +633,6 @@
       "published": "2026-04-07T17:53:33+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "f9260665aa8659c23af67dfdad807888fbf573cc",
-      "title": "US journalist Shelly Kittleson to be released after kidnap in Iraq, militia says",
-      "link": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Kataib Hezbollah says the release comes on condition that she leave Iraq immediately.",
-      "published": "2026-04-07T17:50:17+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "477c3c13b807a498381fff3f6ef1bc9b41d2841c",
@@ -833,42 +968,6 @@
       "category": "tech"
     },
     {
-      "id": "eebf9aa37400063d23f7155130983dc0f6230867",
-      "title": "Australia’s most decorated soldier charged with alleged war crimes",
-      "link": "https://www.malaymail.com/news/world/2026/04/07/australias-most-decorated-soldier-charged-with-alleged-war-crimes/215436",
-      "summary": "SYDNEY, April 7 &mdash; Australia&rsquo;s most decorated soldier Ben Roberts-Smith was arrested today and charged with f...",
-      "published": "2026-04-07T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "b834d6db2456a19c26ede2196c2d204ee7842059",
-      "title": "Can Trump pull US out of Nato? Treaty rules vs domestic law",
-      "link": "https://www.malaymail.com/news/world/2026/04/07/can-trump-pull-us-out-of-nato-treaty-rules-vs-domestic-law/215428",
-      "summary": "WASHINGTON, April 7 &mdash; President Donald Trump threatened today to pull the US out of Nato due to its European membe...",
-      "published": "2026-04-07T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "d93a04d160cdf06603e6b7ad3ab0ec02da91e7b3",
-      "title": "Malaysia urged to diversify energy sources amid Middle East crisis and rising oil prices",
-      "link": "https://www.malaymail.com/news/malaysia/2026/04/07/malaysia-urged-to-diversify-energy-sources-amid-middle-east-crisis-and-rising-oil-prices/215422",
-      "summary": "KUALA LUMPUR, April 8&nbsp;&mdash; Rising petroleum import prices and disruptions to global logistics caused by the Midd...",
-      "published": "2026-04-07T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "f6bab9333f8ec0ef8b54d226753a9c6427913482",
-      "title": "From power corridors to Instagram: Cuba’s new generation of Castros steps into spotlight",
-      "link": "https://www.malaymail.com/news/life/2026/04/07/from-power-corridors-to-instagram-cubas-new-generation-of-castros-steps-into-spotlight/215409",
-      "summary": "HAVANA, April 8&nbsp;&mdash; A new cast of Castros is emerging in Cuba: a grandson and a great-nephew are moving up the...",
-      "published": "2026-04-07T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "03f8936781d87fbbd0b20ed23f408f869088aacd",
       "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
       "link": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
@@ -923,24 +1022,6 @@
       "category": "world"
     },
     {
-      "id": "53a6bd446a4d6c1e85cd30a77a180b4f079eb0db",
-      "title": "In disrupted speech, Azam Baki says strong leadership needed to fight corruption",
-      "link": "https://www.malaymail.com/news/malaysia/2026/04/07/in-disrupted-speech-azam-baki-says-strong-leadership-needed-to-fight-corruption/215465",
-      "summary": "KUALA LUMPUR, April 7 &mdash; Effective success in combating corruption does not rely solely on the strength of laws, bu...",
-      "published": "2026-04-07T12:07:35+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "a6caf91001c869729e703c6a7e1bb8a432aadfc7",
-      "title": "Iran says infrastructure hit in wave of US‑Israeli strikes amid widening conflict",
-      "link": "https://www.malaymail.com/news/world/2026/04/07/iran-says-infrastructure-hit-in-wave-of-usisraeli-strikes-amid-widening-conflict/215466",
-      "summary": "&nbsp;TEHRAN, April 7 &mdash; Iranian officials reported damage to at least two bridges, railway infrastructure, and a k...",
-      "published": "2026-04-07T12:05:12+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "90742a2dd6d371444cdcc4870a2e18d048c8fe60",
       "title": "U Mobile Launches New ULTRA5G Plans With Priority Network Access And More",
       "link": "https://www.lowyat.net/2026/388721/u-mobile-launches-new-ultra5g-plans/",
@@ -950,24 +1031,6 @@
       "category": "deals"
     },
     {
-      "id": "4d7ab525450d23513cb4584ac9fc19a7d20e96e4",
-      "title": "‘I was not aware’: Dzulkefly denies role in daughter’s board posts amid RM5m suit against Najib",
-      "link": "https://www.malaymail.com/news/malaysia/2026/04/07/i-was-not-aware-dzulkefly-denies-role-in-daughters-board-posts-amid-rm5m-suit-against-najib/215463",
-      "summary": "KUALA LUMPUR, April 7 &mdash; Health Minister Datuk Seri Dr Dzulkefly Ahmad told the High Court here today that he was u...",
-      "published": "2026-04-07T11:49:17+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "ba23ac963dc56e868ce06281e194081efe00a8f5",
-      "title": "Three Malaysian mixed doubles pairs advance in Badminton Asia Championships",
-      "link": "https://www.malaymail.com/news/sports/2026/04/07/three-malaysian-mixed-doubles-pairs-advance-in-badminton-asia-championships/215464",
-      "summary": "&nbsp;KUALA LUMPUR, April 7 &mdash;&nbsp;Three Malaysian mixed doubles pairs, including reigning world champions Chen Ta...",
-      "published": "2026-04-07T11:48:34+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "3ee27487c9aaacad717515f72c40f67fc7419e62",
       "title": "Italian TV Channel Sends Copyright Strike To YouTube Against NVIDIA’s Own DLSS 5 Video",
       "link": "https://www.lowyat.net/2026/388723/italian-tv-channel-sends-copyright-strike-to-youtube-against-nvidias-own-dlss-5-video/",
@@ -975,15 +1038,6 @@
       "published": "2026-04-07T11:46:39+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "9790fc97c13bed927bf98a9034dbda2b850adeff",
-      "title": "Thailand considers late-night petrol station closures as Middle East tensions drive shortages",
-      "link": "https://www.malaymail.com/news/money/2026/04/07/thailand-considers-late-night-petrol-station-closures-as-middle-east-tensions-drive-shortages/215462",
-      "summary": "&nbsp;BANGKOK, April 7 &mdash; Thailand is considering enforcing overnight closures of petrol stations beginning later t...",
-      "published": "2026-04-07T11:18:34+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "6d07e7bacec101fdb6ae9ce756beb205ca1e8c9e",
@@ -1011,51 +1065,6 @@
       "published": "2026-04-07T10:58:53+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "bc7657fbf260396b7e5ba53177216960dad7b3a6",
-      "title": "Kanye West offers to meet UK Jewish community amid antisemitism backlash",
-      "link": "https://www.malaymail.com/news/showbiz/2026/04/07/kanye-west-offers-to-meet-uk-jewish-community-amid-antisemitism-backlash/215461",
-      "summary": "&nbsp;LONDON, April 7 &mdash; Kanye West today offered to meet members of the British Jewish community amid a backlash o...",
-      "published": "2026-04-07T10:53:41+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "dbce5cebb77909cb92310eec569291f0107d866b",
-      "title": "Govt to establish stockpile of medicines, medical devices amid Middle East conflict",
-      "link": "https://www.malaymail.com/news/malaysia/2026/04/07/govt-to-establish-stockpile-of-medicines-medical-devices-amid-middle-east-conflict/215458",
-      "summary": "KUALA LUMPUR, April 7 &mdash; The government will establish a national strategic buffer stock to ensure the supply of me...",
-      "published": "2026-04-07T10:46:44+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "62913b5315c7b6a1e24bc1d33d85c6d165175d01",
-      "title": "Ringgit ends almost flat against US dollar amid West Asia tensions",
-      "link": "https://www.malaymail.com/news/money/2026/04/07/ringgit-ends-almost-flat-against-us-dollar-amid-west-asia-tensions/215460",
-      "summary": "&nbsp;KUALA LUMPUR, April 7 &mdash; The ringgit closed almost flat against the US dollar today as investors remained cau...",
-      "published": "2026-04-07T10:45:07+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "c06775ad82fefe6c789ca38a09a959bfb66cd41f",
-      "title": "Maguire to stay at Manchester United for at least another season after new contract",
-      "link": "https://www.malaymail.com/news/sports/2026/04/07/maguire-to-stay-at-manchester-united-for-at-least-another-season-after-new-contract/215459",
-      "summary": "&nbsp;LONDON, April 7 &mdash; Manchester United defender Harry Maguire is set to remain at Old Trafford for at least ano...",
-      "published": "2026-04-07T10:40:19+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "4ed6eb0099f12962ebadc2f47b680a1981446c55",
-      "title": "Police: UPSI bowling centre cleaner died of sudden heart attack, no foul play",
-      "link": "https://www.malaymail.com/news/malaysia/2026/04/07/police-upsi-bowling-centre-cleaner-died-of-sudden-heart-attack-no-foul-play/215457",
-      "summary": "IPOH, April 7 &mdash; A male cleaner at the Universiti Pendidikan Sultan Idris (UPSI) Sports Bowl in Tanjong Malim has b...",
-      "published": "2026-04-07T10:35:50+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "ebb73f58316b41eac76731856ea8aae4e8307165",
@@ -1148,15 +1157,6 @@
       "category": "deals"
     },
     {
-      "id": "f733dedce767a8c29836230e3bd67f2e5a8f13b6",
-      "title": "China is winning one AI race, the US another - but either might pull ahead",
-      "link": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
-      "summary": "Both sides don't want to let their rival dominate. And the competition may yet be transformed further.",
-      "published": "2026-04-07T05:13:12+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "da6bcbc3873081e6a5cd49c90b612dcb1b83ef28",
       "title": "Realme 16 Pro series launched in Malaysia: 144Hz AMOLED, 200MP camera, 7,000mAh battery, priced from RM1,599",
       "link": "https://soyacincau.com/2026/04/07/realme-16-pro-series-malaysia-price-specs-promo-launch/",
@@ -1184,6 +1184,15 @@
       "category": "malaysia"
     },
     {
+      "id": "23f554d69b3686215182c83ff7161c3b0e10834e",
+      "title": "Laminar",
+      "link": "https://www.producthunt.com/products/laminar-planetary-capture-for-mac",
+      "summary": "<p>\n            Native planetary imaging capture for macOS and Apple Silicon\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/laminar-planetary-capture-for-mac?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1117382?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-07T02:51:18+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "093ab6fb887d7bf8d0949e26f92354630bd72b3c",
       "title": "Netflix Playground",
       "link": "https://www.producthunt.com/products/netflix",
@@ -1193,11 +1202,11 @@
       "category": "events"
     },
     {
-      "id": "607e0f5dc20175e7f3ee03c868a8f094cbb9a6dd",
-      "title": "Google AI Edge Eloquent",
-      "link": "https://www.producthunt.com/products/google",
-      "summary": "<p>\n            Google's offline-first AI dictation, powered by Gemma\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1117356?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-07T02:10:40+00:00",
+      "id": "41d551752bebd0f5cead04af527eb8ee0d8a67a7",
+      "title": "Highlight Studio",
+      "link": "https://www.producthunt.com/products/highlight-studio",
+      "summary": "<p>\n             Record, edit, and brand screen recordings Metal powered\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/highlight-studio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1117324?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-07T00:47:06+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1256,6 +1265,33 @@
       "category": "tech"
     },
     {
+      "id": "8420db2ec716d0bf278c7161eff4a7938d1bbcec",
+      "title": "Silkwave Voice",
+      "link": "https://www.producthunt.com/products/silkwave-voice",
+      "summary": "<p>\n            Record your microphone, system audio simultaneously\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/silkwave-voice?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1117178?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-06T19:55:20+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "11359a95ef00bce6e110b6ce24e8e8c11a021383",
+      "title": "AI Designer MCP",
+      "link": "https://www.producthunt.com/products/aidesigner",
+      "summary": "<p>\n            Give your agent tools to create beautiful, codebase-aware UI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/aidesigner?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1117141?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-06T18:51:09+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "d59a54b262b88af8aa2fd7357e66cbf2fd5c8891",
+      "title": "OpenBrowser-AI",
+      "link": "https://www.producthunt.com/products/openbrowser-ai-59-less-100-accurate",
+      "summary": "<p>\n            Connect AI agents to browser through raw CDP\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openbrowser-ai-59-less-100-accurate?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1117132?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-06T18:38:40+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "4ae97fd5013cf7dc76d0b17deaea024cd2901835",
       "title": "ChatGPT Ads by Gauge",
       "link": "https://www.producthunt.com/products/gauge",
@@ -1290,6 +1326,15 @@
       "published": "2026-04-06T13:54:12+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
+    },
+    {
+      "id": "f73c1ab08467e2f398c3288d3c1052352fc864a3",
+      "title": "TestRelic AI",
+      "link": "https://www.producthunt.com/products/testrelic-ai",
+      "summary": "<p>\n              Ask your Playwright tests why they failed\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/testrelic-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1116912?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-06T13:01:37+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "8cebc64d451b6d94fb2da92d7a591fb50ca74dae",
@@ -1346,15 +1391,6 @@
       "category": "malaysia"
     },
     {
-      "id": "bf9c8bf0e24d0f1e29ab9002d5fc40125b5aa4a8",
-      "title": "Couch",
-      "link": "https://www.producthunt.com/products/couch",
-      "summary": "<p>\n            Your online couch for movies, games, and good times\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/couch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1116720?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-06T08:00:11+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "23bc42203b5fd690ff8008fe8f025fe59887bd5b",
       "title": "Toyota Urban Cruiser EV now in Malaysia for RM198k: Compact SUV with 426km of range",
       "link": "https://soyacincau.com/2026/04/06/toyota-urban-cruiser-ev-malaysia-price-specs/",
@@ -1362,24 +1398,6 @@
       "published": "2026-04-06T02:51:48+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "a2def81937cd99c2c636f8674ed62dd200d5e973",
-      "title": "VoxTori",
-      "link": "https://www.producthunt.com/products/voxtori",
-      "summary": "<p>\n            Real-time subtitles, translation, and dictation for Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/voxtori?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1116575?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-06T01:47:34+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "b20b2b7f90d0684aa19432ad4da6356abb7e6ac8",
-      "title": "MBCompass",
-      "link": "https://www.producthunt.com/products/mbcompass",
-      "summary": "<p>\n            A full navigation utility in ~2MB\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mbcompass?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1115619?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-04T12:11:41+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "f8e24f14a352f522c08a53205f3978ed1f0f59fb",
@@ -1391,11 +1409,11 @@
       "category": "events"
     },
     {
-      "id": "ec872d2094a8744a3b9ea97615a5eb81b9638c35",
-      "title": "FITYCAL",
-      "link": "https://www.producthunt.com/products/fitycal-3d-body-scan-tracker-2",
-      "summary": "<p>\n            Track body measurements, fat%, lean Mass, progress & more\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fitycal-3d-body-scan-tracker-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114374?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-02T15:54:20+00:00",
+      "id": "749b94eb166ce0f6e94f1b5c3c9d70a0f5c4ff13",
+      "title": "Dynamic Notch 2.0",
+      "link": "https://www.producthunt.com/products/dynamic-notch-2-0",
+      "summary": "<p>\n            Turn your Mac notch into a native 6-in-1 command center\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dynamic-notch-2-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1115016?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-03T13:01:37+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1450,24 +1468,6 @@
       "link": "https://www.producthunt.com/products/bibby-ai",
       "summary": "<p>\n            The AI co-author for research papers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bibby-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1106578?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-25T01:22:03+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "b070aab80619ad58282310b585f6d47c34ee3eff",
-      "title": "Keupera",
-      "link": "https://www.producthunt.com/products/keupera",
-      "summary": "<p>\n            Get seen in search, AI and beyond\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/keupera?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1095961?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-12T03:34:04+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "30df46ed403037a60382402afc495f06a540457c",
-      "title": "ClipMark",
-      "link": "https://www.producthunt.com/products/clipmark",
-      "summary": "<p>\n            Never lose anything you copy again\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clipmark?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1088445?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-02T12:38:56+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
