@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-04-09T21:45:38.906939+00:00",
+  "generatedAt": "2026-04-09T22:35:00.075591+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "6ffe8c2994d03e67cb13c0239e8d3818cb807900",
+      "title": "Here are the best Apple Watch deals available right now",
+      "link": "https://www.theverge.com/21289209/best-apple-watch-deals",
+      "summary": "In September, Apple launched its latest batch of smartwatches, including the Apple Watch Series 11, the SE 3, and the Ultra 3. Each has its own pros and cons, but the introduction of Apple’s newest wearables also means there are now more Apple Watch models on the market than ever before — and a lot [&#8230;]",
+      "published": "2026-04-09T22:30:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "3a591e829a7a43b2b0622c9dad2a45cf8769ac2c",
+      "title": "Florida launches investigation into OpenAI",
+      "link": "https://www.theverge.com/policy/909557/openai-florida-investigation",
+      "summary": "Florida Attorney General James Uthmeier is launching an investigation into OpenAI over public safety and national security risks, as reported earlier by Reuters. In a statement on Thursday, Uthmeier says there are concerns that OpenAI's data and technology are \"falling into the hands of America's enemies, such as the Chinese Communist Party.\" Uthmeier also says [&#8230;]",
+      "published": "2026-04-09T22:17:06+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "fc6a4ed703110abee7af43dc3931a6c6370452ea",
+      "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
+      "link": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
+      "summary": "Florida Attorney General James Uthmeier plans to investigate OpenAI for its alleged harm to minors, potential to threaten national security, and its possible link to a shooting at Florida State University last year.",
+      "published": "2026-04-09T22:13:26+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "fe29f3629d3cb96df00936e5ebe98443fe2de9ed",
+      "title": "The EFF is quitting X",
+      "link": "https://www.theverge.com/tech/909550/eff-electronic-frontier-foundation-leaving-x-twitter",
+      "summary": "The digital privacy non-profit Electronic Frontier Foundation will no longer be posting on X as of Thursday, largely due to a sharp decline in views on the platform over the past several years. In a blog post announcing the departure, EFF's social media and video manager Kenyatta Thomas explained that the non-profit used to get [&#8230;]",
+      "published": "2026-04-09T21:48:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
     {
       "id": "cdfd26b85eb1352d412e609950f2016846c37530",
       "title": "xAI has filed a lawsuit challenging Colorado's landmark AI anti-discrimination law, set to take effect in the summer, saying it violates free speech protections (Financial Times)",
@@ -17,7 +53,7 @@
       "id": "1b923864218920256ec78c9798b812e4d0bd85a7",
       "title": "ChatGPT finally offers $100/month Pro plan",
       "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-      "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously subscriptions jumped from $20 to $200 per month.",
+      "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
       "published": "2026-04-09T21:29:11+00:00",
       "source": "TechCrunch",
       "category": "tech"
@@ -26,7 +62,7 @@
       "id": "4c27afbe4de0b875e902a741f6a303af870b4280",
       "title": "EFF is the latest organization to leave X",
       "link": "https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/",
-      "summary": "The EFF follows the departure of various news organizations and others, who no longer find X a viable source of traffic.",
+      "summary": "The EFF follows the departure of various news organizations and others who no longer find X a viable source of traffic.",
       "published": "2026-04-09T21:26:18+00:00",
       "source": "TechCrunch",
       "category": "tech"
@@ -38,6 +74,15 @@
       "summary": "John Deere has agreed to pay farmers $99 million to resolve a class action lawsuit that accused the agricultural giant of preventing farmers and mechanics from accessing the materials needed to repair equipment, as reported earlier by Reuters. As part of the proposed settlement, John Deere says it will make repair resources available for a [&#8230;]",
       "published": "2026-04-09T21:21:22+00:00",
       "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "8e43d3324362092c030afbc5e4f733a471711406",
+      "title": "AI on the couch: Anthropic gives Claude 20 hours of psychiatry",
+      "link": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
+      "summary": "Mythos is \"the most psychologically settled model we have trained to date.\"",
+      "published": "2026-04-09T21:20:31+00:00",
+      "source": "Ars Technica - All content",
       "category": "tech"
     },
     {
@@ -491,15 +536,6 @@
       "category": "deals"
     },
     {
-      "id": "2b2fa1e0f13038bd5ce8e2fd893056564f0c18a1",
-      "title": "Castlevania headlines a big list of exciting indie game reveals",
-      "link": "https://www.theverge.com/games/908898/triple-i-initiative-indie-game-showcase-2026-recap-trailers",
-      "summary": "A big indie showcase has just wrapped up, and now I have a lot more games to look forward to. The third iteration of the Triple-I Initiative, an annual showcase for upcoming releases put on by a group of studios, aired on Thursday. It featured some familiar franchises, like an indie-developed Castlevania and a new [&#8230;]",
-      "published": "2026-04-09T17:13:38+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "117eb4f815e42598ac094ff5f62dc738a4a086ab",
       "title": "Tidy up your vehicle with two visor holders for your sunglasses at $3.50 a pop (28% off)",
       "link": "https://9to5toys.com/2026/04/09/yuoyar-sunglasses-visor-holder-2-pack-5/",
@@ -554,30 +590,12 @@
       "category": "tech"
     },
     {
-      "id": "d94fa78a90452590c4d1e078f8af360a0401ed03",
-      "title": "The team behind 1000xResist is making a game about convincing an AI that it isn’t human",
-      "link": "https://www.theverge.com/entertainment/909180/prove-youre-human-announcement-sunset-visitor-1000xresist",
-      "summary": "When the team at indie studio Sunset Visitor were wrapping up their critically acclaimed first game, 1000xResist, it wasn't long before they started thinking about what they'd tackle next. According to creative director Remy Siu, the studio's goal is to always find ways to reflect the world around them. So when they were looking at [&#8230;]",
-      "published": "2026-04-09T16:38:12+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "4d15547233f3b08635b81cd6ed740b34d7ee78b3",
       "title": "Police corporal created AI porn from driver's license pics",
       "link": "https://arstechnica.com/tech-policy/2026/04/state-police-corporal-created-porn-deepfakes-from-drivers-license-photos/",
       "summary": "Officer created over 3,000 \"deepfake\" images.",
       "published": "2026-04-09T16:37:52+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "ec028c9b531f4456ba6f23bcbd8ad444c07a43be",
-      "title": "Mastodon is about to launch its take on Bluesky&#8217;s starter packs",
-      "link": "https://www.theverge.com/tech/909308/mastodon-collections-bluesky-starter-packs",
-      "summary": "Mastodon is preparing to roll out \"Collections\" in the next few weeks, a feature that allows you to find and create lists of accounts worth following, according to an announcement on Thursday. Collections, which take inspiration from Bluesky Starter Packs, will come with the ability to add up to 25 accounts to a single list. [&#8230;]",
-      "published": "2026-04-09T16:10:42+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -758,15 +776,6 @@
       "summary": "<a href=\"https://www.reuters.com/business/sifive-raises-400-million-atreides-nvidia-data-center-chip-technology-2026-04-09/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260409/i25.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260409/p25#a260409p25\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Stephen Nellis / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/business/sifive-raises-400-million-atreides-nvidia-data-center-chip-technology-2026-04-09/\">RISC-V chip designer SiFive raised a $400M Series G led by Atreides at a $3.65B valuation; CEO Patrick Little says it is the final funding round before an IPO</a></b></span>&nbsp; &mdash;&nbsp; Silicon Valley startup SiFive said on Thursday it has raised a $400 million round of funding from Atreides Management, Nvidia &hellip; </p>",
       "published": "2026-04-09T13:45:01+00:00",
       "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "39c00dbdd5d531120fd255c12efd82e84eda28ec",
-      "title": "Instagram expands its movie-inspired content restrictions for teens internationally",
-      "link": "https://techcrunch.com/2026/04/09/instagram-expands-its-movie-inspired-content-restriction-for-teens-internationally/",
-      "summary": "Instagram debuted its movie-rating-inspired content settings in limited countries in 2025.",
-      "published": "2026-04-09T13:26:29+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1112,15 +1121,6 @@
       "category": "tech"
     },
     {
-      "id": "364fb6118862c4c3058b71eef28ba4148cfea6f2",
-      "title": "Claude Managed Agents",
-      "link": "https://www.producthunt.com/products/claude",
-      "summary": "<p>\n            Pre-built agent harness on managed infrastructure\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1119366?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-09T02:54:02+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "e19f2228ec0a83ab09c020bb5f1181d813235f9d",
       "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
       "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
@@ -1128,6 +1128,15 @@
       "published": "2026-04-09T01:59:34+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "62939371d225f779d3d649b9479a596e67c48750",
+      "title": "SaveMRR",
+      "link": "https://www.producthunt.com/products/savemrr",
+      "summary": "<p>\n            See how much you're losing to failed payments on Stripe\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/savemrr?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1119317?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-09T00:40:46+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "8df76d9bc8257d600126634d15d47c9e3e64554e",
@@ -1146,6 +1155,15 @@
       "published": "2026-04-08T22:46:58+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "aae4c8b1b80146338f065b4d374e8b95c87e3064",
+      "title": "Refaire",
+      "link": "https://www.producthunt.com/products/refaire",
+      "summary": "<p>\n            AI Technicians for the Physical World\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/refaire?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1119266?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-08T22:20:51+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "2fb133f30f70f0d027177cae97cd305982389c52",
@@ -1182,15 +1200,6 @@
       "published": "2026-04-08T19:59:10+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "d2ef4338ad1708c1f148218353d5b0f6079390dd",
-      "title": "Cutsio",
-      "link": "https://www.producthunt.com/products/cutsio",
-      "summary": "<p>\n            Your entire video library, now searchable and editable by AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cutsio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1119125?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-08T19:34:57+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "8edfd5e329395cd628897dc922d9dac9961bc492",
@@ -1238,13 +1247,22 @@
       "category": "tech"
     },
     {
-      "id": "9ce60eb6096549dfdae984d9ecc3bae9e533c657",
-      "title": "Tankers passing through Strait of Hormuz will have to pay cryptocurrency toll",
-      "link": "https://arstechnica.com/tech-policy/2026/04/iran-demands-cryptocurrency-toll-from-tankers-passing-through-strait-of-hormuz/",
-      "summary": "Any tanker passing must reveal its cargo so Iran can determine transit fee amount.",
-      "published": "2026-04-08T17:25:34+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
+      "id": "1089bafac4e5d04b3455a28e8d8faaaf3a2c05ce",
+      "title": "OpenResource",
+      "link": "https://www.producthunt.com/products/openresource",
+      "summary": "<p>\n            Discover open-source tools with an AI chat assistant\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openresource?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1119060?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-08T17:34:16+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "63ef7b4946c8b46793d03a71c6303ae66c065079",
+      "title": "RaptorCI",
+      "link": "https://www.producthunt.com/products/raptorci",
+      "summary": "<p>\n            Catch risky code changes and weak tests before they ship\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/raptorci?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1119038?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-08T17:10:30+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "d6a39a1193233405067fdbd70a78f01e47b639c0",
@@ -1274,15 +1292,6 @@
       "category": "world"
     },
     {
-      "id": "15104ace86c3854c625669a2d0db3029f0b3bb3b",
-      "title": "ZenX",
-      "link": "https://www.producthunt.com/products/zenx",
-      "summary": "<p>\n            Your Twitter feed, finally peaceful\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zenx?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1118847?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-08T13:39:16+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "c04cef6d5b8cbc25af7c8f9fdd6753f075943b04",
       "title": "Cameroon 'military contractors' killed in Russia-Ukraine war - BBC confirms leaked message",
       "link": "https://www.bbc.com/news/articles/cvg0v5gy01go?at_medium=RSS&at_campaign=rss",
@@ -1299,6 +1308,24 @@
       "published": "2026-04-08T13:04:07+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "cf97dd449f766575b563df3eada32a8f6949e977",
+      "title": "Onform.work",
+      "link": "https://www.producthunt.com/products/onform-work",
+      "summary": "<p>\n            Build forms with Claude\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/onform-work?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1118805?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-08T12:51:17+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "8c8332557727fcb92d9dcf4bcec2b9b735c7f63d",
+      "title": "riffle",
+      "link": "https://www.producthunt.com/products/riffle-2",
+      "summary": "<p>\n            An infinite, collaborative playground for music creation\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/riffle-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1118804?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-08T12:50:27+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "0de51b7b51f86cc9222b15d23763c27228a842c8",
@@ -1319,15 +1346,6 @@
       "category": "world"
     },
     {
-      "id": "2605647d528ca26f293347fcd69a9f6f70908b31",
-      "title": "PillFloat",
-      "link": "https://www.producthunt.com/products/pillfloat",
-      "summary": "<p>\n            Move the Wispr Flow pill anywhere on your screen   \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pillfloat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1118741?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-08T11:32:18+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "54fcb3364562c52706fcdd684b7abb0d6b7ea828",
       "title": "GrabX 2026: Grab rolls out 13 new AI-powered features for rides, food and travel",
       "link": "https://soyacincau.com/2026/04/08/grabx-2026-grab-rolls-out-13-new-ai-powered-features-for-rides-food-and-travel/",
@@ -1335,15 +1353,6 @@
       "published": "2026-04-08T11:11:01+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "3e2d1c8f0c9e8378553a8b589870ff1cffccf62a",
-      "title": "BeMorphy",
-      "link": "https://www.producthunt.com/products/bemorphy",
-      "summary": "<p>\n            Your landing page, rewritten for every ad you run\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bemorphy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1118700?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-08T10:31:38+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "efc2cb22df3e0a5ef2683ca46a203813e46cec00",
@@ -1355,29 +1364,20 @@
       "category": "events"
     },
     {
-      "id": "414d2cf02ed9494affc6ac084954948988932978",
-      "title": "Awshar AI",
-      "link": "https://www.producthunt.com/products/awshar-ai",
-      "summary": "<p>\n            Understands India's nuanced digital conversations\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/awshar-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1118616?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-08T08:43:43+00:00",
+      "id": "9c5233f8158c1553a01cc710c0be674d6c0ea68b",
+      "title": "Lukan AI Agent, IDE and workstation.",
+      "link": "https://www.producthunt.com/products/lukan-ai-agent-ide-and-workstation",
+      "summary": "<p>\n            The open-source AI workstation for coding, ops, and life\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lukan-ai-agent-ide-and-workstation?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1118625?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-08T08:54:42+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "e06a9bf2552d4295f0db82bbc1ba246e813ecdd8",
-      "title": "ProtoFlow",
-      "link": "https://www.producthunt.com/products/protoflow-2",
-      "summary": "<p>\n            AI-powered schematic design tool for PCB making\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/protoflow-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1118552?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-08T07:00:24+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "f84523e3598bc0e4a96d37d7cac759d3e693fb5a",
-      "title": "Clickport",
-      "link": "https://www.producthunt.com/products/clickport-analytics",
-      "summary": "<p>\n            The modern, powerful Google Analytics alternative \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clickport-analytics?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1118446?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-08T04:38:55+00:00",
+      "id": "73e1c15a97b0ee95448ca678e3b4f56c164f9089",
+      "title": "Offsite",
+      "link": "https://www.producthunt.com/products/offsite-2",
+      "summary": "<p>\n            Build teams of humans and agents, watch them work.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/offsite-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1118430?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-08T03:55:53+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1400,20 +1400,11 @@
       "category": "events"
     },
     {
-      "id": "a790f483382106d262bc2cb5469b47ea4345e1a6",
-      "title": "Smuggl",
-      "link": "https://www.producthunt.com/products/smuggl",
-      "summary": "<p>\n            Share your localhost as an invite only link\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/smuggl?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1117913?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-07T14:43:48+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "78d2afef27f9d12e8acbb4954ed411c26c75e37d",
-      "title": "ConceptSeek",
-      "link": "https://www.producthunt.com/products/conceptseek",
-      "summary": "<p>\n            Find concepts across videos and text instantly\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/conceptseek?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1117911?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-07T14:41:03+00:00",
+      "id": "7d9ce47f830c8d8e5cca707f8f758c41b72ecfb9",
+      "title": "Grass",
+      "link": "https://www.producthunt.com/products/grass-claude-code-from-your-phone",
+      "summary": "<p>\n            Gives your coding agent a dedicated VM that's ready 24/7\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/grass-claude-code-from-your-phone?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1117852?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-07T13:31:09+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1463,11 +1454,11 @@
       "category": "events"
     },
     {
-      "id": "84e6cce3a1688c9701518645b203a91b1f625af2",
-      "title": "Mozilla 0DIN AI Scanner",
-      "link": "https://www.producthunt.com/products/mozilla-0din-ai-scanner",
-      "summary": "<p>\n            Scan any LLM chatbot for vulnerabilities\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mozilla-0din-ai-scanner?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1117247?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-06T22:01:06+00:00",
+      "id": "898f253df2bdd2ac91302f2cfaeb685128d857b0",
+      "title": "DreamBooks",
+      "link": "https://www.producthunt.com/products/dreambooks",
+      "summary": "<p>\n            Discover children’s books and track reading together.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dreambooks?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114751?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-03T05:10:59+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1486,6 +1477,15 @@
       "link": "https://www.producthunt.com/products/prodshort",
       "summary": "<p>\n            Turn meetings into ready-to-post shorts and posts\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/prodshort?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1102752?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-19T21:46:25+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "00e736f81dd30ec23a809005d91ed872aa30650c",
+      "title": "Brila",
+      "link": "https://www.producthunt.com/products/brila-2",
+      "summary": "<p>\n            One-page websites from real Google Maps reviews\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/brila-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1094681?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-10T18:54:32+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
