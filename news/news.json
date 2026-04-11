@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-04-11T19:30:54.326158+00:00",
+  "generatedAt": "2026-04-11T20:25:22.236927+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "e76fa2507dfa0db85a81edda25d64050bbf938d7",
+      "title": "Irish cabinet meeting to be held to discuss ongoing fuel protests",
+      "link": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of petrol stations in the Republic of Ireland have run out of fuel as the protests and blockades continued for a fifth day.",
+      "published": "2026-04-11T20:12:22+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "58bbee18367e74e85159d08f5bf8c448931ab101",
       "title": "Sources: Anthropic met with Christian leaders in March to seek input on Claude's moral and spiritual development and if it could be considered a \"child of God\" (Washington Post)",
@@ -48,15 +57,6 @@
       "published": "2026-04-11T17:18:22+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "fb0a300a39cc84071b11e260ef71fa4e5ab2fd5d",
-      "title": "Fuel tankers regain access to Irish oil refinery",
-      "link": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
-      "summary": "Demonstrations due to high prices caused by the US-Israeli war against Iran are affecting traffic on several roads.",
-      "published": "2026-04-11T17:09:13+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "4787567a992593e889a62592dcb003e5ab1642cb",
@@ -1418,10 +1418,10 @@
       "category": "malaysia"
     },
     {
-      "id": "60ed160fb02b29bbe5a695b259466fb9149001d9",
-      "title": "InboxJoy",
+      "id": "fc7fc0c82aa2215c3cce7616fee14e44643f5563",
+      "title": "InboxJoy - Filter Noise from Social DMs",
       "link": "https://www.producthunt.com/products/inboxjoy",
-      "summary": "<p>\n            Filter Noise from Social DMs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/inboxjoy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1117139?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            AI Social Media Automations for a Lifetime License\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/inboxjoy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1117139?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-06T18:48:20+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
