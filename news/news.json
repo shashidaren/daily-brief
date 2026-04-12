@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-04-12T20:28:25.363189+00:00",
+  "generatedAt": "2026-04-12T21:27:52.347368+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "231607ebc500a1a47e02e46bbe47cb7c05c596ce",
+      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+      "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+      "published": "2026-04-12T21:14:38+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "15c9b0672e5a182f60d08225f91121269cd485b2",
+      "title": "A deep dive into the debate about Claude Mythos Preview, the model's capabilities, attempts to refute Anthropic's claims, and what it means for the future of AI (Zvi Mowshowitz/Don't Worry About the Vase)",
+      "link": "http://www.techmeme.com/260412/p8#a260412p8",
+      "summary": "<a href=\"https://thezvi.substack.com/p/claude-mythos-2-cybersecurity-and\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260412/i8.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260412/p8#a260412p8\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Zvi Mowshowitz / <a href=\"https://thezvi.substack.com/\">Don't Worry About the Vase</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://thezvi.substack.com/p/claude-mythos-2-cybersecurity-and\">A deep dive into the debate about Claude Mythos Preview, the model's capabilities, attempts to refute Anthropic's claims, and what it means for the future of AI</a></b></span>&nbsp; &mdash;&nbsp; Anthropic is not going to release its new most capable model, Claude Mythos, to the public any time soon.</p>",
+      "published": "2026-04-12T20:30:04+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
     {
       "id": "d7852651862685e90c121e08f58b12b17494968b",
       "title": "Room for the Moon is thrillingly weird experimental pop",
@@ -21,6 +39,15 @@
       "published": "2026-04-12T19:58:42+00:00",
       "source": "TechCrunch",
       "category": "tech"
+    },
+    {
+      "id": "1beb43bdc56103b042da7d4da5ac9780b8937d8e",
+      "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
+      "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump says that the US is going to start blockading the Strait of Hormuz. What does this mean in practice?",
+      "published": "2026-04-12T19:25:54+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "cb1d9c3502d9e63d43c8e60450c4c99635d239ab",
@@ -572,15 +599,6 @@
       "category": "world"
     },
     {
-      "id": "4d2c61f3633dd088fa0169a670e81c070de920f3",
-      "title": "India refuses to criminalise marital rape. This new series shines a light on it",
-      "link": "https://www.bbc.com/news/articles/cgqkl2kqkxzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Chiraiya, which has drawn an audience of millions, has prompted conversations on social media around consent and misogyny.",
-      "published": "2026-04-12T00:16:41+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "b905928cd7ac120268a74ebb00176dfd7e26371b",
       "title": "Q&A with NYT reporter Tiffany Hsu about AI-generated online influencers, how the volume of synthetic content produces exhaustion for users, and more (Charlie Warzel/The Atlantic)",
       "link": "http://www.techmeme.com/260411/p13#a260411p13",
@@ -851,15 +869,6 @@
       "category": "deals"
     },
     {
-      "id": "180b0b2ca74f1c6134200f3da4646492b64602f9",
-      "title": "An investigation details Webloc, an ad-based geo surveillance system providing access to a constantly updated stream of records from up to 500M mobile devices (The Citizen Lab)",
-      "link": "http://www.techmeme.com/260411/p7#a260411p7",
-      "summary": "<a href=\"https://citizenlab.ca/research/analysis-of-penlinks-ad-based-geolocation-surveillance-tech/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260411/i7.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260411/p7#a260411p7\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://citizenlab.ca/\">The Citizen Lab</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://citizenlab.ca/research/analysis-of-penlinks-ad-based-geolocation-surveillance-tech/\">An investigation details Webloc, an ad-based geo surveillance system providing access to a constantly updated stream of records from up to 500M mobile devices</a></b></span>&nbsp; &mdash;&nbsp; Location data collected from mobile apps and digital advertising can reveal habits, interests and almost any other aspect of someone's life.</p>",
-      "published": "2026-04-11T10:35:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "50c5bdd6b62af9d3c354c7c7add45e982798fdb4",
       "title": "Djibouti's president wins unprecedented sixth term with 97.8% of vote",
       "link": "https://www.bbc.com/news/articles/cgj0wg423n6o?at_medium=RSS&at_campaign=rss",
@@ -905,15 +914,6 @@
       "category": "deals"
     },
     {
-      "id": "ee8e5abbc3a5fe319e103eb6b86150b9165e56c0",
-      "title": "MolmoWeb",
-      "link": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
-      "summary": "<p>\n            Open web agents from data to deployment\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/allen-institute-of-artificial-intelligence?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1121030?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-11T05:50:24+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "83e01248206d471abf781c3b3601fd33141423bc",
       "title": "Samsung Galaxy Z Flip8 Leak Suggests Minimal Changes",
       "link": "https://www.lowyat.net/2026/389288/samsung-galaxy-z-flip8-leak-suggests-minimal-changes/",
@@ -921,6 +921,15 @@
       "published": "2026-04-11T04:39:03+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
+    },
+    {
+      "id": "cc706f3a69af394d6f74409228ee2970d81e1b86",
+      "title": "Claude for Word",
+      "link": "https://www.producthunt.com/products/claude",
+      "summary": "<p>\n            Bring Claude natively into your Microsoft Word workflow\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1120981?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-11T03:43:49+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "1c31e3765018f27cde06620e0be340b73ddb6326",
@@ -948,6 +957,15 @@
       "published": "2026-04-11T01:21:10+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
+    },
+    {
+      "id": "569cb5af3067cc23b675da0b26d940f3f12358a2",
+      "title": "Claude Code ultraplan",
+      "link": "https://www.producthunt.com/products/claude-code-ultraplan",
+      "summary": "<p>\n            Claude Code command that plans your codebase in the cloud\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-code-ultraplan?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1120939?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-11T01:05:00+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "42774c0da7c2ac4be588d1754bb7e556272e53cd",
@@ -1058,15 +1076,6 @@
       "category": "deals"
     },
     {
-      "id": "416997045c4f425fe3a3a8f9a161a8b72f13a4e6",
-      "title": "Buildermark",
-      "link": "https://www.producthunt.com/products/buildermark-open-source",
-      "summary": "<p>\n            Measure how much of your code is AI-generated. Open source.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/buildermark-open-source?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1120805?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-10T19:40:53+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "d8f965f2f35f99ba16fd28f9440448306468f28e",
       "title": "Battery recycler Ascend Elements files for bankruptcy",
       "link": "https://techcrunch.com/2026/04/10/battery-recycler-ascend-elements-files-for-bankruptcy/",
@@ -1171,15 +1180,6 @@
       "link": "https://techcrunch.com/2026/04/10/youtube-premium-youtube-music-subscription-price-increase/",
       "summary": "The YouTube Premium individual plan is increasing from $13.99 to $15.99 per month, while the family plan is increasing from $22.99 to $26.99 per month.",
       "published": "2026-04-10T14:38:43+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "7e4ded5c24d0d80d6811f3014c8dce82c94dc20c",
-      "title": "Every fusion startup that has raised over $100M",
-      "link": "https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/",
-      "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
-      "published": "2026-04-10T14:05:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
