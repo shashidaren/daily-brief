@@ -1,12 +1,30 @@
 {
-  "generatedAt": "2026-04-12T19:34:59.169321+00:00",
+  "generatedAt": "2026-04-12T20:28:25.363189+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
-      "id": "1b8a87def7a256e0bdb994336d731a5e27fd1bb0",
-      "title": "Trump's Strait of Hormuz blockade threat raises risks and leaves predicaments unchanged",
+      "id": "d7852651862685e90c121e08f58b12b17494968b",
+      "title": "Room for the Moon is thrillingly weird experimental pop",
+      "link": "https://www.theverge.com/entertainment/910826/room-for-the-moon-is-thrillingly-weird-experimental-pop",
+      "summary": "For obvious reasons, I've had Moon on the mind all week. So I was trying to figure out what I should recommend this week that would thematically fit. Brian Eno's Apollo: Atmospheres and Soundtracks is incredible, and if you haven't listened to it, go do that now. But it also seemed a bit on the [&#8230;]",
+      "published": "2026-04-12T20:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "b3ea19c36677e4574f2c8b4f47355d0af7040ecf",
+      "title": "Apple reportedly testing four designs for upcoming smart glasses",
+      "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+      "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+      "published": "2026-04-12T19:58:42+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "cb1d9c3502d9e63d43c8e60450c4c99635d239ab",
+      "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
       "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
       "summary": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.",
       "published": "2026-04-12T18:48:57+00:00",
@@ -725,15 +743,6 @@
       "category": "tech"
     },
     {
-      "id": "1efee411f6cfc89386b4275c747b9619f9b7ddcd",
-      "title": "Pokémon Champions is off to a rough start",
-      "link": "https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers",
-      "summary": "Like many live-service games before it, Pok&#233;mon Champions' launch has been messy. The free-to-start battle sim, which is out now on the Switch and Switch 2 (and also coming to mobile later this year), is plagued with bugs, some of which cause issues with basic battle mechanics - not great for a game that's only [&#8230;]",
-      "published": "2026-04-11T15:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "7e54f35b3855e19153854da6ec37f32904240fb6",
       "title": "Nearly 400 sentenced in Nigeria for links to militant Islamists",
       "link": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss",
@@ -896,6 +905,15 @@
       "category": "deals"
     },
     {
+      "id": "ee8e5abbc3a5fe319e103eb6b86150b9165e56c0",
+      "title": "MolmoWeb",
+      "link": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
+      "summary": "<p>\n            Open web agents from data to deployment\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/allen-institute-of-artificial-intelligence?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1121030?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-11T05:50:24+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "83e01248206d471abf781c3b3601fd33141423bc",
       "title": "Samsung Galaxy Z Flip8 Leak Suggests Minimal Changes",
       "link": "https://www.lowyat.net/2026/389288/samsung-galaxy-z-flip8-leak-suggests-minimal-changes/",
@@ -903,15 +921,6 @@
       "published": "2026-04-11T04:39:03+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "cc706f3a69af394d6f74409228ee2970d81e1b86",
-      "title": "Claude for Word",
-      "link": "https://www.producthunt.com/products/claude",
-      "summary": "<p>\n            Bring Claude natively into your Microsoft Word workflow\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1120981?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-11T03:43:49+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "1c31e3765018f27cde06620e0be340b73ddb6326",
@@ -939,15 +948,6 @@
       "published": "2026-04-11T01:21:10+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "569cb5af3067cc23b675da0b26d940f3f12358a2",
-      "title": "Claude Code ultraplan",
-      "link": "https://www.producthunt.com/products/claude-code-ultraplan",
-      "summary": "<p>\n            Claude Code command that plans your codebase in the cloud\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-code-ultraplan?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1120939?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-11T01:05:00+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "42774c0da7c2ac4be588d1754bb7e556272e53cd",
@@ -1180,15 +1180,6 @@
       "link": "https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/",
       "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
       "published": "2026-04-10T14:05:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "44ff05d9b020b4bb02f1a832a9fc07bf9dcc4c3e",
-      "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
-      "link": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
-      "summary": "This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT.",
-      "published": "2026-04-10T14:00:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
@@ -1441,6 +1432,15 @@
       "link": "https://www.producthunt.com/products/shush-5",
       "summary": "<p>\n            Room-aware noise. Quieter. Smarter. Better REM sleep.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/shush-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114695?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-03T01:48:02+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "085e09e5dc5dcfecea9a1699baaeaa840c8ec5c9",
+      "title": "1% Better",
+      "link": "https://www.producthunt.com/products/1-better-habit-tracker",
+      "summary": "<p>\n            Visualise the compounding effect of your daily habits\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/1-better-habit-tracker?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114162?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-02T11:11:23+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
