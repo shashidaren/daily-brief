@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-04-12T16:30:25.406798+00:00",
+  "generatedAt": "2026-04-12T17:28:59.539778+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "52747f69569d880564fb6112b44aab1ccfd3f92d",
+      "title": "X says it’s reducing payments to clickbait accounts",
+      "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
+      "summary": "X is cutting back on payments to accounts that are “flooding the timeline” with clickbait and rapid-fire news aggregation, according to its head of product Nikita Bier",
+      "published": "2026-04-12T17:02:20+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "373d011ed4feea6c716766695142e37ec50c4e23",
+      "title": "Rockstar Games says hack will have ‘no impact’",
+      "link": "https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact",
+      "summary": "Rockstar confirmed on Saturday that some of its data was compromised in a breach of a third-party provider. The group ShinyHunters claimed responsibility, saying it had gained access to the company's Snowflake instances (a cloud-hosting provider popular with enterprise customers) via Anodot, a cost-monitoring and analytics service. The group is demanding a ransom by April [&#8230;]",
+      "published": "2026-04-12T17:02:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "c1c82da0e9238d0d8ec396943f9bfaa9dc9012f3",
+      "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
+      "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
+      "summary": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
+      "published": "2026-04-12T16:56:08+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "7cb20cf3655311a6b4231c0a76e08fd773be7d30",
       "title": "Sources: UK regulators plan to warn banks, insurers, and exchanges about security risks exposed by Claude Mythos Preview at a meeting within the next two weeks (Martin Arnold/Financial Times)",
@@ -282,15 +309,6 @@
       "published": "2026-04-12T10:41:51+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "c1c82da0e9238d0d8ec396943f9bfaa9dc9012f3",
-      "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
-      "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
-      "summary": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
-      "published": "2026-04-12T10:03:00+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "dd64a42aa547154ecaff4de3974786040f6332b1",
@@ -707,15 +725,6 @@
       "category": "tech"
     },
     {
-      "id": "787be3a454b223615ea356c6675e28a57997f0aa",
-      "title": "Your article about AI doesn’t need AI art",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
-      "summary": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests [&#8230;]",
-      "published": "2026-04-11T15:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "7e54f35b3855e19153854da6ec37f32904240fb6",
       "title": "Nearly 400 sentenced in Nigeria for links to militant Islamists",
       "link": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss",
@@ -885,15 +894,6 @@
       "published": "2026-04-11T06:35:03+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "ee8e5abbc3a5fe319e103eb6b86150b9165e56c0",
-      "title": "MolmoWeb",
-      "link": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
-      "summary": "<p>\n            Open web agents from data to deployment\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/allen-institute-of-artificial-intelligence?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1121030?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-11T05:50:24+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "83e01248206d471abf781c3b3601fd33141423bc",
@@ -1184,15 +1184,6 @@
       "category": "tech"
     },
     {
-      "id": "891785b4c506f755f4e6d7838df5f9235da7438e",
-      "title": "PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing",
-      "link": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/",
-      "summary": "Now that Meta released its Muse Spark model, more people are downloading the Meta AI app. And if you join the app, your friends will probably get an Instagram notification about it.",
-      "published": "2026-04-10T13:52:02+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "1284e491ccc5d05533be3a23b8686b177821d7ed",
       "title": "Here's what to expect from the fiery, 14-minute return of Artemis II",
       "link": "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii/",
@@ -1369,6 +1360,15 @@
       "link": "https://www.producthunt.com/products/edgee",
       "summary": "<p>\n            Use Codex at 35.6% lower costs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/edgee?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1119626?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-09T09:46:32+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "cbbdbe87b2c3fa45c9464774ff7bfb828de3ab69",
+      "title": "Tech Marketing Framework",
+      "link": "https://www.producthunt.com/products/tech-marketing-framework",
+      "summary": "<p>\n            Forkable GTM system for builders struggling with marketing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tech-marketing-framework?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1119188?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-08T21:00:05+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
