@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-04-12T09:43:38.957109+00:00",
+  "generatedAt": "2026-04-12T10:32:55.153104+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "c0668086afc4e9a96c40cf8f0c05e34bd1fb39e7",
+      "title": "Justin Bieber headlines Coachella with nostalgia-fuelled set",
+      "link": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss",
+      "summary": "The star spent much of the gig singing along to YouTube videos of early hits like Baby and Never say Never.",
+      "published": "2026-04-12T10:07:58+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "c1c82da0e9238d0d8ec396943f9bfaa9dc9012f3",
+      "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
+      "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
+      "summary": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
+      "published": "2026-04-12T10:03:00+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "dd64a42aa547154ecaff4de3974786040f6332b1",
       "title": "Rockstar Games Hit By Hacker Group Who Threaten “Pay Or Leak”",
@@ -183,15 +201,6 @@
       "published": "2026-04-12T08:36:35+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "c1c82da0e9238d0d8ec396943f9bfaa9dc9012f3",
-      "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
-      "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
-      "summary": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
-      "published": "2026-04-12T08:24:01+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "c61e9ca967ba1ecfcbe8403b1808ade30502ea71",
@@ -388,15 +397,6 @@
       "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss",
       "summary": "\"Slopaganda\" is too weak a term to capture how powerful this \"highly sophisticated\" content is, one expert says.",
       "published": "2026-04-11T23:13:23+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "f76090bce53c0a1ae5a5f8aafb3da06f7f93ab09",
-      "title": "Iran war lands 'triple blow' to flood-ravaged Sri Lankans",
-      "link": "https://www.bbc.com/news/articles/c4gvkpj0024o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Iran war could not have come at a worse time for Sri Lanka, reeling from devastating floods and an economic crisis.",
-      "published": "2026-04-11T23:06:49+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -878,6 +878,15 @@
       "category": "tech"
     },
     {
+      "id": "63f18698dd6ea5893c55326f97e1175db90684cd",
+      "title": "aperture",
+      "link": "https://www.producthunt.com/products/aperture-4",
+      "summary": "<p>\n            hiring is broken. we're building the fix.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/aperture-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1120913?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-10T23:44:46+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "942a2f90e5eee0043c87adac653d3c63420c48ba",
       "title": "Californians sue over AI tool that records doctor visits",
       "link": "https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/",
@@ -1162,15 +1171,6 @@
       "link": "https://www.producthunt.com/products/nicely-done",
       "summary": "<p>\n            Design context for AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nicely-done?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1120554?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-10T13:15:37+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "76695ad5dc108816c9450e7453cddfc46b5a648f",
-      "title": "uTerminal",
-      "link": "https://www.producthunt.com/products/uterminal",
-      "summary": "<p>\n            A desktop terminal built for day-to-day remote access\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/uterminal?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1120535?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-10T12:58:11+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
