@@ -1,12 +1,57 @@
 {
-  "generatedAt": "2026-04-15T20:54:29.074755+00:00",
+  "generatedAt": "2026-04-15T21:45:02.789980+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
-      "id": "84d4affb78d2bd32e8bda2c029111a81a140a14e",
-      "title": "Fans overcharged by $1.72 each by 'monopoly' Ticketmaster owner",
+      "id": "7753c345b8a1c6ab0a248f9058e2acfb1d61c426",
+      "title": "Wait, could they still actually break up Live Nation?",
+      "link": "https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/",
+      "summary": "A federal jury found that Live Nation has acted illegally as a monopoly -- but the company just came to a tentative settlement with the DOJ last month.",
+      "published": "2026-04-15T21:38:09+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "569d0e025f4d4b0bf7197889c15c2a943cecbea5",
+      "title": "Objection, which aims to use AI and experts to evaluate claims in news stories, debuts with funding from Peter Thiel, Balaji Srinivasan; evaluations cost $2,000 (Rebecca Bellan/TechCrunch)",
+      "link": "http://www.techmeme.com/260415/p41#a260415p41",
+      "summary": "<a href=\"https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260415/i41.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260415/p41#a260415p41\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Rebecca Bellan / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/\">Objection, which aims to use AI and experts to evaluate claims in news stories, debuts with funding from Peter Thiel, Balaji Srinivasan; evaluations cost $2,000</a></b></span>&nbsp; &mdash;&nbsp; After helping lead the lawsuit that bankrupted media firm Gawker, Aron D'Souza says he saw something broken in the American media system &hellip; </p>",
+      "published": "2026-04-15T21:30:03+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "189828841748b8e8d57ad25d68d4a4921b5c301d",
+      "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+      "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
+      "published": "2026-04-15T21:10:14+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "ba2bdd8a088ec4bf3d0cb3c524adcd005f9a925e",
+      "title": "Monarch Tractor’s collapse ends with an acquisition by Caterpillar",
+      "link": "https://techcrunch.com/2026/04/15/monarch-tractors-collapse-ends-in-with-an-acquisition-by-caterpillar/",
+      "summary": "The startup had faced mounting pressure from dealers, farmers, and a co-founder who complained that Monarch's tech didn't work properly.",
+      "published": "2026-04-15T21:05:21+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "234cd924060a237a5b054d1f72626bc76856e5ca",
+      "title": "NY-based Auctor, which uses AI to curate resource plans and process flows to help companies adopt new software, raised $20M in a combined seed and Series A (Chris Metinko/Axios)",
+      "link": "http://www.techmeme.com/260415/p40#a260415p40",
+      "summary": "<a href=\"https://www.axios.com/pro/enterprise-software-deals/2026/04/15/software-implementation-auctor-sequoia-20m\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260415/i40.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260415/p40#a260415p40\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Chris Metinko / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/pro/enterprise-software-deals/2026/04/15/software-implementation-auctor-sequoia-20m\">NY-based Auctor, which uses AI to curate resource plans and process flows to help companies adopt new software, raised $20M in a combined seed and Series A</a></b></span>&nbsp; &mdash;&nbsp; Auctor, a startup helping companies adopt new software, raised $20 million in a combined seed and Series A, CEO William Sun tells Axios Pro first.</p>",
+      "published": "2026-04-15T21:01:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "cc895ba2b72cc8429f85cb9c47859729fff958fb",
+      "title": "Ticketmaster-owner Live Nation ran a monopoly and overcharged fans, jury finds",
       "link": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss",
       "summary": "The lawsuit said the firm's practices had led to higher ticket prices and worse service for customers.",
       "published": "2026-04-15T20:45:00+00:00",
@@ -44,7 +89,7 @@
       "id": "61c501f4733746f44d411b7da933cde733f9d521",
       "title": "Ford’s EV and software chief Doug Field is leaving the company",
       "link": "https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software",
-      "summary": "Doug Field, who left Apple five years ago to helm Ford's multibillion-dollar bet on electric vehicles and software, is stepping down next month. Replacing him will be Alan Clarke, the ex-Tesla engineer who now leads Ford's California-based skunkworks lab. Clarke's new title will be vice president of advanced development projects, and he will continue to [&#8230;]",
+      "summary": "Ford is shaking things up as it relates to its EV and software teams. Doug Field, who left Apple five years ago to helm Ford's multibillion-dollar bet on electric vehicles and software, is stepping down next month. Getting a promotion will be Alan Clarke, the ex-Tesla engineer who now leads Ford's California-based skunkworks lab. Clarke's [&#8230;]",
       "published": "2026-04-15T20:05:00+00:00",
       "source": "The Verge",
       "category": "tech"
@@ -698,10 +743,10 @@
       "category": "tech"
     },
     {
-      "id": "85faf564529ff4b4ae3f41f20bb375b4cfc1642c",
-      "title": "A survey of US teens: ~90% say entertainment is a reason they use TikTok, Instagram, or Snapchat, 57% Snapchat message daily, and 37% say TikTok impacts sleep (Pew Research Center)",
+      "id": "0d19c6ea8fe8aacab6d532786914876f8196f4db",
+      "title": "A survey of US teens: ~90% say entertainment is a reason they use TikTok, Instagram, or Snapchat, 57% message daily on Snapchat, 37% say TikTok impacts sleep (Pew Research Center)",
       "link": "http://www.techmeme.com/260415/p28#a260415p28",
-      "summary": "<a href=\"https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260415/i28.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260415/p28#a260415p28\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.pewresearch.org/\">Pew Research Center</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/\">A survey of US teens: ~90% say entertainment is a reason they use TikTok, Instagram, or Snapchat, 57% Snapchat message daily, and 37% say TikTok impacts sleep</a></b></span>&nbsp; &mdash;&nbsp; Teens largely turn to TikTok, Instagram and Snapchat for fun and connection.&nbsp; But experiences around messaging, screen time and cyberbullying vary.</p>",
+      "summary": "<a href=\"https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260415/i28.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260415/p28#a260415p28\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.pewresearch.org/\">Pew Research Center</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/\">A survey of US teens: ~90% say entertainment is a reason they use TikTok, Instagram, or Snapchat, 57% message daily on Snapchat, 37% say TikTok impacts sleep</a></b></span>&nbsp; &mdash;&nbsp; Teens largely turn to TikTok, Instagram and Snapchat for fun and connection.&nbsp; But experiences around messaging, screen time and cyberbullying vary.</p>",
       "published": "2026-04-15T14:15:01+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -752,24 +797,6 @@
       "category": "world"
     },
     {
-      "id": "e397966afeab17acd77c663096e9ed9f7c81c46a",
-      "title": "London-based Gizmo, which uses AI to turn students' notes into gamified study materials, raised a $22M Series A led by Shine Capital and reports 13M users (Natalie Breymeyer/Axios)",
-      "link": "http://www.techmeme.com/260415/p26#a260415p26",
-      "summary": "<a href=\"https://www.axios.com/pro/all-deals/2026/04/15/ai-edtech-learning-gizmo-series-a\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260415/i26.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260415/p26#a260415p26\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Natalie Breymeyer / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/pro/all-deals/2026/04/15/ai-edtech-learning-gizmo-series-a\">London-based Gizmo, which uses AI to turn students' notes into gamified study materials, raised a $22M Series A led by Shine Capital and reports 13M users</a></b></span>&nbsp; &mdash;&nbsp; Gizmo, an AI educational platform, raised a $22 million Series A, CEO Petros Christodoulou tells Axios exclusively.</p>",
-      "published": "2026-04-15T13:50:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "ada5f5ffa3d370943c00b521e5064329afbbf119",
-      "title": "AMD, Arm, and Qualcomm invest $60M in London-based self-driving tech startup Wayve as part of an extension to its $1.2B Series D, announced in February (Kirsten Korosec/TechCrunch)",
-      "link": "http://www.techmeme.com/260415/p25#a260415p25",
-      "summary": "<a href=\"https://techcrunch.com/2026/04/15/chipmakers-amd-arm-and-qualcomm-are-all-investing-in-this-buzzy-self-driving-tech-startup/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260415/i25.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260415/p25#a260415p25\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kirsten Korosec / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/04/15/chipmakers-amd-arm-and-qualcomm-are-all-investing-in-this-buzzy-self-driving-tech-startup/\">AMD, Arm, and Qualcomm invest $60M in London-based self-driving tech startup Wayve as part of an extension to its $1.2B Series D, announced in February</a></b></span>&nbsp; &mdash;&nbsp; Chipmakers AMD, Arm, and Qualcomm have invested $60 million into UK self-driving technology startup Wayve as part of an extension &hellip; </p>",
-      "published": "2026-04-15T13:45:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "d43417f97b9b162b3420fc45343088c56fae7b0d",
       "title": "Blue Origin has a new employee stock plan, but not everyone is happy",
       "link": "https://arstechnica.com/space/2026/04/blue-origin-has-a-new-employee-stock-plan-but-not-everyone-is-happy/",
@@ -802,15 +829,6 @@
       "link": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
       "summary": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
       "published": "2026-04-15T13:06:54+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "7bdfcfa3c79b4fe4c257908b98b7b1a347a9868b",
-      "title": "Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks",
-      "link": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
-      "summary": "Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express,  Illustrator and its other apps to do tasks for you.",
-      "published": "2026-04-15T13:01:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
@@ -849,15 +867,6 @@
       "published": "2026-04-15T13:00:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "ee8e5232307b697b220af336f28389f2a9f22ab9",
-      "title": "This energy startup’s bet on 100-year-old grid tech is paying off",
-      "link": "https://techcrunch.com/2026/04/15/this-energy-startups-bet-on-100-year-old-grid-tech-is-paying-off/",
-      "summary": "Ayr Energy is using a shortage of power conversion equipment to break open a decades-old market.",
-      "published": "2026-04-15T13:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "19ed79e14557987a49da13cf36a4d5a20a666ffd",
@@ -1049,15 +1058,6 @@
       "category": "deals"
     },
     {
-      "id": "1285f9980f0d1dfbfd69d238274af831a767b4f4",
-      "title": "Meghan to appear as guest judge on MasterChef Australia",
-      "link": "https://www.bbc.com/news/articles/cx2eejdwpk5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Duke and Duchess of Sussex are on a four-day visit to Australia - their first since 2018.",
-      "published": "2026-04-15T10:04:29+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "fec40b522982c6256cba1a7964c3c4960b464a39",
       "title": "Sri Lanka repatriates 238 Iranian sailors stranded after US torpedo attack",
       "link": "https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss",
@@ -1184,6 +1184,24 @@
       "category": "world"
     },
     {
+      "id": "a976d866294f8dc817a648400ee4485dcd9c4846",
+      "title": "Reka Edge",
+      "link": "https://www.producthunt.com/products/reka-vision",
+      "summary": "<p>\n            Frontier edge intelligence for physical AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/reka-vision?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1124023?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-15T02:56:05+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "c0328a315ce2edbf97dc66344b26a3f2d16fd59c",
+      "title": "MiniAi",
+      "link": "https://www.producthunt.com/products/miniai",
+      "summary": "<p>\n            Select text, hit (⌥ space), get AI explanations\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/miniai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123980?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-15T00:44:36+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "e866f0b1c6b7ad09535b6fdc71d94028a9e872e8",
       "title": "Ukraine’s military robot surge aims to offset drone risks to humans",
       "link": "https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans/",
@@ -1238,6 +1256,15 @@
       "category": "tech"
     },
     {
+      "id": "6da401e9006f09c42d761d5829e3893c352b27fa",
+      "title": "Google app for desktop",
+      "link": "https://www.producthunt.com/products/the-google-app-for-desktop",
+      "summary": "<p>\n            Ask anything with the Google app for desktop\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/the-google-app-for-desktop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123824?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-14T19:49:08+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "dbda45c30de6cbec46cb78854ade3942faa45e3c",
       "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
       "link": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
@@ -1274,15 +1301,6 @@
       "category": "events"
     },
     {
-      "id": "1b5aa4987f2d75638c4442a482daa5557a8bcab6",
-      "title": "Gemini Robotics ER 1.6",
-      "link": "https://www.producthunt.com/products/google",
-      "summary": "<p>\n            Google's SOTA robotics model for visual & spatial reasoning!\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123674?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-14T16:05:08+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "b816d92f8856e645c463f0e3cb8c0415ea74158e",
       "title": "DataGrout",
       "link": "https://www.producthunt.com/products/datagrout-ai",
@@ -1301,20 +1319,20 @@
       "category": "malaysia"
     },
     {
+      "id": "4090366a85336292ec321a94a994316606d58306",
+      "title": "Crazzy",
+      "link": "https://www.producthunt.com/products/crazzy-3",
+      "summary": "<p>\n            Turn your GitHub into a living 3D portfolio\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/crazzy-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123362?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-14T09:01:02+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "4d6b574fa54c8faf30858606ac6f7881e4029430",
       "title": "Clide",
       "link": "https://www.producthunt.com/products/clide-the-ai-native-mac-terminal",
       "summary": "<p>\n            Grid-layout terminal with an AI that drives your shells.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clide-the-ai-native-mac-terminal?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123333?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-14T08:16:25+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "9d77f7ce382b6a3d80e5cadfc6f70620b6ad5cd0",
-      "title": "CC-BEEPER",
-      "link": "https://www.producthunt.com/products/cc-beeper",
-      "summary": "<p>\n            A floating macOS pager for Claude Code\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cc-beeper?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123310?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-14T07:51:26+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1328,11 +1346,11 @@
       "category": "malaysia"
     },
     {
-      "id": "33bca9765e553ddc75acc5bb705f8e110427ead0",
-      "title": "ClawTrace",
-      "link": "https://www.producthunt.com/products/epsilla",
-      "summary": "<p>\n            Make your OpenClaw better, cheaper, and faster\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123178?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-14T04:22:02+00:00",
+      "id": "6f93e7ab54d1410d6c4c9802a7e3270cdb50ae17",
+      "title": "Cenote",
+      "link": "https://www.producthunt.com/products/cenote",
+      "summary": "<p>\n            AI Sales Agents for Abandoned Checkouts\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cenote?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123089?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-14T00:14:16+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1355,15 +1373,6 @@
       "category": "malaysia"
     },
     {
-      "id": "7b92ef92634cb86687ff4dfb595a152f6505aa63",
-      "title": "Intent",
-      "link": "https://www.producthunt.com/products/augment-code",
-      "summary": "<p>\n            Describe a feature and AI agents build, verify, and ship it\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/augment-code?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1122688?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-13T12:54:49+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "ebb6af6881dbc2855e2d27a858b24b4767204e28",
       "title": "Honor 600 series makes its debut in Malaysia on 22 April, featuring 200MP camera with AI Image to Video 2.0",
       "link": "https://soyacincau.com/2026/04/13/honor-600-series-malaysia-launch-200mp-camera-ai-to-video/",
@@ -1373,15 +1382,6 @@
       "category": "malaysia"
     },
     {
-      "id": "9f2baee34807cf67102393dc4154df94d406affe",
-      "title": "Pane Studio (Beta)",
-      "link": "https://www.producthunt.com/products/pane-studio",
-      "summary": "<p>\n            Produce polished product demos\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pane-studio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1122472?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-13T07:38:07+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "af2cf4170a0d56255afc58709d3694200baa6df5",
       "title": "TNB Electron deploys 480kW DC Charger with 6 bays at Wisma TNB Perda, Bukit Mertajam",
       "link": "https://soyacincau.com/2026/04/13/tnb-electron-480kw-ev-dc-charger-wisma-tnb-perda-bukit-mertajam-penang/",
@@ -1389,15 +1389,6 @@
       "published": "2026-04-13T00:41:14+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "3fa1d2cc436db6223d1adaf86d5cb466ffd482c7",
-      "title": "CDK Insights",
-      "link": "https://www.producthunt.com/products/cdk-insights",
-      "summary": "<p>\n            Catch security issues in your AWS CDK before deployment\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cdk-insights?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1122281?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-12T23:58:38+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "633023dd3c6aba7101b7b362f387bc3c2ef990d2",
@@ -1454,6 +1445,15 @@
       "category": "malaysia"
     },
     {
+      "id": "42b13330f93f0436b648077724dc9b4ab3f361a0",
+      "title": "Collabute",
+      "link": "https://www.producthunt.com/products/collabute",
+      "summary": "<p>\n            Your team's context, turned into action\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/collabute?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1119860?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-09T15:13:51+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "db6a2dbd8c6d89682280a484c3c6535eb282922a",
       "title": "Carousels Generator",
       "link": "https://www.producthunt.com/products/carousels-generator",
@@ -1463,20 +1463,20 @@
       "category": "events"
     },
     {
-      "id": "6a787bffbcc20b6dcd54ae13fa19cd3da40d145d",
-      "title": "Defter Notes 2.0.",
-      "link": "https://www.producthunt.com/products/defter-notes-2-0",
-      "summary": "<p>\n            Spatial thinking with handwriting\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/defter-notes-2-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1117955?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-07T15:21:11+00:00",
+      "id": "55a1c2829fb573f7de93334113cfb2bceab50cab",
+      "title": "My!hū",
+      "link": "https://www.producthunt.com/products/myhu",
+      "summary": "<p>\n            See global climate disaster data into one real-time platform\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/myhu?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1117740?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-07T11:30:36+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "d55c99e4b12b1e453e5713f8864de6acd76a33c2",
-      "title": "Roll",
-      "link": "https://www.producthunt.com/products/roll-3",
-      "summary": "<p>\n            The disposable camera for your phone\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/roll-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1117147?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-06T19:00:03+00:00",
+      "id": "49aaeaded4134e500dc1b92102d0248d807bbd04",
+      "title": "Mush",
+      "link": "https://www.producthunt.com/products/mush-2",
+      "summary": "<p>\n            Combine Wi-Fi, Ethernet, and 5G for max download speed\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mush-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1112535?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-31T16:03:10+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
