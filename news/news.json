@@ -1,12 +1,57 @@
 {
-  "generatedAt": "2026-04-15T19:59:01.877197+00:00",
+  "generatedAt": "2026-04-15T20:54:29.074755+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
-      "id": "3b8731abb4ce756b1e04a3474289717b64dd206a",
-      "title": "Trump’s posting even more AI-generated Trump-Jesus fanart",
+      "id": "84d4affb78d2bd32e8bda2c029111a81a140a14e",
+      "title": "Fans overcharged by $1.72 each by 'monopoly' Ticketmaster owner",
+      "link": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The lawsuit said the firm's practices had led to higher ticket prices and worse service for customers.",
+      "published": "2026-04-15T20:45:00+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "68f3a5de3f00259c54fa50d1ff109993e6bbbce9",
+      "title": "\"TotalRecall Reloaded\" tool finds a side entrance to Windows 11's Recall database",
+      "link": "https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/",
+      "summary": "\"The vault is solid. The delivery truck is not.\"",
+      "published": "2026-04-15T20:36:28+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "e20129c88c3802b6d0d22faa3ed8cc808879935d",
+      "title": "Nine killed in second Turkish school shooting in two days",
+      "link": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight students and one teacher died in the attack, according to Interior Minister Mustafa Cifci.",
+      "published": "2026-04-15T20:10:49+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "d5a957b287f9a5869d7eb18dd4906cb27efdc46a",
+      "title": "A jury finds that Live Nation and Ticketmaster illegally maintained monopoly power in the ticketing market, in a case brought by state AGs after the DOJ settled (NBC News)",
+      "link": "http://www.techmeme.com/260415/p39#a260415p39",
+      "summary": "<a href=\"https://www.nbcnews.com/business/consumer/livenation-illegally-monopolized-ticketing-market-jury-antitrust-trial-rcna273714\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260415/i39.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260415/p39#a260415p39\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.nbcnews.com/\">NBC News</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nbcnews.com/business/consumer/livenation-illegally-monopolized-ticketing-market-jury-antitrust-trial-rcna273714\">A jury finds that Live Nation and Ticketmaster illegally maintained monopoly power in the ticketing market, in a case brought by state AGs after the DOJ settled</a></b></span>&nbsp; &mdash;&nbsp; The federal government struck a settlement with Live Nation in March, requiring Ticketmaster to divest up to 13 amphitheaters &hellip; </p>",
+      "published": "2026-04-15T20:05:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "61c501f4733746f44d411b7da933cde733f9d521",
+      "title": "Ford’s EV and software chief Doug Field is leaving the company",
+      "link": "https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software",
+      "summary": "Doug Field, who left Apple five years ago to helm Ford's multibillion-dollar bet on electric vehicles and software, is stepping down next month. Replacing him will be Alan Clarke, the ex-Tesla engineer who now leads Ford's California-based skunkworks lab. Clarke's new title will be vice president of advanced development projects, and he will continue to [&#8230;]",
+      "published": "2026-04-15T20:05:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "cdd3d9b8d01478f5f0ae6998059ea69b479fed3b",
+      "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
       "link": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
       "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual subscriptions are currently 50 percent off. That's $30 a year for [&#8230;]",
       "published": "2026-04-15T19:50:31+00:00",
@@ -23,13 +68,22 @@
       "category": "deals"
     },
     {
-      "id": "84d4affb78d2bd32e8bda2c029111a81a140a14e",
-      "title": "Fans overcharged by $1.72 each by 'monopoly' Ticketmaster owner",
-      "link": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The lawsuit said the firm's practices had led to higher ticket prices and worse service for customers.",
-      "published": "2026-04-15T19:46:40+00:00",
-      "source": "BBC News",
-      "category": "world"
+      "id": "79b087dcb74fa7a1a7bc0930a3ace520e70253b9",
+      "title": "Google releases new apps for Windows and MacOS",
+      "link": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
+      "summary": "Google mostly creates products for the web, but it has some new desktop apps today.",
+      "published": "2026-04-15T19:46:43+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "15a90a60ecc4d8103fb7ad9017b7662349504041",
+      "title": "Boston Dynamics’ robot dog now reads gauges and thermometers with Google's AI",
+      "link": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
+      "summary": "Google's AI enables robots to read gauges while inspecting industrial facilities.",
+      "published": "2026-04-15T19:34:33+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
     },
     {
       "id": "144433c24f89fe91f70e7ae564b35eda287265a7",
@@ -57,6 +111,15 @@
       "published": "2026-04-15T19:25:43+00:00",
       "source": "9to5Toys",
       "category": "deals"
+    },
+    {
+      "id": "d5b76bdfd47dfc7e2e339cdf567d2583ceae6b88",
+      "title": "Prime Video shows “technical difficulties” sign instead of NBA game in overtime",
+      "link": "https://arstechnica.com/gadgets/2026/04/nba-fans-cry-foul-as-prime-video-cuts-out-during-overtime-fails-to-sync-audio/",
+      "summary": "\"Am I trippin??\" asks LeBron James.",
+      "published": "2026-04-15T19:16:43+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
     },
     {
       "id": "4a2620981a1ad69f097e2eeaea28482537a60396",
@@ -104,6 +167,15 @@
       "category": "deals"
     },
     {
+      "id": "360ae3089635a9333354ac79dab3df9c2dea6aca",
+      "title": "Frank Gardner: What is China's role in the Iran war?",
+      "link": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.",
+      "published": "2026-04-15T18:54:06+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "693bb524965f85152e1a8bcd56e77c16ea8b2e64",
       "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
       "link": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
@@ -119,6 +191,15 @@
       "summary": "In a first, the U.S. Energy Information Agency said it will require data centers to disclose details of their energy use.",
       "published": "2026-04-15T18:50:48+00:00",
       "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "39d1a5a336f8b84b38d205e297f40e46b7480e98",
+      "title": "New teaser gives us first look at Godzilla Minus Zero",
+      "link": "https://arstechnica.com/culture/2026/04/new-teaser-gives-us-first-look-at-godzilla-minus-zero/",
+      "summary": "Director Takashi Yamazaki told Cinemacon attendees that sequel is first Japanese film shot for IMAX.",
+      "published": "2026-04-15T18:50:41+00:00",
+      "source": "Ars Technica - All content",
       "category": "tech"
     },
     {
@@ -149,8 +230,8 @@
       "category": "deals"
     },
     {
-      "id": "1f581a86c93d92573cc65e1da0826716079fd422",
-      "title": "Space Force looks at moving \"significant number\" of launches from ULA to SpaceX",
+      "id": "c4f5f02d8966fb7d0eb6b7c5532041f7a3a183bb",
+      "title": "Vulcan woes will \"absolutely\" be a factor in Pentagon's next rocket competition",
       "link": "https://arstechnica.com/space/2026/04/space-force-looks-at-moving-significant-number-of-launches-from-ula-to-spacex/",
       "summary": "\"If the spacecraft is ready to go, that's going to give it a priority.\"",
       "published": "2026-04-15T18:33:53+00:00",
@@ -262,15 +343,6 @@
       "link": "https://www.bbc.com/news/articles/crl11g21ex8o?at_medium=RSS&at_campaign=rss",
       "summary": "Prosecutors say Stefan Pildes spent hundreds of thousands of $2.7m raised for charity on personal expenses.",
       "published": "2026-04-15T17:56:47+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "e20129c88c3802b6d0d22faa3ed8cc808879935d",
-      "title": "Nine killed in second Turkish school shooting in two days",
-      "link": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Eight students and one teacher died in the attack, according to Interior Minister Mustafa Cifci.",
-      "published": "2026-04-15T17:50:08+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -482,15 +554,6 @@
       "category": "deals"
     },
     {
-      "id": "eab040d72c522da7382a03e675cdbf634e5d0365",
-      "title": "Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
-      "link": "https://www.theverge.com/news/912484/allbirds-ai-hyperscale",
-      "summary": "Allbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The company recently announced it would sell off its name and assets for $39 million to American Exchange after [&#8230;]",
-      "published": "2026-04-15T16:13:30+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "8f39c8794af87607bb5af6c80b601db1efc46e76",
       "title": "US jobs too important to risk Chinese car imports, says Ford CEO",
       "link": "https://arstechnica.com/cars/2026/04/us-jobs-too-important-to-risk-chinese-car-imports-says-ford-ceo/",
@@ -674,7 +737,7 @@
       "id": "06134471967c75abb268df79dc682206ba386cbc",
       "title": "Snap is cutting 1,000 jobs, 16% of its workforce",
       "link": "https://techcrunch.com/2026/04/15/snap-is-cutting-1000-jobs-16-of-its-workforce/",
-      "summary": "The company cites advancements in AI for the cuts.",
+      "summary": "The company cites advancements in AI for the cuts. CEO Evan Spiegel also wrote that the company is closing more than 300 open roles. Snap had about 5,261 full-time employees as of December 2025.",
       "published": "2026-04-15T13:54:15+00:00",
       "source": "TechCrunch",
       "category": "tech"
@@ -689,10 +752,10 @@
       "category": "world"
     },
     {
-      "id": "fd5c0dbc0f128f84d175405c2537dcc2400a37c7",
-      "title": "London-based Gizmo, which uses AI to turn young students' notes into gamified study materials, raised a $22M Series A led by Shine Capital and reports 13M users (Natalie Breymeyer/Axios)",
+      "id": "e397966afeab17acd77c663096e9ed9f7c81c46a",
+      "title": "London-based Gizmo, which uses AI to turn students' notes into gamified study materials, raised a $22M Series A led by Shine Capital and reports 13M users (Natalie Breymeyer/Axios)",
       "link": "http://www.techmeme.com/260415/p26#a260415p26",
-      "summary": "<a href=\"https://www.axios.com/pro/all-deals/2026/04/15/ai-edtech-learning-gizmo-series-a\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260415/i26.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260415/p26#a260415p26\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Natalie Breymeyer / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/pro/all-deals/2026/04/15/ai-edtech-learning-gizmo-series-a\">London-based Gizmo, which uses AI to turn young students' notes into gamified study materials, raised a $22M Series A led by Shine Capital and reports 13M users</a></b></span>&nbsp; &mdash;&nbsp; Gizmo, an AI educational platform, raised a $22 million Series A, CEO Petros Christodoulou tells Axios exclusively.</p>",
+      "summary": "<a href=\"https://www.axios.com/pro/all-deals/2026/04/15/ai-edtech-learning-gizmo-series-a\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260415/i26.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260415/p26#a260415p26\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Natalie Breymeyer / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/pro/all-deals/2026/04/15/ai-edtech-learning-gizmo-series-a\">London-based Gizmo, which uses AI to turn students' notes into gamified study materials, raised a $22M Series A led by Shine Capital and reports 13M users</a></b></span>&nbsp; &mdash;&nbsp; Gizmo, an AI educational platform, raised a $22 million Series A, CEO Petros Christodoulou tells Axios exclusively.</p>",
       "published": "2026-04-15T13:50:01+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -703,15 +766,6 @@
       "link": "http://www.techmeme.com/260415/p25#a260415p25",
       "summary": "<a href=\"https://techcrunch.com/2026/04/15/chipmakers-amd-arm-and-qualcomm-are-all-investing-in-this-buzzy-self-driving-tech-startup/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260415/i25.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260415/p25#a260415p25\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kirsten Korosec / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/04/15/chipmakers-amd-arm-and-qualcomm-are-all-investing-in-this-buzzy-self-driving-tech-startup/\">AMD, Arm, and Qualcomm invest $60M in London-based self-driving tech startup Wayve as part of an extension to its $1.2B Series D, announced in February</a></b></span>&nbsp; &mdash;&nbsp; Chipmakers AMD, Arm, and Qualcomm have invested $60 million into UK self-driving technology startup Wayve as part of an extension &hellip; </p>",
       "published": "2026-04-15T13:45:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "c3a93baaba10046910ce41a0d74a63644e9edf33",
-      "title": "Shoe company Allbirds, which sold last week for $39M after its valuation fell from $4B+ in 2021, says it aims to become an AI compute provider; BIRD jumps 800%+ (Bryce Elder/Financial Times)",
-      "link": "http://www.techmeme.com/260415/p24#a260415p24",
-      "summary": "<a href=\"https://www.ft.com/content/a4b63cc1-2d1c-44c8-a22a-425cf0efb5cf\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260415/i24.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260415/p24#a260415p24\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Bryce Elder / <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/a4b63cc1-2d1c-44c8-a22a-425cf0efb5cf\">Shoe company Allbirds, which sold last week for $39M after its valuation fell from $4B+ in 2021, says it aims to become an AI compute provider; BIRD jumps 800%+</a></b></span>&nbsp; &mdash;&nbsp; Ah, zeitgeist:&nbsp; &mdash;&nbsp; Allbirds is a San Francisco maker of wool trainers that was once valued at more than $4bn.</p>",
-      "published": "2026-04-15T13:40:00+00:00",
       "source": "Techmeme",
       "category": "tech"
     },
@@ -1157,15 +1211,6 @@
       "category": "events"
     },
     {
-      "id": "24ebb8bcf0004b65c0f43c9140d95ac16650f793",
-      "title": "Israel and Lebanon hold first direct talks since 1993",
-      "link": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss",
-      "summary": "A US statement said the two sides had agreed to launch direct negotiations, at a time and place to be determined.",
-      "published": "2026-04-14T20:42:48+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "eeca11cc12570d524be7766dbc4d4ca986b6c0f0",
       "title": "Americans ask AI for health care. Hospitals think the answer is more chatbots.",
       "link": "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/",
@@ -1193,15 +1238,6 @@
       "category": "tech"
     },
     {
-      "id": "6da401e9006f09c42d761d5829e3893c352b27fa",
-      "title": "Google app for desktop",
-      "link": "https://www.producthunt.com/products/the-google-app-for-desktop",
-      "summary": "<p>\n            Ask anything with the Google app for desktop\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/the-google-app-for-desktop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123824?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-14T19:49:08+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "dbda45c30de6cbec46cb78854ade3942faa45e3c",
       "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
       "link": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
@@ -1220,15 +1256,6 @@
       "category": "events"
     },
     {
-      "id": "7812c6c6231d272d4d0d5a6083c407bdaee33b12",
-      "title": "UK gov's Mythos AI tests help separate cybersecurity threat from hype",
-      "link": "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
-      "summary": "New model is the first AI system to complete a difficult multistep infiltration challenge.",
-      "published": "2026-04-14T19:11:25+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
       "id": "1efc34e85543d499535681aecc83c7ef8834c7f2",
       "title": "SnapEdit",
       "link": "https://www.producthunt.com/products/snapedit-screenshot-editor",
@@ -1236,24 +1263,6 @@
       "published": "2026-04-14T17:22:59+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "e3d6e47f15fa994eb4b36c0e5fe018be1644c4c2",
-      "title": "Google introduces \"Skills\" in Chrome to make Gemini prompts instantly reusable",
-      "link": "https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/",
-      "summary": "You can save custom prompts you find useful or grab a premade Skill from Google's library.",
-      "published": "2026-04-14T17:00:37+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "593b02a77e72c8560493f0d81dcc04edb3786e81",
-      "title": "Physicists think they've resolved the proton size puzzle",
-      "link": "https://arstechnica.com/science/2026/04/physicists-think-theyve-resolved-the-proton-size-puzzle/",
-      "summary": "\"We believe this is the final nail in the coffin of the proton radius puzzle.\"",
-      "published": "2026-04-14T16:52:34+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
     },
     {
       "id": "c03d497e806d05b715fd4ff200ce4263371e92c6",
@@ -1265,15 +1274,6 @@
       "category": "events"
     },
     {
-      "id": "160670662be76cb7e58059fcf3c0da90cd58c635",
-      "title": "NASA chose the right crew to launch a new era of human space exploration",
-      "link": "https://arstechnica.com/space/2026/04/rockets-and-spaceships-are-cool-but-the-humanity-of-artemis-ii-resonated-most/",
-      "summary": "\"It’s a special thing to be human, and it’s a special thing to be on planet Earth.\"",
-      "published": "2026-04-14T16:10:17+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
       "id": "1b5aa4987f2d75638c4442a482daa5557a8bcab6",
       "title": "Gemini Robotics ER 1.6",
       "link": "https://www.producthunt.com/products/google",
@@ -1281,15 +1281,6 @@
       "published": "2026-04-14T16:05:08+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "5d9a24e8303195edb7adce988e7fdbdc2827d191",
-      "title": "Google will begin punishing sites for back button hijacking in June",
-      "link": "https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/",
-      "summary": "Google says it could penalize back button hijacking by demoting websites in search ranking.",
-      "published": "2026-04-14T15:48:41+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
     },
     {
       "id": "b816d92f8856e645c463f0e3cb8c0415ea74158e",
@@ -1308,6 +1299,15 @@
       "published": "2026-04-14T12:18:26+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "4d6b574fa54c8faf30858606ac6f7881e4029430",
+      "title": "Clide",
+      "link": "https://www.producthunt.com/products/clide-the-ai-native-mac-terminal",
+      "summary": "<p>\n            Grid-layout terminal with an AI that drives your shells.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clide-the-ai-native-mac-terminal?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123333?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-14T08:16:25+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "9d77f7ce382b6a3d80e5cadfc6f70620b6ad5cd0",
@@ -1337,6 +1337,15 @@
       "category": "events"
     },
     {
+      "id": "af2e6e78ff6818b2daebc1bc7a24b60b7ebd1817",
+      "title": "Playbook Intelligence",
+      "link": "https://www.producthunt.com/products/playbook-6",
+      "summary": "<p>\n            Talk directly to your files to bulk edit, organize, & share\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/playbook-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123000?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-13T20:06:34+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "2af9c23ad7888bfdd1d1140194ef399e3ba80625",
       "title": "Honda Super-One: The affordable compact EV Malaysians need?",
       "link": "https://soyacincau.com/2026/04/14/honda-super-one-fully-electric-kei-car-the-affordable-ev-malaysians-need/",
@@ -1362,6 +1371,15 @@
       "published": "2026-04-13T09:31:15+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "9f2baee34807cf67102393dc4154df94d406affe",
+      "title": "Pane Studio (Beta)",
+      "link": "https://www.producthunt.com/products/pane-studio",
+      "summary": "<p>\n            Produce polished product demos\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pane-studio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1122472?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-13T07:38:07+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "af2cf4170a0d56255afc58709d3694200baa6df5",
@@ -1436,15 +1454,6 @@
       "category": "malaysia"
     },
     {
-      "id": "42b13330f93f0436b648077724dc9b4ab3f361a0",
-      "title": "Collabute",
-      "link": "https://www.producthunt.com/products/collabute",
-      "summary": "<p>\n            Your team's context, turned into action\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/collabute?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1119860?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-09T15:13:51+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "db6a2dbd8c6d89682280a484c3c6535eb282922a",
       "title": "Carousels Generator",
       "link": "https://www.producthunt.com/products/carousels-generator",
@@ -1468,15 +1477,6 @@
       "link": "https://www.producthunt.com/products/roll-3",
       "summary": "<p>\n            The disposable camera for your phone\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/roll-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1117147?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-06T19:00:03+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "49aaeaded4134e500dc1b92102d0248d807bbd04",
-      "title": "Mush",
-      "link": "https://www.producthunt.com/products/mush-2",
-      "summary": "<p>\n            Combine Wi-Fi, Ethernet, and 5G for max download speed\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mush-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1112535?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-31T16:03:10+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
