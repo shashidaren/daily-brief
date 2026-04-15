@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-04-15T21:45:02.789980+00:00",
+  "generatedAt": "2026-04-15T22:36:38.274487+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "1664a54f9ea15ee48b4e1d79dfe982a2af6543dd",
+      "title": "YouTube now lets you turn off Shorts",
+      "link": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
+      "summary": "YouTube's time management settings now have an option to put a zero-minute time limit on Shorts, effectively removing them from your app in Android and iOS. The option is an update to the Shorts timer YouTube originally announced in October; the lowest previous option was 15 minutes. The feature was expanded in January to give [&#8230;]",
+      "published": "2026-04-15T22:18:36+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "1b0d9c1dfcea22615d942bb45644f55a19766076",
+      "title": "X users complain that the latest crackdown on bots purged secret accounts they had used for years to watch and curate their favorite porn (Jason Parham/Wired)",
+      "link": "http://www.techmeme.com/260415/p42#a260415p42",
+      "summary": "<a href=\"https://www.wired.com/story/x-bot-purge-wipes-out-secret-porn-feeds/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260415/i42.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260415/p42#a260415p42\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jason Parham / <a href=\"http://www.wired.com/\">Wired</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wired.com/story/x-bot-purge-wipes-out-secret-porn-feeds/\">X users complain that the latest crackdown on bots purged secret accounts they had used for years to watch and curate their favorite porn</a></b></span>&nbsp; &mdash;&nbsp; The platform's large-scale crackdown on automated accounts is also impacting people who've spent years curating niche porn on secret X accounts.</p>",
+      "published": "2026-04-15T22:15:03+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "5c7dfdd7f65831f364e49347bee455f0fe2317b6",
+      "title": "Ford EV and tech chief leaving automaker",
+      "link": "https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/",
+      "summary": "Doug Field had stints at Apple and Tesla before joining Ford in 2021.",
+      "published": "2026-04-15T21:52:05+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "7753c345b8a1c6ab0a248f9058e2acfb1d61c426",
       "title": "Wait, could they still actually break up Live Nation?",
@@ -554,15 +581,6 @@
       "category": "deals"
     },
     {
-      "id": "84a6f16f42fcf6bffda926cd792955827eaffe83",
-      "title": "Most people still don’t want anything to do with robotaxis",
-      "link": "https://www.theverge.com/transportation/912357/robotaxi-poll-ev-intelligence-report-waymo-tesla",
-      "summary": "I've been reporting on self-driving cars for over a decade, and I've seen the technology go through many ups and downs, highs and lows. But one thing has remained remarkably the same over the years: the public just ain't buying it. Poll after poll has revealed a deep and abiding skepticism toward autonomous vehicles. People [&#8230;]",
-      "published": "2026-04-15T16:27:56+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "03604fc4a350bc09fa89af17a8d9083ca8f461ce",
       "title": "The US Energy Information Administration plans to implement a mandatory nationwide survey of data centers focused on their energy use (Molly Taft/Wired)",
       "link": "http://www.techmeme.com/260415/p33#a260415p33",
@@ -770,15 +788,6 @@
       "category": "tech"
     },
     {
-      "id": "7e5cd0d1fa58c89d04c13afebc0cfd1a3c18fb8f",
-      "title": "Artemis, which aims to replace rule-based cybersecurity systems with an AI-driven centralized \"brain\", emerges from stealth with a $70M Series A led by Felicis (Sharon Goldman/Fortune)",
-      "link": "http://www.techmeme.com/260415/p27#a260415p27",
-      "summary": "<a href=\"https://fortune.com/2026/04/15/exclusive-artemis-raises-70m-to-help-fight-ai-powered-attacks-with-ai/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260415/i27.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260415/p27#a260415p27\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sharon Goldman / <a href=\"http://www.fortune.com/\">Fortune</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://fortune.com/2026/04/15/exclusive-artemis-raises-70m-to-help-fight-ai-powered-attacks-with-ai/\">Artemis, which aims to replace rule-based cybersecurity systems with an AI-driven centralized &ldquo;brain&rdquo;, emerges from stealth with a $70M Series A led by Felicis</a></b></span>&nbsp; &mdash;&nbsp; Artemis, a new cybersecurity startup trying to help defenders fight AI-powered attacks with AI, emerged from stealth today &hellip; </p>",
-      "published": "2026-04-15T13:55:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "06134471967c75abb268df79dc682206ba386cbc",
       "title": "Snap is cutting 1,000 jobs, 16% of its workforce",
       "link": "https://techcrunch.com/2026/04/15/snap-is-cutting-1000-jobs-16-of-its-workforce/",
@@ -822,15 +831,6 @@
       "published": "2026-04-15T13:10:56+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "b2a677aee44c910c26748c4cca89e1a901c69ae4",
-      "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
-      "link": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
-      "summary": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
-      "published": "2026-04-15T13:06:54+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "a961b972147032bfe18440f8ffa35a895b3f86f9",
@@ -1283,29 +1283,20 @@
       "category": "events"
     },
     {
+      "id": "019d171498f4f45ccff45fd2851be1769d523e16",
+      "title": "Astra",
+      "link": "https://www.producthunt.com/products/astra-5",
+      "summary": "<p>\n            Make AI agents that never see your data\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/astra-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123808?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-14T19:25:24+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "1efc34e85543d499535681aecc83c7ef8834c7f2",
       "title": "SnapEdit",
       "link": "https://www.producthunt.com/products/snapedit-screenshot-editor",
       "summary": "<p>\n            Native SwiftUI clipboard image editor; edit, share instantly\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/snapedit-screenshot-editor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123715?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-14T17:22:59+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "c03d497e806d05b715fd4ff200ce4263371e92c6",
-      "title": "Claude Code Routines",
-      "link": "https://www.producthunt.com/products/claude",
-      "summary": "<p>\n            Put Claude Code tasks on autopilot with smart routines\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123691?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-14T16:45:51+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "b816d92f8856e645c463f0e3cb8c0415ea74158e",
-      "title": "DataGrout",
-      "link": "https://www.producthunt.com/products/datagrout-ai",
-      "summary": "<p>\n            Enterprise AI Platform for Agentic AI & MCP Integration\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/datagrout-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123570?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-14T13:52:51+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1319,20 +1310,20 @@
       "category": "malaysia"
     },
     {
+      "id": "f1a3c48ba84f17a99a7f632e2aac794baf10782f",
+      "title": "rtcStats",
+      "link": "https://www.producthunt.com/products/rtcstats",
+      "summary": "<p>\n            WebRTC monitoring & observability from your users' browsers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rtcstats?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123383?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-14T09:35:18+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "4090366a85336292ec321a94a994316606d58306",
       "title": "Crazzy",
       "link": "https://www.producthunt.com/products/crazzy-3",
       "summary": "<p>\n            Turn your GitHub into a living 3D portfolio\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/crazzy-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123362?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-14T09:01:02+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "4d6b574fa54c8faf30858606ac6f7881e4029430",
-      "title": "Clide",
-      "link": "https://www.producthunt.com/products/clide-the-ai-native-mac-terminal",
-      "summary": "<p>\n            Grid-layout terminal with an AI that drives your shells.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clide-the-ai-native-mac-terminal?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123333?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-14T08:16:25+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1346,11 +1337,11 @@
       "category": "malaysia"
     },
     {
-      "id": "6f93e7ab54d1410d6c4c9802a7e3270cdb50ae17",
-      "title": "Cenote",
-      "link": "https://www.producthunt.com/products/cenote",
-      "summary": "<p>\n            AI Sales Agents for Abandoned Checkouts\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cenote?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123089?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-14T00:14:16+00:00",
+      "id": "33bca9765e553ddc75acc5bb705f8e110427ead0",
+      "title": "ClawTrace",
+      "link": "https://www.producthunt.com/products/epsilla",
+      "summary": "<p>\n            Make your OpenClaw better, cheaper, and faster\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123178?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-14T04:22:02+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1373,6 +1364,15 @@
       "category": "malaysia"
     },
     {
+      "id": "95e075a6537f70188c5e9d6b247bab1d527520d8",
+      "title": "Doz",
+      "link": "https://www.producthunt.com/products/doz-2",
+      "summary": "<p>\n            Medication reminders and tracker based on prescriptions \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/doz-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1122632?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-13T11:42:22+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "ebb6af6881dbc2855e2d27a858b24b4767204e28",
       "title": "Honor 600 series makes its debut in Malaysia on 22 April, featuring 200MP camera with AI Image to Video 2.0",
       "link": "https://soyacincau.com/2026/04/13/honor-600-series-malaysia-launch-200mp-camera-ai-to-video/",
@@ -1380,6 +1380,15 @@
       "published": "2026-04-13T09:31:15+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "181afbc7d09ffab62d6c5d1c94a7f9f0d3566bdb",
+      "title": "Donely",
+      "link": "https://www.producthunt.com/products/donely",
+      "summary": "<p>\n            Openclaw for teams to deploy business + client instances\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/donely?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1122339?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-13T03:20:31+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "af2cf4170a0d56255afc58709d3694200baa6df5",
@@ -1391,20 +1400,11 @@
       "category": "malaysia"
     },
     {
-      "id": "633023dd3c6aba7101b7b362f387bc3c2ef990d2",
-      "title": "LayerGen AI",
-      "link": "https://www.producthunt.com/products/layergen-ai",
-      "summary": "<p>\n            Generate print-ready D&amp;D miniatures from text or image\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/layergen-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1122253?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-12T22:41:44+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "286d4ce88dd800f1dc51938217b683b156ff5d2f",
-      "title": "Wafer Pass",
-      "link": "https://www.producthunt.com/products/wafer",
-      "summary": "<p>\n            Flat rate to the best LLMs for OpenClaw, Hermes Agent, etc.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wafer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1122125?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-12T19:34:43+00:00",
+      "id": "3fa1d2cc436db6223d1adaf86d5cb466ffd482c7",
+      "title": "CDK Insights",
+      "link": "https://www.producthunt.com/products/cdk-insights",
+      "summary": "<p>\n            Catch security issues in your AWS CDK before deployment\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cdk-insights?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1122281?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-12T23:58:38+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1454,11 +1454,11 @@
       "category": "events"
     },
     {
-      "id": "db6a2dbd8c6d89682280a484c3c6535eb282922a",
-      "title": "Carousels Generator",
-      "link": "https://www.producthunt.com/products/carousels-generator",
-      "summary": "<p>\n            From prompt to branded LinkedIn carousel powered by AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/carousels-generator?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1118811?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-08T12:54:27+00:00",
+      "id": "6a787bffbcc20b6dcd54ae13fa19cd3da40d145d",
+      "title": "Defter Notes 2.0.",
+      "link": "https://www.producthunt.com/products/defter-notes-2-0",
+      "summary": "<p>\n            Spatial thinking with handwriting\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/defter-notes-2-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1117955?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-07T15:21:11+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
