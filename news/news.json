@@ -1,17 +1,53 @@
 {
-  "generatedAt": "2026-04-18T16:32:10.278860+00:00",
+  "generatedAt": "2026-04-18T17:31:17.138452+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
-      "id": "875049214f3bf2824e9bf921fa6dfa99ac800661",
-      "title": "At least five killed in Kyiv as gunman opens fire and takes hostages",
+      "id": "6324a28d3fb0f4f8f394e04147995d58af5a0b47",
+      "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
       "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The country's interior minister says the attacker has been killed after a shoot-out with police.",
-      "published": "2026-04-18T16:08:42+00:00",
+      "summary": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say.",
+      "published": "2026-04-18T17:14:57+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "a3953118acf04fefcd628a5229cfe648f4b68730",
+      "title": "Salesforce announces Headless 360, an initiative that will give AI agents access to Salesforce's platform capabilities through APIs, MCP tools or CLI commands (Michael Nuñez/VentureBeat)",
+      "link": "http://www.techmeme.com/260418/p7#a260418p7",
+      "summary": "<a href=\"https://venturebeat.com/ai/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260418/i7.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260418/p7#a260418p7\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Michael Nu&ntilde;ez / <a href=\"https://venturebeat.com/\">VentureBeat</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://venturebeat.com/ai/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents\">Salesforce announces Headless 360, an initiative that will give AI agents access to Salesforce's platform capabilities through APIs, MCP tools or CLI commands</a></b></span>&nbsp; &mdash;&nbsp; Salesforce on Wednesday unveiled the most ambitious architectural transformation in its 27-year history, introducing &ldquo;Headless 360&rdquo; &hellip; </p>",
+      "published": "2026-04-18T17:05:08+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "7d064f651c020e1a3fb0fbc5faceac34c0a740d3",
+      "title": "HiPP recalls jarred baby food in Austria over contamination fears",
+      "link": "https://www.bbc.com/news/articles/c4gly4qkx1go?at_medium=RSS&at_campaign=rss",
+      "summary": "Police are investigating whether jars sold in Spar shops were criminally interfered with.",
+      "published": "2026-04-18T16:54:22+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "7172fba9bb7cdde50d2ef95a4e82b3a04e0ee92c",
+      "title": "Pope says 'tyrants' speech was not aimed at Trump",
+      "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
+      "published": "2026-04-18T16:44:39+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "45b9edfb51b2cf72f9f4fc408fa427360c2ff8b6",
+      "title": "Judge rules Trump administration violated the First Amendment in fight against ICE-tracking",
+      "link": "https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking",
+      "summary": "Jorge L. Alonso, a federal district court judge for the Northern District of Illinois, said that the Trump Administration violated the First Amendment when it pressured Facebook and Apple to remove ICE-tracking groups and apps. Judge Alonso granted the plaintiffs, Kassandra Rosado, who runs the ICE Sightings - Chicagoland Facebook group, and Kreisau Group, the [&#8230;]",
+      "published": "2026-04-18T16:42:25+00:00",
+      "source": "The Verge",
+      "category": "tech"
     },
     {
       "id": "4e5bea67c3cb55efd00812ad246bfd10cd18fc79",
@@ -53,7 +89,7 @@
       "id": "052fa832fae0d1d00af334146a38119a9f446094",
       "title": "French film star Nathalie Baye dies aged 77, media report",
       "link": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Macron said France had \"loved, dreamed and grown up\" with the stalwart of French cinema.",
+      "summary": "President Emmanuel Macron said France had \"loved, dreamed and grown up\" with the stalwart of French cinema.",
       "published": "2026-04-18T14:52:15+00:00",
       "source": "BBC News",
       "category": "world"
@@ -73,6 +109,15 @@
       "link": "https://www.bbc.com/news/articles/cqj81g5dxkyo?at_medium=RSS&at_campaign=rss",
       "summary": "The country's biggest musician Teddy Afro laments a lack of unity in the country on his new track.",
       "published": "2026-04-18T13:13:21+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "b40c6955ae0416ea1e57f9682d89202b7aa229f8",
+      "title": "Orbán's era was over in a flash and Hungary's next PM is a man in a hurry",
+      "link": "https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Péter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory.",
+      "published": "2026-04-18T13:00:44+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -527,11 +572,20 @@
       "category": "tech"
     },
     {
-      "id": "b61e1e0f350f30f173048e6b97e9509f17690e5b",
-      "title": "Singer D4vd arrested on suspicion of murdering teenage girl",
-      "link": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The remains of 14-year-old Celeste Rivas Hernandez were found in the singer's car last year.",
-      "published": "2026-04-17T22:46:44+00:00",
+      "id": "7d1292b66d9da0d938469f1aa6bd2a2c11ff7fbe",
+      "title": "What does it take to survive in the Arctic? These rangers have an idea",
+      "link": "https://www.bbc.com/news/videos/ckgepkp3zgjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC spent time with the Canadian military in the country's northernmost region - this is what they taught us about dealing with extreme conditions.",
+      "published": "2026-04-17T23:01:43+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "25d2d94c0df0aac9c7216a8bb5f4efd5886e8f35",
+      "title": "He made jazz under air raids - and built an Indian city's music scene",
+      "link": "https://www.bbc.com/news/articles/cgrlqxlwerqo?at_medium=RSS&at_campaign=rss",
+      "summary": "War correspondent, jazz bandleader and impresario, KC Sen shaped Kolkata’s music scene.",
+      "published": "2026-04-17T23:01:06+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -707,15 +761,6 @@
       "category": "deals"
     },
     {
-      "id": "d9845d030e3ee10472b7118147bc6362594e5bf3",
-      "title": "Sources: Meta intends to conduct a first wave of sweeping layoffs planned for this year on May 20, laying off ~10% of its global workforce, or ~8,000 employees (Reuters)",
-      "link": "http://www.techmeme.com/260417/p31#a260417p31",
-      "summary": "<a href=\"https://www.reuters.com/world/meta-targets-may-20-first-wave-layoffs-additional-cuts-later-2026-2026-04-17/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260417/i31.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260417/p31#a260417p31\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/meta-targets-may-20-first-wave-layoffs-additional-cuts-later-2026-2026-04-17/\">Sources: Meta intends to conduct a first wave of sweeping layoffs planned for this year on May 20, laying off ~10% of its global workforce, or ~8,000 employees</a></b></span>&nbsp; &mdash;&nbsp; Meta (META.O) intends to conduct a first wave of sweeping layoffs planned for this year on May 20, with more coming later &hellip; </p>",
-      "published": "2026-04-17T19:50:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "b2a2801879c33d854fd53f38d89e81bc5cbfc933",
       "title": "Amazon takes up to 55% off top protein brands: Optimum Nutrition, Pure Protein, more",
       "link": "https://9to5toys.com/2026/04/17/amazon-takes-up-to-55-off-top-protein-brands-optimum-nutrition-pure-protein-more/",
@@ -795,15 +840,6 @@
       "published": "2026-04-17T18:31:48+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "ebda0410a15c58f3e56ee2cbd3a80b4d1ba2be8e",
-      "title": "Thousands celebrate open-air Mass with Pope Leo in Cameroon - in pictures",
-      "link": "https://www.bbc.com/news/articles/cdj7kwn1d78o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pope Leo XIV is on his third day in Cameroon before he heads to Angola on Saturday.",
-      "published": "2026-04-17T18:25:12+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "ffbb7671caa5ddb65cd976909198558b1afcbbc9",
@@ -995,15 +1031,6 @@
       "category": "tech"
     },
     {
-      "id": "cd2cb5a834951ac4f6aee9594e17580fc8db1f7c",
-      "title": "Our new favorite budget phones",
-      "link": "https://www.theverge.com/tech/912286/our-new-favorite-budget-phones",
-      "summary": "Over the last few months, every phone maker under the sun has refreshed its lineups, especially at the affordable end, with no major budget phone launches now expected until next year. That made it the perfect time to go back and reassess The Verge's recommendations for the best budget phones you can buy right now. [&#8230;]",
-      "published": "2026-04-17T15:58:07+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "2308eecbf3753f08957bb3b0ed4030b02de4c576",
       "title": "Claude Design by Anthropic Labs",
       "link": "https://www.producthunt.com/products/claude",
@@ -1047,6 +1074,15 @@
       "published": "2026-04-17T14:36:36+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
+    },
+    {
+      "id": "4230c561e2299b6bfae50a28ecc417c7c80301c8",
+      "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
+      "link": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The halt to weeks of fighting is being celebrated in Lebanon, but it will be difficult to ensure it lasts.",
+      "published": "2026-04-17T14:31:51+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "8911786f1dac4f61560b224b0f7cc3f7ac516a4b",
@@ -1139,15 +1175,6 @@
       "category": "tech"
     },
     {
-      "id": "1b2c737fd94d7e9febdc5be7a490ee0b2cf42d40",
-      "title": "Palestinians hand over suspect in 1982 attack on Jewish restaurant in Paris",
-      "link": "https://www.bbc.com/news/articles/cj94pkyr9mpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hicham Harb is suspected of directing the attack in the Rue des Rosiers and acting as one of the gunmen who shot at diners.",
-      "published": "2026-04-17T12:42:06+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "429930ddecc78f636aa3e97d2915e1d91f679585",
       "title": "CapyPlan",
       "link": "https://www.producthunt.com/products/gentle-daily-planner-capyplan",
@@ -1182,15 +1209,6 @@
       "published": "2026-04-17T10:54:26+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "5ba4f7ae08de9f74ead32ac86696902a4a7955cc",
-      "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
-      "link": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cyber-security weaknesses.",
-      "published": "2026-04-17T10:22:46+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "459eafedaef91bab60e3c501971febd2a399d65f",
@@ -1256,15 +1274,6 @@
       "category": "malaysia"
     },
     {
-      "id": "8b0bd13908d14a5d95a372d14008bb36669f2eb3",
-      "title": "Runaway wolf finally captured after nine-day search in South Korea",
-      "link": "https://www.bbc.com/news/articles/cn08p8nzejko?at_medium=RSS&at_campaign=rss",
-      "summary": "The search has been marked by twists and turns, gripping South Korea and even inspiring a meme coin.",
-      "published": "2026-04-17T03:22:09+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "b3ee0cfd4c2a24af4ca6d7ca664f58d660560e06",
       "title": "After a saga of broken promises, a European rover finally has a ride to Mars",
       "link": "https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/",
@@ -1274,13 +1283,13 @@
       "category": "tech"
     },
     {
-      "id": "f167a00fdc4fcd0ec1c35d041b718d5d66babda8",
-      "title": "Iranian footballers say Australia has given them 'hope' for safe future",
-      "link": "https://www.bbc.com/news/articles/c624x4xgw6xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The duo had sought aslyum after their football team did not sing the national anthem during a match.",
-      "published": "2026-04-17T00:30:38+00:00",
-      "source": "BBC News",
-      "category": "world"
+      "id": "885f354b40d3bcb6060e7f46d2a2d99ee7a21655",
+      "title": "LIVE: wtf are agents buying?",
+      "link": "https://www.producthunt.com/products/live-wtf-are-agents-buying",
+      "summary": "<p>\n            Watch agents spend money in real time\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/live-wtf-are-agents-buying?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125730?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-17T00:49:34+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "5b600b81f2a8ecac0826593380d4e0fb0d8114f0",
@@ -1425,15 +1434,6 @@
       "published": "2026-04-15T10:13:04+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "3f0770a79db4ccd184491bae497a53c53c861b33",
-      "title": "Wingman City Guide",
-      "link": "https://www.producthunt.com/products/wingman-city-guide",
-      "summary": "<p>\n            Turn saved travel videos into real-world trips\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wingman-city-guide?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1124260?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-15T09:34:22+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "8e86538a5a51d6b522bebc28c00d39edabcdfa4f",
