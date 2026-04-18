@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-04-18T19:36:20.681721+00:00",
+  "generatedAt": "2026-04-18T20:29:03.332123+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "6f0f9fd4ccfcb60b3d62d1c76fcebddbbcb17f7f",
+      "title": "VC Ron Conway says he has a ‘rare form of cancer’",
+      "link": "https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/",
+      "summary": "Conway wrote that he “will be stepping back from some of my usual activities,” but he will “continue to support” founders backed by his firm SV Angel.",
+      "published": "2026-04-18T20:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "5d0a62f2c61a3d682701c22abddef1b4fecf00ea",
       "title": "AI chip startup Cerebras files for IPO",
@@ -12,6 +21,15 @@
       "published": "2026-04-18T19:19:11+00:00",
       "source": "TechCrunch",
       "category": "tech"
+    },
+    {
+      "id": "48913414be7cb426684bf4877a8a8c2259caf471",
+      "title": "All construction of Trump's White House ballroom can resume, appeals court says",
+      "link": "https://www.bbc.com/news/articles/clyx9xyy0j9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Construction at the White House is expected to continue until the next hearing, due in June.",
+      "published": "2026-04-18T19:18:40+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "784c57b590ab5c52a5c7c66aec83ed00171132fd",
@@ -345,6 +363,15 @@
       "published": "2026-04-18T11:50:31+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
+    },
+    {
+      "id": "65db85340db5d95bd654198bd5651aad86e001fe",
+      "title": "BBC reports from Lebanese border town as residents try to return home",
+      "link": "https://www.bbc.com/news/videos/cly90z9g5q3o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Arabic's correspondent Carine Torbey reports from the border town of Khiam, as the ceasefire between Israel and Hezbollah in southern Lebanon goes into its second day.",
+      "published": "2026-04-18T11:47:11+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "d365268d3ced05177ee6b1f6b33b3bbcae284daa",
@@ -860,24 +887,6 @@
       "category": "tech"
     },
     {
-      "id": "ffbb7671caa5ddb65cd976909198558b1afcbbc9",
-      "title": "Japan reveals new name for 40C-and-hotter days after blistering summer",
-      "link": "https://www.bbc.com/news/articles/crr185nx0n9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The term - kokushobi - translates to \"cruelly hot\", \"brutally hot\" or \"severely hot\", and comes after Japan's hottest summer on record.",
-      "published": "2026-04-17T18:19:43+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "3b5a2ed27c38687346f79f80d713f8ba4c199674",
-      "title": "Kanye West concert in Poland cancelled over antisemitic comments",
-      "link": "https://www.bbc.com/news/articles/czx95rl4ek5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK government blocked the rapper from entering the country over his history of making pro-Nazi and racist statements.",
-      "published": "2026-04-17T18:19:10+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "a6b6ee3060c0cd11a109facfba43d8b7a078dfc3",
       "title": "Satellite and drone images reveal big delays in US data center construction",
       "link": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/",
@@ -912,15 +921,6 @@
       "published": "2026-04-17T17:48:46+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "a5f5328a402000c63f4305722cb5c236654d65fc",
-      "title": "Suspected crime boss Daniel Kinahan arrested in Dubai",
-      "link": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&at_campaign=rss",
-      "summary": "Kinahan, in his 40s, was arrested in Dubai on foot of an arrest warrant issued by the Irish courts.",
-      "published": "2026-04-17T17:48:13+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "54d956a8ecdf97ec9ebc47786e3715c46d9b2ff4",
@@ -986,15 +986,6 @@
       "category": "tech"
     },
     {
-      "id": "573427bbe07f657aeb290adf93968a393e249aea",
-      "title": "'Mum is finally free!' Pensioner detained by ICE in US returns to France",
-      "link": "https://www.bbc.com/news/articles/ce84j0j6622o?at_medium=RSS&at_campaign=rss",
-      "summary": "Marie-Thérèse had moved to the US after reuniting with her long-lost love, an American man who died in January.",
-      "published": "2026-04-17T17:14:21+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "493ada7f3aa624872b663a856ab0c0cda4dd3847",
       "title": "Today’s Android app deals and freebies: Super Onion Boy 2, Kingdomino, Dungeon Tracer, more",
       "link": "https://9to5toys.com/2026/04/17/today-android-app-deals-super-boy-kingdomino-dungeon/",
@@ -1022,6 +1013,15 @@
       "category": "tech"
     },
     {
+      "id": "e0ab8af974c5b37a0d0b708c40d70a6347ee6804",
+      "title": "What next for South African opposition firebrand Malema after his five-year prison sentence?",
+      "link": "https://www.bbc.com/news/articles/cdxkd6rvk0do?at_medium=RSS&at_campaign=rss",
+      "summary": "The sentence raises huge questions marks over the political future of one of South Africa's most controversial politicians.",
+      "published": "2026-04-17T16:53:17+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "ade1896b3dc3895cc47a2a47c7a427d7ae5a726c",
       "title": "Meta's AI spending spree is helping make its Quest headsets more expensive",
       "link": "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
@@ -1029,15 +1029,6 @@
       "published": "2026-04-17T16:23:20+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "3117a09e788f0a1a6b7cd6fffc84a2724b5d609c",
-      "title": "Mugabe's son pleads guilty to pointing a gun in South Africa",
-      "link": "https://www.bbc.com/news/articles/cqxlp5pvr3wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Bellarmine Mugabe was arrested in February following the shooting of a 23-year-old man at his home in Johannesburg.",
-      "published": "2026-04-17T16:17:54+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "836db515b24ec2181f5923b9d8f0aff794906c78",
@@ -1076,6 +1067,15 @@
       "category": "tech"
     },
     {
+      "id": "ba24292adba3992eda3d0160f17e200d278be4c5",
+      "title": "What we know about the Israel-Lebanon ceasefire",
+      "link": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
+      "summary": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the US and Iran.",
+      "published": "2026-04-17T14:56:15+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "6a5a29e0624226e72f0e0f02049143814acc50bb",
       "title": "Lounge",
       "link": "https://www.producthunt.com/products/lounge-2",
@@ -1092,6 +1092,15 @@
       "published": "2026-04-17T14:36:36+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
+    },
+    {
+      "id": "4230c561e2299b6bfae50a28ecc417c7c80301c8",
+      "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
+      "link": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The halt to weeks of fighting is being celebrated in Lebanon, but it will be difficult to ensure it lasts.",
+      "published": "2026-04-17T14:31:51+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "8911786f1dac4f61560b224b0f7cc3f7ac516a4b",
@@ -1163,15 +1172,6 @@
       "summary": "Blue Origin will soon launch the third flight of its New Glenn rocket, this time with a reused booster.",
       "published": "2026-04-17T13:06:24+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "3b4d5ebc831ce255ea1250b8e7d727eff3645c5c",
-      "title": "SaySo is a new short-form video app that aims to restore users’ trust in news",
-      "link": "https://techcrunch.com/2026/04/17/sayso-is-a-new-short-form-video-app-that-aims-to-restore-users-trust-in-news/",
-      "summary": "Users are fed up with misinformation and AI slop cluttering their feeds. SaySo is a new short-form video app that delivers news from vetted creators and journalists.",
-      "published": "2026-04-17T13:00:00+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1274,6 +1274,15 @@
       "category": "malaysia"
     },
     {
+      "id": "185221a0564b66ff4a0ea8ba921914f8f1a12f39",
+      "title": "Canva AI 2.0",
+      "link": "https://www.producthunt.com/products/canva",
+      "summary": "<p>\n            AI that creates with you, and connects to your world\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/canva?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125834?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-17T04:47:46+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "b3ee0cfd4c2a24af4ca6d7ca664f58d660560e06",
       "title": "After a saga of broken promises, a European rover finally has a ride to Mars",
       "link": "https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/",
@@ -1364,11 +1373,11 @@
       "category": "tech"
     },
     {
-      "id": "9d8238188a186517d64758b4d429e1ef65e4e2a6",
-      "title": "Codex 2.0 by OpenAI",
-      "link": "https://www.producthunt.com/products/openai",
-      "summary": "<p>\n            Codex now runs apps, automates tasks, codes & more\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125523?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-16T17:18:10+00:00",
+      "id": "9b3618449a2a51b401a5dbf3370d49866503041d",
+      "title": "AI Mode in Chrome",
+      "link": "https://www.producthunt.com/products/ai-mode-in-chrome",
+      "summary": "<p>\n            Browse and search side-by-side, without switching tabs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ai-mode-in-chrome?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125518?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-16T17:10:18+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1398,15 +1407,6 @@
       "published": "2026-04-16T09:06:25+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "ef4d0cd390d993fe0d56dfcc98c2f174d83984f9",
-      "title": "E.Y.E. by Expert Chase",
-      "link": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
-      "summary": "<p>\n            Where human life runs with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/expert-chase-deleted-1107920?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1124657?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-15T19:46:19+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "aa69b411d730cd4c22a755aed9c65fcf65fcaec8",
