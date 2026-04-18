@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T13:57:49.109528+00:00",
+  "generatedAt": "2026-04-18T14:39:44.118843+00:00",
   "counts": {
     "total": 165
   },
@@ -41,24 +41,6 @@
       "category": "malaysia"
     },
     {
-      "id": "6ed3280b1604f1ca223539345f70742b67847e1b",
-      "title": "Europe’s far-right gathers in Milan seeking fresh momentum after Orbán defeat",
-      "link": "https://www.malaymail.com/news/world/2026/04/18/europes-far-right-gathers-in-milan-seeking-fresh-momentum-after-orban-defeat/216733",
-      "summary": "MILAN, April 18 &mdash; Far-right leaders from Europe gather in Milan today for a rally against irregular immigration an...",
-      "published": "2026-04-18T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "6e10820116932f423412e481731f64822fc11ecb",
-      "title": "‘Ramayana’: RM2b epic sets global ambitions with Ranbir Kapoor, Yash at CinemaCon (VIDEO)",
-      "link": "https://www.malaymail.com/news/showbiz/2026/04/18/ramayana-rm2b-epic-sets-global-ambitions-with-ranbir-kapoor-yash-at-cinemacon-video/216759",
-      "summary": "LAS VEGAS, April 18 &mdash; The filmmakers behind big-budget Hindu epic Ramayana&nbsp;are aiming to bring a classic Hind...",
-      "published": "2026-04-18T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "176171922fb85f5819310160f0b3546be32161ae",
       "title": "‘I don’t have the strength’: How robotic legs are helping Hong Kong fire survivors climb home",
       "link": "https://www.malaymail.com/news/tech-gadgets/2026/04/18/i-dont-have-the-strength-how-robotic-legs-are-helping-hong-kong-fire-survivors-climb-home/216744",
@@ -72,6 +54,24 @@
       "title": "‘Fifa is a non-profit organisation’: Infantino defends eye-watering World Cup ticket prices",
       "link": "https://www.malaymail.com/news/sports/2026/04/18/fifa-is-a-non-profit-organisation-infantino-defends-eye-watering-world-cup-ticket-prices/216737",
       "summary": "ZURICH, April 18 &mdash; Fifa president Gianni Infantino defended high ticket prices for this year&rsquo;s World Cup in...",
+      "published": "2026-04-18T13:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "6ed3280b1604f1ca223539345f70742b67847e1b",
+      "title": "Europe’s far-right gathers in Milan seeking fresh momentum after Orbán defeat",
+      "link": "https://www.malaymail.com/news/world/2026/04/18/europes-far-right-gathers-in-milan-seeking-fresh-momentum-after-orban-defeat/216733",
+      "summary": "MILAN, April 18 &mdash; Far-right leaders from Europe gather in Milan today for a rally against irregular immigration an...",
+      "published": "2026-04-18T13:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "6e10820116932f423412e481731f64822fc11ecb",
+      "title": "‘Ramayana’: RM2b epic sets global ambitions with Ranbir Kapoor, Yash at CinemaCon (VIDEO)",
+      "link": "https://www.malaymail.com/news/showbiz/2026/04/18/ramayana-rm2b-epic-sets-global-ambitions-with-ranbir-kapoor-yash-at-cinemacon-video/216759",
+      "summary": "LAS VEGAS, April 18 &mdash; The filmmakers behind big-budget Hindu epic Ramayana&nbsp;are aiming to bring a classic Hind...",
       "published": "2026-04-18T13:00:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
@@ -92,15 +92,6 @@
       "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
       "published": "2026-04-18T13:00:00+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "88d696ae58bf8dab705880be3aa055af7233a409",
-      "title": "Dyson’s handheld fan is more powerful and louder than I expected",
-      "link": "https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on",
-      "summary": "Two years ago I attended a picturesque outdoor wedding in August where the hot and humid weather had guests occasionally ducking into their cars to enjoy a blast of AC. Dyson’s new $99.99 handheld fan would have provided some much-needed relief then, although I’m not sure I would have been comfortable powering it up during [&#8230;]",
-      "published": "2026-04-18T13:00:00+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -986,6 +977,15 @@
       "category": "tech"
     },
     {
+      "id": "ae67acee07e4e88190c483539d428cc42c8006eb",
+      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
+      "summary": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up drive-thru service and \"encourage customers to add more food to their orders,\" according to The Wall Street Journal. Following a [&#8230;]",
+      "published": "2026-04-17T15:46:37+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
       "id": "2308eecbf3753f08957bb3b0ed4030b02de4c576",
       "title": "Claude Design by Anthropic Labs",
       "link": "https://www.producthunt.com/products/claude",
@@ -1265,6 +1265,15 @@
       "category": "events"
     },
     {
+      "id": "4cebe76f4efc928ec02e4b29ab6fde68ed92f1d2",
+      "title": "Studio – The AI-Native Media Workspace",
+      "link": "https://www.producthunt.com/products/coreviz-visual-ai-for-teams",
+      "summary": "<p>\n            Organize, tag and edit thousands of photos at once with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/coreviz-visual-ai-for-teams?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125819?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-17T04:19:40+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "8b0bd13908d14a5d95a372d14008bb36669f2eb3",
       "title": "Runaway wolf finally captured after nine-day search in South Korea",
       "link": "https://www.bbc.com/news/articles/cn08p8nzejko?at_medium=RSS&at_campaign=rss",
@@ -1373,15 +1382,6 @@
       "category": "world"
     },
     {
-      "id": "78ea90876fa76d934ba7fdfeb388b367f831ac4f",
-      "title": "VideoToFlip.com - Turn video to flipbook",
-      "link": "https://www.producthunt.com/products/videotoflip-make-a-flipbook-from-video",
-      "summary": "<p>\n            Create beautiful flipbooks with your video moments\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/videotoflip-make-a-flipbook-from-video?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125474?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-16T16:08:38+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "f8f28ea3eebcc322bc1f97b41876354d9b88b50c",
       "title": "Sarawak provides 25% discount on electricity bills from April to December 2026",
       "link": "https://soyacincau.com/2026/04/17/sarawak-provides-25-discount-on-electricity-bills-from-april-to-december-2026/",
@@ -1391,11 +1391,11 @@
       "category": "malaysia"
     },
     {
-      "id": "5f9e2c176370cc2dcb7d87960d69f8a09e359f0a",
-      "title": "CalendarPipe",
-      "link": "https://www.producthunt.com/products/calendarpipe",
-      "summary": "<p>\n            Programmable calendar sync for humans and AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/calendarpipe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125151?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-16T09:36:34+00:00",
+      "id": "85adb9db6c99757fd28a6a59de39dbcbaabbc657",
+      "title": "Zuflow",
+      "link": "https://www.producthunt.com/products/zuflow",
+      "summary": "<p>\n            Build 3D assemblies with visual logic\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zuflow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125271?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-16T12:05:16+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
