@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-04-18T18:37:47.101583+00:00",
+  "generatedAt": "2026-04-18T19:36:20.681721+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "5d0a62f2c61a3d682701c22abddef1b4fecf00ea",
+      "title": "AI chip startup Cerebras files for IPO",
+      "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+      "published": "2026-04-18T19:19:11+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "784c57b590ab5c52a5c7c66aec83ed00171132fd",
+      "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
+      "link": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss",
+      "summary": "The Mexican president says there were never tension over Spainish colonisation, which had become a thorny issue.",
+      "published": "2026-04-18T18:58:26+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "b40c6955ae0416ea1e57f9682d89202b7aa229f8",
       "title": "Orbán's era was over in a flash and Hungary's next PM is a man in a hurry",
@@ -1076,15 +1094,6 @@
       "category": "events"
     },
     {
-      "id": "4230c561e2299b6bfae50a28ecc417c7c80301c8",
-      "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
-      "link": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The halt to weeks of fighting is being celebrated in Lebanon, but it will be difficult to ensure it lasts.",
-      "published": "2026-04-17T14:31:51+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "8911786f1dac4f61560b224b0f7cc3f7ac516a4b",
       "title": "At RM35,888, OSIM’s New Chair Asks a Bold Question: Do You Want 5 Seats and a Boot, or 1 Seat and a French Audio System?",
       "link": "https://soyacincau.com/2026/04/17/osim-udream-ai-devialet-price-malaysia/",
@@ -1161,15 +1170,6 @@
       "title": "SaySo is a new short-form video app that aims to restore users’ trust in news",
       "link": "https://techcrunch.com/2026/04/17/sayso-is-a-new-short-form-video-app-that-aims-to-restore-users-trust-in-news/",
       "summary": "Users are fed up with misinformation and AI slop cluttering their feeds. SaySo is a new short-form video app that delivers news from vetted creators and journalists.",
-      "published": "2026-04-17T13:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "cab0a0f79ab75ccbeb0e3a0e8164e15fbed63d1f",
-      "title": "Loop raises $95M to build supply chain AI that predicts disruptions",
-      "link": "https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/",
-      "summary": "The San Francisco startup closed a Series C funding round led by Antonio Gracias' firm Valor, which is a major backer of xAI.",
       "published": "2026-04-17T13:00:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
@@ -1400,11 +1400,11 @@
       "category": "malaysia"
     },
     {
-      "id": "e13ee96cf813d361a9501811cd1ef0576348bf23",
-      "title": "Themery",
-      "link": "https://www.producthunt.com/products/themery",
-      "summary": "<p>\n            Build beautiful themes for your IDE\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/themery?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1124616?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-15T18:50:39+00:00",
+      "id": "ef4d0cd390d993fe0d56dfcc98c2f174d83984f9",
+      "title": "E.Y.E. by Expert Chase",
+      "link": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
+      "summary": "<p>\n            Where human life runs with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/expert-chase-deleted-1107920?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1124657?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-15T19:46:19+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
