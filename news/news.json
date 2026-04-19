@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-04-19T19:36:52.731438+00:00",
+  "generatedAt": "2026-04-19T20:29:56.618067+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "d65b8b868177069fd11afe79ea7f664772914f72",
+      "title": "Blue Origin successfully reused its New Glenn rocket",
+      "link": "https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket",
+      "summary": "Today's launch of AST SpaceMobile's BlueBird 7 satellite aboard Blue Origin's reusable New Glenn rocket was a partial success. The New Glenn touched down on its landing pad without incident, making it the second launch and landing for the first stage booster, and officially giving Jeff Bezos a reusable launch vehicle. Unfortunately for AST SpaceMobile, [&#8230;]",
+      "published": "2026-04-19T20:28:52+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "25412286e9306dbd266805536465cbf7a504525c",
+      "title": "Cloud development platform Vercel was hacked",
+      "link": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed [&#8230;]",
+      "published": "2026-04-19T19:54:52+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
     {
       "id": "c1d5c5adfd1243c883974287644c39aa1e67cb87",
       "title": "Vercel says it detected unauthorized access to its internal systems after a hacker using the ShinyHunters handle claimed a breach on BreachForums (Lawrence Abrams/BleepingComputer)",
@@ -21,6 +39,15 @@
       "published": "2026-04-19T19:30:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
+    },
+    {
+      "id": "3cf0270f1b1cad25be255b4e67bf6f30125a7325",
+      "title": "Ontario Premier Doug Ford agrees to sell $21m private jet following outcry",
+      "link": "https://www.bbc.com/news/articles/cdxd8g47wnlo?at_medium=RSS&at_campaign=rss",
+      "summary": "After confirming the purchase on Friday, Ford drew critcism from political opponents who called it a \"gravy plane\" and \"out of touch\".",
+      "published": "2026-04-19T19:25:22+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "c90471ba3854e1817f006246efa39570e72990d6",
@@ -626,15 +653,6 @@
       "category": "tech"
     },
     {
-      "id": "a462906f7cd32944462eb224eb803b58d6738512",
-      "title": "'The weapons were loud, but there was always music': Sudanese band play on through the war",
-      "link": "https://www.bbc.com/news/articles/cx2ddjv90v9o?at_medium=RSS&at_campaign=rss",
-      "summary": "One of Sudan's most popular bands, Aswat Almadina, recall being in the studio when the war broke out three years ago.",
-      "published": "2026-04-18T23:09:49+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "a2a26d31c524a088de0719c69ed81a83a51f2142",
       "title": "Harry and Meghan's trip felt like a royal tour - except many Aussies weren't interested",
       "link": "https://www.bbc.com/news/articles/cwyx014e2wqo?at_medium=RSS&at_campaign=rss",
@@ -824,24 +842,6 @@
       "category": "deals"
     },
     {
-      "id": "a8397dfb1fd31c9545dc55241e201f793bfee531",
-      "title": "There’s nothing like an RPG over vacation",
-      "link": "https://www.theverge.com/games/908358/people-of-note-pc-playstation-xbox-nintendo-switch-2",
-      "summary": "With a vacation comes a big choice: What game should I focus on during the trip? I thought about grinding out the harder levels of Super Meat Boy 3D, but I was looking for something more chill. I could have dabbled more with Slay the Spire II, but I already know that's a game I'll [&#8230;]",
-      "published": "2026-04-18T12:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "fdc04005bf9febdbcae6f9b921d60b8b44be67e7",
-      "title": "The AI apps are coming for your PC",
-      "link": "https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc",
-      "summary": "Hi, friends! Welcome to Installer No. 124, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, send me your Coachella fits, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about restaurant bread and GLP-1s and Lenny Rachitsky and [&#8230;]",
-      "published": "2026-04-18T12:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "ba39b444ad519be9b7c9519dddf912190c9aafdd",
       "title": "9to5Toys Steals Weekly – Belkin charging stand $35, collapsible 25W 3-in-1 $40, dual magnet Apple Watch band $30, more",
       "link": "https://9to5toys.com/2026/04/18/steals-weekly-apr-18/",
@@ -1002,15 +1002,6 @@
       "published": "2026-04-17T20:48:14+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "7101abf0b9ba44b25379eb42b1aeb28041e5cfdd",
-      "title": "Vercel Flags",
-      "link": "https://www.producthunt.com/products/vercel",
-      "summary": "<p>\n            Feature flags, targeting rules, rollouts. All from Vercel.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vercel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126372?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-17T20:40:20+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "e0f20a24f637bef09167fd8f4da57b75c0314672",
@@ -1202,6 +1193,15 @@
       "category": "tech"
     },
     {
+      "id": "2308eecbf3753f08957bb3b0ed4030b02de4c576",
+      "title": "Claude Design by Anthropic Labs",
+      "link": "https://www.producthunt.com/products/claude",
+      "summary": "<p>\n            Make prototypes, slides & one-pagers by talking to Claude\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126180?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-17T15:21:45+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "7f07aa3f41149b8f0964eac400907ebd28d7c01c",
       "title": "Gemini app for Mac",
       "link": "https://www.producthunt.com/products/gemini-6",
@@ -1238,15 +1238,6 @@
       "category": "malaysia"
     },
     {
-      "id": "9809764401414d0bf4635ae15d44f958d5da9881",
-      "title": "Hipocampus",
-      "link": "https://www.producthunt.com/products/hipocampus",
-      "summary": "<p>\n            AI operators that own team workflows\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hipocampus?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126115?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-17T13:49:04+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "a0f9046b953a26a67343df8fb89dcf86ba04c43b",
       "title": "Is Your Site Agent-Ready? by Cloudflare",
       "link": "https://www.producthunt.com/products/is-your-site-agent-ready",
@@ -1263,6 +1254,15 @@
       "published": "2026-04-17T13:06:24+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
+    },
+    {
+      "id": "429930ddecc78f636aa3e97d2915e1d91f679585",
+      "title": "CapyPlan",
+      "link": "https://www.producthunt.com/products/gentle-daily-planner-capyplan",
+      "summary": "<p>\n            Your no stress chearleader for tiny tasks\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gentle-daily-planner-capyplan?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126062?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-17T11:44:10+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "76356b42c4f1102feb18702fbc2e877d23546e8f",
@@ -1362,6 +1362,15 @@
       "published": "2026-04-16T20:43:46+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
+    },
+    {
+      "id": "581d6ae3e922130f5b73a7b101b908602c7bc674",
+      "title": "GPT‑Rosalind",
+      "link": "https://www.producthunt.com/products/openai",
+      "summary": "<p>\n            Purpose-built model for scientific research & drug discovery\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125599?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-16T19:38:44+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "f8f28ea3eebcc322bc1f97b41876354d9b88b50c",
@@ -1468,15 +1477,6 @@
       "link": "https://www.producthunt.com/products/wyndo",
       "summary": "<p>\n            Weather app that tells you when to walk, bike or eat outside\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wyndo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1119133?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-08T19:44:36+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "a70ccca223c7eb35a03c24f299dfefc715c6196e",
-      "title": "Claude Code Rendering",
-      "link": "https://www.producthunt.com/products/claude-code-no_flicker-mode",
-      "summary": "<p>\n            Mouse support and flicker-free rendering for Claude Code\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-code-no_flicker-mode?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1113838?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-02T03:29:58+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
