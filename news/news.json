@@ -1,15 +1,42 @@
 {
-  "generatedAt": "2026-04-19T17:29:59.274936+00:00",
+  "generatedAt": "2026-04-19T18:38:52.937457+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
+      "id": "f3d20e57caaa97ca845ea5ac950063e63ab4f173",
+      "title": "Sources say NSA is using Mythos Preview, and a source says it is also being used widely within the DoD, despite Anthropic's designation as a supply chain risk (Axios)",
+      "link": "http://www.techmeme.com/260419/p12#a260419p12",
+      "summary": "<a href=\"https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260419/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260419/p12#a260419p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon\">Sources say NSA is using Mythos Preview, and a source says it is also being used widely within the DoD, despite Anthropic's designation as a supply chain risk</a></b></span>&nbsp; &mdash;&nbsp; - The department moved in February to cut off Anthropic and force its vendors to follow suit.</p>",
+      "published": "2026-04-19T18:25:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "0c484b618810ba8e41a8bf0c4d82f38a2cdd56fc",
+      "title": "Palantir posts a 22-point summary of Alex Karp's book, promoting hard power, AI weapons and deterrence, while denouncing pluralism and \"regressive\" cultures (Anthony Ha/TechCrunch)",
+      "link": "http://www.techmeme.com/260419/p11#a260419p11",
+      "summary": "<a href=\"https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260419/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260419/p11#a260419p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Anthony Ha / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/\">Palantir posts a 22-point summary of Alex Karp's book, promoting hard power, AI weapons and deterrence, while denouncing pluralism and &ldquo;regressive&rdquo; cultures</a></b></span>&nbsp; &mdash;&nbsp; Surveillance and analytics company Palantir recently posted what it called a &ldquo;brief&rdquo; 22-point summary of CEO Alexander Karp's book &ldquo;The Technological Republic.&rdquo;</p>",
+      "published": "2026-04-19T18:10:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "9630c0ef73012b0354ae7be7ab2a71509138eae0",
+      "title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
+      "link": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities say the officers have been suspended and an investigation into their actions is under way.",
+      "published": "2026-04-19T17:48:41+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "c90471ba3854e1817f006246efa39570e72990d6",
       "title": "Eight children killed in Louisiana shooting, police say",
       "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
       "summary": "The children, aged from one to 14 years old, were killed in a shooting in Shreveport, Louisiana, which police are describing as a \"domestic disturbance\".",
-      "published": "2026-04-19T17:15:22+00:00",
+      "published": "2026-04-19T17:36:38+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -503,7 +530,7 @@
       "id": "feed4951729f7777a7593bdd71c9b6ccff59e75a",
       "title": "Tell",
       "link": "https://www.producthunt.com/products/tell-2",
-      "summary": "<p>\n            Mac widgets, made fun. \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tell-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1127088?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Mac widgets, made fun. \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tell-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1127088?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-19T03:36:20+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -539,7 +566,7 @@
       "id": "2f04c106c4246cb5ab2ebf49df0781d733a82998",
       "title": "Fixa.dev",
       "link": "https://www.producthunt.com/products/fixa-dev",
-      "summary": "<p>\n            A cloud-native AI agent that can build literally anything\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fixa-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1127045?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            A cloud-native AI agent that can build literally anything\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fixa-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1127045?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-19T01:16:40+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -608,15 +635,6 @@
       "category": "tech"
     },
     {
-      "id": "85cc0a224b91eb4739c70775b365092d522a5e97",
-      "title": "The South Korean authors rising above a tide of hate to become bestsellers",
-      "link": "https://www.bbc.com/news/articles/cm2rpl7xzpvo?at_medium=RSS&at_campaign=rss",
-      "summary": "A quiet revolution is unfolding as women writers carve out space in the wake of an anti-feminist backlash.",
-      "published": "2026-04-18T22:32:20+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "5cbbf2e9190ba81614be0a3c02b2c07087836c73",
       "title": "Tesla brings its robotaxi service to Dallas and Houston",
       "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
@@ -641,15 +659,6 @@
       "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030. The world's largest memory makers - Samsung, SK Hynix, and Micron - are all working to add [&#8230;]",
       "published": "2026-04-18T21:08:45+00:00",
       "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "6108817e246beda984cd4cf50a0a546c0bfdb0d3",
-      "title": "Anthropic's Mythos adds to concerns about rising workloads for open-source maintainers, as many have already been dealing with a \"crazy\" number of bug reports (Chris Stokel-Walker/Bloomberg)",
-      "link": "http://www.techmeme.com/260418/p9#a260418p9",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-17/anthropic-s-mythos-adds-strain-on-cybersecurity-teams-facing-ai-threats\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260418/i9.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260418/p9#a260418p9\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Chris Stokel-Walker / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-17/anthropic-s-mythos-adds-strain-on-cybersecurity-teams-facing-ai-threats\">Anthropic's Mythos adds to concerns about rising workloads for open-source maintainers, as many have already been dealing with a &ldquo;crazy&rdquo; number of bug reports</a></b></span>&nbsp; &mdash;&nbsp; Anthropic's Mythos and similar AI tools can identify threats and vulnerabilities faster than small teams can fix them, putting the internet at risk.</p>",
-      "published": "2026-04-18T20:30:01+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -678,15 +687,6 @@
       "published": "2026-04-18T19:18:40+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "6df73349eb442f19752415ac82b5f979adbde949",
-      "title": "Airbnb launches a pilot in NYC, LA, and other cities that lets users to select from a range of boutique hotels alongside private homes in a bid to boost growth (Stephanie Stacey/Financial Times)",
-      "link": "http://www.techmeme.com/260418/p8#a260418p8",
-      "summary": "<a href=\"https://www.ft.com/content/d0dff36f-fa29-4a88-93d0-e7be0a58eba9\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260418/i8.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260418/p8#a260418p8\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Stephanie Stacey / <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/d0dff36f-fa29-4a88-93d0-e7be0a58eba9\">Airbnb launches a pilot in NYC, LA, and other cities that lets users to select from a range of boutique hotels alongside private homes in a bid to boost growth</a></b></span>&nbsp; &mdash;&nbsp; Company expands accommodation options alongside home rentals but analysts warn of stiff competition</p>",
-      "published": "2026-04-18T18:20:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "6324a28d3fb0f4f8f394e04147995d58af5a0b47",
@@ -854,7 +854,7 @@
       "id": "e993d780d4f5fbcdbb873822a01944ec7d02ac62",
       "title": "Nibbo",
       "link": "https://www.producthunt.com/products/nibbo",
-      "summary": "<p>\n            Family hub with a 3D pet that grows as you get things done\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nibbo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126625?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Family hub with a 3D pet that grows as you get things done\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nibbo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1126625?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-18T08:57:49+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -863,7 +863,7 @@
       "id": "69348f1c2fabcdf443ab4c4c59e80fbf80f47d03",
       "title": "Creator OS",
       "link": "https://www.producthunt.com/products/creator-os-3",
-      "summary": "<p>\n            Stop missing comments on Instagram.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/creator-os-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126603?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Stop missing comments on Instagram.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/creator-os-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1126603?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-18T08:13:02+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -971,7 +971,7 @@
       "id": "7101abf0b9ba44b25379eb42b1aeb28041e5cfdd",
       "title": "Vercel Flags",
       "link": "https://www.producthunt.com/products/vercel",
-      "summary": "<p>\n            Feature flags, targeting rules, rollouts. All from Vercel.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vercel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126372?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Feature flags, targeting rules, rollouts. All from Vercel.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vercel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1126372?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-17T20:40:20+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1187,7 +1187,7 @@
       "id": "2308eecbf3753f08957bb3b0ed4030b02de4c576",
       "title": "Claude Design by Anthropic Labs",
       "link": "https://www.producthunt.com/products/claude",
-      "summary": "<p>\n            Make prototypes, slides & one-pagers by talking to Claude\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126180?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Make prototypes, slides & one-pagers by talking to Claude\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1126180?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-17T15:21:45+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1205,8 +1205,17 @@
       "id": "7f07aa3f41149b8f0964eac400907ebd28d7c01c",
       "title": "Gemini app for Mac",
       "link": "https://www.producthunt.com/products/gemini-6",
-      "summary": "<p>\n            Option + Space and Gemini is right there\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gemini-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126161?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Option + Space and Gemini is right there\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gemini-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1126161?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-17T14:59:13+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "6a5a29e0624226e72f0e0f02049143814acc50bb",
+      "title": "Lounge",
+      "link": "https://www.producthunt.com/products/lounge-2",
+      "summary": "<p>\n            macOS Tahoe menu bar manager with notch-aware icon control\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lounge-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1126154?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-17T14:46:56+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1223,7 +1232,7 @@
       "id": "a0f9046b953a26a67343df8fb89dcf86ba04c43b",
       "title": "Is Your Site Agent-Ready? by Cloudflare",
       "link": "https://www.producthunt.com/products/is-your-site-agent-ready",
-      "summary": "<p>\n            Scan your website to see how ready it is for AI agents. \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/is-your-site-agent-ready?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126098?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Scan your website to see how ready it is for AI agents. \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/is-your-site-agent-ready?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1126098?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-17T13:10:30+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1272,15 +1281,6 @@
       "published": "2026-04-17T10:21:50+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "b7358497d03bcc47d203a91e13635fd3978ae04d",
-      "title": ".MD This Page",
-      "link": "https://www.producthunt.com/products/md-this-page",
-      "summary": "<p>\n            Convert any page to clean Markdown instantly\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/md-this-page?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125963?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-17T08:39:10+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "aef03a997104217e6c93eca78c0efa29e701b296",
@@ -1346,15 +1346,6 @@
       "category": "tech"
     },
     {
-      "id": "57fac4983d5533ba62c7ab03bfc0fe5e4eeb9c81",
-      "title": "Android CLI",
-      "link": "https://www.producthunt.com/products/android-cli",
-      "summary": "<p>\n            Build high quality Android apps 3x faster using any agent \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/android-cli?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125579?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-16T19:10:08+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "e36b94233af3b19db22b2bd0c0e1885a4e383796",
       "title": "Ad firms settle with Trump FTC over claims they boycotted conservative media",
       "link": "https://arstechnica.com/tech-policy/2026/04/ad-firms-settle-with-trump-ftc-over-claims-they-boycotted-conservative-media/",
@@ -1376,7 +1367,7 @@
       "id": "924dbae1cf02b898111fc91f49d7a7ac34276b56",
       "title": "Perplexity Personal Computer",
       "link": "https://www.producthunt.com/products/perplexity-ai",
-      "summary": "<p>\n            Local files. Native apps. Voice control. Always on.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125462?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Local files. Native apps. Voice control. Always on.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1125462?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-16T15:54:07+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1394,7 +1385,7 @@
       "id": "aebdbfebb5783bd6cca1259e2cad1a9a263dec08",
       "title": "Verdent 2.0",
       "link": "https://www.producthunt.com/products/verdent-deck",
-      "summary": "<p>\n            Your AI Technical Cofounder\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/verdent-deck?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1124916?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Your AI Technical Cofounder\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/verdent-deck?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1124916?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-16T03:19:40+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1421,7 +1412,7 @@
       "id": "8e86538a5a51d6b522bebc28c00d39edabcdfa4f",
       "title": "Notebooks in Gemini",
       "link": "https://www.producthunt.com/products/google",
-      "summary": "<p>\n            Keep every project, chat, and file in one focused space\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1124025?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Keep every project, chat, and file in one focused space\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1124025?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-15T03:06:12+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1430,7 +1421,7 @@
       "id": "99fd4cefb8975d37626750ffd5cb3043a83a5c0d",
       "title": "Vantage in Google Labs",
       "link": "https://www.producthunt.com/products/google",
-      "summary": "<p>\n            Practice & assess future-ready skills with AI-simulated team\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123197?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Practice & assess future-ready skills with AI-simulated team\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1123197?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-14T04:56:33+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1439,7 +1430,7 @@
       "id": "bfa33022c12d2a764e57ea1e8cc41f4aac74b847",
       "title": "AGG Loop",
       "link": "https://www.producthunt.com/products/agg-loop",
-      "summary": "<p>\n            Secure, forever-free localhost tunnels (ex-Deposure).\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agg-loop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123061?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Secure, forever-free localhost tunnels (ex-Deposure).\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agg-loop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1123061?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-13T22:41:04+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1448,7 +1439,7 @@
       "id": "5f3457c51bb251f816da3650058b0a3d16621101",
       "title": "Avina",
       "link": "https://www.producthunt.com/products/avina-2",
-      "summary": "<p>\n            GTM Agents to Find and Reach Your Next Customer\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/avina-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1122798?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            GTM Agents to Find and Reach Your Next Customer\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/avina-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1122798?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-13T15:21:06+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1457,7 +1448,7 @@
       "id": "29444668703506255e3bddf431f230627dcdebb5",
       "title": "Assemble",
       "link": "https://www.producthunt.com/products/assemble-2",
-      "summary": "<p>\n            One /go command for AI work that remembers — zero runtime\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/assemble-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1122018?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            One /go command for AI work that remembers — zero runtime\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/assemble-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1122018?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-12T17:09:45+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1466,7 +1457,7 @@
       "id": "11b388c7a0568e4a34248d5b22dd72d892c17e0b",
       "title": "Paperweight",
       "link": "https://www.producthunt.com/products/paperweight",
-      "summary": "<p>\n            Cleanup your email and manage your digital footprint\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/paperweight?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1119706?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Cleanup your email and manage your digital footprint\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/paperweight?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1119706?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-09T11:33:50+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1475,17 +1466,26 @@
       "id": "5e7808bc652ff6a76a509335c8e576ad1685694c",
       "title": "Wyndo",
       "link": "https://www.producthunt.com/products/wyndo",
-      "summary": "<p>\n            Weather app that tells you when to walk, bike or eat outside\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wyndo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1119133?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Weather app that tells you when to walk, bike or eat outside\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wyndo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1119133?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-08T19:44:36+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "4c387be087aaf865464ee866085e6ea424f033e8",
-      "title": "ChatGPT Shopping",
-      "link": "https://www.producthunt.com/products/chatgpt-shopping",
-      "summary": "<p>\n            Richer, more visually immersive shopping experiences\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/chatgpt-shopping?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1106266?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-24T17:01:03+00:00",
+      "id": "a70ccca223c7eb35a03c24f299dfefc715c6196e",
+      "title": "Claude Code Rendering",
+      "link": "https://www.producthunt.com/products/claude-code-no_flicker-mode",
+      "summary": "<p>\n            Mouse support and flicker-free rendering for Claude Code\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-code-no_flicker-mode?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1113838?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-02T03:29:58+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "408118156ae67410e05992ff4582e214a01a7b6f",
+      "title": "CraftBot",
+      "link": "https://www.producthunt.com/products/craftbot",
+      "summary": "<p>\n            Self-hosted proactive AI assistant that lives locally\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/craftbot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1110300?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-29T03:14:09+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
