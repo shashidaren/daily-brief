@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-04-19T21:29:12.521306+00:00",
+  "generatedAt": "2026-04-19T22:28:38.898285+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "c90471ba3854e1817f006246efa39570e72990d6",
+      "title": "Eight children killed in Louisiana shooting, police say",
+      "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The children, aged from one to 14 years old, were killed in a shooting in Shreveport, Louisiana, which police are describing as a \"domestic disturbance\".",
+      "published": "2026-04-19T22:24:00+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "3a70491bcc507566ad8fcdae62b9b5c1afb88266",
+      "title": "Fermi CEO Toby Neugebauer is leaving the company, as the data center developer faces issues in securing an anchor tenant and construction delays (Amy Harder/Axios)",
+      "link": "http://www.techmeme.com/260419/p14#a260419p14",
+      "summary": "<a href=\"https://www.axios.com/2026/04/19/ai-data-center-project-troubles-texas\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260419/i14.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260419/p14#a260419p14\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Amy Harder / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/2026/04/19/ai-data-center-project-troubles-texas\">Fermi CEO Toby Neugebauer is leaving the company, as the data center developer faces issues in securing an anchor tenant and construction delays</a></b></span>&nbsp; &mdash;&nbsp; The world's largest data center project &mdash; backed by Trump allies and bearing his name &mdash; is stalled by delays and logistical hurdles that could stop it before it even starts.</p>",
+      "published": "2026-04-19T21:40:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "e17b71ec95d1bca90d6fd7f17c624affcea52c64",
+      "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
+      "link": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran has not commented on the incident, which comes as the US prepares for a second round of talks.",
+      "published": "2026-04-19T21:39:43+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "67df3740210b47a58c74c50e28532fc64099b3e8",
       "title": "OpenAI’s existential questions",
@@ -41,10 +68,10 @@
       "category": "tech"
     },
     {
-      "id": "c1d5c5adfd1243c883974287644c39aa1e67cb87",
-      "title": "Vercel says it detected unauthorized access to its internal systems after a hacker using the ShinyHunters handle claimed a breach on BreachForums (Lawrence Abrams/BleepingComputer)",
+      "id": "0cc2fad8bdeac554857fd082da074a0e82d759d8",
+      "title": "Vercel says its internal systems were accessed via a compromised third-party AI tool, after a user with a ShinyHunters handle claimed a breach on BreachForums (Lawrence Abrams/BleepingComputer)",
       "link": "http://www.techmeme.com/260419/p13#a260419p13",
-      "summary": "<a href=\"https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260419/i13.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260419/p13#a260419p13\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lawrence Abrams / <a href=\"https://www.bleepingcomputer.com/\">BleepingComputer</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/\">Vercel says it detected unauthorized access to its internal systems after a hacker using the ShinyHunters handle claimed a breach on BreachForums</a></b></span>&nbsp; &mdash;&nbsp; Cloud development platform Vercel has disclosed a security incident after threat actors claimed to have breached its systems and are attempting to sell stolen data.</p>",
+      "summary": "<a href=\"https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260419/i13.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260419/p13#a260419p13\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lawrence Abrams / <a href=\"https://www.bleepingcomputer.com/\">BleepingComputer</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/\">Vercel says its internal systems were accessed via a compromised third-party AI tool, after a user with a ShinyHunters handle claimed a breach on BreachForums</a></b></span>&nbsp; &mdash;&nbsp; Cloud development platform Vercel has disclosed a security incident after threat actors claimed to have breached its systems and are attempting to sell stolen data.</p>",
       "published": "2026-04-19T19:35:00+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -64,15 +91,6 @@
       "link": "https://www.bbc.com/news/articles/cdxd8g47wnlo?at_medium=RSS&at_campaign=rss",
       "summary": "After confirming the purchase on Friday, Ford drew critcism from political opponents who called it a \"gravy plane\" and \"out of touch\".",
       "published": "2026-04-19T19:25:22+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "c90471ba3854e1817f006246efa39570e72990d6",
-      "title": "Eight children killed in Louisiana shooting, police say",
-      "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The children, aged from one to 14 years old, were killed in a shooting in Shreveport, Louisiana, which police are describing as a \"domestic disturbance\".",
-      "published": "2026-04-19T19:22:44+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -662,15 +680,6 @@
       "category": "events"
     },
     {
-      "id": "fbde42ec403a507193946766e32d61e548af950d",
-      "title": "A US judge grants an injunction to makers of the banned \"ICE Sightings - Chicagoland\" Facebook group and Eyes Up mobile app, who say DHS and DOJ violated the 1A (Cheyenne MacDonald/Engadget)",
-      "link": "http://www.techmeme.com/260418/p11#a260418p11",
-      "summary": "<a href=\"https://www.engadget.com/apps/judge-sides-with-creators-of-banned-ice-trackers-who-allege-dhs-and-doj-violated-their-first-amendment-rights-191701801.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260418/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260418/p11#a260418p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Cheyenne MacDonald / <a href=\"https://www.engadget.com/\">Engadget</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.engadget.com/apps/judge-sides-with-creators-of-banned-ice-trackers-who-allege-dhs-and-doj-violated-their-first-amendment-rights-191701801.html\">A US judge grants an injunction to makers of the banned &ldquo;ICE Sightings - Chicagoland&rdquo; Facebook group and Eyes Up mobile app, who say DHS and DOJ violated the 1A</a></b></span>&nbsp; &mdash;&nbsp; Last year, the Trump administration demanded platforms remove a slew of apps that monitored ICE activity.</p>",
-      "published": "2026-04-18T23:50:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "7be919ec3435b98df6e0fcf5a24dfd843830e0a4",
       "title": "'Croatia, but cheaper': The quirky holiday spots on trend for 2026",
       "link": "https://www.bbc.com/news/articles/c747r0l8n7do?at_medium=RSS&at_campaign=rss",
@@ -685,15 +694,6 @@
       "link": "https://www.bbc.com/news/articles/cp86rrld6dyo?at_medium=RSS&at_campaign=rss",
       "summary": "The criminal case against the actor was dismissed in 2024.",
       "published": "2026-04-18T23:08:23+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "8bc0b1a2e05b1c442789065958d046caac263020",
-      "title": "Chernobyl's last wedding: The couple who married as a nuclear disaster unfolded",
-      "link": "https://www.bbc.com/news/articles/c0q92lx8q75o?at_medium=RSS&at_campaign=rss",
-      "summary": "Serhiy and Iryna married 40 years ago, unaware a nuclear reactor had exploded less than 3 miles away.",
-      "published": "2026-04-18T23:05:30+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -1013,6 +1013,15 @@
       "category": "deals"
     },
     {
+      "id": "7101abf0b9ba44b25379eb42b1aeb28041e5cfdd",
+      "title": "Vercel Flags",
+      "link": "https://www.producthunt.com/products/vercel",
+      "summary": "<p>\n            Feature flags, targeting rules, rollouts. All from Vercel.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vercel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126372?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-17T20:40:20+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "e0f20a24f637bef09167fd8f4da57b75c0314672",
       "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
       "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
@@ -1238,15 +1247,6 @@
       "category": "events"
     },
     {
-      "id": "a0f9046b953a26a67343df8fb89dcf86ba04c43b",
-      "title": "Is Your Site Agent-Ready? by Cloudflare",
-      "link": "https://www.producthunt.com/products/is-your-site-agent-ready",
-      "summary": "<p>\n            Scan your website to see how ready it is for AI agents. \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/is-your-site-agent-ready?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126098?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-17T13:10:30+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "e645d4b24a133e3a6540ceb18797d8773efa3b7b",
       "title": "Rocket Report: Starship V3 test-fired; ESA's tentative step toward crew launch",
       "link": "https://arstechnica.com/space/2026/04/rocket-report-starship-v3-test-fired-esas-tentative-step-toward-crew-launch/",
@@ -1290,6 +1290,15 @@
       "published": "2026-04-17T10:21:50+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
+    },
+    {
+      "id": "b7358497d03bcc47d203a91e13635fd3978ae04d",
+      "title": ".MD This Page",
+      "link": "https://www.producthunt.com/products/md-this-page",
+      "summary": "<p>\n            Convert any page to clean Markdown instantly\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/md-this-page?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125963?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-17T08:39:10+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "aef03a997104217e6c93eca78c0efa29e701b296",
@@ -1477,15 +1486,6 @@
       "link": "https://www.producthunt.com/products/wyndo",
       "summary": "<p>\n            Weather app that tells you when to walk, bike or eat outside\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wyndo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1119133?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-08T19:44:36+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "408118156ae67410e05992ff4582e214a01a7b6f",
-      "title": "CraftBot",
-      "link": "https://www.producthunt.com/products/craftbot",
-      "summary": "<p>\n            Self-hosted proactive AI assistant that lives locally\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/craftbot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1110300?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-29T03:14:09+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
