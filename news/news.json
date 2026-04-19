@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-04-19T20:29:56.618067+00:00",
+  "generatedAt": "2026-04-19T21:29:12.521306+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "67df3740210b47a58c74c50e28532fc64099b3e8",
+      "title": "OpenAI’s existential questions",
+      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "published": "2026-04-19T21:24:06+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "07933e525578118832207cc1b21190ea10bbb272",
+      "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
+      "link": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lyse Doucet speaks to Ebrahim Azizi, who says Iran \"will decide the right of passage\" through the crucial shipping route.",
+      "published": "2026-04-19T21:09:06+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "d65b8b868177069fd11afe79ea7f664772914f72",
       "title": "Blue Origin successfully reused its New Glenn rocket",
@@ -653,15 +671,6 @@
       "category": "tech"
     },
     {
-      "id": "a2a26d31c524a088de0719c69ed81a83a51f2142",
-      "title": "Harry and Meghan's trip felt like a royal tour - except many Aussies weren't interested",
-      "link": "https://www.bbc.com/news/articles/cwyx014e2wqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Sussexes' four-day tour of Australia appears to have fallen flat with some.",
-      "published": "2026-04-18T23:09:30+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "7be919ec3435b98df6e0fcf5a24dfd843830e0a4",
       "title": "'Croatia, but cheaper': The quirky holiday spots on trend for 2026",
       "link": "https://www.bbc.com/news/articles/c747r0l8n7do?at_medium=RSS&at_campaign=rss",
@@ -1166,15 +1175,6 @@
       "category": "tech"
     },
     {
-      "id": "9eb91aa5d23903c06ebf7a6054e646306ca1b9ea",
-      "title": "Zoom teams up with World to verify humans in meetings",
-      "link": "https://techcrunch.com/2026/04/17/zoom-teams-up-with-world-to-verify-humans-in-meeting/",
-      "summary": "Meeting platform Zoom has announced a partnership with World, Sam Altman's human ID verification company, to ensure that the people attending meetings are actually human and not AI-generated imposters. Zoom will show a badge on verified participants' tile.",
-      "published": "2026-04-17T17:15:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "85e57455606459d9c34866f68df8341f60d56f9b",
       "title": "Artemis II pilot talks about what it was really like to fly and land in Orion",
       "link": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation/",
@@ -1220,15 +1220,6 @@
       "category": "events"
     },
     {
-      "id": "311ff6093c711918d74374654c1547f31ebacbf8",
-      "title": "React Email 6.0 by Resend",
-      "link": "https://www.producthunt.com/products/react-email-6-0-resend",
-      "summary": "<p>\n            Build, customize, and ship emails — all from your own app\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/react-email-6-0-resend?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126148?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-17T14:36:36+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "8911786f1dac4f61560b224b0f7cc3f7ac516a4b",
       "title": "At RM35,888, OSIM’s New Chair Asks a Bold Question: Do You Want 5 Seats and a Boot, or 1 Seat and a French Audio System?",
       "link": "https://soyacincau.com/2026/04/17/osim-udream-ai-devialet-price-malaysia/",
@@ -1236,6 +1227,15 @@
       "published": "2026-04-17T14:24:47+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "9809764401414d0bf4635ae15d44f958d5da9881",
+      "title": "Hipocampus",
+      "link": "https://www.producthunt.com/products/hipocampus",
+      "summary": "<p>\n            AI operators that own team workflows\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hipocampus?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126115?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-17T13:49:04+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "a0f9046b953a26a67343df8fb89dcf86ba04c43b",
@@ -1254,15 +1254,6 @@
       "published": "2026-04-17T13:06:24+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "429930ddecc78f636aa3e97d2915e1d91f679585",
-      "title": "CapyPlan",
-      "link": "https://www.producthunt.com/products/gentle-daily-planner-capyplan",
-      "summary": "<p>\n            Your no stress chearleader for tiny tasks\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gentle-daily-planner-capyplan?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126062?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-17T11:44:10+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "76356b42c4f1102feb18702fbc2e877d23546e8f",
@@ -1364,11 +1355,11 @@
       "category": "tech"
     },
     {
-      "id": "581d6ae3e922130f5b73a7b101b908602c7bc674",
-      "title": "GPT‑Rosalind",
-      "link": "https://www.producthunt.com/products/openai",
-      "summary": "<p>\n            Purpose-built model for scientific research & drug discovery\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125599?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-16T19:38:44+00:00",
+      "id": "57fac4983d5533ba62c7ab03bfc0fe5e4eeb9c81",
+      "title": "Android CLI",
+      "link": "https://www.producthunt.com/products/android-cli",
+      "summary": "<p>\n            Build high quality Android apps 3x faster using any agent \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/android-cli?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125579?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-16T19:10:08+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1427,6 +1418,15 @@
       "category": "malaysia"
     },
     {
+      "id": "8e86538a5a51d6b522bebc28c00d39edabcdfa4f",
+      "title": "Notebooks in Gemini",
+      "link": "https://www.producthunt.com/products/google",
+      "summary": "<p>\n            Keep every project, chat, and file in one focused space\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1124025?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-15T03:06:12+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "99fd4cefb8975d37626750ffd5cb3043a83a5c0d",
       "title": "Vantage in Google Labs",
       "link": "https://www.producthunt.com/products/google",
@@ -1481,11 +1481,11 @@
       "category": "events"
     },
     {
-      "id": "4c387be087aaf865464ee866085e6ea424f033e8",
-      "title": "ChatGPT Shopping",
-      "link": "https://www.producthunt.com/products/chatgpt-shopping",
-      "summary": "<p>\n            Richer, more visually immersive shopping experiences\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/chatgpt-shopping?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1106266?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-24T17:01:03+00:00",
+      "id": "408118156ae67410e05992ff4582e214a01a7b6f",
+      "title": "CraftBot",
+      "link": "https://www.producthunt.com/products/craftbot",
+      "summary": "<p>\n            Self-hosted proactive AI assistant that lives locally\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/craftbot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1110300?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-29T03:14:09+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
