@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-04-19T15:32:10.231314+00:00",
+  "generatedAt": "2026-04-19T16:32:05.169080+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "9b014db884f064bce02208d782161054c4b81853",
+      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+      "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+      "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+      "published": "2026-04-19T16:30:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "b4e46bd8b5310e63f6c70ebecd86d06a57381861",
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "published": "2026-04-19T16:01:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "a06f4dbe89cc02ec6df3d029c63258a4023327d2",
+      "title": "Thousands of Parisians evacuated as WW2 bomb detonated",
+      "link": "https://www.bbc.com/news/articles/c4gxv3874vjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Residents within a 450m radius of the device were told to leave their homes while it was neutralised.",
+      "published": "2026-04-19T15:50:48+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "ee4e47ccd27198e582f3a3d3f1d498e9838f078a",
       "title": "Sources: the glowing \"26\" in Apple's WWDC invite is teasing a revamped Siri, memory shortages may push Mac Studio and touch MacBook Pro launches by a few months (Mark Gurman/Bloomberg)",
@@ -572,15 +599,6 @@
       "category": "tech"
     },
     {
-      "id": "85cc0a224b91eb4739c70775b365092d522a5e97",
-      "title": "The South Korean authors rising above a tide of hate to become bestsellers",
-      "link": "https://www.bbc.com/news/articles/cm2rpl7xzpvo?at_medium=RSS&at_campaign=rss",
-      "summary": "A quiet revolution is unfolding as women writers carve out space in the wake of an anti-feminist backlash.",
-      "published": "2026-04-18T22:32:20+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "5cbbf2e9190ba81614be0a3c02b2c07087836c73",
       "title": "Tesla brings its robotaxi service to Dallas and Houston",
       "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
@@ -849,6 +867,15 @@
       "published": "2026-04-18T07:57:53+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
+    },
+    {
+      "id": "f076594430b23a183dbd04c9ba22a3d0e9e2b2b2",
+      "title": "Grok Voice API",
+      "link": "https://www.producthunt.com/products/grok",
+      "summary": "<p>\n            Fast, accurate STT and TTS APIs at the best price\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/grok?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126543?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-18T06:11:31+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "0859064b9620be2c0b8a23a31f94849f8d986572",
@@ -1175,15 +1202,6 @@
       "category": "tech"
     },
     {
-      "id": "2eef986bc9116aace2a7ca5810c80a853c3eee3c",
-      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
-      "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-      "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
-      "published": "2026-04-17T15:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "7f07aa3f41149b8f0964eac400907ebd28d7c01c",
       "title": "Gemini app for Mac",
       "link": "https://www.producthunt.com/products/gemini-6",
@@ -1193,11 +1211,11 @@
       "category": "events"
     },
     {
-      "id": "6a5a29e0624226e72f0e0f02049143814acc50bb",
-      "title": "Lounge",
-      "link": "https://www.producthunt.com/products/lounge-2",
-      "summary": "<p>\n            macOS Tahoe menu bar manager with notch-aware icon control\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lounge-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126154?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-17T14:46:56+00:00",
+      "id": "311ff6093c711918d74374654c1547f31ebacbf8",
+      "title": "React Email 6.0 by Resend",
+      "link": "https://www.producthunt.com/products/react-email-6-0-resend",
+      "summary": "<p>\n            Build, customize, and ship emails — all from your own app\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/react-email-6-0-resend?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126148?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-17T14:36:36+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1209,24 +1227,6 @@
       "published": "2026-04-17T14:24:47+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "0adcda60d1b0c974def4840e6878f08763a0f135",
-      "title": "With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance",
-      "link": "https://techcrunch.com/2026/04/17/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/",
-      "summary": "Some lawmakers are calling for widespread reforms following years of surveillance scandals and abuses across successive U.S. administrations. But even if the spy law known as Section 702 expires in April, the government's spy powers will not automatically lapse.",
-      "published": "2026-04-17T14:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "9809764401414d0bf4635ae15d44f958d5da9881",
-      "title": "Hipocampus",
-      "link": "https://www.producthunt.com/products/hipocampus",
-      "summary": "<p>\n            AI operators that own team workflows\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hipocampus?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126115?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-17T13:49:04+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "a0f9046b953a26a67343df8fb89dcf86ba04c43b",
@@ -1281,15 +1281,6 @@
       "published": "2026-04-17T10:21:50+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "b7358497d03bcc47d203a91e13635fd3978ae04d",
-      "title": ".MD This Page",
-      "link": "https://www.producthunt.com/products/md-this-page",
-      "summary": "<p>\n            Convert any page to clean Markdown instantly\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/md-this-page?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125963?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-17T08:39:10+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "aef03a997104217e6c93eca78c0efa29e701b296",
@@ -1486,6 +1477,15 @@
       "link": "https://www.producthunt.com/products/wyndo",
       "summary": "<p>\n            Weather app that tells you when to walk, bike or eat outside\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wyndo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1119133?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-08T19:44:36+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "408118156ae67410e05992ff4582e214a01a7b6f",
+      "title": "CraftBot",
+      "link": "https://www.producthunt.com/products/craftbot",
+      "summary": "<p>\n            Self-hosted proactive AI assistant that lives locally\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/craftbot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1110300?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-29T03:14:09+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
