@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-04-19T16:32:05.169080+00:00",
+  "generatedAt": "2026-04-19T17:29:59.274936+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "c90471ba3854e1817f006246efa39570e72990d6",
+      "title": "Eight children killed in Louisiana shooting, police say",
+      "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The children, aged from one to 14 years old, were killed in a shooting in Shreveport, Louisiana, which police are describing as a \"domestic disturbance\".",
+      "published": "2026-04-19T17:15:22+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "9b014db884f064bce02208d782161054c4b81853",
       "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
@@ -599,6 +608,15 @@
       "category": "tech"
     },
     {
+      "id": "85cc0a224b91eb4739c70775b365092d522a5e97",
+      "title": "The South Korean authors rising above a tide of hate to become bestsellers",
+      "link": "https://www.bbc.com/news/articles/cm2rpl7xzpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "A quiet revolution is unfolding as women writers carve out space in the wake of an anti-feminist backlash.",
+      "published": "2026-04-18T22:32:20+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "5cbbf2e9190ba81614be0a3c02b2c07087836c73",
       "title": "Tesla brings its robotaxi service to Dallas and Houston",
       "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
@@ -833,15 +851,6 @@
       "category": "deals"
     },
     {
-      "id": "fdf918c2498e937108598e5d0d98bc15e760e12f",
-      "title": "DR Congo accepts first set of deportees from the US",
-      "link": "https://www.bbc.com/news/articles/cp84rye3lg8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Congolese government stresses those expelled from the US are only in the country temporarily.",
-      "published": "2026-04-18T09:18:16+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "e993d780d4f5fbcdbb873822a01944ec7d02ac62",
       "title": "Nibbo",
       "link": "https://www.producthunt.com/products/nibbo",
@@ -867,15 +876,6 @@
       "published": "2026-04-18T07:57:53+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "f076594430b23a183dbd04c9ba22a3d0e9e2b2b2",
-      "title": "Grok Voice API",
-      "link": "https://www.producthunt.com/products/grok",
-      "summary": "<p>\n            Fast, accurate STT and TTS APIs at the best price\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/grok?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126543?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-18T06:11:31+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "0859064b9620be2c0b8a23a31f94849f8d986572",
@@ -923,15 +923,6 @@
       "category": "deals"
     },
     {
-      "id": "2c384672f643fbf85628e5ca8fcce0b68f0855eb",
-      "title": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
-      "link": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
-      "summary": "The discussion is a sign the AI firm's technology may be too critical for even the US government to do without.",
-      "published": "2026-04-18T00:37:06+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "0969a924e799bde868c731d102c787a28cb0b6ed",
       "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
       "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
@@ -975,6 +966,15 @@
       "published": "2026-04-17T20:48:14+00:00",
       "source": "9to5Toys",
       "category": "deals"
+    },
+    {
+      "id": "7101abf0b9ba44b25379eb42b1aeb28041e5cfdd",
+      "title": "Vercel Flags",
+      "link": "https://www.producthunt.com/products/vercel",
+      "summary": "<p>\n            Feature flags, targeting rules, rollouts. All from Vercel.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vercel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126372?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-17T20:40:20+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "e0f20a24f637bef09167fd8f4da57b75c0314672",
@@ -1211,15 +1211,6 @@
       "category": "events"
     },
     {
-      "id": "311ff6093c711918d74374654c1547f31ebacbf8",
-      "title": "React Email 6.0 by Resend",
-      "link": "https://www.producthunt.com/products/react-email-6-0-resend",
-      "summary": "<p>\n            Build, customize, and ship emails — all from your own app\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/react-email-6-0-resend?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126148?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-17T14:36:36+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "8911786f1dac4f61560b224b0f7cc3f7ac516a4b",
       "title": "At RM35,888, OSIM’s New Chair Asks a Bold Question: Do You Want 5 Seats and a Boot, or 1 Seat and a French Audio System?",
       "link": "https://soyacincau.com/2026/04/17/osim-udream-ai-devialet-price-malaysia/",
@@ -1281,6 +1272,15 @@
       "published": "2026-04-17T10:21:50+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
+    },
+    {
+      "id": "b7358497d03bcc47d203a91e13635fd3978ae04d",
+      "title": ".MD This Page",
+      "link": "https://www.producthunt.com/products/md-this-page",
+      "summary": "<p>\n            Convert any page to clean Markdown instantly\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/md-this-page?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125963?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-17T08:39:10+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "aef03a997104217e6c93eca78c0efa29e701b296",
@@ -1346,11 +1346,11 @@
       "category": "tech"
     },
     {
-      "id": "581d6ae3e922130f5b73a7b101b908602c7bc674",
-      "title": "GPT‑Rosalind",
-      "link": "https://www.producthunt.com/products/openai",
-      "summary": "<p>\n            Purpose-built model for scientific research & drug discovery\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125599?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-16T19:38:44+00:00",
+      "id": "57fac4983d5533ba62c7ab03bfc0fe5e4eeb9c81",
+      "title": "Android CLI",
+      "link": "https://www.producthunt.com/products/android-cli",
+      "summary": "<p>\n            Build high quality Android apps 3x faster using any agent \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/android-cli?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125579?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-16T19:10:08+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1481,11 +1481,11 @@
       "category": "events"
     },
     {
-      "id": "408118156ae67410e05992ff4582e214a01a7b6f",
-      "title": "CraftBot",
-      "link": "https://www.producthunt.com/products/craftbot",
-      "summary": "<p>\n            Self-hosted proactive AI assistant that lives locally\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/craftbot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1110300?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-29T03:14:09+00:00",
+      "id": "4c387be087aaf865464ee866085e6ea424f033e8",
+      "title": "ChatGPT Shopping",
+      "link": "https://www.producthunt.com/products/chatgpt-shopping",
+      "summary": "<p>\n            Richer, more visually immersive shopping experiences\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/chatgpt-shopping?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1106266?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-24T17:01:03+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
