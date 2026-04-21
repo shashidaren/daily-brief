@@ -1,9 +1,198 @@
 {
-  "generatedAt": "2026-04-21T17:55:33.344170+00:00",
+  "generatedAt": "2026-04-21T19:03:40.521824+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "a2b629209212d683dd6f17ec0934e4491eb07743",
+      "title": "SusHi Tech Tokyo isn’t a conference — it’s a deal room with 60,000 people",
+      "link": "https://techcrunch.com/2026/04/21/sushi-tech-tokyo-isnt-a-conference-its-a-deal-room-with-60000-people/",
+      "summary": "When 60,000 attendees descend on Tokyo Big Sight April 27–29, the headline numbers are hard to ignore: 750 startup exhibitors, 151 sessions, city leaders from 49 countries. But the stat that tells you what kind of event this actually is? It's 10,000 facilitated business meetings — brokered, booked, and tracked before most attendees even land.",
+      "published": "2026-04-21T19:02:35+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "076c95d64d2307f2b1dbb433ecafa0d768cdb720",
+      "title": "AI backlash is coming for elections",
+      "link": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
+      "summary": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning violence. But look at the issues that most campaigns are focused [&#8230;]",
+      "published": "2026-04-21T19:00:05+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "36af8b0df5cb70e31411b5ec8a68e12fb00f82fd",
+      "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+      "link": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+      "summary": "ChatGPT Images 2.0, the newest image generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
+      "published": "2026-04-21T19:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "2c7a23c72d3bf5d0192dd78c73926708e6ff64aa",
+      "title": "OpenAI’s updated image generator can now pull information from the web",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
+      "summary": "OpenAI is rolling out the latest version of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt. In a blog post, OpenAI says ChatGPT Images 2.0 can now create more \"sophisticated\" images, with improvements to its ability to follow instructions, [&#8230;]",
+      "published": "2026-04-21T19:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "bed8e514bf944df3e719b1ac1ab6bc3291e6f150",
+      "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
+      "link": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+      "summary": "The AI industry's mudslinging continues.",
+      "published": "2026-04-21T18:51:52+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "8336f9feff14d01b245eace29dfc659813cfa063",
+      "title": "Framework’s Laptop 13 Pro launch event",
+      "link": "https://www.theverge.com/gadgets/916168/framework-next-gen-laptop-13-pro-event",
+      "summary": "Framework CEO Nirav Patel is showing off his company&#8217;s latest modular, repairable laptops in San Francisco today. The headliner is the new Laptop 13 Pro, which is its first machine fully machined out of aluminum, and Patel says its goal is to be “the MacBook Pro for Linux users.” Read on below for all the [&#8230;]",
+      "published": "2026-04-21T18:41:08+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "590f2c473cf756d3f95a9a823485e5c0735ef542",
+      "title": "LG officially launches ‘world’s thinnest true wireless OLED TV’ – 2026 W6 Wallpaper now live",
+      "link": "https://9to5toys.com/2026/04/21/lg-launches-worlds-thinnest-true-wireless-oled-tv-wallpaper/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/LG-2026-OLED-EVO-W6-Wallpaper-TV.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Just after the new and much more affordable <a href=\"https://9to5toys.com/2026/04/15/amazon-ember-artline-tv-preorder/\">Amazon Ember Artline frame TVs up for pre-order</a>, today LG is officially announcing pricing on its brand new high-end <a href=\"https://howl.link/79dr9frybmttl\">wireless W6 Wallpaper OLED TV</a>. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/21/lg-launches-worlds-thinnest-true-wireless-oled-tv-wallpaper/#more-1205400\">more…</a>",
+      "published": "2026-04-21T18:40:12+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "8fcf2a715c56c4f218e7f79e895c074f50981eac",
+      "title": "X makes it 1,900 percent more expensive to post links",
+      "link": "https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme",
+      "summary": "Posting links to X through custom social media software just got a lot more expensive. On Monday, X significantly increased how much it costs to post a URL via the X API, which is what third-party tools use to hook into the platform. It now costs $0.20 when a link is posted, up from $0.01. [&#8230;]",
+      "published": "2026-04-21T18:27:18+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "d71c945fd7bffac5a28d8a7fbf4eb0778c988385",
+      "title": "Clearance deal on 24GB M4 MacBook Air back in stock at $300 under list price",
+      "link": "https://9to5toys.com/2026/04/21/clearance-deal-24gb-m4-macbook-air/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Apple-M4-MacBook-Air-colors.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>While we are still tracking some $150 price drops on the brand new M5 MacBook Air, we just spotted with some additional stock on the M4 model back at clearance pricing. You’ll now find the 24GB M4 at $300 under its original list and $200 under the most comparable M5. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/21/clearance-deal-24gb-m4-macbook-air/#more-1205397\">more…</a>",
+      "published": "2026-04-21T18:20:53+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "cbcd973fecbae3d56bff8a8b31ecb160f638e84f",
+      "title": "Microsoft removes Call of Duty from Game Pass, lowers subscription pricing",
+      "link": "https://arstechnica.com/gaming/2026/04/microsofts-game-pass-gets-cheaper-loses-launch-day-call-of-duty-access/",
+      "summary": "New Xbox CEO says subscription \"has become too expensive for too many players.\"",
+      "published": "2026-04-21T18:18:27+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "87d22de46268d2f71ff841fdd036a2bd11ab2ae1",
+      "title": "Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop",
+      "link": "https://arstechnica.com/gadgets/2026/04/framework-laptop-13-pro-is-the-first-major-revision-to-the-original-framework-laptop/",
+      "summary": "Laptop includes Core Ultra Series 3 CPUs, a bigger battery, and a touchscreen.",
+      "published": "2026-04-21T18:15:15+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "9f521d02f077b0f24718a229b623a04d48a94bb4",
+      "title": "Framework Laptop 16 upgrades make it look less like an unfinished prototype",
+      "link": "https://arstechnica.com/gadgets/2026/04/framework-laptop-16-upgrades-make-it-look-less-like-an-unfinished-prototype/",
+      "summary": "A lower-end Ryzen AI 340 CPU option will also bring the price down, for now.",
+      "published": "2026-04-21T18:15:03+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "4b4e4c1caa5ea9319a40305f4cc76aaea26c848d",
+      "title": "Drop UGREEN’s 2-in-1 USB-C SD card reader in your tech bin while it’s just $6.50 Prime shipped",
+      "link": "https://9to5toys.com/2026/04/21/ugreen-2-in-1-sd-card-reader/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/UGREEN-2-in-1-SD-Card-Reader.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">UGREEN 2-in-1 SD Card Reader</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $6.50 (Reg. $10)</h3>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A red background with white lines\" class=\"wp-image-1205393 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/UGREEN-2-in-1-SD-Card-Reader-chart.png\" width=\"968\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p><span>Like it or not, memory cards aren’t going anywhere anytime soon. A lot of devices still rely on them, with security cameras being top of mind for me. I keep a reader around the house so I can easily access and pull some of the 24/7 footage I have if I ever need or want to.</span></p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/21/ugreen-2-in-1-sd-card-reader/#more-1205392\">more…</a>",
+      "published": "2026-04-21T18:14:19+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "883ed29331c553271f66c842c77042356130824d",
+      "title": "Grab adidas’ Electric Stadium Sackpack for $20, Lightweight Half-Zip Top at 50% off, X_PLR Path Shoes $52, more",
+      "link": "https://9to5toys.com/2026/04/21/adidas-electric-stadium-sackpack/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/adidas-Apr-21.webp?w=1600\" /></div><p>It’s time to scope out some new adidas markdowns with several top picks down below. You know the drill, if you want even more deals, peruse <a href=\"https://howl.link/er3tp8och7rh9\">the entire sale page here</a>. Highlights this time around include the Sportswear Electric Stadium Sackpack, Performance Defender 5 Medium Duffel Bag,  X_PLR Path Shoes, and more. Just note that you can also score <a href=\"https://9to5toys.com/2026/04/21/nike-dunk-low-retro-se-mens-shoes/\">fresh Nike markdowns from $23</a>, <a href=\"https://9to5toys.com/2026/04/21/jmierr-casual-cargo-jogger-pants/\">cargo joggers from $15</a>, and much more in <a href=\"https://9to5toys.com/guides/apparel/\">our apparel guide</a>. Keep on scrolling to find today’s adidas top picks.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/21/adidas-electric-stadium-sackpack/#more-1205387\">more…</a>",
+      "published": "2026-04-21T18:08:07+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "c018bfe408eb3812c97bc616f062b7e1f499c54b",
+      "title": "Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’",
+      "link": "https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users",
+      "summary": "Every time we review a Framework laptop, we find familiar pros and cons. They're truly upgradable, incredibly repairable, but we always wish the battery lasted longer. We always wish the build quality were top notch. Today, Framework is announcing what could be the answer: the Framework Laptop 13 Pro. It's the company's first laptop to [&#8230;]",
+      "published": "2026-04-21T18:08:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "85a87faf16323f5e1915334f1438af33f732549e",
+      "title": "Framework’s first eGPUs turn its laptop into a desktop PC",
+      "link": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16",
+      "summary": "Remember when Framework made the first laptop where you can easily upgrade its entire internal video card in three minutes flat? The company's getting into the external graphics game, too. As promised last August, you'll be able to turn the Framework Laptop 16's GPU modules into external ones instead. Or, you can plug in a [&#8230;]",
+      "published": "2026-04-21T18:07:24+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "38536d5361025f7a96473cf5f26c31c5f784fb5d",
+      "title": "Framework is building a better couch keyboard because everyone hates the Logitech one",
+      "link": "https://www.theverge.com/tech/915497/framework-is-building-a-better-couch-keyboard-because-everyone-hates-the-logitech-one",
+      "summary": "If you have a wireless keyboard with a touchpad that lets you control your PC from across the room, chances are it's a Logitech K400. Framework CEO Nirav Patel is betting that you hate using it - enough to buy Framework's spin on the idea when it arrives later this year. He says that Logitech's [&#8230;]",
+      "published": "2026-04-21T18:06:29+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "de5cb9c079f753f9c8dd370a164c75a70155c9f9",
+      "title": "Internal emails show how Amazon raises prices across the Internet, lawsuit says",
+      "link": "https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/",
+      "summary": "“It’s working!“: Amazon emails with vendors show pattern of disappearing deals.",
+      "published": "2026-04-21T18:06:06+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "deb13b7a9e4031e2b297234acc1b0b844fb34222",
+      "title": "How opposition to data centers, over concerns like power demands, pollution, and water needs, has become a voting issue for many people in the 2026 US midterms (NPR)",
+      "link": "http://www.techmeme.com/260421/p30#a260421p30",
+      "summary": "<a href=\"https://www.npr.org/2026/04/20/g-s1-117729/data-center-disputes-local-midterms\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260421/i30.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260421/p30#a260421p30\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.npr.org/\">NPR</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.npr.org/2026/04/20/g-s1-117729/data-center-disputes-local-midterms\">How opposition to data centers, over concerns like power demands, pollution, and water needs, has become a voting issue for many people in the 2026 US midterms</a></b></span>&nbsp; &mdash;&nbsp; Fifteen minutes after Susan Bourgeois was appointed to lead Louisiana Economic Development, the state agency responsible &hellip; </p>",
+      "published": "2026-04-21T18:00:37+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "26872cca7dd85b70a7ac387aa45870ecc586971a",
+      "title": "This Grade 2 titanium Milanese Loop Apple Watch band weighs ‘45% less’ than stainless steel, now $50",
+      "link": "https://9to5toys.com/2026/04/21/ku-xiu-titanium-milanese-loop-apple-watch-band/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/KU-XIU-Titanium-Milanese-Loop-Apple-Watch-Band.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">KU XIU Titanium Milanese Loop Apple Watch Band</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-buy-for-50-reg-66\">Buy for $50 (Reg. $66)</h3>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A red rectangular object with white lines\" class=\"wp-image-1205382 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/KU-XIU-Titanium-Milanese-Loop-Apple-Watch-Band-chart.png\" width=\"968\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p><span>Clocking in at “45% lighter than stainless steel,” this Grade 2 titanium band aims to deliver a more durable and lightweight Milanese Loop style to your wrist. It snaps into place magnetically and can be easily adjusted, which is one of the reasons I really dig the Milanese Loop design.</span></p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/21/ku-xiu-titanium-milanese-loop-apple-watch-band/#more-1205380\">more…</a>",
+      "published": "2026-04-21T17:57:05+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "4d3a3bba44b5d91d076a28d0dbeeb60707d33a41",
+      "title": "All-hands: Tim Cook said he's stepping down now to ensure the \"best-ever transition,\" citing strong financials, an \"incredible\" pipeline, and Ternus' readiness (Mark Gurman/Bloomberg)",
+      "link": "http://www.techmeme.com/260421/p29#a260421p29",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-21/apple-s-cook-says-he-s-healthy-will-be-chairman-for-long-time\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260421/i29.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260421/p29#a260421p29\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Mark Gurman / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-21/apple-s-cook-says-he-s-healthy-will-be-chairman-for-long-time\">All-hands: Tim Cook said he's stepping down now to ensure the &ldquo;best-ever transition,&rdquo; citing strong financials, an &ldquo;incredible&rdquo; pipeline, and Ternus' readiness</a></b></span>&nbsp; &mdash;&nbsp; Apple Inc.'s Tim Cook, who's stepping down as chief executive officer later this year &hellip; </p>",
+      "published": "2026-04-21T17:55:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
     {
       "id": "2808534f31862e925bd5d1bd55e28884137872a6",
       "title": "The AirPods are Tim Cook’s most underrated achievement",
@@ -104,30 +293,12 @@
       "category": "tech"
     },
     {
-      "id": "3e98e9566a9d15fde429ea191d5e1ffe497e5c62",
-      "title": "Govee’s new rechargeable table lamp is less than half the price of Hue’s",
-      "link": "https://www.theverge.com/tech/915959/govee-table-smart-lamp-classic-battery-rechargeable-matter-pricing",
-      "summary": "Nearly four years after Philips Hue launched its Go portable table lamp, Govee has announced its own version for less than half the price. While the Hue Go is currently listed for $175.99, the new Govee Table Lamp Classic has launched at $79.99. Assuming you're okay with never using it outside, Govee's alternative may be [&#8230;]",
-      "published": "2026-04-21T17:26:27+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "22fc0ea4f3a87ec578457fd6df8bd13c32d7845c",
       "title": "Clarifai says it has deleted 3M OkCupid user photos and facial-recognition models trained on them after the US FTC settled with OkCupid over privacy violations (Jody Godoy/Reuters)",
       "link": "http://www.techmeme.com/260421/p27#a260421p27",
       "summary": "<a href=\"https://www.reuters.com/legal/government/ai-company-deleted-okcupid-user-photos-data-after-ftc-scrutiny-2026-04-20/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260421/i27.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260421/p27#a260421p27\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jody Godoy / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/legal/government/ai-company-deleted-okcupid-user-photos-data-after-ftc-scrutiny-2026-04-20/\">Clarifai says it has deleted 3M OkCupid user photos and facial-recognition models trained on them after the US FTC settled with OkCupid over privacy violations</a></b></span>&nbsp; &mdash;&nbsp; Artificial intelligence company Clarifai said this month it had deleted 3 million OkCupid user photos and facial-recognition models trained &hellip; </p>",
       "published": "2026-04-21T17:25:01+00:00",
       "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "591b0bc5dee08b59eee84e7dea11b18a1462de8b",
-      "title": "The Mac is in good hands in Apple’s post-Cook era",
-      "link": "https://www.theverge.com/tech/915896/john-ternus-apple-ceo-tim-cook-johny-srouji-mac-future",
-      "summary": "The Mac reached a series of low points in the Tim Cook era: the fiasco of the butterfly keyboard, the clunky transition to USB-C, the underutilized potential of the Touch Bar, and the occasionally lackluster Intel chip performance. For a while, it seemed like Apple had shifted all of its attention, innovation, and care toward [&#8230;]",
-      "published": "2026-04-21T17:20:50+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -167,15 +338,6 @@
       "category": "tech"
     },
     {
-      "id": "34b8872e5fc352a80153e965706ba3a3dd51feac",
-      "title": "Wearable health tech might be Tim Cook’s greatest legacy",
-      "link": "https://www.theverge.com/tech/915976/tim-cook-john-ternus-apple-watch-health-tech-wearables",
-      "summary": "An apple a day keeps the doctor away. Granted, 19th-century proverb writers were talking about the fruit, but Tim Cook helped give new meaning to the adage with the release of the very first Apple Watch. In fact, I'd argue that when he hands the reins to John Ternus in September, it won't be iPhones, [&#8230;]",
-      "published": "2026-04-21T17:05:51+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "c6dbb983a0a75345efffe7c7b8f04ef8ec8fe9cf",
       "title": "Ditch gas and cut the grass with this cordless self-propelled Worx lawn mower down at $360 (Reg. $430)",
       "link": "https://9to5toys.com/2026/04/21/worx-nitro-21-inch-cordless-self-propelled-lawn-mower/",
@@ -209,15 +371,6 @@
       "summary": "Anthropic secures 5 gigawatts of Amazon’s custom silicon as Claude demand soars.",
       "published": "2026-04-21T17:00:04+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "6eed24092880048c311f11ac97c2ee68f4c6c02d",
-      "title": "Oppo’s new phone has one camera too many",
-      "link": "https://www.theverge.com/gadgets/915686/oppo-find-x9-ultra-review-10x-telephoto-lens",
-      "summary": "Oppo's Find X9 Ultra offers something that no other new phone has for three long years: a 10x telephoto lens. In an attempt to win the photography front of the war between the various Ultra flagships, Oppo has turned to a trick last employed by Samsung's Galaxy S23 Ultra. It's a better 10x lens than [&#8230;]",
-      "published": "2026-04-21T17:00:00+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -302,15 +455,6 @@
       "category": "world"
     },
     {
-      "id": "4cf0ba16bfd8e4527cef093161a640ec80d7a94c",
-      "title": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing",
-      "summary": "Venti iced coffee, light skim milk. That's what I get at Starbucks. It is what I have gotten at Starbucks every time I've been to Starbucks for as long as I can remember, other than a brief love affair with the caffe misto a few years ago. In person, my brain barely needs to activate [&#8230;]",
-      "published": "2026-04-21T16:19:40+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "d2d410ff974d1339fff0ff8a5b2ededce85b4f76",
       "title": "Digital Switch 2 game prices are actually going down, Splatoon Raiders pre-order live at $50",
       "link": "https://9to5toys.com/2026/04/21/digital-switch-2-game-prices-decrease/",
@@ -347,15 +491,6 @@
       "category": "world"
     },
     {
-      "id": "cc139a2b30a7096ece7fc9d121e1d893c74bf45c",
-      "title": "Dyson’s newest floor scrubber is already on sale for 20 percent off",
-      "link": "https://www.theverge.com/gadgets/915137/dyson-clean-wash-hygiene-wet-cleaner-hades-2-deal-nintendo-sale",
-      "summary": "Dyson feels like it’s been on a tear as of late. The company recently introduced a handheld version of its iconic fan and a travel-friendly hair dryer, along with a mopping version of its ultra-thin PencilVac. And while none of them are currently discounted, you can save on the new Dyson Clean+Wash Hygiene wet cleaner, [&#8230;]",
-      "published": "2026-04-21T16:09:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "1731b9dfce4fd1dba81643ae1b8af6161dd43815",
       "title": "Sony’s white INZONE ANC wireless gaming earbuds with spatial audio hits lowest price of the year at 25% off",
       "link": "https://9to5toys.com/2026/04/21/sony-white-inzone-anc-wireless-gaming-earbuds-lowest-price-of-the-year/",
@@ -374,15 +509,6 @@
       "category": "world"
     },
     {
-      "id": "9504051e1b9630843787fd16842521d3ad07bf0d",
-      "title": "Xbox Game Pass Ultimate gets a price cut but loses new Call of Duty games",
-      "link": "https://www.theverge.com/news/915928/microsoft-xbox-game-pass-ultimate-price-drop",
-      "summary": "After Xbox CEO Asha Sharma admitted last week that \"Game Pass has become too expensive for players,\" Microsoft is dropping the price of Xbox Game Pass Ultimate and PC Game Pass. Starting today, Xbox Game Pass Ultimate drops from $29.99 to $22.99 a month, and PC Game Pass moves to $13.99, down from $16.49 a [&#8230;]",
-      "published": "2026-04-21T16:03:27+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "8cb73f273bf6ee158e926f58ad1b507ad1ba5b8b",
       "title": "Former Pinterest team redesigns email with Extra — and it’s actually good",
       "link": "https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/",
@@ -399,15 +525,6 @@
       "published": "2026-04-21T16:00:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "f21a09ff968d2b4cfae298eb2cf3271a5faae22f",
-      "title": "Satechi launches all-new ChargeView 140W Desktop Charger with display and stand",
-      "link": "https://9to5toys.com/2026/04/21/satechi-launch-all-new-chargeview-140w-desktop-charger-display/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/Satechi-ChargeView-140W-hero.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Just after the release of its new <a href=\"https://9to5toys.com/2026/04/07/satechi-debuts-new-25w-magsafe-charging-stand/\">Space Black metal 25W Qi2 MagSafe charging stand</a>, Satechi is expanding its 2026 desktop presence with the new ChargeView 140W Desktop Charger today. It is now available for purchase at Amazon and <a href=\"https://tidd.ly/48GW7sY\">directly from Satechi</a>. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/21/satechi-launch-all-new-chargeview-140w-desktop-charger-display/#more-1205201\">more…</a>",
-      "published": "2026-04-21T16:00:00+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "5360412c9a9e2b4c5153b37e531cc63f744ae2ad",
@@ -473,15 +590,6 @@
       "category": "tech"
     },
     {
-      "id": "b2730ab488af781ed4a056cc0bac279755bc91d0",
-      "title": "Apple’s new 2TB M5 Pro MacBook Pro just hit its best Amazon price ever at over $160 off",
-      "link": "https://9to5toys.com/2026/04/21/apple-2tb-m5-pro-macbook-pro-best-price/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/Apple-M5-MacBook-Pro-best-trade-in-value-2.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>We have spotted some particularly notable deals on MacBook Pro models this week, including this <a href=\"https://9to5toys.com/2026/04/20/apple-24gb-1tb-m5-macbook-pro-best-price-year/\">M5 at the best price of the year</a> and a new all-time low on <a href=\"https://9to5toys.com/2026/04/20/apple-least-expensive-2026-16-inch-m5-pro-macbook-pro/\">Apple’s least expensive 2026 16-inch M5 Pro MacBook Pro</a>. This morning, however, we are also adding Amazon’s best price to date on the 24GB/2TB M5 Pro MacBook Pro as well. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/21/apple-2tb-m5-pro-macbook-pro-best-price/#more-1205303\">more…</a>",
-      "published": "2026-04-21T14:58:38+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "30d53a30bc80d06f8db87d546aa1acb10c760317",
       "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
       "link": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
@@ -489,15 +597,6 @@
       "published": "2026-04-21T14:55:19+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "405c6cef8cc94c0a3f964307f67b5bde01805f28",
-      "title": "My go-to Baseus 70W Universal Travel Adapter with retactable USB-C cable is 40% off today at $30",
-      "link": "https://9to5toys.com/2026/04/21/baseus-70w-universal-travel-adapter-with-retactable-usb-c-cable/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/09/Baseus-70W-travel-adapter.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\" id=\"h-baseus-70w-travel-adapter-with-retractable-usb-c-cable\">Baseus 70W Travel Adapter with Retractable USB-C Cable</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $30 (Reg. $50)</h3>\n\n\n\n<p class=\"has-text-align-center\"><em>Apply <strong>OUGS9J9T</strong> during checkout. Prime-exclusive discount.</em></p>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A red background with a white line\" class=\"wp-image-1205298 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/Baseus-70W-Universal-Travel-Adapter-6-in-1-International-Plug-Adapter-with-Retractable-Cable-USB-C-PD-Fast-Charging-Worldwide-Wall-Charger-for-USA_EU_UK_AUS-and-Over-200-Countries-Enercore-CG11-chart.png?w=968\" width=\"968\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p><span>This Baseus travel adapter has become my go-to option and a staple in my <a href=\"https://9to5toys.com/2026/04/11/9to5toys-travel-kit-the-gear-im-packing-for-my-spring-trip-to-japan/\">travel kit</a>. It supports Type C, A, G, and I plug types, making it a convenient choice for charging in over 200 countries, including across Europe, Asia, the US, and Australia. The built-in retractable USB-C cable is easily the standout feature for me, and you also get an AC socket along with two USB-A ports and a USB-C port, so you’re covered for pretty much all your devices while traveling.</span></p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/21/baseus-70w-universal-travel-adapter-with-retactable-usb-c-cable/#more-1205293\">more…</a>",
-      "published": "2026-04-21T14:51:40+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "aa9b38c3d12d80e6ac45f4fb32d53d4c258067e4",
@@ -536,48 +635,12 @@
       "category": "tech"
     },
     {
-      "id": "5fb470e4126f63000607e4ce544dc52ca095a8e1",
-      "title": "Regularly $180 Sony LinkBuds wireless Bluetooth speaker just plunged to its lowest price at $98 (46% off)",
-      "link": "https://9to5toys.com/2026/04/21/sony-linkbuds-wireless-bluetooth-speaker-lowest-price/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/03/Sony-LinkBuds-portable-Bluetooth-speaker.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>We are now tracking a deal at Amazon that brings Sony’s LinkBuds wireless Bluetooth speaker back down $98 shipped. This portable speaker typically sells for $180, so today’s deal delivers a sizable 46% discount, knocking $82 off the usual price and marking the return of the lowest price we first tracked for it last month, when it was discounted for the Big Spring Sale event. You can get this speaker in Black and Light Gray finishes, and they’re both down to the $98 mark today. <a href=\"https://bestbuycreators.7tiv.net/2RjnzG\">Best Buy</a> is also matching the price for this speaker right now, so be sure to check it out and grab one after getting more details below.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/21/sony-linkbuds-wireless-bluetooth-speaker-lowest-price/#more-1205282\">more…</a>",
-      "published": "2026-04-21T14:15:28+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "8ceee2b5dbcf5d07a3136b9b8ab759d465dee6fd",
-      "title": "Samsung Galaxy Ring as much as $292 off today at Best Buy (‘Excellent’ open-box)",
-      "link": "https://9to5toys.com/2026/04/21/samsung-galaxy-ring-deals-3/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2024/10/Samsung-Galaxy-Ring-copy.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>You can land a giant deal on Galaxy Ring open-box units at Best Buy today at as much as Amazon. Details below. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/21/samsung-galaxy-ring-deals-3/#more-1205284\">more…</a>",
-      "published": "2026-04-21T14:12:11+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "430864a5435c37fdb8418c933cb29930b1024c74",
-      "title": "Draft of SpaceX's confidential IPO prospectus: Elon Musk increased his stake in SpaceX last year by purchasing $1.4B of stock from current and former employees (The Information)",
-      "link": "http://www.techmeme.com/260421/p15#a260421p15",
-      "summary": "<a href=\"https://www.theinformation.com/articles/musk-bought-1-4-billion-spacex-shares-helping-boost-control\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260421/i15.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260421/p15#a260421p15\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/articles/musk-bought-1-4-billion-spacex-shares-helping-boost-control\">Draft of SpaceX's confidential IPO prospectus: Elon Musk increased his stake in SpaceX last year by purchasing $1.4B of stock from current and former employees</a></b></span>&nbsp; &mdash;&nbsp; Elon Musk increased his stake in SpaceX last year by purchasing $1.4 billion of stock from current and former employees &hellip; </p>",
-      "published": "2026-04-21T14:10:03+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "e3d601739fd541c527825c6675117a6f90b0eb6d",
       "title": "Amazon taps Sweden’s Einride for its electric big rigs",
       "link": "https://techcrunch.com/2026/04/21/amazon-taps-swedens-einride-for-its-electric-big-rigs/",
       "summary": "The agreement comes just as Einride is finalizing a merger with blank-check company Legato Merger Corp. to go public.",
       "published": "2026-04-21T14:09:43+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "ecc8a947372184607977e03b654ea01ea1c9c597",
-      "title": "Australia-based Syenta, which aims to use electrochemical \"stamping\" to speed up chip manufacturing, raised $26M and says Pat Gelsinger will join its board (Stephen Nellis/Reuters)",
-      "link": "http://www.techmeme.com/260421/p14#a260421p14",
-      "summary": "<a href=\"https://www.reuters.com/world/asia-pacific/australias-syenta-raises-26-million-ease-ai-chip-bottleneck-former-intel-ceo-2026-04-21/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260421/i14.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260421/p14#a260421p14\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Stephen Nellis / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/asia-pacific/australias-syenta-raises-26-million-ease-ai-chip-bottleneck-former-intel-ceo-2026-04-21/\">Australia-based Syenta, which aims to use electrochemical &ldquo;stamping&rdquo; to speed up chip manufacturing, raised $26M and says Pat Gelsinger will join its board</a></b></span>&nbsp; &mdash;&nbsp; Syenta, an Australian semiconductor technology startup, said on Tuesday that it has raised $26 million &hellip; </p>",
-      "published": "2026-04-21T14:05:02+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -1004,6 +1067,15 @@
       "category": "deals"
     },
     {
+      "id": "30f5791072de502376a09cb3297e0ac9967988f9",
+      "title": "Fabi",
+      "link": "https://www.producthunt.com/products/fabi",
+      "summary": "<p>\n            Cloud agent to build internal apps and automate workflows\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fabi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1128639?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-21T06:50:13+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "a4b2d723bad4173d819c55d94c7edfed02251028",
       "title": "Lenovo Legion Go S Gets Price Hike; Now Costs RM3,549",
       "link": "https://www.lowyat.net/2026/390386/lenovo-legion-go-s-price-hike-now-rm3549/",
@@ -1022,11 +1094,11 @@
       "category": "malaysia"
     },
     {
-      "id": "fd7f4546f21cd779814a85084e510d52680e7173",
-      "title": "Gauge Sentiment",
-      "link": "https://www.producthunt.com/products/gauge",
-      "summary": "<p>\n            How is your brand perceived by AI?\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gauge?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1128566?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-21T04:10:50+00:00",
+      "id": "bb6ffd71a682e448fde2650e45a8cb341d3ed8ae",
+      "title": "ScreenBuddy",
+      "link": "https://www.producthunt.com/products/screenbuddy",
+      "summary": "<p>\n            Screen recording with auto-zoom, spotlight, and lightbox\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/screenbuddy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1128564?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-21T04:06:54+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1085,15 +1157,6 @@
       "category": "tech"
     },
     {
-      "id": "baaa4e1658726896ac810ce5b6fa311daa4148e0",
-      "title": "Google rolls out Gemini in Chrome in APAC countries",
-      "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
-      "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
-      "published": "2026-04-20T22:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "01489efbcd59c224ed6cddaf5dbafeea3d23b21d",
       "title": "John Ternus will replace Tim Cook as Apple CEO",
       "link": "https://arstechnica.com/apple/2026/04/john-ternus-will-replace-tim-cook-as-apple-ceo/",
@@ -1121,22 +1184,13 @@
       "category": "tech"
     },
     {
-      "id": "84deed67810c80ea367835839b154a494fc717bd",
-      "title": "Tim Cook stepping down as Apple CEO, John Ternus taking over",
-      "link": "https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/",
-      "summary": "The transition has been expected for some time and ends one of the longer and more impactful runs a CEO has had at any company. Cook had inherited a company that many industry watchers and enthusiasts struggled to separate from its famed founder. What he leaves behind is a $4 trillion business with annual revenue that has more than quadrupled on his watch.",
-      "published": "2026-04-20T20:42:01+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "93b023eefdb1c19009a85e28ef4086b05e77405f",
-      "title": "Google Photos adds new touch-up tools for ‘quick’ fixes",
-      "link": "https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/",
-      "summary": "You can use the new tools to remove blemishes, refine skin texture, brighten eyes, or whiten teeth in photos.",
-      "published": "2026-04-20T20:20:29+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
+      "id": "a6d36774aea817ddcf0ea9db725b7ef4d345a6cd",
+      "title": "OnTheMap",
+      "link": "https://www.producthunt.com/products/onthemap",
+      "summary": "<p>\n            The global map for builders, founders, and visionaries\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/onthemap?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1128393?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-20T20:46:33+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "446d98f6a352038987fe5d0bd3ec2db82dfcbfe3",
@@ -1220,15 +1274,6 @@
       "category": "tech"
     },
     {
-      "id": "c5e4e6ec1c057116728e1f0ea64ea75d44c8910e",
-      "title": "Kimi K2.6",
-      "link": "https://www.producthunt.com/products/kimi-ai-assistant",
-      "summary": "<p>\n            Open-source SOTA for long-horizon coding and agent swarms\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1128235?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-20T16:49:32+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "638b0e8d20b1f819c9d697e431dafdc6edf31ff1",
       "title": "Zeekr 8X: Premium 900V PHEV SUV, up to triple-motor setup and 0–100km/h in 2.96s",
       "link": "https://soyacincau.com/2026/04/20/zeekr-8x-launched-premium-900v-phev-suv/",
@@ -1243,15 +1288,6 @@
       "link": "https://arstechnica.com/science/2026/04/meet-bruce-the-beak-jousting-parrot/",
       "summary": "Kea parrot missing his upper beak \"has rewritten what disability means for behaviorally complex species.\"",
       "published": "2026-04-20T15:00:22+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "89101aa08cf70c8a22ecd4fd9ad3e9b52e3b37eb",
-      "title": "Anthropic's Mythos AI model sparks fears of turbocharged hacking",
-      "link": "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/",
-      "summary": "Cyberdefenses could be exposed faster than fixes could be deployed.",
-      "published": "2026-04-20T14:21:40+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
     },
@@ -1274,13 +1310,13 @@
       "category": "malaysia"
     },
     {
-      "id": "6ae9c03aa0ef42b2d9bfa7f32754ecefc50c031a",
-      "title": "Clarifying HEVC licensing fees, royalties, and why vendors kill HEVC support",
-      "link": "https://arstechnica.com/gadgets/2026/04/lawsuits-licensing-and-royalties-are-complicating-4k-video-support-in-gadgets/",
-      "summary": "How does HEVC implementation <em>really</em> work these days?",
-      "published": "2026-04-20T11:00:07+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
+      "id": "4dd5ab2c01ee0b79c959bc098f55b3494ae0598a",
+      "title": "STRIKE",
+      "link": "https://www.producthunt.com/products/strike-6",
+      "summary": "<p>\n            The habit app that doesn't forgive you\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/strike-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1127941?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-20T10:06:54+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "02e2dae97879bd739157a0d2d058f866b83cd78f",
@@ -1292,20 +1328,29 @@
       "category": "events"
     },
     {
-      "id": "413f48de758e2aaf20aa22307dbe5808ef620043",
-      "title": "KingCoding",
-      "link": "https://www.producthunt.com/products/kingcoding",
-      "summary": "<p>\n            Your Claude Code & Codex dev, now in your pocket\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kingcoding?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1127818?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-20T07:25:46+00:00",
+      "id": "d5857b42bec9441b7596b91b0692f8da258c6baf",
+      "title": "Chat Skills for AI Agents",
+      "link": "https://www.producthunt.com/products/cometchat-skills",
+      "summary": "<p>\n            One file. Any agent. Working chat in under 10 minutes.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cometchat-skills?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1127893?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-20T09:18:23+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "64dd907fb1881df491f2fd8b483393f941cff6eb",
-      "title": "Cosmic Agent Marketplace",
-      "link": "https://www.producthunt.com/products/cosmic",
-      "summary": "<p>\n            AI agents for your team, built into your CMS\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cosmic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1127738?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-20T05:27:58+00:00",
+      "id": "fffdd2b87370e982d8012ce52691a16daa17fd4a",
+      "title": "My Race Tracker",
+      "link": "https://www.producthunt.com/products/my-race-tracker",
+      "summary": "<p>\n            Track your races. Not your ego.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/my-race-tracker?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1127873?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-20T08:56:45+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "f73b69eafd814dd6b344a588d8122f53b5e2c4b7",
+      "title": "PageOn.AI 3.0",
+      "link": "https://www.producthunt.com/products/pageon-ai",
+      "summary": "<p>\n            A smarter visual agent for slides, posters & infographics\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pageon-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1127796?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-20T06:54:46+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1317,24 +1362,6 @@
       "published": "2026-04-20T02:09:54+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "5d013fef72f61300b0073aa6a9bb14cc85ad44ff",
-      "title": "Blue Origin's rocket reuse achievement marred by upper stage failure",
-      "link": "https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/",
-      "summary": "Blue Origin's reused first stage hit its targets, but New Glenn's upper stage did not.",
-      "published": "2026-04-19T18:19:19+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "9745f07cdb501b112202d3457bdf33a6a06ad802",
-      "title": "I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like",
-      "link": "https://arstechnica.com/science/2026/04/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like/",
-      "summary": "The laser was used to study the physics of stellar interiors and fusion energy, among other things.",
-      "published": "2026-04-19T11:17:28+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
     },
     {
       "id": "1f26bd28fc777cb74ff78fc4c1c3ad7760a9b7d7",
@@ -1355,11 +1382,20 @@
       "category": "events"
     },
     {
-      "id": "b67ebad3069af35bf0c569edf4ce5afd093edb2a",
-      "title": "Apple Books MCP",
-      "link": "https://www.producthunt.com/products/apple-books-mcp",
-      "summary": "<p>\n            Talk to your Apple Books library with Claude\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/apple-books-mcp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126871?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-18T16:49:45+00:00",
+      "id": "ac83aa5edbebf2c9d0fb97aa0a0431a1b73c9461",
+      "title": "Rowboat",
+      "link": "https://www.producthunt.com/products/rowboat",
+      "summary": "<p>\n            The AI work app that understands how you work\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rowboat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126902?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-18T17:56:13+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "868266159ed84f376627654c9e9be466c662922c",
+      "title": "Katzilla",
+      "link": "https://www.producthunt.com/products/katzilla",
+      "summary": "<p>\n            Easy goverment data access for citizens, optimized for AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/katzilla?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126844?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-18T15:59:33+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1400,6 +1436,15 @@
       "category": "events"
     },
     {
+      "id": "18a24693ac504f6566d62ad2dfb3509789252853",
+      "title": "ClankerPass",
+      "link": "https://www.producthunt.com/products/clankerpass",
+      "summary": "<p>\n            Can you convince an AI that you're an AI?\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clankerpass?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126134?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-17T14:26:46+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "8911786f1dac4f61560b224b0f7cc3f7ac516a4b",
       "title": "At RM35,888, OSIM’s New Chair Asks a Bold Question: Do You Want 5 Seats and a Boot, or 1 Seat and a French Audio System?",
       "link": "https://soyacincau.com/2026/04/17/osim-udream-ai-devialet-price-malaysia/",
@@ -1427,65 +1472,20 @@
       "category": "events"
     },
     {
-      "id": "e2a90ad32e7ab0ea8bbecff31583fde6c68eefb7",
-      "title": "Dageno AI",
-      "link": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
-      "summary": "<p>\n            Become the most recommended brand across 7+ major LLMs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agent-powered-geo-by-dageno?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123690?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-14T16:44:54+00:00",
+      "id": "b104cc931fe44303283b6fcfce51d4df0be745eb",
+      "title": "Devaito",
+      "link": "https://www.producthunt.com/products/devaito",
+      "summary": "<p>\n            Build, launch, and grow your business on autopilot\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/devaito?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1122954?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-13T19:03:59+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "ffb4c90a54a5f63c4619f3b679563d1e047d24f5",
-      "title": "Spectrum",
-      "link": "https://www.producthunt.com/products/spectrum-5",
-      "summary": "<p>\n            Bring agents to all the interfaces people already use\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/spectrum-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123275?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-14T07:11:51+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "eeb4038a6498353eedf3c301a8cc954c0ddf12d8",
-      "title": "RankAI",
-      "link": "https://www.producthunt.com/products/rankai-2",
-      "summary": "<p>\n            RankAI autonomously gets you buyers from Google & AI Search\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rankai-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1122928?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-13T18:26:52+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "a2ca8e43c54137b707d7afd47a9ba0ce1be05f3c",
-      "title": "Cosine Swarm",
-      "link": "https://www.producthunt.com/products/cosine",
-      "summary": "<p>\n            Parallel AI agents for long-horizon, complex software tasks\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cosine?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1118869?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-08T14:02:27+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "dd2c885239ad7e6c5f42d9dc22c6dab688632042",
-      "title": "Magic Layers by Canva",
-      "link": "https://www.producthunt.com/products/magic-layers-by-canva",
-      "summary": "<p>\n            Turn any flat image into a fully editable design\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/magic-layers-by-canva?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1114157?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-02T11:02:23+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "620a57ad89a8c35342306ef87f7e9b5d915b7cc5",
-      "title": "Perplexity Health",
-      "link": "https://www.producthunt.com/products/perplexity-ai",
-      "summary": "<p>\n            Ask health questions across your records, labs, wearables\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1102596?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-19T16:37:41+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "e34ab9a98f36a968486fd11165dc682353653026",
-      "title": "GladeKit",
-      "link": "https://www.producthunt.com/products/gladekit",
-      "summary": "<p>\n            AI agent for Unity game development\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gladekit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1079036?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-13T19:30:01+00:00",
+      "id": "c1da2386925d65e57f92ef9ad375061f56bee983",
+      "title": "Pegkits",
+      "link": "https://www.producthunt.com/products/pegkits",
+      "summary": "<p>\n            Never lose your clipboard again\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pegkits?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1122550?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-13T09:39:43+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
