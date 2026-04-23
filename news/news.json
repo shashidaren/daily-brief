@@ -1,9 +1,252 @@
 {
-  "generatedAt": "2026-04-23T17:12:58.210691+00:00",
+  "generatedAt": "2026-04-23T18:59:36.828868+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "361237e314710659525e0bd5fccd7cfc045e90ec",
+      "title": "‘We Are Xbox’: read the memo defining Microsoft’s gaming future",
+      "link": "https://www.theverge.com/news/917689/microsoft-xbox-gaming-future-memo-asha-sharma-matt-booty",
+      "summary": "Microsoft's new Xbox CEO Asha Sharma has laid out a new strategy for what she describes as a \"return of Xbox.\" In a joint memo to with Xbox Chief Content Officer Matt Booty, Sharma and Booty lay out their vision for the future of Xbox that will be judged on daily active players and the [&#8230;]",
+      "published": "2026-04-23T18:59:12+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "45d239f47bd2d33742051b31e89bf96918a56137",
+      "title": "We are already tracking a discount on Yoshi and the Mysterious Book pre-orders, check it out",
+      "link": "https://9to5toys.com/2026/04/23/tracking-deal-yoshi-mysterious-book-preorders/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/Yoshi-and-the-Mysterious-Book-copy.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Just after Nintendo launched a new gameplay trailer for the <a href=\"https://9to5toys.com/2026/04/23/nintendo-new-switch-2-gameplay-yoshi-mysterious-book/\">Yoshi and the Mysterious Book</a> on Switch 2, <a href=\"https://howl.link/lqxqilz9xebb2\">pre-orders are now live </a>and we are already <a href=\"https://howl.link/lqxqilz9xebb2\">tracking a deal on the physical copy over at Walmart</a> – add it your cart to see the discounted price. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/23/tracking-deal-yoshi-mysterious-book-preorders/#more-1205756\">more…</a>",
+      "published": "2026-04-23T18:51:15+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "186b8dd5bd4e39152faa20840a646ef68ad9e29d",
+      "title": "Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games",
+      "link": "https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma",
+      "summary": "Xbox CEO Asha Sharma held an all-hands meeting this morning and laid out her strategy for a \"return of Xbox\" with employees. While rebranding Microsoft Gaming back to Xbox was part of the agenda, Sharma also revealed that Xbox is looking into \"reevaluating\" Xbox exclusive games and windowed releases of titles. It's a hot topic [&#8230;]",
+      "published": "2026-04-23T18:51:14+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "0c7d4417ecf4e5b666c7e317212ccab5835eb0a9",
+      "title": "Anthropic says it has fixed three causes of recent Claude Code quality issues: reduced default reasoning, a caching bug, and a system prompt to reduce verbosity (Anthropic)",
+      "link": "http://www.techmeme.com/260423/p52#a260423p52",
+      "summary": "<a href=\"https://www.anthropic.com/engineering/april-23-postmortem\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i52.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p52#a260423p52\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.anthropic.com/\">Anthropic</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.anthropic.com/engineering/april-23-postmortem\">Anthropic says it has fixed three causes of recent Claude Code quality issues: reduced default reasoning, a caching bug, and a system prompt to reduce verbosity</a></b></span>&nbsp; &mdash;&nbsp; We traced recent reports of Claude Code quality issues to three separate changes.&nbsp; Here's what happened and what we're changing.</p>",
+      "published": "2026-04-23T18:50:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "ec14082949f72973a027d81fbd8c5fbfb4f22cbb",
+      "title": "Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says",
+      "link": "https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/",
+      "summary": "Artisan may be known for their bold “Stop Hiring Humans” campaign but the reality is every founder needs to assemble the right team if they want to scale.",
+      "published": "2026-04-23T18:49:38+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "73e9c9cdd31d7feddaa1ae330c72de1fb2b35d19",
+      "title": "GPT-5.5 is priced at $5/1M input tokens and $30/1M output tokens, double GPT-5.4's pricing; GPT-5.5 Pro costs $30/1M input tokens and $180/1M output tokens (Carl Franzen/VentureBeat)",
+      "link": "http://www.techmeme.com/260423/p51#a260423p51",
+      "summary": "<a href=\"https://venturebeat.com/ai/openais-gpt-5-5-is-here-and-its-no-potato-narrowly-beats-anthropics-claude-mythos-preview-on-terminal-bench-2-0\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i51.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p51#a260423p51\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Carl Franzen / <a href=\"https://venturebeat.com/\">VentureBeat</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://venturebeat.com/ai/openais-gpt-5-5-is-here-and-its-no-potato-narrowly-beats-anthropics-claude-mythos-preview-on-terminal-bench-2-0\">GPT-5.5 is priced at $5/1M input tokens and $30/1M output tokens, double GPT-5.4's pricing; GPT-5.5 Pro costs $30/1M input tokens and $180/1M output tokens</a></b></span>&nbsp; &mdash;&nbsp; After months of rumors and reports that OpenAI was developing a new, more powerful AI large language model for use in ChatGPT &hellip; </p>",
+      "published": "2026-04-23T18:40:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "87404afd5d35b2db04c6aab904b3dae0af4415ca",
+      "title": "Democrats want to ban ICE from turning warehouses into detention centers",
+      "link": "https://www.theverge.com/policy/917643/ban-warehouse-detention-act-ice-dhs",
+      "summary": "A bill introduced by Rep. Rashida Tlaib (D-MI) would prohibit the Department of Homeland Security from converting warehouses and similar buildings into immigrant detention centers, an attempt to slow President Donald Trump's mass deportations campaign. The Ban Warehouse Detention Act would also forbid Immigration and Customs Enforcement from developing other \"non-traditional\" detention facilities. \"ICE and [&#8230;]",
+      "published": "2026-04-23T18:35:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "fcc544b6d7fb665c8d65955b821719b99234a298",
+      "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘superapp’",
+      "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+      "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+      "published": "2026-04-23T18:29:29+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "fca08cbec24fb4240e8bb9c749758bf7391a1154",
+      "title": "Spirit is broken",
+      "link": "https://www.theverge.com/transportation/917629/spirit-airlines-bankrupt-bailout-merger-ultra-low-cost",
+      "summary": "The bright yellow livery of Spirit Airlines may soon disappear from the skies. The country's seventh-largest airline has been in financial trouble for years: It hasn't turned a profit since 2019 and filed for bankruptcy twice in the last two years. Despite all that, its leaders predicted that the airline could exit bankruptcy and return [&#8230;]",
+      "published": "2026-04-23T18:27:35+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "9fba34e1d22a861f57ddc24ccf3238148b9e90f2",
+      "title": "Anthropic&#8217;s Mythos breach was humiliating",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+      "summary": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release publicly, it appears the model fell into the wrong hands anyway. According to Bloomberg, a \"small group of unauthorized users\" has had access to [&#8230;]",
+      "published": "2026-04-23T18:24:56+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "334e85253777aa0a038469894779b5fd138a1289",
+      "title": "This 100W display-equipped 5-port USB-C Nexode Pro charger undercuts the competition at $50 today (All-time low)",
+      "link": "https://9to5toys.com/2026/04/23/100w-5-port-nexode-pro-charger-undercuts-the-competition-at-50-today/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/UGREEN-Nexode-Pro-100W-charger.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>UGREEN’s official Amazon storefront is now offering its latest 100W Nexode Pro 5-port USB-C GaN charger for $49.99 shipped. This relatively new model typically sells for $70, so you’re saving $20 with today’s deal. That 29% discount marks the lowest price we’ve tracked so far, coming in about $10 under the previous all-time low. It also stands out against competing 100W chargers on the market, including Anker’s comparable model with fewer ports, which still costs more than the discounted UGREEN unit highlighted here. Head below for more details.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/23/100w-5-port-nexode-pro-charger-undercuts-the-competition-at-50-today/#more-1205748\">more…</a>",
+      "published": "2026-04-23T18:22:35+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "5835465a9a1634661531f3f87191e0e750e4bc22",
+      "title": "GPT-5.5 is rolling out to Plus, Pro, Business, and Enterprise users in ChatGPT and Codex, and GPT-5.5 Pro to Pro, Business, and Enterprise users in ChatGPT (The Verge)",
+      "link": "http://www.techmeme.com/260423/p50#a260423p50",
+      "summary": "<a href=\"https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i50.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p50#a260423p50\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt\">GPT-5.5 is rolling out to Plus, Pro, Business, and Enterprise users in ChatGPT and Codex, and GPT-5.5 Pro to Pro, Business, and Enterprise users in ChatGPT</a></b></span>&nbsp; &mdash;&nbsp; The new model &lsquo;excels&rsquo; at tasks like writing and debugging code and doing work across different tools.</p>",
+      "published": "2026-04-23T18:20:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "ee2571da37fba350156151da5f28ce7a0b017165",
+      "title": "OpenAI says GPT-5.5's improvements are strongest in agentic coding, computer use, and early scientific research, which require reasoning across longer contexts (Madison Mills/Axios)",
+      "link": "http://www.techmeme.com/260423/p49#a260423p49",
+      "summary": "<a href=\"https://www.axios.com/2026/04/23/openai-releases-spud-gpt-model\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i49.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p49#a260423p49\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Madison Mills / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/2026/04/23/openai-releases-spud-gpt-model\">OpenAI says GPT-5.5's improvements are strongest in agentic coding, computer use, and early scientific research, which require reasoning across longer contexts</a></b></span>&nbsp; &mdash;&nbsp; OpenAI on Thursday released its most capable model, GPT-5.5, codenamed &ldquo;Spud,&rdquo; just one week after competitor Anthropic launched its latest model.</p>",
+      "published": "2026-04-23T18:15:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "c1c3c3a4e26155288f8a45820c26b728070af372",
+      "title": "Today’s Android game and app deals: DRAGON QUEST BUILDERS, 9th Dawn Remake RPG, Maneater, more",
+      "link": "https://9to5toys.com/2026/04/23/android-game-app-deals-dragon-quest-builders-maneater/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/Google-Play-Apr-23-2.webp?w=1600\" /></div><p>Your afternoon lineup of the best Android game and app deals is now ready, including titles like DRAGON QUEST BUILDERS, 9th Dawn Remake RPG, Maneater – Shark RPG, 7 Billion Humans, SENTINEL 519: SAGA – GENESIS, Human Resource Machine, SpongeBob – The Cosmic Shake, and more. Be sure to scope out the deals on <a href=\"https://9to5toys.com/2026/04/23/last-call-new-unlocked-pixel-10-deals/\">unlocked Pixel 10 models from<strong> $449</strong> (Up to $300 off)</a> as well as this massive price drop on the <a href=\"https://9to5toys.com/2026/04/23/wild-deal-unlocked-galaxy-z-fold-7/\">unlocked Galaxy Z Fold 7 at up to<strong> $819 off t</strong>oday</a>, but for now, all of the apps await below. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/23/android-game-app-deals-dragon-quest-builders-maneater/#more-1205750\">more…</a>",
+      "published": "2026-04-23T18:12:20+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "47a907c806e9157b541210a8edf963f17d019d03",
+      "title": "Meta to cut 10% of jobs, or 8,000 employees, report says",
+      "link": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
+      "summary": "According to an internal memo, Meta plans to begin its sweeping layoffs on May 20.",
+      "published": "2026-04-23T18:08:16+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "284b9976a62c8a6b06dec850a286d490ea7df5c6",
+      "title": "OpenAI launches GPT-5.5, designed to handle complex tasks with minimal guidance; the model will be used to power the company's upcoming \"super app\" (Rachel Metz/Bloomberg)",
+      "link": "http://www.techmeme.com/260423/p48#a260423p48",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-23/openai-unveils-gpt-5-5-to-field-tasks-with-limited-instructions\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i48.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p48#a260423p48\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Rachel Metz / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-23/openai-unveils-gpt-5-5-to-field-tasks-with-limited-instructions\">OpenAI launches GPT-5.5, designed to handle complex tasks with minimal guidance; the model will be used to power the company's upcoming &ldquo;super app&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; OpenAI is introducing an artificial intelligence model that's intended to be better at completing work without much direction &hellip; </p>",
+      "published": "2026-04-23T18:08:11+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "1389e0ac4086c9752edd4a0c99e8b27d63b97aee",
+      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+      "summary": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI just released GPT-5.4 last month, but says that the new GPT-5.5 \"excels\" at tasks like writing and debugging code, [&#8230;]",
+      "published": "2026-04-23T18:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "1d321763202e30bc5ec6876ca416fae2573aaa00",
+      "title": "At a town hall, Asha Sharma said Microsoft is returning to using Xbox for its gaming division, instead of Microsoft Gaming, as \"Xbox needs to be our identity\" (Tom Warren/The Verge)",
+      "link": "http://www.techmeme.com/260423/p47#a260423p47",
+      "summary": "<a href=\"https://www.theverge.com/report/917485/microsoft-return-of-xbox-no-more-microsoft-gaming?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlF6b3Z0NDluUk4iLCJwIjoiL3JlcG9ydC85MTc0ODUvbWljcm9zb2Z0LXJldHVybi1vZi14Ym94LW5vLW1vcmUtbWljcm9zb2Z0LWdhbWluZyIsImV4cCI6MTc3NzM5Njg0NiwiaWF0IjoxNzc2OTY0ODQ2fQ.w231EBsAoj8dMi5cjOCzSC3zRF7JbJ19hT_RnI3NVyk&amp;utm_medium=gift-link\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i47.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p47#a260423p47\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Tom Warren / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/report/917485/microsoft-return-of-xbox-no-more-microsoft-gaming?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlF6b3Z0NDluUk4iLCJwIjoiL3JlcG9ydC85MTc0ODUvbWljcm9zb2Z0LXJldHVybi1vZi14Ym94LW5vLW1vcmUtbWljcm9zb2Z0LWdhbWluZyIsImV4cCI6MTc3NzM5Njg0NiwiaWF0IjoxNzc2OTY0ODQ2fQ.w231EBsAoj8dMi5cjOCzSC3zRF7JbJ19hT_RnI3NVyk&amp;utm_medium=gift-link\">At a town hall, Asha Sharma said Microsoft is returning to using Xbox for its gaming division, instead of Microsoft Gaming, as &ldquo;Xbox needs to be our identity&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; Xbox is Microsoft's gaming identity moving forward. &hellip; Xbox CEO Asha Sharma has had a busy week.</p>",
+      "published": "2026-04-23T17:55:04+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "75aed9db16d6dcbf5c1181818ad353858e288cf4",
+      "title": "Ikea&#8217;s new inflatable chair doesn&#8217;t look like an inflatable chair",
+      "link": "https://www.theverge.com/design/917567/ikea-ps-collection-2026-inflatable-easy-chair-experimental-design",
+      "summary": "Ikea shared a sneak preview of three pieces from a new experimental collection, set to be fully revealed at an annual company event on May 13th. One of the pieces is an inflatable chair that looks like a far cry from the cheap and lumpy inflatable furniture popularized in the '90s. This isn't the first [&#8230;]",
+      "published": "2026-04-23T17:52:58+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "bdf7e7c7f11ce1c34c5ed97b0e0eed83654c22c2",
+      "title": "Memo: Meta plans to cut 10% of workers, or ~8,000 jobs, on May 20 and won't fill 6,000 open roles, in an effort to offset its AI spending and boost efficiency (Kurt Wagner/Bloomberg)",
+      "link": "http://www.techmeme.com/260423/p46#a260423p46",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i46.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p46#a260423p46\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kurt Wagner / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency\">Memo: Meta plans to cut 10% of workers, or ~8,000 jobs, on May 20 and won't fill 6,000 open roles, in an effort to offset its AI spending and boost efficiency</a></b></span>&nbsp; &mdash;&nbsp; Meta Platforms Inc. plans to cut 10% of workers, or roughly 8,000 employees, in an effort to boost efficiency and offset its heavy spending on artificial intelligence.</p>",
+      "published": "2026-04-23T17:47:16+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "24a88287f7686fc506f465e72fa68ab84c28cabf",
+      "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+      "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
+      "published": "2026-04-23T17:36:11+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "13918c412a7b94e8550856c119977b8c5e905890",
+      "title": "Microsoft announces its first voluntary retirement program, for staff whose years of employment and age add up to 70+; source: 7% of US employees are eligible (Jordan Novet/CNBC)",
+      "link": "http://www.techmeme.com/260423/p45#a260423p45",
+      "summary": "<a href=\"https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i45.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p45#a260423p45\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jordan Novet / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html\">Microsoft announces its first voluntary retirement program, for staff whose years of employment and age add up to 70+; source: 7% of US employees are eligible</a></b></span>&nbsp; &mdash;&nbsp; Microsoft will offer voluntary buyouts to some U.S. employee, a first for the 51-year-old software giant, as the tech industry grapples &hellip; </p>",
+      "published": "2026-04-23T17:35:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "d21f087120cc552dd2e61e748a702338ac098427",
+      "title": "Great news, the Moto G Stylus is no longer teeming with bloatware",
+      "link": "https://www.theverge.com/tech/917497/motorola-moto-g-stylus-2026-review",
+      "summary": "The 2026 edition of Motorola's stylus phone is plenty appealing. My review unit is a charming lilac color, has a pleasantly textured back panel, and includes a MicroSD slot and what might be the last surviving headphone jack on a mainstream phone sold in North America. The namesake stylus is no longer just a fancy [&#8230;]",
+      "published": "2026-04-23T17:30:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "60ef7c53bc20177bf2d2f562f59a9c1fbfe1d7e6",
+      "title": "Qi2 15W 3-in-1 MagSafe charging stations don’t get much less than this, steal this one for just $15 (65% off)",
+      "link": "https://9to5toys.com/2026/04/23/qi2-15w-3-in-1-magsafe-charging-stations-dont-get-much-less-than-this/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/Qi2-15W-3-in-1-charging-station.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Courtesy of LISEN’s B-King storefront at Amazon, you can now grab one of the brand’s Qi2-certified 15W 3-in-1 charging stations for $14.99 shipped. Don’t forget to <em>clip the on-page 50% coupon</em> to see the discounted price at checkout. This model has sold for as much as $44 in recent months, so today’s offer knocks a solid $29 off the going rate. That 65% price drop lands it $5 below the previous all-time low, setting a new best price we’ve tracked. It doesn’t get much less than this for a Qi2 15W charging station, which even comes with a 20W adapter and a 3.3-foot USB-C cable, so be sure to snag it after getting more details below.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/23/qi2-15w-3-in-1-magsafe-charging-stations-dont-get-much-less-than-this/#more-1205718\">more…</a>",
+      "published": "2026-04-23T17:28:45+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "cc9b69dad3cd4233436f55e96372ece989f9123b",
+      "title": "Microsoft brings Xbox back, scraps Microsoft Gaming",
+      "link": "https://www.theverge.com/report/917485/microsoft-return-of-xbox-no-more-microsoft-gaming",
+      "summary": "Xbox CEO Asha Sharma has had a busy week. Sharma held an internal town hall with Xbox employees today, just days after announcing an Xbox Game Pass price cut, commenting on the status of the Xbox mobile store, and teasing a mysterious Xbox and Discord partnership. One of the items on the agenda for the [&#8230;]",
+      "published": "2026-04-23T17:19:35+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "193bb4d8d2de838bd74751ad7ca796b2ad9e79d5",
+      "title": "Nomad intros new Forest Green colorway for its titanium Stratos Apple Watch band",
+      "link": "https://9to5toys.com/2026/04/23/nomad-debuts-new-forest-green-colorway-for-its-titanium-stratos-apple-watch-band/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/Nomad-Forest-Green-Stratos-Apple-Watch-Band.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Last fall Nomad <a href=\"https://9to5toys.com/2025/10/21/nomad-stratos-hybrid-titanium-apple-watch-band/\">introduced the world</a> to its hybrid titanium Apple Watch band known as Stratos, and it’s seriously gorgeous. One of the more compelling, interesting-looking, and well-made titanium bands I have tested out and wear personally, it updated the lineup with <a href=\"https://9to5toys.com/2026/01/20/nomad-new-titanium-apple-watch-band-glowing-blue/\">an Icy Blue glow model </a>back in January, and has now <a href=\"https://howl.link/irpv7luxosuko\">dropped a new Forest Green variant</a>. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/23/nomad-debuts-new-forest-green-colorway-for-its-titanium-stratos-apple-watch-band/#more-1205731\">more…</a>",
+      "published": "2026-04-23T17:16:12+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "8a82c23ff3e820b349947cfaa7e6a79fddef0cb5",
+      "title": "This travel-ready 7-in-1 power strip packs 65W USB-C for $27 (Save $10)",
+      "link": "https://9to5toys.com/2026/04/23/orico-65w-7-in-1-usb-c-travel-power-strip/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/ORICO-65W-7-in-1-USB-C-Travel-Power-Strip.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">ORICO 65W 7-in-1 USB-C Travel Power Strip</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $27 (Reg. $37)</h3>\n\n\n\n<p class=\"has-text-align-center\"><em>Clip the on-page 10% off coupon.</em></p>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A line drawing of a heartbeat\" class=\"wp-image-1205735 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/ORICO-65W-7-in-1-USB-C-Travel-Power-Strip-chart.png\" width=\"968\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p><span>A lot of the affordable power strips with USB-C tend to top out at 15-20W, but this travel-ready solution steps things up to 65W. This makes it powerful enough to top off a wide variety of devices ranging from smartphones to tablets, laptops, and the list goes on. It’s a versatile solution with 3 AC outlets, two USB-A ports, and a couple of Type-C outputs in tow.</span></p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/23/orico-65w-7-in-1-usb-c-travel-power-strip/#more-1205734\">more…</a>",
+      "published": "2026-04-23T17:14:53+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
     {
       "id": "90efb8f339166c229cb037191272aff865133fb6",
       "title": "adidas deals from $28: Dame X Shoes,  MINECRAFT SLIDES, Jamaica 26 x Bob Marley Home Jersey, more",
@@ -12,6 +255,15 @@
       "published": "2026-04-23T17:08:25+00:00",
       "source": "9to5Toys",
       "category": "deals"
+    },
+    {
+      "id": "b11c8dc8fe5665f02b4c39105a2136326d8c2a0c",
+      "title": "Apple's M4 Mac mini, including the $599 one, is gradually becoming impossible to buy",
+      "link": "https://arstechnica.com/gadgets/2026/04/apples-m4-mac-mini-including-the-599-one-is-gradually-becoming-impossible-to-buy/",
+      "summary": "Pending refresh? RAM shortage? AI agents? There are many possible explanations.",
+      "published": "2026-04-23T17:06:08+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
     },
     {
       "id": "8a6ddad5e0a5242a8a5f46d785dda2e8ec66d0c3",
@@ -32,15 +284,6 @@
       "category": "tech"
     },
     {
-      "id": "24a88287f7686fc506f465e72fa68ab84c28cabf",
-      "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
-      "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
-      "summary": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
-      "published": "2026-04-23T16:53:44+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "79908235e2c607efa74d12921b2ca3c237c891d8",
       "title": "Huge chunk of glacier blocks Everest route in peak climbing season",
       "link": "https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&at_campaign=rss",
@@ -48,6 +291,15 @@
       "published": "2026-04-23T16:52:44+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "c1f52abeabcefac5c2bf24860b277cb66c9a9d57",
+      "title": "US Space Command: Russia is now operationalizing co-orbital ASAT weapons",
+      "link": "https://arstechnica.com/space/2026/04/us-space-command-russia-is-now-operationalizing-co-orbital-asat-weapons/",
+      "summary": "\"They’re putting operational systems up within orbit reach of our high-value satellites.\"",
+      "published": "2026-04-23T16:52:09+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
     },
     {
       "id": "4b32151c6d75e4cc0388f55260307b1b9a118f48",
@@ -59,17 +311,17 @@
       "category": "deals"
     },
     {
-      "id": "3e9f0ec76a64c13fab6a44dbdba7776fd4afa7eb",
-      "title": "Bluesky now supports better quality photos",
+      "id": "dce25ca87201b46a2bac88e34bb3349f5426e13c",
+      "title": "Bluesky now supports better-quality photos",
       "link": "https://techcrunch.com/2026/04/23/bluesky-now-supports-better-quality-photos/",
-      "summary": "The max size is now 2MB and max resolution is 4000x4000.",
+      "summary": "The max size is now 2MB and max resolution is 4000 x 4000.",
       "published": "2026-04-23T16:41:14+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
     {
-      "id": "e120d0da2aa0352aaddc3469c7f494e952d1d9d6",
-      "title": "Microsoft offers buyout for up to 7% of U.S. employees",
+      "id": "30b1712e75f950ab67628b0f8f832852c00e8c27",
+      "title": "Microsoft offers buyout for up to 7% of US employees",
       "link": "https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/",
       "summary": "If a worker's years of service at Microsoft plus their age equals 70 or more, they will be eligible for a voluntary retirement buyout.",
       "published": "2026-04-23T16:38:49+00:00",
@@ -84,6 +336,15 @@
       "published": "2026-04-23T16:38:46+00:00",
       "source": "9to5Toys",
       "category": "deals"
+    },
+    {
+      "id": "3fc2f45e7cc9ef20f855d972219210245b18632d",
+      "title": "Apple stops weirdly storing data that let cops spy on Signal chats",
+      "link": "https://arstechnica.com/tech-policy/2026/04/apple-stops-weirdly-storing-data-that-let-cops-spy-on-signal-chats/",
+      "summary": "Signal “very happy” Apple fixed bug storing private chats after app was deleted.",
+      "published": "2026-04-23T16:37:23+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
     },
     {
       "id": "4e793c6b01701a71c0e7d1fcec941801f46a824c",
@@ -102,6 +363,15 @@
       "published": "2026-04-23T16:33:21+00:00",
       "source": "9to5Toys",
       "category": "deals"
+    },
+    {
+      "id": "a85ee935b49fa92893824630a69cb45ca2484594",
+      "title": "Eight months early and under budget, the Roman Telescope is ready to launch",
+      "link": "https://arstechnica.com/science/2026/04/eight-months-early-and-under-budget-the-roman-telescope-is-ready-to-launch/",
+      "summary": "Spy satellite hardware has been repurposed to scan the Universe in the infrared.",
+      "published": "2026-04-23T16:27:07+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
     },
     {
       "id": "4a07a37b4b3c8f32ae3df0b4e02d7daffb2637d4",
@@ -152,7 +422,7 @@
       "id": "79c83da20e449d4d7b8c2d3c33ca4a418d89b0db",
       "title": "Era raises $11M to build a software platform for AI gadgets",
       "link": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
-      "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants",
+      "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
       "published": "2026-04-23T16:00:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
@@ -164,15 +434,6 @@
       "summary": "Meta's Accounts Center will transition to the Meta Account, which is supposed to make it easier to manage your experience on various Meta apps and devices.",
       "published": "2026-04-23T16:00:00+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "efba1aa56a542b323bb8b699c179c49ea9340fa9",
-      "title": "Inside Microsoft’s wave of executive departures",
-      "link": "https://www.theverge.com/tech/917361/microsoft-executive-departures-notepad",
-      "summary": "It feels like not a week has gone by this year without a senior Microsoft executive leaving the company. Some departures have triggered sweeping shakeups of Microsoft's biggest businesses, while others have seen fresh faces replace veteran employees. Executive departures at Microsoft are nothing new, but the pace feels notable this early in the year. [&#8230;]",
-      "published": "2026-04-23T16:00:00+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -227,24 +488,6 @@
       "summary": "<a href=\"https://www.reuters.com/business/thoma-bravo-nears-agreement-turn-software-firm-medallia-over-creditors-source-2026-04-22/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i40.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p40#a260423p40\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/business/thoma-bravo-nears-agreement-turn-software-firm-medallia-over-creditors-source-2026-04-22/\">Sources: Thoma Bravo prepares to hand over customer experience management company Medallia to creditors, leading to a ~$5.1B wipeout for Medallia's investors</a></b></span>&nbsp; &mdash;&nbsp; Private equity firm Thoma Bravo is nearing an agreement to hand over software firm Medallia to its lenders, wrapping up months &hellip; </p>",
       "published": "2026-04-23T15:30:01+00:00",
       "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "ecbfc7fd0474baa8398a963c1c26d7b9aef851fc",
-      "title": "25 years later, is it time for a new iPod?",
-      "link": "https://www.theverge.com/column/917369/sleevenote-new-ipod-streaming-bandcamp-music",
-      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. This year marks the 25th anniversary of the original iPod. With its monochrome display, mechanical scroll wheel, and 5 GB hard drive, Apple's pioneering music player now looks like the [&#8230;]",
-      "published": "2026-04-23T15:30:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "9d9bfc85ff5ac99b36d6769189bf49c3b21bce5f",
-      "title": "Microsoft offers voluntary retirement to long-serving employees",
-      "link": "https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes",
-      "summary": "Microsoft is changing up its annual rewards and performance programs today, and offering long-serving employees in the US the ability to voluntarily retire. It's the first time in Microsoft's more than 50-year history that the company has offered such a voluntary retirement program. \"Many of these employees have spent years, and in some cases, decades, [&#8230;]",
-      "published": "2026-04-23T15:22:20+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -311,39 +554,12 @@
       "category": "tech"
     },
     {
-      "id": "583e6c1965b0d44d2b5fe266c55a9359db570ca7",
-      "title": "WhatsApp partners with PayU to roll out prepaid mobile recharges in India; it remains a marginal payments player in India despite launching payments in 2020 (Jagmeet Singh/TechCrunch)",
-      "link": "http://www.techmeme.com/260423/p37#a260423p37",
-      "summary": "<a href=\"https://techcrunch.com/2026/04/23/whatsapp-adds-prepaid-phone-recharges-in-india-as-its-payments-usage-still-lags/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i37.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p37#a260423p37\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jagmeet Singh / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/04/23/whatsapp-adds-prepaid-phone-recharges-in-india-as-its-payments-usage-still-lags/\">WhatsApp partners with PayU to roll out prepaid mobile recharges in India; it remains a marginal payments player in India despite launching payments in 2020</a></b></span>&nbsp; &mdash;&nbsp; WhatsApp is adding prepaid phone recharges in India in a move to get more users to transact within the app, even as it struggles &hellip; </p>",
-      "published": "2026-04-23T14:45:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "61c2f546d96e1a7ed68a46c459e56a4b22f39b51",
-      "title": "DJI’s new Lito Series beginner drones start at less than $400",
-      "link": "https://www.theverge.com/tech/917426/dji-drone-lito-1-x1-amateur-4k-obstacle-avoidance-pricing-availability",
-      "summary": "Following teasers and leaks, DJI has officially announced its new entry-level Lito 1 and Lito X1 drones that both weigh less than 249 grams so they're not subjected to registration requirements in many countries. Neither drone is currently available in the US, but European pricing starts at &#8364;339 (around $397) for the Lito 1, and [&#8230;]",
-      "published": "2026-04-23T14:44:05+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "2c3fdcf8686b456d82e2b30832adcca9f4b56dd4",
       "title": "Vercel says some of its customers’ data was stolen prior to its recent hack",
       "link": "https://techcrunch.com/2026/04/23/vercel-says-some-of-its-customers-data-was-stolen-prior-to-its-recent-hack/",
       "summary": "The app and website hosting company has found evidence of a second compromise of customer accounts after expanding its initial investigation following a breach in early April.",
       "published": "2026-04-23T14:43:42+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "37b67aabe1c9d21cb1517db5b89f21bc815798a5",
-      "title": "Netflix can’t seem to follow up its biggest shows",
-      "link": "https://www.theverge.com/entertainment/917121/stranger-things-tales-from-85-netflix-spinoffs",
-      "summary": "It hasn't been that long since Stranger Things ended, but even still fans are clearly clamoring for more. The finale was overshadowed by a conspiracy about a secret episode, and an otherwise standard behind-the-scenes documentary became a hotbed for theorizing. Of course, given the scale of Stranger Things, Netflix was never going to let the [&#8230;]",
-      "published": "2026-04-23T14:30:00+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -354,15 +570,6 @@
       "published": "2026-04-23T14:28:51+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "719392daaec87668b69c5ef939be291e55e509ba",
-      "title": "Memo: White House says it has info indicating \"foreign entities, principally based in China\" are engaged in \"industrial scale distillation\" of American AI tech (Financial Times)",
-      "link": "http://www.techmeme.com/260423/p36#a260423p36",
-      "summary": "<a href=\"https://www.ft.com/content/abde4e1e-c69a-4cc4-ad96-d88308314298\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i36.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p36#a260423p36\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/abde4e1e-c69a-4cc4-ad96-d88308314298\">Memo: White House says it has info indicating &ldquo;foreign entities, principally based in China&rdquo; are engaged in &ldquo;industrial scale distillation&rdquo; of American AI tech</a></b></span>&nbsp; &mdash;&nbsp; Trump official Michael Kratsios says Chinese entities stealing from American labs</p>",
-      "published": "2026-04-23T14:20:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "a94b51f5c04760b73b51d0828fa841e75528afc6",
@@ -401,15 +608,6 @@
       "category": "tech"
     },
     {
-      "id": "32661e771fd44c02c8725fd279d9dbf632205a4e",
-      "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
-      "link": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
-      "summary": "Today on Decoder, I want to lay out an idea that&#8217;s been banging around my head for weeks now as we&#8217;ve been reporting on AI and having conversations here on this show. I&#8217;ve been calling it software brain, and it&#8217;s a particular way of seeing the world that fits everything into algorithms, databases and loops [&#8230;]",
-      "published": "2026-04-23T14:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "e78513879e67b0ddf050a9f3bc72d850b260c409",
       "title": "Labor unrest at Samsung may worsen memory chip supply issues",
       "link": "https://techcrunch.com/2026/04/23/labor-unrest-at-samsung-may-worsen-memory-chip-supply-issues/",
@@ -428,15 +626,6 @@
       "category": "world"
     },
     {
-      "id": "01a1ae8cd925861dbe16c1aa208239ddbff25508",
-      "title": "You’re about to feel the AI money squeeze",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
-      "summary": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthropic. Anthropic, like other leading AI labs, was under immense pressure to lessen the strain on its systems and start turning a [&#8230;]",
-      "published": "2026-04-23T13:45:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "1071bfacc0cbc4b10ebd762087d43d06c2790114",
       "title": "Today’s best iOS app deals and freebies: Maneater, World of Goo 2, DRAGON QUEST BUILDERS, more",
       "link": "https://9to5toys.com/2026/04/23/today-best-ios-app-deals-free-maneater-world-goo/",
@@ -452,15 +641,6 @@
       "summary": "The company is following through on its promise to not let Musk \"double dip\" if he won his appeal to restore Tesla's 2018 compensation package, worth $56 billion.",
       "published": "2026-04-23T13:40:33+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "2bbd603c4d90c9615c97b9d47fcf6fc3010220de",
-      "title": "Anthropic's valuation has hit $1T on Forge Global, a leading private marketplace exchange, surpassing OpenAI's valuation on the platform of $880B (Ben Bergman/Business Insider)",
-      "link": "http://www.techmeme.com/260423/p35#a260423p35",
-      "summary": "<a href=\"https://www.businessinsider.com/anthropic-trillion-dollar-valuation-on-secondary-markets-2026\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i35.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p35#a260423p35\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ben Bergman / <a href=\"https://www.businessinsider.com/\">Business Insider</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.businessinsider.com/anthropic-trillion-dollar-valuation-on-secondary-markets-2026\">Anthropic's valuation has hit $1T on Forge Global, a leading private marketplace exchange, surpassing OpenAI's valuation on the platform of $880B</a></b></span>&nbsp; &mdash;&nbsp; - Anthropic's valuation now hovers at $1 trillion on Forge Global, a leading private marketplace exchange.&nbsp; &mdash; That is a higher price than OpenAI &hellip; </p>",
-      "published": "2026-04-23T13:40:05+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -491,57 +671,12 @@
       "category": "deals"
     },
     {
-      "id": "49230329c844315cbff19fda3486d5b8726df75b",
-      "title": "Orkes, which helps companies scale their AI and agentic systems, raised $60M, including a $40M Series B led by AVP, bringing its total funding to ~$90M (Chris Metinko/Axios)",
-      "link": "http://www.techmeme.com/260423/p34#a260423p34",
-      "summary": "<a href=\"https://www.axios.com/pro/enterprise-software-deals/2026/04/23/orkes-reliable-ai-workloads-enterprise\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i34.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p34#a260423p34\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Chris Metinko / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/pro/enterprise-software-deals/2026/04/23/orkes-reliable-ai-workloads-enterprise\">Orkes, which helps companies scale their AI and agentic systems, raised $60M, including a $40M Series B led by AVP, bringing its total funding to ~$90M</a></b></span>&nbsp; &mdash;&nbsp; Orkes, which helps companies scale their AI and agentic systems, raised $60 million, CEO Jeu George tells Axios Pro exclusively.</p>",
-      "published": "2026-04-23T13:30:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "86d7a1e7312ff83745c32eca402b5de426698dd8",
       "title": "WhatsApp adds prepaid phone recharges in India as its payments usage still lags",
       "link": "https://techcrunch.com/2026/04/23/whatsapp-adds-prepaid-phone-recharges-in-india-as-its-payments-usage-still-lags/",
       "summary": "WhatsApp is rolling out prepaid phone recharges to its 500 million users in India via PayU.",
       "published": "2026-04-23T13:28:56+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "a8f12c67196021ab85c360f0f95691b4877aaef9",
-      "title": "Nintendo just released new Switch 2 gameplay and details for Yoshi and the Mysterious Book",
-      "link": "https://9to5toys.com/2026/04/23/nintendo-new-switch-2-gameplay-yoshi-mysterious-book/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/Yoshi-and-the-Mysterious-Book-copy.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Nintendo <a href=\"https://9to5toys.com/2026/03/10/nintendo-officially-announces-release-date-for-new-yoshi-mysterious-book/\">announced the release date</a> for the new Yoshi and the Mysterious Book on Switch 2 last month. Just after that it revealed that digital copies of the game would be $10 less expensive – much like we just saw with the new <a href=\"https://9to5toys.com/2026/04/21/nintendo-revealed-splatoon-raiders-release-date-switch-2/\">Splatoon Raiders</a> – and now it has dropped a new overview trailer with more details on Yoshi’s first solo outing on Switch 2. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/23/nintendo-new-switch-2-gameplay-yoshi-mysterious-book/#more-1205639\">more…</a>",
-      "published": "2026-04-23T13:24:17+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "f5ccfeb6f450746c76df40c10fff3309ce475a7c",
-      "title": "Add three classic Grand Theft Auto games to your Switch library for $20 today, more",
-      "link": "https://9to5toys.com/2026/04/23/classic-grand-theft-auto-games-switch-library/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/Grand-Theft-Auto-The-Trilogy-Definitive-Edition-copy.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Alongside a host of ongoing Switch game deals below and the expected launch of <a href=\"https://9to5toys.com/2025/11/06/rockstar-has-officially-delayed-grand-theft-auto-vi-again/\">Grand Theft Auto 6</a> later this year, Amazon is now offering the Grand Theft Auto The Trilogy Definitive Edition for Nintendo Switch down at $19.99 Prime shipped. Regularly $30, this is 33% off and matching the lowest price we have tracked on Amazon. It’s not a perfect definitive edition trilogy by any means, but we are talking about adding three absolute classics to your Switch library here for $20 – sounds like a win to me.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/23/classic-grand-theft-auto-games-switch-library/#more-1205633\">more…</a>",
-      "published": "2026-04-23T13:12:29+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "6bf15bd25d23fc436c6f8e2011f65af60f977cf5",
-      "title": "Razer’s Niko Edition BlackShark V3 Pro ANC gaming headset with detachable mic hits Amazon low at $200",
-      "link": "https://9to5toys.com/2026/04/23/razer-niko-edition-blackshark-v3-pro-anc-gaming-headset-amazon-low/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/Razer-BlackShark-V3-Pro-headset.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>We just spotted a deal at Amazon that drops Razer’s BlackShark V3 Pro Niko Edition ANC gaming headset down to $199.99 shipped. This is regularly a $270 unit, which is now seeing a $70 discount. We did see the white variant of this headset go for less earlier this month as part of a short-lived Woot offer, and today’s discount at Amazon lands the Niko Edition variant within just $10 of that price. This is the lowest price we have tracked for this gaming headset at Amazon, making this a great time to cash in and snag one for your battlestation. You can also get this in a handful of other finishes, all of which are currently fetching their full price except the black one, that’s down to <strong>$209.99 shipped</strong>. Head below for more details.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/23/razer-niko-edition-blackshark-v3-pro-anc-gaming-headset-amazon-low/#more-1205624\">more…</a>",
-      "published": "2026-04-23T13:08:22+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "81eb197da3c01068284ba9132fc0cc56d70922ec",
-      "title": "How Cash App founder Bob Lee's 2023 killing fed into a narrative pushed by tech leaders like Elon Musk about SF's decline until an acquaintance was convicted (Shawn Wen/Bloomberg)",
-      "link": "http://www.techmeme.com/260423/p33#a260423p33",
-      "summary": "<a href=\"https://www.bloomberg.com/news/features/2026-04-23/bob-lee-s-murder-the-tech-right-and-the-san-francisco-doom-loop\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i33.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p33#a260423p33\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Shawn Wen / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/features/2026-04-23/bob-lee-s-murder-the-tech-right-and-the-san-francisco-doom-loop\">How Cash App founder Bob Lee's 2023 killing fed into a narrative pushed by tech leaders like Elon Musk about SF's decline until an acquaintance was convicted</a></b></span>&nbsp; &mdash;&nbsp; The 2023 murder of a tech executive seemed to fit neatly into narratives about street crime in liberal cities, until it didn't.</p>",
-      "published": "2026-04-23T13:01:22+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -590,33 +725,6 @@
       "category": "tech"
     },
     {
-      "id": "6f6179ab5009b2ffad29a9ffce9c652dd6ab2cc3",
-      "title": "Spotify celebrates its 20th anniversary with a first-ever list of its 20 most streamed artists, albums, songs, podcasts, and audiobooks (Gil Kaufman/Billboard)",
-      "link": "http://www.techmeme.com/260423/p32#a260423p32",
-      "summary": "<a href=\"https://www.billboard.com/business/streaming/spotify-most-streamed-artists-songs-albums-swift-bad-bunny-1236229726/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i32.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p32#a260423p32\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Gil Kaufman / <a href=\"https://www.billboard.com/\">Billboard</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.billboard.com/business/streaming/spotify-most-streamed-artists-songs-albums-swift-bad-bunny-1236229726/\">Spotify celebrates its 20th anniversary with a first-ever list of its 20 most streamed artists, albums, songs, podcasts, and audiobooks</a></b></span>&nbsp; &mdash;&nbsp; But who else made the cut? &hellip; It was 20 years ago today that Spotify began to play.&nbsp; And to mark the streaming service's big anniversary &hellip; </p>",
-      "published": "2026-04-23T12:45:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "e8f6c9da0bea9ffdf9d58cef9359a026199df094",
-      "title": "Slate Titanium Apple Watch Series 11 now $100 off (Matching Amazon low), more from $299",
-      "link": "https://9to5toys.com/2026/04/23/slate-titanium-apple-watch-series-11-deal-2/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/Apple-Watch-Series-11-Titanium-deals.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Much of the spring Apple Watch Series 11 deals have disappeared now, but you can still score the Amazon low on the Jet Black 46mm base model at $329 and the higher-end GPS + Cell Slate Titanium model at <strong>$100 off</strong> the list prices. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/23/slate-titanium-apple-watch-series-11-deal-2/#more-1205626\">more…</a>",
-      "published": "2026-04-23T12:39:08+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "643a7eee3200801d5057d57e7f26831ab5bd96f5",
-      "title": "Lyft agrees to buy London black cab app Gett, its third acquisition in the past year, as the company expands its presence beyond the US (Natalie Lung/Bloomberg)",
-      "link": "http://www.techmeme.com/260423/p31#a260423p31",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-23/lyft-to-buy-gett-s-uk-business-marking-its-third-international-acquisition\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i31.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p31#a260423p31\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Natalie Lung / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-23/lyft-to-buy-gett-s-uk-business-marking-its-third-international-acquisition\">Lyft agrees to buy London black cab app Gett, its third acquisition in the past year, as the company expands its presence beyond the US</a></b></span>&nbsp; &mdash;&nbsp; Lyft Inc. has agreed to buy London black cab app Gett, its third acquisition in the past year, as the company works to expand its presence beyond the US.</p>",
-      "published": "2026-04-23T12:35:03+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "4e551411442d6f21ef6b62c38f7e4a27535bf8b3",
       "title": "Malaysians repaid a record RM23b in credit card debt in 2025 as household debt rises",
       "link": "https://www.malaymail.com/news/malaysia/2026/04/23/malaysians-repaid-a-record-rm23b-in-credit-card-debt-in-2025-as-household-debt-rises/217341",
@@ -624,24 +732,6 @@
       "published": "2026-04-23T12:30:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "39f5126b8605276ebc0935c3e6335a1f42c100a2",
-      "title": "Logitech’s ultra-slim light-powered Apple Magic Keyboard alternative never needs to be charged, now at $80 (All-time low)",
-      "link": "https://9to5toys.com/2026/04/23/logitech-slim-solar-artificial-light-powered-apple-magic-keyboard-alternative/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/Logitech-Signature-Slim-Solar-keyboard.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>We just spotted a deal at Amazon that drops Logitech’s Signature Slim Solar+ wireless Bluetooth keyboard for Mac down to $79.99 shipped. This particular unit debuted towards the end of last year carrying a $100 price tag. While it has seen a handful of discounts that had it down to the $89 mark a few times, it has never been this low. Today’s 20% discount lands it $9 below its previous all-time low, delivering a new best price to beat. This would be a great alternative to Apple’s Magic Keyboard if you’re looking for something different for your workstation, and you can learn more about its features below.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/23/logitech-slim-solar-artificial-light-powered-apple-magic-keyboard-alternative/#more-1205612\">more…</a>",
-      "published": "2026-04-23T12:20:07+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "88860c53bf8336f5e7f44de0bca76e8a638bdc3a",
-      "title": "Petual, which automates internal audit work and generates auditor-ready workpapers, raised $20M across a pre-seed led by First Round and a seed led by a16z (Ryan Lawler/Axios)",
-      "link": "http://www.techmeme.com/260423/p30#a260423p30",
-      "summary": "<a href=\"https://www.axios.com/pro/fintech-deals/2026/04/23/petual-20m-ai-audit-software\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i30.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p30#a260423p30\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ryan Lawler / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/pro/fintech-deals/2026/04/23/petual-20m-ai-audit-software\">Petual, which automates internal audit work and generates auditor-ready workpapers, raised $20M across a pre-seed led by First Round and a seed led by a16z</a></b></span>&nbsp; &mdash;&nbsp; - Other backers include Cowboy Ventures, Lachy Groom, the founders of Lyft and Opendoor, and other angels.</p>",
-      "published": "2026-04-23T12:20:03+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "ff6b01b64e35bef792909b2ba7a3d2dfb7c6316a",
@@ -689,15 +779,6 @@
       "category": "malaysia"
     },
     {
-      "id": "8e57672a8012126b4dd5ca666d71ba46e6423b9e",
-      "title": "Wild deals hit unlocked Galaxy Z Fold 7 at up to $819 off today",
-      "link": "https://9to5toys.com/2026/04/23/wild-deal-unlocked-galaxy-z-fold-7/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Galaxy-Z-Fold-7-deals-02.jpg?quality=82&#038;strip=all&#038;w=1500\" /></div><p>While the Samsung foldable hype may have shifted to the TriFold earlier this year, the latest Galaxy Z Fold 7 is still arguably one of the best on the market and you can land some gigantic deals right now – “excellent” <a href=\"https://bestbuycreators.7tiv.net/aNxeXb\">open-box units up to<strong>$819 off</strong></a> the new list price or brand new at up to $510 off. Details below. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/04/23/wild-deal-unlocked-galaxy-z-fold-7/#more-1205618\">more…</a>",
-      "published": "2026-04-23T12:05:48+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "a03b2a0acb13f97e75c5e0deed2209aa69f4b4ab",
       "title": "Surveillance vendors caught abusing access to telcos to track people’s phone locations, researchers say",
       "link": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
@@ -713,24 +794,6 @@
       "summary": "The announcement is a clear sign the company is trying to become an all-in-one hub for creators, reducing the hassle of juggling various tools and services to run their businesses.",
       "published": "2026-04-23T12:00:00+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "f26566cd4c48cf4491ba7b22fabf9edc98c4cf38",
-      "title": "Tim Cook’s departure is the start of a new era at Apple",
-      "link": "https://www.theverge.com/tech/916585/tim-cook-apple-new-era",
-      "summary": "Apple is about to become a very different company. This September, Apple CEO Tim Cook is stepping down and will be replaced by John Ternus, the current head of hardware. But the shift is bigger than just a CEO transition - it's the most significant move yet into a world where Apple's executive team isn't [&#8230;]",
-      "published": "2026-04-23T12:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "eaec1dd793023830e2f502a32f8d845548c1d194",
-      "title": "Govee’s new colorful outdoor lights are its first with solar power",
-      "link": "https://www.theverge.com/tech/916707/govee-outdoor-solar-string-lights-battery-rechargeable-pricing-availability",
-      "summary": "Govee announced its first solar-powered lights today. They include a 6W panel with an integrated 4,800mAh battery that can be recharged with a single full day of sunlight (though if the weather's looking a little overcast, you can still charge it over USB-C). The Govee Outdoor Solar String Lights are available now through the company's [&#8230;]",
-      "published": "2026-04-23T12:00:00+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -932,6 +995,24 @@
       "category": "deals"
     },
     {
+      "id": "93cbde649cc7be45291763de3cfbeca6ab8bd647",
+      "title": "Monid",
+      "link": "https://www.producthunt.com/products/monid",
+      "summary": "<p>\n            One wallet, every paid tool your agent needs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/monid?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130427?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-23T07:06:33+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "33d53113ac2b30907e010fc29757b905342116b1",
+      "title": "Vora Health",
+      "link": "https://www.producthunt.com/products/vora-health",
+      "summary": "<p>\n            Every wearable, every metric, one free AI-powered health app\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vora-health?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130384?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-23T06:25:10+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "57032bf26e443eace3b43bff59e08eaf61a58066",
       "title": "YTL AI Labs Launches ILMU Claw Agentic AI Platform",
       "link": "https://www.lowyat.net/2026/390717/ytl-ai-labs-launches-ilmu-claw-agentic-ai-platform/",
@@ -995,15 +1076,6 @@
       "category": "world"
     },
     {
-      "id": "dcbb4056aaf56d51aafd57c64e7aece3572c16b3",
-      "title": "Shade lands $14M to let creative teams search their video libraries in plain English",
-      "link": "https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/",
-      "summary": "Shade has its own filesystem that lets you \"stream\" files directly to your local drive.",
-      "published": "2026-04-23T04:17:52+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "19f23035078eb7b06fe3241da2276cf2299fed42",
       "title": "Gentari’s largest EV Charging Hub in Penang, 540kW total capacity with 6 bays at Bayan Baru",
       "link": "https://soyacincau.com/2026/04/23/gentari-petronas-bayan-baru-penang-ev-charging-hub/",
@@ -1020,24 +1092,6 @@
       "published": "2026-04-23T00:39:56+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "a15b291cca0e5f3b5d79b63456b363a391b9829c",
-      "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
-      "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
-      "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
-      "published": "2026-04-22T23:56:52+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "ce97fdcfc9f355c98f8aaf43b72f174907f9f223",
-      "title": "Google updates Workspace to make AI your new office intern",
-      "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
-      "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
-      "published": "2026-04-22T22:44:26+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "acbbb75498f7d04df2b3bbfc8ca4a35b819b999a",
@@ -1083,15 +1137,6 @@
       "published": "2026-04-22T20:06:49+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "85fd2a3d921bf41919daeee652cc6bfdcb44118c",
-      "title": "Instamor",
-      "link": "https://www.producthunt.com/products/instamor-short-video-dating",
-      "summary": "<p>\n            Video-first partner matching per your personal vibe \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/instamor-short-video-dating?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130162?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-22T19:51:28+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "3d2a683c721dbfde263e4af2b957a26ceb9851bf",
@@ -1148,15 +1193,6 @@
       "category": "world"
     },
     {
-      "id": "c74dbb71f61b922c463d9b921ba8f78389489f02",
-      "title": "Live Chats on Threads",
-      "link": "https://www.producthunt.com/products/live-chats-on-threads",
-      "summary": "<p>\n            Threads by Meta is now rolling out real-time public chats \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/live-chats-on-threads?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130083?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-22T17:33:54+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "ae1e278c2131d19212a68c73edad8a2774e97be5",
       "title": "Nigeria's suspected coup plotters deny treason charges",
       "link": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss",
@@ -1175,11 +1211,11 @@
       "category": "tech"
     },
     {
-      "id": "8f44aad42cad9de9c307edb57185bd08198b7c70",
-      "title": "MiMo-V2.5 & Pro",
-      "link": "https://www.producthunt.com/products/mimo-3",
-      "summary": "<p>\n            Frontier agent capability with better token efficiency\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mimo-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130056?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-22T16:51:37+00:00",
+      "id": "7af738274c4bbc276216a13bc490b46ae61d36b6",
+      "title": "Claude Code /ultrareview",
+      "link": "https://www.producthunt.com/products/claude-code",
+      "summary": "<p>\n            Cloud code review using a fleet of parallel agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-code?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130070?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-22T17:09:56+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1220,6 +1256,15 @@
       "category": "events"
     },
     {
+      "id": "54861c503756d7c4a4a33f97ae4580067ab1747a",
+      "title": "IFTTT MCP",
+      "link": "https://www.producthunt.com/products/ifttt",
+      "summary": "<p>\n            Connect Claude to 1000+ apps, instantly\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ifttt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130027?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-22T16:15:30+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "eeb90603c9a381f8e4c416ef0aff5f79a16d6791",
       "title": "Oppo Find X9s goes official in Malaysia: Triple 50MP Hasselblad cameras, Dimensity 9500s, 6.59″ AMOLED, priced at RM3,899",
       "link": "https://soyacincau.com/2026/04/22/oppo-find-x9s-malaysia-price-specs-promo/",
@@ -1256,6 +1301,15 @@
       "category": "world"
     },
     {
+      "id": "113bbe7d8e09278c8d714527d6594f0d817baf65",
+      "title": "Qwen3.6-27B",
+      "link": "https://www.producthunt.com/products/qwen3",
+      "summary": "<p>\n            The sweet-spot open dense model for coding agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1129960?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-22T14:28:10+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "d4276c263e613899fe980aefbc4947c3e7ba7c6a",
       "title": "Indian med student rakes in thousands with AI-generated MAGA hottie",
       "link": "https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/",
@@ -1274,24 +1328,6 @@
       "category": "malaysia"
     },
     {
-      "id": "20a9da0f11205844437564f078f6bcf8a1f87701",
-      "title": "As EV batteries improve, ChargePoint debuts 600 kW fast charger",
-      "link": "https://arstechnica.com/cars/2026/04/as-ev-batteries-improve-chargepoint-debuts-600-kw-fast-charger/",
-      "summary": "The new design is cheaper and will even fit in convenience store parking lots.",
-      "published": "2026-04-22T13:49:09+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "a61bd73a8488f0846f954d14386d2e498d6a8e32",
-      "title": "Foil AI Code Security",
-      "link": "https://www.producthunt.com/products/foil-ai-code-scanner",
-      "summary": "<p>\n            AI code security review that runs entirely on your Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/foil-ai-code-scanner?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1129872?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-22T12:35:54+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "2bb26cc2e63c02f0bb3c16590082f424d097a529",
       "title": "Reloop Animation Studio",
       "link": "https://www.producthunt.com/products/reloop",
@@ -1301,22 +1337,13 @@
       "category": "events"
     },
     {
-      "id": "505207b4aab600c6a0109ec74b27534d1c0eb0ad",
-      "title": "Our favorite gear at Sea Otter Classic wasn't the bikes—it was the accessories",
-      "link": "https://arstechnica.com/cars/2026/04/our-favorite-gear-at-sea-otter-classic-wasnt-the-bikes-it-was-the-accessories/",
-      "summary": "A Bluetooth suction-cup rack and a palm-sized tow rope were among our most practical finds.",
-      "published": "2026-04-22T11:15:49+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "514cbf8c32aae722a7dca0c7e48a3b4645799ec6",
-      "title": "Investors lost billions on Trump’s memecoin. Another gala won’t fix that.",
-      "link": "https://arstechnica.com/tech-policy/2026/04/investors-lost-billions-on-trumps-memecoin-another-gala-wont-fix-that/",
-      "summary": "If Dems take Congress, Trump may face reckoning for “pay-to-play” memecoin galas.",
-      "published": "2026-04-22T11:00:02+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
+      "id": "5937edbb385c3d24bec633db5f6a8d6a485b6157",
+      "title": "Speakmac",
+      "link": "https://www.producthunt.com/products/speakmac",
+      "summary": "<p>\n            Private voice typing for Mac that works anywhere\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/speakmac?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1129785?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-22T10:30:26+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "eb3860ec5c2b817ee59d402f2292b3c33f6f5f39",
@@ -1324,15 +1351,6 @@
       "link": "https://www.producthunt.com/products/talk-to-review",
       "summary": "<p>\n            Real reviews in 10 seconds.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/talk-to-review?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1129782?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-22T10:27:26+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "98ebfdf6b533be154a504f2172ecaf3226fb0cad",
-      "title": "Hookdeck Outpost",
-      "link": "https://www.producthunt.com/products/hookdeck",
-      "summary": "<p>\n            Open-source outbound webhooks for your platform\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hookdeck?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1129762?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-22T09:52:15+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1371,15 +1389,6 @@
       "published": "2026-04-22T02:36:26+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "d844270d6ba714856cb4565a20c5c7db7ad54499",
-      "title": "Pentagon wants $54B for drones, more than most nations’ military budgets",
-      "link": "https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/",
-      "summary": "The proposed Pentagon drone investment rivals Ukraine’s entire military budget.",
-      "published": "2026-04-21T21:57:54+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
     },
     {
       "id": "77a3001314e5b9fbb50278e9a72179d70c255a0d",
@@ -1427,20 +1436,11 @@
       "category": "malaysia"
     },
     {
-      "id": "14958b9156452c59f9da1cd67b0821e451b211d4",
-      "title": "PopTask v2.0",
-      "link": "https://www.producthunt.com/products/poptask",
-      "summary": "<p>\n            3 seconds from thought to task. No clicks, no app switching\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/poptask?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1128189?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-20T15:30:45+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "49485afb4a4afffb6881dd80a3bcdd95315dbc19",
-      "title": "Skill Inspector",
-      "link": "https://www.producthunt.com/products/snyk",
-      "summary": "<p>\n            Audit your AI agent skills to avoid malware\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/snyk?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1127955?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-20T10:30:34+00:00",
+      "id": "bd6ccd3d2ed4b3d59bb074109c4a1fa1824a5339",
+      "title": "Magic Patterns Agent 2.0",
+      "link": "https://www.producthunt.com/products/magicpatterns",
+      "summary": "<p>\n            The best AI design agent to go from idea to production\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/magicpatterns?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1127525?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-19T18:34:07+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1454,20 +1454,20 @@
       "category": "events"
     },
     {
-      "id": "cb9961ed5dfb61b906bee50972f4e65bbfc10f5e",
-      "title": "Docsio",
-      "link": "https://www.producthunt.com/products/docsio",
-      "summary": "<p>\n            Lovable for doc sites\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/docsio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1119224?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-08T21:41:46+00:00",
+      "id": "f7fc0757cdb1d73db490c3599b40573c0bc7f791",
+      "title": "MailerLogic",
+      "link": "https://www.producthunt.com/products/mailerlogic",
+      "summary": "<p>\n            Email API with built-in deliverability intelligence\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mailerlogic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1124761?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-15T22:18:03+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "f452957b5f7c8cd003506ec4a4d97cdc474306e0",
-      "title": "Ubuntu 26.04 Resolute Raccoon",
-      "link": "https://www.producthunt.com/products/ubuntu",
-      "summary": "<p>\n            The next-generation Ubuntu for Developers, AI and Cloud\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ubuntu?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1117965?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-07T15:28:29+00:00",
+      "id": "acc86bda7338466882625875bebba48a147b2e1e",
+      "title": "Kollab",
+      "link": "https://www.producthunt.com/products/kollab-2",
+      "summary": "<p>\n            Shared workspace where teams work with agents together\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kollab-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1124020?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-15T02:48:44+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
