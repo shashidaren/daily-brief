@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-04-23T21:39:28.579537+00:00",
+  "generatedAt": "2026-04-23T22:37:26.697913+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "138d5e853d69f00121160b041cfcf2dece30c326",
+      "title": "Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro",
+      "link": "https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle",
+      "summary": "Microsoft started teasing a mysterious Discord and Xbox Game Pass partnership yesterday, and a new leak appears to have detailed exactly what's coming. Discord Previews has uncovered a new Xbox Game Pass \"Starter Edition\" that is bundled with Discord Nitro. The Starter Edition reportedly includes \"access to over 50 games from the Game Pass library,\" [&#8230;]",
+      "published": "2026-04-23T22:36:39+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "a11d99c5fd4afee9d4f267f64642e2f0543db2c1",
+      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+      "summary": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. Some of these apps, such [&#8230;]",
+      "published": "2026-04-23T22:27:11+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "52e4cc79483945579dbff6e0bac184286a57ec6e",
+      "title": "JomCharge x DBKL turn on EV chargers at McDonald’s Sri Petaling",
+      "link": "https://soyacincau.com/2026/04/24/jomcharge-dbkl-90kw-dc-11kw-ac-ev-chargers-mcdonalds-sri-petaling/",
+      "summary": "JomCharge x DBKL street-level EV charger deployment continues and the latest location is in Sri Petaling, Kuala Lumpur. For this location, they have deployed a total of four EV charging bays in front of McDonald&#8217;s Sri Petaling which consists of both AC and DC charge points, up to 90kW. As part of its opening promo, [&#8230;]",
+      "published": "2026-04-23T22:22:34+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "ef070a850fbcdf753c121d28e83753fff81cfbe3",
+      "title": "Sources: the US DOJ arrested a soldier involved in the capture of Nicolás Maduro for allegedly making $400K+ on Polymarket by betting on his removal from office (ABC News)",
+      "link": "http://www.techmeme.com/260423/p60#a260423p60",
+      "summary": "<a href=\"https://abcnews.com/US/doj-arrests-soldier-made-400000-betting-maduros-removal/story?id=132325426\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i60.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p60#a260423p60\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://abcnews.com/\">ABC News</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://abcnews.com/US/doj-arrests-soldier-made-400000-betting-maduros-removal/story?id=132325426\">Sources: the US DOJ arrested a soldier involved in the capture of Nicol&aacute;s Maduro for allegedly making $400K+ on Polymarket by betting on his removal from office</a></b></span>&nbsp; &mdash;&nbsp; The bet was allegedly placed by a commando involved in Nicolas Maduro's capture.&nbsp; &mdash;&nbsp; Katherine Faulders, Aaron Katersky, Peter Charalambous, and Alexander Mallin</p>",
+      "published": "2026-04-23T22:10:03+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "7a0e3a5c1a7bedcecc616ac241ba5d135ec95e9e",
+      "title": "US accuses China of “industrial-scale” AI theft. China says it’s “slander.”",
+      "link": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/",
+      "summary": "Trump-Xi summit may be rocked by US mulling huge sanctions.",
+      "published": "2026-04-23T21:45:10+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
     {
       "id": "7efd0216315a5b5f04dda19e05ce149fe4b8e4e6",
       "title": "Brendan Carr’s war on wokeness targets inclusive children&#8217;s television",
@@ -23,12 +68,48 @@
       "category": "tech"
     },
     {
+      "id": "154324bfa2528a19fead635a72d1c99203c4116d",
+      "title": "Carbon nanotube wiring gets closer to competing with copper",
+      "link": "https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper/",
+      "summary": "While this material degrades over time, it could point to better ones.",
+      "published": "2026-04-23T21:22:09+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
       "id": "9f99fe49cb35806d029c4dd82f72e325ff7e4f07",
       "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
       "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
       "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
       "published": "2026-04-23T21:00:00+00:00",
       "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "af5064cd60f3e2e7fb66f4d5226e83976dfbc0ba",
+      "title": "We still don't have a more precise value for \"Big G\"",
+      "link": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
+      "summary": "Such experiments bring \"order to the universe, whether or not the number agrees with the expected value.”",
+      "published": "2026-04-23T20:57:35+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "577f9a8fa208ee1f4c7d0a2fb8fa0eeb38e89aea",
+      "title": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
+      "link": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.",
+      "published": "2026-04-23T20:45:51+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "39816265f2c5d99764fb2d835f57b5eb78366809",
+      "title": "In a first, a ransomware family is confirmed to be quantum-safe",
+      "link": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
+      "summary": "Technically speaking, there's no practical benefit to use PQC. So why is it being used?",
+      "published": "2026-04-23T20:41:23+00:00",
+      "source": "Ars Technica - All content",
       "category": "tech"
     },
     {
@@ -140,10 +221,10 @@
       "category": "deals"
     },
     {
-      "id": "1b17e34f30a1496e016d4c9baf7250bd7d6caff1",
-      "title": "Instagram launched Instants, an app for sharing disappearing photos, in Italy this week, after rolling out an Instants feature in its main app in some regions (Sydney Bradley/Business Insider)",
+      "id": "c0d37f9a8c43cf411e7fa4f5479fe53d0ad5851f",
+      "title": "Instagram launches Instants, an app for sharing disappearing photos, in Italy and Spain, after rolling out an Instants feature in its main app in some regions (Sydney Bradley/Business Insider)",
       "link": "http://www.techmeme.com/260423/p54#a260423p54",
-      "summary": "<a href=\"https://www.businessinsider.com/instagram-roll-out-snapchat-like-app-instants-italy-2026-4\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i54.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p54#a260423p54\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sydney Bradley / <a href=\"https://www.businessinsider.com/\">Business Insider</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.businessinsider.com/instagram-roll-out-snapchat-like-app-instants-italy-2026-4\">Instagram launched Instants, an app for sharing disappearing photos, in Italy this week, after rolling out an Instants feature in its main app in some regions</a></b></span>&nbsp; &mdash;&nbsp; - Instagram launched a new app in Italy this week called &ldquo;Instants.&rdquo;&nbsp; &mdash; A hodgepodge of apps like Snapchat, Locket, and BeReal, the app is meant to be &ldquo;low-pressure.&rdquo;</p>",
+      "summary": "<a href=\"https://www.businessinsider.com/instagram-roll-out-snapchat-like-app-instants-italy-2026-4\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i54.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p54#a260423p54\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sydney Bradley / <a href=\"https://www.businessinsider.com/\">Business Insider</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.businessinsider.com/instagram-roll-out-snapchat-like-app-instants-italy-2026-4\">Instagram launches Instants, an app for sharing disappearing photos, in Italy and Spain, after rolling out an Instants feature in its main app in some regions</a></b></span>&nbsp; &mdash;&nbsp; - Instagram launched a new app in Italy and Spain this week called &ldquo;Instants.&rdquo;&nbsp; &mdash; A hodgepodge of apps like Snapchat, Locket &hellip; </p>",
       "published": "2026-04-23T19:15:04+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -311,15 +392,6 @@
       "category": "tech"
     },
     {
-      "id": "1389e0ac4086c9752edd4a0c99e8b27d63b97aee",
-      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
-      "summary": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI just released GPT-5.4 last month, but says that the new GPT-5.5 \"excels\" at tasks like writing and debugging code, [&#8230;]",
-      "published": "2026-04-23T18:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "1d321763202e30bc5ec6876ca416fae2573aaa00",
       "title": "At a town hall, Asha Sharma said Microsoft is returning to using Xbox for its gaming division, instead of Microsoft Gaming, as \"Xbox needs to be our identity\" (Tom Warren/The Verge)",
       "link": "http://www.techmeme.com/260423/p47#a260423p47",
@@ -329,19 +401,10 @@
       "category": "tech"
     },
     {
-      "id": "75aed9db16d6dcbf5c1181818ad353858e288cf4",
-      "title": "Ikea&#8217;s new inflatable chair doesn&#8217;t look like an inflatable chair",
-      "link": "https://www.theverge.com/design/917567/ikea-ps-collection-2026-inflatable-easy-chair-experimental-design",
-      "summary": "Ikea shared a sneak preview of three pieces from a new experimental collection, set to be fully revealed at an annual company event on May 13th. One of the pieces is an inflatable chair that looks like a far cry from the cheap and lumpy inflatable furniture popularized in the '90s. This isn't the first [&#8230;]",
-      "published": "2026-04-23T17:52:58+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "bdf7e7c7f11ce1c34c5ed97b0e0eed83654c22c2",
-      "title": "Memo: Meta plans to cut 10% of workers, or ~8,000 jobs, on May 20 and won't fill 6,000 open roles, in an effort to offset its AI spending and boost efficiency (Kurt Wagner/Bloomberg)",
+      "id": "b7eef6bbfa4a27b85982908b293892622f1cc51f",
+      "title": "Meta plans to cut 10% of workers, or ~8,000 jobs, on May 20 and won't fill 6,000 open roles, in an effort to offset its AI spending and boost efficiency (Kurt Wagner/Bloomberg)",
       "link": "http://www.techmeme.com/260423/p46#a260423p46",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i46.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p46#a260423p46\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kurt Wagner / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency\">Memo: Meta plans to cut 10% of workers, or ~8,000 jobs, on May 20 and won't fill 6,000 open roles, in an effort to offset its AI spending and boost efficiency</a></b></span>&nbsp; &mdash;&nbsp; Meta Platforms Inc. plans to cut 10% of workers, or roughly 8,000 employees, in an effort to boost efficiency and offset its heavy spending on artificial intelligence.</p>",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i46.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p46#a260423p46\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kurt Wagner / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency\">Meta plans to cut 10% of workers, or ~8,000 jobs, on May 20 and won't fill 6,000 open roles, in an effort to offset its AI spending and boost efficiency</a></b></span>&nbsp; &mdash;&nbsp; Meta Platforms Inc. plans to cut 10% of workers, or roughly 8,000 employees, in an effort to boost efficiency and offset its heavy spending on artificial intelligence.</p>",
       "published": "2026-04-23T17:47:16+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -354,15 +417,6 @@
       "published": "2026-04-23T17:36:11+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "13918c412a7b94e8550856c119977b8c5e905890",
-      "title": "Microsoft announces its first voluntary retirement program, for staff whose years of employment and age add up to 70+; source: 7% of US employees are eligible (Jordan Novet/CNBC)",
-      "link": "http://www.techmeme.com/260423/p45#a260423p45",
-      "summary": "<a href=\"https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260423/i45.jpg\" vspace=\"4\" /></a>\n<p><a href=\"http://www.techmeme.com/260423/p45#a260423p45\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jordan Novet / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html\">Microsoft announces its first voluntary retirement program, for staff whose years of employment and age add up to 70+; source: 7% of US employees are eligible</a></b></span>&nbsp; &mdash;&nbsp; Microsoft will offer voluntary buyouts to some U.S. employee, a first for the 51-year-old software giant, as the tech industry grapples &hellip; </p>",
-      "published": "2026-04-23T17:35:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "60ef7c53bc20177bf2d2f562f59a9c1fbfe1d7e6",
@@ -1013,15 +1067,6 @@
       "category": "deals"
     },
     {
-      "id": "93cbde649cc7be45291763de3cfbeca6ab8bd647",
-      "title": "Monid",
-      "link": "https://www.producthunt.com/products/monid",
-      "summary": "<p>\n            One wallet, every paid tool your agent needs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/monid?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130427?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-23T07:06:33+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "33d53113ac2b30907e010fc29757b905342116b1",
       "title": "Vora Health",
       "link": "https://www.producthunt.com/products/vora-health",
@@ -1065,6 +1110,15 @@
       "published": "2026-04-23T05:25:10+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
+    },
+    {
+      "id": "9cc06c9516694ea865a03dae2cb97342ae11be6b",
+      "title": "The Autonomous Stack",
+      "link": "https://www.producthunt.com/products/the-autonomous-stack",
+      "summary": "<p>\n            Production-tested architecture for autonomous Claude agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/the-autonomous-stack?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130346?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-23T05:09:02+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "cc4a7676f2e0fa346b732c741500e7b72082fe6e",
@@ -1112,6 +1166,15 @@
       "category": "tech"
     },
     {
+      "id": "a22461d1fffca0ca6f626813a999f34014b89913",
+      "title": "Public Pages for Confluence",
+      "link": "https://www.producthunt.com/products/atlassian",
+      "summary": "<p>\n            Turn Confluence pages into public SEO-friendly websites\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/atlassian?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130196?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-22T20:44:59+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "199af34bc4b8a41c27525f35ad5b74ea70fe0aa2",
       "title": "Our newsroom AI policy",
       "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
@@ -1139,6 +1202,15 @@
       "category": "tech"
     },
     {
+      "id": "85fd2a3d921bf41919daeee652cc6bfdcb44118c",
+      "title": "Instamor",
+      "link": "https://www.producthunt.com/products/instamor-short-video-dating",
+      "summary": "<p>\n            Video-first partner matching per your personal vibe \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/instamor-short-video-dating?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130162?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-22T19:51:28+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "3d2a683c721dbfde263e4af2b957a26ceb9851bf",
       "title": "You want your Moon landings in HD? So does NASA—here's how it's happening.",
       "link": "https://arstechnica.com/space/2026/04/you-want-your-moon-landings-in-hdtv-so-does-nasa-heres-how-its-happening/",
@@ -1155,15 +1227,6 @@
       "published": "2026-04-22T19:32:56+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "2ed209692a7561c1aaf936a1f9a4ca98c4d6edcc",
-      "title": "Workspace agents in ChatGPT",
-      "link": "https://www.producthunt.com/products/openai",
-      "summary": "<p>\n            Codex-powered agents for teams.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130145?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-22T19:03:08+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "f450cc562b67f8ab93e100b063651fdc9f7d3ceb",
@@ -1211,15 +1274,6 @@
       "category": "world"
     },
     {
-      "id": "49d6fdc0df2ce984911aaf9a4052f2389bb4c8bb",
-      "title": "Google unveils two new TPUs designed for the \"agentic era\"",
-      "link": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/",
-      "summary": "Google's new generation of Tensor AI chips is actually two chips, one for inference and one for training.",
-      "published": "2026-04-22T17:10:32+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
       "id": "7af738274c4bbc276216a13bc490b46ae61d36b6",
       "title": "Claude Code /ultrareview",
       "link": "https://www.producthunt.com/products/claude-code",
@@ -1238,24 +1292,6 @@
       "category": "events"
     },
     {
-      "id": "8f44aad42cad9de9c307edb57185bd08198b7c70",
-      "title": "MiMo-V2.5 & Pro",
-      "link": "https://www.producthunt.com/products/mimo-3",
-      "summary": "<p>\n            Frontier agent capability with better token efficiency\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mimo-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130056?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-22T16:51:37+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "2c78b18a88487075b4d2990b2efb8613878dbda6",
-      "title": "Tabloid reports linking 10 missing and dead scientists spur FBI probe",
-      "link": "https://arstechnica.com/tech-policy/2026/04/tabloid-reports-linking-10-missing-and-dead-scientists-spur-fbi-probe/",
-      "summary": "FBI suspects foreign spies may be targeting scientists with access to government secrets.",
-      "published": "2026-04-22T16:46:31+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
       "id": "680ea34be2d9f7db39834ab867c3537c73989000",
       "title": "BMW 7 Series gets Neue Klasse upgrade. New i7 now offers over 700km range and 250kW DC fast charging",
       "link": "https://soyacincau.com/2026/04/23/bmw-7-series-g70-refresh-bmw-i7-neue-klasse-upgrade-specs-features/",
@@ -1263,15 +1299,6 @@
       "published": "2026-04-22T16:42:53+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "54861c503756d7c4a4a33f97ae4580067ab1747a",
-      "title": "IFTTT MCP",
-      "link": "https://www.producthunt.com/products/ifttt",
-      "summary": "<p>\n            Connect Claude to 1000+ apps, instantly\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ifttt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130027?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-22T16:15:30+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "dbd929b0850804ed67384f67ebc232fc20dd7545",
@@ -1290,24 +1317,6 @@
       "published": "2026-04-22T15:56:47+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "a7000ba99d3c87e79673b14ab51ddccb905c5077",
-      "title": "Physicists think they've solved the muon mystery",
-      "link": "https://arstechnica.com/science/2026/04/physicists-think-theyve-solved-the-muon-mystery/",
-      "summary": "Results dash hopes for a fifth force but provide very precise proof of Standard Model and QFT.",
-      "published": "2026-04-22T15:40:02+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "a03bed5301261aa9f7addee6920193b658fb3f6a",
-      "title": "New court ruling blocks many of the government's anti-renewable policies",
-      "link": "https://arstechnica.com/tech-policy/2026/04/new-court-ruling-blocks-many-of-the-governments-anti-renewable-policies/",
-      "summary": "Added layers of review singling out renewable energy have little legal basis.",
-      "published": "2026-04-22T15:09:28+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
     },
     {
       "id": "2ded7336a97ec5792626af4158dde5395357cd48",
@@ -1346,15 +1355,6 @@
       "category": "events"
     },
     {
-      "id": "241ba9f32ef32026a7f72f6f7bda0efa399a4274",
-      "title": "US charges anti-extremism organisation over payments to informants in hate groups",
-      "link": "https://www.bbc.com/news/articles/clyrkd022ejo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Southern Poverty Law Center said it would \"vigorously defend ourselves, our staff, and our work\".",
-      "published": "2026-04-22T09:09:50+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "2a763686017c239b7ee670e65fb18242d326ef5b",
       "title": "Apple’s Tap to Pay on iPhone is now in Malaysia",
       "link": "https://soyacincau.com/2026/04/22/apple-tap-to-pay-on-iphone-now-in-malaysia/",
@@ -1371,15 +1371,6 @@
       "published": "2026-04-22T06:14:17+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "fb66e98cbf65e1a5c22d4b91cdc0b4440dc3edb0",
-      "title": "Blink AI CFO",
-      "link": "https://www.producthunt.com/products/blink-21",
-      "summary": "<p>\n            AI CFO that autonomously trades stocks and options via Slack\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/blink-21?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1129448?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-22T02:36:26+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "8c6a3578cc773ba4b5271f3c165c3ab125fcfd87",
@@ -1436,20 +1427,38 @@
       "category": "malaysia"
     },
     {
-      "id": "94e0e0995ad54537335f3cdfd7eaae6b0fb30ca5",
-      "title": "Tim Cook to step down as Apple CEO after 15 years, John Ternus named successor",
-      "link": "https://soyacincau.com/2026/04/21/tim-cook-steps-down-as-apple-ceo-after-15-years/",
-      "summary": "Apple has announced a major leadership transition, with Chief Executive Officer (CEO) Tim Cook set to become Executive Chairman effective 1 September 2026. Cook was the CEO at Apple for 15 years after succeeding Steve Jobs back in August 2011. Apple&#8217;s current Senior Vice President of Hardware Engineering John Ternus will take over as CEO [&#8230;]",
-      "published": "2026-04-21T00:10:03+00:00",
-      "source": "SoyaCincau",
-      "category": "malaysia"
-    },
-    {
       "id": "14958b9156452c59f9da1cd67b0821e451b211d4",
       "title": "PopTask v2.0",
       "link": "https://www.producthunt.com/products/poptask",
       "summary": "<p>\n            3 seconds from thought to task. No clicks, no app switching\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/poptask?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1128189?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-20T15:30:45+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "bd6ccd3d2ed4b3d59bb074109c4a1fa1824a5339",
+      "title": "Magic Patterns Agent 2.0",
+      "link": "https://www.producthunt.com/products/magicpatterns",
+      "summary": "<p>\n            The best AI design agent to go from idea to production\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/magicpatterns?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1127525?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-19T18:34:07+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "b334267f8b764cd99d0c8a272194a4ae03f531e4",
+      "title": "ora",
+      "link": "https://www.producthunt.com/products/ora-3",
+      "summary": "<p>\n            Your personal simultaneous interpreter, on your Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ora-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125773?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-17T02:29:20+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "acc86bda7338466882625875bebba48a147b2e1e",
+      "title": "Kollab",
+      "link": "https://www.producthunt.com/products/kollab-2",
+      "summary": "<p>\n            Shared workspace where teams work with agents together\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kollab-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1124020?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-15T02:48:44+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1477,15 +1486,6 @@
       "link": "https://www.producthunt.com/products/vector-by-zauth",
       "summary": "<p>\n            Accessible AI security for your web app\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vector-by-zauth?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1104080?app_id=339\">Link</a>\n          </p>",
       "published": "2026-03-22T02:30:52+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "b411244a813434a35d2ee0a568765883844f7fa7",
-      "title": "ASI:One",
-      "link": "https://www.producthunt.com/products/asi",
-      "summary": "<p>\n            A personal AI with memory that plans and acts for you\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/asi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1081022?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-02-17T17:35:38+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
