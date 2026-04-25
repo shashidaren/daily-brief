@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-04-25T15:34:36.136232+00:00",
+  "generatedAt": "2026-04-25T16:34:24.117879+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "3eaf2b9bd3c74db5d21bdd8f92c823585d6012f8",
+      "title": "The climate tech IPO window could finally be cracking open",
+      "link": "https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/",
+      "summary": "Nuclear startup X-energy went public, geothermal startup Fervo is about to. Could this be the moment that climate tech investors have been waiting for?",
+      "published": "2026-04-25T16:33:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "8910300181da0b17320e6da9376c76be53beb4eb",
+      "title": "Why Cohere is merging with Aleph Alpha",
+      "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+      "published": "2026-04-25T16:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "dcd53412b4b3afacdea7458bcaf944349ccbba16",
       "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
@@ -1058,30 +1076,12 @@
       "category": "tech"
     },
     {
-      "id": "f522813b3e3a43187872b0fe945a8af9945bdd00",
-      "title": "Tim Cook is stepping down. What happens to Apple now?",
-      "link": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
-      "summary": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus.   Ternus may be inheriting one of the most durable businesses in tech, but&#160;he’s&#160;also stepping into&#160;a very different&#160;ecosystemthan the one Cook spent decades shaping. The App Store’s 30% cut is under pressure, the behind-the-scenes power Apple once [&#8230;]",
-      "published": "2026-04-24T14:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "c68a7df4892eb746c44c4004e0bcdb06e4f24cff",
       "title": "As electric aspirations fade, Porsche sells its stake in Bugatti",
       "link": "https://arstechnica.com/cars/2026/04/as-electric-aspirations-fade-porsche-sells-its-stake-in-bugatti/",
       "summary": "Porsche's stake in Bugatti and Rimac Group have been sold to private equity.",
       "published": "2026-04-24T13:54:17+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "ef0dd3a483538fe9a96da0c825a8ad6073b6f344",
-      "title": "Nothing introduces an AI-powered dictation tool",
-      "link": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
-      "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
-      "published": "2026-04-24T13:41:42+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1202,15 +1202,6 @@
       "category": "events"
     },
     {
-      "id": "d901da6986083a04dc6c2504106d8fd1963a0506",
-      "title": "TuneJourney.com",
-      "link": "https://www.producthunt.com/products/tunejourney-com",
-      "summary": "<p>\n            AI learns your listening habits and curates your live radio\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tunejourney-com?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1131189?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-24T04:39:59+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "52e4cc79483945579dbff6e0bac184286a57ec6e",
       "title": "JomCharge x DBKL turn on EV chargers at McDonald’s Sri Petaling",
       "link": "https://soyacincau.com/2026/04/24/jomcharge-dbkl-90kw-dc-11kw-ac-ev-chargers-mcdonalds-sri-petaling/",
@@ -1265,6 +1256,15 @@
       "category": "events"
     },
     {
+      "id": "2cf99807ce6663a2606303994c8a92f38d35e9dc",
+      "title": "MailCue",
+      "link": "https://www.producthunt.com/products/mailcue-realistic-email-testing-server",
+      "summary": "<p>\n            Run as a fully hardened production email server.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mailcue-realistic-email-testing-server?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130862?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-23T17:36:07+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "d639a4eb742b8c751736677d51d3300aebc8fde4",
       "title": "LifeOS",
       "link": "https://www.producthunt.com/products/lifeos-6",
@@ -1274,11 +1274,20 @@
       "category": "events"
     },
     {
-      "id": "db9d05a3e2a7167291ea1fbd823b848446c034e7",
-      "title": "NotchNest AI",
-      "link": "https://www.producthunt.com/products/notchnest-quick-access-hub",
-      "summary": "<p>\n            AI powered by Apple Intelligence now in your Notch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/notchnest-quick-access-hub?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130673?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-23T12:41:19+00:00",
+      "id": "d8f5184bf09769cd93b86121ad2221eabc42bcf7",
+      "title": "Nordcraft 2.0",
+      "link": "https://www.producthunt.com/products/toddle",
+      "summary": "<p>\n            I design agent with full HTML/CSS control and SSR\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/toddle?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130580?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-23T10:43:25+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "fbc4d723ecc9d9335617e345e41a8b70e1152f77",
+      "title": "Your Name in Landsat 🛰️",
+      "link": "https://www.producthunt.com/products/your-name-in-landsat",
+      "summary": "<p>\n            The planet can spell your name – literally!\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/your-name-in-landsat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130514?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-23T08:50:38+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1308,6 +1317,15 @@
       "published": "2026-04-23T00:56:40+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "006ef7cb06a6ef7800c73601aebf398ccb1c9439",
+      "title": "Google Workspace Intelligence",
+      "link": "https://www.producthunt.com/products/google",
+      "summary": "<p>\n            AI that understands and powers your Workspace\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130159?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-22T19:42:56+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "680ea34be2d9f7db39834ab867c3537c73989000",
@@ -1355,10 +1373,19 @@
       "category": "malaysia"
     },
     {
+      "id": "e8c26c0a84e57794806da014817882c96f287826",
+      "title": "Ask Product Hunt AI",
+      "link": "https://www.producthunt.com/products/producthunt",
+      "summary": "<p>\n            Find the right product, just ask\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1129378?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-21T23:25:31+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "f1593e4d018f53ee61e1de8efe1ee86d0c17dc64",
       "title": "Inrō AI",
       "link": "https://www.producthunt.com/products/inro",
-      "summary": "<p>\n            Your AI Agent for Instagram DM Automation \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/inro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1129227?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Your AI Agent for Instagram Marketing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/inro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1129227?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-21T18:52:34+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1418,24 +1445,6 @@
       "category": "events"
     },
     {
-      "id": "7f5bc3f313d4554f78d9162b6c18cf2381b8d94f",
-      "title": "Bansi AI by Writesonic",
-      "link": "https://www.producthunt.com/products/bansi",
-      "summary": "<p>\n            AI video editor for long-form talking head videos\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bansi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125493?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-16T16:33:08+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "677966bd6a6539c7c104199a120ac06515e3489e",
-      "title": "BAND",
-      "link": "https://www.producthunt.com/products/band",
-      "summary": "<p>\n            Coordinate and govern multi-agent work in a single chat\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/band?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123814?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-14T19:31:47+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "bb5f35c58de727e58896852a99d1e96e208b9a36",
       "title": "XChat",
       "link": "https://www.producthunt.com/products/chat-by-x",
@@ -1445,11 +1454,11 @@
       "category": "events"
     },
     {
-      "id": "27bd5fb50763c2454d9d90a9ae120a8e4d4285e2",
-      "title": "Emotional intelligence AI for live calls",
-      "link": "https://www.producthunt.com/products/emotional-intelligence-ai-for-live-calls",
-      "summary": "<p>\n            Emotional intelligence AI for live sales calls\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/emotional-intelligence-ai-for-live-calls?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1120877?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-10T22:07:48+00:00",
+      "id": "b540b98393d6b717633add4fda5096f613342739",
+      "title": "TraceUI",
+      "link": "https://www.producthunt.com/products/traceui",
+      "summary": "<p>\n            Turn any website into on-brand Ads\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/traceui?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1120635?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-10T14:58:17+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1468,15 +1477,6 @@
       "link": "https://www.producthunt.com/products/genspark-for-excel",
       "summary": "<p>\n            AI assistant for Excel formulas, charts, insights.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/genspark-for-excel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1118972?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-08T15:47:59+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "1d2eeaa1463283e4ca1cdd0eee9fa6ecc78f8466",
-      "title": "Beezi AI",
-      "link": "https://www.producthunt.com/products/beezi-ai",
-      "summary": "<p>\n            Make AI development structured, secure, and cost-efficient.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/beezi-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1111779?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-30T20:16:38+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
