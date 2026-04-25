@@ -1,15 +1,24 @@
 {
-  "generatedAt": "2026-04-25T21:30:42.257667+00:00",
+  "generatedAt": "2026-04-25T22:30:04.995783+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
+      "id": "88e4d5ad8bf99fb40ff958ae690ec39e5dbb4ee4",
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+      "published": "2026-04-25T21:43:37+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
       "id": "a6e3c2710f63065905bacc7858c5d114ccdaeb80",
       "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
       "link": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
       "summary": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
-      "published": "2026-04-25T21:14:42+00:00",
+      "published": "2026-04-25T21:34:12+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -221,19 +230,19 @@
       "category": "tech"
     },
     {
-      "id": "a00060053f6df4e4a83349aa167cf51dc50924ca",
-      "title": "Republicans retool midterm strategy: Trump’s policies, but less Trump",
-      "link": "https://www.malaymail.com/news/world/2026/04/25/republicans-retool-midterm-strategy-trumps-policies-but-less-trump/217679",
-      "summary": "Republicans shift focus to local issues, play down Trump amid concerns over his approval ratingsRising gas prices and Ir...",
+      "id": "134eac5e442e70059b7322b9d28a7d57ca2904eb",
+      "title": "‘Going to the moon’: Irish footballers return to China 50 years after historic tour",
+      "link": "https://www.malaymail.com/news/sports/2026/04/25/going-to-the-moon-irish-footballers-return-to-china-50-years-after-historic-tour/217653",
+      "summary": "SHANGHAI, April 25 &mdash; &nbsp;When Paddy Dwyer arrived in China in 1976, crowds jostled to catch a glimpse of him and...",
       "published": "2026-04-25T13:00:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
-      "id": "134eac5e442e70059b7322b9d28a7d57ca2904eb",
-      "title": "‘Going to the moon’: Irish footballers return to China 50 years after historic tour",
-      "link": "https://www.malaymail.com/news/sports/2026/04/25/going-to-the-moon-irish-footballers-return-to-china-50-years-after-historic-tour/217653",
-      "summary": "SHANGHAI, April 25 &mdash; &nbsp;When Paddy Dwyer arrived in China in 1976, crowds jostled to catch a glimpse of him and...",
+      "id": "a00060053f6df4e4a83349aa167cf51dc50924ca",
+      "title": "Republicans retool midterm strategy: Trump’s policies, but less Trump",
+      "link": "https://www.malaymail.com/news/world/2026/04/25/republicans-retool-midterm-strategy-trumps-policies-but-less-trump/217679",
+      "summary": "Republicans shift focus to local issues, play down Trump amid concerns over his approval ratingsRising gas prices and Ir...",
       "published": "2026-04-25T13:00:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
@@ -1058,15 +1067,6 @@
       "category": "world"
     },
     {
-      "id": "35996d3fc50b3e4dcdbee9c7ffd686da0d1310ff",
-      "title": "Nuclear startup X-energy raises $1B in data center-driven IPO",
-      "link": "https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/",
-      "summary": "Amazon-backed X-energy was able to raise around 20% more money in its IPO as demand for nuclear power surges.",
-      "published": "2026-04-24T15:06:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "554a426dd4a6aa3e3e248229ad1acc9fb1fe7356",
       "title": "Man faces 5 years in prison for using AI to fake sighting of runaway wolf",
       "link": "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/",
@@ -1238,6 +1238,15 @@
       "category": "tech"
     },
     {
+      "id": "b18a56f5eff09f8ea216cd7c6dbbcb016ddd2a2d",
+      "title": "Mozart Studio 1.0",
+      "link": "https://www.producthunt.com/products/mozart-ai",
+      "summary": "<p>\n            A Generative Audio Workstation with VSTs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mozart-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1131020?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-23T21:22:53+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "154324bfa2528a19fead635a72d1c99203c4116d",
       "title": "Carbon nanotube wiring gets closer to competing with copper",
       "link": "https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper/",
@@ -1245,15 +1254,6 @@
       "published": "2026-04-23T21:22:09+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "5a85f6302436b82f36954029f39cbd3f1e3c2970",
-      "title": "Codex 3.0 by OpenAI",
-      "link": "https://www.producthunt.com/products/codex-3-0-by-openai",
-      "summary": "<p>\n            Codex can now build, test & debug on autopilot\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/codex-3-0-by-openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130897?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-23T18:48:21+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "342e7b9296f46483d0f40c2e89fd5f87e2f83fee",
@@ -1265,20 +1265,20 @@
       "category": "events"
     },
     {
-      "id": "2cf99807ce6663a2606303994c8a92f38d35e9dc",
-      "title": "MailCue",
-      "link": "https://www.producthunt.com/products/mailcue-realistic-email-testing-server",
-      "summary": "<p>\n            Run as a fully hardened production email server.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mailcue-realistic-email-testing-server?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130862?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-23T17:36:07+00:00",
+      "id": "d639a4eb742b8c751736677d51d3300aebc8fde4",
+      "title": "LifeOS",
+      "link": "https://www.producthunt.com/products/lifeos-6",
+      "summary": "<p>\n            Turn your AI chats/memory to intros with real humans\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lifeos-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130787?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-23T15:42:26+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "db9d05a3e2a7167291ea1fbd823b848446c034e7",
-      "title": "NotchNest AI",
-      "link": "https://www.producthunt.com/products/notchnest-quick-access-hub",
-      "summary": "<p>\n            AI powered by Apple Intelligence now in your Notch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/notchnest-quick-access-hub?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130673?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-23T12:41:19+00:00",
+      "id": "4a2b7777da0388217fef96e150439a68fe11f8d9",
+      "title": "Universal Gas Framework (UGF)",
+      "link": "https://www.producthunt.com/products/universal-gas-framework-ugf",
+      "summary": "<p>\n            Route Actions, Not Liquidity\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/universal-gas-framework-ugf?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130694?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-23T13:09:27+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1290,24 +1290,6 @@
       "published": "2026-04-23T08:44:03+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "71a8b21c9c09c6d1321993c746634a19b76d6fba",
-      "title": "Spira AI",
-      "link": "https://www.producthunt.com/products/spira-ai",
-      "summary": "<p>\n            AI Influencer that always on trend, create & grow your brand\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130495?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-23T08:15:57+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "38334f572e365e67aa4475ec147dc13fd2133d0f",
-      "title": "Onboarding0",
-      "link": "https://www.producthunt.com/products/onboarding0",
-      "summary": "<p>\n            Turn company knowledge into AI-guided onboarding\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/onboarding0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130487?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-23T08:07:22+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "19f23035078eb7b06fe3241da2276cf2299fed42",
@@ -1450,6 +1432,24 @@
       "link": "https://www.producthunt.com/products/chat-by-x",
       "summary": "<p>\n            The standalone, encrypted messaging app from X\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/chat-by-x?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1121968?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-12T15:42:24+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "27bd5fb50763c2454d9d90a9ae120a8e4d4285e2",
+      "title": "Emotional intelligence AI for live calls",
+      "link": "https://www.producthunt.com/products/emotional-intelligence-ai-for-live-calls",
+      "summary": "<p>\n            Emotional intelligence AI for live sales calls\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/emotional-intelligence-ai-for-live-calls?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1120877?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-10T22:07:48+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "b540b98393d6b717633add4fda5096f613342739",
+      "title": "TraceUI",
+      "link": "https://www.producthunt.com/products/traceui",
+      "summary": "<p>\n            Turn any website into on-brand Ads\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/traceui?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1120635?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-10T14:58:17+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
