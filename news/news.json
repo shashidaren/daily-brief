@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-04-25T18:40:18.878441+00:00",
+  "generatedAt": "2026-04-25T19:39:41.616957+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "6c075ba17c01305afae1c5f33fd3b01bf9f3cb64",
+      "title": "Orbán steps down from Hungarian parliament after landslide defeat",
+      "link": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The outgoing prime minister will not take up his seat after leading his party back into opposition.",
+      "published": "2026-04-25T19:22:31+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "c2b36693034d20ce94f7c5b7004a677f6a5c8835",
+      "title": "Trump fires the entire National Science Board",
+      "link": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
+      "summary": "Multiple sources are reporting that the Trump administration has dismissed the entire National Science Board (NSB). The NSB advises the president and Congress on the National Science Foundation (NSF), which has already been funding research at historically low levels and has seen significant delays in doling out that funding. The NSF has been fundamental in [&#8230;]",
+      "published": "2026-04-25T19:20:15+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
     {
       "id": "dfe5b4a636d740205d7622df23d3e835f17047f5",
       "title": "An influx of used EVs could drive down prices",
@@ -752,15 +770,6 @@
       "category": "tech"
     },
     {
-      "id": "d34198984f6c8a99e9e31268ef2909e6160978e2",
-      "title": "Epstein housed abuse victims in London flats, BBC reveals",
-      "link": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The revelations intensify concerns about repeated police decisions not to investigate 2015 trafficking claims.",
-      "published": "2026-04-24T21:01:23+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "0d0df980a779d66fe6427a0e42969151aa7ad278",
       "title": "Meta’s loss is Thinking Machines’ gain",
       "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
@@ -785,15 +794,6 @@
       "summary": "Investors flocked to nuclear power startup X-energy in its first day of public trading on the Nasdaq.",
       "published": "2026-04-24T20:10:54+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "69953c251dad36ebb1b0636973442f39ce5d52c7",
-      "title": "Alex Jones has uncovered another massive conspiracy",
-      "link": "https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker",
-      "summary": "Alex Jones may soon lose Infowars, the digital perch that he's used for decades to traffic in conspiracy theories, to The Onion, the satirical newspaper. But not before he's uncovered something truly dastardly: comedian Tim Heidecker's past (publicly available) work. \"The Onion newspaper has been rocked by the discovery that their new creative director, produced [&#8230;]",
-      "published": "2026-04-24T20:10:00+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -1211,6 +1211,15 @@
       "category": "events"
     },
     {
+      "id": "25e716a32db74843e886125aef1ee7d24f6ce57c",
+      "title": "Tyndale",
+      "link": "https://www.producthunt.com/products/tyndale",
+      "summary": "<p>\n            Translate your app with the AI you already pay for\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tyndale?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1131117?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-24T02:04:58+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "52e4cc79483945579dbff6e0bac184286a57ec6e",
       "title": "JomCharge x DBKL turn on EV chargers at McDonald’s Sri Petaling",
       "link": "https://soyacincau.com/2026/04/24/jomcharge-dbkl-90kw-dc-11kw-ac-ev-chargers-mcdonalds-sri-petaling/",
@@ -1247,6 +1256,15 @@
       "category": "tech"
     },
     {
+      "id": "5a85f6302436b82f36954029f39cbd3f1e3c2970",
+      "title": "Codex 3.0 by OpenAI",
+      "link": "https://www.producthunt.com/products/codex-3-0-by-openai",
+      "summary": "<p>\n            Codex can now build, test & debug on autopilot\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/codex-3-0-by-openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130897?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-23T18:48:21+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "342e7b9296f46483d0f40c2e89fd5f87e2f83fee",
       "title": "MiMo-V2.5 Voice",
       "link": "https://www.producthunt.com/products/mimo-v2-5-voice",
@@ -1265,11 +1283,11 @@
       "category": "events"
     },
     {
-      "id": "4a2b7777da0388217fef96e150439a68fe11f8d9",
-      "title": "Universal Gas Framework (UGF)",
-      "link": "https://www.producthunt.com/products/universal-gas-framework-ugf",
-      "summary": "<p>\n            Route Actions, Not Liquidity\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/universal-gas-framework-ugf?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130694?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-23T13:09:27+00:00",
+      "id": "db9d05a3e2a7167291ea1fbd823b848446c034e7",
+      "title": "NotchNest AI",
+      "link": "https://www.producthunt.com/products/notchnest-quick-access-hub",
+      "summary": "<p>\n            AI powered by Apple Intelligence now in your Notch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/notchnest-quick-access-hub?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130673?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-23T12:41:19+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1281,6 +1299,15 @@
       "published": "2026-04-23T08:44:03+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "71a8b21c9c09c6d1321993c746634a19b76d6fba",
+      "title": "Spira AI",
+      "link": "https://www.producthunt.com/products/spira-ai",
+      "summary": "<p>\n            AI Influencer that always on trend, create & grow your brand\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130495?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-23T08:15:57+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "19f23035078eb7b06fe3241da2276cf2299fed42",
@@ -1351,15 +1378,6 @@
       "link": "https://www.producthunt.com/products/inro",
       "summary": "<p>\n            Your AI Agent for Instagram Marketing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/inro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1129227?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-21T18:52:34+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "dcbdb45e419be613e113b9d0d6ab9bac61757130",
-      "title": "Yutori Delegate",
-      "link": "https://www.producthunt.com/products/scouts-by-yutori",
-      "summary": "<p>\n            Why cowork when you can delegate?\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/scouts-by-yutori?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1129182?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-21T17:45:22+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1445,15 +1463,6 @@
       "category": "events"
     },
     {
-      "id": "47b7b5feac6af673df61924abb824fc173ee78b6",
-      "title": "boots.list",
-      "link": "https://www.producthunt.com/products/boots-list",
-      "summary": "<p>\n            From Rekordbox collection to set-ready playlist\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/boots-list?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1121048?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-11T06:21:50+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "95c8adc7eed19d9453c4305814fb8d82a6121f2d",
       "title": "Architecto",
       "link": "https://www.producthunt.com/products/architecto",
@@ -1468,15 +1477,6 @@
       "link": "https://www.producthunt.com/products/genspark-for-excel",
       "summary": "<p>\n            AI assistant for Excel formulas, charts, insights.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/genspark-for-excel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1118972?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-08T15:47:59+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "1d2eeaa1463283e4ca1cdd0eee9fa6ecc78f8466",
-      "title": "Beezi AI",
-      "link": "https://www.producthunt.com/products/beezi-ai",
-      "summary": "<p>\n            Make AI development structured, secure, and cost-efficient.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/beezi-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1111779?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-30T20:16:38+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
