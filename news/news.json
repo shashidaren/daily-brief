@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-04-26T19:41:25.880420+00:00",
+  "generatedAt": "2026-04-26T20:32:13.001553+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "a7460a08ee1f3dd7b3b637401e8ad9b03f8e753b",
+      "title": "What Tim Cook built",
+      "link": "https://techcrunch.com/2026/04/26/what-tim-cook-built/",
+      "summary": "On the latest episode of Equity, we discuss how Apple has changed since Cook became CEO in 2011, and what challenges incoming CEO John Ternus will be facing.",
+      "published": "2026-04-26T20:22:51+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "d0649d80e6dd67dd3cfead650e24a5014511efef",
       "title": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
@@ -30,6 +39,15 @@
       "published": "2026-04-26T18:34:26+00:00",
       "source": "The Verge",
       "category": "tech"
+    },
+    {
+      "id": "92920cc0606d17a22e30c456027a4c0cf3a7b124",
+      "title": "Mali defence minister killed in rebel attacks, reports say",
+      "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
+      "summary": "A wave of coordinated attacks by jihadist militants and separatists has spread through the country.",
+      "published": "2026-04-26T17:23:46+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "1625d35d479b62c5af6a55ead697e5bdcab981b2",
@@ -372,15 +390,6 @@
       "published": "2026-04-26T09:03:54+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "05e44ea91fbc1171b177e1b4b509046c4486b648",
-      "title": "Armed groups launch coordinated attacks across Mali",
-      "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years.",
-      "published": "2026-04-26T08:56:02+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "abc1d297d0126814e4616f0d69cef881543b6461",
@@ -1013,15 +1022,6 @@
       "category": "tech"
     },
     {
-      "id": "39e878dc581df15ea92a7aad190cd92401254706",
-      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-      "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-      "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
-      "published": "2026-04-24T19:49:35+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "03b48fd6ef6ddc320d15e665755e50c91bfde920",
       "title": "Friday’s Apple Books and audiobook deals from $2",
       "link": "https://9to5toys.com/2026/04/24/fridays-apple-books-and-audiobook-deals-from-2-4/",
@@ -1310,11 +1310,11 @@
       "category": "events"
     },
     {
-      "id": "d639a4eb742b8c751736677d51d3300aebc8fde4",
-      "title": "LifeOS",
-      "link": "https://www.producthunt.com/products/lifeos-6",
-      "summary": "<p>\n            Turn your AI chats/memory to intros with real humans\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lifeos-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130787?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-23T15:42:26+00:00",
+      "id": "2cf99807ce6663a2606303994c8a92f38d35e9dc",
+      "title": "MailCue",
+      "link": "https://www.producthunt.com/products/mailcue-realistic-email-testing-server",
+      "summary": "<p>\n            Run as a fully hardened production email server.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mailcue-realistic-email-testing-server?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130862?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-23T17:36:07+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1326,6 +1326,15 @@
       "published": "2026-04-23T08:44:03+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "71a8b21c9c09c6d1321993c746634a19b76d6fba",
+      "title": "Spira AI",
+      "link": "https://www.producthunt.com/products/spira-ai",
+      "summary": "<p>\n            AI Influencer that always on trend, create & grow your brand\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130495?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-23T08:15:57+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "19f23035078eb7b06fe3241da2276cf2299fed42",
@@ -1450,15 +1459,6 @@
       "link": "https://www.producthunt.com/products/chat-by-x",
       "summary": "<p>\n            The standalone, encrypted messaging app from X\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/chat-by-x?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1121968?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-12T15:42:24+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "27bd5fb50763c2454d9d90a9ae120a8e4d4285e2",
-      "title": "Emotional intelligence AI for live calls",
-      "link": "https://www.producthunt.com/products/emotional-intelligence-ai-for-live-calls",
-      "summary": "<p>\n            Emotional intelligence AI for live sales calls\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/emotional-intelligence-ai-for-live-calls?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1120877?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-10T22:07:48+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
