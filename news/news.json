@@ -1,17 +1,53 @@
 {
-  "generatedAt": "2026-05-02T15:39:45.565503+00:00",
+  "generatedAt": "2026-05-02T16:38:58.651455+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
-      "id": "7f11086934a33193907d46e09cd08fd58634cbf0",
-      "title": "Sources: Anthropic is in early talks to buy AI chips from UK-based Fractile when they launch in 2027, as it seeks deals to gain more leverage with suppliers (The Information)",
+      "id": "b5f16bc5da22e72e458848db82228f4375432910",
+      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+      "published": "2026-05-02T16:29:06+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "cee0b64681ece1d12123e254bf15329f24eb2101",
+      "title": "Sources: Nigerian mobile payments service OPay is preparing for a US IPO at a $4B valuation with Citigroup, Deutsche Bank, and JPMorgan Chase advising (Bloomberg)",
+      "link": "https://www.techmeme.com/260502/p7#a260502p7",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-05-01/softbank-backed-opay-hires-citi-deutsche-jpmorgan-for-us-ipo\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260502/i7.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260502/p7#a260502p7\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-05-01/softbank-backed-opay-hires-citi-deutsche-jpmorgan-for-us-ipo\">Sources: Nigerian mobile payments service OPay is preparing for a US IPO at a $4B valuation with Citigroup, Deutsche Bank, and JPMorgan Chase advising</a></b></span>&nbsp; &mdash;&nbsp; Opay Digital Services Ltd. is working with Citigroup Inc., Deutsche Bank AG, and JPMorgan Chase &amp; Co. as the Nigeria-focused payments platform prepares &hellip; </p>",
+      "published": "2026-05-02T16:20:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "c450074b4aa74f0d5af1b830090a69ada23022b7",
+      "title": "The best AI dictation apps, tested and ranked",
+      "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+      "published": "2026-05-02T16:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "319a6c3e630271c5c3aed0fc6388bc6a0bd350bc",
+      "title": "Sources: Anthropic is in early talks to buy AI inference chips from UK-based Fractile when they become available in 2027 (The Information)",
       "link": "https://www.techmeme.com/260502/p6#a260502p6",
-      "summary": "<a href=\"https://www.theinformation.com/articles/anthropic-talks-buy-ai-chips-u-k-startup\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260502/i6.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260502/p6#a260502p6\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/articles/anthropic-talks-buy-ai-chips-u-k-startup\">Sources: Anthropic is in early talks to buy AI chips from UK-based Fractile when they launch in 2027, as it seeks deals to gain more leverage with suppliers</a></b></span>&nbsp; &mdash;&nbsp; As Anthropic's sales explode, straining the servers it uses, the company is considering adding another source of AI server chips &hellip; </p>",
+      "summary": "<a href=\"https://www.theinformation.com/articles/anthropic-talks-buy-ai-chips-u-k-startup\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260502/i6.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260502/p6#a260502p6\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/articles/anthropic-talks-buy-ai-chips-u-k-startup\">Sources: Anthropic is in early talks to buy AI inference chips from UK-based Fractile when they become available in 2027</a></b></span>&nbsp; &mdash;&nbsp; As Anthropic's sales explode, straining the servers it uses, the company is considering adding another source of AI server chips in addition to existing suppliers Google, Amazon and Nvidia.</p>",
       "published": "2026-05-02T15:35:01+00:00",
       "source": "Techmeme",
       "category": "tech"
+    },
+    {
+      "id": "a14be1065a686445d440da6c88d677312cdce028",
+      "title": "California to begin ticketing driverless cars that violate traffic laws",
+      "link": "https://www.bbc.com/news/articles/clypjx3rg2go?at_medium=RSS&at_campaign=rss",
+      "summary": "Under the new rules, police will be able to issue tickets directly to the car's manufacturer when an autonomous vehicle breaks a traffic law.",
+      "published": "2026-05-02T15:31:40+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "4a2b5a58c2be21faee540a75a15cd555c8af69c2",
@@ -21,6 +57,15 @@
       "published": "2026-05-02T14:28:13+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "725f3b6e6b6a64e84706c705ef136a1499eddbd7",
+      "title": "Research roundup: 6 cool science stories we almost missed",
+      "link": "https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/",
+      "summary": "Crushing soda cans for science, why dolphins swim so fast, how urine helps mushrooms communicate, and more",
+      "published": "2026-05-02T14:23:31+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
     },
     {
       "id": "de6f0c27461239fb8d705ff2dcd43bda1e3325bb",
@@ -518,15 +563,6 @@
       "category": "tech"
     },
     {
-      "id": "b5f16bc5da22e72e458848db82228f4375432910",
-      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-      "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-      "published": "2026-05-02T00:41:43+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "9887e0463cc387f1725f420bbb8109bdbf32956d",
       "title": "Waymo says it is continuing to \"refine\" its system preventing kids under 18 from riding alone, after adult riders reported new age-verification checks (Aarian Marshall/Wired)",
       "link": "https://www.techmeme.com/260501/p28#a260501p28",
@@ -703,15 +739,6 @@
       "link": "https://www.techmeme.com/260501/p22#a260501p22",
       "summary": "<a href=\"https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260501/i22.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260501/p22#a260501p22\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Taylor Lorenz / <a href=\"http://www.wired.com/\">Wired</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/\">How influencers boosting US-based AI and opposing Chinese AI are paid with money tied to Leading the Future, funded by execs from OpenAI, Palantir, a16z, others</a></b></span>&nbsp; &mdash;&nbsp; Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz &hellip; </p>",
       "published": "2026-05-01T21:05:03+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "892fa16830569b753cffe43eb1cb6966af6664cc",
-      "title": "\"Podslop\" is flooding listening platforms like Spotify; Podcast Index: of ~11K new podcast feeds in a recent 9-day span, ~39% were likely for AI content shows (Ashley Carman/Bloomberg)",
-      "link": "https://www.techmeme.com/260501/p21#a260501p21",
-      "summary": "<a href=\"https://www.bloomberg.com/news/newsletters/2026-04-30/-podslop-proliferation-is-challenging-the-audio-industry?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NzY0NTcyNiwiZXhwIjoxNzc4MjUwNTI2LCJhcnRpY2xlSWQiOiJURUJLSkRLR0NUSFQwMCIsImJjb25uZWN0SWQiOiI3MzA4MjI1Mzg2OEE0REE4QTZDQTcyN0I3REUyMzFEOCJ9.yTh4KS4EcTA1x0ewXWRNsz1l5w5ga7e1tiDW9gUTAQ4&amp;leadSource=uverify%20wall\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260501/i21.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260501/p21#a260501p21\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ashley Carman / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/newsletters/2026-04-30/-podslop-proliferation-is-challenging-the-audio-industry?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NzY0NTcyNiwiZXhwIjoxNzc4MjUwNTI2LCJhcnRpY2xlSWQiOiJURUJLSkRLR0NUSFQwMCIsImJjb25uZWN0SWQiOiI3MzA4MjI1Mzg2OEE0REE4QTZDQTcyN0I3REUyMzFEOCJ9.yTh4KS4EcTA1x0ewXWRNsz1l5w5ga7e1tiDW9gUTAQ4&amp;leadSource=uverify%20wall\">&ldquo;Podslop&rdquo; is flooding listening platforms like Spotify; Podcast Index: of ~11K new podcast feeds in a recent 9-day span, ~39% were likely for AI content shows</a></b></span>&nbsp; &mdash;&nbsp; Over the past nine days, 39% of new podcasts were likely AI-generated, according to the Podcast Index.&nbsp; &mdash;&nbsp; Welcome back to Soundbite.</p>",
-      "published": "2026-05-01T21:00:51+00:00",
       "source": "Techmeme",
       "category": "tech"
     },
@@ -1031,15 +1058,6 @@
       "category": "world"
     },
     {
-      "id": "eaa800f34a539f16b246413ed1b58f0473d57a08",
-      "title": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
-      "link": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Last year ex-president Jair Bolsonaro was sentenced to 27 years in jail for plotting a coup after losing an election.",
-      "published": "2026-05-01T05:58:20+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "f48fd31d709312d0f0dee86a154f8737df13bd61",
       "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
       "link": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
@@ -1047,6 +1065,15 @@
       "published": "2026-05-01T05:04:08+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "1d43e46dfef6207a3e1cc799d637d2c1b683eb66",
+      "title": "PeekFocus",
+      "link": "https://www.producthunt.com/products/peekfocus",
+      "summary": "<p>\n            One keystroke blurs everything behind your active window\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/peekfocus?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1136527?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-01T04:57:56+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "6be8ef4b762486f705b4699217a77ecbfbd6ee74",
@@ -1130,20 +1157,20 @@
       "category": "tech"
     },
     {
+      "id": "9c50c03744dad1027a4fb3c22b2c265261535678",
+      "title": "LaunchCut",
+      "link": "https://www.producthunt.com/products/launchcut-2",
+      "summary": "<p>\n            Interactive iOS Demo Builder\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/launchcut-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1136364?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-30T21:35:28+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "afe07a379b9990fddd5c3897d424900b4a5d2657",
       "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
       "link": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
       "summary": "\"We had serious inbound attempts to the cosmodrome that day.\"",
       "published": "2026-04-30T21:35:02+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "329974ad24afe9af5d00a6cff989cef170a2ca85",
-      "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
-      "link": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
-      "summary": "Elon Musk spent three days testifying as the first witness in his trial against OpenAI.",
-      "published": "2026-04-30T21:11:51+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
     },
@@ -1180,15 +1207,6 @@
       "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
       "summary": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
       "published": "2026-04-30T19:27:41+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "976287884624dcaef4ef89fe97bdc230c4f1539a",
-      "title": "EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting",
-      "link": "https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/",
-      "summary": "The perpetually struggling EV company made the payments while being investigated by the SEC. That four-year probe was ultimately closed in March.",
-      "published": "2026-04-30T18:56:59+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
@@ -1238,11 +1256,29 @@
       "category": "events"
     },
     {
+      "id": "7747a0775e2fd6b0078d4171fd476cfc818f935a",
+      "title": "Montage",
+      "link": "https://www.producthunt.com/products/montage-3",
+      "summary": "<p>\n            The runtime framework for agentic user interfaces!\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1136086?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-30T15:50:23+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "e9245ebdedcd65a2ed56b0c2e881853dc2024ba5",
       "title": "Cloud Computer by Manus",
       "link": "https://www.producthunt.com/products/manus",
       "summary": "<p>\n            A dedicated cloud machine for bots and software\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/manus?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1136085?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-30T15:50:18+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "f0843cd26d28eb5979828393e2f5a8708eb5ae5b",
+      "title": "CipherLock",
+      "link": "https://www.producthunt.com/products/cipherlock",
+      "summary": "<p>\n            Learn ciphers by breaking them\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cipherlock?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1135963?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-30T13:09:03+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1272,24 +1308,6 @@
       "published": "2026-04-30T10:29:36+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "b7b9e039ffa80b32ac05f2c80c1beebcb0850374",
-      "title": "nudge",
-      "link": "https://www.producthunt.com/products/nudge-26",
-      "summary": "<p>\n            Drop your tasks. AI auto-schedules your whole week.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nudge-26?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1135846?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-30T09:59:09+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "6d491a862238d8f2fc003d80a353f2e19db9a09c",
-      "title": "HiveTerm",
-      "link": "https://www.producthunt.com/products/hiveterm",
-      "summary": "<p>\n            One workspace for Claude, Codex, Gemini and your stack\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hiveterm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1135822?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-30T09:41:22+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "d0d665af27d8c86629a932f685a1131f3d6de9f2",
@@ -1400,15 +1418,6 @@
       "category": "events"
     },
     {
-      "id": "ce23065ca7fd8a239db6e02630e3b8cdd6cc59f3",
-      "title": "AnyDrop",
-      "link": "https://www.producthunt.com/products/anydrop-3",
-      "summary": "<p>\n            AirDrop for the browser: share files, chat and sync notes\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/anydrop-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1135006?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-29T09:48:08+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "6b44d9850cea6a70df1a043291e5d33e53a3ea02",
       "title": "YouTube TV Custom Multiview",
       "link": "https://www.producthunt.com/products/google",
@@ -1472,20 +1481,11 @@
       "category": "events"
     },
     {
-      "id": "63c16b6915616366a7305389c220a31809a8e903",
-      "title": "Genspark for Word",
-      "link": "https://www.producthunt.com/products/genspark",
-      "summary": "<p>\n            Draft, edit, and research inside Microsoft Word with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/genspark?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1118981?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-08T15:53:54+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "95c301ef444cc472070d48b96eacb9a8a8b05e67",
-      "title": "TrafficClaw",
-      "link": "https://www.producthunt.com/products/trafficclaw",
-      "summary": "<p>\n            Have a conversation with your SEO & analytics data \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/trafficclaw?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1103214?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-20T14:25:13+00:00",
+      "id": "44be6a574a75bb8c38718037596202d3ca723af7",
+      "title": "MUSIXQUARE",
+      "link": "https://www.producthunt.com/products/musixquare",
+      "summary": "<p>\n            Turn any room into a surround system with your devices\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/musixquare?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1127011?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-18T22:18:21+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
