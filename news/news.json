@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-05-02T17:38:53.059710+00:00",
+  "generatedAt": "2026-05-02T18:49:11.589128+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "93ddf813d8d9bfdf5852b3a19e60a4d760762f29",
+      "title": "Meta&#8217;s historic loss in court could cost a lot more than $375 million",
+      "link": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
+      "summary": "New Mexico Attorney General Ra&#250;l Torrez won a historic sum of $375 million in a landmark child safety case against Meta earlier this year. But the next stage of the fight could be even more consequential for Meta and the social media industry at large. Beginning Monday, attorneys for Meta and New Mexico will return [&#8230;]",
+      "published": "2026-05-02T18:25:26+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "0de79006ead3553a0f00699690597be000656f37",
+      "title": "Study: OpenAI's o1 correctly diagnosed 67% of emergency room patients using electronic records and a few sentences from nurses, vs. to 50-55% for triage doctors (Robert Booth/The Guardian)",
+      "link": "https://www.techmeme.com/260502/p8#a260502p8",
+      "summary": "<a href=\"https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260502/i8.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260502/p8#a260502p8\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Robert Booth / <a href=\"http://www.theguardian.com/\">The Guardian</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses\">Study: OpenAI's o1 correctly diagnosed 67% of emergency room patients using electronic records and a few sentences from nurses, vs. to 50-55% for triage doctors</a></b></span>&nbsp; &mdash;&nbsp; Researchers say results mark a &lsquo;profound change in technology that will reshape medicine&rsquo;&nbsp; &mdash;&nbsp; From George Clooney in ER &hellip; </p>",
+      "published": "2026-05-02T18:10:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "40675e9143d5ecc5643ba72dcaa365cb1ce05d31",
+      "title": "Oil tanker hijacked off coast of Yemen and taken towards Somalia",
+      "link": "https://www.bbc.com/news/articles/cpwprl0v2npo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the second time an oil tanker has been hijacked in the area in the past 10 days.",
+      "published": "2026-05-02T17:53:07+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "58be48356526ef0ec72cf4e17653a102d0b260bb",
+      "title": "Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices",
+      "link": "https://www.theverge.com/business/922788/spirit-airlines-shutdown",
+      "summary": "The ultra-low-cost air carrier Spirit Airlines shut down operations after 34 years in business and canceled all flights at 3AM ET on Saturday morning. Its website now redirects to spiritrestructuring.com, instructing fliers not to go to airports, with air traffic control records capturing controllers and pilots signing off to each other as its last flights [&#8230;]",
+      "published": "2026-05-02T17:51:04+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
     {
       "id": "e15902c1f465fdc13913779693dbca2932c57120",
       "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
@@ -12,6 +48,15 @@
       "published": "2026-05-02T17:05:41+00:00",
       "source": "TechCrunch",
       "category": "tech"
+    },
+    {
+      "id": "c02d3c42bc773c5d1dcefea2b0a9852a14157b93",
+      "title": "Taiwan president visits Eswatini days after blaming China for cancelled trip",
+      "link": "https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is unclear how he reached Eswatini. China described his visit as a \"stowaway-style escape farce\".",
+      "published": "2026-05-02T17:01:47+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "90acb1bf7d0f5631ca26cb829d93b49a21534bbf",
@@ -28,15 +73,6 @@
       "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
       "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
       "published": "2026-05-02T16:51:18+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "cede5e8fc3276ca76e5e61e0e5a9a82eb3c863d9",
-      "title": "Spirit Airlines shutting down after rescue talks collapse",
-      "link": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The airline had been in talks with the Trump administration about a $500m bailout.",
-      "published": "2026-05-02T16:45:12+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -93,15 +129,6 @@
       "published": "2026-05-02T15:35:01+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "a14be1065a686445d440da6c88d677312cdce028",
-      "title": "California to begin ticketing driverless cars that violate traffic laws",
-      "link": "https://www.bbc.com/news/articles/clypjx3rg2go?at_medium=RSS&at_campaign=rss",
-      "summary": "Under the new rules, police will be able to issue tickets directly to the car's manufacturer when an autonomous vehicle breaks a traffic law.",
-      "published": "2026-05-02T15:31:40+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "725f3b6e6b6a64e84706c705ef136a1499eddbd7",
@@ -761,15 +788,6 @@
       "category": "tech"
     },
     {
-      "id": "ef05bf1ff31a2ca3b073f93faf1be07471ce9ade",
-      "title": "How influencers boosting US-based AI and opposing Chinese AI are paid with money tied to Leading the Future, funded by execs from OpenAI, Palantir, a16z, others (Taylor Lorenz/Wired)",
-      "link": "https://www.techmeme.com/260501/p22#a260501p22",
-      "summary": "<a href=\"https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260501/i22.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260501/p22#a260501p22\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Taylor Lorenz / <a href=\"http://www.wired.com/\">Wired</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/\">How influencers boosting US-based AI and opposing Chinese AI are paid with money tied to Leading the Future, funded by execs from OpenAI, Palantir, a16z, others</a></b></span>&nbsp; &mdash;&nbsp; Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz &hellip; </p>",
-      "published": "2026-05-01T21:05:03+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "38380a085ebca6bcc8d8dc81e8f545ab56e4c817",
       "title": "Baseus’ X1 Pro wireless outdoor dual-tracking solar security camera drops back to $150 low",
       "link": "https://9to5toys.com/2026/05/01/baseus-x1-pro-wireless-outdoor-dual-tracking-solar-security-camera-150-low/",
@@ -833,30 +851,12 @@
       "category": "deals"
     },
     {
-      "id": "45502ade57a2bd79cb6aff372e1e8e43ecb45ac6",
-      "title": "Birdfy’s smart bird feeder is down to its best-ever price for Mother’s Day",
-      "link": "https://www.theverge.com/gadgets/922165/netvue-birdfy-smart-bird-feeder-bath-mothers-day-deal-sale",
-      "summary": "From crafting machines to smart calendars, a number of unique gifts are already on sale in the run-up to Mother’s Day, May 10th. Birdfy smart feeders are another discounted option to consider, particularly the new Birdfy Feeder Metal 2 (4K), which is on sale for $259.99 ($50 off). If you’re looking to spend less, you [&#8230;]",
-      "published": "2026-05-01T18:42:24+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "c1418e281588d067d981069408f673219001443c",
       "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
       "link": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
       "summary": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
       "published": "2026-05-01T18:23:04+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "d2aac795608cb73b914cc8b6dd321cc4024a41e5",
-      "title": "Amazon&#8217;s built-in AI price history expands to show the entire last year",
-      "link": "https://www.theverge.com/tech/922302/amazon-price-tracker-year",
-      "summary": "Amazon's built-in price tracking feature now allows you to see how much a product's price has changed over the past year. To use the feature, open the Amazon app and select the \"Price history\" button next to the item's price, or ask Amazon's AI assistant Rufus. The expansion comes just weeks ahead of Amazon's annual [&#8230;]",
-      "published": "2026-05-01T17:55:22+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -1076,6 +1076,15 @@
       "category": "world"
     },
     {
+      "id": "1d43e46dfef6207a3e1cc799d637d2c1b683eb66",
+      "title": "PeekFocus",
+      "link": "https://www.producthunt.com/products/peekfocus",
+      "summary": "<p>\n            One keystroke blurs everything behind your active window\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/peekfocus?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1136527?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-01T04:57:56+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "6be8ef4b762486f705b4699217a77ecbfbd6ee74",
       "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
       "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
@@ -1220,6 +1229,15 @@
       "category": "malaysia"
     },
     {
+      "id": "91d0932ed9e7f7b9bd46423903a247bf48108123",
+      "title": "Zed 1.0",
+      "link": "https://www.producthunt.com/products/zed",
+      "summary": "<p>\n            High-performance, open source, multiplayer code editor\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zed?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1136118?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-30T16:34:46+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "cac575bb8094c1e70713723058a9ae2def96bf9c",
       "title": "WCE now supports TNG eWallet PayDirect at all toll plazas",
       "link": "https://soyacincau.com/2026/04/30/wce-highway-supports-tng-ewallet-paydirect/",
@@ -1227,24 +1245,6 @@
       "published": "2026-04-30T15:59:28+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "6e94f134afa843890f5318f064a4ee449675346a",
-      "title": "Ghosted",
-      "link": "https://www.producthunt.com/products/ghosted-smart-presence",
-      "summary": "<p>\n            Pause media or lock your screen when you step away\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ghosted-smart-presence?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1136089?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-30T15:54:01+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "7747a0775e2fd6b0078d4171fd476cfc818f935a",
-      "title": "Montage",
-      "link": "https://www.producthunt.com/products/montage-3",
-      "summary": "<p>\n            The runtime framework for agentic user interfaces!\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1136086?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-30T15:50:23+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "e9245ebdedcd65a2ed56b0c2e881853dc2024ba5",
@@ -1292,11 +1292,11 @@
       "category": "deals"
     },
     {
-      "id": "6d491a862238d8f2fc003d80a353f2e19db9a09c",
-      "title": "HiveTerm",
-      "link": "https://www.producthunt.com/products/hiveterm",
-      "summary": "<p>\n            One workspace for Claude, Codex, Gemini and your stack\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hiveterm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1135822?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-30T09:41:22+00:00",
+      "id": "d0d665af27d8c86629a932f685a1131f3d6de9f2",
+      "title": "Marx Finance",
+      "link": "https://www.producthunt.com/products/marx-finance",
+      "summary": "<p>\n            AI agents debate the markets\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/marx-finance?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1135821?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-30T09:41:02+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1400,15 +1400,6 @@
       "category": "events"
     },
     {
-      "id": "ce23065ca7fd8a239db6e02630e3b8cdd6cc59f3",
-      "title": "AnyDrop",
-      "link": "https://www.producthunt.com/products/anydrop-3",
-      "summary": "<p>\n            AirDrop for the browser: share files, chat and sync notes\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/anydrop-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1135006?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-29T09:48:08+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "6b44d9850cea6a70df1a043291e5d33e53a3ea02",
       "title": "YouTube TV Custom Multiview",
       "link": "https://www.producthunt.com/products/google",
@@ -1418,11 +1409,20 @@
       "category": "events"
     },
     {
-      "id": "c79c6e20a708558c23a0dc5b00af4e36454e187c",
-      "title": "ScreenVeil",
-      "link": "https://www.producthunt.com/products/screenveil",
-      "summary": "<p>\n            Hide what shouldn’t be seen on your computer\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/screenveil?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1134077?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-28T07:56:19+00:00",
+      "id": "6a1531a2cdccadfc522284c07df788065dd559f2",
+      "title": "Bitgrain",
+      "link": "https://www.producthunt.com/products/bitgrain",
+      "summary": "<p>\n            Design studio lighter than Figma & more flexible than Canva\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bitgrain?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1133944?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-28T04:44:07+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "2c48bfa150f487fe66133b9031784222226b35c5",
+      "title": "Buda",
+      "link": "https://www.producthunt.com/products/buda-2",
+      "summary": "<p>\n            Recruit agents to run your company as a synchronous team\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/buda-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1133814?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-27T23:18:01+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1445,15 +1445,6 @@
       "category": "events"
     },
     {
-      "id": "4aa1c6afb7a722085bb78e6c6a1ed784b0949960",
-      "title": "Zush",
-      "link": "https://www.producthunt.com/products/zush",
-      "summary": "<p>\n            Updated: docs support, BYOK, Local AI (Ollama), Windows App\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zush?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1131587?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-24T14:28:09+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "5899ccc121c23753c45370a5f617ad5f9e9208d8",
       "title": "Microsoft Copilot Health",
       "link": "https://www.producthunt.com/products/copilot-health",
@@ -1468,6 +1459,15 @@
       "link": "https://www.producthunt.com/products/schole-2",
       "summary": "<p>\n            Turn everyday work into personalized AI learning\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/schole-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1129347?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-21T22:30:17+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "44be6a574a75bb8c38718037596202d3ca723af7",
+      "title": "MUSIXQUARE",
+      "link": "https://www.producthunt.com/products/musixquare",
+      "summary": "<p>\n            Turn any room into a surround system with your devices\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/musixquare?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1127011?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-18T22:18:21+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
