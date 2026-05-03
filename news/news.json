@@ -1,21 +1,30 @@
 {
-  "generatedAt": "2026-05-03T18:50:19.449476+00:00",
+  "generatedAt": "2026-05-03T19:50:19.283508+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
-      "id": "dbd6b3e78bd406bf1d3df63001280ea019d8d021",
-      "title": "Three die after virus outbreak on Atlantic cruise ship",
+      "id": "c538c1efbe42aaa9f0f8c366c42955ea019de841",
+      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
       "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
       "summary": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
-      "published": "2026-05-03T18:41:48+00:00",
+      "published": "2026-05-03T19:39:31+00:00",
       "source": "BBC News",
       "category": "world"
     },
     {
-      "id": "8ba621d99a81d9dd7b4fec4ff1453e9d0c4e2e83",
-      "title": "In Harvard study, AI offered more accurate diagnoses than emergency room doctors",
+      "id": "ebb3ea165176bc735a53972e1d95e6285ed090d2",
+      "title": "Iran says US has responded to its latest peace proposal",
+      "link": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
+      "published": "2026-05-03T19:24:02+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "edc354bcfdf1c549e9dcbd2dbd83c5bbe5fc3e49",
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
       "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
       "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
       "published": "2026-05-03T18:00:09+00:00",
@@ -30,15 +39,6 @@
       "published": "2026-05-03T17:50:00+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "ebb3ea165176bc735a53972e1d95e6285ed090d2",
-      "title": "Iran says US has responded to its latest peace proposal",
-      "link": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Before reviewing the proposal on Saturday, US President Donald Trump said he could not imagine it \"would be acceptable\".",
-      "published": "2026-05-03T17:31:31+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "e6abe7ca102ce13d44581418696f08c7a099576f",
@@ -1220,6 +1220,15 @@
       "category": "tech"
     },
     {
+      "id": "4a6a6dba58cbd37b38e7e69c6a25125cbde99875",
+      "title": "Beauty Diagram",
+      "link": "https://www.producthunt.com/products/beauty-diagram",
+      "summary": "<p>\n            Diagrams that don't look like they were auto-generated\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/beauty-diagram?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1136133?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-30T16:57:43+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "ff59e4c4c139f7d1638eaa6fbded5be53f5cf612",
       "title": "Hyundai Ioniq 6 N and Ioniq 5 N estimated price in Malaysia starts from RM450k",
       "link": "https://soyacincau.com/2026/05/01/hyundai-ioniq-6n-5n-estimated-price-malaysia/",
@@ -1391,11 +1400,11 @@
       "category": "events"
     },
     {
-      "id": "2c48bfa150f487fe66133b9031784222226b35c5",
-      "title": "Buda",
-      "link": "https://www.producthunt.com/products/buda-2",
-      "summary": "<p>\n            Recruit agents to run your company as a synchronous team\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/buda-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1133814?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-27T23:18:01+00:00",
+      "id": "6a1531a2cdccadfc522284c07df788065dd559f2",
+      "title": "Bitgrain",
+      "link": "https://www.producthunt.com/products/bitgrain",
+      "summary": "<p>\n            Design studio lighter than Figma & more flexible than Canva\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bitgrain?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1133944?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-28T04:44:07+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1477,15 +1486,6 @@
       "link": "https://www.producthunt.com/products/rosentic",
       "summary": "<p>\n            Catch when coding agents break each other before merge\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rosentic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1119656?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-09T10:25:31+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "95c301ef444cc472070d48b96eacb9a8a8b05e67",
-      "title": "TrafficClaw",
-      "link": "https://www.producthunt.com/products/trafficclaw",
-      "summary": "<p>\n            Have a conversation with your SEO & analytics data \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/trafficclaw?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1103214?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-20T14:25:13+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
