@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-05-03T15:40:20.446343+00:00",
+  "generatedAt": "2026-05-03T16:40:43.840514+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "ffab7b6696f1c2117906e1930664e201c93c7916",
+      "title": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
+      "link": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "published": "2026-05-03T16:05:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "dfaa21788ccdc57a82d2ad69dd81da8487fa0e35",
+      "title": "Police officer lowered into crocodile-infested river to recover human remains",
+      "link": "https://www.bbc.com/news/articles/cz92gk18xn4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police suspect the human remains belong to a businessman swept away by floodwater last week.",
+      "published": "2026-05-03T15:47:59+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "62ee1d808a64bad7d94abd93c4f5d64beb52f819",
       "title": "Reggie Fils-Aimé says Amazon once asked Nintendo to break the law",
@@ -1103,15 +1121,6 @@
       "category": "tech"
     },
     {
-      "id": "82c7354a0cc47e1ecc50db71ca8da6ccbcddf6b1",
-      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
-      "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
-      "summary": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
-      "published": "2026-05-01T13:12:10+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "0240980719538ead3b0c7f74de9d3f203c9a6fa2",
       "title": "Rocket Report: Falcon Heavy is back; Russia's Soyuz-5 finally debuts",
       "link": "https://arstechnica.com/space/2026/05/rocket-report-falcon-heavy-is-back-russias-soyuz-5-finally-debuts/",
@@ -1137,15 +1146,6 @@
       "published": "2026-05-01T11:00:15+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "1d43e46dfef6207a3e1cc799d637d2c1b683eb66",
-      "title": "PeekFocus",
-      "link": "https://www.producthunt.com/products/peekfocus",
-      "summary": "<p>\n            One keystroke blurs everything behind your active window\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/peekfocus?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1136527?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-01T04:57:56+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "1fde1f7761d4a9778827b42899c6e494167bdffe",
@@ -1193,15 +1193,6 @@
       "category": "tech"
     },
     {
-      "id": "8f4b847077eb9530efc26b3404c73cd3b733ed67",
-      "title": "Apple was surprised by AI-driven demand for Macs",
-      "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
-      "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
-      "published": "2026-04-30T22:12:52+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "af995b24ea765bee4484b2df71b82284b49cb16d",
       "title": "Trump nominates Fox News doctor to be the next surgeon general",
       "link": "https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/",
@@ -1220,15 +1211,6 @@
       "category": "tech"
     },
     {
-      "id": "9c50c03744dad1027a4fb3c22b2c265261535678",
-      "title": "LaunchCut",
-      "link": "https://www.producthunt.com/products/launchcut-2",
-      "summary": "<p>\n            Interactive iOS Demo Builder\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/launchcut-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1136364?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-30T21:35:28+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "afe07a379b9990fddd5c3897d424900b4a5d2657",
       "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
       "link": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
@@ -1245,6 +1227,15 @@
       "published": "2026-04-30T16:41:09+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "91d0932ed9e7f7b9bd46423903a247bf48108123",
+      "title": "Zed 1.0",
+      "link": "https://www.producthunt.com/products/zed",
+      "summary": "<p>\n            High-performance, open source, multiplayer code editor\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zed?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1136118?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-30T16:34:46+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "cac575bb8094c1e70713723058a9ae2def96bf9c",
@@ -1301,11 +1292,20 @@
       "category": "deals"
     },
     {
-      "id": "d0d665af27d8c86629a932f685a1131f3d6de9f2",
-      "title": "Marx Finance",
-      "link": "https://www.producthunt.com/products/marx-finance",
-      "summary": "<p>\n            AI agents debate the markets\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/marx-finance?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1135821?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-30T09:41:02+00:00",
+      "id": "b7b9e039ffa80b32ac05f2c80c1beebcb0850374",
+      "title": "nudge",
+      "link": "https://www.producthunt.com/products/nudge-26",
+      "summary": "<p>\n            Drop your tasks. AI auto-schedules your whole week.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nudge-26?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1135846?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-30T09:59:09+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "6d491a862238d8f2fc003d80a353f2e19db9a09c",
+      "title": "HiveTerm",
+      "link": "https://www.producthunt.com/products/hiveterm",
+      "summary": "<p>\n            One workspace for Claude, Codex, Gemini and your stack\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hiveterm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1135822?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-30T09:41:22+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1400,11 +1400,11 @@
       "category": "events"
     },
     {
-      "id": "2c48bfa150f487fe66133b9031784222226b35c5",
-      "title": "Buda",
-      "link": "https://www.producthunt.com/products/buda-2",
-      "summary": "<p>\n            Recruit agents to run your company as a synchronous team\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/buda-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1133814?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-27T23:18:01+00:00",
+      "id": "6a1531a2cdccadfc522284c07df788065dd559f2",
+      "title": "Bitgrain",
+      "link": "https://www.producthunt.com/products/bitgrain",
+      "summary": "<p>\n            Design studio lighter than Figma & more flexible than Canva\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bitgrain?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1133944?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-28T04:44:07+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1418,20 +1418,20 @@
       "category": "events"
     },
     {
+      "id": "8bd6aec33e245d95ca9a7920d73a877e559c0343",
+      "title": "Postiz",
+      "link": "https://www.producthunt.com/products/postiz",
+      "summary": "<p>\n            Agentic social media scheduler for agents like OpenClaw\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/postiz?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1132754?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-26T12:37:39+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "4aeed9d39a50d5fc6f2fe30fc9af9764bd2a22f8",
       "title": "Huddle01 VMs",
       "link": "https://www.producthunt.com/products/huddle01-cloud-2",
       "summary": "<p>\n            Virtual Machines for Your Agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/huddle01-cloud-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1132321?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-25T18:17:26+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "4aa1c6afb7a722085bb78e6c6a1ed784b0949960",
-      "title": "Zush",
-      "link": "https://www.producthunt.com/products/zush",
-      "summary": "<p>\n            Updated: docs support, BYOK, Local AI (Ollama), Windows App\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zush?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1131587?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-24T14:28:09+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1472,20 +1472,20 @@
       "category": "events"
     },
     {
-      "id": "44be6a574a75bb8c38718037596202d3ca723af7",
-      "title": "MUSIXQUARE",
-      "link": "https://www.producthunt.com/products/musixquare",
-      "summary": "<p>\n            Turn any room into a surround system with your devices\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/musixquare?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1127011?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-18T22:18:21+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "66cb176c2780cf5e61561eb2ff235139c361472c",
       "title": "Rosentic",
       "link": "https://www.producthunt.com/products/rosentic",
       "summary": "<p>\n            Catch when coding agents break each other before merge\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rosentic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1119656?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-09T10:25:31+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "95c301ef444cc472070d48b96eacb9a8a8b05e67",
+      "title": "TrafficClaw",
+      "link": "https://www.producthunt.com/products/trafficclaw",
+      "summary": "<p>\n            Have a conversation with your SEO & analytics data \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/trafficclaw?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1103214?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-03-20T14:25:13+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
