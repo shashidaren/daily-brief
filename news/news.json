@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-05-03T17:41:06.670826+00:00",
+  "generatedAt": "2026-05-03T18:50:19.449476+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "dbd6b3e78bd406bf1d3df63001280ea019d8d021",
+      "title": "Three die after virus outbreak on Atlantic cruise ship",
+      "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+      "summary": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
+      "published": "2026-05-03T18:41:48+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "8ba621d99a81d9dd7b4fec4ff1453e9d0c4e2e83",
+      "title": "In Harvard study, AI offered more accurate diagnoses than emergency room doctors",
+      "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "published": "2026-05-03T18:00:09+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "a5e1fa0ae0d812042f43add76e4ab55cce43e402",
+      "title": "Analysis: Asian suppliers account for ~90% of Nvidia's production costs, up from 65% in 2025, as latest wave of collaborations shifts from chips to physical AI (Abhishek Vishnoi/Bloomberg)",
+      "link": "https://www.techmeme.com/260503/p10#a260503p10",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-05-03/asian-stocks-soar-as-nvidia-increases-supply-chain-reliance-to-90-in-asia\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260503/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260503/p10#a260503p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Abhishek Vishnoi / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-05-03/asian-stocks-soar-as-nvidia-increases-supply-chain-reliance-to-90-in-asia\">Analysis: Asian suppliers account for ~90% of Nvidia's production costs, up from 65% in 2025, as latest wave of collaborations shifts from chips to physical AI</a></b></span>&nbsp; &mdash;&nbsp; The list of Asian stocks that benefit from business partnership with Nvidia Corp. is getting longer, as the region further integrates &hellip; </p>",
+      "published": "2026-05-03T17:50:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
     {
       "id": "ebb3ea165176bc735a53972e1d95e6285ed090d2",
       "title": "Iran says US has responded to its latest peace proposal",
@@ -599,15 +626,6 @@
       "category": "tech"
     },
     {
-      "id": "0de79006ead3553a0f00699690597be000656f37",
-      "title": "Study: OpenAI's o1 correctly diagnosed 67% of emergency room patients using electronic records and a few sentences from nurses, vs. to 50-55% for triage doctors (Robert Booth/The Guardian)",
-      "link": "https://www.techmeme.com/260502/p8#a260502p8",
-      "summary": "<a href=\"https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260502/i8.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260502/p8#a260502p8\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Robert Booth / <a href=\"http://www.theguardian.com/\">The Guardian</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses\">Study: OpenAI's o1 correctly diagnosed 67% of emergency room patients using electronic records and a few sentences from nurses, vs. to 50-55% for triage doctors</a></b></span>&nbsp; &mdash;&nbsp; Researchers say results mark a &lsquo;profound change in technology that will reshape medicine&rsquo;&nbsp; &mdash;&nbsp; From George Clooney in ER &hellip; </p>",
-      "published": "2026-05-02T18:10:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "40675e9143d5ecc5643ba72dcaa365cb1ce05d31",
       "title": "Oil tanker hijacked off coast of Yemen and taken towards Somalia",
       "link": "https://www.bbc.com/news/articles/cpwprl0v2npo?at_medium=RSS&at_campaign=rss",
@@ -633,15 +651,6 @@
       "published": "2026-05-02T17:05:41+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "c02d3c42bc773c5d1dcefea2b0a9852a14157b93",
-      "title": "Taiwan president visits Eswatini days after blaming China for cancelled trip",
-      "link": "https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is unclear how he reached Eswatini. China described his visit as a \"stowaway-style escape farce\".",
-      "published": "2026-05-02T17:01:47+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "90acb1bf7d0f5631ca26cb829d93b49a21534bbf",
@@ -1184,15 +1193,6 @@
       "category": "tech"
     },
     {
-      "id": "80ab82a2e6ab459ec7936a3c0f7ecd3cfcca4350",
-      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-      "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-      "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
-      "published": "2026-04-30T23:07:56+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "af995b24ea765bee4484b2df71b82284b49cb16d",
       "title": "Trump nominates Fox News doctor to be the next surgeon general",
       "link": "https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/",
@@ -1229,15 +1229,6 @@
       "category": "malaysia"
     },
     {
-      "id": "91d0932ed9e7f7b9bd46423903a247bf48108123",
-      "title": "Zed 1.0",
-      "link": "https://www.producthunt.com/products/zed",
-      "summary": "<p>\n            High-performance, open source, multiplayer code editor\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zed?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1136118?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-30T16:34:46+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "cac575bb8094c1e70713723058a9ae2def96bf9c",
       "title": "WCE now supports TNG eWallet PayDirect at all toll plazas",
       "link": "https://soyacincau.com/2026/04/30/wce-highway-supports-tng-ewallet-paydirect/",
@@ -1245,15 +1236,6 @@
       "published": "2026-04-30T15:59:28+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "7747a0775e2fd6b0078d4171fd476cfc818f935a",
-      "title": "Montage",
-      "link": "https://www.producthunt.com/products/montage-3",
-      "summary": "<p>\n            The runtime framework for agentic user interfaces!\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1136086?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-30T15:50:23+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "e9245ebdedcd65a2ed56b0c2e881853dc2024ba5",
@@ -1396,6 +1378,24 @@
       "link": "https://www.producthunt.com/products/google",
       "summary": "<p>\n            Mix and match up to 4 live streams at once\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1134756?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-29T02:51:28+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "c79c6e20a708558c23a0dc5b00af4e36454e187c",
+      "title": "ScreenVeil",
+      "link": "https://www.producthunt.com/products/screenveil",
+      "summary": "<p>\n            Hide what shouldn’t be seen on your computer\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/screenveil?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1134077?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-28T07:56:19+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "2c48bfa150f487fe66133b9031784222226b35c5",
+      "title": "Buda",
+      "link": "https://www.producthunt.com/products/buda-2",
+      "summary": "<p>\n            Recruit agents to run your company as a synchronous team\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/buda-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1133814?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-27T23:18:01+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
