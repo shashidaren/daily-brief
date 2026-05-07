@@ -1,14 +1,41 @@
 {
-  "generatedAt": "2026-05-07T21:50:38.888511+00:00",
+  "generatedAt": "2026-05-07T22:55:31.452688+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
+      "id": "c6814f5e24b5387123aa71875da742f520a772d3",
+      "title": "CoreWeave reports Q1 revenue up 112% YoY to $2.08B, vs. $1.97B est., a $99.4B revenue backlog, forecasts Q2 revenue below estimates; CRWV drops 8%+ after hours (Jordan Novet/CNBC)",
+      "link": "https://www.techmeme.com/260507/p45#a260507p45",
+      "summary": "<a href=\"https://www.cnbc.com/2026/05/07/coreweave-crwv-q1-earnings-report-2026.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260507/i45.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260507/p45#a260507p45\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jordan Novet / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/05/07/coreweave-crwv-q1-earnings-report-2026.html\">CoreWeave reports Q1 revenue up 112% YoY to $2.08B, vs. $1.97B est., a $99.4B revenue backlog, forecasts Q2 revenue below estimates; CRWV drops 8%+ after hours</a></b></span>&nbsp; &mdash;&nbsp; CoreWeave shares tumbled 10% in extended trading on Thursday after the AI infrastructure provider issued light revenue guidance &hellip; </p>",
+      "published": "2026-05-07T22:25:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "cc5df0c1bbaafc813dc9cd074583d970eca99c4a",
+      "title": "OpenAI launches new voice intelligence features in its API",
+      "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+      "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+      "published": "2026-05-07T22:24:50+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "2cdf29c72e04575252c0b28140f11a1a1a0ed9de",
+      "title": "Nvidia and data center operator IREN announce a deal to deploy up to 5 GW of AI infrastructure; Nvidia can invest $2.1B into IREN; IREN jumps 9%+ after hours (Jonathan Vanian/CNBC)",
+      "link": "https://www.techmeme.com/260507/p44#a260507p44",
+      "summary": "<a href=\"https://www.cnbc.com/2026/05/07/iren-stock-ai-infrastructure-nvidia.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260507/i44.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260507/p44#a260507p44\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jonathan Vanian / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/05/07/iren-stock-ai-infrastructure-nvidia.html\">Nvidia and data center operator IREN announce a deal to deploy up to 5 GW of AI infrastructure; Nvidia can invest $2.1B into IREN; IREN jumps 9%+ after hours</a></b></span>&nbsp; &mdash;&nbsp; IREN shares surged in extended-trading on Thursday before giving back nearly all of the gains after the data center operator announced &hellip; </p>",
+      "published": "2026-05-07T21:50:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
       "id": "afae5a9e337dba63e87d2b1861e1fc7ffae42918",
       "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
       "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
-      "summary": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboratio",
+      "summary": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration.",
       "published": "2026-05-07T21:49:24+00:00",
       "source": "TechCrunch",
       "category": "tech"
@@ -29,6 +56,15 @@
       "summary": "Disney CEO Josh D'Amaro, who took over for Bob Iger earlier this year, has emphasized his intent to streamline the Disney experience.",
       "published": "2026-05-07T21:40:10+00:00",
       "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "ca89e16d2c80366ff82aaaad4d3c443a6f5ea975",
+      "title": "DHS can’t create vast DNA database to track ICE critics, lawsuit says",
+      "link": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/",
+      "summary": "Lawsuit accuses DHS of plugging DNA database into ICE surveillance machine.",
+      "published": "2026-05-07T21:35:01+00:00",
+      "source": "Ars Technica - All content",
       "category": "tech"
     },
     {
@@ -80,7 +116,7 @@
       "id": "3bd160258782102bffa4608ca89b21badf287a00",
       "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
       "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-      "summary": "AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+      "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
       "published": "2026-05-07T21:02:11+00:00",
       "source": "TechCrunch",
       "category": "tech"
@@ -185,10 +221,10 @@
       "category": "deals"
     },
     {
-      "id": "6ff4c61d813a76114193dce3967e41efefba1cf1",
-      "title": "Anthropic researchers detail natural language autoencoders, which convert LLM activations, the numbers encoding a model's thoughts, into natural language text (Anthropic)",
+      "id": "8b93d7f83dd1af3081daff366fec681dec6a0ea3",
+      "title": "Anthropic researchers detail \"natural language autoencoders\", which convert LLM activations, the numbers encoding a model's thoughts, into natural language text (Anthropic)",
       "link": "https://www.techmeme.com/260507/p38#a260507p38",
-      "summary": "<a href=\"https://www.anthropic.com/research/natural-language-autoencoders\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260507/i38.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260507/p38#a260507p38\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.anthropic.com/\">Anthropic</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.anthropic.com/research/natural-language-autoencoders\">Anthropic researchers detail natural language autoencoders, which convert LLM activations, the numbers encoding a model's thoughts, into natural language text</a></b></span>&nbsp; &mdash;&nbsp; When you talk to an AI model like Claude, you talk to it in words.&nbsp; Internally, Claude processes those words as long lists of numbers &hellip; </p>",
+      "summary": "<a href=\"https://www.anthropic.com/research/natural-language-autoencoders\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260507/i38.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260507/p38#a260507p38\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.anthropic.com/\">Anthropic</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.anthropic.com/research/natural-language-autoencoders\">Anthropic researchers detail &ldquo;natural language autoencoders&rdquo;, which convert LLM activations, the numbers encoding a model's thoughts, into natural language text</a></b></span>&nbsp; &mdash;&nbsp; When you talk to an AI model like Claude, you talk to it in words.&nbsp; Internally, Claude processes those words &hellip; </p>",
       "published": "2026-05-07T20:00:46+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -491,15 +527,6 @@
       "category": "tech"
     },
     {
-      "id": "9e416c9a99263948385b888b052a4471d1ec0d22",
-      "title": "Filing: OnlyFans owner Leonid Radvinsky's wife assumed significant control of OnlyFans holding company Fenix in March following the death of Radvinsky (Bloomberg)",
-      "link": "https://www.techmeme.com/260507/p30#a260507p30",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-05-07/onlyfans-owner-s-wife-takes-control-of-business-after-his-death\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260507/i30.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260507/p30#a260507p30\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-05-07/onlyfans-owner-s-wife-takes-control-of-business-after-his-death\">Filing: OnlyFans owner Leonid Radvinsky's wife assumed significant control of OnlyFans holding company Fenix in March following the death of Radvinsky</a></b></span>&nbsp; &mdash;&nbsp; Leonid Radvinsky's widow has surfaced as a beneficiary of the business empire behind adult-content platform OnlyFans, the latest example of &hellip; </p>",
-      "published": "2026-05-07T17:35:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "cdfa7a990c6bbd5db25a68414c7e0b3b9c46b934",
       "title": "Did Microsoft just tease a new Xbox UI?",
       "link": "https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud",
@@ -525,15 +552,6 @@
       "published": "2026-05-07T17:19:24+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "38a1885327be8983dd396fadd61658f556473b16",
-      "title": "AWS unveils Amazon Bedrock AgentCore Payments and partners with Coinbase and Stripe to enable AI agents to execute transactions using stablecoins (RT Watson/The Block)",
-      "link": "https://www.techmeme.com/260507/p29#a260507p29",
-      "summary": "<a href=\"https://www.theblock.co/post/400421/aws-taps-coinbase-and-stripe-to-power-usdc-payments-for-ai-agents\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260507/i29.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260507/p29#a260507p29\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> RT Watson / <a href=\"https://www.theblock.co/\">The Block</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theblock.co/post/400421/aws-taps-coinbase-and-stripe-to-power-usdc-payments-for-ai-agents\">AWS unveils Amazon Bedrock AgentCore Payments and partners with Coinbase and Stripe to enable AI agents to execute transactions using stablecoins</a></b></span>&nbsp; &mdash;&nbsp; Quick Take&nbsp; &mdash; Amazon Web Services has partnered with Coinbase and Stripe to enable AI agents to execute transactions using stablecoins.</p>",
-      "published": "2026-05-07T17:00:49+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "13e528be121f23e8054702ea2786c4ff6c871992",
@@ -667,15 +685,6 @@
       "link": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
       "summary": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportunities for major scaling impact.",
       "published": "2026-05-07T15:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "e6509b3a665ceead046acda99e5b18b0f7828288",
-      "title": "Police arrest SMS blaster crew that sent malicious messages to thousands across Toronto",
-      "link": "https://techcrunch.com/2026/05/07/police-arrest-sms-blaster-crew-that-sent-malicious-messages-to-thousands-across-toronto/",
-      "summary": "Toronto police said this is the \"first known instance\" of an SMS blaster being used in Canada.",
-      "published": "2026-05-07T14:49:02+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
@@ -1040,6 +1049,15 @@
       "category": "world"
     },
     {
+      "id": "c8529976992489ca4dddfbaa51f8f7668fafb2bb",
+      "title": "LikeTony.ai",
+      "link": "https://www.producthunt.com/products/liketony-ai",
+      "summary": "<p>\n            Make your landing sound like Elon, Jobs or Yoda\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/liketony-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1141082?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-07T06:50:49+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "2c8fbe46eec100c70acfcd28608a5c7ca31071b1",
       "title": "Gigabyte Announces X870E Aero X3D Dark Wood For Those Who Prefer A Darker Colour",
       "link": "https://www.lowyat.net/2026/392048/gigabyte-x870e-aero-x3d-dark-wood/",
@@ -1083,6 +1101,15 @@
       "published": "2026-05-07T04:10:54+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "65509ab09f022186511dab910ffef6b09ef9956c",
+      "title": "Neo by Amp",
+      "link": "https://www.producthunt.com/products/amp-free",
+      "summary": "<p>\n            The Amp CLI has been rebuilt from the ground up\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/amp-free?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1140989?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-07T03:22:56+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "ebce362cd3558381a34cc7c455287787ed35ecba",
@@ -1184,15 +1211,6 @@
       "category": "events"
     },
     {
-      "id": "fd0877a9849e95480b4515d8a244a18affb701f5",
-      "title": "ClearMesh",
-      "link": "https://www.producthunt.com/products/clearmesh",
-      "summary": "<p>\n            A Git-like platform for datasets, models, and binary folders\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clearmesh?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1140807?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-06T20:06:33+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "76ecb17c23e084af4cebf81772d210010571984c",
       "title": "Askmeety",
       "link": "https://www.producthunt.com/products/askmeety",
@@ -1247,6 +1265,15 @@
       "category": "tech"
     },
     {
+      "id": "535f1e502b6683f106ff7b4c6f241efea65227df",
+      "title": "Phrony",
+      "link": "https://www.producthunt.com/products/phrony",
+      "summary": "<p>\n            Ship AI agents without the operational burden\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/phrony?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1140614?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-06T16:01:01+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "615c26661e05fe5f5a6223ab4cd8660a45d77e7b",
       "title": "Google's Gemma 4 AI models get 3x speed boost by predicting future tokens",
       "link": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
@@ -1274,22 +1301,13 @@
       "category": "tech"
     },
     {
-      "id": "71c787311c132a406d4c1040df2e730f385856c0",
-      "title": "reMarkable Paper Pure",
-      "link": "https://www.producthunt.com/products/remarkable-paper-pro",
-      "summary": "<p>\n            The reMarkable 2 successor goes back to basics\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/remarkable-paper-pro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1140507?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-06T13:58:29+00:00",
+      "id": "f6ac3c2c7c1c05ce05b42b1a48f042d331d823c9",
+      "title": "Contextual Moderation for Chat",
+      "link": "https://www.producthunt.com/products/moderation-malware-virus-scanner",
+      "summary": "<p>\n            AI-powered moderation for safer chat experiences\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/moderation-malware-virus-scanner?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1140418?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-06T12:04:29+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "e000a6eee67009ae22f6f1af74b856bf3f53f5ca",
-      "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
-      "link": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
-      "summary": "A celebration of the tweaks and customizations that make life easier at the CLI.",
-      "published": "2026-05-06T13:32:47+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
     },
     {
       "id": "b9dd70fd7a2d5a2dedb43f9c499c623e1ac161ee",
@@ -1391,15 +1409,6 @@
       "category": "events"
     },
     {
-      "id": "69b9cc2ecac574982245f0023c1242e3ddcde2db",
-      "title": "Arkiv",
-      "link": "https://www.producthunt.com/products/arkiv",
-      "summary": "<p>\n            Modern Asset Protection for Designers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/arkiv?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1139704?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-05T15:29:28+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "ce9cfb673db8f0449d09e22e0f1e158d4923cc22",
       "title": "Infinix GT 50 Pro launched in Malaysia: Gaming phone with Dimensity 8400 Ultimate, 144Hz AMOLED, 6500mAh battery, priced from RM1,899",
       "link": "https://soyacincau.com/2026/05/05/infinix-gt-50-pro-malaysia-price-specs-promo-launch/",
@@ -1434,15 +1443,6 @@
       "published": "2026-05-05T02:54:11+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "8fde00f40fd93ca53539621789f1d24c95a846af",
-      "title": "Hachigo",
-      "link": "https://www.producthunt.com/products/hachigo",
-      "summary": "<p>\n            Turn repetitive AI tasks into apps\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hachigo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1137598?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-02T18:06:06+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "7923f6758ca6914a40f0d0f35c32b9183db9063c",
