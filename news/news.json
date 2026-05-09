@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-05-09T20:37:47.499996+00:00",
+  "generatedAt": "2026-05-09T21:37:10.476447+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "67df03fd7ae97e061675c1ffa922fde31cbefd86",
+      "title": "Lebanon says Israeli strikes killed 39",
+      "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+      "published": "2026-05-09T21:23:14+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "c1b04588e06f227965f09ab1d0f155882646d598",
       "title": "Fintech startup Parker files for bankruptcy",
@@ -21,15 +30,6 @@
       "published": "2026-05-09T19:55:01+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "67df03fd7ae97e061675c1ffa922fde31cbefd86",
-      "title": "Lebanon says Israeli strikes killed 39",
-      "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
-      "published": "2026-05-09T19:49:49+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "36999d44c2c6ba10f8860bc35f70909fd6de6080",
@@ -1283,15 +1283,6 @@
       "category": "events"
     },
     {
-      "id": "0bd3048263d70633a2a6ef070308f1c65791aa9d",
-      "title": "Sendly",
-      "link": "https://www.producthunt.com/products/sendly-2",
-      "summary": "<p>\n            SMS For AI Agents & Developers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sendly-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1141864?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-07T22:55:21+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "ca89e16d2c80366ff82aaaad4d3c443a6f5ea975",
       "title": "DHS can’t create vast DNA database to track ICE critics, lawsuit says",
       "link": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/",
@@ -1486,6 +1477,15 @@
       "link": "https://www.producthunt.com/products/pop-13",
       "summary": "<p>\n            Everyday messaging, voice first\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pop-13?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1134018?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-28T06:41:42+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "62c119f92a7708d42830b1fad4e65fab4bfe67ab",
+      "title": "GitHired",
+      "link": "https://www.producthunt.com/products/githired-2",
+      "summary": "<p>\n            Find 100x engineers by proof of work, not resume keywords\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/githired-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1127544?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-19T19:16:05+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
