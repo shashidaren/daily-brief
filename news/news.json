@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-05-09T14:43:38.899287+00:00",
+  "generatedAt": "2026-05-09T15:43:36.940382+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "a048f705fdd71f5ed0d1fe5ed476137a43086047",
+      "title": "'I will serve not rule over Hungary,' says new PM",
+      "link": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
+      "published": "2026-05-09T15:12:04+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "5aa02cf4bd010fba6c8dbc64da3a1017295e44c3",
+      "title": "Nvidia has already committed $40B to equity AI deals this year",
+      "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
+      "published": "2026-05-09T14:43:30+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "a8830efb5cbd6d52b2ddc1acfb34cf748f7fea59",
       "title": "GM agrees to pay $12.75M to resolve a California investigation into claims that it illegally sold the location and driving data of OnStar subscribers to brokers (David Shepardson/Reuters)",
@@ -30,15 +48,6 @@
       "published": "2026-05-09T14:00:00+00:00",
       "source": "The Verge",
       "category": "tech"
-    },
-    {
-      "id": "b492c06fe420fc07d468ef7aa35678f4a7053e9f",
-      "title": "Hungary's new PM sworn in after landslide victory over Orbán",
-      "link": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
-      "published": "2026-05-09T13:58:01+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "181e0ea9975da08f50c16bb98a7e9ace007d7fdc",
@@ -1274,15 +1283,6 @@
       "category": "events"
     },
     {
-      "id": "cc5df0c1bbaafc813dc9cd074583d970eca99c4a",
-      "title": "OpenAI launches new voice intelligence features in its API",
-      "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-      "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
-      "published": "2026-05-07T22:24:50+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "ca89e16d2c80366ff82aaaad4d3c443a6f5ea975",
       "title": "DHS can’t create vast DNA database to track ICE critics, lawsuit says",
       "link": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/",
@@ -1290,6 +1290,15 @@
       "published": "2026-05-07T21:35:01+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
+    },
+    {
+      "id": "340e7eca127abb0db1cdf62e383944a9ebd1c3e4",
+      "title": "Operations",
+      "link": "https://www.producthunt.com/products/operations",
+      "summary": "<p>\n            Turn every new tab into your personal dashboard\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/operations?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1141769?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-07T19:53:10+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "f1f6f0ea25c5f78ca34a1004079de5ea11b5cbc2",
@@ -1306,15 +1315,6 @@
       "link": "https://www.producthunt.com/products/bugdrop-2",
       "summary": "<p>\n            In-app feedback that creates GitHub Issues with screenshots\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bugdrop-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1141615?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-07T17:08:01+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "e629febe2a842a1710a7662e038fb3870dfc8f76",
-      "title": "GlowIsland",
-      "link": "https://www.producthunt.com/products/glowisland-evolve-your-mac-s-notch",
-      "summary": "<p>\n            Turn your Mac notch into an interactive utility ribbon.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/glowisland-evolve-your-mac-s-notch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1141500?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-07T14:48:58+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1355,6 +1355,15 @@
       "category": "malaysia"
     },
     {
+      "id": "4710a87e16c9f223ce6b89cb854ab930cbd5b149",
+      "title": "iOrchestra AI Hardware Engineers",
+      "link": "https://www.producthunt.com/products/vibe-engineer-by-iorchestra",
+      "summary": "<p>\n            Prompt to production-ready Hardware designs for manufacture\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vibe-engineer-by-iorchestra?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1140650?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-06T17:08:38+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "89fca634f96ecadc3f12106353d5fbe520917887",
       "title": "Prism",
       "link": "https://www.producthunt.com/products/prism-26",
@@ -1369,15 +1378,6 @@
       "link": "https://www.producthunt.com/products/photobomb",
       "summary": "<p>\n            Card against humanity but for your camera roll\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/photobomb?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1140580?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-06T15:06:59+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "d1866941605236133e6f57839781f6fa61e1c919",
-      "title": "Fluent Frame",
-      "link": "https://www.producthunt.com/products/fluent-frame",
-      "summary": "<p>\n            Ship polished product videos as fast as you ship features\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fluent-frame?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1140538?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-06T14:22:45+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
