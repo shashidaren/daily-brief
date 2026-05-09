@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-05-09T18:50:58.136365+00:00",
+  "generatedAt": "2026-05-09T19:53:02.278261+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "36999d44c2c6ba10f8860bc35f70909fd6de6080",
+      "title": "Mexican parents criticise ending school year a month early for World Cup",
+      "link": "https://www.bbc.com/news/articles/c36276z14ego?at_medium=RSS&at_campaign=rss",
+      "summary": "The federal government faces widespread anger for saying the school year could end on 5 June to accommodate the football tournament.",
+      "published": "2026-05-09T19:40:55+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "658006aa05449eef99cd6437b5ee1bf361a54caa",
+      "title": "GM agrees to pay $12.75M in California driver privacy settlement",
+      "link": "https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/",
+      "summary": "General Motors has reached a privacy-related settlement with a group of law enforcement agencies led by California Attorney General Rob Bonta.",
+      "published": "2026-05-09T19:05:30+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "b430dd0e7d8f9cb765616444492f7256fe5a8551",
       "title": "Iran demands guarantees for World Cup participation",
@@ -1238,33 +1256,6 @@
       "category": "deals"
     },
     {
-      "id": "90f7ea4150dbd541c91ad8c43d5ad3c1aab47f7b",
-      "title": "Two Islamic-State linked Australian women charged with crimes against humanity",
-      "link": "https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss",
-      "summary": "A third woman who also returned to Australia from Syria was charged with joining a terrorist organisation.",
-      "published": "2026-05-08T05:07:55+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "4abbd5ca0929b17946ab25df31e604275e7adf32",
-      "title": "Bitfield",
-      "link": "https://www.producthunt.com/products/bitfield",
-      "summary": "<p>\n            No AI spaghetti code. Agents read state in under 1ns\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bitfield?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1141986?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-08T04:59:06+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "55c45807a9539a8ef36c818af66977adc2cf08fa",
-      "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
-      "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
-      "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
-      "published": "2026-05-08T04:42:29+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "4fcd815186d9e3c3ed9e664b90286fe303dc142b",
       "title": "DJI Osmo Mobile 8P Arrives In Malaysia With Detachable Remote",
       "link": "https://www.lowyat.net/2026/392142/dji-osmo-mobile-8p-malaysia/",
@@ -1319,6 +1310,15 @@
       "category": "events"
     },
     {
+      "id": "b36d8c614cdee91ade039a92e5edb60dc2bd52c9",
+      "title": "Google Health",
+      "link": "https://www.producthunt.com/products/google",
+      "summary": "<p>\n            A new relationship with your health\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1141602?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-07T16:54:51+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "3d3c95989fa3c32ffb2638cea71dba51e80203e0",
       "title": "MITI’s CBU EV ruling will wipe out current EV lineup from BYD, iCaur, Mini, Smart, Toyota, and more",
       "link": "https://soyacincau.com/2026/05/07/miti-cbu-ev-ruling-wipe-out-byd-gwm-icaur-mini-smart-toyota/",
@@ -1326,6 +1326,15 @@
       "published": "2026-05-07T10:43:27+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "55fdc15a058e2bd4d726846978be9cad4178325d",
+      "title": "Swiftcruit",
+      "link": "https://www.producthunt.com/products/swiftcruit",
+      "summary": "<p>\n            Hire Engineers Who Know How to Code With AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/swiftcruit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1141122?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-07T07:49:21+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "34b9cb90e77396c4df17d5bc88fc889d41d38813",
@@ -1468,15 +1477,6 @@
       "link": "https://www.producthunt.com/products/manuscripts-app",
       "summary": "<p>\n            For academics who have outgrown the spreadsheet tracker\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/manuscripts-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1137822?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-03T06:22:50+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "a32eda6ce55a2739ff844aca3cabc3f48d55883c",
-      "title": "Benchmark",
-      "link": "https://www.producthunt.com/products/are-you-beeing-spreaded",
-      "summary": "<p>\n            Upload a fintech proposal & see if the price is fair\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/are-you-beeing-spreaded?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1136393?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-30T22:44:07+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
