@@ -1,17 +1,53 @@
 {
-  "generatedAt": "2026-05-10T20:40:47.187579+00:00",
+  "generatedAt": "2026-05-10T21:41:08.844707+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
+      "id": "089ccc6e97090a7f5a0af2e73b4a65609ecbb2f4",
+      "title": "Get ready for the whisper-filled office of the future",
+      "link": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+      "summary": "How will work setups change if we spend more and more time talking to our computers?",
+      "published": "2026-05-10T21:15:30+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "d44563803e531fbcd63a0c7323d542492f16c085",
+      "title": "Iran activists tell BBC how threat of war intensifies trauma of repression",
+      "link": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
+      "summary": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
+      "published": "2026-05-10T21:01:17+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "934eb154765a1c671129a4038824523069f4c6f8",
       "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
       "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
       "summary": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
-      "published": "2026-05-10T20:27:37+00:00",
+      "published": "2026-05-10T20:57:22+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "ae9f45511458570b33fa2d73c18f8f4f8e57afc9",
+      "title": "The Bastl Kalimba is a wild synth that thinks it’s a thumb piano",
+      "link": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
+      "summary": "Make no mistake, the Bastl Kalimba is a synthesizer, you just play it like a kalimba. Its tines don't really make much sound. There is an internal mic that you can blend in for a little acoustic spice, but it's mostly driven by the synth engine that combines physical modeling and FM. The tines are [&#8230;]",
+      "published": "2026-05-10T20:42:08+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "1b750111f8ea3e3784447af75c6a3746d3271bc1",
+      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+      "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+      "published": "2026-05-10T20:40:41+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
     },
     {
       "id": "4c52de2f5cccd260b3cd989afee47cdc8bc1aa47",
@@ -273,15 +309,6 @@
       "published": "2026-05-10T11:55:31+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "631d7a256b01a5338ce94f4a762b0fcd1f40bd42",
-      "title": "Israel deports two activists detained on board Gaza flotilla",
-      "link": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Spanish national Saif Abu Keshek and Brazilian Thiago Ávila were detained by Israel after sailing in a Gaza-bound aid flotilla.",
-      "published": "2026-05-10T11:55:09+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "4caf47494d8597a4eb46ca7097b1d4429af380d3",
@@ -815,15 +842,6 @@
       "category": "tech"
     },
     {
-      "id": "caa121b9bde1795d27e91cbb6591562ab281738c",
-      "title": "Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs",
-      "link": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
-      "summary": "At the Los Angeles Convention Center, two 85-inch TVs sat side by side inside the Nanosys meeting room at Display Week - a yearly business-to-business convention focusing on the technology that goes into displays of all types. One TV was a mini-LED panel with super quantum dots, and the other was an RGB LED - [&#8230;]",
-      "published": "2026-05-09T12:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "92c80e5894587fbc5c42c02bd1fbf66598407986",
       "title": "9to5Toys Steals Weekly – Collapsible Qi2 3-in-1 charging station $17, USB-C to HDMI cable $6.50, tomtoc 40L bag $70, more",
       "link": "https://9to5toys.com/2026/05/09/steals-weekly-may-9/",
@@ -1130,30 +1148,12 @@
       "category": "tech"
     },
     {
-      "id": "508b7727d70d1e01c54a48a6e3a1858f9ce91d4d",
-      "title": "Poland says hackers breached water treatment plants, and the US is facing the same threat",
-      "link": "https://techcrunch.com/2026/05/08/poland-says-hackers-breached-water-treatment-plants-and-the-u-s-is-facing-the-same-threat/",
-      "summary": "A report by Poland’s top intelligence agency accused Russia of sabotage and hacking activities against the country’s military and civilian infrastructure.",
-      "published": "2026-05-08T17:20:37+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "9231ae0c0821675aed09b5ce798d79a73884c528",
       "title": "Chrome's 4GB AI model isn't new, but you're not wrong for being confused",
       "link": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/",
       "summary": "You can stop Chrome from taking up 4GB of storage for local AI, but that shouldn't be your problem.",
       "published": "2026-05-08T17:17:17+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "f35a74f4360f1133b343d27c5f06827b8e112abe",
-      "title": "US defense contractor who sold hacking tools to Russian broker ordered to pay $10M to former employers",
-      "link": "https://techcrunch.com/2026/05/08/u-s-defense-contractor-who-sold-hacking-tools-to-russian-broker-ordered-to-pay-10-million-to-former-employers/",
-      "summary": "Former cybersecurity executive Peter Williams stole several surveillance and hacking tools and sold them for $1.3 million to a Russian broker that works with Putin’s government.",
-      "published": "2026-05-08T16:43:19+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1220,6 +1220,15 @@
       "category": "tech"
     },
     {
+      "id": "26b44aa731869b369f6f002fd7de6d4a76a46891",
+      "title": "Staff.rip",
+      "link": "https://www.producthunt.com/products/staff-rip",
+      "summary": "<p>\n            Describe a code change in plain language and ship it\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/staff-rip?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1142333?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-08T13:43:30+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "f59dcf183e666e98128c0ae36e09e41a8e6bcaf9",
       "title": "Everyone’s a loser in Strait of Hormuz game that simulates global crisis",
       "link": "https://arstechnica.com/gaming/2026/05/everyones-a-loser-in-straight-of-hormuz-game-that-simulates-global-crisis/",
@@ -1263,6 +1272,15 @@
       "published": "2026-05-08T10:00:56+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
+    },
+    {
+      "id": "ffb18d3b561946ea61a11a0f18583e77e318a4a3",
+      "title": "Zappy by ZapDigits",
+      "link": "https://www.producthunt.com/products/zapdigits",
+      "summary": "<p>\n            Your AI reporting analyst\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zapdigits?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1142190?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-08T09:57:19+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "4e081a5f3e01bc46d79e92f61d7f251b3907588c",
@@ -1335,15 +1353,6 @@
       "published": "2026-05-07T01:15:25+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "89fca634f96ecadc3f12106353d5fbe520917887",
-      "title": "Prism",
-      "link": "https://www.producthunt.com/products/prism-26",
-      "summary": "<p>\n            Hire the best candidates, not just the available\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/prism-26?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1140632?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-06T16:31:45+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "eb5833ae8b04c391f044435c0d4e230f6e9c25cb",
@@ -1423,15 +1432,6 @@
       "link": "https://www.producthunt.com/products/vercel",
       "summary": "<p>\n            Open-source coding security harness\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vercel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1139500?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-05T11:00:17+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "a7f5e5d7efc71b49f4d2dd6071a08e111042dacf",
-      "title": "Nylas CLI",
-      "link": "https://www.producthunt.com/products/nylas",
-      "summary": "<p>\n            Email, calendar, and contacts for AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nylas?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1139186?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-05T02:58:35+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
