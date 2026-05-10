@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-05-10T15:45:13.002470+00:00",
+  "generatedAt": "2026-05-10T16:44:45.497873+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "7eea0a60a3744ce0349dad6bb0d8d2834e9466f9",
+      "title": "TechCrunch Mobility: Lime’s IPO gamble",
+      "link": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "published": "2026-05-10T16:05:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "50369a4f8138abd4ff7e51e183d1a8a08a237346",
+      "title": "A profile of Anduril CEO Brian Schimpf, a Palantir alum and self-identified Democrat, as Anduril's defense tech shakes up the US military-industrial complex (Allie Garfinkle/Fortune)",
+      "link": "https://www.techmeme.com/260510/p11#a260510p11",
+      "summary": "<a href=\"https://fortune.com/2026/05/06/anduril-ceo-brian-schimpf-defense-tech-military-pentagon-palmer-luckey/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260510/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260510/p11#a260510p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Allie Garfinkle / <a href=\"http://www.fortune.com/\">Fortune</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://fortune.com/2026/05/06/anduril-ceo-brian-schimpf-defense-tech-military-pentagon-palmer-luckey/\">A profile of Anduril CEO Brian Schimpf, a Palantir alum and self-identified Democrat, as Anduril's defense tech shakes up the US military-industrial complex</a></b></span>&nbsp; &mdash;&nbsp; &ldquo;The question isn't whether we can build the next Lockheed Martin, it's whether we can avoid becoming the thing we're trying to replace &hellip; </p>",
+      "published": "2026-05-10T15:55:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
     {
       "id": "6178b2871de7af32d74cba7030a8f845f8fa8be0",
       "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
@@ -131,19 +149,19 @@
       "category": "deals"
     },
     {
-      "id": "0bbfdb447516029a7929f7363b58c4ecb3721491",
-      "title": "‘Wakaf’ spirit lives on as Narathiwat museum showcases 1,000-year-old Malaysian-linked Quran manuscripts",
-      "link": "https://www.malaymail.com/news/life/2026/05/10/wakaf-spirit-lives-on-as-narathiwat-museum-showcases-1000-year-old-malaysian-linked-quran-manuscripts/219431",
-      "summary": "NARATHIWAT, May 10&nbsp;&mdash; &nbsp;Islamic heritage across the Nusantara shows that geographical boundaries are no ba...",
+      "id": "8e0f370106f10644334b4a1753dffbe4f9cec490",
+      "title": "Night drives in Gua Musang turn risky as stray cattle accidents keep piling up",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/10/night-drives-in-gua-musang-turn-risky-as-stray-cattle-accidents-keep-piling-up/219442",
+      "summary": "GUA MUSANG, May 10 &mdash; Dark roads, heavy rain and the stillness of night have become the most feared moments for som...",
       "published": "2026-05-10T13:00:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
-      "id": "8e0f370106f10644334b4a1753dffbe4f9cec490",
-      "title": "Night drives in Gua Musang turn risky as stray cattle accidents keep piling up",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/10/night-drives-in-gua-musang-turn-risky-as-stray-cattle-accidents-keep-piling-up/219442",
-      "summary": "GUA MUSANG, May 10 &mdash; Dark roads, heavy rain and the stillness of night have become the most feared moments for som...",
+      "id": "0bbfdb447516029a7929f7363b58c4ecb3721491",
+      "title": "‘Wakaf’ spirit lives on as Narathiwat museum showcases 1,000-year-old Malaysian-linked Quran manuscripts",
+      "link": "https://www.malaymail.com/news/life/2026/05/10/wakaf-spirit-lives-on-as-narathiwat-museum-showcases-1000-year-old-malaysian-linked-quran-manuscripts/219431",
+      "summary": "NARATHIWAT, May 10&nbsp;&mdash; &nbsp;Islamic heritage across the Nusantara shows that geographical boundaries are no ba...",
       "published": "2026-05-10T13:00:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
@@ -512,7 +530,7 @@
       "id": "0db1ce4e5dc2e84660858597f81d3d2615094208",
       "title": "Suspected boat explosion injures 11 in Miami",
       "link": "https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials are investigating what caused the explosion at a popular marina in southern Florida.",
+      "summary": "Officials are investigating what caused the incident at a popular marina in southern Florida.",
       "published": "2026-05-10T03:24:44+00:00",
       "source": "BBC News",
       "category": "world"
@@ -633,15 +651,6 @@
       "published": "2026-05-09T18:44:01+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "2be14ac64bb2f94d328d31ad4bba75053d610d85",
-      "title": "LayerZero apologizes for Kelp DAO exploit response, says single-verifier setup was deficient; Dune: in April, ~47% of LayerZero OApps had the same default setup (Zack Abrams/The Block)",
-      "link": "https://www.techmeme.com/260509/p12#a260509p12",
-      "summary": "<a href=\"https://www.theblock.co/post/400629/layerzero-issues-public-apology-for-kelp-dao-exploit-response-admits-fault-in-single-verifier-setup\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260509/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260509/p12#a260509p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Zack Abrams / <a href=\"https://www.theblock.co/\">The Block</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theblock.co/post/400629/layerzero-issues-public-apology-for-kelp-dao-exploit-response-admits-fault-in-single-verifier-setup\">LayerZero apologizes for Kelp DAO exploit response, says single-verifier setup was deficient; Dune: in April, ~47% of LayerZero OApps had the same default setup</a></b></span>&nbsp; &mdash;&nbsp; Quick Take&nbsp; &mdash; LayerZero published a blog post Friday apologizing for poor communication in the three weeks since the $292 million Kelp DAO exploit.</p>",
-      "published": "2026-05-09T18:15:36+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "436a935360b4c816b16d5f95cd2356a8840d71f7",
@@ -1172,15 +1181,6 @@
       "summary": "There are a couple signs of strain beyond the MacBook Neo and the desktops.",
       "published": "2026-05-08T15:00:27+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "c48fd5401be6ade14e361a31119b57d0c2757fb2",
-      "title": "Truecaller slashes 70 jobs amid declining ad sales",
-      "link": "https://techcrunch.com/2026/05/08/truecaller-slashes-70-jobs-amid-declining-ad-sales/",
-      "summary": "Truecaller's ad revenue declined by 44%, leading to the layoffs.",
-      "published": "2026-05-08T14:41:53+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
