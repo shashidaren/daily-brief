@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-05-16T15:52:25.586704+00:00",
+  "generatedAt": "2026-05-16T16:51:27.072684+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "fb5ad7e6fc1e31b26fd7118826509a3638a56a97",
+      "title": "Democratic governor under fire over clemency for 2020 election denier",
+      "link": "https://www.bbc.com/news/articles/c0l2kln7dzgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tina Peters, a Republican former county clerk, is serving a nine-year sentence for tampering with election equipment.",
+      "published": "2026-05-16T16:32:48+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "5d9ce2a77840dab4df263292639cec159028a551",
+      "title": "Man killed by 13ft shark in Western Australia",
+      "link": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss",
+      "summary": "The attack occurred at Horseshoe Reef - north-west of the popular Rottnest Island near the city of Perth, local police say.",
+      "published": "2026-05-16T16:32:47+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "6b5219e0ffcda803ce5e4e0547be89f7a1c8ddb2",
+      "title": "The offline desk gadget that actually got me to sit up straight",
+      "link": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
+      "summary": "Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits",
+      "published": "2026-05-16T16:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "5368a29d380d491f1671970f89ed478a96e36400",
       "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
@@ -480,15 +507,6 @@
       "published": "2026-05-16T08:12:00+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "94e4d910cd1c9f475d04f8cd6db22af0bb3bba22",
-      "title": "Man killed by 13ft great white shark in Western Australia",
-      "link": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss",
-      "summary": "The man was bitten just before 10:00 (03:00 BST) at Horseshoe Reef - north-west of the popular Rottnest Island near the city of Perth, local police said.",
-      "published": "2026-05-16T07:04:36+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "29a62d6cbdb7c1e76cbeb6fea8f9fbead44ded56",
@@ -1103,15 +1121,6 @@
       "category": "tech"
     },
     {
-      "id": "515856f765191c10e413c5a4406ff130f4ab2b40",
-      "title": "Watch: What did we learn from Trump's visit to China?",
-      "link": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
-      "published": "2026-05-15T13:25:23+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "e79a765ddf0a9a97c62528430dad37aa43264b77",
       "title": "Even GoPro is pivoting to defense",
       "link": "https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/",
@@ -1146,15 +1155,6 @@
       "published": "2026-05-15T12:48:38+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "755bdc12022f4131cfd12f47646d3531a5ed928a",
-      "title": "Tiny World Builder",
-      "link": "https://www.producthunt.com/products/tiny-world-builder",
-      "summary": "<p>\n            Click and build tiny worlds\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tiny-world-builder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147683?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-15T12:33:27+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "49d39d28755a967fecc3476742df21c71eeaac99",
@@ -1265,6 +1265,15 @@
       "category": "world"
     },
     {
+      "id": "92ed489c8d9fa0a042ef8ca891168f078cef3661",
+      "title": "Agent-Sin",
+      "link": "https://www.producthunt.com/products/agent-sin",
+      "summary": "<p>\n            AI agent that handles repeated tasks through reusable skills\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agent-sin?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147371?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-15T02:36:56+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "5d46d6f2bb2d4c260ee9c4cb98ca53bbb3b0e2f6",
       "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
       "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
@@ -1292,20 +1301,11 @@
       "category": "tech"
     },
     {
-      "id": "dfaac2de4674ff2cd2e6737a35b1eb97f9f57e98",
-      "title": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
-      "link": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
-      "summary": "Hardware company Atech raised $800,000 in pre-seed funding, including from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers.",
-      "published": "2026-05-14T20:43:03+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "1bf8607f69c3dd4291f0737b8692e213c5167528",
-      "title": "Glance",
-      "link": "https://www.producthunt.com/products/glance-native-macos-markdown-viewer",
-      "summary": "<p>\n            Preview .md files instantly with quick look\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/glance-native-macos-markdown-viewer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146969?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-14T14:10:53+00:00",
+      "id": "b1a4ef7c0d0a3487cee3a7e7d3a0e7e4d5dde6d6",
+      "title": "AgentRail",
+      "link": "https://www.producthunt.com/products/agentrail",
+      "summary": "<p>\n            A local control plane for AI coding agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentrail?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146987?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-14T14:51:39+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1346,11 +1346,11 @@
       "category": "malaysia"
     },
     {
-      "id": "7c6451d14a128a2673ee73cfcdb92cbcde2ba392",
-      "title": "TrustClaw by Composio",
-      "link": "https://www.producthunt.com/products/composio",
-      "summary": "<p>\n            Self-hosted AI agent that connects 1000+ apps on Vercel\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/composio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146408?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-13T20:37:54+00:00",
+      "id": "f0ec4c23775fc47da259d399869183ea10e1c85b",
+      "title": "Agentic Website Builder 2.0 by Lokuma",
+      "link": "https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma",
+      "summary": "<p>\n            Design, build, and run your site with a design agent harness\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146556?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-14T02:51:00+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1445,11 +1445,11 @@
       "category": "events"
     },
     {
-      "id": "56b1218de2b9734ea76cf83e9ee3aafe615ffff8",
-      "title": "Lensmor",
-      "link": "https://www.producthunt.com/products/lensmor-2",
-      "summary": "<p>\n            Turn exhibitor data into pre-booked sales meetings\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lensmor-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1142876?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-09T08:19:13+00:00",
+      "id": "3575de3c647be8037451cde7911d65121d791eee",
+      "title": "Riffly",
+      "link": "https://www.producthunt.com/products/riffly",
+      "summary": "<p>\n            Describe a deck and AI builds it + Exports to PowerPoint\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/riffly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1141676?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-07T18:37:20+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
