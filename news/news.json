@@ -1,23 +1,86 @@
 {
-  "generatedAt": "2026-05-16T13:07:44.485288+00:00",
+  "generatedAt": "2026-05-16T14:50:26.185735+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
-      "id": "f3ad4d4a831a45576d38811a9656ade41bdad715",
-      "title": "'Happiest day of our lives': Gazans hold mass wedding among ruins",
-      "link": "https://www.malaymail.com/news/life/2026/05/16/happiest-day-of-our-lives-gazans-hold-mass-wedding-among-ruins/220145",
-      "summary": "GAZA CITY, May 16 &mdash; Wearing traditional Palestinian dresses, the white fabric intricately embroidered in a rainbow...",
-      "published": "2026-05-16T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
+      "id": "46ab7c4a80d87a222de027babe40ae4dbe64831f",
+      "title": "In an experiment that let Claude, ChatGPT, Gemini, and Grok run radio stations, Claude tried to incite a revolution and Gemini cheerfully detailed tragic events (Terrence O'Brien/The Verge)",
+      "link": "https://www.techmeme.com/260516/p6#a260516p6",
+      "summary": "<a href=\"https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260516/i6.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260516/p6#a260516p6\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Terrence O'Brien / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies\">In an experiment that let Claude, ChatGPT, Gemini, and Grok run radio stations, Claude tried to incite a revolution and Gemini cheerfully detailed tragic events</a></b></span>&nbsp; &mdash;&nbsp; Claude tried to incite a revolution, Gemini cheerfully detailed horrific tragedies, and poor Grok was just confused.</p>",
+      "published": "2026-05-16T14:30:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "99089b10e7cd5c7b6e5184bd1cc0f2d43f7afebd",
+      "title": "Freight train and bus crash kills at least eight in Bangkok",
+      "link": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police and rescue officials said the collision sparked a fire that engulfed the bus.",
+      "published": "2026-05-16T14:14:19+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "1b4b963daeb5c1c83c242ff3ad83d0fc7b39fb47",
+      "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
+      "link": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
+      "summary": "It may be possible to jailbreak an older, end-of-support Kindle and continue adding books to it. But doing so carries risks.",
+      "published": "2026-05-16T14:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "9509d31a3ac7c6e3fe2157330a7244a4a77aeaeb",
+      "title": "Turtle Beach made a good SteelSeries headset clone that’s $50 less",
+      "link": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
+      "summary": "I really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor. The $399 Nova Pro Omni that came out on May 5th has a similar design to the 2022 model, but with some new and improved features - support for wireless hi-res [&#8230;]",
+      "published": "2026-05-16T14:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "5368a29d380d491f1671970f89ed478a96e36400",
+      "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
+      "link": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
+      "summary": "No group has yet claimed responsibility for the attacks, which have devastated Mussa town in Borno state.",
+      "published": "2026-05-16T13:55:14+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "8bd7aeb130255640f74643713206bd69d3ba95b9",
+      "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
+      "link": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Staff Sgt Mohamed Mahdhee died while diving in the search-and-rescue operation, the Maldives government tells the BBC.",
+      "published": "2026-05-16T13:42:41+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "93424bfdb81ed472828fa0eb1527909990ab16cd",
+      "title": "Best of 9to5Toys – This week’s top deals: MacBook Pro $300 off, new Fitbit Air, Galaxy Tab S11 Ultra, more",
+      "link": "https://9to5toys.com/2026/05/16/this-weeks-best-deals-4/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2024/12/Best-of-9to5Toys.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Good morning and welcome to <em>Best of 9to5Toys Weekly</em> – a one-stop shop for all of the week’s best deals on Apple gear, Samsung and Android tech, accessories for smartphones and Macs, intelligent household upgrades, and even deals to update your wardrobe. The all-new <em>Best of 9to5Toys</em> collects all of the most notable deals and organizes them neatly into one handy catalog for you to peruse every Saturday morning.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/16/this-weeks-best-deals-4/#more-1209735\">more…</a>",
+      "published": "2026-05-16T13:08:46+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
     },
     {
       "id": "1dae9f2c0613a7680ec7149b06d2f0edcfa21d32",
       "title": "Health awareness drives more men to choose circumcision",
       "link": "https://www.malaymail.com/news/life/2026/05/16/health-awareness-drives-more-men-to-choose-circumcision/220150",
       "summary": "KUALA LUMPUR, May 16 &mdash; Circumcision is commonly associated with young Muslim boys as part of religious obligations...",
+      "published": "2026-05-16T13:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "f3ad4d4a831a45576d38811a9656ade41bdad715",
+      "title": "'Happiest day of our lives': Gazans hold mass wedding among ruins",
+      "link": "https://www.malaymail.com/news/life/2026/05/16/happiest-day-of-our-lives-gazans-hold-mass-wedding-among-ruins/220145",
+      "summary": "GAZA CITY, May 16 &mdash; Wearing traditional Palestinian dresses, the white fabric intricately embroidered in a rainbow...",
       "published": "2026-05-16T13:00:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
@@ -66,15 +129,6 @@
       "published": "2026-05-16T13:00:00+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "8bd7aeb130255640f74643713206bd69d3ba95b9",
-      "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
-      "link": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Staff Sergeant Mohamed Mahdhee died while diving in the search and rescue operation, the Maldives government tells the BBC.",
-      "published": "2026-05-16T12:41:26+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "d04c7f2737defcb9019c5e5aeac8d404b74364a4",
@@ -284,15 +338,6 @@
       "category": "malaysia"
     },
     {
-      "id": "99089b10e7cd5c7b6e5184bd1cc0f2d43f7afebd",
-      "title": "Freight train and bus crash kills at least eight in Bangkok",
-      "link": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police and rescue officials said the collision sparked a fire that engulfed the bus.",
-      "published": "2026-05-16T11:21:21+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "ac3019d000e500d5b176f71b9a21af6864ac5cdd",
       "title": "This weekend’s best Apple deals: M5/Pro MacBook Pro $300 off, AirPods Max 2, Series 11, more",
       "link": "https://9to5toys.com/2026/05/16/this-week-best-apple-deals-macbook/",
@@ -491,8 +536,8 @@
       "category": "tech"
     },
     {
-      "id": "40321c4075274efd386697472950fb50a385a878",
-      "title": "US planning to criminally indict ex-Cuban leader Raúl Castro",
+      "id": "f7ce0f7f7e051f73b16a02dbffd1315b00d6debf",
+      "title": "US planning to charge ex-Cuban leader Raúl Castro",
       "link": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
       "summary": "Charges could come as soon as next week in a case reportedly focused on Cuba's downing of two planes in 1996.",
       "published": "2026-05-16T01:37:27+00:00",
@@ -653,24 +698,6 @@
       "category": "tech"
     },
     {
-      "id": "de0996a8eec97995fbdc7e664ad55b1e8b983dcb",
-      "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
-      "link": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
-      "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
-      "published": "2026-05-15T21:50:14+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "7e13ac7983f9ea5d6658e373dfc79a76bb56d456",
-      "title": "Five Italians die during cave scuba dive in Maldives",
-      "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Four of the Italians were part of a team from the University of Genoa.",
-      "published": "2026-05-15T21:33:38+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "71a1ec8e34ffaef323d3e65eb39fb3e4d5fbf997",
       "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
       "link": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
@@ -687,15 +714,6 @@
       "published": "2026-05-15T21:17:19+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "900b36b2443bf17ea799b92ec675f0b4417ed947",
-      "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
-      "link": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment.",
-      "published": "2026-05-15T21:17:05+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "c45ba0d4d446b1e959420c2b2d5afc919258c60a",
@@ -725,15 +743,6 @@
       "category": "deals"
     },
     {
-      "id": "cdc25a53c6a2be9a2cb787576a5aac5a626225d9",
-      "title": "In a viral X post that parodies the old Mac vs. PC commercials, General Catalyst posted a \"VC vs GC\" video, with the VC apparently modeled after Marc Andreessen (Julie Bort/TechCrunch)",
-      "link": "https://www.techmeme.com/260515/p26#a260515p26",
-      "summary": "<a href=\"https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260515/i26.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260515/p26#a260515p26\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Julie Bort / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/\">In a viral X post that parodies the old Mac vs. PC commercials, General Catalyst posted a &ldquo;VC vs GC&rdquo; video, with the VC apparently modeled after Marc Andreessen</a></b></span>&nbsp; &mdash;&nbsp; One of the most entertaining moments in VC this week was a piece of rage-bait marketing from General Catalyst.</p>",
-      "published": "2026-05-15T20:40:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "a0dbd7f1e11411f33e0f969c4351530dd1f6b2f5",
       "title": "ArXiv will ban researchers who upload papers full of AI slop",
       "link": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
@@ -741,6 +750,15 @@
       "published": "2026-05-15T20:38:19+00:00",
       "source": "The Verge",
       "category": "tech"
+    },
+    {
+      "id": "d4992a3b24f6a20a0cba9d037bf513c76250d8fa",
+      "title": "Alleged murder of Aboriginal girl highlights Australia's deep inequalities",
+      "link": "https://www.bbc.com/news/articles/cq6p57mnz9lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Her death has sparked outrage across Australia and intense debate about disparities in society.",
+      "published": "2026-05-15T20:37:39+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "e122c12ae150eb932d6552fc37ccd381842a6d4c",
@@ -869,15 +887,6 @@
       "category": "deals"
     },
     {
-      "id": "6ab50de3c4f2dcddaa7262bfe4c64859fdf4fe09",
-      "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
-      "summary": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the company is combining its products to \"invest in [&#8230;]",
-      "published": "2026-05-15T18:21:35+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "a648c4a78719af020ca7c2baf4869bc3cf0fc645",
       "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
       "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
@@ -968,15 +977,6 @@
       "category": "tech"
     },
     {
-      "id": "1f1cbf9afccd7a4aed251b0a9789ab1ff30c2c0c",
-      "title": "This MagSafe wallet just hit $9.50 with stand functionality and easy ID access (Reg. $20)",
-      "link": "https://9to5toys.com/2026/05/15/omoton-magsafe-wallet-with-stand/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/OMOTON-MagSafe-Wallet-with-Stand.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">OMOTON MagSafe Wallet with Stand</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $9.50 (Reg. $20)</h3>\n\n\n\n<p class=\"has-text-align-center\"><em>Prime-exclusive discount.</em></p>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A red rectangular object with white lines\" class=\"wp-image-1209651 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/OMOTON-MagSafe-Wallet-with-Stand-chart.png?w=968\" width=\"968\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p><span>This MagSafe wallet has a lot to like for only $9.50. Not only can it store cards, but also functions as a stand, while also opening in a way that makes it easy to show your ID.</span></p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/15/omoton-magsafe-wallet-with-stand/#more-1209649\">more…</a>",
-      "published": "2026-05-15T17:00:20+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "c98546ecf26a69af7e55ae85aa011133d54738e4",
       "title": "Bill to block publishers from killing online games advances in California",
       "link": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
@@ -984,15 +984,6 @@
       "published": "2026-05-15T16:35:54+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "abf7af8bf5fdde99e7273fbab8c57cf58c88d2b8",
-      "title": "New York Times defends journalist after Israel threatens to sue",
-      "link": "https://www.bbc.com/news/articles/c9wedpk155jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's prime minister says he has ordered legal action over an article which alleged Israeli security officials raped Palestinian detainees.",
-      "published": "2026-05-15T16:30:31+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "54d6bc3d6c3885d9c7c691985998314f85cd691a",
@@ -1094,6 +1085,15 @@
       "category": "tech"
     },
     {
+      "id": "515856f765191c10e413c5a4406ff130f4ab2b40",
+      "title": "Watch: What did we learn from Trump's visit to China?",
+      "link": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
+      "published": "2026-05-15T13:25:23+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "e79a765ddf0a9a97c62528430dad37aa43264b77",
       "title": "Even GoPro is pivoting to defense",
       "link": "https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/",
@@ -1110,15 +1110,6 @@
       "published": "2026-05-15T13:00:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "28b468c1bbd6588dc3d4cf1671bd978206bb95ed",
-      "title": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
-      "link": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Among the victims in Kyiv was 12-year-old Lyubava Yakovleva, whose father was killed during the war.",
-      "published": "2026-05-15T12:53:57+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "5d62e035d0713a9bfd30ee58d5f4d0143cfa3608",
@@ -1139,6 +1130,15 @@
       "category": "deals"
     },
     {
+      "id": "755bdc12022f4131cfd12f47646d3531a5ed928a",
+      "title": "Tiny World Builder",
+      "link": "https://www.producthunt.com/products/tiny-world-builder",
+      "summary": "<p>\n            Click and build tiny worlds\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tiny-world-builder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147683?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-15T12:33:27+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "49d39d28755a967fecc3476742df21c71eeaac99",
       "title": "Osaurus brings both local and cloud AI models to your Mac",
       "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
@@ -1155,6 +1155,15 @@
       "published": "2026-05-15T12:11:00+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
+    },
+    {
+      "id": "4328330f96939e14c273b114e4d09110c80f8dc7",
+      "title": "Why is Ireland not taking part in this year's Eurovision?",
+      "link": "https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ireland's boycott is the latest in a series of moves that has seen the country at odds with Israel over its war in Gaza.",
+      "published": "2026-05-15T11:41:41+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "f789f58b66918673186561741b4fb9c3f76aa3be",
@@ -1211,15 +1220,6 @@
       "category": "malaysia"
     },
     {
-      "id": "5ec9ad7fe741d81918ba60f847186353d667b885",
-      "title": "OpenIT",
-      "link": "https://www.producthunt.com/products/openit",
-      "summary": "<p>\n            OpenSource alternative to ServiceNow that runs on ClaudeCode\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147462?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-15T07:00:30+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "fcb29557812df8f9e61342b199915a8bd3ced17f",
       "title": "Kimi WebBridge",
       "link": "https://www.producthunt.com/products/kimi-ai-assistant",
@@ -1229,11 +1229,20 @@
       "category": "events"
     },
     {
-      "id": "e34524cf877d2b4c03a91ddb19ba393e21e01b4d",
-      "title": "Sleek Analytics v3",
-      "link": "https://www.producthunt.com/products/sleek-analytics",
-      "summary": "<p>\n            A simple Google Analytics alternative for the modern web.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sleek-analytics?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147384?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-15T03:17:45+00:00",
+      "id": "146691b22671572c3f215122fedcc3d83cb579b5",
+      "title": "Anti-immigration AI videos traced to overseas fakers, BBC finds",
+      "link": "https://www.bbc.com/news/articles/ckgpyn30dp3o?at_medium=RSS&at_campaign=rss",
+      "summary": "\"Patriotic\" UK anti-immigration social media accounts have been traced to Sri Lanka and Vietnam.",
+      "published": "2026-05-15T05:01:37+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "92ed489c8d9fa0a042ef8ca891168f078cef3661",
+      "title": "Agent-Sin",
+      "link": "https://www.producthunt.com/products/agent-sin",
+      "summary": "<p>\n            AI agent that handles repeated tasks through reusable skills\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agent-sin?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147371?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-15T02:36:56+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1245,15 +1254,6 @@
       "published": "2026-05-14T22:47:51+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "7b0b23f1891560ace9fa9bc7262409606af0d1dd",
-      "title": "Autograph.video Beta",
-      "link": "https://www.producthunt.com/products/autograph-video-beta",
-      "summary": "<p>\n            A drag and drop Motion Design tool to swap creatives quickly\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/autograph-video-beta?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147292?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-14T22:33:43+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "19815610f5b6d1cda5e6cb720e8eb9d45d301a9b",
@@ -1272,15 +1272,6 @@
       "published": "2026-05-14T21:30:44+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "d91eb499fa258f029764713f00bce4939d7d0482",
-      "title": "Whiteout",
-      "link": "https://www.producthunt.com/products/whiteout",
-      "summary": "<p>\n            Auto-redact sensitive info from Mac screenshots\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/whiteout?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147252?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-14T21:06:42+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "eb4510702f28d54ca159951d40bd557ec691e8f3",
@@ -1319,15 +1310,6 @@
       "category": "tech"
     },
     {
-      "id": "2c6132f428096db64453e11263c007b6b95388ef",
-      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-      "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-      "summary": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
-      "published": "2026-05-14T19:12:03+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "b6e5ebce60e71f885961749a793e1a69eecf2cde",
       "title": "DevRecorder",
       "link": "https://www.producthunt.com/products/devrecorder",
@@ -1337,11 +1319,11 @@
       "category": "events"
     },
     {
-      "id": "1bf8607f69c3dd4291f0737b8692e213c5167528",
-      "title": "Glance",
-      "link": "https://www.producthunt.com/products/glance-native-macos-markdown-viewer",
-      "summary": "<p>\n            Preview .md files instantly with quick look\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/glance-native-macos-markdown-viewer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146969?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-14T14:10:53+00:00",
+      "id": "b1a4ef7c0d0a3487cee3a7e7d3a0e7e4d5dde6d6",
+      "title": "AgentRail",
+      "link": "https://www.producthunt.com/products/agentrail",
+      "summary": "<p>\n            A local control plane for AI coding agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentrail?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146987?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-14T14:51:39+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1353,6 +1335,15 @@
       "published": "2026-05-14T13:23:22+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "0d7dc3edb58a05e77b36eb6272c9b0348f125c84",
+      "title": "PromptScout",
+      "link": "https://www.producthunt.com/products/promptscout",
+      "summary": "<p>\n            Track your brand visibility across AI models\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/promptscout?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146935?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-14T13:13:48+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "669005f370300cb653da87f8ccee5a0169846abe",
@@ -1373,6 +1364,24 @@
       "category": "malaysia"
     },
     {
+      "id": "7f80b66bd07c1ae29ee00f7217600b0e13358414",
+      "title": "Atter AI",
+      "link": "https://www.producthunt.com/products/atter-ai-ai-transcription-for-meetings",
+      "summary": "<p>\n            AI transcription app that turns meetings into action items\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/atter-ai-ai-transcription-for-meetings?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146814?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-14T10:15:38+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "467c7123c3246c48e1cfe8388ba2df949f0f62c0",
+      "title": "Noeth",
+      "link": "https://www.producthunt.com/products/noeth",
+      "summary": "<p>\n            The coding interview AI that lets you bring your own API key\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/noeth?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146746?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-14T08:31:20+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "83d3bc84d9460520b71a4d4131f695c6cc600af4",
       "title": "Meta introduces Incognito Chat with Meta AI for private AI conversations",
       "link": "https://soyacincau.com/2026/05/14/meta-ai-incognito-chat-private-ai-conversations/",
@@ -1380,15 +1389,6 @@
       "published": "2026-05-14T03:04:33+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "f0ec4c23775fc47da259d399869183ea10e1c85b",
-      "title": "Agentic Website Builder 2.0 by Lokuma",
-      "link": "https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma",
-      "summary": "<p>\n            Design, build, and run your site with a design agent harness\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146556?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-14T02:51:00+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "c563b82d32a8dd9d731f083ad5994754f9b968ed",
@@ -1463,29 +1463,29 @@
       "category": "events"
     },
     {
+      "id": "0ed7d69faef166af6d96d4726b61fcd3453f40e7",
+      "title": "Cats Lock",
+      "link": "https://www.producthunt.com/products/cats-lock-keyboard-lock-for-cat-people",
+      "summary": "<p>\n            Lock your Mac keyboard so your cat can walk on it.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cats-lock-keyboard-lock-for-cat-people?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1142697?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-09T00:29:06+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "91e1efb8ebe97c28114a50f217738f437c92faab",
+      "title": "OpenHuman",
+      "link": "https://www.producthunt.com/products/openhuman",
+      "summary": "<p>\n            An open source AI harness built with the human in mind\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openhuman?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1136902?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-01T16:39:53+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "29b6ee6a03662c17eb8fff8de491f6ee8ca9dd2b",
       "title": "Magic Notebook",
       "link": "https://www.producthunt.com/products/magic-notebook",
       "summary": "<p>\n            A calm writing app with no complexity and no AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/magic-notebook?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1131813?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-24T21:39:35+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "97b35b152c5d32edde523e80742e52ba33748aad",
-      "title": "Wowable",
-      "link": "https://www.producthunt.com/products/wowable",
-      "summary": "<p>\n            Paste a link and get a live website\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wowable?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1131424?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-24T10:30:55+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "ac19313c65fe3000f8953746bad04cb1e506761a",
-      "title": "Repaint",
-      "link": "https://www.producthunt.com/products/repaint-ai-website-builder",
-      "summary": "<p>\n            Rebuild your existing website with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/repaint-ai-website-builder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1131131?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-24T02:44:57+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
