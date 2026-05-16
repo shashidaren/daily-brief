@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-05-16T18:54:58.309903+00:00",
+  "generatedAt": "2026-05-16T19:59:21.940516+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "0a66be488f8219c0d262dcf4958f1b5a03e8032a",
+      "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
+      "link": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
+      "summary": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
+      "published": "2026-05-16T19:26:14+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "ca173c51e20bebbdbe848a77159d42fe593ab2f1",
       "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
@@ -32,6 +41,15 @@
       "category": "tech"
     },
     {
+      "id": "c09eacbd120e6c37d02b7fc011494527a7806fe4",
+      "title": "Man drives car into pedestrians in Italy, injuring eight",
+      "link": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
+      "summary": "Seven people were injured, two seriously, before passers-by gave chase and stopped the man.",
+      "published": "2026-05-16T18:21:52+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "288a59de6e2b27cb5ca5818d023e3d16acb0e668",
       "title": "ASML will partner with Tata Electronics to help it bring an $11B 300mm chip factory online in Gujarat, expanding India's ability to produce chips domestically (Bloomberg)",
       "link": "https://www.techmeme.com/260516/p8#a260516p8",
@@ -55,15 +73,6 @@
       "link": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss",
       "summary": "Wildlife experts had previous criticised the operation, saying it would only cause the animal more distress.",
       "published": "2026-05-16T17:01:28+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "fb5ad7e6fc1e31b26fd7118826509a3638a56a97",
-      "title": "Democratic governor under fire over clemency for 2020 election denier",
-      "link": "https://www.bbc.com/news/articles/c0l2kln7dzgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tina Peters, a Republican former county clerk, is serving a nine-year sentence for tampering with election equipment.",
-      "published": "2026-05-16T16:32:48+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -644,15 +653,6 @@
       "category": "world"
     },
     {
-      "id": "6e0845fecfafb2b606f30daf9b53f47b7cdc0f84",
-      "title": "Judge declares another mistrial in Harvey Weinstein New York rape case",
-      "link": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&at_campaign=rss",
-      "summary": "It marks the third time a New York jury has considered the case against the 74-year-old disgraced film mogul.",
-      "published": "2026-05-16T01:32:47+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "1815adc58557a1db4bdc54fd6c77cb5bbae3aca5",
       "title": "Sources: OpenAI acquired Weights.gg, which offered AI tools to create clones of people's voices, earlier this year; PitchBook: Weights.gg had raised roughly $4M (Mike Isaac/New York Times)",
       "link": "https://www.techmeme.com/260515/p34#a260515p34",
@@ -705,15 +705,6 @@
       "published": "2026-05-15T23:10:13+00:00",
       "source": "The Verge",
       "category": "tech"
-    },
-    {
-      "id": "6c3b07de249c4e02f9450d9470494524fedb477f",
-      "title": "Palestinian leaders hold rare party meeting as polls show rising discontent",
-      "link": "https://www.bbc.com/news/articles/clyp1lnp4ygo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Fatah faction elects top decision makers, but ordinary Palestinians feel the party and its leader are out of touch.",
-      "published": "2026-05-15T23:05:19+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "2aaee07992b1ba8cee97aaefbab372a6fcf4a52a",
@@ -1130,6 +1121,15 @@
       "category": "tech"
     },
     {
+      "id": "515856f765191c10e413c5a4406ff130f4ab2b40",
+      "title": "Watch: What did we learn from Trump's visit to China?",
+      "link": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
+      "published": "2026-05-15T13:25:23+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "e79a765ddf0a9a97c62528430dad37aa43264b77",
       "title": "Even GoPro is pivoting to defense",
       "link": "https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/",
@@ -1274,11 +1274,11 @@
       "category": "world"
     },
     {
-      "id": "e34524cf877d2b4c03a91ddb19ba393e21e01b4d",
-      "title": "Sleek Analytics v3",
-      "link": "https://www.producthunt.com/products/sleek-analytics",
-      "summary": "<p>\n            A simple Google Analytics alternative for the modern web.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sleek-analytics?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147384?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-15T03:17:45+00:00",
+      "id": "b9344022110536d29aa86aac3882730f54129db1",
+      "title": "Nimbus",
+      "link": "https://www.producthunt.com/products/nimbus-10",
+      "summary": "<p>\n            Agentic Browser with Claude Code UX\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nimbus-10?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147415?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-15T04:58:07+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1292,29 +1292,38 @@
       "category": "tech"
     },
     {
-      "id": "75a7814b99a2d6f70a9e09371ae540ec3bf29506",
-      "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
-      "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-      "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
-      "published": "2026-05-14T21:30:44+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "d3177a910dc4795f468bcc33e0b3f588e57e60ac",
-      "title": "Basedash MCP Connectors",
-      "link": "https://www.producthunt.com/products/basedash",
-      "summary": "<p>\n            Connect any app and take action anywhere\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147255?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-14T21:09:07+00:00",
+      "id": "19815610f5b6d1cda5e6cb720e8eb9d45d301a9b",
+      "title": "Planora",
+      "link": "https://www.producthunt.com/products/planora-3",
+      "summary": "<p>\n            A digital workspace for creative collaboration\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/planora-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147273?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-14T21:33:41+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "3ce8427a1c5a7f4b7882dc36cf0bbe6605621382",
-      "title": "Cleo AI",
-      "link": "https://www.producthunt.com/products/cleo-ai",
-      "summary": "<p>\n            AI Product Operator for AI-native teams\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cleo-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147126?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-14T18:03:05+00:00",
+      "id": "d91eb499fa258f029764713f00bce4939d7d0482",
+      "title": "Whiteout",
+      "link": "https://www.producthunt.com/products/whiteout",
+      "summary": "<p>\n            Auto-redact sensitive info from Mac screenshots\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/whiteout?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147252?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-14T21:06:42+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "a249d49be8bfe1ed75d9f6a98444c6eb9395eb8f",
+      "title": "Warning of record global temperatures",
+      "link": "https://www.bbc.com/news/videos/cy420k2y34lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Warning of record global temperatures as chance of very strong El Niño grows",
+      "published": "2026-05-14T15:29:02+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "1bf8607f69c3dd4291f0737b8692e213c5167528",
+      "title": "Glance",
+      "link": "https://www.producthunt.com/products/glance-native-macos-markdown-viewer",
+      "summary": "<p>\n            Preview .md files instantly with quick look\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/glance-native-macos-markdown-viewer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146969?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-14T14:10:53+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1364,15 +1373,6 @@
       "category": "events"
     },
     {
-      "id": "7c6451d14a128a2673ee73cfcdb92cbcde2ba392",
-      "title": "TrustClaw by Composio",
-      "link": "https://www.producthunt.com/products/composio",
-      "summary": "<p>\n            Self-hosted AI agent that connects 1000+ apps on Vercel\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/composio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146408?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-13T20:37:54+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "c563b82d32a8dd9d731f083ad5994754f9b968ed",
       "title": "TNB Electron deploys 240kW DC Charger at TNB Sungai Petani",
       "link": "https://soyacincau.com/2026/05/13/tnb-electron-240kw-dc-charger-tnb-sungai-petani-kedah/",
@@ -1389,6 +1389,15 @@
       "published": "2026-05-13T14:13:53+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "dcd1d32ac2dd6aac8119835cb4728d382df5660b",
+      "title": "Crustimate",
+      "link": "https://www.producthunt.com/products/findable-4",
+      "summary": "<p>\n            Free tool to fix your LinkedIn to get found by AI recruiters\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/findable-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146151?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-13T14:11:17+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "20aa5d5eac727009a85b7f797193f3f6ee423949",
@@ -1454,11 +1463,11 @@
       "category": "events"
     },
     {
-      "id": "3575de3c647be8037451cde7911d65121d791eee",
-      "title": "Riffly",
-      "link": "https://www.producthunt.com/products/riffly",
-      "summary": "<p>\n            Describe a deck and AI builds it + Exports to PowerPoint\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/riffly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1141676?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-07T18:37:20+00:00",
+      "id": "56b1218de2b9734ea76cf83e9ee3aafe615ffff8",
+      "title": "Lensmor",
+      "link": "https://www.producthunt.com/products/lensmor-2",
+      "summary": "<p>\n            Turn exhibitor data into pre-booked sales meetings\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lensmor-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1142876?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-09T08:19:13+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1477,15 +1486,6 @@
       "link": "https://www.producthunt.com/products/openhuman",
       "summary": "<p>\n            An open source AI harness built with the human in mind\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openhuman?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1136902?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-01T16:39:53+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "97b35b152c5d32edde523e80742e52ba33748aad",
-      "title": "Wowable",
-      "link": "https://www.producthunt.com/products/wowable",
-      "summary": "<p>\n            Paste a link and get a live website\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wowable?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1131424?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-24T10:30:55+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
