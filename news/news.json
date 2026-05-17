@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-05-17T14:51:35.734437+00:00",
+  "generatedAt": "2026-05-17T15:53:20.347524+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "8f078f9f7f7ff4c5ebe47853e86a7733eef3ee1e",
+      "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis",
+      "link": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
+      "summary": "Investing in the real world was lonely for Lior Susan 10 years ago. Now his firm finds itself at the center of the tech world's action.",
+      "published": "2026-05-17T15:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "a142b8b7a553478bc3aa1f1021d19850f39c2d77",
       "title": "Sources: Apple's revamped Siri may launch in beta, and will have an option to auto-delete chats; Apple plans to add Suggested Genmoji to iOS 27 and iPadOS 27 (Mark Gurman/Bloomberg)",
@@ -1247,15 +1256,6 @@
       "category": "deals"
     },
     {
-      "id": "f789f58b66918673186561741b4fb9c3f76aa3be",
-      "title": "Indian Uber rival Rapido raises $240M at $3B valuation",
-      "link": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/",
-      "summary": "Rapido has driven its growth by enabling ride-hailing for lower-cost and more flexible modes of transport such as motorbikes and auto-rickshaws.",
-      "published": "2026-05-15T11:24:12+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "c345402f422aa192a5519916b1e74e902ac78c64",
       "title": "AMD Announces FSR4.1 Coming To RDNA3 GPUs This July",
       "link": "https://www.lowyat.net/2026/392811/amd-announces-fsr4-1-coming-to-rdna3-gpus-this-july/",
@@ -1281,6 +1281,15 @@
       "published": "2026-05-15T09:06:14+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "5ec9ad7fe741d81918ba60f847186353d667b885",
+      "title": "OpenIT",
+      "link": "https://www.producthunt.com/products/openit",
+      "summary": "<p>\n            OpenSource alternative to ServiceNow that runs on ClaudeCode\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147462?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-15T07:00:30+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "fcb29557812df8f9e61342b199915a8bd3ced17f",
@@ -1326,15 +1335,6 @@
       "published": "2026-05-14T13:23:22+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "0d7dc3edb58a05e77b36eb6272c9b0348f125c84",
-      "title": "PromptScout",
-      "link": "https://www.producthunt.com/products/promptscout",
-      "summary": "<p>\n            Track your brand visibility across AI models\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/promptscout?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146935?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-14T13:13:48+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "e136ddcbfd414e918dc8e308aa68566ff342bb76",
@@ -1454,6 +1454,15 @@
       "category": "events"
     },
     {
+      "id": "8f0bd466cb4a6b3c7767abec8a806cd9b6c735c3",
+      "title": "Just The Tips",
+      "link": "https://www.producthunt.com/products/just-the-tips",
+      "summary": "<p>\n            A stablecoin tip-jar bot for Discord, Telegram, Twitch, & X\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/just-the-tips?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1139042?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-04T21:02:33+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "50adb2c36527ba90122991083e962c890215e7d1",
       "title": "Fere AI",
       "link": "https://www.producthunt.com/products/fere-ai",
@@ -1468,15 +1477,6 @@
       "link": "https://www.producthunt.com/products/repaint-ai-website-builder",
       "summary": "<p>\n            Rebuild your existing website with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/repaint-ai-website-builder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1131131?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-24T02:44:57+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "db20b7f1f7e6d3cf700d1762137cc78dc2c20c0e",
-      "title": "Relay",
-      "link": "https://www.producthunt.com/products/relay-15",
-      "summary": "<p>\n            Stop repeating yourself to every AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/relay-15?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126723?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-18T12:32:01+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
