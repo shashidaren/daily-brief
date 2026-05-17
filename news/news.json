@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-05-17T20:05:37.372149+00:00",
+  "generatedAt": "2026-05-17T21:48:30.724820+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "77cdbfff8282256237f182814ba64540bcfe5d0f",
+      "title": "Source: Shein is acquiring US DTC brand Everlane from its majority owner, L Catterton, in a $100M deal; Everlane sought funding to clear ~$90M in debt (Lauren Sherman/Puck)",
+      "link": "https://www.techmeme.com/260517/p13#a260517p13",
+      "summary": "<a href=\"https://puck.news/everlane-is-selling-out-to-shein/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260517/i13.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260517/p13#a260517p13\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lauren Sherman / <a href=\"https://puck.news/\">Puck</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://puck.news/everlane-is-selling-out-to-shein/\">Source: Shein is acquiring US DTC brand Everlane from its majority owner, L Catterton, in a $100M deal; Everlane sought funding to clear ~$90M in debt</a></b></span>&nbsp; &mdash;&nbsp; The Millennial D.T.C. company built a global brand based on sustainability and radical transparency.&nbsp; Now, after a years-long slump &hellip; </p>",
+      "published": "2026-05-17T21:45:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "5ce23e2affb6bbed0c79508fccbebeb68408980e",
+      "title": "Microsoft is retiring Teams’ Together Mode",
+      "link": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
+      "summary": "Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on. But times have changed, and it's now being retired in favor of a more simplified Teams experience. The feature used AI [&#8230;]",
+      "published": "2026-05-17T21:15:28+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "e7db2e0562f82f0e87719d90028efcfc277f95c2",
+      "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
+      "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
+      "published": "2026-05-17T21:14:27+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "daf3df793a3befec0b53f1e44e1f4c190f7b9b4e",
+      "title": "UAE reports strike near Abu Dhabi nuclear power plant",
+      "link": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The country is investigating the source of the strike, which it calls a \"dangerous escalation\".",
+      "published": "2026-05-17T20:53:45+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "eb728ca94af108d8c4f7ac1611e776c07e062acd",
+      "title": "Analysis: 34 leading AI startups are generating ~$80B in annualized revenue, up 112% from six months ago, with Anthropic and OpenAI capturing 89% of the revenue (The Information)",
+      "link": "https://www.techmeme.com/260517/p12#a260517p12",
+      "summary": "<a href=\"https://www.theinformation.com/articles/anthropic-openais-share-ai-startup-revenues-rises-89\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260517/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260517/p12#a260517p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/articles/anthropic-openais-share-ai-startup-revenues-rises-89\">Analysis: 34 leading AI startups are generating ~$80B in annualized revenue, up 112% from six months ago, with Anthropic and OpenAI capturing 89% of the revenue</a></b></span>&nbsp; &mdash;&nbsp; Anthropic and OpenAI are widening the revenue gap between themselves and the rest of the AI startup field.</p>",
+      "published": "2026-05-17T20:35:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "904d2e1a245cdafedd0f420a0aba41dcc241330c",
+      "title": "Apple’s Siri revamp could include auto-deleting chats",
+      "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+      "published": "2026-05-17T20:15:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "fc8e1ea0ebc00745b4eddb020cd647c81f01fe95",
       "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
@@ -62,7 +116,7 @@
       "id": "d1469d02a1b4e1425247309c31f34b232c7d793b",
       "title": "Publicis agrees to acquire LiveRamp, which allows companies to share and build new data sets and models that can power agentic frameworks, for $2.2B in cash (Alison Weissbrot/Adweek)",
       "link": "https://www.techmeme.com/260517/p9#a260517p9",
-      "summary": "<a href=\"https://www.adweek.com/agencies/publicis-to-acquire-liveramp-for-22-billion/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260517/i9.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260517/p9#a260517p9\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Alison Weissbrot / <a href=\"https://www.adweek.com/\">Adweek</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.adweek.com/agencies/publicis-to-acquire-liveramp-for-22-billion/\">Publicis agrees to acquire LiveRamp, which allows companies to share and build new data sets and models that can power agentic frameworks, for $2.2B in cash</a></b></span>&nbsp; &mdash;&nbsp; Publicis Groupe has agreed to acquire LiveRamp for $2.2 billion in a deal funded by a mix of cash and debt, the French holding company said Sunday.</p>",
+      "summary": "<a href=\"https://www.adweek.com/agencies/publicis-to-acquire-liveramp-for-22-billion/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260517/i9.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260517/p9#a260517p9\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Alison Weissbrot / <a href=\"https://www.adweek.com/\">Adweek</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.adweek.com/agencies/publicis-to-acquire-liveramp-for-22-billion/\">Publicis agrees to acquire LiveRamp, which allows companies to share and build new data sets and models that can power agentic frameworks, for $2.2B in cash</a></b></span>&nbsp; &mdash;&nbsp; Publicis Groupe has agreed to acquire LiveRamp for $2.2 billion all-cash deal, the French holding company said Sunday.</p>",
       "published": "2026-05-17T16:50:04+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -84,15 +138,6 @@
       "published": "2026-05-17T16:32:04+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "daf3df793a3befec0b53f1e44e1f4c190f7b9b4e",
-      "title": "UAE reports strike near Abu Dhabi nuclear power plant",
-      "link": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The country is investigating the source of the strike, which it calls a \"dangerous escalation\".",
-      "published": "2026-05-17T16:25:38+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "616859e86d7ab2d6c52e3a5eb14ff26fd38a5871",
@@ -174,15 +219,6 @@
       "published": "2026-05-17T13:20:59+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "e7db2e0562f82f0e87719d90028efcfc277f95c2",
-      "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
-      "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
-      "published": "2026-05-17T13:00:26+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "2910abb97f4b5c84eb32cfe70f8de193ba00df55",
@@ -554,24 +590,6 @@
       "category": "world"
     },
     {
-      "id": "2b27a7f4a4b4931f4892cfcdcfb035c3b5ba28cd",
-      "title": "Vietnam's government, which once saw video games as a social risk, named gaming as one of its key cultural industries in 2025 and now promotes them at expos (Bloomberg)",
-      "link": "https://www.techmeme.com/260516/p11#a260516p11",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-05-15/why-vietnam-is-betting-on-video-games-to-grow-its-economy\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260516/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260516/p11#a260516p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-05-15/why-vietnam-is-betting-on-video-games-to-grow-its-economy\">Vietnam's government, which once saw video games as a social risk, named gaming as one of its key cultural industries in 2025 and now promotes them at expos</a></b></span>&nbsp; &mdash;&nbsp; Communist officials who long viewed video games as a social risk now see them as key to a knowledge-driven economy.</p>",
-      "published": "2026-05-16T21:20:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "64b1f0925117b705225cad561c41dfa6dff1f95a",
-      "title": "Hill County, which faced eight new data centers, passed what may be Texas' first county-wide ban on them, for one year; the state trails only VA in data centers (Mike Lee/Politico)",
-      "link": "https://www.techmeme.com/260516/p10#a260516p10",
-      "summary": "<a href=\"https://www.politico.com/news/2026/05/16/texas-county-data-center-construction-ban-00922493\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260516/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260516/p10#a260516p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Mike Lee / <a href=\"http://www.politico.com/\">Politico</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.politico.com/news/2026/05/16/texas-county-data-center-construction-ban-00922493\">Hill County, which faced eight new data centers, passed what may be Texas' first county-wide ban on them, for one year; the state trails only VA in data centers</a></b></span>&nbsp; &mdash;&nbsp; Opposition to data centers is spreading in regions led by both Democrats and Republicans, as politicians try to balance economic development &hellip; </p>",
-      "published": "2026-05-16T20:30:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "5b1a96439d9883e7ab82af4cb6c695d0f010e841",
       "title": "The haves and have nots of the AI gold rush",
       "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
@@ -704,15 +722,6 @@
       "summary": "It may be possible to jailbreak an older, end-of-support Kindle and continue adding books to it. But doing so carries risks.",
       "published": "2026-05-16T14:00:00+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "9509d31a3ac7c6e3fe2157330a7244a4a77aeaeb",
-      "title": "Turtle Beach made a good SteelSeries headset clone that’s $50 less",
-      "link": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
-      "summary": "I really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor. The $399 Nova Pro Omni that came out on May 5th has a similar design to the 2022 model, but with some new and improved features - support for wireless hi-res [&#8230;]",
-      "published": "2026-05-16T14:00:00+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -1211,15 +1220,6 @@
       "category": "tech"
     },
     {
-      "id": "88d5c763e6be957d6373d9c0a0f8cb1360413438",
-      "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
-      "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-      "summary": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
-      "published": "2026-05-15T14:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "2b5b66aa7b2f2b1e55ed93ad722acb86ed66b2cf",
       "title": "Pennsylvanians use town hall meeting to rail against data center boom",
       "link": "https://arstechnica.com/ai/2026/05/pennsylvanians-use-town-hall-meeting-to-rail-against-data-center-boom/",
@@ -1283,20 +1283,20 @@
       "category": "malaysia"
     },
     {
-      "id": "d91eb499fa258f029764713f00bce4939d7d0482",
-      "title": "Whiteout",
-      "link": "https://www.producthunt.com/products/whiteout",
-      "summary": "<p>\n            Auto-redact sensitive info from Mac screenshots\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/whiteout?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147252?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-14T21:06:42+00:00",
+      "id": "3104e2dcfd3b755d020c48d9f20c87b97a4aca19",
+      "title": "mia",
+      "link": "https://www.producthunt.com/products/mia-8",
+      "summary": "<p>\n            Cursor for Product Managers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mia-8?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147422?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-15T05:29:32+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "3ce8427a1c5a7f4b7882dc36cf0bbe6605621382",
-      "title": "Cleo AI",
-      "link": "https://www.producthunt.com/products/cleo-ai",
-      "summary": "<p>\n            AI Product Operator for AI-native teams\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cleo-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147126?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-14T18:03:05+00:00",
+      "id": "e34524cf877d2b4c03a91ddb19ba393e21e01b4d",
+      "title": "Sleek Analytics v3",
+      "link": "https://www.producthunt.com/products/sleek-analytics",
+      "summary": "<p>\n            A simple Google Analytics alternative for the modern web.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sleek-analytics?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147384?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-15T03:17:45+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1319,6 +1319,15 @@
       "category": "malaysia"
     },
     {
+      "id": "0d7dc3edb58a05e77b36eb6272c9b0348f125c84",
+      "title": "PromptScout",
+      "link": "https://www.producthunt.com/products/promptscout",
+      "summary": "<p>\n            Track your brand visibility across AI models\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/promptscout?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146935?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-14T13:13:48+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "e136ddcbfd414e918dc8e308aa68566ff342bb76",
       "title": "DC Handal adds 220kW DC Charger at Sunway Pyramid",
       "link": "https://soyacincau.com/2026/05/14/dc-handal-220kw-dc-charger-sunway-pyramid-b1-preferred-parking/",
@@ -1326,6 +1335,15 @@
       "published": "2026-05-14T11:48:54+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "467c7123c3246c48e1cfe8388ba2df949f0f62c0",
+      "title": "Noeth",
+      "link": "https://www.producthunt.com/products/noeth",
+      "summary": "<p>\n            The coding interview AI that lets you bring your own API key\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/noeth?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146746?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-14T08:31:20+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "83d3bc84d9460520b71a4d4131f695c6cc600af4",
@@ -1337,11 +1355,11 @@
       "category": "malaysia"
     },
     {
-      "id": "f0ec4c23775fc47da259d399869183ea10e1c85b",
-      "title": "Agentic Website Builder 2.0 by Lokuma",
-      "link": "https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma",
-      "summary": "<p>\n            Design, build, and run your site with a design agent harness\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146556?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-14T02:51:00+00:00",
+      "id": "c51920d88be4a9ad54d0b71663b6dac8107126d7",
+      "title": "Gradient Bang",
+      "link": "https://www.producthunt.com/products/gradient-bang",
+      "summary": "<p>\n            Massively multi-player game played by talking to an LLM\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gradient-bang?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146488?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-13T23:38:02+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1391,15 +1409,6 @@
       "category": "events"
     },
     {
-      "id": "7c37a78e728557c18b67ebae228bc4385efc4b6b",
-      "title": "Gluten App",
-      "link": "https://www.producthunt.com/products/gluten-app",
-      "summary": "<p>\n            Find gluten-free places by city and travel destination\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gluten-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1145368?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-12T15:03:27+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "c1409b1b25d876c7a8b79a6b3b6b77c6a0250242",
       "title": "Paydibs strengthens DuitNow QR support with direct PayNet integration",
       "link": "https://soyacincau.com/2026/05/12/paydibs-direct-paynet-duitnow-qr-access/",
@@ -1407,6 +1416,15 @@
       "published": "2026-05-12T14:39:09+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "000b228374c6318230ffe57d1cbf7826f5997bca",
+      "title": "PHBench",
+      "link": "https://www.producthunt.com/products/vela-terminal",
+      "summary": "<p>\n            Predict the next Series A from a ProductHunt launch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vela-terminal?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1144544?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-11T18:22:01+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "14a8e8d119057118d3eb62625a67d8ca21db5daa",
@@ -1445,15 +1463,6 @@
       "category": "events"
     },
     {
-      "id": "3575de3c647be8037451cde7911d65121d791eee",
-      "title": "Riffly",
-      "link": "https://www.producthunt.com/products/riffly",
-      "summary": "<p>\n            Describe a deck and AI builds it + Exports to PowerPoint\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/riffly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1141676?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-07T18:37:20+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "91e1efb8ebe97c28114a50f217738f437c92faab",
       "title": "OpenHuman",
       "link": "https://www.producthunt.com/products/openhuman",
@@ -1468,15 +1477,6 @@
       "link": "https://www.producthunt.com/products/fere-ai",
       "summary": "<p>\n            AI agents that turn signals into crypto + Polymarket trades\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fere-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1136169?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-30T17:44:29+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "ac19313c65fe3000f8953746bad04cb1e506761a",
-      "title": "Repaint",
-      "link": "https://www.producthunt.com/products/repaint-ai-website-builder",
-      "summary": "<p>\n            Rebuild your existing website with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/repaint-ai-website-builder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1131131?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-24T02:44:57+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
