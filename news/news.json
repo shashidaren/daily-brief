@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-05-17T17:52:46.442108+00:00",
+  "generatedAt": "2026-05-17T18:59:26.108112+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "b50fec49af4edfe29fb8a820b6c151075200deb8",
+      "title": "Revamped Siri will reportedly offer auto-deleting chats",
+      "link": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+      "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. [&#8230;]",
+      "published": "2026-05-17T18:40:28+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "a282baf5258188f9a8ea5cfba0e8c7c08f76de4d",
+      "title": "Grafana says hackers have accessed its GitHub environment and demanded a ransom to prevent the release of its codebase; Grafana refused to pay (The Hacker News)",
+      "link": "https://www.techmeme.com/260517/p11#a260517p11",
+      "summary": "<a href=\"https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260517/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260517/p11#a260517p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://thehackernews.com/\">The Hacker News</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html\">Grafana says hackers have accessed its GitHub environment and demanded a ransom to prevent the release of its codebase; Grafana refused to pay</a></b></span>&nbsp; &mdash;&nbsp; Grafana has disclosed that an &ldquo;unauthorized party&rdquo; obtained a token that granted them the ability to access the company's GitHub environment and download its codebase.</p>",
+      "published": "2026-05-17T18:35:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "bb9129270245b095d20580ea2fd851188c135215",
+      "title": "How worrying is the Ebola outbreak in DR Congo?",
+      "link": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
+      "summary": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported.",
+      "published": "2026-05-17T18:06:31+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "87d700968ceabe1a8e34c14e147df8f114f8709c",
       "title": "Analysis: mass adoption of smartphones and social media may be a primary driver of declining birthrates globally, in part by reducing in-person socializing (John Burn-Murdoch/Financial Times)",
@@ -127,15 +154,6 @@
       "link": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
       "summary": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man.",
       "published": "2026-05-17T13:57:56+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "bb9129270245b095d20580ea2fd851188c135215",
-      "title": "How worrying is the Ebola outbreak in DR Congo?",
-      "link": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
-      "summary": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported.",
-      "published": "2026-05-17T13:31:00+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -572,15 +590,6 @@
       "category": "tech"
     },
     {
-      "id": "970bfb1d084079166e1d5c4f620095ba292ac3bd",
-      "title": "SF vibes are frenetic over the huge divide in outcomes and career uncertainty for software engineers; over 5 years ~10K people in AI attained retirement wealth (Deedy/@deedydas)",
-      "link": "https://www.techmeme.com/260516/p9#a260516p9",
-      "summary": "<p><a href=\"https://www.techmeme.com/260516/p9#a260516p9\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Deedy / <a href=\"https://x.com/deedydas\">@deedydas</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://x.com/deedydas/status/2055491938464489888\">SF vibes are frenetic over the huge divide in outcomes and career uncertainty for software engineers; over 5 years ~10K people in AI attained retirement wealth</a></b></span>&nbsp; &mdash;&nbsp; The vibes in SF feel pretty frenetic right now. The divide in outcomes is the worst I've ever seen. Over the last 5yrs, a group of ~10k people - employees at Anthropic, OpenAI, xAI, Nvidia, Meta TBD, founders - have hit retirement wealth of well above $20M (back of the envelope</p>",
-      "published": "2026-05-16T18:45:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "5b15454e165e5bfa3c03941da8f85582f9c1c2d3",
       "title": "Snap, YouTube, and TikTok settle suit over harm to students",
       "link": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
@@ -705,15 +714,6 @@
       "published": "2026-05-16T13:08:46+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "b1feeb380f39136f56cd41bbba463a32bea0fa8a",
-      "title": "Here are 40 of our favorite deals from REI’s massive Anniversary Sale",
-      "link": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
-      "summary": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on the basics, whether it be a tent, sleeping pad, or stove. If your summer [&#8230;]",
-      "published": "2026-05-16T13:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
     },
     {
       "id": "aef7e8dcee00c4ef4a065e54d7f71a6d193e2b56",
@@ -1283,42 +1283,6 @@
       "category": "malaysia"
     },
     {
-      "id": "5ec9ad7fe741d81918ba60f847186353d667b885",
-      "title": "OpenIT",
-      "link": "https://www.producthunt.com/products/openit",
-      "summary": "<p>\n            OpenSource alternative to ServiceNow that runs on ClaudeCode\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147462?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-15T07:00:30+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "fcb29557812df8f9e61342b199915a8bd3ced17f",
-      "title": "Kimi WebBridge",
-      "link": "https://www.producthunt.com/products/kimi-ai-assistant",
-      "summary": "<p>\n            A bridge connecting AI agents to the live web\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147419?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-15T05:16:54+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "7b0b23f1891560ace9fa9bc7262409606af0d1dd",
-      "title": "Autograph.video Beta",
-      "link": "https://www.producthunt.com/products/autograph-video-beta",
-      "summary": "<p>\n            A drag and drop Motion Design tool to swap creatives quickly\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/autograph-video-beta?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147292?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-14T22:33:43+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "30d38d71a02e97e037c473d28d917fea3aed0e08",
-      "title": "Mantel",
-      "link": "https://www.producthunt.com/products/mantel-color-coded-macos-terminal",
-      "summary": "<p>\n            Stop confusing your Claude Code sessions & terminal windows\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mantel-color-coded-macos-terminal?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147163?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-14T18:46:16+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "feb342cddb198eebfc9e195e924c3121f793f5f1",
       "title": "TNB Electron deploys 200kW DC Charger at McDonald’s Batu Kawan Drive-Thru",
       "link": "https://soyacincau.com/2026/05/14/tnb-electron-200kw-dc-charger-mcdonalds-batu-kawan-dt/",
@@ -1346,15 +1310,6 @@
       "category": "malaysia"
     },
     {
-      "id": "09f435547772266a6ab390114def1b662fb57dbc",
-      "title": "Picsart MCP",
-      "link": "https://www.producthunt.com/products/picsart",
-      "summary": "<p>\n            One connection for 140+ AI models for images and video\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/picsart?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146756?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-14T08:53:53+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "83d3bc84d9460520b71a4d4131f695c6cc600af4",
       "title": "Meta introduces Incognito Chat with Meta AI for private AI conversations",
       "link": "https://soyacincau.com/2026/05/14/meta-ai-incognito-chat-private-ai-conversations/",
@@ -1362,6 +1317,24 @@
       "published": "2026-05-14T03:04:33+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "f0ec4c23775fc47da259d399869183ea10e1c85b",
+      "title": "Agentic Website Builder 2.0 by Lokuma",
+      "link": "https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma",
+      "summary": "<p>\n            Design, build, and run your site with a design agent harness\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146556?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-14T02:51:00+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "7c6451d14a128a2673ee73cfcdb92cbcde2ba392",
+      "title": "TrustClaw by Composio",
+      "link": "https://www.producthunt.com/products/composio",
+      "summary": "<p>\n            Self-hosted AI agent that connects 1000+ apps on Vercel\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/composio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146408?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-13T20:37:54+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "c563b82d32a8dd9d731f083ad5994754f9b968ed",
@@ -1418,6 +1391,15 @@
       "category": "malaysia"
     },
     {
+      "id": "000b228374c6318230ffe57d1cbf7826f5997bca",
+      "title": "PHBench",
+      "link": "https://www.producthunt.com/products/vela-terminal",
+      "summary": "<p>\n            Predict the next Series A from a ProductHunt launch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vela-terminal?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1144544?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-11T18:22:01+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "14a8e8d119057118d3eb62625a67d8ca21db5daa",
       "title": "Agentmemory",
       "link": "https://www.producthunt.com/products/agent-memory-dev",
@@ -1454,11 +1436,20 @@
       "category": "events"
     },
     {
-      "id": "8f0bd466cb4a6b3c7767abec8a806cd9b6c735c3",
-      "title": "Just The Tips",
-      "link": "https://www.producthunt.com/products/just-the-tips",
-      "summary": "<p>\n            A stablecoin tip-jar bot for Discord, Telegram, Twitch, & X\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/just-the-tips?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1139042?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-04T21:02:33+00:00",
+      "id": "56b1218de2b9734ea76cf83e9ee3aafe615ffff8",
+      "title": "Lensmor",
+      "link": "https://www.producthunt.com/products/lensmor-2",
+      "summary": "<p>\n            Turn exhibitor data into pre-booked sales meetings\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lensmor-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1142876?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-09T08:19:13+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "5a3b3546ef9f23f2c75f891f5ecb42c9a9f3ff11",
+      "title": "SpotFetch by DocentPro",
+      "link": "https://www.producthunt.com/products/docentpro",
+      "summary": "<p>\n            Turn the posts you save into an organized list of places\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/docentpro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1142008?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-08T05:30:30+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1477,6 +1468,15 @@
       "link": "https://www.producthunt.com/products/repaint-ai-website-builder",
       "summary": "<p>\n            Rebuild your existing website with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/repaint-ai-website-builder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1131131?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-24T02:44:57+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "db20b7f1f7e6d3cf700d1762137cc78dc2c20c0e",
+      "title": "Relay",
+      "link": "https://www.producthunt.com/products/relay-15",
+      "summary": "<p>\n            Stop repeating yourself to every AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/relay-15?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126723?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-18T12:32:01+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
