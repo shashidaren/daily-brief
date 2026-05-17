@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-05-17T18:59:26.108112+00:00",
+  "generatedAt": "2026-05-17T20:05:37.372149+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "fc8e1ea0ebc00745b4eddb020cd647c81f01fe95",
+      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+      "published": "2026-05-17T19:46:34+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "b50fec49af4edfe29fb8a820b6c151075200deb8",
       "title": "Revamped Siri will reportedly offer auto-deleting chats",
@@ -1220,15 +1229,6 @@
       "category": "tech"
     },
     {
-      "id": "e79a765ddf0a9a97c62528430dad37aa43264b77",
-      "title": "Even GoPro is pivoting to defense",
-      "link": "https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/",
-      "summary": "The action camera maker, like so many other companies these days, is looking to defense applications as it evaluates a possible sale.",
-      "published": "2026-05-15T13:14:13+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "5d62e035d0713a9bfd30ee58d5f4d0143cfa3608",
       "title": "Govt Launches Global Supply Crisis Monitoring Dashboard Today",
       "link": "https://www.lowyat.net/2026/392843/govt-launches-global-supply-crisis-monitoring-dashboard-today/",
@@ -1283,6 +1283,33 @@
       "category": "malaysia"
     },
     {
+      "id": "d91eb499fa258f029764713f00bce4939d7d0482",
+      "title": "Whiteout",
+      "link": "https://www.producthunt.com/products/whiteout",
+      "summary": "<p>\n            Auto-redact sensitive info from Mac screenshots\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/whiteout?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147252?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-14T21:06:42+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "3ce8427a1c5a7f4b7882dc36cf0bbe6605621382",
+      "title": "Cleo AI",
+      "link": "https://www.producthunt.com/products/cleo-ai",
+      "summary": "<p>\n            AI Product Operator for AI-native teams\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cleo-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147126?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-14T18:03:05+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "b1a4ef7c0d0a3487cee3a7e7d3a0e7e4d5dde6d6",
+      "title": "AgentRail",
+      "link": "https://www.producthunt.com/products/agentrail",
+      "summary": "<p>\n            A local control plane for AI coding agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentrail?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146987?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-14T14:51:39+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "feb342cddb198eebfc9e195e924c3121f793f5f1",
       "title": "TNB Electron deploys 200kW DC Charger at McDonald’s Batu Kawan Drive-Thru",
       "link": "https://soyacincau.com/2026/05/14/tnb-electron-200kw-dc-charger-mcdonalds-batu-kawan-dt/",
@@ -1290,15 +1317,6 @@
       "published": "2026-05-14T13:23:22+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "669005f370300cb653da87f8ccee5a0169846abe",
-      "title": "Standboy",
-      "link": "https://www.producthunt.com/products/standboy",
-      "summary": "<p>\n            A Game Boy that wakes up while your agent works\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/standboy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146927?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-14T13:02:59+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "e136ddcbfd414e918dc8e308aa68566ff342bb76",
@@ -1324,15 +1342,6 @@
       "link": "https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma",
       "summary": "<p>\n            Design, build, and run your site with a design agent harness\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146556?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-14T02:51:00+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "7c6451d14a128a2673ee73cfcdb92cbcde2ba392",
-      "title": "TrustClaw by Composio",
-      "link": "https://www.producthunt.com/products/composio",
-      "summary": "<p>\n            Self-hosted AI agent that connects 1000+ apps on Vercel\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/composio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146408?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-13T20:37:54+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1382,6 +1391,15 @@
       "category": "events"
     },
     {
+      "id": "7c37a78e728557c18b67ebae228bc4385efc4b6b",
+      "title": "Gluten App",
+      "link": "https://www.producthunt.com/products/gluten-app",
+      "summary": "<p>\n            Find gluten-free places by city and travel destination\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gluten-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1145368?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-12T15:03:27+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "c1409b1b25d876c7a8b79a6b3b6b77c6a0250242",
       "title": "Paydibs strengthens DuitNow QR support with direct PayNet integration",
       "link": "https://soyacincau.com/2026/05/12/paydibs-direct-paynet-duitnow-qr-access/",
@@ -1389,15 +1407,6 @@
       "published": "2026-05-12T14:39:09+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "000b228374c6318230ffe57d1cbf7826f5997bca",
-      "title": "PHBench",
-      "link": "https://www.producthunt.com/products/vela-terminal",
-      "summary": "<p>\n            Predict the next Series A from a ProductHunt launch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vela-terminal?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1144544?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-11T18:22:01+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "14a8e8d119057118d3eb62625a67d8ca21db5daa",
@@ -1436,20 +1445,20 @@
       "category": "events"
     },
     {
-      "id": "56b1218de2b9734ea76cf83e9ee3aafe615ffff8",
-      "title": "Lensmor",
-      "link": "https://www.producthunt.com/products/lensmor-2",
-      "summary": "<p>\n            Turn exhibitor data into pre-booked sales meetings\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lensmor-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1142876?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-09T08:19:13+00:00",
+      "id": "3575de3c647be8037451cde7911d65121d791eee",
+      "title": "Riffly",
+      "link": "https://www.producthunt.com/products/riffly",
+      "summary": "<p>\n            Describe a deck and AI builds it + Exports to PowerPoint\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/riffly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1141676?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-07T18:37:20+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "5a3b3546ef9f23f2c75f891f5ecb42c9a9f3ff11",
-      "title": "SpotFetch by DocentPro",
-      "link": "https://www.producthunt.com/products/docentpro",
-      "summary": "<p>\n            Turn the posts you save into an organized list of places\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/docentpro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1142008?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-08T05:30:30+00:00",
+      "id": "91e1efb8ebe97c28114a50f217738f437c92faab",
+      "title": "OpenHuman",
+      "link": "https://www.producthunt.com/products/openhuman",
+      "summary": "<p>\n            An open source AI harness built with the human in mind\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openhuman?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1136902?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-01T16:39:53+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1468,15 +1477,6 @@
       "link": "https://www.producthunt.com/products/repaint-ai-website-builder",
       "summary": "<p>\n            Rebuild your existing website with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/repaint-ai-website-builder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1131131?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-24T02:44:57+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "db20b7f1f7e6d3cf700d1762137cc78dc2c20c0e",
-      "title": "Relay",
-      "link": "https://www.producthunt.com/products/relay-15",
-      "summary": "<p>\n            Stop repeating yourself to every AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/relay-15?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126723?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-18T12:32:01+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
