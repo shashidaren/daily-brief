@@ -1,9 +1,135 @@
 {
-  "generatedAt": "2026-05-18T21:04:37.866164+00:00",
+  "generatedAt": "2026-05-18T22:53:34.191773+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "ed37d5b0bf6d4eef7cd94b5b96b9f863941ef6b5",
+      "title": "A CISA contractor maintained a now-offline GitHub repo that exposed credentials to AWS GovCloud accounts and CISA systems; CISA is investigating the situation (Brian Krebs/Krebs on Security)",
+      "link": "https://www.techmeme.com/260518/p45#a260518p45",
+      "summary": "<a href=\"https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260518/i45.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260518/p45#a260518p45\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Brian Krebs / <a href=\"https://krebsonsecurity.com/\">Krebs on Security</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/\">A CISA contractor maintained a now-offline GitHub repo that exposed credentials to AWS GovCloud accounts and CISA systems; CISA is investigating the situation</a></b></span>&nbsp; &mdash;&nbsp; Until this past weekend, a contractor for the Cybersecurity &amp; Infrastructure Security Agency (CISA) maintained a public GitHub repository &hellip; </p>",
+      "published": "2026-05-18T22:50:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "4ba86517aeca132ee54d0b260bb39850746afa32",
+      "title": "Trump says he called off new Iran attack at request of Gulf states",
+      "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
+      "published": "2026-05-18T22:30:58+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "94dab2fe9006f12683683d050900e2f8f83a447d",
+      "title": "In a town hall, PlayStation studio business CEO Hermen Hulst told staff that the company's narrative single-player games will now be PlayStation exclusive (Jason Schreier/@jasonschreier.bsky.social)",
+      "link": "https://www.techmeme.com/260518/p44#a260518p44",
+      "summary": "<p><a href=\"https://www.techmeme.com/260518/p44#a260518p44\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jason Schreier / <a href=\"https://bsky.app/profile/jasonschreier.bsky.social\">@jasonschreier.bsky.social</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://bsky.app/profile/jasonschreier.bsky.social/post/3mm5jzsls5s2a\">In a town hall, PlayStation studio business CEO Hermen Hulst told staff that the company's narrative single-player games will now be PlayStation exclusive</a></b></span>&nbsp; &mdash;&nbsp; SCOOP: PlayStation studio business CEO Hermen Hulst told staff in a town hall Monday morning that the company's narrative single-player games &hellip; </p>",
+      "published": "2026-05-18T22:15:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "24313fdcdfc273fb7edad1456ea75da0bbc6b369",
+      "title": "Internal memo: Meta is reassigning 7,000 workers to four new units focused on building AI tools, two days before it is set to lay off 10% of its workforce (Eli Tan/New York Times)",
+      "link": "https://www.techmeme.com/260518/p43#a260518p43",
+      "summary": "<a href=\"https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260518/i43.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260518/p43#a260518p43\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Eli Tan / <a href=\"https://www.nytimes.com/\">New York Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html\">Internal memo: Meta is reassigning 7,000 workers to four new units focused on building AI tools, two days before it is set to lay off 10% of its workforce</a></b></span>&nbsp; &mdash;&nbsp; The company announced the changes two days before it plans to lay off 10 percent of its work force, or about 8,000 employees.</p>",
+      "published": "2026-05-18T22:10:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "6e4ac8048832e14b1bc8676993f8950d40515fe1",
+      "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+      "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
+      "published": "2026-05-18T22:08:37+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "dfbe590336094bcc4f87093d5096dadbb1d850e7",
+      "title": "Sources: AI chip designer Tenstorrent has drawn takeover interest from Intel and Qualcomm; Tenstorrent could be valued at more than $5B in a potential deal (Bloomberg)",
+      "link": "https://www.techmeme.com/260518/p42#a260518p42",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-05-18/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260518/i42.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260518/p42#a260518p42\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-05-18/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm\">Sources: AI chip designer Tenstorrent has drawn takeover interest from Intel and Qualcomm; Tenstorrent could be valued at more than $5B in a potential deal</a></b></span>&nbsp; &mdash;&nbsp; Artificial intelligence chip startup Tenstorrent Inc. is drawing early takeover interest from prospective buyers at a moment &hellip; </p>",
+      "published": "2026-05-18T22:05:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "6c39bbdb3cc609a9bd16d1aca4d73cbc2251a705",
+      "title": "OSHA probing worker death at SpaceX’s Starbase site",
+      "link": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
+      "summary": "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
+      "published": "2026-05-18T21:55:02+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "b031667cf9b68c008843563cb7a89882973cc650",
+      "title": "Jackery’s Memorial Day Sale offers up to $2,400 power station discounts + 5% and 7% bonus savings – all starting from $129",
+      "link": "https://9to5toys.com/2026/05/18/jackery-memorial-day-sale-power-station-discounts-starting-from-129/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/Jackery-Memorial-Day-Sale-2026-FI.png?w=1600\" /></div><p>Jackery has <a href=\"https://jackery.sjv.io/q4a0Yj\">launched its Memorial Day Sale with up to $2,400 power station and accessory savings</a>, as well as two bonus savings codes (5% off and 7% off) for orders over $1,500, and an extra 5% off for military members. This sale – with the bonus savings – marks a solid opportunity to grab <a href=\"https://jackery.sjv.io/6yPmRN\">Jackery’s 5,040Wh Explorer 5000 Plus Portable Power Station for <strong>$2,696.07 shipped</strong></a>, after using the code <strong>OFFER7 </strong>at checkout, beating out Amazon’s pricing by $184. This is the largest expandable unit from Jackery that would go for $4,299 without discounts, which we’ve mostly seen keeping down between $3,099 and $2,999 in 2026, though there have been more consistent falls lower to $2,899, with rarer chances to grab it at $2,799 and $2,699, too. The deal here gives you a 37% combined markdown with $1,603 savings to the second-lowest price we have tracked behind the $2,659 low that appeared during the March Spring Sale event. Head below to browse the full lineup of deals. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/18/jackery-memorial-day-sale-power-station-discounts-starting-from-129/#more-1209972\">more…</a>",
+      "published": "2026-05-18T21:45:55+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "f224723ff9847b1cfb55e702afbe02c269c416c6",
+      "title": "Anthropic last week began letting Mythos users share cybersecurity threats with others who may face similar vulnerabilities, modifying its previous stance (Amrith Ramkumar/Wall Street Journal)",
+      "link": "https://www.techmeme.com/260518/p41#a260518p41",
+      "summary": "<a href=\"https://www.wsj.com/tech/ai/anthropic-lets-mythos-users-share-cyber-threats-with-others-26d17bc6?st=Cja8ZV&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260518/i41.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260518/p41#a260518p41\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Amrith Ramkumar / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/tech/ai/anthropic-lets-mythos-users-share-cyber-threats-with-others-26d17bc6?st=Cja8ZV&amp;reflink=desktopwebshare_permalink\">Anthropic last week began letting Mythos users share cybersecurity threats with others who may face similar vulnerabilities, modifying its previous stance</a></b></span>&nbsp; &mdash;&nbsp; How to restrict access while still allowing users to share threat information is a major challenge facing AI companies</p>",
+      "published": "2026-05-18T21:45:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "9ae1d1e09a7d00df280337e95080c9ac921b9da8",
+      "title": "iPhone Air now back to all-time low pricing at nearly $150 off for Memorial Day (Brand new, unlocked)",
+      "link": "https://9to5toys.com/2026/05/18/iphone-air-memorial-day/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/03/iPhone-Air-unlocked-deals.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>The official 2026 Memorial Day sales at Amazon and <a href=\"https://bestbuycreators.7tiv.net/e1Voxg\">Best Buy are now live</a> with a notable chance at all-time low pricing on unlocked <a href=\"https://bestbuycreators.7tiv.net/gR1DQr\">iPhone Air</a>. Apple’s latest ultra-thin handset is now nearly <a href=\"https://bestbuycreators.7tiv.net/gR1DQr\">$150 off the list price</a> at Best Buy. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/18/iphone-air-memorial-day/#more-1209768\">more…</a>",
+      "published": "2026-05-18T21:45:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "33ba41998fea60c2bda2b8de74a3fbffb0b6293d",
+      "title": "Trump v Massie: Could president's Republican nemesis survive $20m attack to oust him?",
+      "link": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Kentucky congressman, who has crossed the president on federal spending and the Epstein files, faces Republican voters on Tuesday.",
+      "published": "2026-05-18T21:39:45+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "b91e8f0c8e4039230be3835cfcb1c9346d6ae64b",
+      "title": "Musk v. Altman: Elon Musk says the judge and jury \"never actually ruled on the merits of the case, just on a calendar technicality\" and he will file an appeal (Elon Musk/@elonmusk)",
+      "link": "https://www.techmeme.com/260518/p40#a260518p40",
+      "summary": "<p><a href=\"https://www.techmeme.com/260518/p40#a260518p40\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Elon Musk / <a href=\"https://x.com/elonmusk\">@elonmusk</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://x.com/elonmusk/status/2056474896641782077\">Musk v. Altman: Elon Musk says the judge and jury &ldquo;never actually ruled on the merits of the case, just on a calendar technicality&rdquo; and he will file an appeal</a></b></span>&nbsp; &mdash;&nbsp; Regarding the OpenAI case, the judge &amp; jury never actually ruled on the merits of the case, just on a calendar technicality. There is no question to anyone following the case in detail that Altman &amp; Brockman did in fact enrich themselves by stealing a charity. The only question</p>",
+      "published": "2026-05-18T21:30:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "0759039918ed81aa82587865e4f8e0b1c15e467b",
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+      "published": "2026-05-18T21:29:31+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "bd72ecabe3a77e3835bb476078442e42e1bf95d9",
+      "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
+      "link": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
+      "summary": "In Afghanistan today, a staggering three in four people cannot meet their basic needs.",
+      "published": "2026-05-18T21:09:07+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "3f939ca24977391c323f19b73d030003fb0feaaa",
       "title": "Akamai is seeking to raise $2.6B in a convertible bond offering, and plans to use $350M of the offering to buy back its common stock from buyers of the bonds (David Morris/Bloomberg)",
@@ -14,13 +140,13 @@
       "category": "tech"
     },
     {
-      "id": "6e4ac8048832e14b1bc8676993f8950d40515fe1",
-      "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
-      "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
-      "published": "2026-05-18T20:59:57+00:00",
-      "source": "BBC News",
-      "category": "world"
+      "id": "9832f24327ca705971554300b8cf1b252f89f0d8",
+      "title": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
+      "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/",
+      "summary": "CDC is working to move the infected American and six others to Germany.",
+      "published": "2026-05-18T20:41:14+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
     },
     {
       "id": "64676336a5f3191c73d0fb108ec61137b0ccb3a3",
@@ -59,13 +185,13 @@
       "category": "deals"
     },
     {
-      "id": "4ba86517aeca132ee54d0b260bb39850746afa32",
-      "title": "Trump says he called off new Iran attack at request of Gulf states",
-      "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
-      "published": "2026-05-18T20:25:42+00:00",
-      "source": "BBC News",
-      "category": "world"
+      "id": "2f0c6919169b33255c013e41ec48f52ccf4f17a6",
+      "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
+      "link": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
+      "summary": "Fake citations dashed a dude’s “Are We Dating the Same Guy” revenge lawsuit.",
+      "published": "2026-05-18T20:27:15+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
     },
     {
       "id": "a91e213a2c8e02c0443620af4f99f38f9e2e5361",
@@ -84,6 +210,15 @@
       "published": "2026-05-18T20:00:09+00:00",
       "source": "9to5Toys",
       "category": "deals"
+    },
+    {
+      "id": "95021bcb518065931a50c92b49c1bf7db514f1bd",
+      "title": "Trump administration unveils $1.7bn fund to compensate his allies as he drops tax lawsuit",
+      "link": "https://www.bbc.com/news/articles/cvgzr7vr203o?at_medium=RSS&at_campaign=rss",
+      "summary": "The settlement will go towards individuals who allege they were subjected to unfair investigations.",
+      "published": "2026-05-18T19:53:31+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "37a4c394d51ee457a3b0b27f1231c3a7513c49bf",
@@ -206,7 +341,7 @@
       "id": "fdfb93a6b76fa50dc680452dc279487fab1997f3",
       "title": "Seagate shares drop 6.87%, leading a group-wide sell-off after comments from its CEO raised concerns it won't be able to meet demand fueled by the AI buildout (CJ Haddad/CNBC)",
       "link": "https://www.techmeme.com/260518/p34#a260518p34",
-      "summary": "<a href=\"https://www.cnbc.com/2026/05/18/seagate-memory-chip-stocks-ai.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260518/i34.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260518/p34#a260518p34\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> CJ Haddad / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/05/18/seagate-memory-chip-stocks-ai.html\">Seagate shares drop 6.87%, leading a group-wide sell-off after comments from its CEO raised concerns it won't be able to meet demand fueled by the AI buildout</a></b></span>&nbsp; &mdash;&nbsp; Shares of memory chip maker Seagate slipped more than 8% Monday, leading a group-wide sell-off after comments &hellip; </p>",
+      "summary": "<a href=\"https://www.cnbc.com/2026/05/18/seagate-memory-chip-stocks-ai.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260518/i34.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260518/p34#a260518p34\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> CJ Haddad / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/05/18/seagate-memory-chip-stocks-ai.html\">Seagate shares drop 6.87%, leading a group-wide sell-off after comments from its CEO raised concerns it won't be able to meet demand fueled by the AI buildout</a></b></span>&nbsp; &mdash;&nbsp; Shares of memory chip maker Seagate closed down more than 6% Monday, leading a group-wide sell-off, after comments &hellip; </p>",
       "published": "2026-05-18T18:25:01+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -383,15 +518,6 @@
       "category": "world"
     },
     {
-      "id": "100dfc5d170540704fd5a0d35cb9dfe366be9ad4",
-      "title": "NextEra's $67B deal to buy Dominion, the largest utility merger in US history, signals a new era of utility consolidation to accommodate AI-driven power demand (Emily Forgash/Bloomberg)",
-      "link": "https://www.techmeme.com/260518/p30#a260518p30",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-05-18/nextera-dominion-deal-signals-new-era-of-ai-utility-mega-mergers\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260518/i30.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260518/p30#a260518p30\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Emily Forgash / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-05-18/nextera-dominion-deal-signals-new-era-of-ai-utility-mega-mergers\">NextEra's $67B deal to buy Dominion, the largest utility merger in US history, signals a new era of utility consolidation to accommodate AI-driven power demand</a></b></span>&nbsp; &mdash;&nbsp; NextEra Energy Inc.'s $67 billion deal for rival Dominion Energy Inc., the largest utility acquisition in US history &hellip; </p>",
-      "published": "2026-05-18T16:40:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "8b590fdea8784bc7e2f1f39f54164da7707afc11",
       "title": "EcoFlow RV Season Sale drops expanded 858Wh RIVER 3 Plus power station + 220W solar panel to $499 low, more from $259",
       "link": "https://9to5toys.com/2026/05/18/ecoflow-rv-season-sale-expanded-858wh-river-3-plus-power-station-bundle-499-more/",
@@ -408,15 +534,6 @@
       "published": "2026-05-18T16:36:09+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "e30b0df2a1249e639b40a80fb1b0923eb77918f7",
-      "title": "Sony is hiking the starting price of one-month and three-month PlayStation Plus subscriptions in \"select regions\", blaming \"ongoing market conditions\" (Jay Peters/The Verge)",
-      "link": "https://www.techmeme.com/260518/p29#a260518p29",
-      "summary": "<a href=\"https://www.theverge.com/games/932430/sony-playstation-plus-subscription-price-raise\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260518/i29.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260518/p29#a260518p29\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jay Peters / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/games/932430/sony-playstation-plus-subscription-price-raise\">Sony is hiking the starting price of one-month and three-month PlayStation Plus subscriptions in &ldquo;select regions&rdquo;, blaming &ldquo;ongoing market conditions&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; One-month and three-month PlayStation Plus subscriptions are getting more expensive.</p>",
-      "published": "2026-05-18T16:35:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "dea9c3cf214910a05121a801e14caf6aea907db1",
@@ -473,24 +590,6 @@
       "category": "deals"
     },
     {
-      "id": "9c7b116901eadbb52a3ff08aa907c7772e70276a",
-      "title": "Built-in clamp latches this 10-foot 9-in-1 USB-C power strip on your desk, more down at $27",
-      "link": "https://9to5toys.com/2026/05/18/tessan-10-foot-9-in-1-desk-clamp-usb-c-power-strip/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/TESSAN-10-foot-9-in-1-Desk-Clamp-USB-C-Power-Strip.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">TESSAN 10-foot 9-in-1 Desk Clamp USB-C Power Strip</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $27 (Reg. $32)</h3>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A white line on a red background\" class=\"wp-image-1209895 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/TESSAN-10-foot-9-in-1-Desk-Clamp-USB-C-Power-Strip-chart.png?w=968\" width=\"968\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p><span>A lot of surge protectors just kinda sit there and can quickly look like a total mess. That’s why I’m a huge fan of tidying up cables, hiding power strips, or straight up locking them in place. If the last option is what you’re after, the clamping design here is worth a peek. It’s outfitted with dual Type-C, two USB-A ports, as well as 5 AC outlets.</span></p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/18/tessan-10-foot-9-in-1-desk-clamp-usb-c-power-strip/#more-1209893\">more…</a>",
-      "published": "2026-05-18T16:19:58+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "d9cd1b619c1eec9d74e06fe198d6d7aaf9c13348",
-      "title": "Sony just announced sweeping price increases to PlayStation Plus subscriptions",
-      "link": "https://9to5toys.com/2026/05/18/sony-announc-sweeping-price-increase-playstation-plus/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/PlayStation-Plus-price-increase-copy.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>The barrage of price hikes continue, and just after <a href=\"https://9to5toys.com/2026/05/08/nintendo-announces-switch-2-price-increase-united-states-canada-europe/\">Nintendo announced the price of Switch 2 was going up</a>, as well as Switch Online in select regions, Sony is now following suite with PlayStation Plus. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/18/sony-announc-sweeping-price-increase-playstation-plus/#more-1209899\">more…</a>",
-      "published": "2026-05-18T16:18:56+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "9d08afd9845498ecff3838a7fa9a19b6ba625b29",
       "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
       "link": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
@@ -498,15 +597,6 @@
       "published": "2026-05-18T16:16:38+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "21987ac50a0afdf9921c478fb9d6749a4ef314cb",
-      "title": "Nasdaq-listed Bitcoin Depot, North America's largest bitcoin ATM operator, files for bankruptcy, blaming \"increasingly stringent compliance obligations\" (Omkar Godbole/CoinDesk)",
-      "link": "https://www.techmeme.com/260518/p28#a260518p28",
-      "summary": "<a href=\"https://www.coindesk.com/markets/2026/05/18/bitcoin-depot-once-north-america-s-largest-bitcoin-atm-operator-files-for-bankruptcy\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260518/i28.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260518/p28#a260518p28\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Omkar Godbole / <a href=\"http://www.coindesk.com/\">CoinDesk</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.coindesk.com/markets/2026/05/18/bitcoin-depot-once-north-america-s-largest-bitcoin-atm-operator-files-for-bankruptcy\">Nasdaq-listed Bitcoin Depot, North America's largest bitcoin ATM operator, files for bankruptcy, blaming &ldquo;increasingly stringent compliance obligations&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; Bitcoin Depot, the largest bitcoin ATM operator in North America and publicly listed on Nasdaq, has filed for Chapter 11 bankruptcy.</p>",
-      "published": "2026-05-18T16:15:07+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "28fea11b51c29d972e9ee5f3609f58e138815815",
@@ -533,33 +623,6 @@
       "summary": "Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on \"virtually any topic,\" according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, and the AI assistant will offer an overview of what its AI hosts plan to talk about, allowing you to steer the conversation [&#8230;]",
       "published": "2026-05-18T15:55:25+00:00",
       "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "d849359fbbd29db6bc9ebb59f3c47b98cc7b4afb",
-      "title": "What is Ebola and why is stopping this outbreak so difficult?",
-      "link": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
-      "summary": "An outbreak of Ebola in DR Congo involves a rare strain and is in an area affected by conflict.",
-      "published": "2026-05-18T15:52:38+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "5d7c92fa23d9c55369b4510711fc9a5cfbeb5346",
-      "title": "Internal chats: in March, xAI offered employees $420 in exchange for completed tax filings as training data for Grok, but the bonuses haven't been paid out (Carmen Arroyo/Bloomberg)",
-      "link": "https://www.techmeme.com/260518/p27#a260518p27",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-05-18/musk-s-xai-promised-staff-420-for-their-tax-returns-hasn-t-paid?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3OTExMzE2OSwiZXhwIjoxNzc5NzE3OTY5LCJhcnRpY2xlSWQiOiJURVhUQ0RUOU5KTFUwMCIsImJjb25uZWN0SWQiOiI3N0VBQzdGODQxNzg0QTZFQkZDNzhDQjdDNkQ4NEMwMyJ9.DDbxHeVltS6euXMN5IVv2Unz5S1rS1caEyClDDR-0OI\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260518/i27.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260518/p27#a260518p27\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Carmen Arroyo / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-05-18/musk-s-xai-promised-staff-420-for-their-tax-returns-hasn-t-paid?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3OTExMzE2OSwiZXhwIjoxNzc5NzE3OTY5LCJhcnRpY2xlSWQiOiJURVhUQ0RUOU5KTFUwMCIsImJjb25uZWN0SWQiOiI3N0VBQzdGODQxNzg0QTZFQkZDNzhDQjdDNkQ4NEMwMyJ9.DDbxHeVltS6euXMN5IVv2Unz5S1rS1caEyClDDR-0OI\">Internal chats: in March, xAI offered employees $420 in exchange for completed tax filings as training data for Grok, but the bonuses haven't been paid out</a></b></span>&nbsp; &mdash;&nbsp; Elon Musk's xAI asked employees earlier this year to offer up their own tax returns as training data for the company's Grok chatbot &hellip; </p>",
-      "published": "2026-05-18T15:50:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "f077c712af421998d3d7b1c2abfbf36cad2142ef",
-      "title": "Amazon's Alexa+ now produces AI-generated \"podcasts\" on various topics in the US, featuring chats between two AI \"co-hosts\", using content from media outlets (Todd Spangler/Variety)",
-      "link": "https://www.techmeme.com/260518/p26#a260518p26",
-      "summary": "<a href=\"https://variety.com/2026/digital/news/amazon-alexa-plus-ai-podcasts-1236752477/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260518/i26.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260518/p26#a260518p26\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Todd Spangler / <a href=\"http://www.variety.com/\">Variety</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://variety.com/2026/digital/news/amazon-alexa-plus-ai-podcasts-1236752477/\">Amazon's Alexa+ now produces AI-generated &ldquo;podcasts&rdquo; on various topics in the US, featuring chats between two AI &ldquo;co-hosts&rdquo;, using content from media outlets</a></b></span>&nbsp; &mdash;&nbsp; The podcast sector suddenly may have a big new player: Amazon's Alexa+ AI-powered voice assistant.</p>",
-      "published": "2026-05-18T15:35:01+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -626,15 +689,6 @@
       "category": "tech"
     },
     {
-      "id": "3af22368c48cbbcd4570ad9685b7ba9c53481499",
-      "title": "Arkham: Iran's largest crypto exchange, Nobitex, processed $2.3B+ since 2023 via Tron and BNB Chain, including $23M+ since the Iran war started in February (Reuters)",
-      "link": "https://www.techmeme.com/260518/p25#a260518p25",
-      "summary": "<a href=\"https://www.reuters.com/investigations/how-trumps-crypto-venture-irans-top-exchange-tapped-into-same-industry-networks-2026-05-18/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260518/i25.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260518/p25#a260518p25\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/investigations/how-trumps-crypto-venture-irans-top-exchange-tapped-into-same-industry-networks-2026-05-18/\">Arkham: Iran's largest crypto exchange, Nobitex, processed $2.3B+ since 2023 via Tron and BNB Chain, including $23M+ since the Iran war started in February</a></b></span>&nbsp; &mdash;&nbsp; Iran's Nobitex has processed at least $2.3 billion through Tron and BNB Chain, blockchain ledgers started by backers of the Trump family's World Liberty Financial.</p>",
-      "published": "2026-05-18T14:05:04+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "d474a68db5feee140379d014a3b37bab89b8d6c5",
       "title": "Did Artemis II break through? Registrations at Space Camp double afterward.",
       "link": "https://arstechnica.com/space/2026/05/did-artemis-ii-break-through-registrations-at-space-camp-double-afterward/",
@@ -662,19 +716,19 @@
       "category": "tech"
     },
     {
-      "id": "db5b7f775829577aeb9a7fc5bbd2365f41dc200a",
-      "title": "Wall Street sex scandal spirals into AI deepfake chaos, muddying truth in viral online storm",
-      "link": "https://www.malaymail.com/news/world/2026/05/18/wall-street-sex-scandal-spirals-into-ai-deepfake-chaos-muddying-truth-in-viral-online-storm/220407",
-      "summary": "WASHINGTON, May 18 &mdash; A Wall Street banker&rsquo;s explosive sexual harassment lawsuit against a female executive h...",
+      "id": "bac57d0baf123e80df668757e99b8a26e702563d",
+      "title": "Urinary incontinence may signal serious illness, doctor warns as bladder control issues linked to cancer and neurological disease",
+      "link": "https://www.malaymail.com/news/life/2026/05/18/urinary-incontinence-may-signal-serious-illness-doctor-warns-as-bladder-control-issues-linked-to-cancer-and-neurological-disease/220396",
+      "summary": "KUALA LUMPUR, May 18 &mdash; Many people assume that bladder control problems are just a minor issue or a normal part of...",
       "published": "2026-05-18T13:00:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
-      "id": "bac57d0baf123e80df668757e99b8a26e702563d",
-      "title": "Urinary incontinence may signal serious illness, doctor warns as bladder control issues linked to cancer and neurological disease",
-      "link": "https://www.malaymail.com/news/life/2026/05/18/urinary-incontinence-may-signal-serious-illness-doctor-warns-as-bladder-control-issues-linked-to-cancer-and-neurological-disease/220396",
-      "summary": "KUALA LUMPUR, May 18 &mdash; Many people assume that bladder control problems are just a minor issue or a normal part of...",
+      "id": "db5b7f775829577aeb9a7fc5bbd2365f41dc200a",
+      "title": "Wall Street sex scandal spirals into AI deepfake chaos, muddying truth in viral online storm",
+      "link": "https://www.malaymail.com/news/world/2026/05/18/wall-street-sex-scandal-spirals-into-ai-deepfake-chaos-muddying-truth-in-viral-online-storm/220407",
+      "summary": "WASHINGTON, May 18 &mdash; A Wall Street banker&rsquo;s explosive sexual harassment lawsuit against a female executive h...",
       "published": "2026-05-18T13:00:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
@@ -1049,24 +1103,6 @@
       "category": "events"
     },
     {
-      "id": "05fc8fd6313a8b2a44a3ce61cf0dbb52358b93b5",
-      "title": "'Everest Man' and 'Mountain Queen' break own records scaling world's tallest peak",
-      "link": "https://www.bbc.com/news/articles/c3927ejpj4eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kami Rita Sherpa and Lakpa Sherpa summited Everest for the 32nd and 11th time, respectively.",
-      "published": "2026-05-18T03:51:59+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "12e32bd4367d2fc14045bc88178cde986d25ed00",
-      "title": "Taiwan will not provoke conflict nor give up sovereignty, says president",
-      "link": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss",
-      "summary": "Lai Ching-te made his first direct response to Trump and Xi's meeting where they discussed Taiwan independence.",
-      "published": "2026-05-18T03:08:13+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "52f05be1645a089764461eb51e7cf56f0079ef9c",
       "title": "Google Gemini Intelligence Will Be Limited To Select Flagship Android Devices",
       "link": "https://www.lowyat.net/2026/392944/google-gemini-intelligence-flagship-android-devices/",
@@ -1247,29 +1283,11 @@
       "category": "tech"
     },
     {
-      "id": "1b4b963daeb5c1c83c242ff3ad83d0fc7b39fb47",
-      "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
-      "link": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
-      "summary": "It may be possible to jailbreak an older, end-of-support Kindle and continue adding books to it. But doing so carries risks.",
-      "published": "2026-05-16T14:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "b4902a775b2526a870fe1340328ad1a6fdd52eef",
       "title": "pixserp",
       "link": "https://www.producthunt.com/products/pixserp",
       "summary": "<p>\n            Your LLM on the live web. One endpoint, ten answer shapes.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pixserp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1148331?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-16T12:11:38+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "754931ca72ee50946a4015815e88187c31184fee",
-      "title": "Kirki",
-      "link": "https://www.producthunt.com/products/kirki",
-      "summary": "<p>\n            WordPress finally has a freeform canvas website builder.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kirki?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1148297?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-16T11:15:00+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1333,33 +1351,6 @@
       "link": "https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution/",
       "summary": "Each year, some of the power solar could have produced is blocked by aerosols.",
       "published": "2026-05-15T20:36:05+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "4d8a2aacadd8ac71619a29ec75a8bdf8761cc195",
-      "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
-      "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
-      "summary": "Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a handful of employees.",
-      "published": "2026-05-15T20:30:20+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "3d8f292af5d82ff158dd4d264385ad542e5dc41b",
-      "title": "Weather-monitoring firm hangs dark cloud over customers’ heads by forcing new app",
-      "link": "https://arstechnica.com/gadgets/2026/05/weather-monitoring-firm-hangs-dark-cloud-over-customers-heads-by-forcing-new-app/",
-      "summary": "Newer AcuRite Now app lacks some features but has a subscription option.",
-      "published": "2026-05-15T20:16:24+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "036e76bd46247ebb67cb65300699bc618e6bc17d",
-      "title": "Three's a party: US, China, and now Russia are on the prowl in GEO",
-      "link": "https://arstechnica.com/space/2026/05/threes-a-party-us-china-and-now-russia-are-on-the-prowl-in-geo/",
-      "summary": "Instead of running silent and deep, most satellites easily stand out against the blackness of space.",
-      "published": "2026-05-15T19:11:48+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
     },
@@ -1486,6 +1477,15 @@
       "link": "https://www.producthunt.com/products/triggered-agents-by-adaptive",
       "summary": "<p>\n            AI agents that run automatically on business events\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/triggered-agents-by-adaptive?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1115546?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-04T09:50:38+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "f92222dcae83f87e82b2059c03773102fb3a4342",
+      "title": "SUN-to-Spotify",
+      "link": "https://www.producthunt.com/products/sun-ai",
+      "summary": "<p>\n            Generate audio with SUN and send it to your Spotify library\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sun-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/942860?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-03-17T05:09:16+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
