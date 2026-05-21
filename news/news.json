@@ -1,80 +1,332 @@
 {
-  "generatedAt": "2026-05-20T23:07:30.052900+00:00",
+  "generatedAt": "2026-05-21T02:42:47.401124+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
+      "id": "d12c71f29412e39006a957317440b1a1c881941d",
+      "title": "Where coffee meets character: Shan Mu in PJ and Wooca in Kajang, brewing warmth in different ways",
+      "link": "https://www.malaymail.com/news/eat-drink/2026/05/21/where-coffee-meets-character-shan-mu-in-pj-and-wooca-in-kajang-brewing-warmth-in-different-ways/220784",
+      "summary": "PETALING JAYA, May 21 &ndash; Coffee, I have decided, is never just coffee.Not in the Klang Valley, where caf&eacute;s a...",
+      "published": "2026-05-21T02:35:46+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "a93891f5fc2b3ffae380e5daa1e1ebdd714a4ff0",
+      "title": "Singapore SCDF officer charged after allegedly dozing off at wheel of fire engine, injuring three",
+      "link": "https://www.malaymail.com/news/singapore/2026/05/21/singapore-scdf-officer-charged-after-allegedly-dozing-off-at-wheel-of-fire-engine-injuring-three/220787",
+      "summary": "SINGAPORE, May 21 &mdash; A Singapore Civil Defence Force (SCDF) officer has been charged after allegedly falling asleep...",
+      "published": "2026-05-21T02:34:54+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "91a7e3b3df267fad8d1b2591b085101cdc08ffc5",
+      "title": "Uncle tells inquest Zara Qairina, an only child, had close bond with her mother",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/21/uncle-tells-inquest-zara-qairina-an-only-child-had-close-bond-with-her-mother/220781",
+      "summary": "KOTA KINABALU, May 21 &mdash; The Coroner&rsquo;s Court here was told today that the late Zara Qairina Mahathir had neve...",
+      "published": "2026-05-21T02:30:42+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "cbceb0b0c4ea5292e34844d4920db6c876f9274a",
+      "title": "Bursa opens higher as traders breathe easier over Middle East tensions",
+      "link": "https://www.malaymail.com/news/money/2026/05/21/bursa-opens-higher-as-traders-breathe-easier-over-middle-east-tensions/220785",
+      "summary": "KUALA LUMPUR, May 21 &mdash; Bursa Malaysia opened higher on Thursday, tracking overnight gains on Wall Street amid opti...",
+      "published": "2026-05-21T02:25:56+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "37ebb19308aa0a2fc035f7254e60ed41cca033f3",
+      "title": "Your next AI app could come with a ‘nutrition label’ — at least in Singapore",
+      "link": "https://www.malaymail.com/news/singapore/2026/05/21/your-next-ai-app-could-come-with-a-nutrition-label-at-least-in-singapore/220783",
+      "summary": "SINGAPORE, May 21 &mdash; Singapore is in talks with technology companies about attaching &ldquo;nutrition labels&rdquo;...",
+      "published": "2026-05-21T02:22:27+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "d57de7b2f42f621b6e59e10a2714cd454210ac6a",
+      "title": "Havana-born star Andy Garcia says many Cubans would welcome intervention to remove govt",
+      "link": "https://www.malaymail.com/news/showbiz/2026/05/21/havana-born-star-andy-garcia-says-many-cubans-would-welcome-intervention-to-remove-govt/220782",
+      "summary": "CANNES, May 21 &mdash; Havana-born Hollywood star Andy Garcia told AFP that the overwhelming majority of Cubans would su...",
+      "published": "2026-05-21T02:20:03+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "7ed254ce89e04a048f50644434e47f52b91c1ff0",
+      "title": "Critical Microsoft Authenticator Flaw Puts Accounts At Risk",
+      "link": "https://www.lowyat.net/2026/393331/critical-microsoft-authenticator-flaw-puts-accounts-at-risk/",
+      "summary": "<p>Microsoft has released a major security update for its Authenticator app after discovering a critical vulnerability that could allow attackers to steal sign-in access tokens from users. The flaw affects both Android and iOS versions of the app and could potentially grant unauthorised access to company accounts, cloud services, and sensitive organisational data. According to [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/393331/critical-microsoft-authenticator-flaw-puts-accounts-at-risk/\">Critical Microsoft Authenticator Flaw Puts Accounts At Risk</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-05-21T02:16:09+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "d2c71e3d8a00bb7326d12a57af690610f566db0e",
+      "title": "Sabah floods: 338 evacuees in Beaufort as of 8am",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/21/sabah-floods-338-evacuees-in-beaufort-as-of-8am/220778",
+      "summary": "KOTA KINABALU, May 21 &mdash; The number of flood evauees in Beaufort remained largely unchanged at 338 people from 121...",
+      "published": "2026-05-21T02:13:39+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "5308d97b5fdbea94863b74c4e3667ff974e11796",
+      "title": "‘Bohemian Rhapsody’ star Rami Malek says Freddie Mercury still lives ‘in my soul’ ahead of new Cannes musical role",
+      "link": "https://www.malaymail.com/news/showbiz/2026/05/21/bohemian-rhapsody-star-rami-malek-says-freddie-mercury-still-lives-in-my-soul-ahead-of-new-cannes-musical-role/220780",
+      "summary": "CANNES, May 21 &mdash; Egyptian-American actor Rami Malek, who starred as Freddie Mercury in the blockbuster biopic Bohe...",
+      "published": "2026-05-21T02:12:53+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "23999aa9d4de1e6d18be3554c47d6eb7264715de",
+      "title": "Singapore shipping veteran Teo Siong Seng among seven accused in US container price-fixing probe",
+      "link": "https://www.malaymail.com/news/singapore/2026/05/21/singapore-shipping-veteran-teo-siong-seng-among-seven-accused-in-us-container-price-fixing-probe/220779",
+      "summary": "SINGAPORE, May 21 &mdash; A prominent Singapore shipping executive and six Chinese nationals have been accused by United...",
+      "published": "2026-05-21T02:12:51+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "0016c5397e0b6685bc8aa2350969906724afbbe0",
+      "title": "Sarawak’s Batang Lupar 1 Bridge: Malaysia’s longest river-crossing bridge opens today",
+      "link": "https://soyacincau.com/2026/05/21/jambantan-batang-lupar-1-bridge-opens-today-malaysia-longest-river-crossing-bridge/",
+      "summary": "Sarawak’s highly anticipated Batang Lupar 1 Bridge is officially opening to the public today, 21 May 2026, at 4:00pm, as announced by Sarawak Premier Tan Sri Abang Johari Tun Openg. The opening comes just in time of the upcoming Gawai and Hari Raya Haji celebrations, which are expected to see increased intercity travel across the [&#8230;]",
+      "published": "2026-05-21T02:10:28+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "c7115138e4baa7f3ea80c210a2785e80c7ded860",
+      "title": "Jensen Huang said that Nvidia has \"largely conceded\" China's AI chip market to Huawei and should \"expect nothing\" regarding chip sale approvals to China (Lee Ying Shan/CNBC)",
+      "link": "https://www.techmeme.com/260520/p55#a260520p55",
+      "summary": "<a href=\"https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260520/i55.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260520/p55#a260520p55\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lee Ying Shan / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html\">Jensen Huang said that Nvidia has &ldquo;largely conceded&rdquo; China's AI chip market to Huawei and should &ldquo;expect nothing&rdquo; regarding chip sale approvals to China</a></b></span>&nbsp; &mdash;&nbsp; Nvidia CEO Jensen Huang said the company has &ldquo;largely conceded&rdquo; China's artificial intelligence chip market to Huawei &hellip; </p>",
+      "published": "2026-05-21T02:10:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "477e53ad5fc361160e93145a8479cfcdea37f1ad",
+      "title": "Royal blunder: UK radio station apologises after mistakenly announcing King Charles’ death",
+      "link": "https://www.malaymail.com/news/life/2026/05/21/royal-blunder-uk-radio-station-apologises-after-mistakenly-announcing-king-charles-death/220777",
+      "summary": "LONDON, May 21 &mdash; A former British pirate radio station on Wednesday apologised &ldquo;for any distress caused&amp;rdqu...",
+      "published": "2026-05-21T02:09:07+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "5456f6fb4137a789ad8034a99540fa2030248ea2",
+      "title": "MOF: RON97 up 15 sen, unsubsidised RON95 up 20 sen, diesel up 10 sen for May 21–27",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/21/mof-ron97-up-15-sen-unsubsidised-ron95-up-20-sen-diesel-up-10-sen-for-may-2127/220774",
+      "summary": "KUALA LUMPUR, May 21 &mdash; The retail prices of RON97, unsubsidised RON95 and diesel in Peninsular Malaysia will incre...",
+      "published": "2026-05-21T02:07:16+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "5326f8d27838e864aafef17d3b2fc4d5f8a750d6",
+      "title": "Singapore pledges US$12m to global vaccine alliance in pandemic preparedness push",
+      "link": "https://www.malaymail.com/news/singapore/2026/05/21/singapore-pledges-us12m-to-global-vaccine-alliance-in-pandemic-preparedness-push/220776",
+      "summary": "SINGAPORE, May 21 &mdash; Singapore has pledged US$12 million (US$1=RM3.97) contribution over four years to the Coalitio...",
+      "published": "2026-05-21T02:04:52+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "703c47ef8a8268ca39030bd19943786645095f4b",
+      "title": "Samsung union says South Korea strike on hold ‘until further notice’",
+      "link": "https://www.malaymail.com/news/money/2026/05/21/samsung-union-says-south-korea-strike-on-hold-until-further-notice/220775",
+      "summary": "SEOUL, May 21 &mdash; Samsung Electronics workers&rsquo; union said late yesterday that a planned strike had been put on...",
+      "published": "2026-05-21T02:02:11+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "42ca034044474585fbe83127cc179e9bbc48d838",
+      "title": "Colosseum selfies, ‘Melody’ toffee and trade: Modi visits Rome",
+      "link": "https://www.malaymail.com/news/world/2026/05/21/colosseum-selfies-melody-toffee-and-trade-modi-visits-rome/220773",
+      "summary": "ROME, May 21 &mdash; Indian Prime Minister Narendra Modi and Italian Prime Minister Giorgia Meloni met yesterday in talk...",
+      "published": "2026-05-21T01:57:03+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "60b6dd71abd91c681eccbc24302b23f0b53a07b7",
+      "title": "Johor Royal Press Office urges stern action against fake TikTok account insulting King",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/21/johor-royal-press-office-urges-stern-action-against-fake-tiktok-account-insulting-king/220771",
+      "summary": "KUALA LUMPUR, May 21 &mdash; The Johor Royal Press Office has called for stern action to be taken against those responsi...",
+      "published": "2026-05-21T01:56:42+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "5631eb6d4eba1283fc0b5e5c22c3a6540215d0a4",
+      "title": "Tokyo and Seoul stocks soar on hopes of diplomatic breakthrough with Iran",
+      "link": "https://www.malaymail.com/news/money/2026/05/21/tokyo-and-seoul-stocks-soar-on-hopes-of-diplomatic-breakthrough-with-iran/220772",
+      "summary": "TOKYO, May 21 &mdash; Japan&rsquo;s Nikkei index jumped more than 3 per cent in early Asian trade today after Iran said...",
+      "published": "2026-05-21T01:52:30+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "7ac954ed27300d9f9c45e72a22b7234fcd368962",
+      "title": "‘Get your credit card out!’ Villa captain McGinn invites Prince William to Europa League party",
+      "link": "https://www.malaymail.com/news/sports/2026/05/21/get-your-credit-card-out-villa-captain-mcginn-invites-prince-william-to-europa-league-party/220770",
+      "summary": "ISTANBUL, May 21 &mdash; Aston Villa captain John McGinn invited Prince William to join his side&rsquo;s Europa League v...",
+      "published": "2026-05-21T01:47:59+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "65c1df5aafb4a4d07935eb0ed88d74cc7f5c50bf",
+      "title": "Police open probe into Tony Pua over alleged sensitive social media remarks on monarchy, Rukun Negara",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/21/police-open-probe-into-tony-pua-over-alleged-sensitive-social-media-remarks-on-monarchy-rukun-negara/220767",
+      "summary": "KUALA LUMPUR, May 21 &mdash; Police have opened an investigation paper against former Damansara Member of Parliament Ton...",
+      "published": "2026-05-21T01:44:57+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "03a1eb2d0f445fc298f70997247a730d73dc8d98",
+      "title": "Kevin Spacey returns to Cannes red carpet as comeback gathers pace",
+      "link": "https://www.malaymail.com/news/showbiz/2026/05/21/kevin-spacey-returns-to-cannes-red-carpet-as-comeback-gathers-pace/220769",
+      "summary": "CANNES, May 21 &mdash; Hollywood actor Kevin Spacey walked the red carpet at the Cannes Film Festival on Wednesday, mark...",
+      "published": "2026-05-21T01:43:56+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "af1b1d44a9070029142f83c8d8095ef3c22061b3",
+      "title": "AI frenzy powers Nvidia to fresh record RM323.1b quarterly revenue, soaring profits",
+      "link": "https://www.malaymail.com/news/money/2026/05/21/ai-frenzy-powers-nvidia-to-fresh-record-rm3231b-quarterly-revenue-soaring-profits/220768",
+      "summary": "SAN FRANCISCO, May 21 &mdash; Chip giant Nvidia yesterday posted record quarterly revenue of US$81.6 billion (RM323.1 bi...",
+      "published": "2026-05-21T01:42:40+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "1cdaa9ba492689bafb3e13cdda79ce0c3b8f137a",
+      "title": "Filing: SpaceX set aside $530M for potential litigation losses, including lawsuits involving Grok's \"Spicy\" mode, which it described as a \"heightened risk\" (Wired)",
+      "link": "https://www.techmeme.com/260520/p54#a260520p54",
+      "summary": "<a href=\"https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260520/i54.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260520/p54#a260520p54\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.wired.com/\">Wired</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/\">Filing: SpaceX set aside $530M for potential litigation losses, including lawsuits involving Grok's &ldquo;Spicy&rdquo; mode, which it described as a &ldquo;heightened risk&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; The rocket company has set aside more than $500 million for potential litigation losses &hellip; </p>",
+      "published": "2026-05-21T01:40:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "6091187e1249aea5326855afe42a68cd8f503735",
+      "title": "Samsung strike on hold as workers push for AI bonus",
+      "link": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The walkout, which was due to start on Thursday, has been suspended while union members vote on a tentative deal.",
+      "published": "2026-05-21T01:18:56+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "9f4e702ade79053d4ec44be6b86bbc5c0b9f93e7",
+      "title": "SpaceX S-1: Starlink had 10.3M subscribers in Q1 2026, a 105% increase YoY; SpaceX's \"Connectivity\" business, which is primarily Starlink, made $11.3B in 2025 (Michael Kan/PCMag)",
+      "link": "https://www.techmeme.com/260520/p53#a260520p53",
+      "summary": "<a href=\"https://www.pcmag.com/news/spacex-ipo-filing-offers-first-glimpse-at-subscriber-numbers-financials\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260520/i53.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260520/p53#a260520p53\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Michael Kan / <a href=\"http://www.pcmag.com/\">PCMag</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.pcmag.com/news/spacex-ipo-filing-offers-first-glimpse-at-subscriber-numbers-financials\">SpaceX S-1: Starlink had 10.3M subscribers in Q1 2026, a 105% increase YoY; SpaceX's &ldquo;Connectivity&rdquo; business, which is primarily Starlink, made $11.3B in 2025</a></b></span>&nbsp; &mdash;&nbsp; (daily_creativity via Shutterstock)&nbsp; &mdash;&nbsp; For the first time, we have hard numbers on Starlink's paid subscriber base &hellip; </p>",
+      "published": "2026-05-21T01:10:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "1a3e3918a1c90d25820893a7a1276324bd1821d7",
+      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+      "published": "2026-05-21T00:28:31+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "76a43fb20851c913a753328cbaf8c7ea21400074",
+      "title": "Sources: the Pentagon is launching a task force to study how to safely deploy leading AI tools with hacking capabilities across Cyber Command and NSA missions (Politico)",
+      "link": "https://www.techmeme.com/260520/p52#a260520p52",
+      "summary": "<a href=\"https://www.politico.com/news/2026/05/20/nsa-cyber-command-ai-task-force-mythos-00930786\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260520/i52.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260520/p52#a260520p52\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.politico.com/\">Politico</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.politico.com/news/2026/05/20/nsa-cyber-command-ai-task-force-mythos-00930786\">Sources: the Pentagon is launching a task force to study how to safely deploy leading AI tools with hacking capabilities across Cyber Command and NSA missions</a></b></span>&nbsp; &mdash;&nbsp; These people, like others in this report, were granted anonymity because they were not authorized to speak publicly about the sensitive effort.</p>",
+      "published": "2026-05-21T00:25:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "fc27adab39a5e69007f2403d35280121f7e33aa5",
+      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+      "published": "2026-05-21T00:21:21+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "7f655b431ed92be49ca9fb4b778b29839fab64c0",
+      "title": "SpaceX S-1: xAI plans to buy another $2.8B worth of turbines for its data centers, including a $2B deal for mobile gas turbines, the type it's being sued over (Tim De Chant/TechCrunch)",
+      "link": "https://www.techmeme.com/260520/p51#a260520p51",
+      "summary": "<a href=\"https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260520/i51.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260520/p51#a260520p51\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Tim De Chant / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/\">SpaceX S-1: xAI plans to buy another $2.8B worth of turbines for its data centers, including a $2B deal for mobile gas turbines, the type it's being sued over</a></b></span>&nbsp; &mdash;&nbsp; Elon Musk's xAI has gotten itself in hot water over its use of polluting generators at its data center near Memphis, Tennessee.</p>",
+      "published": "2026-05-20T23:50:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "3d302c19e567103b9f41bfa35939f7c08eda0baf",
+      "title": "Ebola vaccine could take nine months as death toll rises further, WHO warns",
+      "link": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
+      "summary": "In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases.",
+      "published": "2026-05-20T23:47:01+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "5df349c51257a692d2afae1a67e72059a33b20be",
+      "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+      "link": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
+      "summary": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
+      "published": "2026-05-20T23:28:28+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "2ebb5a331141c7a89f2f8f4d877e2dbfe1685612",
+      "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
+      "link": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Castro and five others are charged with conspiracy to kill US nationals, murder, and destruction of aircraft",
+      "published": "2026-05-20T23:28:07+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "58fe483d342cb6a08bf33fed1d0e24d359b2fcf1",
+      "title": "SpaceX S-1: xAI had a $6.4B operating loss on $3.2B in revenue in 2025; Grok and X had 550M MAUs combined as of March 2026, and 117M used Grok's AI features (Rebecca Bellan/TechCrunch)",
+      "link": "https://www.techmeme.com/260520/p50#a260520p50",
+      "summary": "<a href=\"https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260520/i50.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260520/p50#a260520p50\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Rebecca Bellan / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/\">SpaceX S-1: xAI had a $6.4B operating loss on $3.2B in revenue in 2025; Grok and X had 550M MAUs combined as of March 2026, and 117M used Grok's AI features</a></b></span>&nbsp; &mdash;&nbsp; Elon Musk's xAI lost $6.4 billion from operations on just $3.2 billion in revenue in 2025, according to SpaceX's IPO filings.</p>",
+      "published": "2026-05-20T23:20:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
       "id": "75a8f444a9d364dcfaad016f7c3163a4fc583241",
       "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
       "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
-      "summary": "SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever and one that will make Musk the CEO, CTO, and Chairman of the board.",
+      "summary": "SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever and one that will make Musk the CEO, CTO, and chairman of the board.",
       "published": "2026-05-20T23:03:02+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
     {
-      "id": "08e9e3cd4f099b22a0efe438ca29f7eff5b05cd6",
-      "title": "Understanding Malaysia’s many school systems and how they coexist",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/21/understanding-malaysias-many-school-systems-and-how-they-coexist/220699",
-      "summary": "KUALA LUMPUR, May 21&nbsp;&mdash; From national schools and vernacular streams to tahfiz institutions, Chinese independe...",
-      "published": "2026-05-20T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "e9abf624a9f83dc9f89bb6550a3278e1f32dea8b",
-      "title": "The AI backlash is here — and even Silicon Valley can hear the boos across the US",
-      "link": "https://www.malaymail.com/news/tech-gadgets/2026/05/21/the-ai-backlash-is-here-and-even-silicon-valley-can-hear-the-boos-across-the-us/220663",
-      "summary": "WASHINGTON, May 21 &mdash; Speakers promoting AI are getting booed at universities, voters are rebelling against data ce...",
-      "published": "2026-05-20T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "c757f29883179e3f731660310b0ba2737d1f6c24",
-      "title": "SpaceX wants a RM7t IPO valuation — Wall Street has questions",
-      "link": "https://www.malaymail.com/news/money/2026/05/21/spacex-wants-a-rm7t-ipo-valuation-wall-street-has-questions/220654",
-      "summary": "NEW YORK, May 21 &mdash; Elon Musk wants to take SpaceX public &mdash; and he&rsquo;s asking investors to believe the ro...",
-      "published": "2026-05-20T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "bfe34b1b1d6937c15ef6a042e97a51702434c7e2",
-      "title": "The forgotten pioneer: How a Malaysian sci-fi epic paved the way for ‘Ejen Ali’ and ‘BoBoiBoy’",
-      "link": "https://www.malaymail.com/news/showbiz/2026/05/21/the-forgotten-pioneer-how-a-malaysian-sci-fi-epic-paved-the-way-for-ejen-ali-and-boboiboy/220624",
-      "summary": "KUALA LUMPUR, May 21 &mdash; Long before Ejen Ali or BoBoiBoy captured global audiences, a different kind of Malaysian a...",
-      "published": "2026-05-20T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "d142f184a02aa6e1225d91b74820a2d4d1a7afe6",
-      "title": "France look unstoppable, England dare to dream and Brazil wobble: Ranking the World Cup favourites",
-      "link": "https://www.malaymail.com/news/sports/2026/05/21/france-look-unstoppable-england-dare-to-dream-and-brazil-wobble-ranking-the-world-cup-favourites/220649",
-      "summary": "PARIS, May 21 &mdash; With the start of the 2026 World Cup in North America now barely three weeks away, AFP Sport runs...",
-      "published": "2026-05-20T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "e6f8c703c1686c9d19c2b37ed1b7b9ef770dab1a",
-      "title": "‘One Palestinian minor killed every week’: Inside the rising toll on children in the West Bank",
-      "link": "https://www.malaymail.com/news/world/2026/05/21/one-palestinian-minor-killed-every-week-inside-the-rising-toll-on-children-in-the-west-bank/220659",
-      "summary": "NABLUS, May 21 &mdash; Youssef Shtayyeh came home from school on an April afternoon, dropped his bag in the hallway and...",
-      "published": "2026-05-20T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "e43844a90ca4b8245130fddfc6a4e15c0794bb89",
-      "title": "In Penang, rescue ropes and kind neighbours are giving endangered langurs a second chance",
-      "link": "https://www.malaymail.com/news/life/2026/05/21/in-penang-rescue-ropes-and-kind-neighbours-are-giving-endangered-langurs-a-second-chance/220666",
-      "summary": "GEORGE TOWN, May 21 &mdash; A graceful black monkey edges across a swaying red rope bridge strung over a busy residentia...",
-      "published": "2026-05-20T23:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
+      "id": "10c6b6c3aa1ed7e76199c194e2cbd749347d01a3",
+      "title": "Famously secret about its finances, SpaceX opens its books for the first time",
+      "link": "https://arstechnica.com/space/2026/05/spacex-submits-detailed-financial-filing-ahead-of-going-public-in-june/",
+      "summary": "\"We believe we have identified the largest TAM in human history.\"",
+      "published": "2026-05-20T23:02:49+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
     },
     {
       "id": "5ccbfb1771433d46cb809c63387db35ec5588351",
@@ -86,8 +338,8 @@
       "category": "tech"
     },
     {
-      "id": "071d5d74965f2cfadc939bebd8c8ebef57812e86",
-      "title": "xAI burned $6.4B last year. SpaceX’s IPO filing shows why the spending is far from over",
+      "id": "4cffc6c450a332138ed9bf2feac2ff00e9a666c9",
+      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
       "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
       "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
       "published": "2026-05-20T22:26:08+00:00",
@@ -230,10 +482,10 @@
       "category": "tech"
     },
     {
-      "id": "bc7f9b7a1ff8ef651d6cec9f79c0c6ce0eca3930",
-      "title": "SpaceX files publicly for its IPO, choosing Nasdaq to make its debut under the symbol SPCX (Bloomberg)",
+      "id": "ddf94b7972357fd9451895e3b382561bc1348652",
+      "title": "SpaceX files publicly for its IPO, choosing Nasdaq to make its debut under the symbol SPCX; Elon Musk's shares give him 85.1% of the voting power in the company (Bloomberg)",
       "link": "https://www.techmeme.com/260520/p45#a260520p45",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-05-20/musk-s-spacex-files-publicly-for-nasdaq-ipo-under-symbol-spcx\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260520/i45.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260520/p45#a260520p45\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-05-20/musk-s-spacex-files-publicly-for-nasdaq-ipo-under-symbol-spcx\">SpaceX files publicly for its IPO, choosing Nasdaq to make its debut under the symbol SPCX</a></b></span>&nbsp; &mdash;&nbsp; SpaceX Files for IPO on Nasdaq Under SPCX Symbol&nbsp; &mdash;&nbsp; Video Player is loading.&nbsp; &mdash;&nbsp; Unmute&nbsp; &mdash;&nbsp; Current Time 0:01 Loaded: 26.69% Playback Rate&nbsp; &mdash; captions off, selected&nbsp; &mdash; English</p>",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-05-20/musk-s-spacex-files-publicly-for-nasdaq-ipo-under-symbol-spcx\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260520/i45.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260520/p45#a260520p45\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-05-20/musk-s-spacex-files-publicly-for-nasdaq-ipo-under-symbol-spcx\">SpaceX files publicly for its IPO, choosing Nasdaq to make its debut under the symbol SPCX; Elon Musk's shares give him 85.1% of the voting power in the company</a></b></span>&nbsp; &mdash;&nbsp; SpaceX filed publicly for what stands to be the largest-ever initial public offering, revealing billions in losses &hellip; </p>",
       "published": "2026-05-20T20:56:40+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -275,22 +527,13 @@
       "category": "tech"
     },
     {
-      "id": "6fbca8d740036e3572d4989d37e3214a1d4875c8",
-      "title": "Nvidia reports Q1 revenue up 85% YoY to $81.6B, Data Center revenue up 92% to $75.2B, and announces an $80B additional share repurchase authorization (Nvidia Newsroom)",
+      "id": "9cfc49ef9b6a8edf5ad24a072459dff9afbe42d1",
+      "title": "Nvidia reports Q1 revenue up 85% YoY to $81.62B, vs. $78.86B est., Data Center revenue up 92% to $75.2B, and announces an $80B share repurchase program (Nvidia Newsroom)",
       "link": "https://www.techmeme.com/260520/p44#a260520p44",
-      "summary": "<a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260520/i44.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260520/p44#a260520p44\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://nvidianews.nvidia.com/\">Nvidia Newsroom</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027\">Nvidia reports Q1 revenue up 85% YoY to $81.6B, Data Center revenue up 92% to $75.2B, and announces an $80B additional share repurchase authorization</a></b></span>&nbsp; &mdash;&nbsp; - Record revenue of $81.6 billion, up 85% from a year ago&nbsp; &mdash; Record Data Center revenue of $75.2 billion, up 92% from a year ago</p>",
+      "summary": "<a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260520/i44.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260520/p44#a260520p44\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://nvidianews.nvidia.com/\">Nvidia Newsroom</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027\">Nvidia reports Q1 revenue up 85% YoY to $81.62B, vs. $78.86B est., Data Center revenue up 92% to $75.2B, and announces an $80B share repurchase program</a></b></span>&nbsp; &mdash;&nbsp; - Record revenue of $81.6 billion, up 85% from a year ago&nbsp; &mdash; Record Data Center revenue of $75.2 billion, up 92% from a year ago</p>",
       "published": "2026-05-20T20:27:35+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "5df349c51257a692d2afae1a67e72059a33b20be",
-      "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
-      "link": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
-      "summary": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
-      "published": "2026-05-20T20:17:51+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "d607235cda6780c321731a08775f9be07bf5e5aa",
@@ -302,19 +545,10 @@
       "category": "deals"
     },
     {
-      "id": "2ebb5a331141c7a89f2f8f4d877e2dbfe1685612",
-      "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
-      "link": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Castro and five others are charged with conspiracy to kill US nationals, murder, and destruction of aircraft",
-      "published": "2026-05-20T20:11:02+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "7e3ddde23289615c7ba0965eb20a8c3cdc2dfbb7",
       "title": "OpenAI says an internal general-purpose reasoning model has disproved the Erdős unit distance conjecture, a central problem in discrete geometry posed in 1946 (OpenAI)",
       "link": "https://www.techmeme.com/260520/p43#a260520p43",
-      "summary": "<a href=\"https://openai.com/index/model-disproves-discrete-geometry-conjecture/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260520/i43.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260520/p43#a260520p43\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://openai.com/\">OpenAI</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://openai.com/index/model-disproves-discrete-geometry-conjecture/\">OpenAI says an internal general-purpose reasoning model has disproved the Erd&amp;odblacs unit distance conjecture, a central problem in discrete geometry posed in 1946</a></b></span>&nbsp; &mdash;&nbsp; Read the proof(opens in a new window)Read the companion remarks(opens in a new window)&nbsp; &mdash;&nbsp; Loading...</p>",
+      "summary": "<a href=\"https://openai.com/index/model-disproves-discrete-geometry-conjecture/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260520/i43.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260520/p43#a260520p43\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://openai.com/\">OpenAI</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://openai.com/index/model-disproves-discrete-geometry-conjecture/\">OpenAI says an internal general-purpose reasoning model has disproved the Erd&amp;odblacs unit distance conjecture, a central problem in discrete geometry posed in 1946</a></b></span>&nbsp; &mdash;&nbsp; For nearly 80 years, mathematicians have studied a deceptively simple question: if you place nnn points in the plane &hellip; </p>",
       "published": "2026-05-20T20:05:02+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -563,15 +797,6 @@
       "category": "tech"
     },
     {
-      "id": "7230b0311d6ae99bdf0668ddec6f77f3ecd6dcf1",
-      "title": "Airbnb says it is adding luggage storage, airport pickups, car rentals, grocery delivery, and thousands of boutique and independent hotels to its platform (Jacob Passy/Wall Street Journal)",
-      "link": "https://www.techmeme.com/260520/p40#a260520p40",
-      "summary": "<a href=\"https://www.wsj.com/business/hospitality/how-airbnb-ceo-brian-chesky-learned-to-stop-hating-hotels-89f4a281\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260520/i40.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260520/p40#a260520p40\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jacob Passy / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/business/hospitality/how-airbnb-ceo-brian-chesky-learned-to-stop-hating-hotels-89f4a281\">Airbnb says it is adding luggage storage, airport pickups, car rentals, grocery delivery, and thousands of boutique and independent hotels to its platform</a></b></span>&nbsp; &mdash;&nbsp; Platform ramps up hotel-booking options, car rentals and AI-enabled features, expecting World Cup to drive record use</p>",
-      "published": "2026-05-20T17:30:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "3d53de66b62096dbf1237db9ecb280e20f96d149",
       "title": "Best Buy Memorial Day sale: Up to 40% off Bluetooth speakers from Beats, JBL, Marshall, more with deals from just $15",
       "link": "https://9to5toys.com/2026/05/20/best-buy-memorial-day-sale-up-to-40-off-bluetooth-speakers/",
@@ -662,15 +887,6 @@
       "category": "world"
     },
     {
-      "id": "b72e9db2d04bda17723ed6bb1176f27b2e92c023",
-      "title": "Sources: OpenAI is preparing to file confidentially for an IPO as early as Friday; the company plans to be ready to go public as early as September (Wall Street Journal)",
-      "link": "https://www.techmeme.com/260520/p39#a260520p39",
-      "summary": "<a href=\"https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5?st=6pJKH3&amp;reflink=article_copyURL_share\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260520/i39.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260520/p39#a260520p39\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5?st=6pJKH3&amp;reflink=article_copyURL_share\">Sources: OpenAI is preparing to file confidentially for an IPO as early as Friday; the company plans to be ready to go public as early as September</a></b></span>&nbsp; &mdash;&nbsp; The artificial-intelligence giant is working with bankers at Goldman Sachs and Morgan Stanley&nbsp; &mdash;&nbsp; ChatGPT-maker OpenAI has been working &hellip; </p>",
-      "published": "2026-05-20T16:26:23+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "6e2283f9891a628e94fefaa2d5facc76434224cf",
       "title": "Nomad debuts gorgeous new Olde Dublin leather wallets and card carriers to join the Find My model",
       "link": "https://9to5toys.com/2026/05/20/nomad-debuts-new-olde-dublin-leather-wallets/",
@@ -678,33 +894,6 @@
       "published": "2026-05-20T16:22:02+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "e81a4b2c06698cc696d3fccbef096fb7960e0269",
-      "title": "Ubisoft reports a record operating loss of $1.40B for the year to March and says sales in 2026-27 will fall by about 8% to 9%; UBI falls 6%+ (Reuters)",
-      "link": "https://www.techmeme.com/260520/p38#a260520p38",
-      "summary": "<a href=\"https://www.reuters.com/world/china/ubisoft-flags-more-losses-after-record-hit-2026-05-20/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260520/i38.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260520/p38#a260520p38\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/china/ubisoft-flags-more-losses-after-record-hit-2026-05-20/\">Ubisoft reports a record operating loss of $1.40B for the year to March and says sales in 2026-27 will fall by about 8% to 9%; UBI falls 6%+</a></b></span>&nbsp; &mdash;&nbsp; French videogame publisher Ubisoft warned on Wednesday of another year of losses and lower sales after a record annual operating loss, deepening pressure on the company as it restructures.</p>",
-      "published": "2026-05-20T16:20:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "ee634569e407dac21183183144c3497864fb851c",
-      "title": "Internal memo: Xbox hires game industry analyst Matthew Ball as chief strategy officer, and names Scott Van Vliet, who led Azure AI infrastructure, as Xbox CTO (Tom Warren/The Verge)",
-      "link": "https://www.techmeme.com/260520/p37#a260520p37",
-      "summary": "<a href=\"https://www.theverge.com/report/934687/xbox-matthew-ball-strategy-officer-hire?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkdHWWhBb1dCd2ciLCJwIjoiL3JlcG9ydC85MzQ2ODcveGJveC1tYXR0aGV3LWJhbGwtc3RyYXRlZ3ktb2ZmaWNlci1oaXJlIiwiZXhwIjoxNzc5NzI1MTk4LCJpYXQiOjE3NzkyOTMxOTh9.kSFVS3D-ZFX9QDJdw_kgkXPIZqarlNLRgdw-Fyb-kl0&amp;utm_medium=gift-link\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260520/i37.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260520/p37#a260520p37\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Tom Warren / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/report/934687/xbox-matthew-ball-strategy-officer-hire?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkdHWWhBb1dCd2ciLCJwIjoiL3JlcG9ydC85MzQ2ODcveGJveC1tYXR0aGV3LWJhbGwtc3RyYXRlZ3ktb2ZmaWNlci1oaXJlIiwiZXhwIjoxNzc5NzI1MTk4LCJpYXQiOjE3NzkyOTMxOTh9.kSFVS3D-ZFX9QDJdw_kgkXPIZqarlNLRgdw-Fyb-kl0&amp;utm_medium=gift-link\">Internal memo: Xbox hires game industry analyst Matthew Ball as chief strategy officer, and names Scott Van Vliet, who led Azure AI infrastructure, as Xbox CTO</a></b></span>&nbsp; &mdash;&nbsp; The second major Xbox leadership changes this month. &hellip; Microsoft has recruited game industry analyst Matthew Ball as Xbox chief strategy officer.</p>",
-      "published": "2026-05-20T16:15:03+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "233282d1fe6db031338ffe546ccdd613dcc9d4a7",
-      "title": "Internal memo: Mark Zuckerberg told employees that he does not expect more company-wide layoffs this year (Katie Paul/Reuters)",
-      "link": "https://www.techmeme.com/260520/p36#a260520p36",
-      "summary": "<a href=\"https://www.reuters.com/world/meta-ceo-tells-employees-he-does-not-expect-more-company-wide-layoffs-this-year-2026-05-20/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260520/i36.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260520/p36#a260520p36\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Katie Paul / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/meta-ceo-tells-employees-he-does-not-expect-more-company-wide-layoffs-this-year-2026-05-20/\">Internal memo: Mark Zuckerberg told employees that he does not expect more company-wide layoffs this year</a></b></span>&nbsp; &mdash;&nbsp; Meta (META.O) CEO Mark Zuckerberg told employees in an internal memo on Wednesday that he does not expect more company-wide layoffs this year, according to a copy of the memo seen by Reuters.</p>",
-      "published": "2026-05-20T16:10:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "e61323639483c78be2a3a9726cca187ad2bbd7b8",
@@ -732,15 +921,6 @@
       "published": "2026-05-20T15:59:41+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "f0ec2b1aa02a4a80ed7accaabf10d2968ed7be16",
-      "title": "An interview with Match Group CEO Spencer Rascoff about plans for Tinder, including a redesign, AI features, live events, and group dating to win over Gen Z (Samantha Kelly/Bloomberg)",
-      "link": "https://www.techmeme.com/260520/p35#a260520p35",
-      "summary": "<a href=\"https://www.bloomberg.com/news/features/2026-05-20/tinder-launches-live-events-ai-features-and-group-dating-to-attract-gen-z\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260520/i35.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260520/p35#a260520p35\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Samantha Kelly / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/features/2026-05-20/tinder-launches-live-events-ai-features-and-group-dating-to-attract-gen-z\">An interview with Match Group CEO Spencer Rascoff about plans for Tinder, including a redesign, AI features, live events, and group dating to win over Gen Z</a></b></span>&nbsp; &mdash;&nbsp; The dating app's turnaround bets on live events, group dating and an AI-heavy redesign.&nbsp; &mdash;&nbsp; At a pickleball venue near Santa Monica State beach &hellip; </p>",
-      "published": "2026-05-20T15:50:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "5fb09eb69c36693315acd3998624cf200267786c",
@@ -797,15 +977,6 @@
       "category": "tech"
     },
     {
-      "id": "3d302c19e567103b9f41bfa35939f7c08eda0baf",
-      "title": "Ebola vaccine could take nine months as death toll rises further, WHO warns",
-      "link": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
-      "summary": "In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases.",
-      "published": "2026-05-20T15:18:12+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "de2868eba9edf03a5d603db7be89b1baf7fee2fa",
       "title": "Intuit to lay off over 3,000 employees to refocus on AI",
       "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
@@ -822,24 +993,6 @@
       "published": "2026-05-20T15:09:14+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "e50ef6186a46ce7ec23d4172d3a02730f0bc3eec",
-      "title": "AI search startups are blowing up",
-      "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
-      "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
-      "published": "2026-05-20T15:04:45+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "15b0f3b307fe3cb33968f78ae7dc972b3c8cf949",
-      "title": "Stability AI releases a new audio model that can create 6-minute songs",
-      "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
-      "published": "2026-05-20T15:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "679c47e2c00c25598b5d34f102bcc4847f768021",
@@ -896,60 +1049,6 @@
       "category": "tech"
     },
     {
-      "id": "65838e63386da743f3b6ee39a3d2d8f48e6072e2",
-      "title": "SEAS the day! Philippines phenom Eala and Indonesia’s Tjen spark South-east Asian tennis boom",
-      "link": "https://www.malaymail.com/news/sports/2026/05/20/seas-the-day-philippines-phenom-eala-and-indonesias-tjen-spark-south-east-asian-tennis-boom/220648",
-      "summary": "PARIS, May 20 &mdash; Alexandra Eala and Janice Tjen have taken different routes to the women&rsquo;s top 40, but both b...",
-      "published": "2026-05-20T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "72452fb96d0f4a8bbf4c5bb5c1a1a69ced2e43d8",
-      "title": "Hantavirus and Ebola outbreaks expose gaps in global pandemic preparedness, expert says",
-      "link": "https://www.malaymail.com/news/world/2026/05/20/hantavirus-and-ebola-outbreaks-expose-gaps-in-global-pandemic-preparedness-expert-says/220672",
-      "summary": "GENEVA, May 20 &mdash; The deadly hantavirus and Ebola outbreaks show that while the response to declared public health...",
-      "published": "2026-05-20T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "056835bfd50cd4a93e0a74ac4cbca1ae5cb3bbc2",
-      "title": "As conflict deepens in Myanmar’s Rakhine state, cooks fight to keep its food traditions alive",
-      "link": "https://www.malaymail.com/news/life/2026/05/20/as-conflict-deepens-in-myanmars-rakhine-state-cooks-fight-to-keep-its-food-traditions-alive/220669",
-      "summary": "YANGON, May 20 &mdash; War has besieged diets in western Myanmar, but chefs smuggle out flavours of local cuisine: delic...",
-      "published": "2026-05-20T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "67c7d944003efba515e5535d0225f38a6e24a1fd",
-      "title": "Wanted: One adventurous ‘good boy’ to save Australia’s koalas",
-      "link": "https://www.malaymail.com/news/life/2026/05/20/wanted-one-adventurous-good-boy-to-save-australias-koalas/220665",
-      "summary": "SYDNEY, May 20 &mdash; An Australian animal welfare group is seeking a heroic dog with an appetite for adventure for a f...",
-      "published": "2026-05-20T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "62cb5057a1c3f087d1d52400729a0db69b5978f8",
-      "title": "Rockets, robots and rage-posts: Mapping Elon Musk’s sprawling empire as SpaceX eyes blockbuster IPO",
-      "link": "https://www.malaymail.com/news/money/2026/05/20/rockets-robots-and-rage-posts-mapping-elon-musks-sprawling-empire-as-spacex-eyes-blockbuster-ipo/220652",
-      "summary": "NEW YORK, May 20 &mdash; Elon Musk defines himself as an engineer trying to save humanity, while his critics call him a...",
-      "published": "2026-05-20T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "b96161189eea2a065232c2d60d95403de067af05",
-      "title": "Cubans want change, but not at gunpoint",
-      "link": "https://www.malaymail.com/news/world/2026/05/20/cubans-want-change-but-not-at-gunpoint/220662",
-      "summary": "HAVANA, May 20 &mdash; Arminda de la Cruz has a mechanism for coping with both the endless blackouts in Cuba and the loo...",
-      "published": "2026-05-20T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "ce43797bce25b95922b32066d928bfbba57ea114",
       "title": "Premier League+ To Launch In Singapore With A 24-Hour Pass",
       "link": "https://www.lowyat.net/2026/393308/premier-league-singapore-24-hour-pass/",
@@ -959,33 +1058,6 @@
       "category": "deals"
     },
     {
-      "id": "e71f6b1714f8e124de76772a1f602d14d0427cdd",
-      "title": "Speaker confirms Rafizi and Nik Nazmi have resigned as MPs, EC informed of Pandan and Setiawangsa vacancies",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/20/speaker-confirms-rafizi-and-nik-nazmi-have-resigned-as-mps-ec-informed-of-pandan-and-setiawangsa-vacancies/220749",
-      "summary": "KUALA LUMPUR, May 20 &mdash; Dewan Rakyat Speaker Tan Sri Johari Abdul has confirmed receiving resignation notices from...",
-      "published": "2026-05-20T12:17:21+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "8c63b7029e46f650e36b3bdb373241ec98315b7a",
-      "title": "MAG expects jet fuel prices to stay at US$120-US$130 per barrel amid geopolitical tensions",
-      "link": "https://www.malaymail.com/news/money/2026/05/20/mag-expects-jet-fuel-prices-to-stay-at-us120-us130-per-barrel-amid-geopolitical-tensions/220748",
-      "summary": "KUALA LUMPUR, May 20 &mdash; Malaysia Aviation Group (MAG) expects jet fuel prices to hover between US$120 and US$130 pe...",
-      "published": "2026-05-20T12:05:26+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "9f5244f1b3d07fd2e209ad5d3fb9ac084b935011",
-      "title": "Spanish director Pedro Almodovar calls Trump, Netanyahu and Putin ‘monsters’ at Cannes Film Festival",
-      "link": "https://www.malaymail.com/news/world/2026/05/20/spanish-director-pedro-almodovar-calls-trump-netanyahu-and-putin-monsters-at-cannes-film-festival/220747",
-      "summary": "&nbsp;&nbsp;CANNES, May 20 &mdash; Spanish filmmaker Pedro Almodovar called Donald Trump, Benjamin Netanyahu and Vladimi...",
-      "published": "2026-05-20T11:58:27+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "378080a7fcfd6ffb40e539575c7d1bd88b3a2ca1",
       "title": "Xi basks in spotlight as he hosts Putin days after Trump",
       "link": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
@@ -993,42 +1065,6 @@
       "published": "2026-05-20T11:42:44+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "75cdc188db1df8fc2470c85b32ba0736e1bf1121",
-      "title": "Kiehl’s, Grab Malaysia set record with 100 female riders convoy to champion sun care awareness",
-      "link": "https://www.malaymail.com/news/life/2026/05/20/kiehls-grab-malaysia-set-record-with-100-female-riders-convoy-to-champion-sun-care-awareness/220746",
-      "summary": "KUALA LUMPUR, May 20 &mdash; Skincare brand Kiehl&rsquo;s and ride-hailing platform Grab Malaysia have teamed up to cele...",
-      "published": "2026-05-20T11:31:17+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "f7b869a7d89c4bfd2c8f8b68e1bd05e3a90018f8",
-      "title": "Marks and Spencer forecasts return to profit growth after cyberattack hit annual earnings",
-      "link": "https://www.malaymail.com/news/money/2026/05/20/marks-and-spencer-forecasts-return-to-profit-growth-after-cyberattack-hit-annual-earnings/220745",
-      "summary": "&nbsp;LONDON, May 20 &mdash; British clothes-to-food retailer Marks and Spencer forecast Wednesday a return to profit gr...",
-      "published": "2026-05-20T11:22:51+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "c952d0b7ae6cbb0913a921df7f026e47118bb6d1",
-      "title": "India warns of ‘extreme’ heatwave risk as temperatures soar amid looming El Nino conditions",
-      "link": "https://www.malaymail.com/news/world/2026/05/20/india-warns-of-extreme-heatwave-risk-as-temperatures-soar-amid-looming-el-nino-conditions/220744",
-      "summary": "&nbsp;NEW DEHLI, May 20 &mdash; India&rsquo;s weather agency warned on Wednesday of the risk of upcoming &ldquo;extreme&...",
-      "published": "2026-05-20T11:20:20+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "11e7950f3a6c896722b40648f2d084b370e34747",
-      "title": "Federal Court affirms 30-year sentence for ex-Rela member who shot dead friend at Terengganu temple",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/20/federal-court-affirms-30-year-sentence-for-ex-rela-member-who-shot-dead-friend-at-terengganu-temple/220743",
-      "summary": "PUTRAJAYA, May 20 &mdash; The Federal Court today upheld the 30-year jail sentence of a former Rela member for shooting...",
-      "published": "2026-05-20T11:11:43+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "d3737e99a3657dd5ace2e17ce62e571fa35ef095",
@@ -1175,15 +1211,6 @@
       "category": "deals"
     },
     {
-      "id": "1b6d4758176979069661d845891c32e0415b6dba",
-      "title": "Intel Unveils Project Firefly With Aim To Build Cheaper Wildcat Lake Laptops",
-      "link": "https://www.lowyat.net/2026/393215/intel-unveils-project-firefly-with-aim-to-build-cheaper-wildcat-lake-laptops/",
-      "summary": "<p>Intel recently announced an initiative called Project Firefly during a Core Series 3 launch event in China. According to multiple reports, the initiative is a direct response to the critical and successful launch of the Apple MacBook Neo. The idea behind Project Firefly is for Intel to leverage China&#8217;s steady and mature mobile phone supply [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/393215/intel-unveils-project-firefly-with-aim-to-build-cheaper-wildcat-lake-laptops/\">Intel Unveils Project Firefly With Aim To Build Cheaper Wildcat Lake Laptops</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-05-20T05:34:17+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
       "id": "3fe79bc33b4cc02227e01124bfaf7f62caece055",
       "title": "Insta360 Mic Pro",
       "link": "https://www.producthunt.com/products/insta-360",
@@ -1274,15 +1301,6 @@
       "category": "tech"
     },
     {
-      "id": "830e4d0d07768f5b6a97850a101a04eceb5d78e0",
-      "title": "\"I'll buy 10 of those\"—NASA science chief yearns for mass-produced satellites",
-      "link": "https://arstechnica.com/space/2026/05/ill-buy-10-of-those-nasa-science-chief-yearns-for-mass-produced-satellites/",
-      "summary": "\"How in the hell do I get more science into space? That is my goal.\"",
-      "published": "2026-05-19T20:43:31+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
       "id": "6e6af378a5379afcfde1ef7a03f3a695f0752bc7",
       "title": "Runtime",
       "link": "https://www.producthunt.com/products/runtime",
@@ -1301,15 +1319,6 @@
       "category": "events"
     },
     {
-      "id": "7581a5da9d9bd0916ce223475d2a63b833b78b8b",
-      "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
-      "link": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The health minister has acknowledged that medics are playing catch-up with the virus after being slow to detect it.",
-      "published": "2026-05-19T18:05:26+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "2f582b09fdaf626f5d89b6b196632f5c6b60def5",
       "title": "Thailand cuts visa-free stay period for more than 90 countries including UK",
       "link": "https://www.bbc.com/news/articles/c78q3qjqnn5o?at_medium=RSS&at_campaign=rss",
@@ -1317,6 +1326,15 @@
       "published": "2026-05-19T16:34:21+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "1e48b532f339121a1b7b146f904a4c1793557587",
+      "title": "Tether",
+      "link": "https://www.producthunt.com/products/tether-10",
+      "summary": "<p>\n            The presence who comes to life in your messages\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tether-10?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1150909?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-19T15:23:27+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "84948f1ae1ae6959c28fed8ab51b23ec22c8f354",
@@ -1382,29 +1400,20 @@
       "category": "events"
     },
     {
-      "id": "f9165b00bea5524a291f1ef33b463b013ff218c1",
-      "title": "Multi-Claude",
-      "link": "https://www.producthunt.com/products/multi-claude",
-      "summary": "<p>\n            Run multiple Claude accounts side by side on your Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/multi-claude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1150372?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-19T03:49:40+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "50564f063d77afb0770b002a9de817c43d439762",
-      "title": "Eastel Prepaid now available via TNG eWallet, offers 100GB 5G data from RM25/month",
-      "link": "https://soyacincau.com/2026/05/19/eastel-prepaid-tng-ewallet-100gb-rm25-cashback-promo/",
-      "summary": "TNG Digital has officially integrated Eastel prepaid services into the TNG eWallet, allowing users to sign up for mobile plans, port in their number, manage plans and reload directly within the app. Eastel by Anchor Communications Sdn Bhd, is one of Malaysia&#8217;s latest Mobile Virtual Network Operator (MVNO) which taps on U Mobile&#8217;s 5G and [&#8230;]",
-      "published": "2026-05-19T03:19:29+00:00",
-      "source": "SoyaCincau",
-      "category": "malaysia"
-    },
-    {
       "id": "342de9e09f662f5ec277ef839733a1b279acaeab",
       "title": "Skilled",
       "link": "https://www.producthunt.com/products/skilled-2",
       "summary": "<p>\n            Dashboard to find agent skills you no longer need\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/skilled-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1150222?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-18T21:23:04+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "fbea45e8d17e7e5e3c1e6eb8afeba09590a9e085",
+      "title": "Emdash",
+      "link": "https://www.producthunt.com/products/emdash",
+      "summary": "<p>\n            One app. Every coding agent. Open-source.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/emdash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1150124?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-18T18:26:05+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1423,15 +1432,6 @@
       "link": "https://www.producthunt.com/products/type-switch-3-0-for-macos",
       "summary": "<p>\n            Instant language switching for multilingual Mac users\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/type-switch-3-0-for-macos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1149892?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-18T13:25:04+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "8271e93f45be0e4e948d5a774ad6996cac4551ca",
-      "title": "Chromtuner",
-      "link": "https://www.producthunt.com/products/chromtuner-chromatic-tuner-for-macos",
-      "summary": "<p>\n            A chromatic tuner for macOS. ±1¢ accuracy\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/chromtuner-chromatic-tuner-for-macos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1148546?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-16T18:09:36+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
