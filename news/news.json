@@ -1,26 +1,431 @@
 {
-  "generatedAt": "2026-05-22T11:40:06.274526+00:00",
+  "generatedAt": "2026-05-22T14:24:38.868168+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
-      "id": "27bf33866a779ad7a4d2bd72725205a2ef506f95",
-      "title": "Nato chief welcomes US sending 5,000 troops to Poland",
+      "id": "6c1432542fb9bf7b5bf922e107ecf9c278e2f63c",
+      "title": "Meta quietly launches a new Reddit-like app called Forum",
+      "link": "https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/",
+      "summary": "The company describes the app as a \"dedicated space built for deeper discussions, real answers and communities you care about.\"",
+      "published": "2026-05-22T14:24:16+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "7c9c4e4d798329c5bd25212c4d756d6ed86d6241",
+      "title": "Why would you disrespect your favorite artist with an AI remix?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
+      "summary": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC. Now, a new tool from Spotify will make them even easier to generate and [&#8230;]",
+      "published": "2026-05-22T14:20:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "a59091eac5a555db4e5ee250a1b52a7a830cd194",
+      "title": "Rubio tries to reassure Nato allies over US troop deployments",
       "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump's announcement on Thursday night came ahead of a meeting of Nato foreign ministers.",
-      "published": "2026-05-22T11:39:14+00:00",
+      "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
+      "published": "2026-05-22T14:18:14+00:00",
       "source": "BBC News",
       "category": "world"
     },
     {
-      "id": "887f581a6e0dd0c0c938b2510c26ba66128d5467",
-      "title": "Turkish opposition fights court ousting of leaders in ruling boosting Erdogan",
+      "id": "a6018a553480a19540895b55c4d6ad7e3c1f3958",
+      "title": "AI put \"synthetic quotes\" in his book. But this author wants to keep using it.",
+      "link": "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+      "summary": "Steven Rosenbaum explains how inaccurate quotes got into his book <em>The Future of Truth</em>.",
+      "published": "2026-05-22T14:05:56+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "6b992602e821c40e3f217c5c2568a4ce92856015",
+      "title": "LEGO is offering 2x Insiders Points + a GWP with purchases of these Legend of Zelda and Mario Kart sets for 10 days",
+      "link": "https://9to5toys.com/2026/05/22/lego-2x-insiders-points-gwp-with-legend-of-zelda-and-mario-kart-sets/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/LEGO-Legend-of-Zelda-and-Luigi-Mario-Kart-FI.jpg?quality=82&#038;strip=all&#038;w=1200\" /></div><p>We’ve had quite a bit of LEGO excitement in May since the May the 4th event ending at the beginning of the month, including new reveals, like the massive <a href=\"https://9to5toys.com/2026/05/12/lego-unveils-8278-piece-icons-lotr-minas-tirith-set-exclusive-gwp/\">Icons 11377 The Lord of the Rings: Minas Tirith</a> set, the <a href=\"https://9to5toys.com/2026/05/19/lego-display-worthy-disney-main-street-u-s-a-latest-set-reveal/\">Disney 43302 Main Street, U.S.A.</a> set, or the surprise <a href=\"https://9to5toys.com/2026/05/21/all-new-donkey-kong-lego-sets-on-the-way-after-teaser-hits-official-social-accounts/\">Donkey Kong teaser</a> that just dropped. Now, LEGO is giving gaming fans a 10-day window to score 2x Insiders Points on two popular sets, as well as a GWP set for the period. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/22/lego-2x-insiders-points-gwp-with-legend-of-zelda-and-mario-kart-sets/#more-1210659\">more…</a>",
+      "published": "2026-05-22T14:05:17+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "e21bbea33c0c57d2b710054b02f082eeaa2878e1",
+      "title": "Smart ring maker Oura files to go public",
+      "link": "https://techcrunch.com/2026/05/22/smart-ring-maker-oura-files-to-go-public/",
+      "summary": "The Finnish company said in September that it has sold 5.5 million smart rings to date.",
+      "published": "2026-05-22T14:03:35+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "c2f29b0b19a8fa56646e2335c4ac286096b5cf1f",
+      "title": "Tesla recalls thousands of Model Ys at risk of&#8230; missing a sticker",
+      "link": "https://www.theverge.com/transportation/936078/tesla-model-y-missing-sticker-recall",
+      "summary": "The National Highway Traffic Safety Administration (NHTSA) has issued a recall for 14,575 Model Y vehicles over an issue that Tesla can't fix with its usual software update: a missing label. According to the recall report, Model Ys made between November 17th, 2024 and April 21st, 2026 could be missing a weight certification sticker due [&#8230;]",
+      "published": "2026-05-22T14:03:29+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "a4a25df0091c8130b1dd5630b9168b5252c64ab5",
+      "title": "Boots Riley turns class struggle into comedy with I Love Boosters",
+      "link": "https://www.theverge.com/entertainment/935285/i-love-boosters-boots-riley-interview",
+      "summary": "Before Boots Riley became the writer / director / musician behind Sorry to Bother You and I'm a Virgo, he was a young community organizer fighting for social justice as part of the Progressive Labor Party. Riley has channeled his anti-establishment, pro-worker politics into every piece of art that he's made. But his belief that [&#8230;]",
+      "published": "2026-05-22T14:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "37ae88b00fd62e9bfed2ec3f78d287fb71a30f72",
+      "title": "Apple’s most affordable M5 MacBook Air returns to Amazon all-time lows at $150 off",
+      "link": "https://9to5toys.com/2026/05/22/apple-most-affordable-m5-macbook-air/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/03/MacBook-Air-M4-deals-clearance.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p><strong>Update 5/22:</strong> Amazon is now offering all colors on the base model 13-inch M5 MacBook Air back at all-time low pricing with <strong>$150 off</strong> the list price. </p>\n\n\n\n<p>Just after seeing Amazon deliver its new all-time low and the very best price we have tracked on the base model 15-inch M5 MacBook Air at $199 off, it is now starting to bring back the deals on the most affordable 13-inch model from $949 as well. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/22/apple-most-affordable-m5-macbook-air/#more-1210603\">more…</a>",
+      "published": "2026-05-22T14:00:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "5dd77a65e410127f7b4cd226069edb24a22b6b54",
+      "title": "Friday’s best iOS app deals and freebies: Balatro, Jenny LeClue, FROGBLOCK, more",
+      "link": "https://9to5toys.com/2026/05/22/friday-best-ios-app-deals-free-balatro/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/App-Store-May-22-2.webp?w=1600\" /></div><p>Friday’s lineup of the best iOS game and app deals is now ready to roll, including titles like Balatro, Jenny LeClue – Detectivu, Evoland 2, FROGBLOCK, Raiders of the North Sea, Root Board Game, and more. The Memorial Day deal on Air Pods Pro 3 is now live once again down at one of the best prices we have tracked to date alongside <a href=\"https://9to5toys.com/2026/05/22/apple-most-affordable-m5-macbook-air/\">Apple’s most affordable M5 MacBook Air</a> returning to Amazon all-time lows <a href=\"https://9to5toys.com/2026/05/22/apple-most-affordable-m5-macbook-air/\">at $150 off</a>, this <a href=\"https://9to5toys.com/2026/05/21/upgraded-32gb-m5-macbook-pro/\">upgraded 32GB M5 MacBook Pro at $300 off</a>, and this giant <a href=\"https://9to5toys.com/2026/05/21/amazon-clearance-m3-ipad-air/\">$400 price drop</a> on the 13-inch <a href=\"https://9to5toys.com/2026/05/21/amazon-clearance-m3-ipad-air/\">1TB M3 iPad Air</a>. All of the apps await below. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/22/friday-best-ios-app-deals-free-balatro/#more-1210660\">more…</a>",
+      "published": "2026-05-22T13:55:06+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "09388225906d0174901f8e76cc2aeb622406b04d",
+      "title": "Regularly $700 Cooler Master Sneaker X PC case with a 360mm liquid cooler and 850W PSU just plunged to $280 (60% off)",
+      "link": "https://9to5toys.com/2026/05/22/cooler-master-sneaker-x-pc-case-60-off/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/03/Cooler-Master-Sneaker-X.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Over at Woot, as part of its <a href=\"https://howl.link/631wnks3tfamm\">wider sale on PC components</a>, you can now find the updated version of <a href=\"https://howl.link/rdjbsh6uhzmde\">Cooler Master’s Sneaker X PC case going for <strong>$279.99 Prime shipped</strong></a> (a $6 delivery fee applies otherwise). Be sure to enter promo code <strong>TWENTYOFFPC</strong> during checkout to see the discounted price. This is the latest configuration of the case, complete with Cooler Master’s pre-installed 360mm Flux liquid cooler and an 850W V850 SFX Gold ATX 3.0 power supply, that typically sells for around $700 at Amazon. While we’ve seen this model pop up with some notable discounts at Woot in recent months, today’s offer marks the lowest price we’ve tracked yet at a massive 60% off. It’s still pricier than your average PC case, but it delivers a great overall value at this discounted price – especially considering it comes with a 360mm liquid cooler and 850W PSU right out of the box. Head below for more details.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/22/cooler-master-sneaker-x-pc-case-60-off/#more-1210658\">more…</a>",
+      "published": "2026-05-22T13:52:53+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "08043533f0d6a4b2fa318b250b215b32539348e7",
+      "title": "UK scientists developing Ebola vaccine that could be ready for trials in months",
+      "link": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet.",
+      "published": "2026-05-22T13:50:19+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "362597ec91fdbbd96b6686cc03395e9cbab0e779",
+      "title": "Audio generation app Huxe, founded by former NotebookLM developers, shuts down",
+      "link": "https://techcrunch.com/2026/05/22/audio-generation-app-huxe-founded-by-former-notebooklm-developers-shuts-down/",
+      "summary": "Huxe said that it has pulled its app from App Store and Play Store, and that it will stop working later this month",
+      "published": "2026-05-22T13:48:03+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "f9ca1f30011b86166e488a03b33fbaf91892b2bd",
+      "title": "The post-search Google era begins",
+      "link": "https://www.theverge.com/podcast/936037/google-io-2026-search-agents-vergecast",
+      "summary": "Google is many things, but most of the time it's a verb: It is what it is to search the internet for information. But what if it's an AI agent doing the searching? And it's doing it proactively? Without even telling you about it? In the world Google imagines, in which so much of the [&#8230;]",
+      "published": "2026-05-22T13:47:41+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "6da2d317111a1c25e684f3a7c7e8115c7a9b96a8",
+      "title": "Nota: AI Notes & Voice",
+      "link": "https://www.producthunt.com/products/nota-ai-notes-voice",
+      "summary": "<p>\n            Turn voice, scans, sketches, and text into notes with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nota-ai-notes-voice?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1153413?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-22T13:47:02+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "d582813f71088955ae5364165b1603856e6a23a9",
+      "title": "DC Handal deploys 50kW DC and 22kW AC charge points at Plaza Mont Kiara",
+      "link": "https://soyacincau.com/2026/05/22/dc-handal-ev-charger-plaza-mont-kiara-block-b-level-b1/",
+      "summary": "Visitors heading to Plaza Mont Kiara can now charge up their EV with the latest charger deployment by DC Handal. The Charge Point Operator (CPO) has installed both AC and DC charge points at the basement carpark of Block B, making this an ideal spot to top up your EV while you shop or dine [&#8230;]",
+      "published": "2026-05-22T13:39:44+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "03846cb3c9233e69ec41ac24193285703510ed94",
+      "title": "Zero2IPO Research: Chinese AI startups raised $16.2B in Q1 2026, up 185% YoY, led by top AI labs including Moonshot, Z.ai, and MiniMax (Karen Tian/South China Morning Post)",
+      "link": "https://www.techmeme.com/260522/p16#a260522p16",
+      "summary": "<a href=\"https://www.scmp.com/tech/tech-trends/article/3354502/chinas-ai-start-funding-triples-us16b-first-quarter-amid-bets-llms-robotics\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260522/i16.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260522/p16#a260522p16\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Karen Tian / <a href=\"http://www.scmp.com/\">South China Morning Post</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.scmp.com/tech/tech-trends/article/3354502/chinas-ai-start-funding-triples-us16b-first-quarter-amid-bets-llms-robotics\">Zero2IPO Research: Chinese AI startups raised $16.2B in Q1 2026, up 185% YoY, led by top AI labs including Moonshot, Z.ai, and MiniMax</a></b></span>&nbsp; &mdash;&nbsp; Funding for China's artificial-intelligence-related start-ups jumped nearly threefold year on year in the first quarter, as investors poured capital &hellip; </p>",
+      "published": "2026-05-22T13:35:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "912ea3893f97c6700ba347659c4296b235608ae6",
+      "title": "Friday Switch 1/2 game deals: Star Fox, Kirby Air Riders, Splatoon Raiders, Mario, more",
+      "link": "https://9to5toys.com/2026/05/22/friday-switch-game-deals-star-fox-kirby-air-riders/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/Friday-Switch-game-deals-May.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>We are wrapping up the work week with a load of Switch game deals, alongside the ongoing offer on the new Nintendo Switch 2: Choose Your Game Bundle and the pre-order discounts on some upcoming Switch 2 releases: Star Fox Switch 2 down at <strong>$50</strong> and Splatoon Raiders at $50. We also spotted a relatively rare offer on<strong> </strong><a href=\"https://howl.link/rut44gpv8qqe8\">Kirby Air Riders down at <strong>$59.99 Prime shipped</strong></a> (regularly $70 and rarely discounted, it was lower yesterday for about 10 minutes as part of a flash deal but not very many folks had a shot at that one). Down below you’ll also find some deals on loads of Mario games and more. </p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Star Fox Switch 2 $50 (Reg. $60) | Amazon</li>\n\n\n\n<li>Star Fox Switch 2 <a href=\"https://howl.link/3m5kdoai77vo7\"><strong>$50</strong> (Reg. $60)</a> | Walmart</li>\n\n\n\n<li>Splatoon Raiders $50 (Reg. $60)</li>\n</ul>\n\n\n\n<div class=\"wp-block-media-text is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img alt=\"\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/Nintendo-Switch-2-Choose-Your-Game-Bundle.jpg?quality=82&amp;strip=all&amp;w=1600\" /></figure><div class=\"wp-block-media-text__content\">\n<p></p>\n\n\n\n<p><a href=\"https://9to5toys.com/2026/05/19/new-nintendo-switch-2-choose-your-game-console-bundle-live/\">New Nintendo Switch 2: Choose Your Game console bundle deal now available for purchase</a></p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 10px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/22/friday-switch-game-deals-star-fox-kirby-air-riders/#more-1210653\">more…</a>",
+      "published": "2026-05-22T13:16:39+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "ad426ebaca05e74085beffc410b171b3f8d6b29c",
+      "title": "Score a 27-inch QHD 180Hz Odyssey G5 gaming monitor for your battlestation at $200 this Memorial Day",
+      "link": "https://9to5toys.com/2026/05/22/27-inch-qhd-180hz-odyssey-g5-gaming-monitor-200-memorial-day/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/Samsung-Odyssey-G50F-gaming-monitor.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>As part of its ongoing Memorial Day sale, Amazon is offering Samsung’s latest Odyssey G5 (G50F) QHD gaming monitor for <strong>$199.99 shipped</strong>. This is one of the newer Odyssey gaming displays that hit the scene towards the end of last year, carrying a $280 price tag, as one of the more affordable displays. Today’s offer knocks $80 off its regular price and drops it $25 below the previous all-time low it briefly hit last month. It’s not often we see an Odyssey monitor dip this low, making it a great budget-friendly pick right now for anyone looking to upgrade their battlestation. Head below for more details.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/22/27-inch-qhd-180hz-odyssey-g5-gaming-monitor-200-memorial-day/#more-1210645\">more…</a>",
+      "published": "2026-05-22T13:02:27+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "259ff4dc2cc25a8e156e83c98802f098a04c8246",
+      "title": "La Liga finale: Bernabeu farewells, relegation drama, Euro chase, World Cup worries and battle for third",
+      "link": "https://www.malaymail.com/news/sports/2026/05/22/la-liga-finale-bernabeu-farewells-relegation-drama-euro-chase-world-cup-worries-and-battle-for-third/221006",
+      "summary": "BARCELONA, May 22 &mdash; La Liga draws to a close this weekend with several matters still to be resolved, even though H...",
+      "published": "2026-05-22T13:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "dc7f231966d0a6458045d243fa8a47484cf38660",
+      "title": "‘We’re going to carry on’: Battered Gaza flotilla activists vow return after violent interception",
+      "link": "https://www.malaymail.com/news/world/2026/05/22/were-going-to-carry-on-battered-gaza-flotilla-activists-vow-return-after-violent-interception/220996",
+      "summary": "ISTANBUL, May 22 &mdash; Julien Cabral has just completed his first voyage with the &ldquo;Flotilla for Gaza&rdquo;. One...",
+      "published": "2026-05-22T13:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "0a53b9c47e5b31efc6cd794749a8309614b3159b",
+      "title": "The Boys limped through its last season, but made up for it with the finale",
+      "link": "https://www.theverge.com/entertainment/935482/the-boys-finale-review",
+      "summary": "It's hard existing in a world seemingly designed for the undeservingly powerful and painfully boring few. They have been gifted what many of us only dream of: the ability to effectively do whatever they like, free from everyday concerns like money, housing, and health. But instead of living in quiet serenity, many choose to use [&#8230;]",
+      "published": "2026-05-22T13:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "d83b67e31693984dd553d0136d7af24db24cfca7",
+      "title": "If I could only have one laptop for work and gaming, I&#8217;d get this one",
+      "link": "https://www.theverge.com/tech/935898/asus-rog-zephyrus-g14-2026-intel-nvidia-review",
+      "summary": "I've loved the Asus ROG Zephyrus G14 since it launched in 2020. I bought one for my wife after reading about how awesome it was on a little site called The Verge dot com. Since then, the G14 has gotten some facelifts, chip bumps, an occasional special edition, a full redesign, and a 16-inch sibling [&#8230;]",
+      "published": "2026-05-22T13:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "d0bc1d9e57f3673f5dd642ee08a69021c3a2d688",
+      "title": "All‑Malaysian semi‑final clash ensures home pair in Masters men’s doubles final",
+      "link": "https://www.malaymail.com/news/sports/2026/05/22/allmalaysian-semifinal-clash-ensures-home-pair-in-masters-mens-doubles-final/221041",
+      "summary": "KUALA LUMPUR, May 22 &mdash; Malaysia are guaranteed a representative in the men&rsquo;s doubles final of the Malaysia M...",
+      "published": "2026-05-22T12:56:59+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "597af182027ee8b9878ddef010f31c86bc6efc79",
+      "title": "Twelve South Memorial Day deals now live from $35: PowerBug MagSafe wall charger, AirFly transmitter, more",
+      "link": "https://9to5toys.com/2026/05/22/twelve-south-memorial-day-deals-powerbug-magsafe/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/Twelve-South-Memeorial-Day-2026.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Amazon’s 2026 Memorial Day Sale is now flying and we are taking a look at the Twelve South gear seeing price drops this year. From its tried, tested, and true MagSafe charing stands through to its handy AirFly Pro transmitters (beam wireless audio to your AirPods from wired only sources), and even its relatively new PowerBug Qi2 wireless wall charger, there are deals starting from $34 Prime shipped now up for grabs down below. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/22/twelve-south-memorial-day-deals-powerbug-magsafe/#more-1210644\">more…</a>",
+      "published": "2026-05-22T12:51:39+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "5c6515f1bbc3f51aad6903e420d5d9b7485b394c",
+      "title": "EVPower deploys 50kW DC and 22kW AC charge points at IJN, now 50% off for limited time",
+      "link": "https://soyacincau.com/2026/05/22/evpower-ijn-kuala-lumpur-ac-dc-ev-charger/",
+      "summary": "EVPower has turned on a total of 4x EV Charge Points at Institut Jantung Negara (IJN) along Jalan Tun Razak in Kuala Lumpur. As part of their launch promo, they are offering a limited-time 50% discount for this location and EV owners can charge from as low as RM0.50 per kWh. The EV chargers are [&#8230;]",
+      "published": "2026-05-22T12:49:21+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "007b9984f416dab3711549e680b9e176e8c56fc3",
+      "title": "Memo: Yusuf Mehdi, a 35-year Microsoft veteran who has been its commercial chief marketing officer since 2023, will leave the company after the next fiscal year (Ashley Stewart/Business Insider)",
+      "link": "https://www.techmeme.com/260522/p15#a260522p15",
+      "summary": "<a href=\"https://www.businessinsider.com/microsoft-yusuf-mehdi-plans-departure-after-role-transition-2026-5\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260522/i15.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260522/p15#a260522p15\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ashley Stewart / <a href=\"https://www.businessinsider.com/\">Business Insider</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.businessinsider.com/microsoft-yusuf-mehdi-plans-departure-after-role-transition-2026-5\">Memo: Yusuf Mehdi, a 35-year Microsoft veteran who has been its commercial chief marketing officer since 2023, will leave the company after the next fiscal year</a></b></span>&nbsp; &mdash;&nbsp; Yusuf Mehdi, a 35-year Microsoft veteran who has been its commercial chief marketing officer since 2023, will leave the company &hellip; </p>",
+      "published": "2026-05-22T12:45:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "81314d665896ef6afe162cdf93451572022d9841",
+      "title": "Malaysia To Require Social Media Users To Submit Documents For Age Verification",
+      "link": "https://www.lowyat.net/2026/393587/malaysia-social-media-official-documents-age-verification/",
+      "summary": "<p>Social media platforms operating in Malaysia will require users to upload official government-issued documents such as identity cards or passports for age verification purposes following the implementation of two new codes under the Online Safety Act (ONSA) on 1 June 2026. The move is part of the government’s broader effort to strengthen online safety measures, [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/393587/malaysia-social-media-official-documents-age-verification/\">Malaysia To Require Social Media Users To Submit Documents For Age Verification</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-05-22T12:37:24+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "a53007684ce5df19f28e156f027cb09c40c16023",
+      "title": "Meta Quietly Launches Forum App Specifically For Facebook Groups",
+      "link": "https://www.lowyat.net/2026/393586/meta-launches-forum-app-facebook-groups/",
+      "summary": "<p>For those who were really active on Facebook, you may remember a standalone app for all of your Facebook Groups. It was launched back in 2014, and then discontinued in 2017. But it looks like the company now known as Meta may be thinking of bringing it back. This is because a new app called [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/393586/meta-launches-forum-app-facebook-groups/\">Meta Quietly Launches Forum App Specifically For Facebook Groups</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-05-22T12:31:54+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "1d808879603b787ac87751005e960f520faf4213",
+      "title": "Sources: DeepSeek execs told potential investors in its ongoing $10B round that it will prioritize groundbreaking AI research over short-term commercialization (Lulu Yilun Chen/Bloomberg)",
+      "link": "https://www.techmeme.com/260522/p14#a260522p14",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-05-22/deepseek-founder-declares-agi-goal-as-10-billion-round-advances\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260522/i14.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260522/p14#a260522p14\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lulu Yilun Chen / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-05-22/deepseek-founder-declares-agi-goal-as-10-billion-round-advances\">Sources: DeepSeek execs told potential investors in its ongoing $10B round that it will prioritize groundbreaking AI research over short-term commercialization</a></b></span>&nbsp; &mdash;&nbsp; DeepSeek's senior management has told potential investors in its ongoing 70 billion yuan ($10 billion) funding round that the startup &hellip; </p>",
+      "published": "2026-05-22T12:30:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "901c28001d01c4afa01f37a488550f32b7bfcae4",
+      "title": "Live again: 46mm Apple Watch Series 11 Cell model back at its best price ever, now $130 off",
+      "link": "https://9to5toys.com/2026/05/22/46mm-apple-watch-series-11-cell-model-best-price/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/11/Apple-Watch-Series-11-best-price.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p><strong>Update 5/22: </strong>The Jet Black 46mm Aluminum GPS + Cell model at $130 off is now live once again – matching Amazon all-time low. </p>\n\n\n\n<p>One of the best deals we have tracked on Apple Watch Series 11 to date just came back at Amazon alongside its now live Memorial Day sale. We have seen some of the much more pricey models with deeper discounts, but we are talking about a return all-time low on the 46mm Aluminum GPS + Cell model at $130 off the list price here (also available in Silver and Rose Gold). </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/22/46mm-apple-watch-series-11-cell-model-best-price/#more-1210555\">more…</a>",
+      "published": "2026-05-22T12:29:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "e77e953bf67d2f981e3c67d4dfb58c26cd7efab7",
+      "title": "Police say Prince Andrew sexual misconduct report will be taken seriously if lodged",
+      "link": "https://www.malaymail.com/news/world/2026/05/22/police-say-prince-andrew-sexual-misconduct-report-will-be-taken-seriously-if-lodged/221040",
+      "summary": "LONDON, May 22 &mdash; UK police investigating former prince Andrew said Friday they are also open to probing a claim of...",
+      "published": "2026-05-22T12:25:47+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "a85a27171067be2db4a80b07890f056d3db8e2cc",
+      "title": "Man in Bukit Kemuning teen assault case pleads guilty to sexual assault, wrongful confinement and robbery",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/22/man-in-bukit-kemuning-teen-assault-case-pleads-guilty-to-sexual-assault-wrongful-confinement-and-robbery/221039",
+      "summary": "SHAH ALAM, May 22 &mdash; A debt collector who became the subject of a police manhunt over a sexual assault case involvi...",
+      "published": "2026-05-22T12:23:46+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "a5311dc5e74d2c55d331de193aae21008ec88c55",
+      "title": "Italian police dismantle a piracy network that streamed paid content from Netflix and others via an app called Cinemagoal with annual subscriptions of €40-€130 (Ana-Maria Stanciuc/The Next Web)",
+      "link": "https://www.techmeme.com/260522/p13#a260522p13",
+      "summary": "<p><a href=\"https://www.techmeme.com/260522/p13#a260522p13\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ana-Maria Stanciuc / <a href=\"https://thenextweb.com/\">The Next Web</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://thenextweb.com/news/italy-cinemagoal-piracy-bust-gdf-ravenna\">Italian police dismantle a piracy network that streamed paid content from Netflix and others via an app called Cinemagoal with annual subscriptions of &euro;40-&euro;130</a></b></span>&nbsp; &mdash;&nbsp; Italy's Guardia di Finanza said on Friday it had dismantled an audiovisual piracy operation that streamed paid content from Sky &hellip; </p>",
+      "published": "2026-05-22T12:20:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "4b9bd4a37683ea2cb788d876280bed3cae559e79",
+      "title": "State government moves to strengthen public transport ecosystem ahead of RTS debut",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/22/state-government-moves-to-strengthen-public-transport-ecosystem-ahead-of-rts-debut/221027",
+      "summary": "JOHOR BAHRU, May 22 &mdash; RTS Operations Pte Ltd (RTSO) has described the Johor state government&rsquo;s proactive and...",
+      "published": "2026-05-22T12:17:48+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "c2050e05381181e1712e2985b9890c1e61728c69",
+      "title": "Govt task force on agency reform to prioritise local expertise, speed up public‑service digitalisation, says Shamsul Azri",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/22/govt-task-force-on-agency-reform-to-prioritise-local-expertise-speed-up-publicservice-digitalisation-says-shamsul-azri/221038",
+      "summary": "PUTRAJAYA, May 22 &mdash;The Special Task Force on Agency Reform (STAR) has agreed to prioritise local think tanks and c...",
+      "published": "2026-05-22T12:16:14+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "d690c8032a5219dd737b34222303400bb8549fc6",
+      "title": "UGREEN’s tried-and-tested 500W 6-port desktop charger is down to $180 as part of Memorial Day sale (All-time low)",
+      "link": "https://9to5toys.com/2026/05/22/ugreen-500w-6-port-desktop-charger-is-down-to-180/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/07/UGREEN-Nexode-500W-charging-station-hero-1.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>As part of the ongoing Memorial Day sale event, UGREEN’s official Amazon storefront is now offering its Nexode 500W USB-C charging station for <strong>$179.99 shipped</strong>. This is regularly a $250 unit that hasn’t seen any major discounts this year, dropping down from its full price. Today’s offer takes $70 off its usual price, undercutting its previous all-time low by $10. This marks the best price we’ve tracked yet for this powerful multi-device charging station, and you can learn more about it in detail below.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/22/ugreen-500w-6-port-desktop-charger-is-down-to-180/#more-1210628\">more…</a>",
+      "published": "2026-05-22T12:10:45+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "8cfabef07965ad2b320021a2dd12fab9657c0fb9",
+      "title": "Latest Google Nest Learning Thermostat $50 off for Memorial Day, open-box units up to $106 off",
+      "link": "https://9to5toys.com/2026/05/22/google-nest-learning-thermostat-memorial-day/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/05/Google-Nest-Learning-Thermostat-4th-Gen.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>As part of its Memorial Day Sale, Amazon is now offering <strong>$50 off</strong> the latest Google Nest Learning Thermostat (4th gen) with the included Nest Temperature Sensor (2nd gen). Just be sure to head below for a chance to <a href=\"https://bestbuycreators.7tiv.net/rEa59d\">save over <strong>$100</strong></a> on the same unit in “excellent” open-box condition from Best Buy. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/22/google-nest-learning-thermostat-memorial-day/#more-1210636\">more…</a>",
+      "published": "2026-05-22T12:10:14+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "a8603a854a31fd96f16ee4b3f70e0aaaf0bb79b2",
+      "title": "Religious affairs minister urges Muslims, Malaysians to embrace spirit of Rukun Negara and respect royal institution",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/22/religious-affairs-minister-urges-muslims-malaysians-to-embrace-spirit-of-rukun-negara-and-respect-royal-institution/221037",
+      "summary": "PUTRAJAYA, May 22 &mdash; Minister in the Prime Minister&rsquo;s Department (Religious Affairs) Dr Zulkifli Hasan has ca...",
+      "published": "2026-05-22T12:06:43+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "5072080e170ab1d6baae969f77dc5b0d2d0f3da8",
+      "title": "Ringgit retreats after three‑day rally as global tensions and hawkish banks weigh",
+      "link": "https://www.malaymail.com/news/money/2026/05/22/ringgit-retreats-after-threeday-rally-as-global-tensions-and-hawkish-banks-weigh/221034",
+      "summary": "KUALA LUMPUR, May 22 &mdash; The ringgit retreated against the US dollar on Friday, ending a three-day winning streak as...",
+      "published": "2026-05-22T12:04:43+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "c3e62dc89edf51d755195793a3cd9a32d1c0db57",
+      "title": "Selangor to expand Selgate facilities to strengthen public health ecosystem, says Amirudin",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/22/selangor-to-expand-selgate-facilities-to-strengthen-public-health-ecosystem-says-amirudin/221036",
+      "summary": "RAWANG, May 22 &mdash; The construction of a network of hospitals under the Selgate Healthcare (SELGATE) group is a crea...",
+      "published": "2026-05-22T11:56:55+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "05538ef20d00e991462ece2ac4376c653a7d9cbe",
+      "title": "You can score unlocked Galaxy Fold 7 units at up to $819 off at Best Buy again (‘Excellent’ open-box)",
+      "link": "https://9to5toys.com/2026/05/22/unlocked-galaxy-fold-7-price/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Galaxy-Z-Fold-7.jpg?quality=82&#038;strip=all&#038;w=1500\" /></div><p>The next-generation Galaxy Flip and Fold phones are more than likely inbound this summer, but you are not likely to be <a href=\"https://bestbuycreators.7tiv.net/k4oyMN\">saving $800+ on one of those</a> anytime soon like you right now <a href=\"https://bestbuycreators.7tiv.net/k4oyMN\">at Best Buy</a> for the Fold 7 (without having to trade anything in). </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/22/unlocked-galaxy-fold-7-price/#more-1210629\">more…</a>",
+      "published": "2026-05-22T11:52:08+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "9681e830dc11c3b9bdf394479e5e365fce2dccc1",
+      "title": "TikTok works with MCMC to tighten platform safety and protect young users in Malaysia",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/22/tiktok-works-with-mcmc-to-tighten-platform-safety-and-protect-young-users-in-malaysia/221035",
+      "summary": "KUCHING, May 22 &mdash; Global short-video platform TikTok is strengthening its commitment to enhancing platform safety...",
+      "published": "2026-05-22T11:50:21+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "148e4816579bb4b91b7a56c4135546030fbb3596",
+      "title": "Republican House Oversight Committee Chairman James Comer says he requested information from Kalshi and Polymarket on their efforts to prevent insider trading (Justin Papp/CNBC)",
+      "link": "https://www.techmeme.com/260522/p12#a260522p12",
+      "summary": "<a href=\"https://www.cnbc.com/2026/05/22/kalshi-polymarket-comer-insider-trading-probe-congress.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260522/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260522/p12#a260522p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Justin Papp / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/05/22/kalshi-polymarket-comer-insider-trading-probe-congress.html\">Republican House Oversight Committee Chairman James Comer says he requested information from Kalshi and Polymarket on their efforts to prevent insider trading</a></b></span>&nbsp; &mdash;&nbsp; Rep. James Comer, R-Ky., chair of the House Oversight and Government Reform Committee, announced Friday on CNBC's &ldquo;Squawk Box&rdquo; &hellip; </p>",
+      "published": "2026-05-22T11:50:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "2f4ba6b73dcdca616efcafa9784a854599f74486",
+      "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
+      "link": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
+      "summary": "Grieving relatives and friends of a suspected Ebola victim were prevented from taking his body for burial.",
+      "published": "2026-05-22T11:45:38+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "300da0b46bb8cc546fbb195ba56f0a110b22a0b4",
+      "title": "Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan",
       "link": "https://www.bbc.com/news/articles/c62egj12026o?at_medium=RSS&at_campaign=rss",
       "summary": "The appeal court declared Özgür Özel's party leadership victory void, further cementing the president's grip on power.",
       "published": "2026-05-22T11:34:48+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "f489a72b98299ad0ab7356ca28c5225b1c8c86ce",
+      "title": "First vaccines, now mammograms? RFK Jr.’s latest firings have doctors outraged.",
+      "link": "https://arstechnica.com/health/2026/05/doctors-outraged-after-rfk-jr-fires-leaders-of-key-preventive-medicine-panel/",
+      "summary": "Doctors are angry and alarmed that preventive care could go the way of vaccines.",
+      "published": "2026-05-22T11:30:38+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
     },
     {
       "id": "da6407fd9cc8af243fca243d95081d79aa77a17c",
@@ -221,15 +626,6 @@
       "category": "malaysia"
     },
     {
-      "id": "37ae88b00fd62e9bfed2ec3f78d287fb71a30f72",
-      "title": "Apple’s most affordable M5 MacBook Air returns to Amazon all-time lows at $150 off",
-      "link": "https://9to5toys.com/2026/05/22/apple-most-affordable-m5-macbook-air/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/M5-MacBook-Air-best-deal-price.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Just after seeing Amazon deliver its new all-time low and the very best price we have tracked on the base model 15-inch M5 MacBook Air at $199 off, it is now starting to bring back the deals on the most affordable 13-inch model from $949 as well. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/22/apple-most-affordable-m5-macbook-air/#more-1210603\">more…</a>",
-      "published": "2026-05-22T10:24:44+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "62d18d52dcc85e4c53e50d7ea0c959e89d7c46fe",
       "title": "Slow Food founder Carlo Petrini dies aged 76",
       "link": "https://www.bbc.com/news/articles/cn9pe1py9zwo?at_medium=RSS&at_campaign=rss",
@@ -255,24 +651,6 @@
       "published": "2026-05-22T10:18:24+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "4656511c99ba6717624c100fe67845217deaf480",
-      "title": "Paul McCartney leads starry send‑off as Colbert bows out of CBS’ Late Show",
-      "link": "https://www.malaymail.com/news/showbiz/2026/05/22/paul-mccartney-leads-starry-sendoff-as-colbert-bows-out-of-cbs-late-show/221020",
-      "summary": "NEW YORK, May 22 &mdash; Paul McCartney led an all-star lineup for the final episode of The Late Show&nbsp;as frontman S...",
-      "published": "2026-05-22T10:13:26+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "b75719f87f432cc0b271fde26633effb61166a31",
-      "title": "Fuziah reminds PKR MPs to abide by party decisions, uphold mandate",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/22/fuziah-reminds-pkr-mps-to-abide-by-party-decisions-uphold-mandate/221022",
-      "summary": "KUANTAN, May 22 &mdash; PKR MPs have been reminded to remain committed to the party&rsquo;s mandate in carrying out thei...",
-      "published": "2026-05-22T10:09:03+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "0281a27565644f7837991e58450714a78dbc29c9",
@@ -338,15 +716,6 @@
       "category": "tech"
     },
     {
-      "id": "ec84d1c6b36d861edcf00f7589fdd4bdcb7291c3",
-      "title": "Domestic Trade Ministry enforces nine‑day Kaamatan‑Gawai price‑control scheme in Sabah, Sarawak and Labuan",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/22/domestic-trade-ministry-enforces-nineday-kaamatangawai-pricecontrol-scheme-in-sabah-sarawak-and-labuan/221019",
-      "summary": "RANAU, May 22 &mdash; The Ministry of Domestic Trade and Cost of Living (KPDN) will implement the Festive Season Maximum...",
-      "published": "2026-05-22T09:41:53+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "6387124fb0db50fe93902c64bd11b75ed2b753c4",
       "title": "A “Lenovo” Branded Retro Handheld With Nintendo ROMs Is Being Sold On AliExpress",
       "link": "https://www.lowyat.net/2026/393544/a-lenovo-branded-retro-handheld-with-nintendo-roms-is-being-sold-on-aliexpress/",
@@ -374,15 +743,6 @@
       "category": "deals"
     },
     {
-      "id": "418f862b8612f7d3c5f2f40c2b2efb9abd079bb5",
-      "title": "LLM forecasts 3.3 million vehicles on highways amid Aidiladha, school holidays",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/22/llm-forecasts-33-million-vehicles-on-highways-amid-aidiladha-school-holidays/221018",
-      "summary": "KUALA LUMPUR, May 22 &mdash; The Malaysian Highway Authority (LLM) expects the average daily traffic volume on major exp...",
-      "published": "2026-05-22T09:26:50+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "207335c8b28fd3387b321b6f5760b651c7e155e2",
       "title": "Prasarana: Rapid KL Open Payment System Coming Soon",
       "link": "https://www.lowyat.net/2026/393567/prasarana-rapid-kl-open-payment-system-coming-soon/",
@@ -390,42 +750,6 @@
       "published": "2026-05-22T09:26:02+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "7fdf63e836364e8e3f24ac1b1d678990bf106d49",
-      "title": "Man gets 30 years, 9 strokes for incest with now-pregnant underage niece in Kanowit",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/22/man-gets-30-years-9-strokes-for-incest-with-now-pregnant-underage-niece-in-kanowit/221016",
-      "summary": "SIBU, May 22 &mdash; The Sessions Court here sentenced a 23-year-old man to a total of 30 years&rsquo; jail and nine str...",
-      "published": "2026-05-22T09:22:19+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "a2bcccedf08986a6539b074404c6572a42c010d6",
-      "title": "Viral Bukit Bintang flare stunt ends with fines for clothing brand founder, six others",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/22/viral-bukit-bintang-flare-stunt-ends-with-fines-for-clothing-brand-founder-six-others/221015",
-      "summary": "KUALA LUMPUR, May 22 &mdash; Seven men, including the founder of a local clothing brand, were fined by the magistrates&amp;r...",
-      "published": "2026-05-22T09:12:12+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "779c1f389739baaffe3ff7f7f0e12e82d0254c17",
-      "title": "Grasshopper adds second Malaysia show after first date sells out for August concert",
-      "link": "https://www.malaymail.com/news/showbiz/2026/05/22/grasshopper-adds-second-malaysia-show-after-first-date-sells-out-for-august-concert/221014",
-      "summary": "KUALA LUMPUR, May 22 &mdash; Just months after their last appearance in Malaysia, legendary Cantopop/Mandopop trio Grass...",
-      "published": "2026-05-22T09:09:28+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "1f944cbf58b43e85ac9f378a55a5754c1be553d2",
-      "title": "Selangor launches RM20m scheme to ease university fees for state‑born students, says Amirudin",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/22/selangor-launches-rm20m-scheme-to-ease-university-fees-for-stateborn-students-says-amirudin/221011",
-      "summary": "SHAH ALAM, May 22 &mdash; The Selangor state government has allocated RM20 million to cover half of the tuition fees for...",
-      "published": "2026-05-22T09:04:29+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "a68f19e70f3f0f27f01d7eac89cf53cbedc3becc",
@@ -437,33 +761,6 @@
       "category": "deals"
     },
     {
-      "id": "60cc74ee025640e074aa3824cb07992490f1101d",
-      "title": "‘RM300 may seem small, but it’s hard-earned’: Ipoh budget rice stall robbery victim still traumatised",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/22/rm300-may-seem-small-but-its-hard-earned-ipoh-budget-rice-stall-robbery-victim-still-traumatised/221013",
-      "summary": "KUALA LUMPUR, May 22 &mdash; A victim of a robbery at a budget rice stall in Lebuh Meru Raya, Ipoh, yesterday said she r...",
-      "published": "2026-05-22T09:00:26+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "d69d1d547a61c84feaee6bd4339aeacbbe26b3a7",
-      "title": "England World Cup shock as Foden and Palmer reportedly left out of Tuchel’s squad",
-      "link": "https://www.malaymail.com/news/sports/2026/05/22/england-world-cup-shock-as-foden-and-palmer-reportedly-left-out-of-tuchels-squad/221012",
-      "summary": "&nbsp;LONDON, May 22 &mdash; Phil Foden and Cole Palmer are among a number of high-profile names that are set to miss ou...",
-      "published": "2026-05-22T08:54:06+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "0d694f9452d86249b33a530e781b3dfd82a2a6e4",
-      "title": "Haj pilgrimage begins in Mecca as Middle East tensions and extreme heat loom",
-      "link": "https://www.malaymail.com/news/world/2026/05/22/haj-pilgrimage-begins-in-mecca-as-middle-east-tensions-and-extreme-heat-loom/221010",
-      "summary": "&nbsp;MECCA, May 22 &mdash;&nbsp;More than a million Muslims are gathering in Mecca for the haj&nbsp;pilgrimage overshad...",
-      "published": "2026-05-22T08:48:43+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "6e6788550f9221c334537cd18fb256dffab1468a",
       "title": "Poco C81 Pro now in Malaysia: Budget smartphone with 6.9″ 120Hz LCD, 6,000mAh battery, priced from RM389",
       "link": "https://soyacincau.com/2026/05/22/poco-c81-pro-malaysia-price-specs-features-promo-launch/",
@@ -471,15 +768,6 @@
       "published": "2026-05-22T08:29:22+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "2f4ba6b73dcdca616efcafa9784a854599f74486",
-      "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
-      "link": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
-      "summary": "Grieving relatives and friends of a suspected Ebola victim were prevented from taking his body for burial.",
-      "published": "2026-05-22T08:21:13+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "c683a31b65b1feeae1d7cc25e20be5f553b5825d",
@@ -545,24 +833,6 @@
       "category": "deals"
     },
     {
-      "id": "14021232840b6d9e78cc8a634cdd98416cc7bc5a",
-      "title": "MSI Claw 8 EX AI+ With Intel Arc G3 Extreme Appears In Australia",
-      "link": "https://www.lowyat.net/2026/393521/msi-claw-8-ex-ai-with-intel-arc-g3-extreme-appears-in-australia/",
-      "summary": "<p>Earlier in April, we reported that we may see gaming handhelds powered by Intel&#8217;s Arc G3 Series and, more specifically, the Arc G3 Extreme GPU, make their debut at this year&#8217;s Computex 2026. Thanks to Australian retailer Scorptec, we don&#8217;t have to wait that long in anticipation to find out which console gets the pleasure [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/393521/msi-claw-8-ex-ai-with-intel-arc-g3-extreme-appears-in-australia/\">MSI Claw 8 EX AI+ With Intel Arc G3 Extreme Appears In Australia</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-05-22T06:59:41+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
-      "id": "a3268bf973e0a239e2d2844daaed8b1ac1e90453",
-      "title": "Training Data - AI Microgames",
-      "link": "https://www.producthunt.com/products/training-data-ai-microgames",
-      "summary": "<p>\n            As an AI you must gather training data by playing microgames\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/training-data-ai-microgames?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1153107?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-22T06:58:55+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "87817713016b4fd0753f21abcdd7ece66a77edd8",
       "title": "AMD CEO Lisa Su projects the CPU market will grow over 35% annually through 2031, up from 3% to 4% historically, driven by AI inference and agentic AI demand (Cheng Ting-Fang/Nikkei Asia)",
       "link": "https://www.techmeme.com/260522/p6#a260522p6",
@@ -581,6 +851,15 @@
       "category": "malaysia"
     },
     {
+      "id": "5188f6d0baef19745927371ccb360553d50ede06",
+      "title": "Shroomie",
+      "link": "https://www.producthunt.com/products/shroomie",
+      "summary": "<p>\n            AI-powered news made fun and habit-forming\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/shroomie?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1153101?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-22T06:49:14+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "c0ac42ebd54ce3bef0d796423cecf7d685a4c05f",
       "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
       "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
@@ -588,6 +867,15 @@
       "published": "2026-05-22T06:41:28+00:00",
       "source": "TechCrunch",
       "category": "tech"
+    },
+    {
+      "id": "9b11bc8ced97e5e88974f91ef732a9a73e467f6d",
+      "title": "Faby",
+      "link": "https://www.producthunt.com/products/faby",
+      "summary": "<p>\n            Your virtual coworker with its own computer living in Slack\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/faby?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1153090?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-22T06:35:09+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "601d32f2b1e5849c3487693c9b262640107cf23f",
@@ -606,15 +894,6 @@
       "published": "2026-05-22T05:55:01+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "b23c54dac6546ba3f804a6787c8a4c4995636c9a",
-      "title": "Google To Launch “Continue On” Feature Along With Android 17",
-      "link": "https://www.lowyat.net/2026/393517/google-to-launch-continue-on-feature-along-with-android-17/",
-      "summary": "<p>In addition to unveiling a slew of AI-focused initiatives and future wearable technologies, Google is also laying the groundwork for a new feature that is similar to Apple’s Handoff. The new feature is called “Continue On”, and it will soon let users seamlessly continue their work across Android devices in Android 17. The company briefly [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/393517/google-to-launch-continue-on-feature-along-with-android-17/\">Google To Launch “Continue On” Feature Along With Android 17</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-05-22T05:49:45+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
     },
     {
       "id": "22ace94c38d34bc16af80135348f28ea43ac4e1a",
@@ -653,24 +932,6 @@
       "category": "tech"
     },
     {
-      "id": "c5bb2c7ce5237e7bd4c28aa5d79c0388b9b8096d",
-      "title": "Sources: last-minute calls with Elon Musk, Mark Zuckerberg, David Sacks, and others helped persuade President Trump not to sign the highly anticipated AI EO (Washington Post)",
-      "link": "https://www.techmeme.com/260522/p1#a260522p1",
-      "summary": "<a href=\"https://www.washingtonpost.com/politics/2026/05/22/last-minute-lobbying-by-tech-industry-officials-led-trump-cancel-ai-order/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260522/i1.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260522/p1#a260522p1\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.washingtonpost.com/\">Washington Post</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.washingtonpost.com/politics/2026/05/22/last-minute-lobbying-by-tech-industry-officials-led-trump-cancel-ai-order/\">Sources: last-minute calls with Elon Musk, Mark Zuckerberg, David Sacks, and others helped persuade President Trump not to sign the highly anticipated AI EO</a></b></span>&nbsp; &mdash;&nbsp; Industry leaders warned in last-minute calls to the president that the proposed safety vetting system could inhibit development of the pivotal technology.</p>",
-      "published": "2026-05-22T04:45:04+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "09950448a94459e258a968c907eecd1da4841370",
-      "title": "JAMtime.ai",
-      "link": "https://www.producthunt.com/products/jamtime-ai",
-      "summary": "<p>\n            Just tell your guitar pedal how to sound\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/jamtime-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152999?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-22T03:17:59+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "3c85d0312b68a206700fd4bbec192ff8d1547ee5",
       "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
       "link": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
@@ -698,39 +959,12 @@
       "category": "events"
     },
     {
-      "id": "8d81be6228bd39bf11e48cd7ccb62df8106db7e8",
-      "title": "Sources: Trump delayed signing the AI EO because \"he just hates regulation\"; he spoke with Mark Zuckerberg, Elon Musk, and David Sacks just prior to the delay (Axios)",
-      "link": "https://www.techmeme.com/260521/p52#a260521p52",
-      "summary": "<a href=\"https://www.axios.com/2026/05/21/trump-ai-executive-order-postponed-why\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260521/i52.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260521/p52#a260521p52\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/2026/05/21/trump-ai-executive-order-postponed-why\">Sources: Trump delayed signing the AI EO because &ldquo;he just hates regulation&rdquo;; he spoke with Mark Zuckerberg, Elon Musk, and David Sacks just prior to the delay</a></b></span>&nbsp; &mdash;&nbsp; Everything seemed set for a photo op of tech and AI CEOs who would surround President Trump Thursday as he signed &hellip; </p>",
-      "published": "2026-05-22T02:35:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "92e2c7de01ec10ea09b3979ac607d45b6dc2935d",
-      "title": "Socket: TeamPCP, the gang claiming GitHub's repositories breach, also executed 20 \"waves\" of supply chain attacks recently, compromising 500+ pieces of software (Wired)",
-      "link": "https://www.techmeme.com/260521/p51#a260521p51",
-      "summary": "<a href=\"https://www.wired.com/story/teampcp-software-supply-chain-attack-spree-github/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260521/i51.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260521/p51#a260521p51\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.wired.com/\">Wired</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wired.com/story/teampcp-software-supply-chain-attack-spree-github/\">Socket: TeamPCP, the gang claiming GitHub's repositories breach, also executed 20 &ldquo;waves&rdquo; of supply chain attacks recently, compromising 500+ pieces of software</a></b></span>&nbsp; &mdash;&nbsp; GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks that has impacted hundreds of organizations.</p>",
-      "published": "2026-05-22T02:20:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "b0faafe8dc2729c63a5e8ff2506c52533f16a3c6",
       "title": "Ground system issue scrubs first launch of SpaceX's Starship V3 rocket",
       "link": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
       "summary": "Engineers could make another attempt to launch Starship as soon as Friday evening.",
       "published": "2026-05-22T02:05:37+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "40f23e23070e1fe7c7c9dc32c116e330e25ec1a7",
-      "title": "Shares of quantum computing companies surged Thursday after the US government announced grants with equity stakes: D-Wave closed up 33%, Rigetti 30%, IBM 12% (Chloe Taylor/CNBC)",
-      "link": "https://www.techmeme.com/260521/p50#a260521p50",
-      "summary": "<a href=\"https://www.cnbc.com/2026/05/21/quantum-stocks--us-taking-equity-stakes.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260521/i50.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260521/p50#a260521p50\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Chloe Taylor / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/05/21/quantum-stocks--us-taking-equity-stakes.html\">Shares of quantum computing companies surged Thursday after the US government announced grants with equity stakes: D-Wave closed up 33%, Rigetti 30%, IBM 12%</a></b></span>&nbsp; &mdash;&nbsp; Quantum computing shares popped on Thursday, as the U.S. government said it would award $2 billion in grants to nine firms operating in the space.</p>",
-      "published": "2026-05-22T01:45:02+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -750,15 +984,6 @@
       "published": "2026-05-22T01:33:28+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "07be39363c759158a09d0939ffb0c167836f388e",
-      "title": "Sources: Sony's Bungie plans significant layoffs as it ends development on its online game Destiny 2 with no new projects lined up; Destiny 2 launched in 2017 (Jason Schreier/Bloomberg)",
-      "link": "https://www.techmeme.com/260521/p49#a260521p49",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-05-21/bungie-plans-layoffs-after-ending-destiny-2-development?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3OTQwNTI3OSwiZXhwIjoxNzgwMDEwMDc5LCJhcnRpY2xlSWQiOiJURkVUVjJLSUpIOTIwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.atbS1PFknTC7XBSdrUHEMV1jz4pw1lfmIX0rGjUFbRs\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260521/i49.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260521/p49#a260521p49\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jason Schreier / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-05-21/bungie-plans-layoffs-after-ending-destiny-2-development?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3OTQwNTI3OSwiZXhwIjoxNzgwMDEwMDc5LCJhcnRpY2xlSWQiOiJURkVUVjJLSUpIOTIwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.atbS1PFknTC7XBSdrUHEMV1jz4pw1lfmIX0rGjUFbRs\">Sources: Sony's Bungie plans significant layoffs as it ends development on its online game Destiny 2 with no new projects lined up; Destiny 2 launched in 2017</a></b></span>&nbsp; &mdash;&nbsp; The Sony subsidiary will focus on &lsquo;Marathon&rsquo; rather than jumping directly to &lsquo;Destiny 3&rsquo;&nbsp; &mdash;&nbsp; Sony Group Corp.'s Bungie unit &hellip; </p>",
-      "published": "2026-05-22T00:40:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "612831fa602af17b13ec912f35234cda5232bc6e",
@@ -806,24 +1031,6 @@
       "category": "tech"
     },
     {
-      "id": "2b0026667b32f2f6bf934b5f3caca23a1ff05655",
-      "title": "Anker’s new earbuds have the best call quality I’ve ever heard",
-      "link": "https://www.theverge.com/tech/935766/soundcore-liberty-5-pro-series-earbuds-review",
-      "summary": "Soundcore, Anker's audio brand, has mostly lived in the budget-to-midrange world, but with its new Liberty 5 Pro earbuds, it's aiming at the big guys. The two new earbuds - the Liberty 5 Pro and Liberty 5 Pro Max - use Anker's new Thus chip, which has more processing power than previous Soundcore earbuds to [&#8230;]",
-      "published": "2026-05-21T23:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "57c311db3374070a7479dd891a229a0b7e77e2ae",
-      "title": "DCP",
-      "link": "https://www.producthunt.com/products/dcp",
-      "summary": "<p>\n            Give your AI agents encrypted permission and keys\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dcp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152914?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-21T22:45:53+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "c5f2e6ed3b99162ff951784e40936fc488c60f15",
       "title": "Tennessee execution called off after failed lethal injection",
       "link": "https://www.bbc.com/news/articles/c93xj503kg9o?at_medium=RSS&at_campaign=rss",
@@ -833,19 +1040,10 @@
       "category": "world"
     },
     {
-      "id": "0d8f236f6d35c6280bd8902af4cc12fe50a1d412",
-      "title": "States ask judge to break up Live Nation-Ticketmaster",
-      "link": "https://www.theverge.com/policy/935735/live-nation-ticketmaster-states-remedies-request-break-up",
-      "summary": "A federal judge is officially being tasked with deciding whether to break up Live Nation-Ticketmaster. More than 30 states are asking Judge Arun Subramanian to order a sale of the ticketing giant, a \"sufficient number\" of large amphitheaters, and limit its ability to tie access to its remaining amps to the use of its promotions [&#8230;]",
-      "published": "2026-05-21T22:27:03+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "23ef77017df08b9d8afa6998f95829781f215c4c",
       "title": "IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app",
       "link": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
-      "summary": "\"The move to AcuRite NOW has not been as smooth as some customers expected ...\"",
+      "summary": "\"The move to AcuRite NOW has not been as smooth as some customers expected...\"",
       "published": "2026-05-21T22:26:34+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
@@ -914,69 +1112,6 @@
       "category": "deals"
     },
     {
-      "id": "ed99eba199029169ec02583237015b03110ec316",
-      "title": "buildpipe",
-      "link": "https://www.producthunt.com/products/buildpipe",
-      "summary": "<p>\n            Compose, run and automate multi step AI developer workflows\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/buildpipe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152848?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-21T20:28:41+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "7376f4afce38d157b0a22d28069b99ecb0cd807b",
-      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. After nearly a month, [&#8230;]",
-      "published": "2026-05-21T20:15:18+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "48c1217f0557b917533f1f342c37771ec9c49717",
-      "title": "The Our Place 31.7-quart Wonder Oven is currently down starting from a $175 low, more cooking gear from $65",
-      "link": "https://9to5toys.com/2026/05/21/our-place-31-7-quart-wonder-oven-from-a-175-low-more-cooking-gear/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2024/11/Our-Place-Wonder-Oven.jpg?quality=82&#038;strip=all&#038;w=1200\" /></div><p>Through its official Amazon storefront, Our Place is offering its 31.7-Quart Large Wonder Oven starting at $175 shipped in the spice colorway, while its steam and blue salt colorways sit higher at $199. Normally $245 at full price, we’ve seen discounts take the costs down to $196 and $175 in 2026. The deal here gives you a 29% markdown for $70 savings to the all-time lowest tracked price, while the other colorways are down at their second-lowest prices. You can shop all of Our Place’s other deals in the official Amazon storefront here, or head below where we have rounded up some of them for you. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/21/our-place-31-7-quart-wonder-oven-from-a-175-low-more-cooking-gear/#more-1210560\">more…</a>",
-      "published": "2026-05-21T20:08:52+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "02320104d4136098a91be19397e7bf5ddac779af",
-      "title": "Firefox is working on a rounded redesign with easy-to-find controls for privacy and AI",
-      "link": "https://www.theverge.com/tech/935631/firefox-project-nova-redesign",
-      "summary": "Firefox is getting a drastic visual overhaul with a redesigned Settings section that will make it easier to find and use privacy settings, including the switch for turning off all present and future AI features. Mozilla calls the redesign \"Project Nova\" and plans to begin rolling it out later this year. It features rounded UI [&#8230;]",
-      "published": "2026-05-21T20:05:09+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "122b187ad19e26c22be972068070e2dd67ced1f7",
-      "title": "In desperate times, graduates find hope in humiliating tech CEOs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
-      "summary": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives themselves. In a procession of viral videos, 2026 commencement speakers like former Google CEO Eric Schmidt face loud and sustained jeers from students after praising [&#8230;]",
-      "published": "2026-05-21T20:00:06+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "a7954e642736e0dbf5f098a44c3f426da9cc61ca",
-      "title": "Who gets to own the Luigi Mangione story?",
-      "link": "https://www.theverge.com/news/935598/luigi-mangione-new-york-case-press-credentials-supporters",
-      "summary": "On Monday morning, a judge overseeing the New York state case on the killing of the UnitedHealthcare CEO ruled that some evidence collected by police could not be shown to a jury. It wasn't the only news coming out of the hearing. Outside the courthouse, Molly Crane-Newman, a New York Daily News reporter, captured on [&#8230;]",
-      "published": "2026-05-21T19:51:22+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "b252e1bd7b9778ab3f4dd4e3b2b5bca9b0e28eae",
-      "title": "This all-in-one AI productivity platform is down to $70 for life (Reg. $540)",
-      "link": "https://9to5toys.com/2026/05/21/all-in-one-ai-productivity-platform/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/1min.AI-Advanced-Business-Plan-Lifetime-Subscription.jpg?quality=82&#038;strip=all&#038;w=1500\" /></div><p>There’s a decent chance your current workflow already involves bouncing between an AI chatbot, a graphic design app, a PDF tool, and at least three browser tabs you forgot were open. <a href=\"https://specials.9to5toys.com/sales/1minai-advanced-business-plan-lifetime-subscription?utm_source=9to5toys.com&amp;utm_content=PS-15380&amp;utm_medium=Referral&amp;utm_campaign=1minai-advanced-business-plan-lifetime-subscription-2026-05-18&amp;utm_term=SALE-326642\">1min.AI</a> is basically trying to become the shortcut for all of that. For a limited time, you can get a lifetime subscription to its Advanced Business Plan for<strong> $69.97.</strong></p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/21/all-in-one-ai-productivity-platform/#more-1210074\">more…</a>",
-      "published": "2026-05-21T19:45:12+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "8539d0f1aaa086395d4548649bddeecfbd6e68eb",
       "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
       "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
@@ -1004,15 +1139,6 @@
       "category": "tech"
     },
     {
-      "id": "6ddb95d2c3bb2eff62b399e0d571a7602f537b7a",
-      "title": "Today’s Apple Books and audiobook deals from $2",
-      "link": "https://9to5toys.com/2026/05/21/todays-apple-books-and-audiobook-deals-from-2-10/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/Apple-Books-May-21.webp?w=1600\" /></div><p>The Memorial Day deals at Amazon and <a href=\"https://bestbuycreators.7tiv.net/e1Voxg\">Best Buy are now in full swing</a> and we have collected loads of the <a href=\"https://9to5toys.com/2026/05/21/all-memorial-day-deals-shop-now/\">best offers for your right here</a>, but for now it’s time for today’s lineup of the best Apple Books deals. Titles include Literary Starbucks, The Search (Abridged), How to Build a Business and Sell It for Millions, Changeless, By Nightfall, Jim the Boy, Sons of Texas, Middle of Nowhere, and more. Everything is waiting down below.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/21/todays-apple-books-and-audiobook-deals-from-2-10/#more-1210557\">more…</a>",
-      "published": "2026-05-21T19:28:07+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "ed8951faedd93621153aec0c3e666587a34efeac",
       "title": "JWST maps the weather on a hot gas giant 700 light-years away",
       "link": "https://arstechnica.com/science/2026/05/jwst-maps-the-weather-on-a-hot-gas-giant-700-light-years-away/",
@@ -1034,19 +1160,10 @@
       "id": "9a3d72c849ac0803c080c6884d8ee5c3172c41bf",
       "title": "WordPress 7.0",
       "link": "https://www.producthunt.com/products/wordpress-7-0",
-      "summary": "<p>\n            WordPress Armstrong is here\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wordpress-7-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152815?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Introducing AI tools, new admin experience & design controls\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wordpress-7-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152815?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-21T19:14:44+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "49f0d6830876ef770e810fb64dfce5a31d4f754b",
-      "title": "It’s back: 46mm Apple Watch Series 11 Cell model back at its best price ever, now $130 off",
-      "link": "https://9to5toys.com/2026/05/21/46mm-apple-watch-series-11-cell-model-best-price/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/11/Apple-Watch-Series-11-best-price.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>One of the best deals we have tracked on Apple Watch Series 11 to date just came back at Amazon alongside its now live Memorial Day sale. We have seen some of the much more pricey models with deeper discounts, but we are talking about a return all-time low on the 46mm Aluminum GPS + Cell model at $130 off the list price here (also available in Silver and Rose Gold). </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/21/46mm-apple-watch-series-11-cell-model-best-price/#more-1210555\">more…</a>",
-      "published": "2026-05-21T18:57:08+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "cc46d3069b15ae3c18bb35f6cbdc139ef1e49d8b",
@@ -1067,42 +1184,6 @@
       "category": "tech"
     },
     {
-      "id": "1d6c6746185439d647f46caebc242e5ec38e4d07",
-      "title": "Pair arrested after boys abandoned by road in Portugal",
-      "link": "https://www.bbc.com/news/articles/c9wex9v57ndo?at_medium=RSS&at_campaign=rss",
-      "summary": "The children were carrying backpacks with food and water but no identity documents when they were found by a driver.",
-      "published": "2026-05-21T18:32:30+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "0dd694bb23251c21175e570228878615e7dd5f8c",
-      "title": "This upgraded 32GB M5 MacBook Pro is $300 off at Amazon (All-time low)",
-      "link": "https://9to5toys.com/2026/05/21/upgraded-32gb-m5-macbook-pro/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/MacBook-Pro-M5-Pro.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>While we are still tracking Amazon all-time low pricing on the most affordable 16GB/1TB model at $200 off, it is also offering one of the best and deepest deals we have tracked on the M5 lineup overall – the 32GB configuration at $300 off the list. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/21/upgraded-32gb-m5-macbook-pro/#more-1210553\">more…</a>",
-      "published": "2026-05-21T18:21:46+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "bbc801d4df179b20c45cdd41d141f2d5e646e775",
-      "title": "Lexar’s tiny 2TB Professional Go portable SSD is down to its lowest since price hike at 45% off for Memorial Day",
-      "link": "https://9to5toys.com/2026/05/21/lexar-tiny-2tb-professional-go-portable-ssd-lowest-since-price-hike/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/11/Lexar-1TB-Professional-Go-SSD.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>As part of its ongoing <a href=\"https://bhpho.to/3CjaLt2\">Memorial Day sale</a>, B&amp;H is offering <a href=\"https://bhpho.to/3IfW50O\">Lexar’s 2TB Professional Go portable SSD in black for <strong>$219.99 shipped</strong></a> with $260 coupon that auto-applies during checkout. This particular black variant of this drive has more recently been hovering around the $480 mark at Amazon since it jumped up in price earlier this year. It hasn’t seen many notable deals dropping it below $300 since then, but today’s deal delivers a 45% discount at $260 off, marking the lowest price we have tracked for it since the industry-wide price hike hit SSDs and other storage devices. Thanks to today’s deal, this 2TB drive is now going for $60 less than its <a href=\"https://bhpho.to/4038uLQ\">1TB counterpart</a>, so don’t miss out. Head below for more details.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/21/lexar-tiny-2tb-professional-go-portable-ssd-lowest-since-price-hike/#more-1210546\">more…</a>",
-      "published": "2026-05-21T18:13:51+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "76c16259c9c75dc83fa91a7d4749f316d47c6563",
-      "title": "Today’s Android app deals and freebies: Chicken Police, Endling, Fury of Dracula, more",
-      "link": "https://9to5toys.com/2026/05/21/today-android-app-deals-free-chicken-police-endling-dracula/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/Google-Play-May-21.webp?w=1600\" /></div><p>Your afternoon lineup of the best Android game and app deals is now ready to roll, including titles like Chicken Police – Paint it RED!, Endling Extinction is Forever, Psychofunk, Evoland 2, Neighbours from Hell 2 Premium, SciFi Survivor Premium, Fury of Dracula, Space Survival, and you can now <a href=\"https://9to5toys.com/2026/05/21/monument-valley-3-free-ios-android/\">download Monument Valley 3 for <strong>FREE</strong> right here</a>. Just be sure to dive into the <a href=\"https://9to5toys.com/2026/05/18/best-buy-launches-2026-memorial-day-sale/\">Best Buy 2026 Memorial Day Sale</a> as well as the <a href=\"https://9to5toys.com/2026/05/21/sonos-memorial-day-deals-first-price-drop-era-100-sl-speaker/\">Sonos Memorial Day deals</a> and <a href=\"https://9to5toys.com/2026/05/20/tcl-tab-a1-plus-android-tablet-amazon-all-time-low/\">TCL’s TAB A1 Plus Android Tablet at the Amazon all-time low</a>. All of Thursday’s app deals await below. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/21/today-android-app-deals-free-chicken-police-endling-dracula/#more-1210543\">more…</a>",
-      "published": "2026-05-21T17:44:28+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "f8961581cccae494d3427741ade7ec1a71f2d7a9",
       "title": "Convective Capital raises an $85 million fund to build disaster resilience",
       "link": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
@@ -1119,33 +1200,6 @@
       "published": "2026-05-21T17:30:45+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "9343a32f3d2dfffb7c3adb23da7696429b1badac",
-      "title": "Unboxing Pokemon’s latest set, Chaos Rising and it might have the best pull rates yet",
-      "link": "https://9to5toys.com/2026/05/21/unboxing-pokemons-latest-set-chaos-rising-and-it-might-have-the-best-pull-rates-yet/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/maxresdefault.webp?w=1280\" /></div><p>Opening MORE Chaos Rising packs… and the pull rates might actually be legit</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/21/unboxing-pokemons-latest-set-chaos-rising-and-it-might-have-the-best-pull-rates-yet/#more-1210535\">more…</a>",
-      "published": "2026-05-21T17:23:20+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "501c7d8b773578ccfd9a6072fbc6caf5bc87c6a5",
-      "title": "One of the most affordable 27-inch QD-OLED 180Hz gaming monitors is now down to its lowest price at $350 for Memorial Day",
-      "link": "https://9to5toys.com/2026/05/21/27-inch-qd-oled-180hz-gaming-monitors-now-down-to-its-lowest-price/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/10/AOC-27-inch-QHD-QD-OLED-monitor.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>As part of its ongoing <a href=\"https://bestbuycreators.7tiv.net/ra69Kv\">Memorial Day sale</a>, Best Buy is offering <a href=\"https://bestbuycreators.7tiv.net/oNLo7Y\">AOC’s 27-inch 240Hz QHD QD-OLED gaming monitor for <strong>$349.99 shipped</strong></a>. Most QD-OLED displays in this category typically hover around the $800 mark, so this AOC model also stands out as one of the more affordable models at the full $550 price it has lately been going for. Today’s deal shaves $200 off that mark, landing it $20 below its previous all-time low from earlier this year. This is the lowest price we’ve tracked for it so far, making it an excellent option if you’ve been looking to give your battlestation an upgrade. Head below for more details.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/21/27-inch-qd-oled-180hz-gaming-monitors-now-down-to-its-lowest-price/#more-1210519\">more…</a>",
-      "published": "2026-05-21T17:15:44+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "691c0ded759cda6cf996b7f2d45cd2d89fea4178",
-      "title": "All of the best early Memorial Day deals you can shop right now: Apple, Samsung, e-Bikes, Anker, more",
-      "link": "https://9to5toys.com/2026/05/21/all-memorial-day-deals-shop-now/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/Best-early-Memorial-Day-deals-now-live.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Memorial Day 2026 is right around the corner and that means we are already tracking hundreds of notable deals across just about every product category. The official holiday sales at Amazon and <a href=\"https://bestbuycreators.7tiv.net/e1Voxg\">Best Buy</a> are now live alongside this year’s <a href=\"https://9to5toys.com/2026/05/21/walmart-2026-memorial-day-sale/\">Walmart event</a>, ushering in discounts on everything from Nintendo Switch 2, Apple, and Anker gear, to Samsung and smart home price drops, right over to groceries, console games, e-Bikes, power stations, and more. We have collected the best of the best for you below to browse through before the holiday weekend even begins. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/21/all-memorial-day-deals-shop-now/#more-1210524\">more…</a>",
-      "published": "2026-05-21T17:10:08+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "43a111b80d0ef3ae97e8c9c5663f344143ba2bcf",
@@ -1229,33 +1283,6 @@
       "category": "world"
     },
     {
-      "id": "58facbce002518de9e9744cd0832bc3a3d223464",
-      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
-      "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
-      "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
-      "published": "2026-05-21T14:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "77462d8ea68d7fc04a5884954448ee07e1cd2451",
-      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
-      "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-      "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
-      "published": "2026-05-21T14:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "e60a1f5e45588ffc8d46b527d9e6997ba65e5ce7",
-      "title": "Maka Kids is redefining kids’ screen time with a streaming app optimized for well-being, not engagement",
-      "link": "https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/",
-      "summary": "Maka Kids is building a streaming app for children ages zero to six featuring content designed for healthy development. The startup has now raised $3 million in seed funding to scale its platform.",
-      "published": "2026-05-21T14:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "2b0a00f8c3c49d05583cb5d6504e5db14de73daf",
       "title": "US government takes $2 billion equity stake in nine quantum computing firms",
       "link": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
@@ -1272,6 +1299,15 @@
       "published": "2026-05-21T13:34:53+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
+    },
+    {
+      "id": "cc6923601d48386c16ec17ddde391c1104d44f0d",
+      "title": "Smart Miles",
+      "link": "https://www.producthunt.com/products/smart-miles",
+      "summary": "<p>\n            Automatic trip tracking for tax-ready exports\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/smart-miles?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152610?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-21T13:17:20+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "2cdbd0c6106605e834093f5e9a3c4cd15ebbd4d1",
@@ -1301,15 +1337,6 @@
       "category": "events"
     },
     {
-      "id": "a7d46626ad88260913a337e05da6ed1c8d61da08",
-      "title": "motionvid.ai",
-      "link": "https://www.producthunt.com/products/motionvid-ai",
-      "summary": "<p>\n            Your AI Motion & Video Editor\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/motionvid-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152523?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-21T11:32:41+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "1ba04cfef49b4433cd633fe09b1a489c1bcd7970",
       "title": "whosthere",
       "link": "https://www.producthunt.com/products/whosthere",
@@ -1319,10 +1346,10 @@
       "category": "events"
     },
     {
-      "id": "896c0d2b790c47fc391836a57f20b324ddba8735",
-      "title": "iPromise - AI focus buddy for deep work.",
+      "id": "2345e04e3c17922c01b6cbfaa2c4a0f447a0f61c",
+      "title": "iPromise",
       "link": "https://www.producthunt.com/products/ipromise-ai-focus-buddy-for-deep-work",
-      "summary": "<p>\n            Bring \"Body Doubling\" to your Mac notch.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ipromise-ai-focus-buddy-for-deep-work?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152473?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Bring \"Body Doubling\" to your Mac notch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ipromise-ai-focus-buddy-for-deep-work?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152473?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-21T10:45:24+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1367,7 +1394,7 @@
       "id": "7d7ef1f1664d79d9c12fe1f7e47de806a0d66d4b",
       "title": "moop",
       "link": "https://www.producthunt.com/products/moop",
-      "summary": "<p>\n            The social network of taste.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/moop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152061?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            A social network without media\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/moop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152061?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-20T21:51:18+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1391,24 +1418,6 @@
       "category": "tech"
     },
     {
-      "id": "b3f86aee368e8565db7881c5b855e96e6063899c",
-      "title": "Leaving the V8 in the past: The all-electric Mercedes-AMG GT 4-Door",
-      "link": "https://arstechnica.com/cars/2026/05/leaving-the-v8-in-the-past-the-all-electric-mercedes-amg-gt-4-door/",
-      "summary": "The 0–60 time is impressive, the miles/kWh number even more so.",
-      "published": "2026-05-20T19:53:34+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "817234f081428a978ca28879cb723aad23b55888",
-      "title": "\"Ryzen 5800X3D 10th Anniversary Edition\" may help you avoid paying for a new PC",
-      "link": "https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/",
-      "summary": "It could be one way to make your old PC play nicely with a high-end GPU.",
-      "published": "2026-05-20T19:19:44+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
       "id": "56881014fa098ba5100260734d60e14eca8f252b",
       "title": "iCaur 03 iWD is now locally assembled in Malaysia: Still priced at RM130k",
       "link": "https://soyacincau.com/2026/05/20/icaur-03-iwd-ckd-malaysia-official-rm130k/",
@@ -1427,29 +1436,20 @@
       "category": "malaysia"
     },
     {
-      "id": "0239f85819dfb966108db17712e9de4545dcaf7b",
-      "title": "MAA warns limiting EV choices could derail Malaysia’s Net Zero emission goals",
-      "link": "https://soyacincau.com/2026/05/20/maa-warns-limiting-ev-choices-could-derail-malaysia-net-zero-goals/",
-      "summary": "The Malaysian Automotive Association (MAA) has expressed concern over Malaysia’s updated CBU EV policy, saying any changes involving electric vehicle policies must be implemented carefully and in phases to avoid disrupting the industry and slowing EV adoption. Speaking during the Kuala Lumpur International Mobility Show (KLIMS) 2026 media event, MAA President Mohd Shamsor Mohd Zain [&#8230;]",
-      "published": "2026-05-20T08:37:08+00:00",
-      "source": "SoyaCincau",
-      "category": "malaysia"
+      "id": "aa6fdf9b68889cd358b441ae2fcd0659b15ab836",
+      "title": "Auto Posts",
+      "link": "https://www.producthunt.com/products/auto-posts",
+      "summary": "<p>\n            Schedule social post, Telegram messages + more\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/auto-posts?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1151121?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-19T20:23:55+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
-      "id": "6672fbc94380801612efc5355db699d357fa2092",
-      "title": "DC Handal turns on 6x 22kW AC Charge Points at The Exchange TRX, RM1 per kWh",
-      "link": "https://soyacincau.com/2026/05/20/dc-handal-ev-charger-the-exchange-mall-trx/",
-      "summary": "There are now more EV chargers available at The Exchange Mall at TRX. DC Handal has turned on a total of 6x AC Charge Points located at the Basement 1 (B1) carpark near the Welcome Hall D entrance. The Mercedes-Benz co-branded EV charging location has a total of 6 bays and these are currently the [&#8230;]",
-      "published": "2026-05-20T02:51:37+00:00",
-      "source": "SoyaCincau",
-      "category": "malaysia"
-    },
-    {
-      "id": "8b144c94b407f7447491bc88fc874122d75bf73b",
-      "title": "AGG Identify",
-      "link": "https://www.producthunt.com/products/agg-identify",
-      "summary": "<p>\n            A lightweight, secure streamlined OIDC and OAuth2 provider\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agg-identify?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1149247?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-17T18:03:02+00:00",
+      "id": "ac24952117bc3f99616837740eed2a4e4ce57f44",
+      "title": "Our Stories",
+      "link": "https://www.producthunt.com/products/our-stories",
+      "summary": "<p>\n            A storytelling tool for raising bilingual kids\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/our-stories?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1149391?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-17T22:53:34+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
