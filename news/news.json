@@ -1,17 +1,35 @@
 {
-  "generatedAt": "2026-05-23T21:47:36.186313+00:00",
+  "generatedAt": "2026-05-23T22:44:59.121126+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
+      "id": "b41172b3661e0e0430fc5d4ef8dae3e8d34a81c3",
+      "title": "Record Club is trying to be Letterboxd for music nerds",
+      "link": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
+      "summary": "There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels more geared towards longer-form reviews than cataloging your listening habits and connecting with other fans. Record Club is clean and [&#8230;]",
+      "published": "2026-05-23T22:41:11+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
       "id": "bb834e47abfc7b906916649afdf5ad5829cfe31a",
       "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
       "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
       "summary": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
-      "published": "2026-05-23T21:14:57+00:00",
+      "published": "2026-05-23T22:10:24+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "5508efca2af90323bd951dd7209a7aa827c6c14f",
+      "title": "For publishers, pirated audiobooks made with AI on YouTube are a growing issue: removal is cumbersome, and some are hiring tech companies to take them down (Alexandra Alter/New York Times)",
+      "link": "https://www.techmeme.com/260523/p13#a260523p13",
+      "summary": "<a href=\"https://www.nytimes.com/2026/05/21/books/audiobook-piracy-youtube.html?unlocked_article_code=1.kFA.qUyS.1r1NrWh-s6p6&amp;smid=url-share\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260523/i13.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260523/p13#a260523p13\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Alexandra Alter / <a href=\"https://www.nytimes.com/\">New York Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nytimes.com/2026/05/21/books/audiobook-piracy-youtube.html?unlocked_article_code=1.kFA.qUyS.1r1NrWh-s6p6&amp;smid=url-share\">For publishers, pirated audiobooks made with AI on YouTube are a growing issue: removal is cumbersome, and some are hiring tech companies to take them down</a></b></span>&nbsp; &mdash;&nbsp; Illegal, synthetically narrated copies of &ldquo;The Hunger Games,&rdquo; hit self-help books and everything in between are increasingly common on the platform.</p>",
+      "published": "2026-05-23T22:10:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
     },
     {
       "id": "454cdfa3f3e999aca7767e1964fb08ef3d5bcffb",
@@ -707,15 +725,6 @@
       "category": "world"
     },
     {
-      "id": "45b869714eceb4d25413a9cf79f7800ed9b9c5ea",
-      "title": "The US NTSB suspends access to its civil transportation accidents database after people used AI to re-create voices of pilots killed in a 2025 UPS plane crash (Jeremy Hsu/Ars Technica)",
-      "link": "https://www.techmeme.com/260522/p33#a260522p33",
-      "summary": "<a href=\"https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260522/i33.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260522/p33#a260522p33\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jeremy Hsu / <a href=\"http://arstechnica.com/\">Ars Technica</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/\">The US NTSB suspends access to its civil transportation accidents database after people used AI to re-create voices of pilots killed in a 2025 UPS plane crash</a></b></span>&nbsp; &mdash;&nbsp; Pilots' voices from the last seconds of a fatal cargo plane crash have been re-created by Internet sleuths using software and AI tools.</p>",
-      "published": "2026-05-23T00:35:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "1f8b79d60c6c8709c48d059c229f9675a6dab6d6",
       "title": "AI is being used to resurrect the voices of dead pilots",
       "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
@@ -1049,15 +1058,6 @@
       "category": "tech"
     },
     {
-      "id": "96f8b301e284c187ace1bda9ff44db651d0eec6e",
-      "title": "The best Memorial Day sales you can shop this weekend",
-      "link": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
-      "summary": "Memorial Day is nearly here, meaning the seasonal sales are in full swing. If your weekend plans involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar lights, as many of our favorite models are currently on sale. You can also find deals on everything [&#8230;]",
-      "published": "2026-05-22T16:50:38+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "67a33d069ac80eb3dd5e113db082856fce9f3623",
       "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
       "link": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
@@ -1346,15 +1346,6 @@
       "category": "events"
     },
     {
-      "id": "17dd3dccc5959cd28e8f4aff894443c59d42ab66",
-      "title": "Nugget AI",
-      "link": "https://www.producthunt.com/products/nugget-ai",
-      "summary": "<p>\n            Turn customer interviews into your product roadmap\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nugget-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152985?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-22T02:35:07+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "90650d6be87b15bddb404e361cb87f120b216447",
       "title": "TNB Electron turns on 240kW DC Charger at Medan Peserai Batu Pahat",
       "link": "https://soyacincau.com/2026/05/22/tnb-electron-240kw-dc-charger-medan-peserai-batu-pahat-johor/",
@@ -1369,6 +1360,15 @@
       "link": "https://www.producthunt.com/products/wordpress-7-0",
       "summary": "<p>\n            Introducing AI tools, new admin experience & design controls\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wordpress-7-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152815?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-21T19:14:44+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "9655592538ff259ecf964dc3b4cdd20bf8501a79",
+      "title": "HelioPeak",
+      "link": "https://www.producthunt.com/products/heliopeak",
+      "summary": "<p>\n            Solar monitoring for pvoutput on every Apple device.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/heliopeak?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152556?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-21T12:11:56+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1405,6 +1405,15 @@
       "link": "https://www.producthunt.com/products/google-antigravity",
       "summary": "<p>\n            Run coding agents directly from your terminal\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1151353?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-20T05:19:28+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "8b144c94b407f7447491bc88fc874122d75bf73b",
+      "title": "AGG Identify",
+      "link": "https://www.producthunt.com/products/agg-identify",
+      "summary": "<p>\n            A lightweight, secure streamlined OIDC and OAuth2 provider\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agg-identify?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1149247?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-17T18:03:02+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1459,15 +1468,6 @@
       "link": "https://www.producthunt.com/products/coca-2-0",
       "summary": "<p>\n            Keep Your Mac and Apps Awake!\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/coca-2-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1143767?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-10T19:34:57+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "4b71489386c2daeef5eec2d06013ad8cd6909963",
-      "title": "General Compute",
-      "link": "https://www.producthunt.com/products/general-compute",
-      "summary": "<p>\n            AI models that run on an inference cloud optimized for speed\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/general-compute?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1129994?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-22T15:18:34+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
