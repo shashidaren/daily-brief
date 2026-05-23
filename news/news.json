@@ -1,33 +1,51 @@
 {
-  "generatedAt": "2026-05-23T20:02:53.353485+00:00",
+  "generatedAt": "2026-05-23T21:47:36.186313+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "bb834e47abfc7b906916649afdf5ad5829cfe31a",
+      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
+      "published": "2026-05-23T21:14:57+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "454cdfa3f3e999aca7767e1964fb08ef3d5bcffb",
+      "title": "How Anthropic's ongoing discussions with the Vatican about ethics and AI led to Christopher Olah being invited to Pope Leo's unveiling of an encyclical on AI (Jack Jenkins/RNS)",
+      "link": "https://www.techmeme.com/260523/p12#a260523p12",
+      "summary": "<a href=\"https://religionnews.com/2026/05/22/why-anthropic-is-helping-unveil-the-popes-new-encyclical-on-ai/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260523/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260523/p12#a260523p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jack Jenkins / <a href=\"https://religionnews.com/\">RNS</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://religionnews.com/2026/05/22/why-anthropic-is-helping-unveil-the-popes-new-encyclical-on-ai/\">How Anthropic's ongoing discussions with the Vatican about ethics and AI led to Christopher Olah being invited to Pope Leo's unveiling of an encyclical on AI</a></b></span>&nbsp; &mdash;&nbsp; (RNS) &mdash; Pope Leo XIV's new encyclical on AI is set to be released Monday (May 27), with Chris Olah, a co-founder of Anthropic, at his side.</p>",
+      "published": "2026-05-23T20:10:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "39bdac2446d957a1d1888203ec9ed34a5a4b823a",
+      "title": "California declares state of emergency as fire crews race to contain toxic chemical leak",
+      "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
+      "published": "2026-05-23T20:07:01+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "94e6544ca84951879fd406e38c6d8580bff26a04",
+      "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
+      "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+      "summary": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
+      "published": "2026-05-23T20:03:13+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "ab6920098664ca27f59391d2dbed8f9fdf41eb08",
       "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
       "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
       "summary": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
       "published": "2026-05-23T19:55:16+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "da2e738d26e7d03bd972d55fd5df6218761809c8",
-      "title": "Iran 'getting a lot closer' to agreement with US, Trump says",
-      "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
-      "published": "2026-05-23T19:46:54+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "0fa0842a7276a0efde176ae38987273190174da8",
-      "title": "Thousands evacuated in California over warning toxic chemical tank could explode or spill",
-      "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials warn the tank in Orange County contains a \"highly volatile\" substance that could lead to an explosion.",
-      "published": "2026-05-23T19:32:07+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -698,15 +716,6 @@
       "category": "tech"
     },
     {
-      "id": "8f4cdcde15ef0b895ddcc39c79d7ce336f81ca2d",
-      "title": "Anthropic says Claude Mythos Preview has been used to find more than 10,000 high- or critical-severity vulnerabilities since the launch of Project Glasswing (Anthropic)",
-      "link": "https://www.techmeme.com/260522/p32#a260522p32",
-      "summary": "<a href=\"https://www.anthropic.com/research/glasswing-initial-update\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260522/i32.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260522/p32#a260522p32\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.anthropic.com/\">Anthropic</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.anthropic.com/research/glasswing-initial-update\">Anthropic says Claude Mythos Preview has been used to find more than 10,000 high- or critical-severity vulnerabilities since the launch of Project Glasswing</a></b></span>&nbsp; &mdash;&nbsp; Last month, we launched Project Glasswing, our collaborative effort to secure the world's most critical software before increasingly capable AI models can be turned against it.</p>",
-      "published": "2026-05-23T00:15:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "1f8b79d60c6c8709c48d059c229f9675a6dab6d6",
       "title": "AI is being used to resurrect the voices of dead pilots",
       "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
@@ -1175,15 +1184,6 @@
       "category": "tech"
     },
     {
-      "id": "740d3fa1ddc44f07fb69d9f046cf37c0d4f7ddd8",
-      "title": "Audio-generation app Huxe, founded by former NotebookLM developers, shuts down",
-      "link": "https://techcrunch.com/2026/05/22/audio-generation-app-huxe-founded-by-former-notebooklm-developers-shuts-down/",
-      "summary": "Huxe said that it has pulled its app from App Store and Play Store, and that it will stop working later this month.",
-      "published": "2026-05-22T13:48:03+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "d582813f71088955ae5364165b1603856e6a23a9",
       "title": "DC Handal deploys 50kW DC and 22kW AC charge points at Plaza Mont Kiara",
       "link": "https://soyacincau.com/2026/05/22/dc-handal-ev-charger-plaza-mont-kiara-block-b-level-b1/",
@@ -1328,11 +1328,29 @@
       "category": "malaysia"
     },
     {
+      "id": "5188f6d0baef19745927371ccb360553d50ede06",
+      "title": "Shroomie",
+      "link": "https://www.producthunt.com/products/shroomie",
+      "summary": "<p>\n            AI-powered news made fun and habit-forming\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/shroomie?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1153101?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-22T06:49:14+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "5bf70da97f9e2b442a714ff071a12b62b6276e54",
       "title": "Spantop",
       "link": "https://www.producthunt.com/products/spantop",
       "summary": "<p>\n            Turn any Mac into a real second monitor\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/spantop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1153019?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-22T04:14:40+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "17dd3dccc5959cd28e8f4aff894443c59d42ab66",
+      "title": "Nugget AI",
+      "link": "https://www.producthunt.com/products/nugget-ai",
+      "summary": "<p>\n            Turn customer interviews into your product roadmap\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nugget-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152985?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-22T02:35:07+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1346,20 +1364,20 @@
       "category": "malaysia"
     },
     {
-      "id": "57c311db3374070a7479dd891a229a0b7e77e2ae",
-      "title": "DCP",
-      "link": "https://www.producthunt.com/products/dcp",
-      "summary": "<p>\n            Give your AI agents encrypted permission and keys\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dcp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152914?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-21T22:45:53+00:00",
+      "id": "9a3d72c849ac0803c080c6884d8ee5c3172c41bf",
+      "title": "WordPress 7.0",
+      "link": "https://www.producthunt.com/products/wordpress-7-0",
+      "summary": "<p>\n            Introducing AI tools, new admin experience & design controls\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wordpress-7-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152815?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-21T19:14:44+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "ed99eba199029169ec02583237015b03110ec316",
-      "title": "buildpipe",
-      "link": "https://www.producthunt.com/products/buildpipe",
-      "summary": "<p>\n            Compose, run and automate multi step AI developer workflows\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/buildpipe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152848?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-21T20:28:41+00:00",
+      "id": "678f48011e88ef0af287985f035dc893cd76f455",
+      "title": "Cleo",
+      "link": "https://www.producthunt.com/products/cleo-4",
+      "summary": "<p>\n            The AI PM that runs your team\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cleo-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152537?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-21T11:50:50+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1387,15 +1405,6 @@
       "link": "https://www.producthunt.com/products/google-antigravity",
       "summary": "<p>\n            Run coding agents directly from your terminal\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1151353?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-20T05:19:28+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "ac24952117bc3f99616837740eed2a4e4ce57f44",
-      "title": "Our Stories",
-      "link": "https://www.producthunt.com/products/our-stories",
-      "summary": "<p>\n            A storytelling tool for raising bilingual kids\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/our-stories?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1149391?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-17T22:53:34+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1454,11 +1463,11 @@
       "category": "events"
     },
     {
-      "id": "4dc24a0ac763ecc9e470269e50dc5f24fbe0716a",
-      "title": "Prosed",
-      "link": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-      "summary": "<p>\n            Go from newsletters & podcasts to published manuscript\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/prosed-turn-your-content-into-a-book?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1138517?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-04T07:53:37+00:00",
+      "id": "4b71489386c2daeef5eec2d06013ad8cd6909963",
+      "title": "General Compute",
+      "link": "https://www.producthunt.com/products/general-compute",
+      "summary": "<p>\n            AI models that run on an inference cloud optimized for speed\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/general-compute?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1129994?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-22T15:18:34+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1468,15 +1477,6 @@
       "link": "https://www.producthunt.com/products/bulkmark-2",
       "summary": "<p>\n            Transform your Twitter/X Bookmarks into real knowledge\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bulkmark-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123370?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-14T09:14:14+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "c057dc09b2cbaad6ede8ccca23d806a944a97896",
-      "title": "SuprSend AI",
-      "link": "https://www.producthunt.com/products/suprsend",
-      "summary": "<p>\n            AI-first platform for multi-channel notifications\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/suprsend?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1113904?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-02T05:55:17+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
