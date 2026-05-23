@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-05-23T17:00:07.101563+00:00",
+  "generatedAt": "2026-05-23T18:04:03.048860+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "c0f85eed2e64d1dad3d08d4e3da30b09cacd0f4a",
+      "title": "Jensen Huang urged Super Micro to tighten up compliance after Taiwan detained three people for allegedly trying to export servers with Nvidia chips to China (Debby Wu/Bloomberg)",
+      "link": "https://www.techmeme.com/260523/p10#a260523p10",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-05-23/nvidia-ceo-urges-super-micro-to-tighten-up-amid-taiwan-crackdown\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260523/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260523/p10#a260523p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Debby Wu / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-05-23/nvidia-ceo-urges-super-micro-to-tighten-up-amid-taiwan-crackdown\">Jensen Huang urged Super Micro to tighten up compliance after Taiwan detained three people for allegedly trying to export servers with Nvidia chips to China</a></b></span>&nbsp; &mdash;&nbsp; Nvidia Corp. Chief Executive Officer Jensen Huang urged Super Micro Computer Inc. to tighten up on compliance after Taiwan detained three people &hellip; </p>",
+      "published": "2026-05-23T17:40:04+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "ab6920098664ca27f59391d2dbed8f9fdf41eb08",
+      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
+      "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
+      "published": "2026-05-23T17:15:09+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "272fad527f9c4171dde84a2d4076ffb31a4bfcfd",
+      "title": "Dell says it has 5,000 clients for its AI Factory, a product line of servers with Nvidia chips, software, and services, including 1,000 new clients last quarter (Dina Bass/Bloomberg)",
+      "link": "https://www.techmeme.com/260523/p9#a260523p9",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-05-18/dell-sells-1-000-ai-servers-with-nvidia-chips-in-current-quarter\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260523/i9.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260523/p9#a260523p9\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Dina Bass / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-05-18/dell-sells-1-000-ai-servers-with-nvidia-chips-in-current-quarter\">Dell says it has 5,000 clients for its AI Factory, a product line of servers with Nvidia chips, software, and services, including 1,000 new clients last quarter</a></b></span>&nbsp; &mdash;&nbsp; Dell Technologies Inc. said it added 1,000 customers for a key AI product line in the past quarter as the company tries &hellip; </p>",
+      "published": "2026-05-23T17:05:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
     {
       "id": "f00a07a73ec81c2a886e1f817f324d3d7adfc300",
       "title": "These special phone and app features can help protect you from spyware",
@@ -23,11 +50,20 @@
       "category": "world"
     },
     {
-      "id": "48b9740ce8a697826b9eaa051929777ffa571341",
-      "title": "Toxic chemical leak forces thousands to evacuate near Los Angeles",
+      "id": "0fa0842a7276a0efde176ae38987273190174da8",
+      "title": "Thousands evacuated in California over warning toxic chemical tank could explode or spill",
       "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
       "summary": "Officials warn the tank in Orange County contains a \"highly volatile\" substance that could lead to an explosion.",
       "published": "2026-05-23T15:32:09+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "28f7e72cd9a83922414257c40f9dcf2d766af167",
+      "title": "India's parody 'cockroach party' claims website has been blocked",
+      "link": "https://www.bbc.com/news/articles/cddpq71866do?at_medium=RSS&at_campaign=rss",
+      "summary": "The satirical group has gained millions of followers as \"the voice of the lazy and unemployed\".",
+      "published": "2026-05-23T15:25:39+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -644,15 +680,6 @@
       "category": "tech"
     },
     {
-      "id": "84c7da39183b9d5d100e6cb47be27bdc802eed8f",
-      "title": "Google files its appeal of the US federal ruling deeming it an illegal search monopolist, arguing it \"prevailed in the marketplace fair and square\" (Lauren Feiner/The Verge)",
-      "link": "https://www.techmeme.com/260522/p30#a260522p30",
-      "summary": "<a href=\"https://www.theverge.com/policy/936175/google-search-monopoly-ruling-appeal?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkgwenRTSWJWckciLCJwIjoiL3BvbGljeS85MzYxNzUvZ29vZ2xlLXNlYXJjaC1tb25vcG9seS1ydWxpbmctYXBwZWFsIiwiZXhwIjoxNzc5OTIyNjQ3LCJpYXQiOjE3Nzk0OTA2NDd9.dPB1y9gWvB3iGftw8eAVfk4_DG2M2YwJFAoMT7oVsKw&amp;utm_medium=gift-link\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260522/i30.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260522/p30#a260522p30\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lauren Feiner / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/policy/936175/google-search-monopoly-ruling-appeal?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkgwenRTSWJWckciLCJwIjoiL3BvbGljeS85MzYxNzUvZ29vZ2xlLXNlYXJjaC1tb25vcG9seS1ydWxpbmctYXBwZWFsIiwiZXhwIjoxNzc5OTIyNjQ3LCJpYXQiOjE3Nzk0OTA2NDd9.dPB1y9gWvB3iGftw8eAVfk4_DG2M2YwJFAoMT7oVsKw&amp;utm_medium=gift-link\">Google files its appeal of the US federal ruling deeming it an illegal search monopolist, arguing it &ldquo;prevailed in the marketplace fair and square&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; It wants to throw out the original decision, as well as an order to share data with rivals.</p>",
-      "published": "2026-05-22T23:10:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "6c839714217138645caf8c9d2b6ffe538d4fa30e",
       "title": "Race for French presidency sees ex-PM Philippe as early favourite to beat populists",
       "link": "https://www.bbc.com/news/articles/c4g0410gnv5o?at_medium=RSS&at_campaign=rss",
@@ -668,15 +695,6 @@
       "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
       "published": "2026-05-22T23:03:33+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "ba3f0558ea43586d6c483a2b36a825ba23efc868",
-      "title": "China's Wingtech files a lawsuit against Nexperia, saying its control over the Dutch chipmaker remained restricted, and seeks ~$1.2B for economic losses (Reuters)",
-      "link": "https://www.techmeme.com/260522/p29#a260522p29",
-      "summary": "<a href=\"https://www.reuters.com/legal/litigation/wingtech-seeks-12-billion-damages-new-suit-against-nexperia-2026-05-22/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260522/i29.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260522/p29#a260522p29\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/legal/litigation/wingtech-seeks-12-billion-damages-new-suit-against-nexperia-2026-05-22/\">China's Wingtech files a lawsuit against Nexperia, saying its control over the Dutch chipmaker remained restricted, and seeks ~$1.2B for economic losses</a></b></span>&nbsp; &mdash;&nbsp; China's Wingtech Technology (600745.SS) has filed a lawsuit with a subsidiary against Nexperia B.V. and five other entities &hellip; </p>",
-      "published": "2026-05-22T23:00:42+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -1067,15 +1085,6 @@
       "category": "tech"
     },
     {
-      "id": "3841e53da704459804e661fdb42e1b6d1bb914b9",
-      "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
-      "link": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
-      "summary": "A Waymo spokesperson said it had expanded the temporary pause \"out of an abundance of caution\".",
-      "published": "2026-05-22T16:10:21+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "3e292c35901a5fe459592444decd6808f26e56e3",
       "title": "We tried Google’s AI glasses and they’re almost there",
       "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
@@ -1090,15 +1099,6 @@
       "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
       "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
       "published": "2026-05-22T15:18:30+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "076089050c7c2c378ab7c45466882b458ef7591d",
-      "title": "Sabalenka cuts media short as French Open players protest",
-      "link": "https://www.bbc.com/sport/tennis/articles/ce3pg95djdeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Leading players, including Aryna Sabalenka, Coco Gauff and Jannik Sinner, limit their French Open media duties to 15 minutes in a row over prize money.",
-      "published": "2026-05-22T14:59:34+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -1337,15 +1337,6 @@
       "category": "events"
     },
     {
-      "id": "17dd3dccc5959cd28e8f4aff894443c59d42ab66",
-      "title": "Nugget AI",
-      "link": "https://www.producthunt.com/products/nugget-ai",
-      "summary": "<p>\n            Turn customer interviews into your product roadmap\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nugget-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152985?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-22T02:35:07+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "90650d6be87b15bddb404e361cb87f120b216447",
       "title": "TNB Electron turns on 240kW DC Charger at Medan Peserai Batu Pahat",
       "link": "https://soyacincau.com/2026/05/22/tnb-electron-240kw-dc-charger-medan-peserai-batu-pahat-johor/",
@@ -1353,15 +1344,6 @@
       "published": "2026-05-22T01:33:28+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "57c311db3374070a7479dd891a229a0b7e77e2ae",
-      "title": "DCP",
-      "link": "https://www.producthunt.com/products/dcp",
-      "summary": "<p>\n            Give your AI agents encrypted permission and keys\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dcp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152914?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-21T22:45:53+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "f9afc090fcea446b298fae607c45cd50b51c905c",
@@ -1378,6 +1360,15 @@
       "link": "https://www.producthunt.com/products/cleo-4",
       "summary": "<p>\n            The AI PM that runs your team\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cleo-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152537?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-21T11:50:50+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "2345e04e3c17922c01b6cbfaa2c4a0f447a0f61c",
+      "title": "iPromise",
+      "link": "https://www.producthunt.com/products/ipromise-ai-focus-buddy-for-deep-work",
+      "summary": "<p>\n            Bring \"Body Doubling\" to your Mac notch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ipromise-ai-focus-buddy-for-deep-work?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152473?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-21T10:45:24+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1468,6 +1459,15 @@
       "link": "https://www.producthunt.com/products/coca-2-0",
       "summary": "<p>\n            Keep Your Mac and Apps Awake!\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/coca-2-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1143767?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-10T19:34:57+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "4dc24a0ac763ecc9e470269e50dc5f24fbe0716a",
+      "title": "Prosed",
+      "link": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "summary": "<p>\n            Go from newsletters & podcasts to published manuscript\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/prosed-turn-your-content-into-a-book?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1138517?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-04T07:53:37+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
