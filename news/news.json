@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-05-23T18:04:03.048860+00:00",
+  "generatedAt": "2026-05-23T20:02:53.353485+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "ab6920098664ca27f59391d2dbed8f9fdf41eb08",
+      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
+      "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
+      "published": "2026-05-23T19:55:16+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "da2e738d26e7d03bd972d55fd5df6218761809c8",
+      "title": "Iran 'getting a lot closer' to agreement with US, Trump says",
+      "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
+      "published": "2026-05-23T19:46:54+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "0fa0842a7276a0efde176ae38987273190174da8",
+      "title": "Thousands evacuated in California over warning toxic chemical tank could explode or spill",
+      "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials warn the tank in Orange County contains a \"highly volatile\" substance that could lead to an explosion.",
+      "published": "2026-05-23T19:32:07+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "f81e1fead78018e2461908c27582a7938bab2d51",
+      "title": "Sources: the ECB warned EU finance ministers that proposals to issue more euro stablecoins could reduce bank lending and make controlling interest rates harder (Reuters)",
+      "link": "https://www.techmeme.com/260523/p11#a260523p11",
+      "summary": "<a href=\"https://www.reuters.com/business/finance/ecb-rebuffs-proposals-boost-euro-stablecoins-too-risky-2026-05-22/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260523/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260523/p11#a260523p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/business/finance/ecb-rebuffs-proposals-boost-euro-stablecoins-too-risky-2026-05-22/\">Sources: the ECB warned EU finance ministers that proposals to issue more euro stablecoins could reduce bank lending and make controlling interest rates harder</a></b></span>&nbsp; &mdash;&nbsp; The European Central Bank warned European Union finance ministers on Friday that proposals to issue more euro stablecoins &hellip; </p>",
+      "published": "2026-05-23T19:00:27+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "d549bd85d256c3d4449b128c4876deecbe6d5cdf",
+      "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
+      "link": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
+      "summary": "SpaceX has more to prove before flying Starship all the way to low-Earth orbit.",
+      "published": "2026-05-23T17:54:54+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
     {
       "id": "c0f85eed2e64d1dad3d08d4e3da30b09cacd0f4a",
       "title": "Jensen Huang urged Super Micro to tighten up compliance after Taiwan detained three people for allegedly trying to export servers with Nvidia chips to China (Debby Wu/Bloomberg)",
@@ -14,11 +59,11 @@
       "category": "tech"
     },
     {
-      "id": "ab6920098664ca27f59391d2dbed8f9fdf41eb08",
-      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
-      "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
-      "summary": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
-      "published": "2026-05-23T17:15:09+00:00",
+      "id": "598c7ff69f6ec9039bcda8771e7960cd79e8e393",
+      "title": "Nascar champion Kyle Busch died of pneumonia and sepsis, family says",
+      "link": "https://www.bbc.com/news/articles/ceqpwx5741no?at_medium=RSS&at_campaign=rss",
+      "summary": "The driver died aged 41 on Thursday after \"overwhelming complications\" from the illnesses.",
+      "published": "2026-05-23T17:33:30+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -46,15 +91,6 @@
       "link": "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
       "summary": "Four-time Formula 1 world champion Alain Prost was injured when a masked gang raided his home near Geneva, Swiss media reports.",
       "published": "2026-05-23T15:33:20+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "0fa0842a7276a0efde176ae38987273190174da8",
-      "title": "Thousands evacuated in California over warning toxic chemical tank could explode or spill",
-      "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials warn the tank in Orange County contains a \"highly volatile\" substance that could lead to an explosion.",
-      "published": "2026-05-23T15:32:09+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -554,10 +590,10 @@
       "category": "tech"
     },
     {
-      "id": "156385103e2ce0a6ba2c666dec6502a9932e0178",
-      "title": "Q&A with Sundar Pichai on the future of Google Search, Google's place in the AI race, public skepticism toward AI, AI agents, AI safety, TPUs, and more (New York Times)",
+      "id": "488bab0158550469d2055cf093a290616e6fcdd7",
+      "title": "Q&A with Sundar Pichai on Google Search's future, Google's place in the AI race, public skepticism of AI, TPUs, being \"behind the frontier\" in coding, more (New York Times)",
       "link": "https://www.techmeme.com/260523/p4#a260523p4",
-      "summary": "<a href=\"https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260523/i4.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260523/p4#a260523p4\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.nytimes.com/\">New York Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html\">Q&amp;A with Sundar Pichai on the future of Google Search, Google's place in the AI race, public skepticism toward AI, AI agents, AI safety, TPUs, and more</a></b></span>&nbsp; &mdash;&nbsp; After a busy Google I/O, the company's chief executive sits down with the hosts of &ldquo;Hard Fork&rdquo; to discuss the future of Google Search &hellip; </p>",
+      "summary": "<a href=\"https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260523/i4.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260523/p4#a260523p4\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.nytimes.com/\">New York Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html\">Q&amp;A with Sundar Pichai on Google Search's future, Google's place in the AI race, public skepticism of AI, TPUs, being &ldquo;behind the frontier&rdquo; in coding, more</a></b></span>&nbsp; &mdash;&nbsp; After a busy Google I/O, the company's chief executive sits down with the hosts of &ldquo;Hard Fork&rdquo; &hellip; </p>",
       "published": "2026-05-23T06:35:01+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -653,10 +689,10 @@
       "category": "world"
     },
     {
-      "id": "9824de605af655d8b4e532f74cbb6a116c0080a3",
-      "title": "The US NTSB suspends access to its database of civil transportation accidents after people re-created voices of pilots killed in a 2025 UPS plane crash using AI (Jeremy Hsu/Ars Technica)",
+      "id": "45b869714eceb4d25413a9cf79f7800ed9b9c5ea",
+      "title": "The US NTSB suspends access to its civil transportation accidents database after people used AI to re-create voices of pilots killed in a 2025 UPS plane crash (Jeremy Hsu/Ars Technica)",
       "link": "https://www.techmeme.com/260522/p33#a260522p33",
-      "summary": "<a href=\"https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260522/i33.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260522/p33#a260522p33\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jeremy Hsu / <a href=\"http://arstechnica.com/\">Ars Technica</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/\">The US NTSB suspends access to its database of civil transportation accidents after people re-created voices of pilots killed in a 2025 UPS plane crash using AI</a></b></span>&nbsp; &mdash;&nbsp; Pilots' voices from the last seconds of a fatal cargo plane crash have been re-created by Internet sleuths using software and AI tools.</p>",
+      "summary": "<a href=\"https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260522/i33.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260522/p33#a260522p33\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jeremy Hsu / <a href=\"http://arstechnica.com/\">Ars Technica</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/\">The US NTSB suspends access to its civil transportation accidents database after people used AI to re-create voices of pilots killed in a 2025 UPS plane crash</a></b></span>&nbsp; &mdash;&nbsp; Pilots' voices from the last seconds of a fatal cargo plane crash have been re-created by Internet sleuths using software and AI tools.</p>",
       "published": "2026-05-23T00:35:02+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -669,24 +705,6 @@
       "published": "2026-05-23T00:15:01+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "5e17823e02cb037915953672d179076cdfd9398b",
-      "title": "The Trump administration plans to require most green card applicants to return to their home countries to apply, which could adversely impact tech workers (Peter Wells/Financial Times)",
-      "link": "https://www.techmeme.com/260522/p31#a260522p31",
-      "summary": "<a href=\"https://www.ft.com/content/5d4c3de6-07d9-436e-8822-2dbafd10774a?accessToken=zwAAAZ5SNBaukc9dTD3mB9lDbtOIIi26_RB3Sg.MEYCIQCsVA8PR8TshTUaZPaTx6nsg_2KYnYL6x3ngig3CQdVgAIhANp5uNo3IePz-gcYj9eW9L6TCRYrldKML0YJSzaJ-NaH&amp;sharetype=gift&amp;token=cb97d280-e512-4d07-a34d-8612c794f921&amp;syn-25a6b1a6=1\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260522/i31.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260522/p31#a260522p31\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Peter Wells / <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/5d4c3de6-07d9-436e-8822-2dbafd10774a?accessToken=zwAAAZ5SNBaukc9dTD3mB9lDbtOIIi26_RB3Sg.MEYCIQCsVA8PR8TshTUaZPaTx6nsg_2KYnYL6x3ngig3CQdVgAIhANp5uNo3IePz-gcYj9eW9L6TCRYrldKML0YJSzaJ-NaH&amp;sharetype=gift&amp;token=cb97d280-e512-4d07-a34d-8612c794f921&amp;syn-25a6b1a6=1\">The Trump administration plans to require most green card applicants to return to their home countries to apply, which could adversely impact tech workers</a></b></span>&nbsp; &mdash;&nbsp; Move to tighten permanent residency requirements could have significant implications for businesses</p>",
-      "published": "2026-05-22T23:40:05+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "6c839714217138645caf8c9d2b6ffe538d4fa30e",
-      "title": "Race for French presidency sees ex-PM Philippe as early favourite to beat populists",
-      "link": "https://www.bbc.com/news/articles/c4g0410gnv5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Latest polls suggest the centre-right figure is the only candidate who can defeat Marine Le Pen or Jean-Luc Mélenchon.",
-      "published": "2026-05-22T23:07:55+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "1f8b79d60c6c8709c48d059c229f9675a6dab6d6",
@@ -732,15 +750,6 @@
       "published": "2026-05-22T22:24:03+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "f201ad7fd7521d317e13171c5b53bfb2f33ba940",
-      "title": "Judge dismisses criminal case against Kilmar Abrego Garcia",
-      "link": "https://www.bbc.com/news/articles/cx21r04wg8qo?at_medium=RSS&at_campaign=rss",
-      "summary": "A federal judge says the Maryland man who was wrongfully deported last year is being prosecuted for political reasons.",
-      "published": "2026-05-22T21:47:47+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "c7af7d40afe1d05af5e00f66c18502b3ee435423",
@@ -1229,15 +1238,6 @@
       "category": "tech"
     },
     {
-      "id": "2164889a305f5e13c39df49075d1d23e31cc684b",
-      "title": "Rocket Report: Starship launch delayed, German launch company may aid Canada",
-      "link": "https://arstechnica.com/space/2026/05/rocket-report-starship-launch-delayed-german-launch-company-may-aid-canada/",
-      "summary": "All eyes on South Texas for the latest Starship test flight.",
-      "published": "2026-05-22T11:20:43+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
       "id": "d9f5538ef68e3fbd4aad9eaff537159937d16c17",
       "title": "MCMC Adds Two Codes To ONSA Ahead Of 1 June Implementation",
       "link": "https://www.lowyat.net/2026/393553/mcmc-adds-two-codes-onsa-ahead-of-1-june-implementation/",
@@ -1346,29 +1346,20 @@
       "category": "malaysia"
     },
     {
-      "id": "f9afc090fcea446b298fae607c45cd50b51c905c",
-      "title": "Zero Assist",
-      "link": "https://www.producthunt.com/products/zero-assist",
-      "summary": "<p>\n            Real-time AI cheating detection for technical interviews\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zero-assist?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152680?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-21T15:06:30+00:00",
+      "id": "57c311db3374070a7479dd891a229a0b7e77e2ae",
+      "title": "DCP",
+      "link": "https://www.producthunt.com/products/dcp",
+      "summary": "<p>\n            Give your AI agents encrypted permission and keys\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dcp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152914?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-21T22:45:53+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "678f48011e88ef0af287985f035dc893cd76f455",
-      "title": "Cleo",
-      "link": "https://www.producthunt.com/products/cleo-4",
-      "summary": "<p>\n            The AI PM that runs your team\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cleo-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152537?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-21T11:50:50+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "2345e04e3c17922c01b6cbfaa2c4a0f447a0f61c",
-      "title": "iPromise",
-      "link": "https://www.producthunt.com/products/ipromise-ai-focus-buddy-for-deep-work",
-      "summary": "<p>\n            Bring \"Body Doubling\" to your Mac notch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ipromise-ai-focus-buddy-for-deep-work?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152473?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-21T10:45:24+00:00",
+      "id": "ed99eba199029169ec02583237015b03110ec316",
+      "title": "buildpipe",
+      "link": "https://www.producthunt.com/products/buildpipe",
+      "summary": "<p>\n            Compose, run and automate multi step AI developer workflows\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/buildpipe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152848?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-21T20:28:41+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1400,11 +1391,11 @@
       "category": "events"
     },
     {
-      "id": "aa6fdf9b68889cd358b441ae2fcd0659b15ab836",
-      "title": "Auto Posts",
-      "link": "https://www.producthunt.com/products/auto-posts",
-      "summary": "<p>\n            Schedule social post, Telegram messages + more\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/auto-posts?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1151121?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-19T20:23:55+00:00",
+      "id": "ac24952117bc3f99616837740eed2a4e4ce57f44",
+      "title": "Our Stories",
+      "link": "https://www.producthunt.com/products/our-stories",
+      "summary": "<p>\n            A storytelling tool for raising bilingual kids\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/our-stories?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1149391?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-17T22:53:34+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1477,6 +1468,15 @@
       "link": "https://www.producthunt.com/products/bulkmark-2",
       "summary": "<p>\n            Transform your Twitter/X Bookmarks into real knowledge\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bulkmark-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1123370?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-14T09:14:14+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "c057dc09b2cbaad6ede8ccca23d806a944a97896",
+      "title": "SuprSend AI",
+      "link": "https://www.producthunt.com/products/suprsend",
+      "summary": "<p>\n            AI-first platform for multi-channel notifications\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/suprsend?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1113904?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-02T05:55:17+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
