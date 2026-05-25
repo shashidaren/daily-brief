@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-05-25T20:58:57.504487+00:00",
+  "generatedAt": "2026-05-25T22:10:22.402911+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "353ebcbb5c2b369d8002eef543be4da6d619205e",
+      "title": "Deal with US not imminent, Iran says",
+      "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
+      "published": "2026-05-25T22:05:29+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "46bd8fc41c30707380f7b7101033d578567cf0cc",
+      "title": "Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery",
+      "link": "https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth",
+      "summary": "Nearly four years after the last version of Sennheiser's Momentum headphones debuted with a redesign that traded a retro aesthetic for a more contemporary and comfortable design, the company has announced its Momentum 5 Wireless headphones. They look very similar to their predecessors, the Momentum 4, with large ear cups and a design that doesn't [&#8230;]",
+      "published": "2026-05-25T22:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "03777f39794516dd7f50a23a006784e4a8f52500",
+      "title": "Ferrari reveals its first EV, with design help from Jony Ive",
+      "link": "https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom",
+      "summary": "After months of teasers, Ferrari is offering the first full view of its Luce electric vehicle. The Luce is notable not just for being Ferrari's first EV, but for being designed in collaboration with Jony Ive and Mark Newson at their collective LoveFrom. It's also going to be Ferrari's second four-door car and its first [&#8230;]",
+      "published": "2026-05-25T21:33:12+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "87c67a46c5cec61808d57cbc96b2b5d21c00288d",
+      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "link": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
+      "published": "2026-05-25T21:24:34+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "2ca1453804f627e6935ddb8a7f46caaed8e6c42f",
       "title": "X says it is cracking down on large accounts that have been gaming its revenue-sharing program by \"programmatically reuploading content from smaller accounts\" (Lakshmi Varanasi/Business Insider)",
@@ -41,6 +77,15 @@
       "category": "world"
     },
     {
+      "id": "29b0d5616d218a1af71e02c5c71340dc6cfa7943",
+      "title": "'Blistering heat' in Delhi as temperatures reach 45C",
+      "link": "https://www.bbc.com/news/videos/c4g002jvv8wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Sumedha Pal describes how difficult it is to be standing in the streets of Delhi as temperatures rise to 45C .",
+      "published": "2026-05-25T19:36:00+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "773b3bfd0b0018ce3c36218f2ce6a78eec460d2f",
       "title": "Apple’s most affordable new M5 MacBook Air models are nearly $200 off for Memorial Day (13 and 15-inch all-time lows)",
       "link": "https://9to5toys.com/2026/05/25/apple-most-affordable-new-m5-macbook-air-memorial-day-deals/",
@@ -66,15 +111,6 @@
       "published": "2026-05-25T18:25:00+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "87c67a46c5cec61808d57cbc96b2b5d21c00288d",
-      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
-      "link": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
-      "published": "2026-05-25T17:42:26+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "22ac1997cb2f05196ce8a82fb7e16cf9a2a75175",
@@ -536,15 +572,6 @@
       "category": "malaysia"
     },
     {
-      "id": "353ebcbb5c2b369d8002eef543be4da6d619205e",
-      "title": "Deal with US not imminent, Iran says",
-      "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
-      "published": "2026-05-25T11:17:49+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "ee9f0002942499953997b57eb2b88a7109d64b17",
       "title": "A section of the Pope's encyclical describing AI's unpredictability suggests influence from Anthropic, whose co-founder Christopher Olah attended the unveiling (Washington Post)",
       "link": "https://www.techmeme.com/260525/p10#a260525p10",
@@ -887,15 +914,6 @@
       "category": "events"
     },
     {
-      "id": "6ead14b7c257b8cfd21e2a5d03f62604f697d9be",
-      "title": "How Saudi Arabia's spending spree reached the end of the line",
-      "link": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
-      "summary": "MBS's Vison 2030 project seemed the stuff of science fiction. Now reality has bitten",
-      "published": "2026-05-25T01:08:39+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "dd135ec21cecea6f73ab79f768bc9e1212adab3b",
       "title": "Blast targeting train kills at least 20 in Pakistan",
       "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
@@ -1085,13 +1103,13 @@
       "category": "events"
     },
     {
-      "id": "b41172b3661e0e0430fc5d4ef8dae3e8d34a81c3",
-      "title": "Record Club is trying to be Letterboxd for music nerds",
-      "link": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
-      "summary": "There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels more geared towards longer-form reviews than cataloging your listening habits and connecting with other fans. Record Club is clean and [&#8230;]",
-      "published": "2026-05-23T22:41:11+00:00",
-      "source": "The Verge",
-      "category": "tech"
+      "id": "f12b908b84111aa5eb7aacf1e94180a3d2e5c2a6",
+      "title": "DockFlow",
+      "link": "https://www.producthunt.com/products/dockflow",
+      "summary": "<p>\n            Save, switch, and automate Dock layouts for every workflow\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dockflow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1154237?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-23T20:10:35+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "94e6544ca84951879fd406e38c6d8580bff26a04",
@@ -1145,15 +1163,6 @@
       "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
       "published": "2026-05-23T15:08:00+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "aac86957b64c2e550b2e43e9fe48e6cda6661e56",
-      "title": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab",
-      "link": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech",
-      "summary": "Roger Linn is a legend in the world of musical instruments. He's been at the cutting edge of music technology for decades. He created the LM-1, the first drum machine to use samples, and its successor, the LinnDrum, is one of the most iconic drum machines of all time. They were used on countless records [&#8230;]",
-      "published": "2026-05-23T15:00:00+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -1423,15 +1432,6 @@
       "link": "https://www.producthunt.com/products/own-page",
       "summary": "<p>\n            Make your own personal website with bento tiles\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/own-page?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152782?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-21T18:24:54+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "fdded8e63ffbf81b94239353b2c6278f45c0e419",
-      "title": "Stitch 3.0 by Google",
-      "link": "https://www.producthunt.com/products/stitch-by-google",
-      "summary": "<p>\n            Generate and iterate UI screens with AI on a live canvas\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/stitch-by-google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1151377?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-20T05:55:36+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
