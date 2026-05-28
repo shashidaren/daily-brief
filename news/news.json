@@ -1,26 +1,458 @@
 {
-  "generatedAt": "2026-05-28T02:34:06.123715+00:00",
+  "generatedAt": "2026-05-28T06:48:20.636480+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
-      "id": "fde957166a4202869a896dced1458c70f241e92c",
-      "title": "US carries out new strikes on Iran military site",
-      "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is the second time in three days that the US has attacked targets in Iran - saying that the strikes were conducted in self defence.",
-      "published": "2026-05-28T02:30:24+00:00",
+      "id": "9999717544fa507aee849e8b2ccaa5915754e10e",
+      "title": "The golden age of handheld gaming is already over",
+      "link": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era",
+      "summary": "For a few glorious years, a $399 portable gadget could run almost anything you'd want to play. In 2022, the Steam Deck finally made PC gaming portable and affordable. I played through the vast majority of Elden Ring on a Steam Deck, agape that such a rich world could comfortably fit between my two hands. [&#8230;]",
+      "published": "2026-05-28T06:30:23+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "e6de31511ef2bba6b31f176d0aba60adcba46204",
+      "title": "Anthropic and OpenAI seem to have finally found product-market fit with coding agents, which are quickly becoming daily drivers for highly paid professionals (Simon Willison/Simon Willison's Weblog)",
+      "link": "https://www.techmeme.com/260528/p11#a260528p11",
+      "summary": "<p><a href=\"https://www.techmeme.com/260528/p11#a260528p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Simon Willison / <a href=\"http://simonwillison.net/\">Simon Willison's Weblog</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://simonwillison.net/2026/May/27/product-market-fit/\">Anthropic and OpenAI seem to have finally found product-market fit with coding agents, which are quickly becoming daily drivers for highly paid professionals</a></b></span>&nbsp; &mdash;&nbsp; Anthropic are strongly rumored to be about to have their first profitable quarter.&nbsp; Stories are circulating of companies surprised &hellip; </p>",
+      "published": "2026-05-28T06:30:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "f772c8b65b48d24d22ed2de6598199aa012a0c12",
+      "title": "Malaysian, 22, charged with murder after woman found dead in Singapore HDB lift",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/malaysian-22-charged-with-murder-after-woman-found-dead-in-singapore-hdb-lift/221693",
+      "summary": "KUALA LUMPUR, May 28 &mdash; A 22-year-old Malaysian man has been charged with murder after a 21-year-old woman was foun...",
+      "published": "2026-05-28T06:28:19+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "a7016be631e3e122737c12a26ed29b7e4523dc0a",
+      "title": "Israel strikes southern Lebanon after evacuation orders",
+      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+      "summary": "The military says areas south of the Zahrani River are now \"combat zones\" as it begins fresh strikes.",
+      "published": "2026-05-28T06:26:41+00:00",
       "source": "BBC News",
       "category": "world"
     },
     {
-      "id": "09a094d6b129d9de71302cb7d1a93c3623b6e908",
-      "title": "Djokovic advances in French Open as Rybakina suffers shock second-round exit",
-      "link": "https://www.malaymail.com/news/sports/2026/05/28/djokovic-advances-in-french-open-as-rybakina-suffers-shock-second-round-exit/221648",
-      "summary": "&nbsp;PARIS, May 28 &mdash; Jed Court Novak Djokovic extended his latest bid for a record-breaking 25th Grand Slam title...",
-      "published": "2026-05-28T02:30:22+00:00",
+      "id": "d637bb0acf9511a4ed54529081acd1131e70cb7d",
+      "title": "Ryt Bank Launches Ryt Invest With RM1 Entry, Shariah-Compliant Option",
+      "link": "https://www.lowyat.net/2026/394031/ryt-bank-ryt-invest/",
+      "summary": "<p>Since its launch last year, Ryt Bank has been steadily introducing new features and capabilities. Back in April, the AI-driven digital bank promised to introduce an investment feature. And true to its word, Ryt Invest is now available within the app. Created in partnership with Opus Asset Management Sdn Bhd, the feature provides Malaysians with [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/394031/ryt-bank-ryt-invest/\">Ryt Bank Launches Ryt Invest With RM1 Entry, Shariah-Compliant Option</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-05-28T06:24:46+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "a61aa4b50ed6a709c0822f3bfe30ab037e6c517b",
+      "title": "Surging AI demand has caused shortages and price increases across the entire optical supply chain, from lasers and substrates to optical fibers and connectors (Nikkei Asia)",
+      "link": "https://www.techmeme.com/260528/p10#a260528p10",
+      "summary": "<a href=\"https://asia.nikkei.com/business/technology/tech-asia/ai-demand-strains-supplies-of-lasers-fiber-and-other-optical-tech\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260528/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260528/p10#a260528p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://asia.nikkei.com/\">Nikkei Asia</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://asia.nikkei.com/business/technology/tech-asia/ai-demand-strains-supplies-of-lasers-fiber-and-other-optical-tech\">Surging AI demand has caused shortages and price increases across the entire optical supply chain, from lasers and substrates to optical fibers and connectors</a></b></span>&nbsp; &mdash;&nbsp; TAIPEI &mdash; Having already driven massive shortages in memory chips and CPUs, the global artificial intelligence boom is now disrupting &hellip; </p>",
+      "published": "2026-05-28T06:20:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "0d77ff76dd837b6be33316868d301c6823d2330b",
+      "title": "Sources: ByteDance is developing its own CPUs to support growing AI infrastructure needs, as chip price hikes and supply shortages constrain expansion plans (Reuters)",
+      "link": "https://www.techmeme.com/260528/p9#a260528p9",
+      "summary": "<a href=\"https://www.reuters.com/world/china/bytedance-developing-custom-cpu-chips-support-ai-rollout-sources-say-2026-05-28/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260528/i9.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260528/p9#a260528p9\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/china/bytedance-developing-custom-cpu-chips-support-ai-rollout-sources-say-2026-05-28/\">Sources: ByteDance is developing its own CPUs to support growing AI infrastructure needs, as chip price hikes and supply shortages constrain expansion plans</a></b></span>&nbsp; &mdash;&nbsp; Chinese technology giant ByteDance is developing its own central processing units (CPUs) to support its growing AI infrastructure needs &hellip; </p>",
+      "published": "2026-05-28T06:15:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "3b582ffd6285b8746416a9a152f7ca4aa94e411d",
+      "title": "DoE issues RM4.59m in fines after more than 5,000 inspections in first four months of 2026",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/doe-issues-rm459m-in-fines-after-more-than-5000-inspections-in-first-four-months-of-2026/221691",
+      "summary": "PUTRAJAYA, May 28 &mdash; The Department of Environment (DOE) conducted more than 5,000 inspections nationwide and recor...",
+      "published": "2026-05-28T06:13:12+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
+    },
+    {
+      "id": "22b8c627c91ec0c544cb2b3102e51eb503f1612e",
+      "title": "June rollout of fentanyl test kits signals tougher stance on synthetic drugs, says Nada D-G",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/june-rollout-of-fentanyl-test-kits-signals-tougher-stance-on-synthetic-drugs-says-nada-d-g/221690",
+      "summary": "KUALA LUMPUR, May 28 &mdash; The National Anti-Drug Agency (Nada) will begin using specialised testing kits nationwide n...",
+      "published": "2026-05-28T06:09:26+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "785f61c8a84a09ec3532ea64af371b0cf0c2fc21",
+      "title": "Man reportedly gored to death by runaway buffalo in Johor, attack video goes viral",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/man-reportedly-gored-to-death-by-runaway-buffalo-in-johor-attack-video-goes-viral/221689",
+      "summary": "KUALA LUMPUR, May 28 &mdash; A man was reportedly gored to death by a runaway buffalo in an incident believed to have ta...",
+      "published": "2026-05-28T06:02:22+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "9214166e95d7913b35559c72384e6463a4b84c42",
+      "title": "Australia's investment growth was boosted by record Q1 data center spending of $6.2B, up ~2x QoQ, supporting an economy strained by energy costs and high rates (James Mayger/Bloomberg)",
+      "link": "https://www.techmeme.com/260528/p8#a260528p8",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-05-28/record-spend-on-data-centers-drives-australia-investment-growth\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260528/i8.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260528/p8#a260528p8\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> James Mayger / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-05-28/record-spend-on-data-centers-drives-australia-investment-growth\">Australia's investment growth was boosted by record Q1 data center spending of $6.2B, up ~2x QoQ, supporting an economy strained by energy costs and high rates</a></b></span>&nbsp; &mdash;&nbsp; Record investment in data centers in Australia is providing much-needed support for the economy that's feeling the strain &hellip; </p>",
+      "published": "2026-05-28T05:55:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "d58909a0e85e079cb40b1469a375f040f7b1858f",
+      "title": "Immigration Department says AI-altered passport photos could lead to legal action",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/immigration-department-says-ai-altered-passport-photos-could-lead-to-legal-action/221688",
+      "summary": "KUALA LUMPUR, May 28 &mdash; The Immigration Department has urged the public not to use photographs generated or altered...",
+      "published": "2026-05-28T05:50:16+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "367c331c468a355c1efa54e8f971e39d00fa5b03",
+      "title": "Welfare home SSDI celebrates milestone with Trinity Convocation 2026 and elderly care expansion",
+      "link": "https://www.malaymail.com/news/life/2026/05/28/welfare-home-ssdi-celebrates-milestone-with-trinity-convocation-2026-and-elderly-care-expansion/221686",
+      "summary": "KUALA LUMPUR, May 28&nbsp;&mdash; Sri Saradha Devi Illam Malaysia (SSDI) celebrated a major milestone with the staging o...",
+      "published": "2026-05-28T05:47:28+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "3b24e9e9286c53803667fef03f193bb184e619ed",
+      "title": "Analysis: the Philadelphia Semiconductor Index, which tracks 30 largest US-listed chipmakers, is up ~75% YTD and on track for its biggest annual gain since 1999 (Financial Times)",
+      "link": "https://www.techmeme.com/260528/p7#a260528p7",
+      "summary": "<a href=\"https://www.ft.com/content/48cdf575-5509-4b50-a54d-1b767e41be47\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260528/i7.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260528/p7#a260528p7\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/48cdf575-5509-4b50-a54d-1b767e41be47\">Analysis: the Philadelphia Semiconductor Index, which tracks 30 largest US-listed chipmakers, is up ~75% YTD and on track for its biggest annual gain since 1999</a></b></span>&nbsp; &mdash;&nbsp; Philadelphia Semiconductor Index rides Big Tech's data centre spending spree to 75% gains in 2026</p>",
+      "published": "2026-05-28T05:45:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "aa5776421a01a1a9be9346233464f223617b2e88",
+      "title": "Missing for three days, Pontian woman, 77, found safe in oil palm plantation",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/missing-for-three-days-pontian-woman-77-found-safe-in-oil-palm-plantation/221687",
+      "summary": "PONTIAN, May 28 &mdash; Authorities today found a 77-year-old woman who went missing after passing through an oil palm&amp;n...",
+      "published": "2026-05-28T05:44:55+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "9621dc42f9af21a34c2a8e218d7cfacd9818b873",
+      "title": "US strikes Iran, triggering retaliation on military base in major escalation since ceasefire",
+      "link": "https://www.malaymail.com/news/world/2026/05/28/us-strikes-iran-triggering-retaliation-on-military-base-in-major-escalation-since-ceasefire/221685",
+      "summary": "&nbsp;TEHRAN, May 28 &mdash;&nbsp;The United States struck southern Iran today, drawing retaliation from Tehran against...",
+      "published": "2026-05-28T05:42:47+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "5f10b89da9ad62aa42c128ae806c8b53f4dee486",
+      "title": "Global AI hardware demand is easing China's concerns over a stronger yuan hurting exports, as AI hardware exports surge and chip equipment imports rise (Bloomberg)",
+      "link": "https://www.techmeme.com/260528/p6#a260528p6",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-05-28/world-s-appetite-for-ai-makes-china-less-afraid-of-stronger-yuan\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260528/i6.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260528/p6#a260528p6\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-05-28/world-s-appetite-for-ai-makes-china-less-afraid-of-stronger-yuan\">Global AI hardware demand is easing China's concerns over a stronger yuan hurting exports, as AI hardware exports surge and chip equipment imports rise</a></b></span>&nbsp; &mdash;&nbsp; The global AI investment boom is powering a new wave of Chinese exports and making Beijing more comfortable with a stronger yuan.</p>",
+      "published": "2026-05-28T05:40:03+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "8d6b69c626f1132c5f4da48108b64d53aae90aca",
+      "title": "Kelantan police say Malaysia-Thailand border remains secure after Pattani shooting",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/kelantan-police-say-malaysia-thailand-border-remains-secure-after-pattani-shooting/221684",
+      "summary": "KUALA LUMPUR, May 28 &mdash; Police have assured the public that security along the Malaysia-Thailand border in Kelantan...",
+      "published": "2026-05-28T05:39:48+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "06c8d31b9ff229658338883b95d77014edfc4598",
+      "title": "Thai court dismisses royal defamation case against ex-opposition leader Thanathorn in rare ruling",
+      "link": "https://www.malaymail.com/news/world/2026/05/28/thai-court-dismisses-royal-defamation-case-against-ex-opposition-leader-thanathorn-in-rare-ruling/221683",
+      "summary": "&nbsp;BANGKOK, May 28 &mdash; A Thai court today&nbsp;dismissed a royal defamation case against a former opposition lead...",
+      "published": "2026-05-28T05:38:48+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "6655757d2b027a81f5eeb5b928c4860ade9dc789",
+      "title": "Anwar donates sacrificial cow to Pahang media practitioners",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/anwar-donates-sacrificial-cow-to-pahang-media-practitioners/221681",
+      "summary": "KUANTAN, May 28 &mdash; Prime Minister Datuk Seri Anwar Ibrahim has donated a sacrificial cow to media practitioners in...",
+      "published": "2026-05-28T05:37:07+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "fff1e278eab75469a244d90730de2a6822512437",
+      "title": "Taiwanese tech companies have completed a record $14.5B of debt deals so far this year, as they race to secure financing to meet soaring demand for AI capacity (Aileen Chuang/Bloomberg)",
+      "link": "https://www.techmeme.com/260528/p5#a260528p5",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-05-28/ai-boom-fuels-record-14-5-billion-in-taiwan-tech-firm-borrowing\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260528/i5.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260528/p5#a260528p5\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Aileen Chuang / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-05-28/ai-boom-fuels-record-14-5-billion-in-taiwan-tech-firm-borrowing\">Taiwanese tech companies have completed a record $14.5B of debt deals so far this year, as they race to secure financing to meet soaring demand for AI capacity</a></b></span>&nbsp; &mdash;&nbsp; Taiwanese tech firms have completed a record $14.5 billion of debt deals so far this year, as they race to secure financing &hellip; </p>",
+      "published": "2026-05-28T05:35:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "05501a7a585ed8227d332e28356b57c3329608a3",
+      "title": "Oil prices jump after US launches new attacks on Iran",
+      "link": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The strikes come despite a ceasefire between Tehran and Washington as the two countries hold peace talks.",
+      "published": "2026-05-28T05:32:06+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "44a47dba18903a8ce5667194f742de655cbd89b6",
+      "title": "Search for boy, 10, who fell into Sungai Bernam expanded to three-kilometre radius",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/search-for-boy-10-who-fell-into-sungai-bernam-expanded-to-three-kilometre-radius/221680",
+      "summary": "SHAH ALAM, May 28 &mdash; Search and rescue (SAR) operations for a 10-year-old boy who fell into Sungai Bernam in Kampun...",
+      "published": "2026-05-28T05:31:09+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "190b3e34c73ac7a649cf218e6ec8ec6f538ab597",
+      "title": "Logitech Announces New Signature Comfort Series Keyboard, Mice",
+      "link": "https://www.lowyat.net/2026/393986/logitech-new-signature-comfort-series-keyboard-mice/",
+      "summary": "<p>Logitech has announced new additions to what it calls its Signature Series of general productivity peripherals. These make up the new Signature Comfort line, which consists of two mice, and a keyboard-and-mouse combo. This are the M850 L and M840 L mice, and the MK880 combo. Starting with the Logitech Signature Comfort Plus M850 L, [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/393986/logitech-new-signature-comfort-series-keyboard-mice/\">Logitech Announces New Signature Comfort Series Keyboard, Mice</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-05-28T05:27:29+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "89b6494dbac25ada00d031a00934e07abe15cb4f",
+      "title": "Companies are using AI at their global capability centers in India to bring more creative work in-house, cutting turnaround times and reliance on ad agencies (Reuters)",
+      "link": "https://www.techmeme.com/260528/p4#a260528p4",
+      "summary": "<a href=\"https://www.reuters.com/business/media-telecom/global-firms-use-ai-indian-hubs-bring-more-ad-work-in-house-2026-05-27/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260528/i4.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260528/p4#a260528p4\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/business/media-telecom/global-firms-use-ai-indian-hubs-bring-more-ad-work-in-house-2026-05-27/\">Companies are using AI at their global capability centers in India to bring more creative work in-house, cutting turnaround times and reliance on ad agencies</a></b></span>&nbsp; &mdash;&nbsp; Global companies are using AI at their Indian hubs to bring more creative work in-house, cutting turnaround time and their reliance &hellip; </p>",
+      "published": "2026-05-28T05:25:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "6b8ccce68e00a6833f30f950af7da0310ae68931",
+      "title": "Body of unidentified man found floating in Sungai Kerayong near Jalan Cheras, believed to be drowned",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/body-of-unidentified-man-found-floating-in-sungai-kerayong-near-jalan-cheras-believed-to-be-drowned/221678",
+      "summary": "KUALA LUMPUR, May 28 &mdash; The body of a man believed to have drowned was found floating in Sungai Kerayong along Jala...",
+      "published": "2026-05-28T05:23:49+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "aa65ce5ca59ecf4d9ce8e842170a73ca860eb8bd",
+      "title": "NVIDIA To Sunset Control Panel For GeForce Users",
+      "link": "https://www.lowyat.net/2026/394008/nvidia-to-sunset-control-panel-for-geforce-users/",
+      "summary": "<p>It&#8217;s official: NVIDIA is retiring the classic Control Panel for GeForce users, 20 years after its introduction. Moving forward, the program will no longer receive new features, nor will it be part of the new Game Ready and Studio drivers for GeForce GPUs. The (sort of) announcement of NVIDIA&#8217;s decision was made through the latest [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/394008/nvidia-to-sunset-control-panel-for-geforce-users/\">NVIDIA To Sunset Control Panel For GeForce Users</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-05-28T05:18:15+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "8950e01750aed564d7c956bf38aaa5850253ad31",
+      "title": "Stats Dept: 81pc employers report disabled workers perform on par with others",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/stats-dept-81pc-employers-report-disabled-workers-perform-on-par-with-others/221677",
+      "summary": "KUALA LUMPUR, May 28 &mdash; Employers are increasingly recognising the contribution of persons with disabilities (PWDs)...",
+      "published": "2026-05-28T05:14:08+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "645dd499ef1bb3104024dfa57fec9c29507c1be4",
+      "title": "Dayak community works to keep Gawai heritage alive as traditions fade",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/dayak-community-works-to-keep-gawai-heritage-alive-as-traditions-fade/221676",
+      "summary": "KUCHING, May 28 &mdash; As preparations for Hari Gawai gather pace across Sarawak, concerns are growing over the gradual...",
+      "published": "2026-05-28T05:06:37+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "cc1dc8ceb3c23095ab774adb4eea43a5eff18c32",
+      "title": "Swiggy CEO Sriharsha Majety says his company plans to stay out of the spending war as Amazon and Flipkart ramp up their quick commerce efforts across India (Bloomberg)",
+      "link": "https://www.techmeme.com/260528/p3#a260528p3",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-05-28/swiggy-s-sriharsha-majety-vows-to-stay-out-of-amazon-walmart-ambani-spending-war\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260528/i3.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260528/p3#a260528p3\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-05-28/swiggy-s-sriharsha-majety-vows-to-stay-out-of-amazon-walmart-ambani-spending-war\">Swiggy CEO Sriharsha Majety says his company plans to stay out of the spending war as Amazon and Flipkart ramp up their quick commerce efforts across India</a></b></span>&nbsp; &mdash;&nbsp; Swiggy Ltd., one of India's top quick commerce firms, plans to restrain spending and focus on profitability while deeper-pocketed rivals Flipkart &hellip; </p>",
+      "published": "2026-05-28T05:00:52+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "dcb234e46b53704b189dfc2d99eaa38f7ff1cb08",
+      "title": "US strikes Iran targets for second time in three days",
+      "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+      "published": "2026-05-28T04:59:02+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "e32831b4248e715d89bc79eb9fb61c110ba599a6",
+      "title": "Warisan warns against importing ‘divisive’ religious policies into Sabah",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/warisan-warns-against-importing-divisive-religious-policies-into-sabah/221670",
+      "summary": "KOTA KINABALU, May 28 &mdash; Warisan has warned against importing what it describes as divisive religious policies from...",
+      "published": "2026-05-28T04:57:12+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "28a5ca9c6c24702cfe701c181dfda47f1cfe94bb",
+      "title": "Kirkland & Ellis, the world's highest-grossing law firm, is setting aside $500M to build its own AI platform rather than rely on tools available to its rivals (Financial Times)",
+      "link": "https://www.techmeme.com/260528/p2#a260528p2",
+      "summary": "<a href=\"https://www.ft.com/content/1825bb59-7b28-460d-b009-ee3cea5dbac3\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260528/i2.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260528/p2#a260528p2\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/1825bb59-7b28-460d-b009-ee3cea5dbac3\">Kirkland &amp; Ellis, the world's highest-grossing law firm, is setting aside $500M to build its own AI platform rather than rely on tools available to its rivals</a></b></span>&nbsp; &mdash;&nbsp; World's highest-grossing law firm plans to put the &lsquo;collective intelligence&rsquo; of its lawyers into a tech platform</p>",
+      "published": "2026-05-28T04:55:07+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "1c4306a8af95dde76ce0612e869461dd677f7c39",
+      "title": "Singapore to extend emission limits on air-conditioning and refrigeration systems to vehicles, supermarkets",
+      "link": "https://www.malaymail.com/news/singapore/2026/05/28/singapore-to-extend-emission-limits-on-air-conditioning-and-refrigeration-systems-to-vehicles-supermarkets/221671",
+      "summary": "&nbsp;&nbsp;KUALA LUMPUR, May 28 &mdash; Singapore will extend emission limits for air-conditioning and refrigeration eq...",
+      "published": "2026-05-28T04:53:51+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "7b576ff4179a3656cba082f9a919d39d50f92735",
+      "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
+      "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
+      "summary": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
+      "published": "2026-05-28T04:53:51+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "f9bb6669aa80d6973dd7fcc2264e0d404a32f935",
+      "title": "Pro-Net: Proton e.MAS localisation goes beyond CKD assembly",
+      "link": "https://soyacincau.com/2026/05/28/pro-net-proton-emas-localisation-digital-infra/",
+      "summary": "Pro-Net, the New Energy Vehicle (NEV) subsidiary of Proton, recently revealed that over RM40 million has been invested to localise the digital infrastructure for Proton e.MAS models. The majority of the investments went into establishing the vehicle connectivity platform and cloud services. This includes deployments at TM data centres in order to ensure that vehicle [&#8230;]",
+      "published": "2026-05-28T04:48:34+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "c4a5af02559545ea0a470b4746efd09eb73d563f",
+      "title": "PAS veep says party’s ulama council to decide future of Bersatu cooperation",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/pas-veep-says-partys-ulama-council-to-decide-future-of-bersatu-cooperation/221669",
+      "summary": "KUALA LUMPUR, May 28 &mdash; PAS will leave any decision on its ties with Parti Pribumi Bersatu Malaysia to the party&amp;rs...",
+      "published": "2026-05-28T04:33:50+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "e911029065a1681345e8885fe7417dc3bdc39709",
+      "title": "Forty-five years on, Keda still driving rural transformation in Kedah, says Zahid",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/forty-five-years-on-keda-still-driving-rural-transformation-in-kedah-says-zahid/221667",
+      "summary": "KUALA LUMPUR, May 28 &mdash; The Kedah Regional Development Authority (KEDA) has continued to play its role as a catalys...",
+      "published": "2026-05-28T04:20:02+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "d90cfa72482efc8e1d1d038e434f17385c7d23ec",
+      "title": "Trade Desk's market cap fell ~70% from a December 2024 peak as it contends with frustrated agency partners, competition from Google, and a new entrant, Amazon (Patience Haggin/Wall Street Journal)",
+      "link": "https://www.techmeme.com/260528/p1#a260528p1",
+      "summary": "<a href=\"https://www.wsj.com/business/media/the-trade-desks-fall-from-69-billion-digital-ad-darling-6e1cdbf3?st=pnGEc3&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260528/i1.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260528/p1#a260528p1\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Patience Haggin / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/business/media/the-trade-desks-fall-from-69-billion-digital-ad-darling-6e1cdbf3?st=pnGEc3&amp;reflink=desktopwebshare_permalink\">Trade Desk's market cap fell ~70% from a December 2024 peak as it contends with frustrated agency partners, competition from Google, and a new entrant, Amazon</a></b></span>&nbsp; &mdash;&nbsp; The company lost about 70% of its value as Amazon gained ground and relationships with top ad agencies soured</p>",
+      "published": "2026-05-28T04:20:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "cf6495457779257dd47cc1b14340dec202b811c7",
+      "title": "Meta Announces Plus Subscriptions For Facebook, Instagram, WhatsApp",
+      "link": "https://www.lowyat.net/2026/393993/meta-plus-subscriptions-facebook-instagram-whatsapp/",
+      "summary": "<p>Back in January, Meta confirmed plans to introduce subscriptions to its flagship social media platforms, namely Facebook, Instagram, and WhatsApp. Now, the company has revealed that it has started rolling out the premium plans globally. Alongside these “Plus” plans, the brand is also testing other subscription products, including those for creators, businesses, and those using [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/393993/meta-plus-subscriptions-facebook-instagram-whatsapp/\">Meta Announces Plus Subscriptions For Facebook, Instagram, WhatsApp</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-05-28T04:10:25+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "f4dc63eebbc63256f448de5f52206c69847edae0",
+      "title": "Singapore calls on North Korea to join Asean Regional Forum and maintain dialogue channels",
+      "link": "https://www.malaymail.com/news/singapore/2026/05/28/singapore-calls-on-north-korea-to-join-asean-regional-forum-and-maintain-dialogue-channels/221666",
+      "summary": "&nbsp;KUALA LUMPUR, May 28 &mdash; Singapore Foreign Minister Vivian Balakrishnan has encouraged North Korea to engage c...",
+      "published": "2026-05-28T04:08:48+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "66675852eb3f3b75547f9747106eb17c3f3161c6",
+      "title": "Ryt Bank introduces Ryt Invest with RM1 entry and 0% sales charge",
+      "link": "https://soyacincau.com/2026/05/28/ryt-bank-ryt-invest-with-rm1-entry-and-0-sales-charge/",
+      "summary": "Ryt Bank has introduced Ryt Invest, a new in-app investment feature that enables users to invest from as low as RM1. Introduced in partnership with Opus Asset Management, Ryt Bank claims to be the first digital bank to offer expert-led funds in-app and it is aimed at making institutional investment expertise accessible to Malaysians. At [&#8230;]",
+      "published": "2026-05-28T04:05:42+00:00",
+      "source": "SoyaCincau",
+      "category": "malaysia"
+    },
+    {
+      "id": "e122c917901d035bd0c6134b33dae1fe94f36755",
+      "title": "The Witcher 3 Is Getting A Third Expansion, 12 Years After Its Launch",
+      "link": "https://www.lowyat.net/2026/393972/the-witcher-3-is-getting-a-third-expansion-12-years-after-its-launch/",
+      "summary": "<p>CD Projekt Red (CDPR) recently announced that it has a third expansion for The Witcher 3 in the pipeline. Yeap, that&#8217;s right: we&#8217;re getting a new expansion for Geralt before the Witcher 4, it seems. The third expansion is called Songs of the Past, and comes 12 years after the launch of the first game 12 years [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/393972/the-witcher-3-is-getting-a-third-expansion-12-years-after-its-launch/\">The Witcher 3 Is Getting A Third Expansion, 12 Years After Its Launch</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-05-28T04:03:55+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "aa79fba87c24a7464ea9041cf9dfadbd6eda91f6",
+      "title": "Australia charges woman who returned from Syria with joining Islamic State",
+      "link": "https://www.bbc.com/news/articles/c87q2w0w0jvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Several groups of women and children who spent years in a Syrian camp have returned in recent months.",
+      "published": "2026-05-28T04:01:17+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "0ac61ae59a5ad624833b547dc02271d7c3c6c331",
+      "title": "Memo: Meta plans to embed engineers and product managers within large corporate customers as part of a new Enterprise Solutions unit to help deploy its AI tools (Jyoti Mann/The Information)",
+      "link": "https://www.techmeme.com/260527/p57#a260527p57",
+      "summary": "<a href=\"https://www.theinformation.com/articles/meta-launches-new-enterprise-push-boost-business-adoption-ai-tools\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260527/i57.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260527/p57#a260527p57\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jyoti Mann / <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/articles/meta-launches-new-enterprise-push-boost-business-adoption-ai-tools\">Memo: Meta plans to embed engineers and product managers within large corporate customers as part of a new Enterprise Solutions unit to help deploy its AI tools</a></b></span>&nbsp; &mdash;&nbsp; Meta Platforms plans to place engineers and product managers inside large corporate customers as part of a new unit &hellip; </p>",
+      "published": "2026-05-28T03:35:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "dd88ef785151e2d7e918f222ec0ad3c89f6daded",
+      "title": "Valve Significantly Hikes Steam Deck OLED Prices In The US",
+      "link": "https://www.lowyat.net/2026/393991/valve-significantly-hikes-steam-deck-oled-prices-in-the-us/",
+      "summary": "<p>If you&#8217;ve been working towards owning your personal Steam Deck any time soon, well, we have some bad news for you. Valve announced that it will be raising the prices of its popular handheld console. And these aren’t just insignificant bumps; we are talking about an increase of hundreds of dollars. For reference, the 512GB [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/393991/valve-significantly-hikes-steam-deck-oled-prices-in-the-us/\">Valve Significantly Hikes Steam Deck OLED Prices In The US</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-05-28T03:32:06+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "82533657a191436578f05304e4294f4713689200",
+      "title": "Sources: the Pentagon is pursuing funding deals with US drone companies, potentially with equity stakes, to increase domestic production and lower unit costs (Wall Street Journal)",
+      "link": "https://www.techmeme.com/260527/p56#a260527p56",
+      "summary": "<a href=\"https://www.wsj.com/politics/national-security/trump-us-drone-company-funding-cadef1f7?st=HRwRd8&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260527/i56.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260527/p56#a260527p56\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/politics/national-security/trump-us-drone-company-funding-cadef1f7?st=HRwRd8&amp;reflink=desktopwebshare_permalink\">Sources: the Pentagon is pursuing funding deals with US drone companies, potentially with equity stakes, to increase domestic production and lower unit costs</a></b></span>&nbsp; &mdash;&nbsp; Neros and Donald Trump Jr.-linked Unusual Machines are among companies in deal talks&nbsp; &mdash;&nbsp; The Trump administration is pursuing funding deals &hellip; </p>",
+      "published": "2026-05-28T03:25:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "1393e00a61ce39dd16f7c8f4f94dfe4682a13360",
+      "title": "Rapid KL Confirms Train Derailment At Chan Sow Lin; Ampang-Sri Petaling LRT Services Affected",
+      "link": "https://www.lowyat.net/2026/393987/rapid-kl-train-derailment-ampang-sri-petaling-lrt-disruption-may-2026/",
+      "summary": "<p>Prasarana-owned Rapid KL has confirmed that services on the Ampang and Sri Petaling LRT lines were disrupted this morning following a derailment incident near Chan Sow Lin Station. According to the rail operator, the incident was caused by a technical fault involving a track switch at the station. The affected train reportedly derailed while passing [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/393987/rapid-kl-train-derailment-ampang-sri-petaling-lrt-disruption-may-2026/\">Rapid KL Confirms Train Derailment At Chan Sow Lin; Ampang-Sri Petaling LRT Services Affected</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-05-28T03:09:16+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "6decbd2be5ff61a8f74af4e516ec356cd3d7ad5e",
+      "title": "Last.fm announces it is an independent company again, 19 years after being acquired by CBS; it plans to keep its current team and continue the service as normal (Mariella Moon/Engadget)",
+      "link": "https://www.techmeme.com/260527/p55#a260527p55",
+      "summary": "<a href=\"https://www.engadget.com/2182644/lastfm-independent-company-cbs-paramount-skydance/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260527/i55.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260527/p55#a260527p55\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Mariella Moon / <a href=\"https://www.engadget.com/\">Engadget</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.engadget.com/2182644/lastfm-independent-company-cbs-paramount-skydance/\">Last.fm announces it is an independent company again, 19 years after being acquired by CBS; it plans to keep its current team and continue the service as normal</a></b></span>&nbsp; &mdash;&nbsp; Don't worry: It will keep your profiles and scrobbles.&nbsp; &mdash;&nbsp; Last.fm is an independent company again, it has announced on its forum &hellip; </p>",
+      "published": "2026-05-28T02:55:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "ba3fb6d2b95eb28400f24cae8bf435166ab6b959",
+      "title": "Australia sues US giant 3M over 'forever chemicals' in firefighting foam",
+      "link": "https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The A$2bn case, which centres on contamination at defence sites, is the largest ever brought by the government.",
+      "published": "2026-05-28T02:47:19+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "e0a1d657f107b7e830a125d475d909ef7905a0d3",
@@ -41,193 +473,13 @@
       "category": "deals"
     },
     {
-      "id": "d958f559bb8391fce9f236bad451366be2ecf2f6",
-      "title": "Nabawan’s Dyeneley Daud crowned State RTK Kaamatan 2026 winner in Penampang",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/nabawans-dyeneley-daud-crowned-state-rtk-kaamatan-2026-winner-in-penampang/221647",
-      "summary": "PENAMPANG, May 28 &mdash; Dyeneley Daud, representing Nabawan, was crowned State Randawi Tavantang Kaamatan (RTK) 2026 a...",
-      "published": "2026-05-28T02:13:09+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "33aadc3289d974c068cb611c6fd142984c3d280a",
-      "title": "High potential for Sabah to cultivate corn to reduce import of animal feed, says minister",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/high-potential-for-sabah-to-cultivate-corn-to-reduce-import-of-animal-feed-says-minister/221646",
-      "summary": "KOTA MARUDU, May 28 &mdash; Sabah has significant potential to develop grain corn cultivation on a commercial scale as p...",
-      "published": "2026-05-28T02:08:21+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "51d125fe32d64d1aadf27d16cac2ac41f91da05f",
-      "title": "Sibu Bus Terminal sees quieter pre-Gawai travel rush this year",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/sibu-bus-terminal-sees-quieter-pre-gawai-travel-rush-this-year/221645",
-      "summary": "SIBU, May 28 &mdash; The usual pre-Gawai rush at the Sibu Bus Terminal appears more subdued this year, with ticketing op...",
-      "published": "2026-05-28T02:04:40+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "983633fc0b5b54c16c92d4af547add06acb6338d",
-      "title": "Viral video sparks bullying concerns in Kota Kinabalu involving Form One students",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/viral-video-sparks-bullying-concerns-in-kota-kinabalu-involving-form-one-students/221644",
-      "summary": "KOTA KINABALU, May 28 &mdash; A video circulating on Facebook allegedly shows a Form One student from SMK Inanam involve...",
-      "published": "2026-05-28T02:00:02+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "11bb23bed5aac3b210364909da9ac93f247ae852",
-      "title": "The CFTC files alongside Gemini to nullify Gemini's $5M settlement in January 2025, arguing that the agency's current management wouldn't have pursued the case (Jesse Hamilton/CoinDesk)",
-      "link": "https://www.techmeme.com/260527/p53#a260527p53",
-      "summary": "<a href=\"https://www.coindesk.com/policy/2026/05/27/u-s-cftc-files-request-to-erase-gemini-settlement-that-it-no-longer-considers-fair\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260527/i53.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260527/p53#a260527p53\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jesse Hamilton / <a href=\"http://www.coindesk.com/\">CoinDesk</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.coindesk.com/policy/2026/05/27/u-s-cftc-files-request-to-erase-gemini-settlement-that-it-no-longer-considers-fair\">The CFTC files alongside Gemini to nullify Gemini's $5M settlement in January 2025, arguing that the agency's current management wouldn't have pursued the case</a></b></span>&nbsp; &mdash;&nbsp; The regulator went back to analyze the 2022 case and decided that it wouldn't have been pursued under current management and practices.</p>",
-      "published": "2026-05-28T01:55:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "2f9601ffe724e2a99424b7fc11c8b2dc785077bc",
-      "title": "Driver injured as Sandakan–Lahad Datu road collapses in heavy rain",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/driver-injured-as-sandakanlahad-datu-road-collapses-in-heavy-rain/221643",
-      "summary": "KINABATANGAN, May 28 &mdash; A car driver sustained minor injuries when a section of the Sandakan-Lahad Datu main road a...",
-      "published": "2026-05-28T01:54:42+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "fd8a6fbd80eb7cb24333f7e7ccdb11137c7bccea",
-      "title": "US DoJ moves to seize New York luxury apartment bought with alleged 1MDB funds tied to Jho Low’s personal assistant",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/us-doj-moves-to-seize-new-york-luxury-apartment-bought-with-alleged-1mdb-funds-tied-to-jho-lows-personal-assistant/221642",
-      "summary": "KUALA LUMPUR, May 28 &mdash; The United States Department of Justice has secured a court order forfeiting a luxury apart...",
-      "published": "2026-05-28T01:53:24+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "69ae0efa9f5ddc1e732ce4a355c6791efa61134f",
-      "title": "Israel declares southern Lebanon combat zones, urges mass evacuation ahead of strikes",
-      "link": "https://www.malaymail.com/news/world/2026/05/28/israel-declares-southern-lebanon-combat-zones-urges-mass-evacuation-ahead-of-strikes/221641",
-      "summary": "&nbsp;BEIRUT, May 28 &mdash; Israel yesterday&nbsp;declared all areas south of Lebanon&rsquo;s Zahrani River, which runs...",
-      "published": "2026-05-28T01:53:13+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "ac5ac1ad0e145d2bf6baeebc35568b24dfed1636",
-      "title": "Kaamatan attendance in Keningau a gesture of respect, says Warisan’s Shafie Apdal",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/kaamatan-attendance-in-keningau-a-gesture-of-respect-says-warisans-shafie-apdal/221640",
-      "summary": "SEMPORNA, May 28 &mdash; Warisan President Datuk Seri Mohd Shafie Apdal said he attended the Keningau District-level Kaa...",
-      "published": "2026-05-28T01:49:12+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "f03061875e1dcce3dd1335b5976c8ada433e1f67",
-      "title": "Profit-taking drags Bursa Malaysia lower despite positive start after holiday break",
-      "link": "https://www.malaymail.com/news/money/2026/05/28/profit-taking-drags-bursa-malaysia-lower-despite-positive-start-after-holiday-break/221639",
-      "summary": "&nbsp;KUALA LUMPUR, May 28 &mdash; Bursa Malaysia opened higher on Thursday but fell thereafter, tracking softer regiona...",
-      "published": "2026-05-28T01:46:32+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "ef6b18feecaa55dfd30cee90eba3ad3c353630c2",
-      "title": "Ringgit opens mostly higher amid cautious sentiment over US-Iran tensions",
-      "link": "https://www.malaymail.com/news/money/2026/05/28/ringgit-opens-mostly-higher-amid-cautious-sentiment-over-us-iran-tensions/221638",
-      "summary": "&nbsp;KUALA LUMPUR, May 28 &mdash; The ringgit opened mostly higher against major currencies today but eased slightly ag...",
-      "published": "2026-05-28T01:44:13+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "2e19d0d009c91129156569ab9aedf96f98f03381",
-      "title": "Trump appears to threaten to ‘blow up’ ally Oman",
-      "link": "https://www.malaymail.com/news/world/2026/05/28/trump-appears-to-threaten-to-blow-up-ally-oman/221637",
-      "summary": "&nbsp;WASHINGTON, May 28 &mdash; President Donald Trump yesterday&nbsp;appeared to threaten to attack US ally Oman if it...",
-      "published": "2026-05-28T01:41:35+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "f45f698e62373f2fa3f7506ef4f09ab7f582b983",
-      "title": "France to deploy 22,000 police officers for PSG-Arsenal Champions League final",
-      "link": "https://www.malaymail.com/news/sports/2026/05/28/france-to-deploy-22000-police-officers-for-psg-arsenal-champions-league-final/221636",
-      "summary": "&nbsp;PARIS, May 28 &mdash; Some 22,000 police officers will be deployed across France for the Champions League final be...",
-      "published": "2026-05-28T01:35:28+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "0fcfe87776bdd17445e560bb8676abae3be10956",
-      "title": "Sarawak GOF busts diesel ring, seizes RM17.5m in assets, 342,000 litres of fuel",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/sarawak-gof-busts-diesel-ring-seizes-rm175m-in-assets-342000-litres-of-fuel/221635",
-      "summary": "KUCHING, May 28 &mdash; The General Operations Force (GOF) Sarawak Brigade siezed over 342,000 litres worth about RM1.8...",
-      "published": "2026-05-28T01:34:09+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "a3f67053cae076e546fb97c0cfbbb6d948993662",
-      "title": "Glasner says only plan after Crystal Palace exit is ‘flying back to London with a hangover’",
-      "link": "https://www.malaymail.com/news/sports/2026/05/28/glasner-says-only-plan-after-crystal-palace-exit-is-flying-back-to-london-with-a-hangover/221634",
-      "summary": "&nbsp;LEIPZIG, May 28 &mdash; Outgoing Crystal Palace boss Oliver Glasner said he had made no plans for his future other...",
-      "published": "2026-05-28T01:31:45+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "f6e8321469e6756305dbd6e200a231778423c752",
-      "title": "Crash after Aidiladha prayers kills woman in Machang, husband seriously injured",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/crash-after-aidiladha-prayers-kills-woman-in-machang-husband-seriously-injured/221632",
-      "summary": "MACHANG, May 28 &mdash; A woman died while her husband was seriously injured after the motorcycle they were riding was i...",
-      "published": "2026-05-28T01:28:43+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "4bdb49ebae824b6939045d02ab9460dad6dd5b15",
-      "title": "Meta launches paid subscription plans for Facebook, Instagram and WhatsApp",
-      "link": "https://www.malaymail.com/news/tech-gadgets/2026/05/28/meta-launches-paid-subscription-plans-for-facebook-instagram-and-whatsapp/221633",
-      "summary": "&nbsp;SAN FRANCISCO, May 28 &mdash; Meta yesterday launched paid subscription plans for its flagship apps, marking a maj...",
-      "published": "2026-05-28T01:28:40+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "8f0c8de5b0a842b295afea040102ae749c8b247a",
-      "title": "Amazon MGM backs AI-created kids’ series in push to speed up content development",
-      "link": "https://www.malaymail.com/news/showbiz/2026/05/28/amazon-mgm-backs-ai-created-kids-series-in-push-to-speed-up-content-development/221631",
-      "summary": "&nbsp;LOS ANGELES, May 28 &mdash; Amazon MGM Studios announced yesterday it has greenlit the first three children&rsquo;...",
-      "published": "2026-05-28T01:24:30+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "c6206d6661f57bda8092acc633b0a8ea76e128a4",
-      "title": "Crystal Palace clinch first European title with victory over Rayo Vallecano",
-      "link": "https://www.malaymail.com/news/sports/2026/05/28/crystal-palace-clinch-first-european-title-with-victory-over-rayo-vallecano/221629",
-      "summary": "LEIPZIG, May 28 &mdash; Jean-Philippe Mateta scored as Crystal Palace beat Rayo Vallecano 1-0 in the UEFA Conference Lea...",
-      "published": "2026-05-28T01:19:51+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "13d0ceb95749eb8a17260d80eccdad118a7b327a",
-      "title": "Bukit Aman to meet former MACC chief Azam Baki next week over Albert Tei threat allegations",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/28/bukit-aman-to-meet-former-macc-chief-azam-baki-next-week-over-albert-tei-threat-allegations/221628",
-      "summary": "KUALA LUMPUR, May 28 &mdash; Police will meet former Malaysian Anti-Corruption Commission (MACC) chief commissioner Tan...",
-      "published": "2026-05-28T01:07:50+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "76cecbd7d9cb3bb8bc4e9c96dcbaf9099bdc5292",
-      "title": "Filing: Amazon will acquire Apple's 20% stake in Globalstar as part of its acquisition of the satellite provider and create a subsidiary to conduct the merger (Michael Kan/PCMag)",
-      "link": "https://www.techmeme.com/260527/p52#a260527p52",
-      "summary": "<a href=\"https://www.pcmag.com/news/amazon-to-take-over-apples-20-stake-in-globalstar-as-part-of-acquisition\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260527/i52.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260527/p52#a260527p52\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Michael Kan / <a href=\"http://www.pcmag.com/\">PCMag</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.pcmag.com/news/amazon-to-take-over-apples-20-stake-in-globalstar-as-part-of-acquisition\">Filing: Amazon will acquire Apple's 20% stake in Globalstar as part of its acquisition of the satellite provider and create a subsidiary to conduct the merger</a></b></span>&nbsp; &mdash;&nbsp; Amazon has revealed that it's taking over Apple's 20% stake in Globalstar as part of its $11.6 billion acquisition of the satellite communications provider.</p>",
-      "published": "2026-05-28T00:55:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
+      "id": "40999c9d4cd9f82f6b2e02a93702655c4ba7c9dc",
+      "title": "Google worker charged with using internal data to make $1.2m on bets",
+      "link": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The longtime Google employee was charged in New York for allegedly breaking insider trading laws.",
+      "published": "2026-05-28T02:14:19+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "dae61b6c7af60353d109f8d4cb86c53097cf7a6d",
@@ -239,57 +491,12 @@
       "category": "tech"
     },
     {
-      "id": "b1d7ddc681626436f895cfa3c0c0de86a1a35428",
-      "title": "Jill Biden says she thought husband was 'having a stroke' during 2024 debate",
-      "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
-      "summary": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
-      "published": "2026-05-28T00:28:45+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "0df341b470157b14d3d6fd896c294c8e681e29a1",
-      "title": "SoFi says SoFiUSD, its US dollar-pegged stablecoin on Ethereum and Solana, is now available for members to buy, sell, hold, and convert within the SoFi app (Brian Danga/The Block)",
-      "link": "https://www.techmeme.com/260527/p51#a260527p51",
-      "summary": "<a href=\"https://www.theblock.co/post/402361/sofi-rolls-out-sofiusd-stablecoin-to-banking-app-users\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260527/i51.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260527/p51#a260527p51\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Brian Danga / <a href=\"https://www.theblock.co/\">The Block</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theblock.co/post/402361/sofi-rolls-out-sofiusd-stablecoin-to-banking-app-users\">SoFi says SoFiUSD, its US dollar-pegged stablecoin on Ethereum and Solana, is now available for members to buy, sell, hold, and convert within the SoFi app</a></b></span>&nbsp; &mdash;&nbsp; Quick Take&nbsp; &mdash; SoFi said its U.S. dollar-pegged stablecoin is now available for members to buy, sell, hold, and convert within the SoFi app.</p>",
-      "published": "2026-05-28T00:20:05+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "0e16fc510fd62c4693820147382f7e2ab75d8ef6",
       "title": "Why Google’s AI can’t spell Google (or anything else)",
       "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
       "summary": "Google is embarrassing itself, again.",
       "published": "2026-05-28T00:17:41+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "6477fdd5cb2db8cce32a7a2c740060f134e5103b",
-      "title": "Mark Zuckerberg tells shareholders that a Meta cloud computing business is \"definitely on the table\" if it overspends on data centers and has excess capacity (Jonathan Vanian/CNBC)",
-      "link": "https://www.techmeme.com/260527/p50#a260527p50",
-      "summary": "<a href=\"https://www.cnbc.com/2026/05/27/mark-zuckerberg-says-meta-starting-cloud-business-on-the-table.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260527/i50.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260527/p50#a260527p50\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jonathan Vanian / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/05/27/mark-zuckerberg-says-meta-starting-cloud-business-on-the-table.html\">Mark Zuckerberg tells shareholders that a Meta cloud computing business is &ldquo;definitely on the table&rdquo; if it overspends on data centers and has excess capacity</a></b></span>&nbsp; &mdash;&nbsp; Meta CEO Mark Zuckerberg said his company could enter the cloud computing market if it overspends on data centers and ends up with excess capacity.</p>",
-      "published": "2026-05-28T00:00:13+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "0cc4e2bee422599383d7d4bcae8e8a3d29fa2777",
-      "title": "Illinois Legislature passes SB 315, a bill requiring annual independent third-party safety audits of leading AI companies; the bill heads to the governor's desk (Jared Perlo/NBC News)",
-      "link": "https://www.techmeme.com/260527/p49#a260527p49",
-      "summary": "<a href=\"https://www.nbcnews.com/tech/tech-news/illinois-legislature-passes-historic-ai-bill-rcna347191\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260527/i49.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260527/p49#a260527p49\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jared Perlo / <a href=\"http://www.nbcnews.com/\">NBC News</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nbcnews.com/tech/tech-news/illinois-legislature-passes-historic-ai-bill-rcna347191\">Illinois Legislature passes SB 315, a bill requiring annual independent third-party safety audits of leading AI companies; the bill heads to the governor's desk</a></b></span>&nbsp; &mdash;&nbsp; The measure, SB 315, goes beyond legislation from California and New York regulating America's largest AI companies.</p>",
-      "published": "2026-05-27T23:40:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "9501973f05dffa3cb30d74982dacbf46c5503d87",
-      "title": "The US DOD announces a $9.7B five-year deal with Dell to provide Microsoft 365, advanced cloud subscriptions, and on-premises licensing to the US military (Garrett Downs/CNBC)",
-      "link": "https://www.techmeme.com/260527/p48#a260527p48",
-      "summary": "<a href=\"https://www.cnbc.com/2026/05/27/dell-dod-pentagon-software-deal-digital-infrastructure-trump.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260527/i48.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260527/p48#a260527p48\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Garrett Downs / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/05/27/dell-dod-pentagon-software-deal-digital-infrastructure-trump.html\">The US DOD announces a $9.7B five-year deal with Dell to provide Microsoft 365, advanced cloud subscriptions, and on-premises licensing to the US military</a></b></span>&nbsp; &mdash;&nbsp; The Department of Defense on Wednesday announced a five-year, roughly $9.7 billion deal with Dell to provide a suite of software to the U.S. military.</p>",
-      "published": "2026-05-27T23:25:01+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -320,15 +527,6 @@
       "category": "world"
     },
     {
-      "id": "36684516dffc794e7da851fd3bcd91b9494fc4be",
-      "title": "US prosecutors charge Google engineer Michele Spagnuolo with using inside information to make $1.2M on Polymarket bets about Google's Year in Search results (ABC News)",
-      "link": "https://www.techmeme.com/260527/p47#a260527p47",
-      "summary": "<a href=\"https://abcnews.com/US/google-employee-charged-inside-information-make-1-million/story?id=133350018\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260527/i47.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260527/p47#a260527p47\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://abcnews.com/\">ABC News</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://abcnews.com/US/google-employee-charged-inside-information-make-1-million/story?id=133350018\">US prosecutors charge Google engineer Michele Spagnuolo with using inside information to make $1.2M on Polymarket bets about Google's Year in Search results</a></b></span>&nbsp; &mdash;&nbsp; Michele Spagnuolo allegedly placed bets on what users were searching for.&nbsp; &mdash;&nbsp; In this Dec. 19, 2023, file photo &hellip; </p>",
-      "published": "2026-05-27T23:10:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "9b3034751bf8428ee4dba0c6ddf95119c8f9de1f",
       "title": "A Google employee allegedly used inside information to win $1.2 million on Polymarket",
       "link": "https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets",
@@ -345,15 +543,6 @@
       "published": "2026-05-27T22:10:00+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "95ec3c52a12b239284705091c10cfddcbe8495aa",
-      "title": "Sources: Uber has increased its stake in Delivery Hero to ~37% by acquiring Aspex Management's 14.6% share at a €12B valuation, after a takeover offer last week (Financial Times)",
-      "link": "https://www.techmeme.com/260527/p46#a260527p46",
-      "summary": "<a href=\"https://www.ft.com/content/5d91a37f-cbaa-42ae-b5c5-69ec73b3c1f3\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260527/i46.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260527/p46#a260527p46\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/5d91a37f-cbaa-42ae-b5c5-69ec73b3c1f3\">Sources: Uber has increased its stake in Delivery Hero to ~37% by acquiring Aspex Management's 14.6% share at a &euro;12B valuation, after a takeover offer last week</a></b></span>&nbsp; &mdash;&nbsp; Share purchase from Aspex Management steps up US ride-hailing group's pursuit of German food delivery company</p>",
-      "published": "2026-05-27T21:55:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "3f008d0b09f1e12b02359fd5dd542b71f474dc3e",
@@ -428,15 +617,6 @@
       "category": "deals"
     },
     {
-      "id": "657c733cc6453a02cabd65ee60fbb7ae0ee76bb2",
-      "title": "HP reports Q2 revenue up 9% YoY to $14.4B, vs. $14B est., Personal Systems revenue up 13% to $10.2B, and forecasts Q3 adjusted EPS above estimates (Dina Bass/Bloomberg)",
-      "link": "https://www.techmeme.com/260527/p45#a260527p45",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-05-27/hp-gives-profit-outlook-that-tops-estimate-managing-chip-crunch\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260527/i45.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260527/p45#a260527p45\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Dina Bass / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-05-27/hp-gives-profit-outlook-that-tops-estimate-managing-chip-crunch\">HP reports Q2 revenue up 9% YoY to $14.4B, vs. $14B est., Personal Systems revenue up 13% to $10.2B, and forecasts Q3 adjusted EPS above estimates</a></b></span>&nbsp; &mdash;&nbsp; HP Inc. gave a profit forecast for the current quarter that signaled the company continues to contend with a dramatic increase in memory chip prices.</p>",
-      "published": "2026-05-27T20:50:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "003c0cbe533570f5dadf5c4f8f8c7e06bd9eed1a",
       "title": "Mystery GPS jammer in Iran becomes test for NASA satellites’ capabilities",
       "link": "https://arstechnica.com/gadgets/2026/05/nasa-satellites-can-spot-gps-jammers-on-earth/",
@@ -444,33 +624,6 @@
       "published": "2026-05-27T20:43:54+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "75929bc1e4ddf5184346b9e873c9b60093d57d66",
-      "title": "Salesforce reports Q1 revenue up 13% YoY to $11.13B, vs. $11.05B est., Agentforce annual recurring revenue up 205% to $1.2B, and forecasts Q2 revenue below est. (Jordan Novet/CNBC)",
-      "link": "https://www.techmeme.com/260527/p44#a260527p44",
-      "summary": "<a href=\"https://www.cnbc.com/2026/05/27/salesforce-crm-q1-earnings-report-2027.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260527/i44.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260527/p44#a260527p44\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jordan Novet / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/05/27/salesforce-crm-q1-earnings-report-2027.html\">Salesforce reports Q1 revenue up 13% YoY to $11.13B, vs. $11.05B est., Agentforce annual recurring revenue up 205% to $1.2B, and forecasts Q2 revenue below est.</a></b></span>&nbsp; &mdash;&nbsp; Salesforce reported stronger-than-expected quarterly results on Wednesday, but the cloud software vendor issued full-year guidance &hellip; </p>",
-      "published": "2026-05-27T20:35:04+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "2cfbddea306a9816aa1673889dfd3c3b3e6de8ec",
-      "title": "Snowflake reports Q1 revenue up 33% YoY to $1.39B, vs. $1.32B est., and commits to spending $6B on AWS over five years; SNOW jumps 35%+ after hours (CNBC)",
-      "link": "https://www.techmeme.com/260527/p43#a260527p43",
-      "summary": "<a href=\"https://www.cnbc.com/2026/05/27/snowflake-amazon-graviton-cloud-chips.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260527/i43.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260527/p43#a260527p43\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/05/27/snowflake-amazon-graviton-cloud-chips.html\">Snowflake reports Q1 revenue up 33% YoY to $1.39B, vs. $1.32B est., and commits to spending $6B on AWS over five years; SNOW jumps 35%+ after hours</a></b></span>&nbsp; &mdash;&nbsp; Amazon said Wednesday that its cloud division has landed a $6 billion spending commitment from Snowflake, which includes the use &hellip; </p>",
-      "published": "2026-05-27T20:30:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "fbdafe51d664728b487a7fde1ee43a40258ab825",
-      "title": "Israel issues evacuation order for swathes of southern Lebanon",
-      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-      "summary": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
-      "published": "2026-05-27T20:26:03+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "e181f64ab11c65453fd9fea3c4c3cf96b3919529",
@@ -545,15 +698,6 @@
       "category": "deals"
     },
     {
-      "id": "f7e50810e0f384c178ca9948eec8a578ee179fd7",
-      "title": "The UK's GCHQ head says the UK and allies have a \"narrowing window\" to counter cyber threats from China and Russia, as Russia intensifies \"daily\" hybrid warfare (Chloe Taylor/CNBC)",
-      "link": "https://www.techmeme.com/260527/p42#a260527p42",
-      "summary": "<a href=\"https://www.cnbc.com/2026/05/27/uk-spy-chief-gchq-russia-china-us-cyber-attack-security.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260527/i42.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260527/p42#a260527p42\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Chloe Taylor / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/05/27/uk-spy-chief-gchq-russia-china-us-cyber-attack-security.html\">The UK's GCHQ head says the UK and allies have a &ldquo;narrowing window&rdquo; to counter cyber threats from China and Russia, as Russia intensifies &ldquo;daily&rdquo; hybrid warfare</a></b></span>&nbsp; &mdash;&nbsp; Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.</p>",
-      "published": "2026-05-27T20:00:55+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "e75c6005838865144c94342c6f73f9013c48d8d4",
       "title": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires",
       "link": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
@@ -581,15 +725,6 @@
       "category": "tech"
     },
     {
-      "id": "2ccdef744536617fa9bcf9052578a703ebbf3800",
-      "title": "Amazon MGM Studios announces the GenAI Creators' Fund, greenlights three AI animated series for Prime Video, and launches an AI production platform with AWS (Todd Spangler/Variety)",
-      "link": "https://www.techmeme.com/260527/p41#a260527p41",
-      "summary": "<a href=\"https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260527/i41.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260527/p41#a260527p41\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Todd Spangler / <a href=\"http://www.variety.com/\">Variety</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/\">Amazon MGM Studios announces the GenAI Creators' Fund, greenlights three AI animated series for Prime Video, and launches an AI production platform with AWS</a></b></span>&nbsp; &mdash;&nbsp; Amazon MGM Studios is touting the power of AI to help create &ldquo;cinematic&rdquo; entertainment in a big new initiative &hellip; </p>",
-      "published": "2026-05-27T19:25:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "e42692362071e599b079f068fb96ec2473b93e66",
       "title": "Roku OS’s home screen now features a large, permanent ad",
       "link": "https://arstechnica.com/gadgets/2026/05/roku-oss-home-screen-now-features-a-large-permanent-ad/",
@@ -605,15 +740,6 @@
       "summary": "In Las Vegas, the blazing sun beats down on a makeshift Olympic-length pool. Cody Miller stands on the starting block of lane one. His arms are raised in victory. MC Hammer's \"U Can't Touch This\" thumps over the loudspeakers as he rips off his swimming cap, throwing it to the ground. Miller lets out a [&#8230;]",
       "published": "2026-05-27T19:08:31+00:00",
       "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "3323af770a33df2674676708133f6fefd88f62ff",
-      "title": "Valve raises Steam Deck OLED prices due to \"rising memory and storage costs\"; the 512GB model is now $789, up from $549, and the 1TB model is $949, up from $649 (Jay Peters/The Verge)",
-      "link": "https://www.techmeme.com/260527/p40#a260527p40",
-      "summary": "<a href=\"https://www.theverge.com/games/938340/valve-steam-deck-price-increase\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260527/i40.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260527/p40#a260527p40\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jay Peters / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/games/938340/valve-steam-deck-price-increase\">Valve raises Steam Deck OLED prices due to &ldquo;rising memory and storage costs&rdquo;; the 512GB model is now $789, up from $549, and the 1TB model is $949, up from $649</a></b></span>&nbsp; &mdash;&nbsp; The 1TB OLED model got a $300 price increase, and now costs $949. &hellip; Valve has significantly increased the price &hellip; </p>",
-      "published": "2026-05-27T19:05:03+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -797,15 +923,6 @@
       "category": "deals"
     },
     {
-      "id": "7db2070de0fae9b7fe56db93ecafa1e31758fc35",
-      "title": "Motorola says affiliate hijacking of Amazon app was &#8216;unintended&#8217;",
-      "link": "https://www.theverge.com/tech/938249/motorola-device-native-amazon-affiliate-hijack",
-      "summary": "Motorola says that recently discovered behavior, which saw some of its phones sending users to an affiliate tracking website before opening the Amazon app, was \"unintended\" and has been \"promptly corrected.\" The company didn't explain how the error was introduced in the first place. \"Recently, Motorola acted quickly to resolve an issue that was identified, [&#8230;]",
-      "published": "2026-05-27T16:42:46+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "e4694dbdabe6207329f36f5026c776bdbba077c0",
       "title": "Most affordable new 13-inch M4 iPad Air hits Amazon low at nearly $100 off",
       "link": "https://9to5toys.com/2026/05/27/most-affordable-new-13-inch-m4-ipad-air-2/",
@@ -840,15 +957,6 @@
       "published": "2026-05-27T16:20:04+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "9751e68cb7167ea295416fccb6510be0447d1ea7",
-      "title": "First Ghanaians evacuated from South Africa over immigration protests land in Accra",
-      "link": "https://www.bbc.com/news/articles/cy0269pwxg3o?at_medium=RSS&at_campaign=rss",
-      "summary": "It follows recent protests that have led to fears there could be a resurgence in xenophobic violence.",
-      "published": "2026-05-27T16:14:34+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "90e34138b02b6b43fbb68b86b7167338bbb19e2b",
@@ -1085,15 +1193,6 @@
       "category": "world"
     },
     {
-      "id": "bb59713b31cab03f7f71d164c90003b551180f40",
-      "title": "YouTuber arrested for allegedly using AI to defame Korean actor",
-      "link": "https://www.bbc.com/news/articles/c759y6pvezgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The YouTuber allegedly made false claims that fuelled a career-ending scandal for Kim Soo-hyun.",
-      "published": "2026-05-27T02:54:19+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "a2a99f73b0ea1e15417b9100edb0dab31c1c2303",
       "title": "CircadiaOS",
       "link": "https://www.producthunt.com/products/circadiaos",
@@ -1110,15 +1209,6 @@
       "published": "2026-05-26T22:27:32+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "934028399f5d7c9d866c494fd8212b9def78ce8f",
-      "title": "GenGo",
-      "link": "https://www.producthunt.com/products/gengo-2",
-      "summary": "<p>\n            Transform selected text anywhere on macOS\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gengo-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1156702?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-26T21:31:12+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "d2f71755efc4e72a1226d4d80383e76a85a37a20",
@@ -1139,20 +1229,20 @@
       "category": "tech"
     },
     {
-      "id": "3d9672187bf38c342ee2003fbf2c8d6827b04225",
-      "title": "Nasa unveils next steps to build permanent Moon base",
-      "link": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base.",
-      "published": "2026-05-26T20:25:50+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "f7f025536ac70b4ecd5620feeb36e8d26e060c11",
       "title": "zero.xyz",
       "link": "https://www.producthunt.com/products/zero-xyz",
       "summary": "<p>\n            Give your AI agent access to ~8k tools, APIs and services\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zero-xyz?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1156593?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-26T18:33:09+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "fbe7fc2b518fac15baea2117c4c47064fcf2a55c",
+      "title": "Harbor",
+      "link": "https://www.producthunt.com/products/habor",
+      "summary": "<p>\n            CLI + companion App to spin up complete local LLM stacks\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/habor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1156503?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-26T16:29:14+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1173,15 +1263,6 @@
       "published": "2026-05-26T15:44:14+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "ac2ceccfecf59ad6ed723239ae8bfdca5694e519",
-      "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
-      "link": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
-      "summary": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks.",
-      "published": "2026-05-26T15:15:29+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "b8d8065d5369b239647aca29786ed9ad83d900fa",
@@ -1247,13 +1328,13 @@
       "category": "events"
     },
     {
-      "id": "d872de3cfcfba5372029cde50342ae3f54838917",
-      "title": "Sennheiser Announces Momentum 5; Landing In Malaysia Soon",
-      "link": "https://www.lowyat.net/2026/393941/sennheiser-announces-momentum-5/",
-      "summary": "<p>After almost four years since the Momentum 4 launched, Sennheiser has officially unveiled its successor, the Momentum 5. While the new headphones look largely similar to the previous model, the company says the latest iteration brings improvements to both audio performance and active noise cancellation (ANC). As for audio, the Momentum 5 retains the same [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/393941/sennheiser-announces-momentum-5/\">Sennheiser Announces Momentum 5; Landing In Malaysia Soon</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-05-26T10:10:32+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
+      "id": "5a1ecdf0b56f38e4ccf65aab31c62e634f151467",
+      "title": "Pawse.ai",
+      "link": "https://www.producthunt.com/products/pawse-ai",
+      "summary": "<p>\n            An acoustic regulation system for dogs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pawse-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1156203?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-26T10:02:57+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "273f5c7ce365b671de01194f1ef96fe6070d3f17",
@@ -1263,33 +1344,6 @@
       "published": "2026-05-26T09:59:31+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "65e0c257ada99ff5ad548b68de13b2787a0a3b2e",
-      "title": "AMD Zen 7 “Grimlock” Architecture To Use TSMC 14A Process",
-      "link": "https://www.lowyat.net/2026/393926/amd-zen-7-grimlock-architecture-to-use-tsmc-14a-process/",
-      "summary": "<p>AMD is rumoured to be preparing to bring its Zen 7 architecture, codename &#8220;Grimlock&#8221;, into development soon. On top of that, it is expected to be the first architecture to be fabricated around the 14A process, which will also make it the Zen architecture to enter the Angstrom node era. Reports of AMD prepping beyond [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/393926/amd-zen-7-grimlock-architecture-to-use-tsmc-14a-process/\">AMD Zen 7 &#8220;Grimlock&#8221; Architecture To Use TSMC 14A Process</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-05-26T09:58:52+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
-      "id": "0ddf0d92ee4f1fca2f8586af1df5b10a8763a844",
-      "title": "KTMB Confirms Cable Theft; Major ETS, KTM Komuter Delays Ahead Of Aidiladha",
-      "link": "https://www.lowyat.net/2026/393935/ktmb-cable-theft-ets-komuter-delays-may-2026/",
-      "summary": "<p>Keretapi Tanah Melayu Berhad (KTMB) has announced major delays affecting several Electric Train Service (ETS) and KTM Komuter Utara services following the theft of approximately 100 metres of railway cable in Perak earlier today. According to the national rail operator, the incident occurred at KM95.8 between Sungai Siput and Kamunting, where the stolen cables severely [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/393935/ktmb-cable-theft-ets-komuter-delays-may-2026/\">KTMB Confirms Cable Theft; Major ETS, KTM Komuter Delays Ahead Of Aidiladha</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-05-26T09:34:55+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
-      "id": "61fc5b4274e80fa44ca2034de0cdd6edd87f3b95",
-      "title": "Samsung Wide-Screen Foldable Reportedly Launching As Galaxy Z Fold8",
-      "link": "https://www.lowyat.net/2026/393927/samsung-wide-screen-galaxy-z-fold8/",
-      "summary": "<p>Samsung is expected to launch its newest crop of foldable phones within the coming months. If you’ve been keeping up with the leaks, then you’ve probably heard that the company may be adding a new member to this year’s lineup. While past reports have called the device the Galaxy Z Fold8 Wide, or just the [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/393927/samsung-wide-screen-galaxy-z-fold8/\">Samsung Wide-Screen Foldable Reportedly Launching As Galaxy Z Fold8</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-05-26T09:28:26+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
     },
     {
       "id": "15aedd498fced7767eb997efcc5dcae27e7c3dd9",
@@ -1310,15 +1364,6 @@
       "category": "malaysia"
     },
     {
-      "id": "32f18231d0edb850ac294d1de282b12e432f4ffb",
-      "title": "ASUS ProArt PZ14 Now Officially Available In Malaysia",
-      "link": "https://www.lowyat.net/2026/393920/asus-proart-pz14-now-officially-available-in-malaysia/",
-      "summary": "<p>ASUS Malaysia is officially making its ProArt PZ14 tablet laptop available in Malaysia. The laptop was designed primarily for creators and features a lightweight yet durable chassis. Aesthetically, the ProArt PZ14 sports an all-Nano Black finish with smudge-resistant technology, giving it a clean, premium look. Physically, it&#8217;s really lightweight, with an emphasis on light: it [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/393920/asus-proart-pz14-now-officially-available-in-malaysia/\">ASUS ProArt PZ14 Now Officially Available In Malaysia</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-05-26T07:20:02+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
       "id": "4260f530319caf1f15d2ee6c5c130170df98af85",
       "title": "Rollout of new Malaysian Passport postponed until further notice",
       "link": "https://soyacincau.com/2026/05/26/pma-new-malaysia-passport-rollout-postponed/",
@@ -1328,22 +1373,13 @@
       "category": "malaysia"
     },
     {
-      "id": "92ac93c90c733859aabafb816f6f5d7e3e94d0cd",
-      "title": "Immigration Department Delays New Passport Rollout",
-      "link": "https://www.lowyat.net/2026/393870/immigration-department-delays-new-passport-rollout/",
-      "summary": "<p>Last week, the Malaysian Immigration Department director-general Zakaria Shaaban announced that the new Malaysian International Passport will begin rolling out on 1 June. That’s not happening anymore, as the department released a statement noting that the rollout of the new passport is being delayed. No new date was provided, only that the new release date [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/393870/immigration-department-delays-new-passport-rollout/\">Immigration Department Delays New Passport Rollout</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-05-26T06:23:47+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
-      "id": "729939e850f0dbca5323c32e6069b162f7fa9d81",
-      "title": "HONOR Watch 6 Plus Debuts In China With 1,000mAh Battery",
-      "link": "https://www.lowyat.net/2026/393887/honor-watch-6-plus-china/",
-      "summary": "<p>HONOR has announced a new smartwatch for its home market. Launched alongside the China versions of its 600 series, the Watch 6 Plus emphasises endurance. Its main highlight is the massive battery, which can supposedly offer up to several weeks of use. According to the company, this 1,000mAh battery allows the wearable to last a [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/393887/honor-watch-6-plus-china/\">HONOR Watch 6 Plus Debuts In China With 1,000mAh Battery</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-05-26T06:22:54+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
+      "id": "05855ef85de7e052ea7071ff2c181d48a824e423",
+      "title": "Octolane",
+      "link": "https://www.producthunt.com/products/octolane",
+      "summary": "<p>\n            Self-driving AI CRM that you can talk to\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/octolane?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1156046?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-26T07:00:40+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "fdb56b47e11075780731619e4b02333eae0aae69",
@@ -1382,33 +1418,6 @@
       "category": "malaysia"
     },
     {
-      "id": "aa211d2d075f4cbe252514ae099eca057bdd65dd",
-      "title": "ChargEV deploys 200kW DC Charger and 22kW AC Charge Point at Gamuda Walk Mall Kota Kemuning",
-      "link": "https://soyacincau.com/2026/05/25/chargev-gamuda-walk-mall-kota-kemuning-shah-alam/",
-      "summary": "There&#8217;s now a new high-powered DC Charger in Kota Kemuning, Shah Alam. ChargEV has deployed a total of 4 EV charge points at Gamuda Walk Mall which provides a convenient spot to top up your EV while shopping or dining at the mall. As part of its opening promo, ChargEV is offering 20% discount for [&#8230;]",
-      "published": "2026-05-25T09:14:39+00:00",
-      "source": "SoyaCincau",
-      "category": "malaysia"
-    },
-    {
-      "id": "fbd09f23ec7b32ec8c76cf2865e3e480461e0147",
-      "title": "Aviquill",
-      "link": "https://www.producthunt.com/products/aviquill",
-      "summary": "<p>\n            A calm canvas for visual thinkers with messy minds\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/aviquill?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1155192?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-25T07:57:37+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "cf1a3d740ed34d918569bd5e67fb5ac9e61dd0e7",
-      "title": "Anthony Loke instructs JPJ to resume online vehicle ownership transfer service",
-      "link": "https://soyacincau.com/2026/05/25/anthony-loke-jpj-resume-online-vehicle-ownership-transfer/",
-      "summary": "The Road Transport Department (JPJ) has been instructed to restore its online vehicle ownership transfer services less than a day after announcing a nationwide suspension following complaints involving unauthorised ownership transfers. Transport Minister Anthony Loke said he had discussed the matter with JPJ director-general Datuk Aedy Fadly Ramli after reports emerged about the temporary suspension [&#8230;]",
-      "published": "2026-05-25T07:33:09+00:00",
-      "source": "SoyaCincau",
-      "category": "malaysia"
-    },
-    {
       "id": "89202f40a99ed3ac8ed0c19a41bff126de3f1a03",
       "title": "Bluedot 2.1",
       "link": "https://www.producthunt.com/products/bluedot-2",
@@ -1427,20 +1436,20 @@
       "category": "events"
     },
     {
-      "id": "9f2f271ed9a72ece26a9b05dd7c86339fdc020dc",
-      "title": "Layers",
-      "link": "https://www.producthunt.com/products/layers-8",
-      "summary": "<p>\n            Create beautiful animated code snippet videos for free\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/layers-8?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1154329?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-24T00:47:34+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "48bf7a0b8fa6d491a53ac6da7dc9f3eb08274e14",
       "title": "baz.studio",
       "link": "https://www.producthunt.com/products/bazaar-2",
       "summary": "<p>\n            Skills library & video editor for AI Agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bazaar-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1153406?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-22T13:37:44+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "9736e1ab337c9ea8adcdead6f15683ec828409bf",
+      "title": "MacSIM by Studio Practice",
+      "link": "https://www.producthunt.com/products/mac-screen-simulator-studio-practice",
+      "summary": "<p>\n            Preview any URL on every Mac screen at once\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mac-screen-simulator-studio-practice?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152269?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-21T06:42:58+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1477,15 +1486,6 @@
       "link": "https://www.producthunt.com/products/krater-ai",
       "summary": "<p>\n            All the AI tools you use, one subscription\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/krater-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1143746?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-10T18:45:11+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "482e73f7c37cd40dafd47a49076724e42ed11801",
-      "title": "BankStatementLab",
-      "link": "https://www.producthunt.com/products/bankstatementlab",
-      "summary": "<p>\n            Turn any bank statement PDF into Excel, CSV or JSON with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bankstatementlab?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1103562?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-21T05:32:55+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
