@@ -1,9 +1,90 @@
 {
-  "generatedAt": "2026-05-30T15:00:52.000981+00:00",
+  "generatedAt": "2026-05-30T16:54:37.119752+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "4b592847fe7def6b0e4ba8f795312a8bda77f650",
+      "title": "Ebola spread in DR Congo 'alarming', charity warns, as WHO chief visits worst-hit area",
+      "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Médicins Sans Frontières says that never before has an Ebola outbreak recorded so many cases so soon after its declaration.",
+      "published": "2026-05-30T16:43:32+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "cbd00d34e6aa909d72cb01f15b74696691314375",
+      "title": "A look at the nasty fight between Anthropic-backed super PAC Public First and OpenAI-backed Leading the Future to sway midterms, especially Democratic primaries (Theodore Schleifer/New York Times)",
+      "link": "https://www.techmeme.com/260530/p10#a260530p10",
+      "summary": "<a href=\"https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html?unlocked_article_code=1.mVA.tV8n.fkWBYEgzc5Lq&amp;smid=url-share\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260530/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260530/p10#a260530p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Theodore Schleifer / <a href=\"https://www.nytimes.com/\">New York Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html?unlocked_article_code=1.mVA.tV8n.fkWBYEgzc5Lq&amp;smid=url-share\">A look at the nasty fight between Anthropic-backed super PAC Public First and OpenAI-backed Leading the Future to sway midterms, especially Democratic primaries</a></b></span>&nbsp; &mdash;&nbsp; One super PAC is allied with Anthropic.&nbsp; The other is tied to OpenAI.&nbsp; They're both spending millions to influence this year's elections.</p>",
+      "published": "2026-05-30T16:30:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "4760d0a2214538b7a8caa2d773de9df68235e0a7",
+      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+      "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "published": "2026-05-30T16:30:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "22facad7d0522bcaea567e169e04c8ac4fd4af8a",
+      "title": "Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves",
+      "link": "https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves",
+      "summary": "Cecil Baldwin's r&#233;sum&#233; includes appearances on Gravity Falls, narrating the documentary Scream, Queen! My Nightmare on Elm Street, and performing as part of the New York Neo-Futurists theater company. But he is best known as the host of the podcast Welcome to Night Vale, a long-running fiction show that blends macabre Lovecraftian horror with absurdist [&#8230;]",
+      "published": "2026-05-30T16:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "4ba01ea3457f5db1a29235108e15ef7e8d419a34",
+      "title": "Meta is reportedly developing an AI pendant",
+      "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "summary": "Meta seems to be making big bets on AI-powered hardware.",
+      "published": "2026-05-30T15:59:58+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "a055108fe96980cf278bc56ea84d10a0d54a5949",
+      "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
+      "link": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Local authorities say the cancellation of other West concerts had played a role in the decision.",
+      "published": "2026-05-30T15:39:12+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "eaf0e7fcc6ee1dc4f92521696ef551bf4158315d",
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+      "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+      "published": "2026-05-30T15:30:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "fa70de7841507bbb75c1b6f7cdd49de689bac81e",
+      "title": "Microsoft is threatening legal action for disclosing exploits",
+      "link": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
+      "summary": "Microsoft is facing criticism for its handling of zero-day exploits. Someone going by the name Nightmare Eclipse has been publicly feuding with the company, posting proof-of-concept exploit code. Some of their posts suggest that they're a disgruntled former employee. But what caught cyber security researcher Kevin Beaumont's eye was how Microsoft has responded. Microsoft suggests [&#8230;]",
+      "published": "2026-05-30T15:19:50+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "7438406ee8d29d30288f8ef21f3f4d62d5e5478b",
+      "title": "Anthropic cuts its list of unauthorized secondary market sellers from eight to four after the initial notice caused panic and pushback from investors (Yazhou Sun/Bloomberg)",
+      "link": "https://www.techmeme.com/260530/p9#a260530p9",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-05-30/anthropic-cuts-unauthorized-platform-list-by-half-after-pushback\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260530/i9.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260530/p9#a260530p9\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Yazhou Sun / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-05-30/anthropic-cuts-unauthorized-platform-list-by-half-after-pushback\">Anthropic cuts its list of unauthorized secondary market sellers from eight to four after the initial notice caused panic and pushback from investors</a></b></span>&nbsp; &mdash;&nbsp; Anthropic PBC updated its warning about secondary markets for its shares, cutting the number of unauthorized platforms by half &hellip; </p>",
+      "published": "2026-05-30T15:00:37+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
     {
       "id": "05fcc58f98035302426c0c06b5aa535ae7cbde1f",
       "title": "Some of our favorite art TVs are more than 40 percent off this weekend",
@@ -266,15 +347,6 @@
       "category": "tech"
     },
     {
-      "id": "bbbb7c4dc7333ee550a195d3ce3b24d31a31abd0",
-      "title": "This is the James Bond game we’ve been waiting for",
-      "link": "https://www.theverge.com/tech/940092/007-first-light-oura-ring-5-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 130, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, don't forget to hydrate, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Victor Wembanyama and mahjong and Merlin Mann's pearls of [&#8230;]",
-      "published": "2026-05-30T12:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "9999c32b549bf2eab3e472acea8c3b663f49eb1c",
       "title": "9to5Toys Steals Weekly – Thunderbolt 4 cable $13.50, steel dish rack $20, Spigen Athlex Air Apple Watch band $20, more",
       "link": "https://9to5toys.com/2026/05/30/steals-weekly-may-30/",
@@ -473,6 +545,15 @@
       "category": "tech"
     },
     {
+      "id": "4bcbacdc3c8d2a117eef25676595129e59df7f10",
+      "title": "LAST CHANCE: We are giving away FREE Burton Goods leather laptop bags this week worth $330+",
+      "link": "https://9to5toys.com/2026/05/30/giveaway-free-burton-goods-leather-laptop-bag/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/Burton-Goods-Slim-Leather-Laptop-Briefcase-01-copy.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>We are teaming up with Burton Goods this week – one of our favorite leather tech accessory brands – to give some lucky readers one of its gorgeous new <a href=\"https://tidd.ly/4jE3iqg\">Leather laptop bags for FREE</a>. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/30/giveaway-free-burton-goods-leather-laptop-bag/#more-1210721\">more…</a>",
+      "published": "2026-05-30T07:59:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
       "id": "c51de17069a6f75c3905e2dd3a5a68235197600b",
       "title": "realme To Launch P4 Series On 3 June",
       "link": "https://www.lowyat.net/2026/394259/realme-to-launch-p4-series-3-june/",
@@ -552,15 +633,6 @@
       "published": "2026-05-30T03:13:58+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "157e9e6c50d5e57a9d012b97d47616ee4debd884",
-      "title": "'Men written by women': How ice hockey romances like Off Campus became TV's hottest new genre",
-      "link": "https://www.bbc.com/news/articles/clypz87rqy1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Amazon Prime adaptation of Elle Kennedy's ice hockey romance book is an early hit with viewers.",
-      "published": "2026-05-30T02:59:16+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "1ed68676685eb8a5a1248341e7fafe516bd44142",
@@ -680,39 +752,12 @@
       "category": "tech"
     },
     {
-      "id": "0b85363af464fd565196bd91e836493f6bc24a0a",
-      "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors",
-      "link": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
-      "summary": "It's the world's worst kept secret that Nvidia is about to announce its own Arm-powered laptop chips at Computex this weekend, and now Microsoft, Nvidia, and Arm are all openly teasing the announcement. The Windows and Nvidia GeForce accounts on X both posted \"A new era of PC\" earlier today, and now Arm has followed [&#8230;]",
-      "published": "2026-05-29T23:03:29+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "b9c8fc219f97b81337170d6174c01484f32d6778",
       "title": "Proposed new US funding rules: We can cancel any grant at any time",
       "link": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
       "summary": "Peer review now optional, political staff would screen grants for forbidden topics.",
       "published": "2026-05-29T22:58:29+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "2ed801c4add74d522bf1daf393e1a8e9a444ef33",
-      "title": "Coinbase and Kalshi introduce perpetual crypto futures, marking the first time the contracts will be available to US investors via domestic, regulated exchanges (Pritam Biswas/Reuters)",
-      "link": "https://www.techmeme.com/260529/p32#a260529p32",
-      "summary": "<a href=\"https://www.reuters.com/legal/government/coinbase-kalshi-bring-regulated-perpetual-crypto-futures-us-investors-2026-05-29/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260529/i32.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260529/p32#a260529p32\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Pritam Biswas / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/legal/government/coinbase-kalshi-bring-regulated-perpetual-crypto-futures-us-investors-2026-05-29/\">Coinbase and Kalshi introduce perpetual crypto futures, marking the first time the contracts will be available to US investors via domestic, regulated exchanges</a></b></span>&nbsp; &mdash;&nbsp; Cryptocurrency exchange Coinbase (COIN.O) and prediction markets platform Kalshi said on Friday they are introducing perpetual crypto futures &hellip; </p>",
-      "published": "2026-05-29T22:55:39+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "46f85b1d2815459f6e72eb42dca1b6e24cca9774",
-      "title": "SentinelOne's stock closes down 8% after the company announced plans to lay off 8% of its workforce and forecasted Q2 and FY revenue guidance below estimates (Samantha Subin/CNBC)",
-      "link": "https://www.techmeme.com/260529/p31#a260529p31",
-      "summary": "<a href=\"https://www.cnbc.com/2026/05/29/sentinelone-s-stock-earnings-ai-layoffs.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260529/i31.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260529/p31#a260529p31\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Samantha Subin / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/05/29/sentinelone-s-stock-earnings-ai-layoffs.html\">SentinelOne's stock closes down 8% after the company announced plans to lay off 8% of its workforce and forecasted Q2 and FY revenue guidance below estimates</a></b></span>&nbsp; &mdash;&nbsp; SentinelOne shares sank 8% as the cybersecurity company laid off 8% of its full-time workforce to focus on artificial intelligence and data investments.</p>",
-      "published": "2026-05-29T22:45:01+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -732,15 +777,6 @@
       "published": "2026-05-29T22:14:22+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "f02c8098048759cb9879c49c8a7d9f855ecebc06",
-      "title": "After decades risking arrest, South Korea's tattoo artists step into the limelight",
-      "link": "https://www.bbc.com/news/articles/cg4pwdn6130o?at_medium=RSS&at_campaign=rss",
-      "summary": "Only licensed doctors were allowed to ink tattoos in Korea - breaking the law could lead to heavy fines or jail.",
-      "published": "2026-05-29T22:13:54+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "a29dcf3426fa66bc12d6a15473e970e44bbada47",
@@ -930,15 +966,6 @@
       "published": "2026-05-29T17:27:09+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "85fea5668cfc5ce0176d7398f8765bea402261d9",
-      "title": "Friday’s Android app deals and freebies: LEGO Bricktales, Boxville, House of Da Vinci, more",
-      "link": "https://9to5toys.com/2026/05/29/friday-android-app-deals-lego-house-da-vinci/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/Google-Play-May-29.webp?w=1600\" /></div><p>Your afternoon lineup of the best Android game and app deals is now ready to roll, including titles like LEGO Bricktales, Boxville, Chroma Quaternion, The House of Da Vinci, Armed Emeth, RPG Ghost Sync, Data Defense, and more. We also have have <a href=\"https://9to5toys.com/2026/05/29/pixel-10-pro-fold-best-deal/\">Pixel 10 Pro Fold at up to $615 off the list price</a>, <a href=\"https://9to5toys.com/2026/05/28/google-pixel-10-pro-open-box-deals/\">Pixel 10 Pro</a> from <a href=\"https://9to5toys.com/2026/05/28/google-pixel-10-pro-open-box-deals/\">$585</a>, and <a href=\"https://9to5toys.com/2026/05/26/google-pixel-10-pro-xl-256gb/\">10 Pro XL at nearly $500 off</a> joined by <a href=\"https://9to5toys.com/2026/05/29/lenovo-weekend-sale-is-now-live-at-up-to-64-off/\">Lenovo’s weekend sale</a> live with <a href=\"https://9to5toys.com/2026/05/29/lenovo-weekend-sale-is-now-live-at-up-to-64-off/\">up to <strong>64% off</strong> </a>Android tablets and more. As for the apps, everything awaits below. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/05/29/friday-android-app-deals-lego-house-da-vinci/#more-1211772\">more…</a>",
-      "published": "2026-05-29T17:27:07+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "096d4016e753b52713946d739947cdc6417a5234",
@@ -1166,15 +1193,6 @@
       "category": "deals"
     },
     {
-      "id": "dde3b4a025eb34dc7eaaa5ca7597e124c4893d8a",
-      "title": "PromptLayer",
-      "link": "https://www.producthunt.com/products/promptlayer-2",
-      "summary": "<p>\n            Trace AI requests, workflows, and costs in one timeline\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/promptlayer-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1158475?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-29T06:41:50+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "5bdc75a19e0f295a6a7df5789fcdf2cac6d8bf71",
       "title": "Drafted",
       "link": "https://www.producthunt.com/products/drafted-4",
@@ -1238,33 +1256,6 @@
       "category": "world"
     },
     {
-      "id": "3a9a8425edf6ea502bb6650e03a588497e4a8ff1",
-      "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
-      "link": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
-      "summary": "The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX.",
-      "published": "2026-05-29T01:22:16+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "799a4c2f4b77ca38fa5b7c88773e7a565e9a83ac",
-      "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
-      "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-      "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
-      "published": "2026-05-29T00:44:37+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "d3d15c135a96f9bfa3ad72e8904e7006ae2d25e1",
-      "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
-      "link": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
-      "summary": "A new law and AV tracker tool gives the clearest accounting yet of how many robotaxis and self-driving trucks are in Texas.",
-      "published": "2026-05-29T00:14:35+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "6e2bfcce6cccd26127944de299eabd82387af8b7",
       "title": "Survival before safety for Delhi's poor as temperatures hit 45C",
       "link": "https://www.bbc.com/news/articles/c172yyvp55do?at_medium=RSS&at_campaign=rss",
@@ -1290,15 +1281,6 @@
       "published": "2026-05-28T22:01:02+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "fda21a277523b034f1a621b2dc1fa4cc591f0755",
-      "title": "Coffee Piano",
-      "link": "https://www.producthunt.com/products/coffee-piano-harmony-lab",
-      "summary": "<p>\n            Browser music and piano studio with visual harmony tools\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/coffee-piano-harmony-lab?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1158273?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-28T21:45:11+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "b1aa42532a0c79508cfdd18b93c9e7e4b1c15bd9",
@@ -1328,24 +1310,6 @@
       "category": "tech"
     },
     {
-      "id": "21d4db1838b7d2d91635634708b2774adc137268",
-      "title": "Basedash: Embedded Analytics",
-      "link": "https://www.producthunt.com/products/basedash",
-      "summary": "<p>\n            Give customers AI analytics inside your product.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1158173?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-28T18:57:07+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "f02c422e54b973344a70d06f2cab200d35124567",
-      "title": "Linear Diffs",
-      "link": "https://www.producthunt.com/products/linear",
-      "summary": "<p>\n            A new way to review PRs, directly inside Linear\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/linear?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1158147?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-28T18:09:28+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "eb5d7362537db5533ea00305dda1bfd22e3fedd3",
       "title": "Is BYD Atto 3 Facelift with RWD and longer range coming soon to Malaysia?",
       "link": "https://soyacincau.com/2026/05/29/byd-atto-3-facelift-rwd-malaysia/",
@@ -1353,6 +1317,15 @@
       "published": "2026-05-28T16:45:42+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "445ddfd80deed2375aabdd6e385b2a0f1891f41a",
+      "title": "NODUS HN Radar",
+      "link": "https://www.producthunt.com/products/nodus-hn-radar",
+      "summary": "<p>\n            Track rising Hacker News posts before they explode\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nodus-hn-radar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1158038?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-28T15:16:09+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "972b4c5af025716e2925fe6ecdcfc4f6061b1ae4",
@@ -1369,6 +1342,15 @@
       "link": "https://www.producthunt.com/products/ahrefs",
       "summary": "<p>\n            The AI Marketing Agent Powered by Ahrefs Data\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ahrefs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1158026?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-28T15:00:52+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "e52500292933277070a7d2ac9ecaa480a9dc19d5",
+      "title": "TrackNotch",
+      "link": "https://www.producthunt.com/products/tracknotch",
+      "summary": "<p>\n            LLM usage tracking that lives in your Mac's notch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tracknotch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1158025?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-28T14:59:17+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1400,11 +1382,29 @@
       "category": "malaysia"
     },
     {
+      "id": "61e1ab6621e2134958267f44f35fc1888bf19010",
+      "title": "Notchy",
+      "link": "https://www.producthunt.com/products/notchy",
+      "summary": "<p>\n            Mac dynamic island with music, timers, clipboard, file drops\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/notchy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1157860?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-28T10:38:55+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "4f79b6cff840a1223ef08f5f252961c9995cb8be",
       "title": "RabbitTravel",
       "link": "https://www.producthunt.com/products/rabbittravel",
       "summary": "<p>\n            Smart travel planning made effortless\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rabbittravel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1157856?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-28T10:34:41+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "66ef722df059d59a73dfee6c98ebcbcd7f9cc572",
+      "title": "Vibeocus Lens",
+      "link": "https://www.producthunt.com/products/vibeocus-lens",
+      "summary": "<p>\n            Bridge your live frontend directly to your AI agent.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vibeocus-lens?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1157807?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-28T09:24:39+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1427,11 +1427,11 @@
       "category": "events"
     },
     {
-      "id": "65cf571f47e496a6193bd5328c17b79219a991c8",
-      "title": "Firecoach AI",
-      "link": "https://www.producthunt.com/products/firecoach",
-      "summary": "<p>\n            AI roleplays that turn reps into top performers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/firecoach?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1155201?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-25T08:13:13+00:00",
+      "id": "d797caf197fa4b1b6338673002182c77f2f3feba",
+      "title": "Hyper: Self-driving Company Brain",
+      "link": "https://www.producthunt.com/products/hyper-11",
+      "summary": "<p>\n            Turn your AI agents from interns to veterans\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hyper-11?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1157449?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-27T20:25:45+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
