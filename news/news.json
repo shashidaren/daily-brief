@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-05-30T20:48:28.315169+00:00",
+  "generatedAt": "2026-05-30T21:54:45.638865+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "5b740557f4225b6dcac7d9301b366a0e8aeeddc0",
+      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+      "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+      "published": "2026-05-30T21:45:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "4b6ca33f35fa0253c6ae4c436e78443966312300",
+      "title": "This weekend’s two biggest movies were both directed by YouTubers",
+      "link": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+      "summary": "The YouTube-to-prestige-horror pipeline is looking very strong.",
+      "published": "2026-05-30T21:12:37+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "921dbc332bc4faf548089e8fd52804e9232a29ff",
+      "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+      "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The medical charity's comments come as the head of the World Health Organization visits the region worst-hit by the virus outbreak.",
+      "published": "2026-05-30T21:10:06+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "5ceb72f9caf7b0d585a885b727a04ec00e5b22b0",
+      "title": "'It's like a decaying body': Australian farmers battle mouse plague",
+      "link": "https://www.bbc.com/news/articles/c794g80lw74o?at_medium=RSS&at_campaign=rss",
+      "summary": "Farmers report thousands of mice per hectare destroying crops and invading homes.",
+      "published": "2026-05-30T20:58:05+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "1cbbbf1272e2607db6e41a6b0b63853b0d17225b",
       "title": "Antenna: bundles make up 33% of new major streaming service subscriptions in the US, and 28% of all subscriptions, up from just 10% of new subscriptions in 2024 (John Koblin/New York Times)",
@@ -19,15 +55,6 @@
       "link": "https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss",
       "summary": "Ecuadorian leader Daniel Noboa offers to cancel tariffs after speaking to a right-wing presidential candidate ahead of Sunday's vote.",
       "published": "2026-05-30T20:40:07+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "4b592847fe7def6b0e4ba8f795312a8bda77f650",
-      "title": "Ebola spread in DR Congo 'alarming', charity warns, as WHO chief visits worst-hit area",
-      "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Médicins Sans Frontières says that never before has an Ebola outbreak recorded so many cases so soon after its declaration.",
-      "published": "2026-05-30T20:19:21+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -156,6 +183,15 @@
       "published": "2026-05-30T15:19:50+00:00",
       "source": "The Verge",
       "category": "tech"
+    },
+    {
+      "id": "38db04ff28b63a677559ef1d1e2e1d136574879a",
+      "title": "Trump's doctor says he's in excellent health - but are US presidents' health checks a PR exercise?",
+      "link": "https://www.bbc.com/news/articles/c9q39dx778zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Every president in modern history - including Donald Trump this week - has taken an annual physical exam that is as much about messaging as it is about health.",
+      "published": "2026-05-30T15:06:01+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "7438406ee8d29d30288f8ef21f3f4d62d5e5478b",
@@ -707,6 +743,24 @@
       "category": "malaysia"
     },
     {
+      "id": "157e9e6c50d5e57a9d012b97d47616ee4debd884",
+      "title": "'Men written by women': How ice hockey romances like Off Campus became TV's hottest new genre",
+      "link": "https://www.bbc.com/news/articles/clypz87rqy1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Amazon Prime adaptation of Elle Kennedy's ice hockey romance book is an early hit with viewers.",
+      "published": "2026-05-30T02:59:16+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "1ed68676685eb8a5a1248341e7fafe516bd44142",
+      "title": "'Gifts' from a lover and 'botched' cocaine raids: Police inquiry grips South Africa",
+      "link": "https://www.bbc.com/news/articles/ce9p5e1jg72o?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa's Madlanga Commission hears about Brazilian butt lift bribe denials and alleged drug heists.",
+      "published": "2026-05-30T02:56:40+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "b6b2621ab23f58c2d62314f51005d0faaec466f0",
       "title": "Miami-based Canals, which uses AI to help distributors automate workflows across sales, customer service, and more, raised a $35M Series A led by Base10 (Chris Metinko/Axios)",
       "link": "https://www.techmeme.com/260529/p37#a260529p37",
@@ -748,6 +802,15 @@
       "link": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
       "summary": "The testimony comes about a month after America's top prosecutor was ousted by US President Donald Trump.",
       "published": "2026-05-30T01:49:39+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "552e0a90999cc4a603500d1930f037a3a28856d8",
+      "title": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
+      "link": "https://www.bbc.com/news/articles/cdjp0n7rn41o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify has analysed videos of attacks in occupied Ukraine on Russian trucks carrying ammunition, fuel and food.",
+      "published": "2026-05-30T01:34:38+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -806,11 +869,11 @@
       "category": "tech"
     },
     {
-      "id": "a29dcf3426fa66bc12d6a15473e970e44bbada47",
-      "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
-      "link": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
-      "published": "2026-05-29T21:40:45+00:00",
+      "id": "f02c8098048759cb9879c49c8a7d9f855ecebc06",
+      "title": "After decades risking arrest, South Korea's tattoo artists step into the limelight",
+      "link": "https://www.bbc.com/news/articles/cg4pwdn6130o?at_medium=RSS&at_campaign=rss",
+      "summary": "Only licensed doctors were allowed to ink tattoos in Korea - breaking the law could lead to heavy fines or jail.",
+      "published": "2026-05-29T22:13:54+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -905,15 +968,6 @@
       "category": "tech"
     },
     {
-      "id": "44c3011bcddd68b26a5b7bba67e29d59608fea2c",
-      "title": "Israel put on UN sexual violence in warzones blacklist for first time",
-      "link": "https://www.bbc.com/news/articles/cx21le869n1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel says it rejects allegations in a new report by the office of the UN secretary general.",
-      "published": "2026-05-29T18:41:36+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "77e810a0218b1b99f63cb5825d1286197967f218",
       "title": "Analysis of Texas measles outbreak shows just how dangerous virus is",
       "link": "https://arstechnica.com/health/2026/05/analysis-of-texas-measles-outbreak-shows-just-how-dangerous-virus-is/",
@@ -986,15 +1040,6 @@
       "category": "tech"
     },
     {
-      "id": "6a7658866803f83bbf91fc0884984b25d6d4007c",
-      "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
-      "link": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory.",
-      "published": "2026-05-29T17:27:09+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "096d4016e753b52713946d739947cdc6417a5234",
       "title": "Microsoft under fire for threatening security researcher with criminal investigation",
       "link": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
@@ -1040,15 +1085,6 @@
       "category": "tech"
     },
     {
-      "id": "58b8c4b2ff1921832e1d79f32a39d8ca2f8c144f",
-      "title": "Ex-head monk of China's 'kung fu temple' jailed for embezzlement",
-      "link": "https://www.bbc.com/news/articles/crlp79jy0y3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Shi Yongxin is sentenced to 24 years in prison for embezzlement and bribery.",
-      "published": "2026-05-29T15:23:51+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "6a250af030deded49c27646624478459115c8ac3",
       "title": "Severed sea cucumber appendages don't seem to die",
       "link": "https://arstechnica.com/science/2026/05/severed-sea-cucumber-appendages-dont-seem-to-die/",
@@ -1067,30 +1103,12 @@
       "category": "tech"
     },
     {
-      "id": "f6656f33e5736d994d0fb4cc181e5ad4ea4c9464",
-      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
-      "link": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
-      "summary": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
-      "published": "2026-05-29T14:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "9f32dbf994b53861e9917c9f7afc71bd50cc8f71",
       "title": "Rocket Report: A dark day for Blue Origin; Pentagon eyes new launch site",
       "link": "https://arstechnica.com/space/2026/05/rocket-report-blue-origin-suffers-setback-spacexs-falcon-9-wins-new-business/",
       "summary": "A new crew launched to China's Tiangong space station, and one of the astronauts will stay for a year.",
       "published": "2026-05-29T13:03:46+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "a1b4f2263d3b9daf073666c9e5007ec2db069f1f",
-      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
-      "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
-      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
-      "published": "2026-05-29T13:00:00+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1121,15 +1139,6 @@
       "category": "malaysia"
     },
     {
-      "id": "17eb177201f9af4cd9036e57fa1b77313c4c2f79",
-      "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
-      "link": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Sixteen pupils died in the fire that ripped through a dormitory while they were asleep.",
-      "published": "2026-05-29T11:22:10+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "b5e7a0f27d64cdac04c1de7dea88f94de1e48e64",
       "title": "U Mobile ULTRA5G Performance, Proven By Experts",
       "link": "https://www.lowyat.net/2026/394261/u-mobile-ultra5g-performance-proven-by-experts/",
@@ -1146,15 +1155,6 @@
       "published": "2026-05-29T11:01:03+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "9d3aa53ad54f2509e1aa670507a6ddb8377b5fd6",
-      "title": "Exploding rocket casts doubts over Nasa's Moon plans",
-      "link": "https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Explosion of Blue Origin rocket is a setback for the company and for Nasa's Moon plans.",
-      "published": "2026-05-29T10:38:46+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "add4cfc1a07540b01f16769ec9ec3ef59622a0c5",
@@ -1256,15 +1256,6 @@
       "category": "malaysia"
     },
     {
-      "id": "d4c670e12ace8859ba9ff91d89517330cd06c4b0",
-      "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
-      "link": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The expansion in control by Israel would contradict the terms of the ceasefire  Israel and Hamas agreed to in October 2025.",
-      "published": "2026-05-29T02:24:52+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "96f5ffff0249de275a7a2c16145625a1cda6f663",
       "title": "The most spectacular rocket explosion since N1 just happened in Florida",
       "link": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
@@ -1272,6 +1263,15 @@
       "published": "2026-05-29T02:21:08+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
+    },
+    {
+      "id": "8cd82abe759d9b2bd72d25052f5fadbdc1f043f3",
+      "title": "Italy restores lucky testicles on bull mosaic worn down by tourists",
+      "link": "https://www.bbc.com/news/articles/c1m215npjp2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The artwork is the centre of a tradition that involves visitors performing three spins on it for good fortune.",
+      "published": "2026-05-29T02:01:44+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "fd7b522e8f629c03720d4240d014a356e5c6307d",
@@ -1364,6 +1364,15 @@
       "category": "events"
     },
     {
+      "id": "a97b27ccb6317f6ab9caf131a6286fe26ab55173",
+      "title": "Agent A by Ahrefs",
+      "link": "https://www.producthunt.com/products/ahrefs",
+      "summary": "<p>\n            The AI Marketing Agent Powered by Ahrefs Data\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ahrefs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1158026?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-28T15:00:52+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "5b35e7e3b4fa66e408dd0652ae18dfb9754230f0",
       "title": "Clipline",
       "link": "https://www.producthunt.com/products/clipline-2",
@@ -1418,15 +1427,6 @@
       "category": "events"
     },
     {
-      "id": "66ef722df059d59a73dfee6c98ebcbcd7f9cc572",
-      "title": "Vibeocus Lens",
-      "link": "https://www.producthunt.com/products/vibeocus-lens",
-      "summary": "<p>\n            Bridge your live frontend directly to your AI agent.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vibeocus-lens?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1157807?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-28T09:24:39+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "bc6f8e275c7414655fab596f10f2b4c7140df386",
       "title": "Small Steps, Daily Rewards: Exploring the Maybank Tabung Daily Bonus Campaign",
       "link": "https://soyacincau.com/2026/05/28/small-steps-daily-rewards-exploring-the-maybank-tabung-daily-bonus-campaign/",
@@ -1445,11 +1445,11 @@
       "category": "events"
     },
     {
-      "id": "b76fd3c25ee7eab5dc64ecc71d981b4cc7ea68af",
-      "title": "Ava Studio",
-      "link": "https://www.producthunt.com/products/ava-studio",
-      "summary": "<p>\n            Your AI creative team for video ads\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ava-studio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1151178?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-19T21:41:22+00:00",
+      "id": "65cf571f47e496a6193bd5328c17b79219a991c8",
+      "title": "Firecoach AI",
+      "link": "https://www.producthunt.com/products/firecoach",
+      "summary": "<p>\n            AI roleplays that turn reps into top performers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/firecoach?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1155201?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-25T08:13:13+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
