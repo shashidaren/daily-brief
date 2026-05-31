@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-05-31T17:55:17.965853+00:00",
+  "generatedAt": "2026-05-31T19:06:30.268648+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "e6d2fcbdf42f2de8a00a0660fbffe3b0a78f8a7f",
+      "title": "This weekend’s two biggest movies were both directed by YouTubers",
+      "link": "https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+      "summary": "The YouTube-to-prestige-horror pipeline is looking very strong.",
+      "published": "2026-05-31T18:34:58+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "da33008f6b99f027e73ca8e30a8df07e6bc1d2f1",
+      "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
+      "link": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
+      "summary": "The startup has apparently taken down the ads using KC Green's \"This is fine\" meme.",
+      "published": "2026-05-31T18:28:17+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "009ddbb99e33a09bdce0689855d54f24db4151a2",
+      "title": "Brazil monitors two patients for possible Ebola infection",
+      "link": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss",
+      "summary": "If confirmed, they would be the first infection cases outside Africa, since the outbreak began in DR Congo.",
+      "published": "2026-05-31T18:18:13+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "77558dbc96066428a7e0da37901a076e737351af",
+      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+      "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
+      "published": "2026-05-31T18:13:39+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "20af4803e310a93f4dc1ea75d1654a4b530a25de",
+      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a \"decisive shift\" in its military campaign against Hezbollah.",
+      "published": "2026-05-31T18:06:57+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "af4d6b09362fc90ce842c3cd201212a705393529",
       "title": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival",
@@ -37,24 +82,6 @@
       "link": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss",
       "summary": "Insurgents say it was caused by explosives being used for mining close to the Chinese border.",
       "published": "2026-05-31T16:59:55+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "77558dbc96066428a7e0da37901a076e737351af",
-      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
-      "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
-      "published": "2026-05-31T16:24:56+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "20af4803e310a93f4dc1ea75d1654a4b530a25de",
-      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a \"decisive shift\" in its military campaign against Hezbollah.",
-      "published": "2026-05-31T16:08:57+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -662,15 +689,6 @@
       "category": "tech"
     },
     {
-      "id": "4b6ca33f35fa0253c6ae4c436e78443966312300",
-      "title": "This weekend’s two biggest movies were both directed by YouTubers",
-      "link": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
-      "summary": "The YouTube-to-prestige-horror pipeline is looking very strong.",
-      "published": "2026-05-30T21:12:37+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "5ceb72f9caf7b0d585a885b727a04ec00e5b22b0",
       "title": "'It's like a decaying body': Australian farmers battle mouse plague",
       "link": "https://www.bbc.com/news/articles/c794g80lw74o?at_medium=RSS&at_campaign=rss",
@@ -701,7 +719,7 @@
       "id": "eaae45fda2902bb5a8e8eac3598dddc7cb5ad602",
       "title": "Oura Ring 5",
       "link": "https://www.producthunt.com/products/oura",
-      "summary": "<p>\n            The world’s smallest smart ring, now even better\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/oura?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1159462?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            The world’s smallest smart ring, now even better\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/oura?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1159462?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-30T18:05:21+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -730,15 +748,6 @@
       "link": "https://www.bbc.com/news/articles/cy02j1n87wlo?at_medium=RSS&at_campaign=rss",
       "summary": "Performers Young MC, Poison frontman Bret Michaels and country singer Martina McBride raised concerns the event will be political.",
       "published": "2026-05-30T17:40:47+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "7bb7e10d0fb290c6734f9bf8540128101fd3d0c3",
-      "title": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
-      "link": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss",
-      "summary": "People have just begun returning to check on their homes in the block that was hit early on Friday morning.",
-      "published": "2026-05-30T17:34:30+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -953,7 +962,7 @@
       "id": "7a6af23ea73b86d9f50131682a97a8b9278f16c7",
       "title": "Marqly 5.0",
       "link": "https://www.producthunt.com/products/marqly",
-      "summary": "<p>\n            Your AI-powered bookmark manager\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/marqly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1159225?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Your AI-powered bookmark manager\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/marqly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1159225?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-30T09:30:11+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1034,7 +1043,7 @@
       "id": "135f82af3560b7e24ef79038d78f9303a3921bfd",
       "title": "TabTasker",
       "link": "https://www.producthunt.com/products/tabtasker",
-      "summary": "<p>\n            Zero servers. Total privacy. Your new favorite toolbox.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tabtasker?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1159008?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Zero servers. Total privacy. Your new favorite toolbox.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tabtasker?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1159008?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-29T23:00:20+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1175,15 +1184,6 @@
       "category": "tech"
     },
     {
-      "id": "1ce8ffa8e1924d67670b41adb660656b41ce5eee",
-      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
-      "published": "2026-05-29T17:27:13+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "0732630a5165326317ab2f82d52f3b0bd8d3221c",
       "title": "Startup offers free home cleaning—if it can record it all for robot training",
       "link": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
@@ -1232,7 +1232,7 @@
       "id": "27168365f1093ad84e9f213058b6c9f3200264c1",
       "title": "Step 3.7 Flash",
       "link": "https://www.producthunt.com/products/step-3-5-flash",
-      "summary": "<p>\n            Flash-speed agents model that can see and act\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/step-3-5-flash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1158691?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Flash-speed agents model that can see and act\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/step-3-5-flash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1158691?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-29T12:47:02+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1283,19 +1283,10 @@
       "category": "malaysia"
     },
     {
-      "id": "dde3b4a025eb34dc7eaaa5ca7597e124c4893d8a",
-      "title": "PromptLayer",
-      "link": "https://www.producthunt.com/products/promptlayer-2",
-      "summary": "<p>\n            Trace AI requests, workflows, and costs in one timeline\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/promptlayer-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1158475?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-29T06:41:50+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "5bdc75a19e0f295a6a7df5789fcdf2cac6d8bf71",
       "title": "Drafted",
       "link": "https://www.producthunt.com/products/drafted-4",
-      "summary": "<p>\n            Design a home instantly with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/drafted-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1158437?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Design a home instantly with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/drafted-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1158437?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-29T05:25:33+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1337,6 +1328,15 @@
       "category": "tech"
     },
     {
+      "id": "fda21a277523b034f1a621b2dc1fa4cc591f0755",
+      "title": "Coffee Piano",
+      "link": "https://www.producthunt.com/products/coffee-piano-harmony-lab",
+      "summary": "<p>\n            Browser music and piano studio with visual harmony tools\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/coffee-piano-harmony-lab?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1158273?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-28T21:45:11+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "b1aa42532a0c79508cfdd18b93c9e7e4b1c15bd9",
       "title": "LLMs believe false statements even after explicit warnings that they're false",
       "link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
@@ -1349,7 +1349,7 @@
       "id": "21d4db1838b7d2d91635634708b2774adc137268",
       "title": "Basedash: Embedded Analytics",
       "link": "https://www.producthunt.com/products/basedash",
-      "summary": "<p>\n            Give customers AI analytics inside your product.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1158173?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Give customers AI analytics inside your product.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1158173?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-28T18:57:07+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1364,28 +1364,10 @@
       "category": "malaysia"
     },
     {
-      "id": "972b4c5af025716e2925fe6ecdcfc4f6061b1ae4",
-      "title": "GPS",
-      "link": "https://www.producthunt.com/products/gps-2",
-      "summary": "<p>\n            Memory layer for LLMs that stores repo rules + past lessons\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gps-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1158032?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-28T15:05:48+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "5b35e7e3b4fa66e408dd0652ae18dfb9754230f0",
-      "title": "Clipline",
-      "link": "https://www.producthunt.com/products/clipline-2",
-      "summary": "<p>\n            AI Video Cutter for viral Shorts, Reels, TikTok in Telegram\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clipline-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1158020?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-28T14:56:30+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "3bb4afa70e4dbd4c6b680ea48b8ff9e44200e601",
       "title": "Openstatus MCP Health Checker",
       "link": "https://www.producthunt.com/products/openstatus-2",
-      "summary": "<p>\n            Test MCP servers like a real AI client, not just a ping\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1157996?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Test MCP servers like a real AI client, not just a ping\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1157996?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-28T14:14:25+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1394,7 +1376,7 @@
       "id": "99442fc372962a3dfd99a812baad8c92810bd2a0",
       "title": "Integuru",
       "link": "https://www.producthunt.com/products/integuru",
-      "summary": "<p>\n            Generate fast, reliable APIs for any platform. No browsers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/integuru?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1157973?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Generate fast, reliable APIs for any platform. No browsers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/integuru?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1157973?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-28T13:41:04+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1409,20 +1391,29 @@
       "category": "malaysia"
     },
     {
-      "id": "4f79b6cff840a1223ef08f5f252961c9995cb8be",
-      "title": "RabbitTravel",
-      "link": "https://www.producthunt.com/products/rabbittravel",
-      "summary": "<p>\n            Smart travel planning made effortless\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rabbittravel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1157856?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-28T10:34:41+00:00",
+      "id": "e2cdbd00daf4f0713c5a010f633070d5dcb5143d",
+      "title": "Ava 2.0",
+      "link": "https://www.producthunt.com/products/artisan-3",
+      "summary": "<p>\n            Your AI BDR that runs outbound sales autonomously\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/artisan-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1157494?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-27T22:10:18+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "d797caf197fa4b1b6338673002182c77f2f3feba",
-      "title": "Hyper: Self-driving Company Brain",
-      "link": "https://www.producthunt.com/products/hyper-11",
-      "summary": "<p>\n            Turn your AI agents from interns to veterans\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hyper-11?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1157449?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-27T20:25:45+00:00",
+      "id": "65cf571f47e496a6193bd5328c17b79219a991c8",
+      "title": "Firecoach AI",
+      "link": "https://www.producthunt.com/products/firecoach",
+      "summary": "<p>\n            AI roleplays that turn reps into top performers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/firecoach?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1155201?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-25T08:13:13+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "b1b432270555e5c3561666d0fe50d4bddb5f62a3",
+      "title": "Screen Ruler",
+      "link": "https://www.producthunt.com/products/screen-ruler",
+      "summary": "<p>\n            The go-to ruler for designers and developers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/screen-ruler?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1153904?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-23T08:30:35+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1430,8 +1421,17 @@
       "id": "b02f9f9c7652bad0f29a1a3c1e7f0d0737e2526c",
       "title": "Second Brain for AI",
       "link": "https://www.producthunt.com/products/second-brain-cloudflare",
-      "summary": "<p>\n            Persistent memory for Claude, ChatGPT & Cursor. Free.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/second-brain-cloudflare?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1151393?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Persistent memory for Claude, ChatGPT & Cursor. Free.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/second-brain-cloudflare?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1151393?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-20T06:21:04+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "b76fd3c25ee7eab5dc64ecc71d981b4cc7ea68af",
+      "title": "Ava Studio",
+      "link": "https://www.producthunt.com/products/ava-studio",
+      "summary": "<p>\n            Your AI creative team for video ads\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ava-studio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1151178?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-19T21:41:22+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1439,7 +1439,7 @@
       "id": "d0b58d2d594921a02aabed1b12b83c841d1340c5",
       "title": "Exstats",
       "link": "https://www.producthunt.com/products/exstats",
-      "summary": "<p>\n            Track your browser extensions and competitors in one place\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/exstats?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1149669?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Track your browser extensions and competitors in one place\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/exstats?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1149669?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-18T08:45:37+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1448,7 +1448,7 @@
       "id": "d4c81eaef9fd044a71797fd6d275b5825431bd87",
       "title": "MoDev",
       "link": "https://www.producthunt.com/products/modev",
-      "summary": "<p>\n            The AI dev environment built for your phone.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/modev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1146359?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            The AI dev environment built for your phone.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/modev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146359?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-13T19:05:26+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1457,7 +1457,7 @@
       "id": "8df60d0a17853e3692fab52630e461804d3150b1",
       "title": "Wingbits AI",
       "link": "https://www.producthunt.com/products/wingbits-ai",
-      "summary": "<p>\n            AI agents for real-time aircraft monitoring and alerts\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wingbits-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1144576?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            AI agents for real-time aircraft monitoring and alerts\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wingbits-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1144576?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-11T19:20:03+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1466,7 +1466,7 @@
       "id": "fffb27ab7756c4376d9e13857d08718bd936236d",
       "title": "Web Clipper for NotebookLM",
       "link": "https://www.producthunt.com/products/web-clipper-for-notebooklm",
-      "summary": "<p>\n            Your ultimate NotebookLM's Chrome Extension\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/web-clipper-for-notebooklm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1143223?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Your ultimate NotebookLM's Chrome Extension\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/web-clipper-for-notebooklm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1143223?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-09T19:31:45+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1475,7 +1475,7 @@
       "id": "74d3d0d3f9994b0db9f32533495a1add1a582e01",
       "title": "Clipto",
       "link": "https://www.producthunt.com/products/clipto-ai",
-      "summary": "<p>\n            Fully local, natural language search over terabytes of media\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clipto-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1133330?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Fully local, natural language search over terabytes of media\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clipto-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1133330?app_id=339\">Link</a>\n          </p>",
       "published": "2026-04-27T10:29:24+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1484,7 +1484,7 @@
       "id": "f55c86cba9fcc0b6e7e33335d456da420d6daf69",
       "title": "Wandesk",
       "link": "https://www.producthunt.com/products/wandesk-ai",
-      "summary": "<p>\n            Build Your Own AI Desktop \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wandesk-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1046734?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Build Your Own AI Desktop \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wandesk-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046734?app_id=339\">Link</a>\n          </p>",
       "published": "2025-12-06T03:15:50+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
