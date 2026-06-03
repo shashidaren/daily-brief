@@ -1,9 +1,171 @@
 {
-  "generatedAt": "2026-06-03T20:13:10.249765+00:00",
+  "generatedAt": "2026-06-03T22:59:42.317697+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "65d3f5017a98e8e2491c6335d7285c9ad5c93028",
+      "title": "Lovable signs multi-year deal with Google Cloud to up usage 5x, source says",
+      "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "summary": "Lovable and Google signed an expanded multi-year deal athat involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "published": "2026-06-03T22:56:51+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "b788d3406226bce82f5ad9fbb7ffe5fa9523fb0f",
+      "title": "Internal documents: Meta is considering tiered pricing for \"Hatch\", its planned OpenClaw-like AI agent tool, including a $200-per-month premium subscription (Jyoti Mann/The Information)",
+      "link": "https://www.techmeme.com/260603/p60#a260603p60",
+      "summary": "<a href=\"https://www.theinformation.com/articles/meta-looks-charge-200-month-planned-hatch-ai-agent\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260603/i60.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260603/p60#a260603p60\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jyoti Mann / <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/articles/meta-looks-charge-200-month-planned-hatch-ai-agent\">Internal documents: Meta is considering tiered pricing for &ldquo;Hatch&rdquo;, its planned OpenClaw-like AI agent tool, including a $200-per-month premium subscription</a></b></span>&nbsp; &mdash;&nbsp; Meta Platforms is considering charging up to $200 a month for its planned consumer version of the OpenClaw AI agent tool &hellip; </p>",
+      "published": "2026-06-03T22:50:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "7a5b48a47fef79f4f3f6b6d8bcd75309e1e85059",
+      "title": "US House votes to halt Iran war, in rebuke to Trump",
+      "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+      "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
+      "published": "2026-06-03T22:37:44+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "63502b39e68dc3d5d665cb321227c734c40e3c7e",
+      "title": "Nvidia acquired Kumo, which sells predictive AI software to enterprises, a source says for $400M+; PitchBook: Kumo raised $37M at a $250M valuation in 2022 (The Information)",
+      "link": "https://www.techmeme.com/260603/p59#a260603p59",
+      "summary": "<a href=\"https://www.theinformation.com/articles/nvidia-buys-enterprise-model-maker-kumo-ai-least-400-million\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260603/i59.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260603/p59#a260603p59\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/articles/nvidia-buys-enterprise-model-maker-kumo-ai-least-400-million\">Nvidia acquired Kumo, which sells predictive AI software to enterprises, a source says for $400M+; PitchBook: Kumo raised $37M at a $250M valuation in 2022</a></b></span>&nbsp; &mdash;&nbsp; Nvidia has bought Kumo AI, a five-year-old startup that sells predictive AI software to enterprises, for more than $400 million, said a person with knowledge of the deal.</p>",
+      "published": "2026-06-03T22:35:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "01d2754d65282ab4ac484bf5373fd962f7020277",
+      "title": "Google introduces Gemma 4 12B, a unified, encoder-free open multimodal model that can run locally on devices with 16GB of VRAM or unified memory (Carl Franzen/VentureBeat)",
+      "link": "https://www.techmeme.com/260603/p58#a260603p58",
+      "summary": "<a href=\"https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260603/i58.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260603/p58#a260603p58\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Carl Franzen / <a href=\"https://venturebeat.com/\">VentureBeat</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop\">Google introduces Gemma 4 12B, a unified, encoder-free open multimodal model that can run locally on devices with 16GB of VRAM or unified memory</a></b></span>&nbsp; &mdash;&nbsp; While many AI open source model providers are pursuing larger and more powerful models, Google is still giving attention to the smaller, more local side of the market.</p>",
+      "published": "2026-06-03T22:25:03+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "a92efd70ddecc40a4698a80f3c01273a02332aa0",
+      "title": "CrowdStrike reports Q1 revenue up 26% YoY to $1.39B, vs. $1.36B est., and forecasts Q2 revenue of about $1.44B, vs. $1.43B est.; CRWD drops 9%+ after hours (Samantha Subin/CNBC)",
+      "link": "https://www.techmeme.com/260603/p57#a260603p57",
+      "summary": "<a href=\"https://www.cnbc.com/2026/06/03/crowdstrike-crwd-q1-2027-earnings.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260603/i57.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260603/p57#a260603p57\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Samantha Subin / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/06/03/crowdstrike-crwd-q1-2027-earnings.html\">CrowdStrike reports Q1 revenue up 26% YoY to $1.39B, vs. $1.36B est., and forecasts Q2 revenue of about $1.44B, vs. $1.43B est.; CRWD drops 9%+ after hours</a></b></span>&nbsp; &mdash;&nbsp; CrowdStrike narrowly beat Wall Street's fiscal first-quarter estimates after the bell on Wednesday, but shares slid 10% following the report.</p>",
+      "published": "2026-06-03T22:10:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "d7e1ee43edfd0fb2982933b28d85ee08b7b86732",
+      "title": "Broadcom reports Q2 revenue up 48% YoY to $22.19B, vs. $22.27B est., and forecasts Q3 semiconductor revenue from AI below estimates; AVGO drops 12%+ after hours (Reuters)",
+      "link": "https://www.techmeme.com/260603/p56#a260603p56",
+      "summary": "<a href=\"https://www.reuters.com/world/china/broadcom-forecasts-quarterly-revenue-above-estimates-2026-06-03/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260603/i56.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260603/p56#a260603p56\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/china/broadcom-forecasts-quarterly-revenue-above-estimates-2026-06-03/\">Broadcom reports Q2 revenue up 48% YoY to $22.19B, vs. $22.27B est., and forecasts Q3 semiconductor revenue from AI below estimates; AVGO drops 12%+ after hours</a></b></span>&nbsp; &mdash;&nbsp; Broadcom (AVGO.O) missed Wall Street expectations for second-quarter revenue on Wednesday, as increased competition &hellip; </p>",
+      "published": "2026-06-03T22:00:43+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "6c9e6d94ff6279175d35b5e5f331524f4e4b2e6e",
+      "title": "Grab what you can while you can: The  new reality in the South China Sea",
+      "link": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss",
+      "summary": "After years of watching China create land to back its expansive claims, others are doing the same.",
+      "published": "2026-06-03T22:00:21+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "68ca66c7206cf072092a49b2a404cf8e06b4041f",
+      "title": "Apple is bringing age verification to Texas this week",
+      "link": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store",
+      "summary": "Apple will introduce age verification in the App Store for users in Texas starting on Thursday, June 4th. The move, as spotted by MacRumors, comes just days after a federal appeals court allowed Texas' App Store Accountability Act to go into effect while a lawsuit against it proceeds. People in Texas who are creating a [&#8230;]",
+      "published": "2026-06-03T21:49:51+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "035f889ef860b38f333eabf2e8102f5a5eb8d8b3",
+      "title": "Flesh-eating screwworm infection detected in South Texas, USDA says",
+      "link": "https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/",
+      "summary": "If confirmed, it would be the fly's first breach of the US-Mexico border.",
+      "published": "2026-06-03T21:31:35+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "d53558f683a81e3c200487f01a5779ca4e05ba67",
+      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+      "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
+      "published": "2026-06-03T21:19:19+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "3616a28695f47d1ea37555a02d43742cbe3b74bd",
+      "title": "Filing: SpaceX aims to raise $75B in its IPO, selling 555.6M shares at $135 each, which would value the company at almost $1.77T (Bailey Lipschultz/Bloomberg)",
+      "link": "https://www.techmeme.com/260603/p55#a260603p55",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-06-03/spacex-seeks-75-billion-in-record-ipo-plan-to-fund-ai-launch?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDUyMDM2NiwiZXhwIjoxNzgxMTI1MTY2LCJhcnRpY2xlSWQiOiJURlJQOUlLR1pBTlAwMCIsImJjb25uZWN0SWQiOiI1QUY5RjI5QkFCREI0RERFQUIyRTcwNzU0RERFRTQwNSJ9.9RSxlfFaCkaiQa7CQmjMxwhnbwk_ASTQl1yV0TwFvHE\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260603/i55.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260603/p55#a260603p55\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Bailey Lipschultz / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-06-03/spacex-seeks-75-billion-in-record-ipo-plan-to-fund-ai-launch?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDUyMDM2NiwiZXhwIjoxNzgxMTI1MTY2LCJhcnRpY2xlSWQiOiJURlJQOUlLR1pBTlAwMCIsImJjb25uZWN0SWQiOiI1QUY5RjI5QkFCREI0RERFQUIyRTcwNzU0RERFRTQwNSJ9.9RSxlfFaCkaiQa7CQmjMxwhnbwk_ASTQl1yV0TwFvHE\">Filing: SpaceX aims to raise $75B in its IPO, selling 555.6M shares at $135 each, which would value the company at almost $1.77T</a></b></span>&nbsp; &mdash;&nbsp; SpaceX is seeking to raise $75 billion in an initial public offering that would be the biggest of all time, as Elon Musk's rocket, satellite &hellip; </p>",
+      "published": "2026-06-03T21:15:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "be4076b847ba491787baafa8f8972d556afbb36b",
+      "title": "WiiM expands its whole-home ecosystem with a new soundbar",
+      "link": "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar",
+      "summary": "WiiM, the audio company that's challenged the idea that audiophile-level performance requires a small loan, is expanding its whole-home ecosystem with the WiiM Bar, which releases in July. Much like its other speakers and audio components, the WiiM Bar supports a bunch of streaming options and expandability at an affordable price - in this case, [&#8230;]",
+      "published": "2026-06-03T21:12:51+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "df10301255963c33ed780576b9b9416b074caa5c",
+      "title": "The US and other Five Eyes nations warn that China is flooding online job platforms with fake profiles and offers targeting government and military personnel (Greg Miller/Washington Post)",
+      "link": "https://www.techmeme.com/260603/p54#a260603p54",
+      "summary": "<a href=\"https://www.washingtonpost.com/world/2026/06/03/us-allies-say-china-is-using-job-platforms-target-security-personnel/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260603/i54.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260603/p54#a260603p54\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Greg Miller / <a href=\"https://www.washingtonpost.com/\">Washington Post</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.washingtonpost.com/world/2026/06/03/us-allies-say-china-is-using-job-platforms-target-security-personnel/\">The US and other Five Eyes nations warn that China is flooding online job platforms with fake profiles and offers targeting government and military personnel</a></b></span>&nbsp; &mdash;&nbsp; Nations in the Five Eyes intelligence partnership warned that fake profiles and job offers are targeting military officers, spies &hellip; </p>",
+      "published": "2026-06-03T20:55:04+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "91e20f096b2c67791f77e0d43cb3d1a34fe6d3ff",
+      "title": "Defense tech is flooded with money, but who’s built to last?",
+      "link": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
+      "summary": "Defense tech is red hot right now.&#160;Anduril&#160;and&#160;Mach Industries&#160;just doubled and quadrupled their valuations, respectively,&#160;and the U.S.&#160;government is proposing&#160;a&#160;40% increase&#160;in defense budget. A wave of new startups&#160;is&#160;chasing those government contracts, but according to Ross Fubini, the venture investor who wrote Anduril’s first check, most of them&#160;will get lost in the Valley of Death between prototype contract [&#8230;]",
+      "published": "2026-06-03T20:51:41+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "31f4ac5e8e2d0149bafd3c210ff3506df488be54",
+      "title": "Mid-week Apple Books and audiobook deals from $1",
+      "link": "https://9to5toys.com/2026/06/03/mid-week-apple-books-and-audiobook-deals-from-1-9/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/06/Apple-Books-Jun-3.webp?w=1600\" /></div><p class=\"wp-block-paragraph\">Wednesday’s lineup of the best Apple Books deals is now ready to roll, including titles like Invincible, The Mailman (Unabridged), Slow Gods, After the Flood, The Picasso Heist, King of Ashes, Lemons Never Lie, Knife: Meditations After an Attempted Murder (Unabridged), and more. Everything is waiting down below.</p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/06/03/mid-week-apple-books-and-audiobook-deals-from-1-9/#more-1212596\">more…</a>",
+      "published": "2026-06-03T20:29:36+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "90319ccf72591d00858f1b5074d5b591a95adba1",
+      "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+      "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
+      "published": "2026-06-03T20:28:01+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "64588dfb92d4321b88c57fc0f52b2885254bf9e2",
+      "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
+      "link": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
+      "summary": "Google must change AI Overviews after claiming users don't want \"lots of sources.\"",
+      "published": "2026-06-03T20:26:51+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
     {
       "id": "5718624148a2c04c353be55555bab6ec765316a5",
       "title": "Uber to put 500 data-collection vehicles on the road this year",
@@ -23,6 +185,24 @@
       "category": "world"
     },
     {
+      "id": "fbc2099179edb55bf83f23973afb10ffa141c1d8",
+      "title": "Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer",
+      "link": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan",
+      "summary": "Just in case you were wondering, Nvidia's RTX Spark isn't supposed to be a one-off. The company is not just flirting with becoming the fifth high-profile vendor of consumer laptop chips to see if people bite. At Computex 2026 in Taipei, Nvidia CEO Jensen Huang confirmed at least two additional generations of RTX Spark are [&#8230;]",
+      "published": "2026-06-03T20:03:50+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "b222507c233db84e326435ad004424dce9a53171",
+      "title": "Dashlane issues opaque advisory warning 20 encrypted vaults were stolen",
+      "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
+      "summary": "Security advisory leaves out key details. Dashlane maintains complete silence.",
+      "published": "2026-06-03T19:53:14+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
       "id": "623fac29dde063450da5dc2d2e558eb860ab857e",
       "title": "In a report, UK lawmakers call on the government to end a £330M NHS deal with Palantir and disclose more details of a military contract with the company (Bloomberg)",
       "link": "https://www.techmeme.com/260603/p53#a260603p53",
@@ -35,7 +215,7 @@
       "id": "e45212caac93b7f6ef85c14582918a3d8cd7388d",
       "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
       "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-      "summary": "If Alphabet's record-breaking, $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+      "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
       "published": "2026-06-03T19:38:32+00:00",
       "source": "TechCrunch",
       "category": "tech"
@@ -59,6 +239,15 @@
       "category": "tech"
     },
     {
+      "id": "6afc1408f838ae31d2532f8f282b97b3ce02ed1f",
+      "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
+      "link": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+      "summary": "Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight.",
+      "published": "2026-06-03T19:10:03+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
       "id": "398f987b2fbf4dada893b4fc84601cc6e88bbe26",
       "title": "OpenAI diverges from Trump's AI EO in a new policy paper, proposing cyber risk evaluations for advanced AI systems be mandatory and led by CAISI, not the NSA (Brendan Bordelon/Politico)",
       "link": "https://www.techmeme.com/260603/p51#a260603p51",
@@ -66,15 +255,6 @@
       "published": "2026-06-03T19:10:03+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "d53558f683a81e3c200487f01a5779ca4e05ba67",
-      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
-      "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
-      "published": "2026-06-03T19:10:01+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "5095259a0343381bbd32dd02c5e30cef92c114a9",
@@ -122,6 +302,15 @@
       "category": "deals"
     },
     {
+      "id": "381fa22520c655cf238613449b31104154136f10",
+      "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
+      "link": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
+      "summary": "Critics say Trump plan to test AI models is short-sighted, performative.",
+      "published": "2026-06-03T18:11:15+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
       "id": "3ae850b82596a7246b309f4a30d35d049aa93373",
       "title": "The best Qi2 batteries for iPhone and Pixel",
       "link": "https://www.theverge.com/gadgets/939362/best-magsafe-qi2-2-batteries-power-banks",
@@ -156,6 +345,15 @@
       "published": "2026-06-03T17:44:06+00:00",
       "source": "9to5Toys",
       "category": "deals"
+    },
+    {
+      "id": "2cf84549e89409a833b59cf584cf546ad13f8a5a",
+      "title": "New social features further Plex’s evolution from media server business",
+      "link": "https://arstechnica.com/gadgets/2026/06/new-social-features-further-plexs-evolution-from-media-server-business/",
+      "summary": "Plex is increaingly focusing on content discovery and streaming rentals.",
+      "published": "2026-06-03T17:35:06+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
     },
     {
       "id": "149b6309da09dc55898b2cd8e08ef7c965639dd0",
@@ -356,15 +554,6 @@
       "category": "deals"
     },
     {
-      "id": "312b8fb15e8268837611e186350276ec8ad421a9",
-      "title": "Terra AI, which develops AI models for mining companies to better map underground resources, raised a $20M Series A led by Khosla Ventures (Katie Fehrenbacher/Axios)",
-      "link": "https://www.techmeme.com/260603/p45#a260603p45",
-      "summary": "<a href=\"https://www.axios.com/pro/climate-deals/2026/06/03/terra-ai-khosla-bhp-series-a\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260603/i45.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260603/p45#a260603p45\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Katie Fehrenbacher / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/pro/climate-deals/2026/06/03/terra-ai-khosla-bhp-series-a\">Terra AI, which develops AI models for mining companies to better map underground resources, raised a $20M Series A led by Khosla Ventures</a></b></span>&nbsp; &mdash;&nbsp; Mining AI startup Terra AI closed a $20 million Series A led by Khosla Ventures and including the VC arm of mining giant BHP, CEO John Mern tells Axios Pro.</p>",
-      "published": "2026-06-03T16:05:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "f69552b866d6abdeaf693f0aaa3ba25b6400c9a0",
       "title": "Man shot dead by FBI after taking hostages at California bank",
       "link": "https://www.bbc.com/news/articles/cn0pdrgy623o?at_medium=RSS&at_campaign=rss",
@@ -392,15 +581,6 @@
       "category": "deals"
     },
     {
-      "id": "ce73f798e82d934b14f1dbc3f3231bda1df3fddb",
-      "title": "Town, which is developing personalized AI assistants that connect to users' email and calendar, raised a $55M Series A led by a16z (Lily Mae Lazarus/Fortune)",
-      "link": "https://www.techmeme.com/260603/p44#a260603p44",
-      "summary": "<a href=\"https://fortune.com/2026/06/03/towns-ai-assistants-andreessen-horowitz-forerunner-55-million/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260603/i44.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260603/p44#a260603p44\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lily Mae Lazarus / <a href=\"http://www.fortune.com/\">Fortune</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://fortune.com/2026/06/03/towns-ai-assistants-andreessen-horowitz-forerunner-55-million/\">Town, which is developing personalized AI assistants that connect to users' email and calendar, raised a $55M Series A led by a16z</a></b></span>&nbsp; &mdash;&nbsp; Jean-Denis Gr&eacute;ze's AI assistant is a silver fox who wears a little satchel, and her name is Ivy.&nbsp; &mdash;&nbsp; Ivy is Gr&eacute;ze's Townie &hellip; </p>",
-      "published": "2026-06-03T16:00:54+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "cd9979a4e8110d0203f5e9c29ce8621397d6199a",
       "title": "Mid-week Apple TV deals from $3: 11-Movie Illumination collection, Ghostbusters, DreamWorks bundle, more",
       "link": "https://9to5toys.com/2026/06/03/week-apple-tv-deals/",
@@ -425,33 +605,6 @@
       "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
       "published": "2026-06-03T15:50:26+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "83b3eb8dd6ad93e8cdc483e9cbee3faf5dbf1e8e",
-      "title": "Forage, a payments processor that helps retailers and food-delivery companies accept EBT cards, raised a $40M Series B led by Mouro Capital at a $225M valuation (Yuliya Chernova/Wall Street Journal)",
-      "link": "https://www.techmeme.com/260603/p43#a260603p43",
-      "summary": "<a href=\"https://www.wsj.com/pro/venture-capital/snap-payments-are-complicated-for-grocers-and-consumers-a-startup-wants-to-help-38d80bc9?st=wqegyd&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260603/i43.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260603/p43#a260603p43\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Yuliya Chernova / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/pro/venture-capital/snap-payments-are-complicated-for-grocers-and-consumers-a-startup-wants-to-help-38d80bc9?st=wqegyd&amp;reflink=desktopwebshare_permalink\">Forage, a payments processor that helps retailers and food-delivery companies accept EBT cards, raised a $40M Series B led by Mouro Capital at a $225M valuation</a></b></span>&nbsp; &mdash;&nbsp; Forage secures venture funding as it expands food-stamp payment processing despite declining federal enrollment</p>",
-      "published": "2026-06-03T15:50:05+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "62f8e923bc23306c35069c27a4d960955490ce21",
-      "title": "Wordsmith, whose AI tools help in-house lawyers draft contracts, handle legal questions, and more, raised a $70M Series B, bringing its total funding to $100M (Melia Russell/Business Insider)",
-      "link": "https://www.techmeme.com/260603/p42#a260603p42",
-      "summary": "<a href=\"https://www.businessinsider.com/wordsmith-ai-for-corporate-lawyers-70-million-series-b-2026-6\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260603/i42.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260603/p42#a260603p42\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Melia Russell / <a href=\"https://www.businessinsider.com/\">Business Insider</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.businessinsider.com/wordsmith-ai-for-corporate-lawyers-70-million-series-b-2026-6\">Wordsmith, whose AI tools help in-house lawyers draft contracts, handle legal questions, and more, raised a $70M Series B, bringing its total funding to $100M</a></b></span>&nbsp; &mdash;&nbsp; The biggest promise of artificial intelligence in law is not that lawyers will work faster.&nbsp; It's that companies will need fewer of them on the outside.</p>",
-      "published": "2026-06-03T15:40:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "f0b6be66828b7d96b897bace5b796af1ec791ce8",
-      "title": "Lassie, whose AI agent helps dental practices automate admin work, raised a $35M Series A led by a16z, a source says, at a ~$250M valuation (Alex Konrad/Upstarts Media)",
-      "link": "https://www.techmeme.com/260603/p41#a260603p41",
-      "summary": "<a href=\"https://www.upstartsmedia.com/p/toothy-ai-lassie-raises-35m\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260603/i41.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260603/p41#a260603p41\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Alex Konrad / <a href=\"https://www.upstartsmedia.com/\">Upstarts Media</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.upstartsmedia.com/p/toothy-ai-lassie-raises-35m\">Lassie, whose AI agent helps dental practices automate admin work, raised a $35M Series A led by a16z, a source says, at a ~$250M valuation</a></b></span>&nbsp; &mdash;&nbsp; Lassie's founders went hands-on, then built an AI agent to help dental practices save dozens of hours of busywork.&nbsp; Now, a16z has signed on.</p>",
-      "published": "2026-06-03T15:35:02+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -491,15 +644,6 @@
       "category": "tech"
     },
     {
-      "id": "c96ab0579af08f327253477418e87ae0225966b1",
-      "title": "This EGO 24-inch cordless electric hedge trimmer gets a 2.5Ah battery for 75-minute runtimes while down at $199",
-      "link": "https://9to5toys.com/2026/06/03/ego-24-inch-cordless-electric-hedge-trimmer-2-5ah-battery-199-2/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/02/EGO-Power-56V-24-inch-Cordless-Electric-Hedge-Trimmer.jpg?quality=82&#038;strip=all&#038;w=1200\" /></div><p class=\"wp-block-paragraph\">Over at Amazon, you can currently find the EGO POWER+ 56V 24-inch Cordless Electric Hedge Trimmer with 2.5Ah battery discounted to $199 shipped. It’s dropped down from the $239 full price here, which we previously saw last for a long span through March and April, before rising back up during May. Now, the $40 markdown is returning today to give you a chance to pick it up at the best price we have tracked since October’s Prime Day event. You’ll find even more EGO tools and accessory deals in the official Amazon storefront here. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/06/03/ego-24-inch-cordless-electric-hedge-trimmer-2-5ah-battery-199-2/#more-1212500\">more…</a>",
-      "published": "2026-06-03T15:20:33+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "655c390f16521669f17541415ba103d2ca8ef9a4",
       "title": "Eight killed after drone hits bus in Russian-occupied part of Ukraine",
       "link": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
@@ -518,6 +662,15 @@
       "category": "world"
     },
     {
+      "id": "2e9f68ae6871f50b85506947edc665a04f5899a7",
+      "title": "Autonomous vehicles were supposed to cut traffic—what if they don't?",
+      "link": "https://arstechnica.com/cars/2026/06/robotaxis-dont-cut-traffic-any-more-than-ride-hailing-study-finds/",
+      "summary": "Data shows Waymo's robotaxis are empty for almost half of the miles they drive.",
+      "published": "2026-06-03T15:13:03+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
       "id": "d88741d801f6fc21dff9f95d9f4798abdff2061a",
       "title": "US announces new tariffs over forced labour concerns",
       "link": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
@@ -525,15 +678,6 @@
       "published": "2026-06-03T15:12:28+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "57746fed7474c221abb1b7f9cc5e6558d0e201ed",
-      "title": "Meta is spinning off Supernatural into an independent company, Supernatural Health, after earlier saying the VR fitness game would stop getting new content (Victoria Song/The Verge)",
-      "link": "https://www.techmeme.com/260603/p40#a260603p40",
-      "summary": "<a href=\"https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlhpRmdiRGZWWXQiLCJwIjoiL25ld3MvOTQxODE2L3N1cGVybmF0dXJhbC1oZWFsdGgtbWV0YS1xdWVzdC12ciIsImV4cCI6MTc4MDkzMDgzMywiaWF0IjoxNzgwNDk4ODMzfQ.zwkN_6H5o6vA_XE1Jow4dUEETYVvIu5t_62NpWtaBrk\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260603/i40.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260603/p40#a260603p40\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Victoria Song / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlhpRmdiRGZWWXQiLCJwIjoiL25ld3MvOTQxODE2L3N1cGVybmF0dXJhbC1oZWFsdGgtbWV0YS1xdWVzdC12ciIsImV4cCI6MTc4MDkzMDgzMywiaWF0IjoxNzgwNDk4ODMzfQ.zwkN_6H5o6vA_XE1Jow4dUEETYVvIu5t_62NpWtaBrk\">Meta is spinning off Supernatural into an independent company, Supernatural Health, after earlier saying the VR fitness game would stop getting new content</a></b></span>&nbsp; &mdash;&nbsp; The game is being spun out into an independent company called Supernatural Health. &hellip; A few months ago, Meta effectively handed Supernatural &hellip; </p>",
-      "published": "2026-06-03T15:10:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "7350a2d8f18edd65dd95559a400777289598d87b",
@@ -581,15 +725,6 @@
       "category": "tech"
     },
     {
-      "id": "a8fd2d0032fb2de99d1b2b8e8f6b1ca0cd5e27f2",
-      "title": "Digital i: YouTube overtakes Netflix in average daily viewing globally, rising from 87.2 minutes in 2024 to 99.1 in 2025, while Netflix fell from 100.5 to 93.4 (Michael Savage/The Guardian)",
-      "link": "https://www.techmeme.com/260603/p39#a260603p39",
-      "summary": "<a href=\"https://www.theguardian.com/technology/2026/jun/03/youtube-overtakes-netflix-in-average-daily-viewing-around-the-world\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260603/i39.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260603/p39#a260603p39\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Michael Savage / <a href=\"http://www.theguardian.com/\">The Guardian</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theguardian.com/technology/2026/jun/03/youtube-overtakes-netflix-in-average-daily-viewing-around-the-world\">Digital i: YouTube overtakes Netflix in average daily viewing globally, rising from 87.2 minutes in 2024 to 99.1 in 2025, while Netflix fell from 100.5 to 93.4</a></b></span>&nbsp; &mdash;&nbsp; Analysts say Alphabet-owned platform's evolution is one of the defining media shifts of the decade</p>",
-      "published": "2026-06-03T14:45:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "0deb3905cd092941323cccef76ee8109c601b3c3",
       "title": "ASUS Announces ProArt PCs With NVIDIA RTX Spark; Landing In Malaysia Within Q3 2026",
       "link": "https://www.lowyat.net/2026/394549/asus-proart-pcs-nvidia-rtx-spark-malaysia-q3-2026/",
@@ -614,15 +749,6 @@
       "summary": "The app allows users to engage with other fans, explore trending videos, and access curated creator feeds.",
       "published": "2026-06-03T14:04:38+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "11a9d025e1f63073a70aef7da461ee06693e82af",
-      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-      "summary": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the biggest players in AI, and it's [&#8230;]",
-      "published": "2026-06-03T14:04:00+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -653,6 +779,15 @@
       "category": "tech"
     },
     {
+      "id": "dfc080ac5ab5acf7238a49aad1a0c17a08258b6b",
+      "title": "Inside Meta's attempts to play catch-up with AI",
+      "link": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
+      "summary": "Doubts linger over whether Meta can close the gap with rivals.",
+      "published": "2026-06-03T13:35:58+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
       "id": "b876a90e0afb83523a2f2111bc05c61f7839afe9",
       "title": "Trump-backed candidate in Iowa loses primary",
       "link": "https://www.bbc.com/news/articles/c4g8nd48jxro?at_medium=RSS&at_campaign=rss",
@@ -660,15 +795,6 @@
       "published": "2026-06-03T13:35:04+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "a6cb18eb1dc4be585f916aaa007bce563ffd7826",
-      "title": "A first look at Microsoft’s Surface Laptop Ultra and Surface Dev Box",
-      "link": "https://www.theverge.com/tech/941600/microsoft-surface-laptop-ultra-dev-box-hands-on",
-      "summary": "Microsoft has two new Surface devices arriving later this year, both powered by Nvidia's RTX Spark chips. I got a chance to take a closer look at both the Surface Laptop Ultra and Surface RTX Spark Dev Box at Microsoft's Build conference this week, and while both have the same chip inside, they're utilizing Nvidia's [&#8230;]",
-      "published": "2026-06-03T13:22:17+00:00",
-      "source": "The Verge",
-      "category": "tech"
     },
     {
       "id": "97b463f517998e74426500c04499f22e7b624bff",
@@ -689,15 +815,6 @@
       "category": "malaysia"
     },
     {
-      "id": "564b7c3548dcf375b6c105042b69e813bdd3e604",
-      "title": "‘Kopitiam’ culture can strengthen Malaysia’s tourism branding, says culinary veteran",
-      "link": "https://www.malaymail.com/news/life/2026/06/03/kopitiam-culture-can-strengthen-malaysias-tourism-branding-says-culinary-veteran/222404",
-      "summary": "KUALA LUMPUR, June 3 &mdash; Malaysia&rsquo;s kopitiam concept could potentially emerge as an exportable identity capabl...",
-      "published": "2026-06-03T13:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "ea7f5be002eda091acacb24c41e8b652743dc4c7",
       "title": "Hezbollah: What to know about the Lebanese group at war with Israel",
       "link": "https://www.malaymail.com/news/world/2026/06/03/hezbollah-what-to-know-about-the-lebanese-group-at-war-with-israel/222417",
@@ -707,13 +824,13 @@
       "category": "malaysia"
     },
     {
-      "id": "9cd789012c21b4631f0c041740b1f1884388c359",
-      "title": "Plex adds new social features ahead of a major price hike for its lifetime pass",
-      "link": "https://techcrunch.com/2026/06/03/plex-launches-new-social-features-amid-a-major-price-hike/",
-      "summary": "The company said it's worked up a moderation system that uses a blend of AI and human input to moderate both visual and written content.",
+      "id": "564b7c3548dcf375b6c105042b69e813bdd3e604",
+      "title": "‘Kopitiam’ culture can strengthen Malaysia’s tourism branding, says culinary veteran",
+      "link": "https://www.malaymail.com/news/life/2026/06/03/kopitiam-culture-can-strengthen-malaysias-tourism-branding-says-culinary-veteran/222404",
+      "summary": "KUALA LUMPUR, June 3 &mdash; Malaysia&rsquo;s kopitiam concept could potentially emerge as an exportable identity capabl...",
       "published": "2026-06-03T13:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
     },
     {
       "id": "40a125d5e98eec4bbac86eb3209c659661a05cc2",
@@ -750,15 +867,6 @@
       "published": "2026-06-03T12:09:23+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "d9e4250e459490d750dce9cb7fb906a7e3792132",
-      "title": "SwitchBot’s acquisition of Nanoleaf is about more than lighting",
-      "link": "https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics",
-      "summary": "Smart lighting company Nanoleaf has been acquired by OneRobotics, the parent company of SwitchBot. In an exclusive interview with The Verge, Nanoleaf CEO Gimmy Chu says the company will remain independent and that he and his cofounder and COO, Christian Yan, will continue to run it. \"Nothing is changing operationally,\" says Chu, adding that there [&#8230;]",
-      "published": "2026-06-03T12:00:20+00:00",
-      "source": "The Verge",
-      "category": "tech"
     },
     {
       "id": "c5ca6cac367d0da6d7383132d009c53ca68db9b7",
@@ -941,15 +1049,6 @@
       "category": "tech"
     },
     {
-      "id": "cdf56f6da9de5f50fba6ae35ce9d808b0dbb15b3",
-      "title": "The world’s largest privately owned laser just turned on",
-      "link": "https://techcrunch.com/2026/06/03/the-worlds-largest-privately-owned-laser-just-turned-on/",
-      "summary": "Fusion startup Xcimer fired up the world's largest privately owned laser.",
-      "published": "2026-06-03T10:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "c5c859b2b587d86e255b8d941044daaac26f9091",
       "title": "Ong Kian Ming suggests ‘warlords’ influenced Skudai seat controversy involving Marina Ibrahim",
       "link": "https://www.malaymail.com/news/malaysia/2026/06/03/ong-kian-ming-suggests-warlords-influenced-skudai-seat-controversy-involving-marina-ibrahim/222418",
@@ -1022,6 +1121,15 @@
       "category": "deals"
     },
     {
+      "id": "e85050ff5d1d6cc2365f9bd6806475aafcdea90a",
+      "title": "Composer",
+      "link": "https://www.producthunt.com/products/composer-3",
+      "summary": "<p>\n            Multiplayer markdown for you, your team, and your agents.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/composer-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1162181?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-03T06:41:12+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "f7f1164189cd5f5745b13cb0415b74343d9192a0",
       "title": "AGI Has Some Dandadan-Themed Memory Products and Heat Sensitive Shields",
       "link": "https://www.lowyat.net/2026/394548/agi-has-some-dandadan-themed-memory-products-and-heat-sensitive-shields/",
@@ -1056,15 +1164,6 @@
       "published": "2026-06-03T05:05:27+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "9563a5503a13e0d3b4168b35f1d1f0cb3080b944",
-      "title": "Dropstone 1.5",
-      "link": "https://www.producthunt.com/products/dropstone-2",
-      "summary": "<p>\n            2× Claude Code Pro's usage at $15/mo\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dropstone-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1162093?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-03T03:59:22+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "f9849eb364eb4d507cfcbcb98c6b4e42fcf40737",
@@ -1121,15 +1220,6 @@
       "category": "tech"
     },
     {
-      "id": "6752f9890622bebf2cfeb77db4c07f529d48aff7",
-      "title": "New York police investigate videos of men emerging from city's sewer system",
-      "link": "https://www.bbc.com/news/articles/clyply74z9go?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities warn that entering the sewer system is both illegal and extremely dangerous.",
-      "published": "2026-06-02T22:29:15+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "426ad41413eef5beb4d79780e4045484fefe39a1",
       "title": "Town",
       "link": "https://www.producthunt.com/products/town",
@@ -1137,15 +1227,6 @@
       "published": "2026-06-02T22:26:11+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "facd7772ea47da28e3ab961dbfc0e327b3890ac8",
-      "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-      "link": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
-      "published": "2026-06-02T21:51:20+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "b15d6be1b5acd2d3a39a8a2c8136970188512301",
@@ -1166,15 +1247,6 @@
       "category": "tech"
     },
     {
-      "id": "9367326b55d91fa129251ad6b2c1c3c8102b99a1",
-      "title": "Devin Desktop",
-      "link": "https://www.producthunt.com/products/devin-by-cognition",
-      "summary": "<p>\n            Manage fleets of local and cloud agents from one surface\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/devin-by-cognition?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1161872?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-02T20:00:47+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "06892277888b46265ff9476753a2a9cfd08be3be",
       "title": "If I had a hammer... it might actually be a rhino tooth",
       "link": "https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/",
@@ -1182,15 +1254,6 @@
       "published": "2026-06-02T19:54:14+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "9ddf33134ad3d3eef43a2e768af835995d18baa6",
-      "title": "Mayor cancels DR Congo friendly with Chile in Spain over Ebola concern",
-      "link": "https://www.bbc.com/sport/football/articles/cm2pd28jnyxo?at_medium=RSS&at_campaign=rss",
-      "summary": "DR Congo's international friendly against Chile in Spain next week is cancelled after authorities raise health concerns over the Ebola outbreak in the African nation.",
-      "published": "2026-06-02T19:28:55+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "327349fdbd4bf90e0652a5e8ce7c604695008392",
@@ -1247,38 +1310,11 @@
       "category": "tech"
     },
     {
-      "id": "e093f29171846158298c72c1b4074692117b3ec6",
-      "title": "EchoFlow",
-      "link": "https://www.producthunt.com/products/echoflow-2",
-      "summary": "<p>\n            Native Android AI chat with chats stored locally\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/echoflow-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1161749?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-02T17:18:19+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "995598b2ee398adfcf558b40b2afd613381fba5f",
       "title": "Number of suspected Ebola cases falls by hundreds as testing ramps up",
       "link": "https://arstechnica.com/health/2026/06/number-of-suspected-ebola-cases-falls-by-hundreds-as-testing-ramps-up/",
       "summary": "The number of cases falls from 1,100 to 437 with increased testing.",
       "published": "2026-06-02T17:10:56+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "07ebffdd7cb886c0acb799418913b2b83f99c022",
-      "title": "Why a Neo Geo port of Doom is functionally impossible",
-      "link": "https://arstechnica.com/gaming/2026/06/why-a-neo-geo-port-of-doom-is-functionally-impossible/",
-      "summary": "Sprite-based graphics architecture makes first-person 3D a challenge.",
-      "published": "2026-06-02T16:19:34+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "9e5f5d89fadfbb7c290aa18abb002007a0205ec1",
-      "title": "In a surprise launch, China debuts another big rocket designed for reusability",
-      "link": "https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/",
-      "summary": "There are sound engineering reasons to use the same approach SpaceX uses with the Falcon 9.",
-      "published": "2026-06-02T16:05:48+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
     },
@@ -1290,33 +1326,6 @@
       "published": "2026-06-02T15:24:37+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "036f8f2183135134a6d04d3f6826873b3efd494d",
-      "title": "Blue Origin has set a very aggressive return-to-flight timeline",
-      "link": "https://arstechnica.com/space/2026/06/blue-origin-vows-to-fly-its-new-glenn-rocket-before-the-end-of-this-year/",
-      "summary": "\"The propellant farm, oxygen, liquid hydrogen, and LNG tanks are all in good shape.\"",
-      "published": "2026-06-02T15:16:13+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "9aa79dbb61c06668c4b8b8b6ae0a25a2413295d8",
-      "title": "Slate Auto gets serious about privacy for its bare-bones EV pickup",
-      "link": "https://arstechnica.com/cars/2026/06/slate-says-its-electric-pickup-will-never-track-you/",
-      "summary": "With no embedded modem, the Slate Truck is the antithesis of today's connected cars.",
-      "published": "2026-06-02T14:49:05+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "6381791964c9c6ca4a6e9d23733ff6d5072b126b",
-      "title": "Trump's DOE restarts energy rebate program with dumb conditions",
-      "link": "https://arstechnica.com/tech-policy/2026/06/trumps-doe-restarts-energy-rebate-program-with-dumb-conditions/",
-      "summary": "Switching from fossil fuels to electricity for heating is no longer covered.",
-      "published": "2026-06-02T13:29:00+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
     },
     {
       "id": "c5e034a3ccd407e08bf4fcbac947186b6a240dd1",
@@ -1337,31 +1346,22 @@
       "category": "events"
     },
     {
-      "id": "fe56651599006c29b7b56053a736d855ee223d75",
-      "title": "RadianceKit",
-      "link": "https://www.producthunt.com/products/radiancekit",
-      "summary": "<p>\n            Turn photos into 3D Gaussian Splats on your Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/radiancekit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1161523?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-02T12:39:28+00:00",
+      "id": "fb1a2e4cf387ce0d3421c41502f5ca5097857e40",
+      "title": "Barflare",
+      "link": "https://www.producthunt.com/products/barflare",
+      "summary": "<p>\n            Cloudflare Tunnels, managed from your menu bar\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/barflare?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1161444?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-02T10:51:35+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "0238f8c1b2c52984cb8e7fa2ffaf97c3e7d71ca6",
-      "title": "Handler",
-      "link": "https://www.producthunt.com/products/handler",
-      "summary": "<p>\n            Review AI edits like stacked PRs at generation time.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/handler?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1161519?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-02T12:37:56+00:00",
+      "id": "479eca1d37c2967484d5280ef99941550b5cfcf6",
+      "title": "BoxBox",
+      "link": "https://www.producthunt.com/products/boxbox",
+      "summary": "<p>\n            File manager for Linux homelab and NAS-style servers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/boxbox?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1161407?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-02T09:49:52+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "d4c4f9bf09e2a0d0df7fb8c38fd9b5f4eefc3ed4",
-      "title": "Impulse Space raises $500 million as orbital maneuvering race heats up",
-      "link": "https://arstechnica.com/space/2026/06/impulse-space-raises-500-million-as-orbital-maneuvering-race-heats-up/",
-      "summary": "\"The market's going to continue to find exciting new things.\"",
-      "published": "2026-06-02T12:00:54+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
     },
     {
       "id": "e98b9c5c9d952de23075f7a9cf01662dd54b8d00",
@@ -1389,24 +1389,6 @@
       "published": "2026-06-01T23:39:18+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "5cf6aea0059af9dc45c36f46a854f3d20555176f",
-      "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
-      "link": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
-      "summary": "Some report burning through their whole monthly \"AI credit\" allotment in a single day.",
-      "published": "2026-06-01T22:18:09+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "80b54b005698405014db20084e07a01903973c6a",
-      "title": "Why cats prefer silver vine to catnip and other May highlights",
-      "link": "https://arstechnica.com/science/2026/06/research-roundup-7-cool-science-stories-we-almost-missed-4/",
-      "summary": "Prehistoric mining in the Pyrenees, a new species of tiny blue octopus, slapstick acoustics, and more.",
-      "published": "2026-06-01T21:38:55+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
     },
     {
       "id": "d34019cf971fe337f03291855c2e04f92dfbc352",
@@ -1454,6 +1436,24 @@
       "category": "malaysia"
     },
     {
+      "id": "f03e41514fc57a2c9c399342db0b1dcb0ab4c462",
+      "title": "Dispatch",
+      "link": "https://www.producthunt.com/products/dispatch-cae30304-5c83-4bd1-acc5-d5a9630193f1",
+      "summary": "<p>\n            Your app launch hub with ASO audit, keywords, and ads\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dispatch-cae30304-5c83-4bd1-acc5-d5a9630193f1?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1159698?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-31T05:36:31+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "8a9fafaf2036d440fdccb559b2385259a145fdc4",
+      "title": "audien.to",
+      "link": "https://www.producthunt.com/products/audien-to",
+      "summary": "<p>\n            Turn recordings into source-linked work\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/audien-to?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1159669?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-31T03:49:00+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "43ebd4408efaea377a2eee7fa722affa9e75a75b",
       "title": "ChargEV Tangkak Pitstop upgraded with 400kW grid supply and covered charging bays",
       "link": "https://soyacincau.com/2026/05/30/chargev-tangkak-pitstop-ev-charger-upgraded-covered-bays/",
@@ -1472,11 +1472,11 @@
       "category": "events"
     },
     {
-      "id": "2d9214e517f9565587e50ee2f1b41cf2423e0b3f",
-      "title": "StampCam",
-      "link": "https://www.producthunt.com/products/stampcam",
-      "summary": "<p>\n            Turn any photo into a postage stamp or sticker\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/stampcam?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1157228?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-27T14:47:21+00:00",
+      "id": "9c1dc7a43c1e4717c83c40ce6fedc571522b8928",
+      "title": "Elentaria",
+      "link": "https://www.producthunt.com/products/elentaria",
+      "summary": "<p>\n            Your GTM: from diagnosis to execution\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1149728?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-05-18T10:10:10+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
