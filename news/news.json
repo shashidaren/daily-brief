@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-06-06T17:03:40.843062+00:00",
+  "generatedAt": "2026-06-06T19:10:14.739971+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "0e56b1452d60665ddf17c7fc8a71eecc27b827d6",
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+      "published": "2026-06-06T18:13:36+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "bb9b8d7c7d766f47fb68c182a334f3ce134f51ce",
+      "title": "The first Story-Rich showcase was packed with narrative-driven games",
+      "link": "https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers",
+      "summary": "Fellow Traveller, the publisher behind games like Titanium Court and 1000xResist, just wrapped up its Story-Rich Showcase, which featured a bunch of narrative-driven indie games. With more than 20 games on display, there was a lot to follow, but we've pulled together some of the most notable announcements below. You can also catch the full [&#8230;]",
+      "published": "2026-06-06T18:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "bbf7db73d4c195f70c2398bbc32b703ae0a86050",
+      "title": "GOG apologizes for emailing people Nazi symbols",
+      "link": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
+      "summary": "GOG sent a newsletter about the game The End of the Sun on June 5th that included symbols associated with the Nazi SS. The Steam competitor issued a statement attributing the inclusion to a \"series of mistakes,\" including miscommunication with the German QA team, inconsistent font rendering, and being understaffed during a bank holiday, among [&#8230;]",
+      "published": "2026-06-06T17:59:37+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "580c6d042142a063f11c42a0c47ec0ebb2c104cf",
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      "published": "2026-06-06T17:42:15+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "fcd11e3e6afd4032838e47aeb47c59bcf018ed44",
+      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+      "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+      "summary": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
+      "published": "2026-06-06T17:14:03+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "246c1e0ee6ddd34d16bab535d2565912f34b8c2f",
+      "title": "Lebanese general among three soldiers killed in Israeli attack on car",
+      "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+      "published": "2026-06-06T17:12:39+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "ad268aac2ef61ffff044a80e57a17f3f64429d5a",
       "title": "The cutest games from the Wholesome Direct 2026 showcase",
@@ -131,15 +185,6 @@
       "category": "tech"
     },
     {
-      "id": "fcd11e3e6afd4032838e47aeb47c59bcf018ed44",
-      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-      "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
-      "summary": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
-      "published": "2026-06-06T13:38:07+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "548f6c89e6d37e3512a7e28dc25609cd936f4c7e",
       "title": "Best of 9to5Toys – This week’s top deals: AirPods, Pixel 10, Logitech, Google Nest, more",
       "link": "https://9to5toys.com/2026/06/06/this-weeks-top-deals-airpods-pixel-nest/",
@@ -239,24 +284,6 @@
       "category": "malaysia"
     },
     {
-      "id": "861c3017a1dae9d39b0db61c342b72abce402b08",
-      "title": "Here comes new Siri again",
-      "link": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
-      "summary": "Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in [&#8230;]",
-      "published": "2026-06-06T12:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "d6b007a4e5e975aa4234acd45abedf7f17c20435",
-      "title": "The next YouTube phenomenon hitting the big screen",
-      "link": "https://www.theverge.com/tech/944942/amazing-digital-circus-lego-pokemon-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 131, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy last week of productivity before the World Cup starts, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about the World Cup [&#8230;]",
-      "published": "2026-06-06T12:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "81bf6d54adfda73aa737b18cc1967f95726dadcd",
       "title": "9to5Toys Steals Weekly – 4-in-1 Qi2 charging station $25.50, Matter in-wall outlet $22, 7-in-1 65W USB-C power strip $25, more",
       "link": "https://9to5toys.com/2026/06/06/steals-weekly-jun-6/",
@@ -318,15 +345,6 @@
       "published": "2026-06-06T11:15:51+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "b901d81724bf2df99b39fd3a871384b196292be7",
-      "title": "Lebanon says three soldiers killed in Israeli attack on car",
-      "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
-      "published": "2026-06-06T10:57:28+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "d94ed0b46c2a9ad337a53c3e3a145fdb6fc5c864",
@@ -1247,24 +1265,6 @@
       "category": "tech"
     },
     {
-      "id": "144687b319146a2701418ac50fc4b6c122349479",
-      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-      "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-      "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
-      "published": "2026-06-04T22:43:26+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "5e3478b77cd91994b75779076c69a4e8b01d7389",
-      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-      "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-      "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
-      "published": "2026-06-04T22:29:50+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "b3a68c375b9d39a60e0402c698d67521618305b6",
       "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
       "link": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
@@ -1355,6 +1355,24 @@
       "category": "tech"
     },
     {
+      "id": "0b5532a48dd4fb5d7cc38da3421ce637a7616193",
+      "title": "Clarafy",
+      "link": "https://www.producthunt.com/products/clarafy",
+      "summary": "<p>\n            Type messy and have it instantly polished\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clarafy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1163604?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-04T17:33:12+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "fb81485d1bb05095b9bd3f37ceafed4329ba2af5",
+      "title": "Recursi",
+      "link": "https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env",
+      "summary": "<p>\n            Self improving vibe coding env with no API fees\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1163592?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-04T17:18:43+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "c5292878b2b10f30d2e157f002d307d00fa3dddc",
       "title": "VisionSync",
       "link": "https://www.producthunt.com/products/visionsync",
@@ -1409,24 +1427,6 @@
       "category": "malaysia"
     },
     {
-      "id": "4295d56b7bf090cd6beabc1a1ca79c905b49c5f5",
-      "title": "Minimi",
-      "link": "https://www.producthunt.com/products/shram",
-      "summary": "<p>\n            Your ambient memory for Claude\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/shram?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1163169?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-04T08:29:10+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "eecacd5bcd690414b878ec8bcc00bdac47f592d9",
-      "title": "FloatPic",
-      "link": "https://www.producthunt.com/products/floatpic",
-      "summary": "<p>\n            Ultra-minimalist, borderless macOS native image viewer\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/floatpic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1162995?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-04T04:45:58+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "821901c7baca6ab7fc2d6bcfd71096c9b522afbf",
       "title": "MAI-Image-2.5",
       "link": "https://www.producthunt.com/products/mai-image-2-5",
@@ -1441,15 +1441,6 @@
       "link": "https://www.producthunt.com/products/ideogram-4-0",
       "summary": "<p>\n            Generate design-ready image with open weight, layout control\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ideogram-4-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1162949?app_id=339\">Link</a>\n          </p>",
       "published": "2026-06-04T02:58:53+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "951ba48c9be996189a520431c0062666e15792b8",
-      "title": "Agent Mode on Arena",
-      "link": "https://www.producthunt.com/products/arena-5",
-      "summary": "<p>\n            Get real-world tasks done with autonomous AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/arena-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1160919?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-01T18:22:20+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1477,6 +1468,15 @@
       "link": "https://www.producthunt.com/products/veltrix-ai",
       "summary": "<p>\n            AI finance copilot for cash flow, margins, and growth\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152327?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-21T08:17:52+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "321858edcaa4ef43c4957726f49ac89654542e42",
+      "title": "Lumo Studios",
+      "link": "https://www.producthunt.com/products/lumo-studios",
+      "summary": "<p>\n            Build Decks that Speak for Themselves\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lumo-studios?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1132349?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-25T19:22:27+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
