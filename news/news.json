@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-06-06T20:57:06.195268+00:00",
+  "generatedAt": "2026-06-06T22:01:48.078880+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "2b0a89b37364e6557c8ad549210e166a32e83a2f",
+      "title": "Iran says staff blocked from entering US after players given World Cup visas",
+      "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+      "published": "2026-06-06T21:31:16+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "246c1e0ee6ddd34d16bab535d2565912f34b8c2f",
+      "title": "Lebanese general among three soldiers killed in Israeli attack on car",
+      "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+      "published": "2026-06-06T21:23:03+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "ac10cccc1a0f4220a562d76f6c8be222788ca929",
+      "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+      "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+      "published": "2026-06-06T21:14:00+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "fcd11e3e6afd4032838e47aeb47c59bcf018ed44",
       "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
@@ -21,24 +48,6 @@
       "published": "2026-06-06T20:32:24+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "ac10cccc1a0f4220a562d76f6c8be222788ca929",
-      "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
-      "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
-      "published": "2026-06-06T20:32:08+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "2b0a89b37364e6557c8ad549210e166a32e83a2f",
-      "title": "Iran says staff blocked from entering US after players given World Cup visas",
-      "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
-      "published": "2026-06-06T20:15:52+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "d830deb9ad2789b5cec824bc87063a2115176224",
@@ -113,15 +122,6 @@
       "category": "tech"
     },
     {
-      "id": "246c1e0ee6ddd34d16bab535d2565912f34b8c2f",
-      "title": "Lebanese general among three soldiers killed in Israeli attack on car",
-      "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
-      "published": "2026-06-06T17:12:39+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "ad268aac2ef61ffff044a80e57a17f3f64429d5a",
       "title": "The cutest games from the Wholesome Direct 2026 showcase",
       "link": "https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers",
@@ -152,7 +152,7 @@
       "id": "ca95d61dfe8f499caef9de8b0f47d960c0943097",
       "title": "Summer Game Fest 2026: All the news from gaming&#8217;s busiest week",
       "link": "https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026",
-      "summary": "Get ready for some gaming news. It&#8217;s officially June, which means splashy new events from PlayStation, Xbox, and gaming hype man Geoff Keighley, as well as a bunch of smaller events with hidden gems. PlayStation kicked things off with a big event that featured a new look at Wolverine ahead of its September launch, a [&#8230;]",
+      "summary": "Get ready for some gaming news. It&#8217;s officially June, which means splashy new events from PlayStation, Xbox, gaming hype man Geoff Keighley, and more. PlayStation kicked things off with a big event that was mostly about premium single-player games like the new God of War Laufey — a statement from PlayStation that it’s getting back [&#8230;]",
       "published": "2026-06-06T16:14:23+00:00",
       "source": "The Verge",
       "category": "tech"
@@ -1346,11 +1346,38 @@
       "category": "tech"
     },
     {
+      "id": "0b5532a48dd4fb5d7cc38da3421ce637a7616193",
+      "title": "Clarafy",
+      "link": "https://www.producthunt.com/products/clarafy",
+      "summary": "<p>\n            Type messy and have it instantly polished\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clarafy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1163604?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-04T17:33:12+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "fb81485d1bb05095b9bd3f37ceafed4329ba2af5",
       "title": "Recursi",
       "link": "https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env",
       "summary": "<p>\n            Self improving vibe coding env with no API fees\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1163592?app_id=339\">Link</a>\n          </p>",
       "published": "2026-06-04T17:18:43+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "e43a674341c78f24dfd799994fa217f638ab5af1",
+      "title": "Treadmill Pro",
+      "link": "https://www.producthunt.com/products/treadmill-pro",
+      "summary": "<p>\n            Control your treadmill from your iPhone, wirelessly\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/treadmill-pro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1163579?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-04T16:59:38+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "c5292878b2b10f30d2e157f002d307d00fa3dddc",
+      "title": "VisionSync",
+      "link": "https://www.producthunt.com/products/visionsync",
+      "summary": "<p>\n            Where strategy execution meets the people doing the work\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/visionsync?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1163576?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-04T16:57:47+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1454,38 +1481,11 @@
       "category": "events"
     },
     {
-      "id": "9388d6b8c599921a61540e1ba6f1259d3030d83f",
-      "title": "SellerClaw",
-      "link": "https://www.producthunt.com/products/sellerclaw",
-      "summary": "<p>\n            A team of AI agents that runs your stores across channels\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sellerclaw?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1155751?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-25T21:03:03+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "82f7b2b8fad1bec5431ab83ef0e3cce58d370826",
       "title": "Veltrix AI",
       "link": "https://www.producthunt.com/products/veltrix-ai",
       "summary": "<p>\n            AI finance copilot for cash flow, margins, and growth\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152327?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-21T08:17:52+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "321858edcaa4ef43c4957726f49ac89654542e42",
-      "title": "Lumo Studios",
-      "link": "https://www.producthunt.com/products/lumo-studios",
-      "summary": "<p>\n            Build Decks that Speak for Themselves\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lumo-studios?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1132349?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-04-25T19:22:27+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "221f2c848d53febc0551c875b6873e4310f4f975",
-      "title": "Moodloom",
-      "link": "https://www.producthunt.com/products/moodloom",
-      "summary": "<p>\n            Ad-free Pinterest Alternative with AI content filtering \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/moodloom?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1100116?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-03-16T19:14:59+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
