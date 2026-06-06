@@ -1,9 +1,81 @@
 {
-  "generatedAt": "2026-06-06T19:10:14.739971+00:00",
+  "generatedAt": "2026-06-06T20:57:06.195268+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "fcd11e3e6afd4032838e47aeb47c59bcf018ed44",
+      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+      "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+      "summary": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
+      "published": "2026-06-06T20:50:40+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "6352353550d8cbbc601e0a9611b64efd350181a2",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+      "published": "2026-06-06T20:32:24+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "ac10cccc1a0f4220a562d76f6c8be222788ca929",
+      "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+      "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+      "published": "2026-06-06T20:32:08+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "2b0a89b37364e6557c8ad549210e166a32e83a2f",
+      "title": "Iran says staff blocked from entering US after players given World Cup visas",
+      "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+      "published": "2026-06-06T20:15:52+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "d830deb9ad2789b5cec824bc87063a2115176224",
+      "title": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
+      "link": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss",
+      "summary": "The seven-month-old boy's shrouded body was wrapped in a Palestinian flag and carried by his father to the graveyard.",
+      "published": "2026-06-06T19:57:42+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "ec403ca66405a6d83d61e21e7a1f57b6d07049f3",
+      "title": "Several UK police forces have been told to stop using AI to prepare court statements, citing concerns that inaccurate outputs could contaminate legal procedures (Robert Wright/Financial Times)",
+      "link": "https://www.techmeme.com/260606/p10#a260606p10",
+      "summary": "<a href=\"https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260606/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260606/p10#a260606p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Robert Wright / <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241\">Several UK police forces have been told to stop using AI to prepare court statements, citing concerns that inaccurate outputs could contaminate legal procedures</a></b></span>&nbsp; &mdash;&nbsp; Safeguards must be in place before forces automate justice tasks, says head of Police.AI&nbsp; &mdash;&nbsp; A number of UK police forces &hellip; </p>",
+      "published": "2026-06-06T19:55:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "4c96ef406b66830d6b690e28b017c759da2d2217",
+      "title": "Pope begins Spain visit with praise for country's opposition to war and support for migrants",
+      "link": "https://www.bbc.com/news/articles/c8d2pgjy4qgo?at_medium=RSS&at_campaign=rss",
+      "summary": "On the first day of his official seven-day tour of Spain, the Pope praises the country's \"active commitment to peace and solidarity among peoples\".",
+      "published": "2026-06-06T18:34:26+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "e885706c57cc506893015166f293310c81f82b15",
+      "title": "Giant banquets rile radical left in France",
+      "link": "https://www.bbc.com/news/articles/c78q215vyd7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The feasting phenomenon run by Le Canon Français has become a hot political issue.",
+      "published": "2026-06-06T18:16:42+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "0e56b1452d60665ddf17c7fc8a71eecc27b827d6",
       "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
@@ -39,15 +111,6 @@
       "published": "2026-06-06T17:42:15+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "fcd11e3e6afd4032838e47aeb47c59bcf018ed44",
-      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-      "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
-      "summary": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
-      "published": "2026-06-06T17:14:03+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "246c1e0ee6ddd34d16bab535d2565912f34b8c2f",
@@ -293,15 +356,6 @@
       "category": "deals"
     },
     {
-      "id": "2b0a89b37364e6557c8ad549210e166a32e83a2f",
-      "title": "Iran says staff blocked from entering US after players given World Cup visas",
-      "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
-      "published": "2026-06-06T11:56:25+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "3714dc40548bbb828aedab052de1855bd0baf5c4",
       "title": "Pokémon x Target 30th anniversary gear – Drop 2 live today: New Starter jackets, collectibles, more",
       "link": "https://9to5toys.com/2026/06/06/pokemon-x-target-drop-2-live-today/",
@@ -491,24 +545,6 @@
       "category": "malaysia"
     },
     {
-      "id": "37de79fefb72fbd5c36545b9edf0a44d4ea6de05",
-      "title": "Man dies after shark attack in Western Australia, police say",
-      "link": "https://www.bbc.com/news/articles/c74yl98kv37o?at_medium=RSS&at_campaign=rss",
-      "summary": "The man was spearfishing off Michaelmas Island with his family, according to local reports.",
-      "published": "2026-06-06T08:20:50+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "d2639837d070540222f713f9a19aa86288c5ec2a",
-      "title": "Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72",
-      "link": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss",
-      "summary": "The British actor, who also appeared in Merlin and Little Britain, died of complications from pneumonia.",
-      "published": "2026-06-06T07:33:07+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "0659e3b5aad7be5a73add19d902e86418e06f2d3",
       "title": "Armenia braces for election as Russia piles pressure on pro-West government",
       "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
@@ -617,6 +653,15 @@
       "category": "world"
     },
     {
+      "id": "b21bd449092ff5cedbff7a77f4990872d89fa491",
+      "title": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
+      "link": "https://www.bbc.com/news/articles/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss",
+      "summary": "The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US.",
+      "published": "2026-06-06T01:55:03+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "6cdf9d1281651e825d43cd45bad304f649f136b2",
       "title": "OpenAI rolls out Lockdown Mode, an optional security setting designed to offer users advanced protection from prompt injection attacks by limiting some features (Igor Bonifacic/Engadget)",
       "link": "https://www.techmeme.com/260605/p37#a260605p37",
@@ -662,11 +707,11 @@
       "category": "world"
     },
     {
-      "id": "e3f0814a38e6975d50834fbb153f9fc2b76a482d",
-      "title": "Palestinian baby killed by Israeli gunfire in West Bank, health ministry says",
-      "link": "https://www.bbc.com/news/articles/cy828e64vp8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military says Friday's \"incident is under review\", expressing \"deep sorrow for any harm caused\".",
-      "published": "2026-06-05T23:12:24+00:00",
+      "id": "4e3973de9895d6230f846157d66235061290b154",
+      "title": "The cash-in-the-sofa saga that just won't go away for South Africa's president",
+      "link": "https://www.bbc.com/news/articles/cy429dv9kk0o?at_medium=RSS&at_campaign=rss",
+      "summary": "A committee of MPs has been formed to look at the case against Cyril Ramaphosa, but he may survive a vote.",
+      "published": "2026-06-05T23:22:18+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -698,6 +743,15 @@
       "category": "deals"
     },
     {
+      "id": "207371ca61c653c8e8b736092c4fd6c0eec8a517",
+      "title": "Why are devastating mice plagues happening in Australia?",
+      "link": "https://www.bbc.com/news/videos/cn9p9y07d94o?at_medium=RSS&at_campaign=rss",
+      "summary": "Crops are being ravaged and homes are being invaded by the rodents - and it’s costing farmers hundreds of thousands of dollars.",
+      "published": "2026-06-05T22:01:20+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "4a957492c69a303905219ba8c7a21ecc1587b1db",
       "title": "Marvell and Flex, a contract manufacturer for electronics, will join the S&P 500; MRVL jumps 6%+ after hours after closing down 16.74% amid a broader sell-off (Kif Leswing/CNBC)",
       "link": "https://www.techmeme.com/260605/p33#a260605p33",
@@ -707,39 +761,21 @@
       "category": "tech"
     },
     {
+      "id": "053e8ce6ffc556937e7527644b294d53040f0ab5",
+      "title": "Fall in official Ebola numbers appears to be good news but it's not that simple",
+      "link": "https://www.bbc.com/news/articles/c0q2q4y09elo?at_medium=RSS&at_campaign=rss",
+      "summary": "There are now 380 confirmed cases of Ebola in DR Congo, far lower than initial estimates of suspected cases, writes Fergus Walsh.",
+      "published": "2026-06-05T21:48:31+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "9d7cdce3f4226bb30236f4a85a75435619e2ee0f",
       "title": "Founders share VC horror stories, and some are naming names",
       "link": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
       "summary": "A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating.",
       "published": "2026-06-05T21:47:56+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "d787f8f4756bb88c72230d5602047d4d9b6c2e79",
-      "title": "US stocks slump as fears over Big Tech shake Wall Street",
-      "link": "https://www.bbc.com/news/articles/cwy2yq0dj58o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Nasdaq saw its biggest daily fall since early 2025.",
-      "published": "2026-06-05T21:38:13+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "d158dc5f174400600c01fa1a94fd456eddee1afa",
-      "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
-      "link": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
-      "published": "2026-06-05T21:35:55+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "0a440c4d7b4d5aef3073c5f86aaa66cf33f59a6e",
-      "title": "Source: OpenAI and White House are discussing a government stake in the company, to seed something like the \"Public Wealth Fund\" that OpenAI outlined earlier (CNBC)",
-      "link": "https://www.techmeme.com/260605/p32#a260605p32",
-      "summary": "<a href=\"https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260605/i32.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260605/p32#a260605p32\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html\">Source: OpenAI and White House are discussing a government stake in the company, to seed something like the &ldquo;Public Wealth Fund&rdquo; that OpenAI outlined earlier</a></b></span>&nbsp; &mdash;&nbsp; OpenAI CEO Sam Altman and the White House are in ongoing talks about a possible government stake in the artificial intelligence company, CNBC confirmed on Friday.</p>",
-      "published": "2026-06-05T21:35:41+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -833,6 +869,15 @@
       "category": "deals"
     },
     {
+      "id": "dbf0602a94659d6307ae32d9f38f7bd6364f3ad2",
+      "title": "From Nescafe to Ted Lasso: Anthony Head's life in pictures",
+      "link": "https://www.bbc.com/news/articles/cy42428yx8go?at_medium=RSS&at_campaign=rss",
+      "summary": "Anthony Head, who first came to public attention for his role in 1980s Nescafe ads, has died at the age of 72.",
+      "published": "2026-06-05T19:17:48+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "677d0475773a524414346884b18799016381fc24",
       "title": "QWERTYS",
       "link": "https://www.producthunt.com/products/qwertys",
@@ -887,15 +932,6 @@
       "category": "tech"
     },
     {
-      "id": "29176445ca6d7a85c426b875d7fb5ec4eb1d2300",
-      "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
-      "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
-      "published": "2026-06-05T18:16:15+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "11e3b360e419f6a3911e569071ec447861a4f24d",
       "title": "Save up to 50% on patio furniture and outdoor decor at Walmart",
       "link": "https://9to5toys.com/2026/06/05/refresh-patio-for-summer-up-to-50-off-outdoor-furniture-walmart/",
@@ -939,15 +975,6 @@
       "published": "2026-06-05T17:17:06+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "2d66624f2e9187c114721dd774548fe4f553aa4f",
-      "title": "Norway's crown princess on lung transplant waiting list, palace says",
-      "link": "https://www.bbc.com/news/articles/c9wewqxpq2eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mette-Marit's condition, which stiffens the lungs, making it hard to breathe, has deteriorated, the royal household says.",
-      "published": "2026-06-05T17:11:01+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "3c78f23ab241a328bd24713521d2a2341a9b6abb",
@@ -995,15 +1022,6 @@
       "category": "tech"
     },
     {
-      "id": "2fb862d0dcaacd429fd8242a33ee200d5bd9d0ac",
-      "title": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
-      "link": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
-      "summary": "Only two survived after trekking more than 50km (30 miles) across the desert to alert the authorities.",
-      "published": "2026-06-05T16:00:47+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "89c2cdbd7a0e99d729f20936401979465ef4b89d",
       "title": "Trump admin tries again to revive dying coal industry",
       "link": "https://arstechnica.com/science/2026/06/trump-admin-tries-again-to-revive-dying-coal-industry/",
@@ -1020,15 +1038,6 @@
       "published": "2026-06-05T15:40:48+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "8e6f99423a006a1d2068667b26158468038e01c8",
-      "title": "Ukraine strikes cargo ships and admits Romania drone blast",
-      "link": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
-      "published": "2026-06-05T15:29:39+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "01c0598f08ef67689a41e6e12883c003498dee52",
@@ -1103,6 +1112,15 @@
       "category": "deals"
     },
     {
+      "id": "77e9cc6c60bf876789360c13f300ccf761da748a",
+      "title": "Is there an AI stock market bubble, and is it ready to burst?",
+      "link": "https://www.bbc.com/news/videos/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss",
+      "summary": "Despite the Iran war, inflation and debt fears, US markets keep hitting record highs, fueled largely by AI. BBC's Samira Hussain looks into whether that bubble will burst.",
+      "published": "2026-06-05T12:46:00+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "7fbb036b3b3d5299d03bb495b5f48c3885c7e49e",
       "title": "Zeekr Malaysia partners with DC Handal to expand EV charging network along North-South Expressway",
       "link": "https://soyacincau.com/2026/06/05/zeekr-malaysia-partners-with-dc-handal-to-expand-ev-charging-network-along-north-south-expressway/",
@@ -1110,15 +1128,6 @@
       "published": "2026-06-05T11:47:08+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "b39a0d6316f8f0e13cc4ea2ea5a2462940407e19",
-      "title": "Fury in France after child murder suspect's criminal record released",
-      "link": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss",
-      "summary": "A man suspected of murdering an 11-year-old girl had previously been identified as a potential child molester, records show.",
-      "published": "2026-06-05T11:32:51+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "0f84c032f8f27ac7edbc59eda8d29eb8d96122c9",
@@ -1202,11 +1211,11 @@
       "category": "deals"
     },
     {
-      "id": "a836bac7805ebae2c28ac00740f8f794f5c0428c",
-      "title": "US actor James Handy stabbed to death, with girlfriend's son arrested",
-      "link": "https://www.bbc.com/news/articles/czd2dj24jgdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Handy, 81, is known for his roles in films including Jumanji and Top Gun: Maverick.",
-      "published": "2026-06-05T09:40:06+00:00",
+      "id": "0dabdaab687c7260f4158a9f7d74745748a4d6be",
+      "title": "'Extremely intelligent' bear on the run in Japan after injuring four people",
+      "link": "https://www.bbc.com/news/videos/cx212p755z8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities said that a bear in north-east Japan has eluded capture by opening a window.",
+      "published": "2026-06-05T09:08:57+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -1229,15 +1238,6 @@
       "category": "malaysia"
     },
     {
-      "id": "5de3f68a878b127e53d0286b79ee39b137354d86",
-      "title": "LocalClicky",
-      "link": "https://www.producthunt.com/products/localclicky",
-      "summary": "<p>\n            Control your Mac with your voice locally\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/localclicky?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1164006?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-05T06:26:21+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "dac8966dab8022a0aeeb77a413f6e5fbbbe7eed6",
       "title": "JomCharge x DBKL turn on third EV charging location at Kuchai Lama, 50% off this weekend",
       "link": "https://soyacincau.com/2026/06/05/jomcharge-x-dbkl-ev-charger-ban-bu-dian-kuchai-lama/",
@@ -1252,15 +1252,6 @@
       "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
       "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
       "published": "2026-06-05T05:06:37+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "8523ed2c4bebef36f99c19fd104afd3e89d01da4",
-      "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
-      "link": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
-      "summary": "The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.",
-      "published": "2026-06-05T00:06:47+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
@@ -1355,29 +1346,11 @@
       "category": "tech"
     },
     {
-      "id": "0b5532a48dd4fb5d7cc38da3421ce637a7616193",
-      "title": "Clarafy",
-      "link": "https://www.producthunt.com/products/clarafy",
-      "summary": "<p>\n            Type messy and have it instantly polished\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clarafy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1163604?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-04T17:33:12+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "fb81485d1bb05095b9bd3f37ceafed4329ba2af5",
       "title": "Recursi",
       "link": "https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env",
       "summary": "<p>\n            Self improving vibe coding env with no API fees\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1163592?app_id=339\">Link</a>\n          </p>",
       "published": "2026-06-04T17:18:43+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "c5292878b2b10f30d2e157f002d307d00fa3dddc",
-      "title": "VisionSync",
-      "link": "https://www.producthunt.com/products/visionsync",
-      "summary": "<p>\n            Where strategy execution meets the people doing the work\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/visionsync?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1163576?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-04T16:57:47+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1427,6 +1400,24 @@
       "category": "malaysia"
     },
     {
+      "id": "4295d56b7bf090cd6beabc1a1ca79c905b49c5f5",
+      "title": "Minimi",
+      "link": "https://www.producthunt.com/products/shram",
+      "summary": "<p>\n            Your ambient memory for Claude\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/shram?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1163169?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-04T08:29:10+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "eecacd5bcd690414b878ec8bcc00bdac47f592d9",
+      "title": "FloatPic",
+      "link": "https://www.producthunt.com/products/floatpic",
+      "summary": "<p>\n            Ultra-minimalist, borderless macOS native image viewer\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/floatpic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1162995?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-04T04:45:58+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "821901c7baca6ab7fc2d6bcfd71096c9b522afbf",
       "title": "MAI-Image-2.5",
       "link": "https://www.producthunt.com/products/mai-image-2-5",
@@ -1441,6 +1432,15 @@
       "link": "https://www.producthunt.com/products/ideogram-4-0",
       "summary": "<p>\n            Generate design-ready image with open weight, layout control\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ideogram-4-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1162949?app_id=339\">Link</a>\n          </p>",
       "published": "2026-06-04T02:58:53+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "951ba48c9be996189a520431c0062666e15792b8",
+      "title": "Agent Mode on Arena",
+      "link": "https://www.producthunt.com/products/arena-5",
+      "summary": "<p>\n            Get real-world tasks done with autonomous AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/arena-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1160919?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-01T18:22:20+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
