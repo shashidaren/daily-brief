@@ -1,9 +1,117 @@
 {
-  "generatedAt": "2026-06-09T21:49:32.811281+00:00",
+  "generatedAt": "2026-06-09T23:14:46.849252+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "680737add8c387234a806ebe4bfb4a4c1d113160",
+      "title": "ServiceNow says attackers exploited a flaw, patched on June 5, that let unauthenticated users query data from customer instances, but gives few other details (Lawrence Abrams/BleepingComputer)",
+      "link": "https://www.techmeme.com/260609/p43#a260609p43",
+      "summary": "<a href=\"https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260609/i43.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260609/p43#a260609p43\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lawrence Abrams / <a href=\"https://www.bleepingcomputer.com/\">BleepingComputer</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/\">ServiceNow says attackers exploited a flaw, patched on June 5, that let unauthenticated users query data from customer instances, but gives few other details</a></b></span>&nbsp; &mdash;&nbsp; ServiceNow is warning about a security incident after attackers exploited an unauthenticated access flaw through a vulnerable API endpoint &hellip; </p>",
+      "published": "2026-06-09T23:00:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "ff8b13e4d2f37b6fb1976f0a296c6055b89f563a",
+      "title": "Prabowo’s populist policies fuel Indonesia’s market ‘doom‑loop’ as rupiah, stocks plunge",
+      "link": "https://www.malaymail.com/news/money/2026/06/10/prabowos-populist-policies-fuel-indonesias-market-doomloop-as-rupiah-stocks-plunge/223092",
+      "summary": "Governance and policy uncertainty drive investors from IndonesiaRupiah is the world&rsquo;s worst-performing currency vs...",
+      "published": "2026-06-09T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "8c01d8da8833203d00d1bcd2854fa6a2306528bb",
+      "title": "Keeping children safe, even in court: Who are the victim liaison officers helping child victims and witnesses through legal proceedings?",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/10/draftholdable-until-june-9-let-me-be-your-friend-who-are-the-malaysian-judiciarys-victim-liaison-officers-helping-child-victims-and-witnesses-through-court/222281",
+      "summary": "PUTRAJAYA, June 10&nbsp;&mdash; Finding the courage to enter a courtroom is a lot to ask of a child, even more so to ask...",
+      "published": "2026-06-09T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "3f2c55e5b20f1da756c536e97b3a7170970f76c7",
+      "title": "When words fail: How anatomical dolls help child abuse victims find their voice in court",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/10/when-words-fail-how-anatomical-dolls-help-child-abuse-victims-find-their-voice-in-court/221692",
+      "summary": "PUTRAJAYA, June 10&nbsp;&mdash; For child witnesses, speaking about traumatic abuse experiences in a courtroom setting c...",
+      "published": "2026-06-09T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "9dc5a74348e6ecb2e7e8eeb8ed9611ac8adb243e",
+      "title": "Meet Shivaani Suppiah, the Malaysian on a mission to make pandan India’s next favourite flavour",
+      "link": "https://www.malaymail.com/news/life/2026/06/10/meet-shivaani-suppiah-the-malaysian-on-a-mission-to-make-pandan-indias-next-favourite-flavour/223095",
+      "summary": "KUALA LUMPUR, June 10&nbsp;&mdash; While Japan&rsquo;s matcha has become a staple in caf&eacute;s and bakeries across In...",
+      "published": "2026-06-09T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "daed90841d21e84bdff93a769ed7c58e022f8bce",
+      "title": "Accidental early‑pregnancy use of GLP‑1 drugs shows no major safety signal, study finds",
+      "link": "https://www.malaymail.com/news/life/2026/06/10/accidental-earlypregnancy-use-of-glp1-drugs-shows-no-major-safety-signal-study-finds/223099",
+      "summary": "NEW YORK, June 10 &mdash; Use of GLP-1 drugs for diabetes or obesity &zwnj;early in the first trimester of pregnancy, be...",
+      "published": "2026-06-09T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "bf6ff2abbd235310d5c2c48d87a71e9f5668ce38",
+      "title": "Killing the mood: Smartphones tied to global drop in birth rates, new studies find",
+      "link": "https://www.malaymail.com/news/life/2026/06/10/killing-the-mood-smartphones-tied-to-global-drop-in-birth-rates-new-studies-find/223140",
+      "summary": "WASHINGTON, June 10 &mdash; As governments around the world struggle with ways to reverse plunging birth rates, new US s...",
+      "published": "2026-06-09T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "86bdafc50e80bb7596badcedd65ac02a710b9e64",
+      "title": "Sources: SpaceX aims to launch orbital AI computing tests by late 2027 and has requested permission from regulators to launch up to 1M data-center satellites (Akash Sriram/Reuters)",
+      "link": "https://www.techmeme.com/260609/p42#a260609p42",
+      "summary": "<a href=\"https://www.reuters.com/business/media-telecom/spacex-aims-launch-orbital-ai-computing-tests-by-end-next-year-sources-say-2026-06-09/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260609/i42.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260609/p42#a260609p42\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Akash Sriram / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/business/media-telecom/spacex-aims-launch-orbital-ai-computing-tests-by-end-next-year-sources-say-2026-06-09/\">Sources: SpaceX aims to launch orbital AI computing tests by late 2027 and has requested permission from regulators to launch up to 1M data-center satellites</a></b></span>&nbsp; &mdash;&nbsp; SpaceX executives say the company is aiming to launch initial demonstrations of space-based artificial intelligence computing infrastructure &hellip; </p>",
+      "published": "2026-06-09T22:55:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "ce070faa6dd3f190c4fb757665f936fa40f748a5",
+      "title": "Heads up: Early Prime Day deal now live on AirPods Pro 3 down at $199 via Amazon",
+      "link": "https://9to5toys.com/2026/06/09/heads-up-holiday-pricing-now-live-on-airpods-pro-3-again-via-amazon/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/AirPods-Pro-3-deal-April-2026-01.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">This morning Amazon is giving folks another shot at holiday pricing on Apple’s latest AirPods Pro 3. Now back at <strong>20% off</strong> the list price, this is on par with one of the lowest prices we have tracked to date. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/06/09/heads-up-holiday-pricing-now-live-on-airpods-pro-3-again-via-amazon/#more-1211857\">more…</a>",
+      "published": "2026-06-09T22:09:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "a0a423b47edf8fd2bb2bd1bb42ede1f38279c2c1",
+      "title": "Super Micro aims to raise $7B through equity and equity-linked financing transactions to fund component purchases tied to AI orders; SMCI drops 6%+ after hours (Harshita Mary Varghese/Reuters)",
+      "link": "https://www.techmeme.com/260609/p41#a260609p41",
+      "summary": "<a href=\"https://www.reuters.com/legal/transactional/super-micro-computer-plans-raise-7-billion-equity-offerings-2026-06-09/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260609/i41.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260609/p41#a260609p41\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Harshita Mary Varghese / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/legal/transactional/super-micro-computer-plans-raise-7-billion-equity-offerings-2026-06-09/\">Super Micro aims to raise $7B through equity and equity-linked financing transactions to fund component purchases tied to AI orders; SMCI drops 6%+ after hours</a></b></span>&nbsp; &mdash;&nbsp; Super Micro Computer (SMCI.O) on Tuesday said it plans to raise $7 billion in a series of equity and equity-linked financing transactions &hellip; </p>",
+      "published": "2026-06-09T22:05:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "cf2b7a88a7bb309742b425d78ff82f632f70604a",
+      "title": "Everything announced at today’s Nintendo Direct: 50-mins. of upcoming Switch 2 games",
+      "link": "https://9to5toys.com/2026/06/09/everything-announced-today-nintendo-direct/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/06/Nintendo-Direct-June-2026.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Here we go! It’s a big day for fans of the Mushroom Kingdom and Hylian heroes everywhere as Nintendo is set to livestream the big summer Nintendo Direct we have all been waiting for, and it all goes live this morning. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/06/09/everything-announced-today-nintendo-direct/#more-1213400\">more…</a>",
+      "published": "2026-06-09T22:01:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "f5f92e7b927eb8dd536050106c753b725e6df06b",
+      "title": "Grab JBL’s summer-ready Bluetooth speakers from $40 at Amazon right now",
+      "link": "https://9to5toys.com/2026/06/09/jbl-boombox-4-portable-waterproof-speaker-450-low-more/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/09/JBL-Boombox-4-1.webp?w=1200\" /></div><p class=\"wp-block-paragraph\"><strong>Update: </strong>The deal on the JBL Boombox 4 has jumped up in price out of nowhere, but there are other models starting from $40 below.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Amazon is currently offering the latest JBL Boombox 4 Portable Waterproof Speaker for <strong>$449.99 shipped</strong> in the Squad colorway. It’s dropping from a full price of $550, which we’ve seen repeated three previous times. You’re getting another chance to score $100 savings with the deal here, letting you bring one of the brand’s most advanced portable speakers to your summer adventures at the all-time lowest price we have tracked. You can also find a number of other JBL portable speakers rounded up for you below. </p>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/06/09/jbl-boombox-4-portable-waterproof-speaker-450-low-more/#more-1213562\">more…</a>",
+      "published": "2026-06-09T21:51:38+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
     {
       "id": "94fadde709b309d18e1ff5f520abd1979e61272f",
       "title": "US striking Iran in response to downing of helicopter, military says",
@@ -50,6 +158,15 @@
       "category": "world"
     },
     {
+      "id": "de20ca02d5dca0fd8aeb3891b74558b8cf0a46e7",
+      "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
+      "link": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
+      "summary": "Starlink, SpaceX's top moneymaker, also raised service prices by $5 to $10.",
+      "published": "2026-06-09T21:05:39+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
       "id": "6a5d55f6745585bd8f3e66c9ee0fc864f9a5af80",
       "title": "GM joins race to build batteries for AI data centers and the grid",
       "link": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
@@ -68,6 +185,15 @@
       "category": "tech"
     },
     {
+      "id": "d05ad3aa14ab1b5d93cb4259cccd0ae6ccaefb39",
+      "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+      "link": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+      "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
+      "published": "2026-06-09T20:56:52+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
       "id": "bb4e2343091e4e4836b8daf3a2d4bef1f19ce279",
       "title": "Analysis: Trump and his sons profited $2.3B+ from four crypto ventures including $TRUMP since January 2025, while other investors in those projects lost ~$2.3B (Reuters)",
       "link": "https://www.techmeme.com/260609/p40#a260609p40",
@@ -77,8 +203,8 @@
       "category": "tech"
     },
     {
-      "id": "b2fcb84f583a5994ee2a91044d8bffe5b26ddd4f",
-      "title": "Hey Siri, here’s what I actually want from AI",
+      "id": "2c2001b68a374251ecc8de46a580305733143439",
+      "title": "Hey, Siri, here’s what I actually want from AI",
       "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
       "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
       "published": "2026-06-09T20:50:17+00:00",
@@ -113,12 +239,30 @@
       "category": "tech"
     },
     {
-      "id": "9271dcb85bd5f0bcd39f85d62132e6b1ee4c71b5",
-      "title": "Anthropic says Fable 5 has invisible safeguards that use prompt modification, steering vectors, or PEFT to limit its effectiveness for frontier LLM development (Matthias Bastian/The Decoder)",
+      "id": "ea119dfe0ce87444014c4558be97695b51bfe2f8",
+      "title": "Three key vital signs make up the \"urban pulse\" of a city",
+      "link": "https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/",
+      "summary": "Cities are dynamic, not static grids, and urbanization is a \"spiky,\" cyclical, and asynchronous process.",
+      "published": "2026-06-09T20:35:22+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "472792f7c21228312a4390f89f2b7c591eea6dff",
+      "title": "Anthropic says Fable 5 has invisible safeguards that use prompt modification, steering vectors, or PEFT to limit its effectiveness for building frontier LLMs (Matthias Bastian/The Decoder)",
       "link": "https://www.techmeme.com/260609/p38#a260609p38",
-      "summary": "<a href=\"https://the-decoder.com/anthropic-releases-claude-fable-5-and-mythos-5-with-major-gains-in-coding-and-science/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260609/i38.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260609/p38#a260609p38\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Matthias Bastian / <a href=\"https://the-decoder.com/\">The Decoder</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://the-decoder.com/anthropic-releases-claude-fable-5-and-mythos-5-with-major-gains-in-coding-and-science/\">Anthropic says Fable 5 has invisible safeguards that use prompt modification, steering vectors, or PEFT to limit its effectiveness for frontier LLM development</a></b></span>&nbsp; &mdash;&nbsp; Key Points &hellip; Ask about this article...&nbsp; Both models share the same base model.&nbsp; Fable 5 ships with conservative safety guardrails for general use.</p>",
+      "summary": "<a href=\"https://the-decoder.com/anthropic-releases-claude-fable-5-and-mythos-5-with-major-gains-in-coding-and-science/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260609/i38.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260609/p38#a260609p38\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Matthias Bastian / <a href=\"https://the-decoder.com/\">The Decoder</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://the-decoder.com/anthropic-releases-claude-fable-5-and-mythos-5-with-major-gains-in-coding-and-science/\">Anthropic says Fable 5 has invisible safeguards that use prompt modification, steering vectors, or PEFT to limit its effectiveness for building frontier LLMs</a></b></span>&nbsp; &mdash;&nbsp; Key Points &hellip; Ask about this article...&nbsp; Both models share the same base model.&nbsp; Fable 5 ships with conservative safety guardrails for general use.</p>",
       "published": "2026-06-09T20:30:00+00:00",
       "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "125e8b51f41c8b65d2deaf0ae8b0be8c50e16ba7",
+      "title": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
+      "link": "https://arstechnica.com/science/2026/06/__trashed-19/",
+      "summary": "Five peer-reviewed papers update the design and model its expected output.",
+      "published": "2026-06-09T20:25:56+00:00",
+      "source": "Ars Technica - All content",
       "category": "tech"
     },
     {
@@ -131,8 +275,8 @@
       "category": "tech"
     },
     {
-      "id": "e07d8f2462bf0a968f0a2da1660f6635c589b0ed",
-      "title": "Netflix trying to \"poison regulators\" about WBD merger, Paramount lawyer claims",
+      "id": "3767584e71e036984410de6e8b3d546c55b2502c",
+      "title": "Paramount accuses Netflix of \"scorched-earth campaign\" against WBD merger",
       "link": "https://arstechnica.com/tech-policy/2026/06/netflix-trying-to-poison-regulators-about-wbd-merger-paramount-lawyer-claims/",
       "summary": "Netflix's response: \"Absurd.\"",
       "published": "2026-06-09T20:15:45+00:00",
@@ -149,10 +293,10 @@
       "category": "world"
     },
     {
-      "id": "6fe36bfdd65481cc4dd1536785ab14c1e699dfcd",
-      "title": "Hands-on with Claude Fable 5: impressive results with complex projects, including a data analysis tool built in just 9.5 hours and an interactive isochrone map (Ethan Mollick/One Useful Thing)",
+      "id": "59bbd53ed6c7fed0b9eab3b35c832d77bee0fc43",
+      "title": "Claude Fable 5 hands-on: impressive results working on complex projects, like building an interactive isochrone map or a data analysis tool in just 9.5 hours (Ethan Mollick/One Useful Thing)",
       "link": "https://www.techmeme.com/260609/p37#a260609p37",
-      "summary": "<a href=\"https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260609/i37.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260609/p37#a260609p37\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ethan Mollick / <a href=\"https://www.oneusefulthing.org/\">One Useful Thing</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos\">Hands-on with Claude Fable 5: impressive results with complex projects, including a data analysis tool built in just 9.5 hours and an interactive isochrone map</a></b></span>&nbsp; &mdash;&nbsp; Claude Fable represents another big jump in AI&nbsp; &mdash;&nbsp; I had early access to the first Mythos-class AI model being released to the public, Claude 5 Fable.</p>",
+      "summary": "<a href=\"https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260609/i37.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260609/p37#a260609p37\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ethan Mollick / <a href=\"https://www.oneusefulthing.org/\">One Useful Thing</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos\">Claude Fable 5 hands-on: impressive results working on complex projects, like building an interactive isochrone map or a data analysis tool in just 9.5 hours</a></b></span>&nbsp; &mdash;&nbsp; Claude Fable represents another big jump in AI&nbsp; &mdash;&nbsp; I had early access to the first Mythos-class AI model being released to the public, Claude 5 Fable.</p>",
       "published": "2026-06-09T20:10:04+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -338,10 +482,10 @@
       "category": "world"
     },
     {
-      "id": "da96601767aa30ce865a085eb110ffa12711e1e3",
-      "title": "Anthropic says internal and external red team tests of Fable 5 found no universal jailbreaks; it will keep user traffic for 30 days, aligning with Trump's AI EO (Derek B. Johnson/CyberScoop)",
+      "id": "e930233eb96233c6cfdd9b2ea76bfe512c7acf1f",
+      "title": "Anthropic says red team tests of Fable 5 found no universal jailbreaks, and it will keep first- and third-party user traffic on Mythos-class models for 30 days (Derek B. Johnson/CyberScoop)",
       "link": "https://www.techmeme.com/260609/p32#a260609p32",
-      "summary": "<a href=\"https://cyberscoop.com/anthropic-claude-fable-5-release-mythos-guardrails/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260609/i32.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260609/p32#a260609p32\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Derek B. Johnson / <a href=\"https://cyberscoop.com/\">CyberScoop</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://cyberscoop.com/anthropic-claude-fable-5-release-mythos-guardrails/\">Anthropic says internal and external red team tests of Fable 5 found no universal jailbreaks; it will keep user traffic for 30 days, aligning with Trump's AI EO</a></b></span>&nbsp; &mdash;&nbsp; Claude Fable 5 offers Mythos-level performance for most tasks with safeguards on sensitive topics.&nbsp; Anthropic claims testing found no universal jailbreaks.</p>",
+      "summary": "<a href=\"https://cyberscoop.com/anthropic-claude-fable-5-release-mythos-guardrails/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260609/i32.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260609/p32#a260609p32\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Derek B. Johnson / <a href=\"https://cyberscoop.com/\">CyberScoop</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://cyberscoop.com/anthropic-claude-fable-5-release-mythos-guardrails/\">Anthropic says red team tests of Fable 5 found no universal jailbreaks, and it will keep first- and third-party user traffic on Mythos-class models for 30 days</a></b></span>&nbsp; &mdash;&nbsp; Claude Fable 5 offers Mythos-level performance for most tasks with safeguards on sensitive topics.&nbsp; Anthropic claims testing found no universal jailbreaks.</p>",
       "published": "2026-06-09T17:50:06+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -383,10 +527,10 @@
       "category": "tech"
     },
     {
-      "id": "21e91d120ee443057d5cc74f30d3cad23642660f",
-      "title": "Anthropic says Fable 5 uses conservative safety classifiers that trigger a fallback to Claude Opus 4.8 in ~5% of sessions, in areas like cybersecurity (Anthropic)",
+      "id": "fc3792abf40350155cbe02a895e721b36bf4b8ae",
+      "title": "Anthropic says Claude Fable 5 uses conservative safety classifiers that trigger a fallback to Claude Opus 4.8 in <5% of sessions, in areas like cybersecurity (Anthropic)",
       "link": "https://www.techmeme.com/260609/p31#a260609p31",
-      "summary": "<a href=\"https://www.anthropic.com/news/claude-fable-5-mythos-5\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260609/i31.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260609/p31#a260609p31\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.anthropic.com/\">Anthropic</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.anthropic.com/news/claude-fable-5-mythos-5\">Anthropic says Fable 5 uses conservative safety classifiers that trigger a fallback to Claude Opus 4.8 in ~5% of sessions, in areas like cybersecurity</a></b></span>&nbsp; &mdash;&nbsp; Today we're launching Claude Fable 5: a Mythos-class1 model that we've made safe for general use.&nbsp; &mdash;&nbsp; Fable 5's capabilities exceed &hellip; </p>",
+      "summary": "<a href=\"https://www.anthropic.com/news/claude-fable-5-mythos-5\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260609/i31.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260609/p31#a260609p31\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.anthropic.com/\">Anthropic</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.anthropic.com/news/claude-fable-5-mythos-5\">Anthropic says Claude Fable 5 uses conservative safety classifiers that trigger a fallback to Claude Opus 4.8 in &lt;5% of sessions, in areas like cybersecurity</a></b></span>&nbsp; &mdash;&nbsp; Today we're launching Claude Fable 5: a Mythos-class1 model that we've made safe for general use.</p>",
       "published": "2026-06-09T17:35:02+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -410,10 +554,10 @@
       "category": "deals"
     },
     {
-      "id": "896ebc53780baba2f111548d9c76ccdc79a2fcae",
-      "title": "Anthropic prices both Claude Fable 5 and Mythos 5 at $10 per 1M input and $50 per 1M output tokens, less than half the price of Claude Mythos Preview (David Gewirtz/ZDNET)",
+      "id": "cb1bf0bafe78d10b406c316ab161806e491691e8",
+      "title": "Anthropic prices both Claude Fable 5 and Mythos 5 at $10 per 1M input tokens and $50 per 1M output tokens, less than half the price of Claude Mythos Preview (David Gewirtz/ZDNET)",
       "link": "https://www.techmeme.com/260609/p29#a260609p29",
-      "summary": "<a href=\"https://www.zdnet.com/article/anthropiclaude-fable-5-nerfed-mythos-with-guardrails/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260609/i29.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260609/p29#a260609p29\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> David Gewirtz / <a href=\"https://www.zdnet.com/\">ZDNET</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.zdnet.com/article/anthropiclaude-fable-5-nerfed-mythos-with-guardrails/\">Anthropic prices both Claude Fable 5 and Mythos 5 at $10 per 1M input and $50 per 1M output tokens, less than half the price of Claude Mythos Preview</a></b></span>&nbsp; &mdash;&nbsp; ZDNET's key takeaways&nbsp; &mdash; Anthropic is releasing Claude Fable 5 for general users.&nbsp; &mdash; Fable 5 uses Mythos-class power with safety controls.</p>",
+      "summary": "<a href=\"https://www.zdnet.com/article/anthropiclaude-fable-5-nerfed-mythos-with-guardrails/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260609/i29.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260609/p29#a260609p29\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> David Gewirtz / <a href=\"https://www.zdnet.com/\">ZDNET</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.zdnet.com/article/anthropiclaude-fable-5-nerfed-mythos-with-guardrails/\">Anthropic prices both Claude Fable 5 and Mythos 5 at $10 per 1M input tokens and $50 per 1M output tokens, less than half the price of Claude Mythos Preview</a></b></span>&nbsp; &mdash;&nbsp; ZDNET's key takeaways&nbsp; &mdash; Anthropic is releasing Claude Fable 5 for general users.&nbsp; &mdash; Fable 5 uses Mythos-class power with safety controls.</p>",
       "published": "2026-06-09T17:15:02+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -425,15 +569,6 @@
       "summary": "It took a few years, but Apple finally made its AI look useful. Now millions of iPhone users in Europe are being told they won't be getting Siri AI anytime soon, if ever - and Apple wants them to blame the EU. Apple says its new AI-powered Siri will not launch on iPhones and iPads [&#8230;]",
       "published": "2026-06-09T17:13:14+00:00",
       "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "965a83b0577fa0f49efa49e937ae06f8dbe8c2be",
-      "title": "Anthropic releases Claude Fable 5, a \"safe\" Mythos-class model it says can't be used for cyberattacks, to the public, and Claude Mythos 5 to trusted orgs (Wired)",
-      "link": "https://www.techmeme.com/260609/p28#a260609p28",
-      "summary": "<a href=\"https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260609/i28.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260609/p28#a260609p28\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.wired.com/\">Wired</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/\">Anthropic releases Claude Fable 5, a &ldquo;safe&rdquo; Mythos-class model it says can't be used for cyberattacks, to the public, and Claude Mythos 5 to trusted orgs</a></b></span>&nbsp; &mdash;&nbsp; Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can't be used for cyberattacks.</p>",
-      "published": "2026-06-09T17:12:45+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -453,15 +588,6 @@
       "published": "2026-06-09T17:03:24+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "9d6f0553b7e912d1d746e3a009699d56634277cc",
-      "title": "Apple updates its guidelines to say it may remove apps in saturated categories from the App Store if they're not \"updated, improved, or attracting customers\" (Sarah Perez/TechCrunch)",
-      "link": "https://www.techmeme.com/260609/p27#a260609p27",
-      "summary": "<a href=\"https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260609/i27.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260609/p27#a260609p27\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sarah Perez / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/\">Apple updates its guidelines to say it may remove apps in saturated categories from the App Store if they're not &ldquo;updated, improved, or attracting customers&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; Apple is warning developers that some of their apps may not be able to call the App Store home forever.</p>",
-      "published": "2026-06-09T17:00:14+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "06e4598c94509bb8b684f8f0d18a9dc4d41a91a3",
@@ -572,24 +698,6 @@
       "category": "tech"
     },
     {
-      "id": "c18b5b2d5e78650cd8f25f81f14beb4dbbbef2b6",
-      "title": "Only have USB-C? This HDMI cable gets your display on the big screen for just $6.50 (Save 48%)",
-      "link": "https://9to5toys.com/2026/06/09/jsaux-4k-usb-c-to-hdmi-cable/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/06/JSAUX-4K-USB-C-to-HDMI-Cable.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">JSAUX 4K USB-C to HDMI Cable</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $6.50 (Reg. $12.50)</h3>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A white line on a red background\" class=\"wp-image-1213488 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/06/JSAUX-4K-USB-C-to-HDMI-Cable-chart.png?w=968\" width=\"968\" /></figure><div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\"></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p><span>If all you have to work with is USB-C, a cable like this makes connecting to monitors and TVs a breeze. You’ll find Type-C on one side and HDMI on the other. This particular cord can hit 4K 60Hz, 2K 144Hz, and 1080p 240Hz.</span></p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/06/09/jsaux-4k-usb-c-to-hdmi-cable/#more-1213485\">more…</a>",
-      "published": "2026-06-09T16:24:32+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "75bbc9f5df0dd2366031f7e384da03affa157689",
-      "title": "LISEN’s all-metal iPad stand can be yours for $9.50 Prime shipped (32% off)",
-      "link": "https://9to5toys.com/2026/06/09/lisen-all-metal-ipad-stand/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/06/LISEN-All-Metal-iPad-Stand.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">LISEN All-Metal iPad Stand</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $9.50 (Reg. $14)</h3>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A line drawing of a heartbeat\" class=\"wp-image-1213484 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/06/LISEN-All-Metal-iPad-Stand-chart.png?w=968\" width=\"968\" /></figure><div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\"></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p><span>A lot of tablet stands in this price range lean into plastic builds, but not this one. LISEN touts an “all-metal” construction, giving you a more premium look and feel at a price that won’t break the bank.</span></p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/06/09/lisen-all-metal-ipad-stand/#more-1213482\">more…</a>",
-      "published": "2026-06-09T16:23:04+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "474d5c64e8c18b03c3d06f3fbc09c7b030a6b908",
       "title": "Apple’s foldable iPhone could be just around the corner",
       "link": "https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/",
@@ -597,24 +705,6 @@
       "published": "2026-06-09T16:22:56+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "c8c518c94eabc122dc81e34352560ad5bff66075",
-      "title": "San Francisco voters reject the Overpaid CEO Act, a union-backed ballot measure to raise taxes on large businesses where the CEO earns 100x+ the median employee (Bloomberg)",
-      "link": "https://www.techmeme.com/260609/p26#a260609p26",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-06-09/san-francisco-s-overpaid-ceo-tax-quashed-with-billionaire-help\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260609/i26.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260609/p26#a260609p26\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-06-09/san-francisco-s-overpaid-ceo-tax-quashed-with-billionaire-help\">San Francisco voters reject the Overpaid CEO Act, a union-backed ballot measure to raise taxes on large businesses where the CEO earns 100x+ the median employee</a></b></span>&nbsp; &mdash;&nbsp; San Francisco voters rejected a union-backed ballot measure to raise taxes on large corporations doing business in the city &hellip; </p>",
-      "published": "2026-06-09T16:20:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "58d04a671b9f1b5c09dd8e02511ede1254c0145f",
-      "title": "Zip-up design sets this golf polo apart from many, and it’s only $15 right now (44% off)",
-      "link": "https://9to5toys.com/2026/06/09/alex-vando-zip-up-golf-polo-shirt/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/06/Alex-Vando-Zip-Up-Golf-Polo-Shirt.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">Alex Vando Zip-Up Golf Polo Shirt</h2>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $15 (Reg. $27)</h3>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n\n\n\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\"><figure class=\"wp-block-media-text__media\"><img alt=\"A line drawn on a red background\" class=\"wp-image-1213478 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/06/Alex-Vando-Zip-Up-Golf-Polo-Shirt-chart.png?w=968\" width=\"968\" /></figure><div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\"></p>\n\n\n\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n\n\n\n<p><span>Outside of patterns, a lot of polo shirts look the same. This style differentiates itself with a zipper instead of buttons. I think it offers up a more modern look and dig that you can dial things in right where you want them.</span></p>\n</div></div>\n\n\n\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>\n\n\n\n <a class=\"more-link\" href=\"https://9to5toys.com/2026/06/09/alex-vando-zip-up-golf-polo-shirt/#more-1213475\">more…</a>",
-      "published": "2026-06-09T16:16:46+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "3b58a95ae16f8526e0c9947e56f1b5ded3147b4c",
@@ -959,51 +1049,6 @@
       "category": "deals"
     },
     {
-      "id": "f831c16717615f2d8e54cff339b3c5217616c2f3",
-      "title": "Zahid: BN to go solo in Negeri Sembilan after Pakatan lays claim to all 36 seats",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/09/zahid-bn-to-go-solo-in-negeri-sembilan-after-pakatan-lays-claim-to-all-36-seats/223149",
-      "summary": "KUALA LUMPUR, June 9 &mdash; Barisan Nasional (BN) will contest the upcoming Negeri Sembilan state election solo, said i...",
-      "published": "2026-06-09T11:17:20+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "1dfc977e1f6aa9e896963480e39dda0356918158",
-      "title": "Ringgit among region’s top‑performing currencies on strong investment inflows, says Amir Hamzah",
-      "link": "https://www.malaymail.com/news/money/2026/06/09/ringgit-among-regions-topperforming-currencies-on-strong-investment-inflows-says-amir-hamzah/223153",
-      "summary": "KUALA LUMPUR, June 9 &mdash; The ringgit remains among the best-performing currencies in the region this year, supported...",
-      "published": "2026-06-09T11:10:20+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "d4b28f7b4a669d3d8f76ea41f8e3bf23eec2da71",
-      "title": "Bersatu excos can stay in Kedah govt if they back PAS-led administration, says MB",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/09/bersatu-excos-can-stay-in-kedah-govt-if-they-back-pas-led-administration-says-mb/223152",
-      "summary": "ALOR SETAR, June 9 &mdash; Bersatu state executive councillors can remain in the Kedah government despite PAS ending pol...",
-      "published": "2026-06-09T11:02:22+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "df49599156b4f889edf684677aadbbfe40487bb9",
-      "title": "Tanco hits another limit-down, erasing nearly RM6b in market value",
-      "link": "https://www.malaymail.com/news/money/2026/06/09/tanco-hits-another-limit-down-erasing-nearly-rm6b-in-market-value/223151",
-      "summary": "KUALA LUMPUR, June 9 &mdash; Tanco Holdings Bhd slid sharply again today, extending a four‑day sell‑off that has erased...",
-      "published": "2026-06-09T10:58:26+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "db216a970c4361f619fe86cb7ea2adee6dbaaf4e",
-      "title": "Ringgit rises versus US dollar, most regional units as tensions ease in West Asia",
-      "link": "https://www.malaymail.com/news/money/2026/06/09/ringgit-rises-versus-us-dollar-most-regional-units-as-tensions-ease-in-west-asia/223150",
-      "summary": "KUALA LUMPUR, June 9 &mdash; The ringgit closed higher against the US dollar and was mostly stronger against regional cu...",
-      "published": "2026-06-09T10:44:17+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "1d5fd68466370a6a2d59b7b77cbc1eebe2724206",
       "title": "Ariana Grande and Ethan Slater split after three years",
       "link": "https://www.bbc.com/news/articles/cn0ve7952jqo?at_medium=RSS&at_campaign=rss",
@@ -1011,15 +1056,6 @@
       "published": "2026-06-09T10:37:43+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "91e1062348158cc2f7ce1906e00b51d3d0b64636",
-      "title": "Bursa Malaysia slips on cautious trade amid US inflation watch, Israel‑Iran uncertainty",
-      "link": "https://www.malaymail.com/news/money/2026/06/09/bursa-malaysia-slips-on-cautious-trade-amid-us-inflation-watch-israeliran-uncertainty/223148",
-      "summary": "KUALA LUMPUR, June 9 &mdash; Bursa Malaysia ended lower today as investors adopted a cautious stance amid external uncer...",
-      "published": "2026-06-09T10:29:40+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "62bc3d14e5d1184eea79293bdb8141c42a33f822",
@@ -1148,15 +1184,6 @@
       "category": "deals"
     },
     {
-      "id": "32d428ace150f5296f27fff15f96f42e87edfc6b",
-      "title": "Fluido",
-      "link": "https://www.producthunt.com/products/fluido",
-      "summary": "<p>\n            Turn any Figma shape into liquid metal in one click\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fluido?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1167185?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-09T06:20:18+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "f9b0d9d8dfc6cd1edd64bce13e926aec8f47be1f",
       "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
       "link": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
@@ -1247,6 +1274,15 @@
       "category": "tech"
     },
     {
+      "id": "6aaf746566f4aae1e25df9e2dda20229489d014d",
+      "title": "AgentOS",
+      "link": "https://www.producthunt.com/products/agentos-run-agents-like-a-company",
+      "summary": "<p>\n            Manage AI agents, tasks, workspaces from one control layer\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentos-run-agents-like-a-company?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1166976?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-08T21:45:38+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "d5ef33eedfdc692ba5bf1750ac1eae8218cbcc04",
       "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
       "link": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
@@ -1265,15 +1301,6 @@
       "category": "tech"
     },
     {
-      "id": "8559dfeec71c5250ac2b1dbcf2f9ea83211bd46f",
-      "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
-      "link": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
-      "summary": "WhatsApp disrupted spear phishing attempts, asks court to hold NSO in contempt.",
-      "published": "2026-06-08T20:26:14+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
       "id": "43825e1aaebf4b675613929ccdc5767513fc29e1",
       "title": "Uiverse Design",
       "link": "https://www.producthunt.com/products/uiverse-io",
@@ -1281,15 +1308,6 @@
       "published": "2026-06-08T20:01:02+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "e082500e580c21e7d2e0b3ad12f371a5a952e94b",
-      "title": "The fastest humans in the galaxy just got a spiffy patch to prove it",
-      "link": "https://arstechnica.com/space/2026/06/artemis-ii-crew-flew-fast-earned-new-patch-astronauts-mach-39-emblem/",
-      "summary": "\"It is actually challenging how you measure [Mach] from space.\"",
-      "published": "2026-06-08T19:40:05+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
     },
     {
       "id": "02f0117e8e918e53a61e9575fdd42d316d7ea6e3",
@@ -1301,29 +1319,20 @@
       "category": "events"
     },
     {
-      "id": "b6f30bd8cc878d6aba55a1e21e28c40902bf34fb",
-      "title": "Say hi to \"Siri AI\"—Apple announces new, more \"conversational\" voice assistant",
-      "link": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
-      "summary": "New features coming this fall alongside two-tiered, Google-powered AI model overhaul.",
-      "published": "2026-06-08T19:30:05+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "47c14b68f68d4549ff588354c78153e7a5835a5f",
-      "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
-      "link": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
-      "summary": "NotebookLM is getting a big upgrade, but it's only for AI Ultra and enterprise accounts right now.",
-      "published": "2026-06-08T19:00:30+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
       "id": "452f05927f842ab2f6e0e4c6f78479349f663059",
       "title": "NudgeFile",
       "link": "https://www.producthunt.com/products/nudgefile",
       "summary": "<p>\n            Automatically organize, rename, and manage files with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nudgefile?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1166698?app_id=339\">Link</a>\n          </p>",
       "published": "2026-06-08T15:31:56+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "e3f5eb8f893d52db1be543b47e39759ae4d4917e",
+      "title": "OrchestraML",
+      "link": "https://www.producthunt.com/products/orchestraml",
+      "summary": "<p>\n            From English prompt to deployed ML model with human approval\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/orchestraml?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1166598?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-08T13:12:55+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1382,11 +1391,20 @@
       "category": "events"
     },
     {
-      "id": "c58f6c4cca196d0e7c0a5fcdd8a042d33b21cacc",
-      "title": "TrakMac",
-      "link": "https://www.producthunt.com/products/trakmac",
-      "summary": "<p>\n            Voice-first macro tracking for fitness enthusiasts\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/trakmac?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1164683?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-06T00:12:50+00:00",
+      "id": "e909f9e3ebf0c1542585581ca7b32db787476457",
+      "title": "agmsg",
+      "link": "https://www.producthunt.com/products/agmsg",
+      "summary": "<p>\n            Stop copy-pasting between your AI coding agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agmsg?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1165435?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-07T03:17:24+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "b8e0623e1c7fac13338c955a8340f81604695c60",
+      "title": "Signal Recorder SR-7",
+      "link": "https://www.producthunt.com/products/signal-recorder-sr-7",
+      "summary": "<p>\n            On-device voice recorder that transcribes + exports Markdown\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/signal-recorder-sr-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1165382?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-07T00:20:50+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1400,11 +1418,11 @@
       "category": "events"
     },
     {
-      "id": "529d4ee359cb4f0ff7ff070d7a13ad415589d308",
-      "title": "Reve 2.0",
-      "link": "https://www.producthunt.com/products/reve-2-0",
-      "summary": "<p>\n            Generate and edit 4K images through layout-based control\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/reve-2-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1164399?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-05T15:43:07+00:00",
+      "id": "55c904a6048185617654958af45670de56acb9a2",
+      "title": "BooBar",
+      "link": "https://www.producthunt.com/products/boobar",
+      "summary": "<p>\n            AI Dynamic Island for your Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/boobar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1164142?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-05T09:36:52+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1421,17 +1439,8 @@
       "id": "b272874940258658e5684aabe19d0adad32557e5",
       "title": "VC Boom",
       "link": "https://www.producthunt.com/products/vcboom",
-      "summary": "<p>\n            Score your deck, meet investors who fit, raise more. Boom!\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vcboom?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1163508?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Score your deck, meet investors who fit, and raise more\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vcboom?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1163508?app_id=339\">Link</a>\n          </p>",
       "published": "2026-06-04T15:28:52+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "0c45526e0f004c364d95cccaa9b3aad87bf2a659",
-      "title": "ChocolateBar",
-      "link": "https://www.producthunt.com/products/chocolatebar",
-      "summary": "<p>\n            Add a row under your menu bar for hidden icons\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/chocolatebar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1162287?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-03T09:07:06+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1459,15 +1468,6 @@
       "link": "https://www.producthunt.com/products/prostir-zvuku",
       "summary": "<p>\n            A spatial nature sound mixer for Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/prostir-zvuku?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1150943?app_id=339\">Link</a>\n          </p>",
       "published": "2026-05-19T16:08:24+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "45794eca231ee37e1f6ee4d481d2bd25abeb14c3",
-      "title": "Overly",
-      "link": "https://www.producthunt.com/products/overly-smart-study-layer",
-      "summary": "<p>\n            Search and ask questions inside lecture videos\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/overly-smart-study-layer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147693?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-15T12:47:57+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
