@@ -1,17 +1,377 @@
 {
-  "generatedAt": "2026-06-12T02:53:15.392258+00:00",
+  "generatedAt": "2026-06-12T07:17:20.086694+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
-      "id": "d33998bbfe8e6eac6c8eb618fdda7c248c085517",
-      "title": "Petaling Jaya MP Lee Chean Chung quits PKR leadership, says party ‘no longer’ what it was",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/12/petaling-jaya-mp-lee-chean-chung-quits-pkr-leadership-says-party-no-longer-what-it-was/223461",
-      "summary": "KUALA LUMPUR, June 12 &mdash; Petaling Jaya MP Lee Chean Chung has stepped down from PKR&rsquo;s central leadership coun...",
-      "published": "2026-06-12T02:49:15+00:00",
+      "id": "cf6ae259f817369e78d277252965b8b2a96bd540",
+      "title": "Why Johor votes first: Election Commission cites Negeri Sembilan’s surprise dissolution",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/12/why-johor-votes-first-election-commission-cites-negeri-sembilans-surprise-dissolution/223497",
+      "summary": "PUTRAJAYA, June 12 &mdash; Logistical demands and preparations for election workers were among the main reasons Johor an...",
+      "published": "2026-06-12T07:10:30+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
+    },
+    {
+      "id": "1469049feb378baf61157c5d68c90b41a7394588",
+      "title": "Siri won’t be your AI girlfriend",
+      "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "summary": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others. \"As you may know, if you use many of the existing [&#8230;]",
+      "published": "2026-06-12T07:00:31+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "29136d577f2cab37c95fcc495c7e70fa8841243c",
+      "title": "Labourer charged with robbing Razif Sidek at knifepoint in TTDI home, faces 14-year jail term and whipping",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/12/labourer-charged-with-robbing-razif-sidek-at-knifepoint-in-ttdi-home-faces-14-year-jail-term-and-whipping/223494",
+      "summary": "KUALA LUMPUR, June 12 &mdash; A Rohingya labourer pleaded not guilty in the Sessions Court here today to robbing nationa...",
+      "published": "2026-06-12T06:54:28+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "cd860013d5a941a19adc7df6bb06d333843b409f",
+      "title": "Dell Launches Two AI-Powered Webcams With Gesture Controls",
+      "link": "https://www.lowyat.net/2026/395684/dell-ai-powered-webcams-gesture-controls/",
+      "summary": "<p>Following the launch of several new PCs, Dell has also unveiled two new AI-powered webcams: the Dell Pro 5 Webcam 2K and the Dell Pro 7 Webcam 4K. While both models are primarily aimed at business users, The company says their AI-driven features can help users look more professional during video calls, regardless of their [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/395684/dell-ai-powered-webcams-gesture-controls/\">Dell Launches Two AI-Powered Webcams With Gesture Controls</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-06-12T06:53:38+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "c27a56e213902071e1d04203f71771118f5e5e29",
+      "title": "Keep",
+      "link": "https://www.producthunt.com/products/keep-8",
+      "summary": "<p>\n            Full-screen 3D clock scenes for your iPhone or Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/keep-8?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169858?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-12T06:45:17+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "87e2a730cd83d9b138ba375fc089d758965685e2",
+      "title": "M. Nasir files RM5m suit against MyTeksi over drinks allegedly marketed under his name without consent",
+      "link": "https://www.malaymail.com/news/showbiz/2026/06/12/m-nasir-files-rm5m-suit-against-myteksi-over-drinks-allegedly-marketed-under-his-name-without-consent/223493",
+      "summary": "KUALA LUMPUR, June 12 &mdash; Veteran singer-songwriter M. Nasir has filed a lawsuit against Grab-owned MyTeksi Sdn Bhd,...",
+      "published": "2026-06-12T06:43:46+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "cddfa1a850ffaa5a1b71a13258a08a09cca2ea18",
+      "title": "A fatal crash, a TikTok livestream and a ‘pistol’: How sharp-eyed viewers helped Kedah police arrest two men",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/12/a-fatal-crash-a-tiktok-livestream-and-a-pistol-how-sharp-eyed-viewers-helped-kedah-police-arrest-two-men/223491",
+      "summary": "SUNGAI PETANI, June 12 &mdash; A TikTok livestream of a fatal crash took a dramatic turn yesterday when eagle-eyed viewe...",
+      "published": "2026-06-12T06:29:08+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "4b3be3d411dd908ac4f4e08affe26257c8379998",
+      "title": "Qursor",
+      "link": "https://www.producthunt.com/products/qursor",
+      "summary": "<p>\n            Point at any UI to send exact context to your AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/qursor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169842?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-12T06:12:20+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "b9aa133b7961e84b85beafde473108931464e9ea",
+      "title": "How Chinese manufacturers are dominating the humanoid robot supply chain, even as the industry struggles to find a purpose for such robots (New York Times)",
+      "link": "https://www.techmeme.com/260612/p4#a260612p4",
+      "summary": "<a href=\"https://www.nytimes.com/2026/06/11/business/china-robots-humanoid.html?unlocked_article_code=1.pVA.02VR.HGFQn7T5p-wq&amp;smid=nytcore-ios-share\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260612/i4.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260612/p4#a260612p4\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.nytimes.com/\">New York Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nytimes.com/2026/06/11/business/china-robots-humanoid.html?unlocked_article_code=1.pVA.02VR.HGFQn7T5p-wq&amp;smid=nytcore-ios-share\">How Chinese manufacturers are dominating the humanoid robot supply chain, even as the industry struggles to find a purpose for such robots</a></b></span>&nbsp; &mdash;&nbsp; China's lead in humanoid robots was evident at last month's Humanoids Summit, a robotics conference in Tokyo.Videos by Qilai Shen and Hiroko Masuike</p>",
+      "published": "2026-06-12T06:05:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "0152a2c61ce66fb7bb52240c4580f08033e84c48",
+      "title": "MyDigital ID Kiosks Nationwide To Get Facial Biometric Verification Upgrade",
+      "link": "https://www.lowyat.net/2026/395678/mydigital-id-kiosks-facial-biometric-verification/",
+      "summary": "<p>The government is continuing its efforts to strengthen Malaysia’s digital identity ecosystem. As part of this push, MyDigital ID kiosks across the nation will be upgraded with a new layer of security. In a recent statement, the National Security Council (NSC) declared that the upgrade will enable real-time facial biometric verification against the National Registration [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/395678/mydigital-id-kiosks-facial-biometric-verification/\">MyDigital ID Kiosks Nationwide To Get Facial Biometric Verification Upgrade</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-06-12T05:57:46+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "268a8a2375069d6cffc1d56306c2434dddd01c61",
+      "title": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
+      "link": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says a \"great settlement\" to end the conflict has been reached. Iran says reports of a deal are \"speculative\".",
+      "published": "2026-06-12T05:53:19+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "8fda582726f6d062563c7a821d80a48e7e476f92",
+      "title": "Singapore households to pay more for waste collection from July 1",
+      "link": "https://www.malaymail.com/news/singapore/2026/06/12/singapore-households-to-pay-more-for-waste-collection-from-july-1/223489",
+      "summary": "&nbsp;&nbsp;SINGAPORE, June 12 &mdash; Households in Singapore will have to pay higher public waste collection fees from...",
+      "published": "2026-06-12T05:52:57+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "cd72a4d1f97553023865cbe337aa4bd807fa3b5b",
+      "title": "South Korea’s ex-president Yoon jailed 30 years over drone operation against North Korea",
+      "link": "https://www.malaymail.com/news/world/2026/06/12/south-koreas-ex-president-yoon-jailed-30-years-over-drone-operation-against-north-korea/223488",
+      "summary": "SEOUL, June 12 &mdash; A South Korean court sentenced ex-president Yoon Suk Yeol to 30 years in prison today&nbsp;for se...",
+      "published": "2026-06-12T05:42:38+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "0424a5b569c3d6f61edb1e4069e73ef719fde51e",
+      "title": "Can AI speak baby? Japanese apps are trying to crack the code",
+      "link": "https://www.malaymail.com/news/tech-gadgets/2026/06/12/can-ai-speak-baby-japanese-apps-are-trying-to-crack-the-code/223486",
+      "summary": "TOKYO, June 12 &mdash; For centuries, exhausted parents have relied on a familiar checklist when a baby starts wailing:...",
+      "published": "2026-06-12T05:31:48+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "22ee997621533713df8058f33d6f88390daf1c0d",
+      "title": "TikToker remanded four days over online claims involving rescued hiker Jaslinda",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/12/tiktoker-remanded-four-days-over-online-claims-involving-rescued-hiker-jaslinda/223484",
+      "summary": "&nbsp;TAPAH, June 12 &mdash;&nbsp;A man in his 30s has been remanded for four days from today to assist investigations i...",
+      "published": "2026-06-12T05:27:30+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "de9b0977fd4353cc9015c4795de2bb5fccdd7fe1",
+      "title": "Malaysian embassy warns citizens to steer clear of Jakarta demonstrations",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/12/malaysian-embassy-warns-citizens-to-steer-clear-of-jakarta-demonstrations/223482",
+      "summary": "&nbsp;JAKARTA, June 12 &mdash;&nbsp;The Embassy of Malaysia in Jakarta has advised Malaysians in Indonesia&rsquo;s capit...",
+      "published": "2026-06-12T05:20:26+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "2529e648d3a7db06e6ab3a4b40bdb5a6dffc7e5c",
+      "title": "Anwar to visit Sabah tomorrow for Madani Link launch and National Unity Week event",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/12/anwar-to-visit-sabah-tomorrow-for-madani-link-launch-and-national-unity-week-event/223480",
+      "summary": "&nbsp;&nbsp;KOTA KINABALU, June 12 &mdash; Prime Minister Datuk Seri Anwar Ibrahim is scheduled to make a one-day visit...",
+      "published": "2026-06-12T05:08:43+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "2ce89f3cc0573aac81ddbe9ed6a8c7f7f5a06279",
+      "title": "Somebody check on the millennials: F✦FOREVER (F4) set for two-night KL concert this August",
+      "link": "https://www.malaymail.com/news/showbiz/2026/06/12/somebody-check-on-the-millennials-fforever-f4-set-for-two-night-kl-concert-this-august/223479",
+      "summary": "KUALA LUMPUR, June 12 &mdash; For fans who spent the early 2000s swooning over Meteor Garden and singing along to Meteor...",
+      "published": "2026-06-12T05:06:49+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "57a2e613842858cc38447c1a6897dc2668d93dff",
+      "title": "Toh Ee Wei still hoping for World Championships, Asian Games miracle despite knee injury",
+      "link": "https://www.malaymail.com/news/sports/2026/06/12/toh-ee-wei-still-hoping-for-world-championships-asian-games-miracle-despite-knee-injury/223478",
+      "summary": "&nbsp;KUALA LUMPUR, June 12 &mdash;&nbsp;Injured national number one mixed doubles shuttler Toh Ee Wei is refusing to co...",
+      "published": "2026-06-12T05:04:58+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "6f446deb45a5fb34e264fab97d72a0786c3cdda1",
+      "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
+      "link": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Palestinian homes are being pulled down in occupied East Jerusalem to make way for a park.",
+      "published": "2026-06-12T05:01:48+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "83e44ad543eee20a57b61df9465ad1acbdc90bbd",
+      "title": "Hyderabad, India-based Equal AI, which makes an eponymous AI-powered call screening app, raised a $30M Series B led by Prosus Ventures and Tomales Bay Capital (Ivan Mehta/TechCrunch)",
+      "link": "https://www.techmeme.com/260612/p3#a260612p3",
+      "summary": "<a href=\"https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260612/i3.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260612/p3#a260612p3\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ivan Mehta / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/\">Hyderabad, India-based Equal AI, which makes an eponymous AI-powered call screening app, raised a $30M Series B led by Prosus Ventures and Tomales Bay Capital</a></b></span>&nbsp; &mdash;&nbsp; In India, consumers receive a lot of calls every day, ranging from spam and scams to delivery people and financial service companies trying to contact them.</p>",
+      "published": "2026-06-12T05:00:14+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "45855f0adbddb16e50111f2d92e6ac4784b022fd",
+      "title": "Oracle warns customers of a critical PeopleSoft flaw after ShinyHunters claimed breaches of 100+ organizations using PeopleSoft; Oracle has not issued a patch (Lorenzo Franceschi-Bicchierai/TechCrunch)",
+      "link": "https://www.techmeme.com/260612/p2#a260612p2",
+      "summary": "<a href=\"https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260612/i2.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260612/p2#a260612p2\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lorenzo Franceschi-Bicchierai / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/\">Oracle warns customers of a critical PeopleSoft flaw after ShinyHunters claimed breaches of 100+ organizations using PeopleSoft; Oracle has not issued a patch</a></b></span>&nbsp; &mdash;&nbsp; Oracle warned its corporate customers that there is a critical-rated vulnerability in its PeopleSoft software &hellip; </p>",
+      "published": "2026-06-12T04:50:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "7374f688bcf5f123168f48642f6178426e7868ab",
+      "title": "Infineon plans to open a €5B chip factory in Germany backed by EU subsidies, its largest single investment, on July 2 as Europe seeks to boost chip production (Christina Kyriasoglou/Bloomberg)",
+      "link": "https://www.techmeme.com/260612/p1#a260612p1",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-06-12/infineon-to-open-german-chip-fab-as-part-of-eu-sovereignty-push\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260612/i1.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260612/p1#a260612p1\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Christina Kyriasoglou / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-06-12/infineon-to-open-german-chip-fab-as-part-of-eu-sovereignty-push\">Infineon plans to open a &euro;5B chip factory in Germany backed by EU subsidies, its largest single investment, on July 2 as Europe seeks to boost chip production</a></b></span>&nbsp; &mdash;&nbsp; Infineon Technologies AG is preparing to open its largest single investment, a &euro;5 billion ($5.8 billion) &hellip; </p>",
+      "published": "2026-06-12T04:40:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "4ccb2888bb9e913b30f42979b6210c4d8d572f10",
+      "title": "Slack AI Data Analyst",
+      "link": "https://www.producthunt.com/products/basedash",
+      "summary": "<p>\n            Ask about your data without leaving Slack\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169798?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-12T04:35:06+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "d6ad2bdf23f54c87dacfa2a694a5d4fb2e4c4327",
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+      "published": "2026-06-12T04:30:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "f5baa02258326bac5186903b75a8c3c111e74580",
+      "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
+      "link": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+      "summary": "Equal AI said that its AI-powered call assistant now has over a million monthly active users.",
+      "published": "2026-06-12T04:30:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "5f518a1b7b910972560805039a3ede7c029a5589",
+      "title": "Tecno Pova 8 Lands In India With “Alive Matrix Display”, 8,000mAh Battery",
+      "link": "https://www.lowyat.net/2026/395673/tecno-pova-8-lands-india-alive-matrix-display-8000mah-battery-2/",
+      "summary": "<p>Tecno has officially unveiled its latest smartphone, the Pova 8, in India. At first glance, the device retains much of its predecessor&#8217;s design language, including the distinctive triangular camera module. That said, the new model introduces several notable changes both inside and out. Perhaps the most obvious addition is Tecno&#8217;s new Alive Matrix Display. Integrated [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/395673/tecno-pova-8-lands-india-alive-matrix-display-8000mah-battery-2/\">Tecno Pova 8 Lands In India With “Alive Matrix Display”, 8,000mAh Battery</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-06-12T04:19:00+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "110d92994a143a27182da4833cd48a99654b5e62",
+      "title": "EC sets Johor election on July 11, Negeri Sembilan on Aug 1",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/12/ec-sets-johor-election-on-july-11-negeri-on-aug-1/223474",
+      "summary": "PUTRAJAYA, June 12 &mdash; The Election Commission (EC) today announced the polling dates for the upcoming state electio...",
+      "published": "2026-06-12T04:18:31+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "8271675e51a0359a881efbb4dbd737c6c6ad1914",
+      "title": "Ex-boyfriend held over rape allegation of 25-year-old woman, fatal stabbing of love rival in Perak",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/12/ex-boyfriend-held-over-rape-allegation-of-25-year-old-woman-fatal-stabbing-of-love-rival-in-perak/223472",
+      "summary": "IPOH, June 12 &mdash; Police have arrested a 30-year-old man suspected of raping his ex-girlfriend and the subsequent ki...",
+      "published": "2026-06-12T04:13:48+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "c88fdd9d4ea2a3645d4f9eddc3f006140fd7e94f",
+      "title": "Son Heung-min’s South Korea stun Czech Republic with late 2-1 comeback win",
+      "link": "https://www.malaymail.com/news/sports/2026/06/12/son-heung-mins-south-korea-stun-czech-republic-with-late-2-1-comeback-win/223473",
+      "summary": "&nbsp;MEXICO CITY, June 12 &mdash;&nbsp; South Korea came back from a &zwnj;goal down to snatch a thrilling 2-1 win over...",
+      "published": "2026-06-12T04:13:37+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "71323d6f980dafc3f0cb0c47a034b7fa8debd224",
+      "title": "Elon Musk becomes world’s first trillionaire as SpaceX IPO boosts fortune",
+      "link": "https://www.malaymail.com/news/money/2026/06/12/elon-musk-becomes-worlds-first-trillionaire-as-spacex-ipo-boosts-fortune/223471",
+      "summary": "&nbsp;&nbsp;NEW YORK, June 12&mdash; Few business leaders have been as deeply embedded in &zwnj;popular culture as Elon...",
+      "published": "2026-06-12T04:10:08+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "305ebcaf010fe655268ca8e34760d4d2a538d8a0",
+      "title": "Malay Mail’s Top 10 Picks: Three weeks on, ‘Colony’ still reigns as ‘Polong’ hits RM12m",
+      "link": "https://www.malaymail.com/news/showbiz/2026/06/12/malay-mails-top-10-picks-three-weeks-on-colony-still-reigns-as-polong-hits-rm12m/223460",
+      "summary": "KUALA LUMPUR, June 12 &mdash; South Korean thriller Colony continues its box-office reign, holding on to the No. 1 spot...",
+      "published": "2026-06-12T04:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "c1bcfaf182f9f04ae236af9f90a8798648f47862",
+      "title": "Eleven, including teens, under probe in Singapore over suspected illegal online gambling links",
+      "link": "https://www.malaymail.com/news/singapore/2026/06/12/eleven-including-teens-under-probe-in-singapore-over-suspected-illegal-online-gambling-links/223468",
+      "summary": "&nbsp;SINGAPORE, June 12 &mdash; Eleven people, including teenagers, are being investigated in Singapore for suspected l...",
+      "published": "2026-06-12T03:55:42+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "6b5018a0e4ac01a80201366e3c359d98cad81f2d",
+      "title": "How Anthropic is blindsiding business partners by launching potentially competitive products with little warning, changing pricing, and more (The Information)",
+      "link": "https://www.techmeme.com/260611/p58#a260611p58",
+      "summary": "<a href=\"https://www.theinformation.com/articles/anthropic-blindsides-business-partners\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260611/i58.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260611/p58#a260611p58\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/articles/anthropic-blindsides-business-partners\">How Anthropic is blindsiding business partners by launching potentially competitive products with little warning, changing pricing, and more</a></b></span>&nbsp; &mdash;&nbsp; Weeks before Anthropic in April revealed Claude Design, an AI tool for creating designs and software application prototypes, it asked firms including Figma &hellip; </p>",
+      "published": "2026-06-12T03:50:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "b392021384a49a83f06f4dc9c4945e92b163080f",
+      "title": "LHDN makes e-Derma mandatory for new tax exemption applications from June 15",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/12/lhdn-makes-e-derma-mandatory-for-new-tax-exemption-applications-from-june-15/223466",
+      "summary": "&nbsp;&nbsp;PUTRAJAYA, June 12 &mdash;&nbsp;All new applications for approval under Subsection 44(6) of the Income Tax A...",
+      "published": "2026-06-12T03:40:56+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "e7a1f566e63399bf206213a9f2470d7b82ee7fe2",
+      "title": "Early morning fire hits Gebeng waste plant, smoke visible across Kuantan (VIDEO)",
+      "link": "https://www.malaymail.com/news/malaysia/2026/06/12/early-morning-fire-hits-gebeng-waste-plant-smoke-visible-across-kuantan-video/223467",
+      "summary": "KUANTAN, June 12 &mdash; Thick black smoke billowed across the Gebeng industrial area here after a fire broke out at a s...",
+      "published": "2026-06-12T03:35:39+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "14669c87d21eea537a9d9efc19dbb9307e7ebb19",
+      "title": "Bob's CLI",
+      "link": "https://www.producthunt.com/products/bob-s-cli",
+      "summary": "<p>\n            A local-first AI coding CLI that adapts to you\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bob-s-cli?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169775?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-12T03:34:56+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "eb6b9dd8b0e31a30742913da486c092a851fcdec",
+      "title": "Sources: Shenzhen-based humanoid robot manufacturer EngineAI has filed confidentially for a Hong Kong IPO; the company was last valued at $1.5B in April 2026 (Julia Fioretti/Bloomberg)",
+      "link": "https://www.techmeme.com/260611/p57#a260611p57",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260611/i57.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260611/p57#a260611p57\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Julia Fioretti / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo\">Sources: Shenzhen-based humanoid robot manufacturer EngineAI has filed confidentially for a Hong Kong IPO; the company was last valued at $1.5B in April 2026</a></b></span>&nbsp; &mdash;&nbsp; Chinese robotics startup EngineAI has filed confidentially for a Hong Kong initial public offering, according to people familiar with the matter &hellip; </p>",
+      "published": "2026-06-12T03:25:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "aa423261d475c2014870b310b7160b63d9fe88b7",
+      "title": "Canadian challenger bank Koho raised a CA$130M Series E at a CA$1.33B valuation, up from $800M in 2023, as it nears obtaining a Canadian banking license (Josh Scott/BetaKit)",
+      "link": "https://www.techmeme.com/260611/p56#a260611p56",
+      "summary": "<a href=\"https://betakit.com/koho-becomes-canadas-latest-unicorn-following-130-million-series-e-round/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260611/i56.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260611/p56#a260611p56\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Josh Scott / <a href=\"https://betakit.com/\">BetaKit</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://betakit.com/koho-becomes-canadas-latest-unicorn-following-130-million-series-e-round/\">Canadian challenger bank Koho raised a CA$130M Series E at a CA$1.33B valuation, up from $800M in 2023, as it nears obtaining a Canadian banking license</a></b></span>&nbsp; &mdash;&nbsp; FinTech firm passes 2.5 million users as it navigates &ldquo;final stages&rdquo; of acquiring banking licence.&nbsp; &mdash;&nbsp; Canadian challenger bank Koho Financial &hellip; </p>",
+      "published": "2026-06-12T03:10:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "59a027ab4e3154435ff6ccf8d931bc29b2244dd5",
+      "title": "Nothing Ear (3a) Colour Options And Europe Pricing Leaked",
+      "link": "https://www.lowyat.net/2026/395656/nothing-ear-3a-leak-europe/",
+      "summary": "<p>The Nothing Ear (3) launched last year as the brand’s latest pair of flagship wireless earbuds. Now, it seems the London-based company is planning to launch a more affordable counterpart sometime soon. Leaks suggest that the Nothing Ear (3a) is on its way, with a recent report revealing the audio accessory’s colour options and pricing [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/395656/nothing-ear-3a-leak-europe/\">Nothing Ear (3a) Colour Options And Europe Pricing Leaked</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
+      "published": "2026-06-12T02:57:55+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "3b1a705778fde0aabd1708f384c80941f2dfbd95",
+      "title": "Q&A with Xbox Chief Strategy Officer Matthew Ball about returning to console-exclusive releases, how using in-game ads could offset development costs, and more (Christopher Dring/The Game Business)",
+      "link": "https://www.techmeme.com/260611/p55#a260611p55",
+      "summary": "<a href=\"https://www.thegamebusiness.com/p/the-big-matthew-ball-interview-the\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260611/i55.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260611/p55#a260611p55\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Christopher Dring / <a href=\"https://www.thegamebusiness.com/\">The Game Business</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.thegamebusiness.com/p/the-big-matthew-ball-interview-the\">Q&amp;A with Xbox Chief Strategy Officer Matthew Ball about returning to console-exclusive releases, how using in-game ads could offset development costs, and more</a></b></span>&nbsp; &mdash;&nbsp; &lsquo;If Xbox can turn things around, the whole industry can,&rsquo; says Ball&nbsp; &mdash;&nbsp; Listen now on Apple, Spotify or YouTube</p>",
+      "published": "2026-06-12T02:55:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
     },
     {
       "id": "01c43477a46c9c3878102223700ede1d318befb5",
@@ -23,39 +383,12 @@
       "category": "malaysia"
     },
     {
-      "id": "2ff2fec5a4a94c73429abda5297d90edc00b83eb",
-      "title": "Pakistani man detained and deported after causing Woodlands Checkpoint lockdown in Singapore",
-      "link": "https://www.malaymail.com/news/singapore/2026/06/12/pakistani-man-detained-and-deported-after-causing-woodlands-checkpoint-lockdown-in-singapore/223459",
-      "summary": "SINGAPORE, June 12 &mdash; A Pakistani man was detained and deported after causing a temporary lockdown at Woodlands Che...",
-      "published": "2026-06-12T02:39:42+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "828788e44a787aec4bfb083e62177ca326e5ae82",
-      "title": "Faker, fried chicken and AI: Jensen Huang enters his K-Variety era on ‘You Quiz on the Block’",
-      "link": "https://www.malaymail.com/news/tech-gadgets/2026/06/12/faker-fried-chicken-and-ai-jensen-huang-enters-his-k-variety-era-on-you-quiz-on-the-block/223458",
-      "summary": "SEOUL, June 12 &mdash; Nvidia chief executive Jensen Huang used his first-ever appearance on a variety talk show to deli...",
-      "published": "2026-06-12T02:37:53+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "de9fd29167b8d4ea46ecdcc6e529ee849b33b988",
       "title": "Proton e.MAS 7 Premium Plus delivers up to 450km WLTP, priced from RM119k",
       "link": "https://soyacincau.com/2026/06/12/proton-emas-7-premium-plus-official-specs-price/",
-      "summary": "Pro-Net has officially unveiled the 3rd variant for Proton e.MAS 7 family at the ongoing KL International Mobility Show (KLIMS) 2026. Called the Premium Plus, the new addition has several important upgrades that allow it to deliver more range and additional comfort for the front occupants. Proton e.MAS 7 Premium Plus: What’s new? From the [&#8230;]",
+      "summary": "Pro-Net has officially unveiled the 3rd variant for Proton e.MAS 7 family at the ongoing KL International Mobility Show (KLIMS) 2026. Called the Premium Plus, the new addition has several important upgrades that deliver greater range and additional comfort for the front occupants. Proton e.MAS 7 Premium Plus: What’s new? From the outside, the e.MAS [&#8230;]",
       "published": "2026-06-12T02:35:50+00:00",
       "source": "SoyaCincau",
-      "category": "malaysia"
-    },
-    {
-      "id": "95bb9a0f110a92d25cc23ce1c27e35d66f84b5ee",
-      "title": "Umno Youth chief’s challenge to prosecution over Facebook post set for June 16 hearing",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/12/umno-youth-chiefs-challenge-to-prosecution-over-facebook-post-set-for-june-16-hearing/223457",
-      "summary": "KUALA LUMPUR, June 12 &mdash; Umno Youth chief Datuk Dr Muhamad Akmal Saleh has filed a judicial review application chal...",
-      "published": "2026-06-12T02:32:05+00:00",
-      "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
@@ -66,87 +399,6 @@
       "published": "2026-06-12T02:30:01+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "e060249210de9bda8ac0911d0902ba87790eb4a1",
-      "title": "Japan captain Wataru Endo ruled out of World Cup, retires from international football",
-      "link": "https://www.malaymail.com/news/sports/2026/06/12/japan-captain-wataru-endo-ruled-out-of-world-cup-retires-from-international-football/223456",
-      "summary": "&nbsp;NASHVILLE, June 12 &mdash; Japan captain Wataru Endo was ruled out of the World Cup with injury and announced his...",
-      "published": "2026-06-12T02:19:16+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "dcd6bddc397e1e4c3248e34a5eacfabeaca2bd4d",
-      "title": "UK defence chief resigns, warning Starmer’s spending plan leaves Britain ‘less safe’",
-      "link": "https://www.malaymail.com/news/world/2026/06/12/uk-defence-chief-resigns-warning-starmers-spending-plan-leaves-britain-less-safe/223455",
-      "summary": "&nbsp;LONDON, June 12 &mdash;&nbsp;British Defence Secretary John Healey quit yesterday, accusing beleaguered Prime Mini...",
-      "published": "2026-06-12T02:15:15+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "0f933a4cacb817a6162be94f19683b1aec506e99",
-      "title": "Bersama urges Selangor to revoke non-Muslim worship guidelines, restart consultations",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/12/bersama-urges-selangor-to-revoke-non-muslim-worship-guidelines-restart-consultations/223454",
-      "summary": "KUALA LUMPUR, June 12 &mdash; Parti Bersama Malaysia (Bersama) today urged the Selangor government to withdraw newly app...",
-      "published": "2026-06-12T02:15:05+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "ad16bbe36a2aac51e96a34d6646b28cdce3ed5dc",
-      "title": "Picasso, Klimt and Magritte works from ex-Spurs owner Joe Lewis' RM1b collection could rewrite European auction history",
-      "link": "https://www.malaymail.com/news/life/2026/06/12/picasso-klimt-and-magritte-works-from-ex-spurs-owner-joe-lewis-rm1b-collection-could-rewrite-european-auction-history/223452",
-      "summary": "LONDON, June 12 &mdash; Works by artists including Picasso, Magritte and Klimt, amassed by the ex-owner of Tottenham Hot...",
-      "published": "2026-06-12T02:10:49+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "68b951e4da1be0ca79b289b006c77bd7951c8e0f",
-      "title": "Thailand’s Princess Bajrakitiyabha dies aged 47 following prolonged illness",
-      "link": "https://www.malaymail.com/news/world/2026/06/12/thailands-princess-bajrakitiyabha-dies-aged-47-following-prolonged-illness/223453",
-      "summary": "BANGKOK, June 12 &mdash;&nbsp;Thailand&rsquo;s Princess Bajrakitiyabha &zwnj;Narendira Debyavati, the eldest child of Th...",
-      "published": "2026-06-12T02:09:11+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "04a67e94b5cd56efaa2495b0927988bc7b27774e",
-      "title": "After eight years, Lebanese jeweller says ‘vindicated’ by RM67.5m judgment against Rosmah",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/12/after-eight-years-lebanese-jeweller-says-vindicated-by-rm675m-judgment-against-rosmah/223450",
-      "summary": "KUALA LUMPUR, June 12 &mdash; Lebanese jeweller Samer Halimeh today said he felt vindicated after winning an eight-year...",
-      "published": "2026-06-12T01:59:03+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "5a3ccdf43e2a19462d99cb36f33713e01f74f3bf",
-      "title": "How the world is trying to protect children from harmful AI chatbots",
-      "link": "https://www.malaymail.com/news/tech-gadgets/2026/06/12/how-the-world-is-trying-to-protect-children-from-harmful-ai-chatbots/223451",
-      "summary": "PARIS, June 12 &mdash; Canada&rsquo;s proposed law requiring chatbot providers to protect users from &ldquo;harmful&amp;rdqu...",
-      "published": "2026-06-12T01:57:12+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "bce4d35d47b71d87e64a3225f7d9e54f268f5c7f",
-      "title": "DOE probes viral orange smoke incident in Pasir Gudang industrial area",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/12/doe-probes-viral-orange-smoke-incident-in-pasir-gudang-industrial-area/223449",
-      "summary": "&nbsp;KUALA LUMPUR, June 12 &mdash; The Department of Environment (DOE) acted swiftly to investigate following a viral r...",
-      "published": "2026-06-12T01:54:29+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "39fbd8e07b7c43eac81f77fe1f380674f7ef735a",
-      "title": "No roaring success: Lab-grown T-Rex leather bag goes unsold at Paris auction",
-      "link": "https://www.malaymail.com/news/life/2026/06/12/no-roaring-success-lab-grown-t-rex-leather-bag-goes-unsold-at-paris-auction/223448",
-      "summary": "PARIS, June 12 &mdash; A leather bag made from Tyrannosaurus rex cells failed to sell yesterday, the Paris auction house...",
-      "published": "2026-06-12T01:50:21+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "373b7d9d00d512dbfa80a6f20dae3fe782dd993b",
@@ -165,69 +417,6 @@
       "published": "2026-06-12T01:48:07+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "c09158202f0819d5eb79dc7e24e38591009e91a1",
-      "title": "Mass fish deaths in Sungai Padang Kijang trigger DOE probe",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/12/mass-fish-deaths-in-sungai-padang-kijang-trigger-doe-probe/223447",
-      "summary": "KOTA BHARU, June 12 &mdash; The Kelantan Department of Environment (DOE) has launched an investigation and monitoring op...",
-      "published": "2026-06-12T01:45:50+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "7c9604b130cc41e61bf3983885e69c6dc077f664",
-      "title": "Will LIKE choke Brickfields? Residents, religious leaders seek answers on RM2.3b proposed highway",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/12/will-like-choke-brickfields-residents-religious-leaders-seek-answers-on-rm23b-proposed-highway/223445",
-      "summary": "KUALA LUMPUR, June 12 &mdash; The Brickfields community has raised the alarm over the proposed RM2.32 billion Laluan Ist...",
-      "published": "2026-06-12T01:42:30+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "52764d1dab85dd87f21a7997c72c8784959b6665",
-      "title": "All the president’s men? Inside Trump’s hot guy fascination",
-      "link": "https://www.malaymail.com/news/life/2026/06/12/all-the-presidents-men-inside-trumps-hot-guy-fascination/223443",
-      "summary": "WASHINGTON, June 12 &mdash; Rarely a week goes by without US President Donald Trump lavishing praise on the bodies of me...",
-      "published": "2026-06-12T01:40:12+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "7db4089c0fe59727bc412f5b50fc3ac10c692deb",
-      "title": "Trump names Jay Clayton as new intelligence chief after backlash over loyalist pick",
-      "link": "https://www.malaymail.com/news/world/2026/06/12/trump-names-jay-clayton-as-new-intelligence-chief-after-backlash-over-loyalist-pick/223446",
-      "summary": "&nbsp;WASHINGTON, June 12 &mdash; US President Donald Trump yesterday named prosecutor Jay Clayton as his new intelligen...",
-      "published": "2026-06-12T01:38:25+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "1a68c6a4533c385aa6200ee6cdedc81eda0a6ad8",
-      "title": "Anwar vows no compromise in anti-corruption fight, backs stronger MACC",
-      "link": "https://www.malaymail.com/news/malaysia/2026/06/12/anwar-vows-no-compromise-in-anti-corruption-fight-backs-stronger-macc/223444",
-      "summary": "KUALA LUMPUR, June 12 &mdash; The MADANI Government will continue to empower the Malaysian Anti-Corruption Commission (M...",
-      "published": "2026-06-12T01:37:28+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "869129cf1027132edde980a7c61369dc73d0909d",
-      "title": "Ringgit opens higher as easing Iran tensions and softer US dollar lift sentiment",
-      "link": "https://www.malaymail.com/news/money/2026/06/12/ringgit-opens-higher-as-easing-iran-tensions-and-softer-us-dollar-lift-sentiment/223442",
-      "summary": "&nbsp;KUALA LUMPUR, June 12 &mdash; The ringgit opened higher against the US dollar and was mostly firmer against region...",
-      "published": "2026-06-12T01:34:38+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "2693195cbd7ad58ed598d29ea3cc9ddfe50468b3",
-      "title": "Taylor Swift becomes youngest woman inducted into Songwriters Hall of Fame",
-      "link": "https://www.malaymail.com/news/showbiz/2026/06/12/taylor-swift-becomes-youngest-woman-inducted-into-songwriters-hall-of-fame/223441",
-      "summary": "NEW YORK, June 12 &mdash; Taylor Swift yesterday became the youngest woman ever inducted into the prestigious Songwriter...",
-      "published": "2026-06-12T01:32:50+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "736c2d468a04127ff9fe50ec60254e350abd9977",
@@ -266,19 +455,28 @@
       "category": "tech"
     },
     {
-      "id": "a21e1c47d6fc36a727dc57e251eac32362b60598",
-      "title": "Zelle owner EWS says it plans to expand the payment service to India later this year, its first international market, and create its own USD-backed stablecoin (Associated Press)",
+      "id": "c8074036095eaf2f847a9b1cfd40e850317bbe8f",
+      "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
+      "link": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
+      "summary": "Princess Bajrakitiyabha, the king's eldest daughter, collapsed in December 2022 while exercising her dogs.",
+      "published": "2026-06-12T00:45:20+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "6dfe22a17c00eee0ec0e7af78bc29edd1457d9ad",
+      "title": "Zelle owner EWS says it plans to expand the payment service later in 2026 to India, its first international market, and create its own USD-backed stablecoin (Associated Press)",
       "link": "https://www.techmeme.com/260611/p50#a260611p50",
-      "summary": "<a href=\"https://apnews.com/article/zelle-india-payments-banking-7b6299bcd9926f6d0a2533da5591d2a8\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260611/i50.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260611/p50#a260611p50\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.apnews.com/\">Associated Press</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://apnews.com/article/zelle-india-payments-banking-7b6299bcd9926f6d0a2533da5591d2a8\">Zelle owner EWS says it plans to expand the payment service to India later this year, its first international market, and create its own USD-backed stablecoin</a></b></span>&nbsp; &mdash;&nbsp; Peer-to-peer payment service Zelle will expand to India later this year, the payment service's first international market since &hellip; </p>",
+      "summary": "<a href=\"https://apnews.com/article/zelle-india-payments-banking-7b6299bcd9926f6d0a2533da5591d2a8\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260611/i50.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260611/p50#a260611p50\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.apnews.com/\">Associated Press</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://apnews.com/article/zelle-india-payments-banking-7b6299bcd9926f6d0a2533da5591d2a8\">Zelle owner EWS says it plans to expand the payment service later in 2026 to India, its first international market, and create its own USD-backed stablecoin</a></b></span>&nbsp; &mdash;&nbsp; Peer-to-peer payment service Zelle will expand to India later this year, the payment service's first international market since &hellip; </p>",
       "published": "2026-06-12T00:30:01+00:00",
       "source": "Techmeme",
       "category": "tech"
     },
     {
-      "id": "6145f39d547d3d7c830083b0b00b3a84af630759",
-      "title": "Anthropic, OpenAI, and other AI startups have announced major London expansions over the past year, as the city emerges as a key AI talent hub outside the US (Kai Nicol-Schwarz/CNBC)",
+      "id": "aa592d1668a6112427cd8746b6c7b68557bff7e7",
+      "title": "Anthropic, OpenAI, and other AI startups have announced major London expansions over the past year, as the city emerges as a deep AI talent pool outside the US (Kai Nicol-Schwarz/CNBC)",
       "link": "https://www.techmeme.com/260611/p49#a260611p49",
-      "summary": "<a href=\"https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260611/i49.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260611/p49#a260611p49\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kai Nicol-Schwarz / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html\">Anthropic, OpenAI, and other AI startups have announced major London expansions over the past year, as the city emerges as a key AI talent hub outside the US</a></b></span>&nbsp; &mdash;&nbsp; A slew of U.S. Big Tech and AI companies are racing to expand in London as they look to take advantage of the city's deep talent pools amid &hellip; </p>",
+      "summary": "<a href=\"https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260611/i49.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260611/p49#a260611p49\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kai Nicol-Schwarz / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html\">Anthropic, OpenAI, and other AI startups have announced major London expansions over the past year, as the city emerges as a deep AI talent pool outside the US</a></b></span>&nbsp; &mdash;&nbsp; A slew of U.S. Big Tech and AI companies are racing to expand in London as they look to take advantage of the city's deep talent pools amid &hellip; </p>",
       "published": "2026-06-11T23:55:04+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -293,6 +491,15 @@
       "category": "world"
     },
     {
+      "id": "def6865317ecdeeb00a2a7fe4c55e71c64fd10f5",
+      "title": "Why the economics make this the craziest World Cup ever",
+      "link": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
+      "summary": "From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it. Faisal Islam explores what this tournament reveals about our changing global economy.",
+      "published": "2026-06-11T23:07:52+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "a4fea3cbaaabf4d6da300ab879ac937b9d10a542",
       "title": "Amazon&#8217;s Echo Hub gets a customizable new look and Ring&#8217;s AI features",
       "link": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
@@ -302,10 +509,10 @@
       "category": "tech"
     },
     {
-      "id": "97bbdebade126483fa7e96ad8d93ea42c809e6c0",
-      "title": "Ted Cruz and Ron Wyden introduce the JAWBONE Act, which would let Americans sue federal officials who try to coerce broadcasters or platforms to censor speech (Jon Brodkin/Ars Technica)",
+      "id": "e9b8688d4684c20123d489e9832edb3b41c86b01",
+      "title": "Ted Cruz and Ron Wyden introduce the JAWBONE Act, which would let Americans sue US officials who try to coerce broadcasters or platforms into censoring speech (Jon Brodkin/Ars Technica)",
       "link": "https://www.techmeme.com/260611/p48#a260611p48",
-      "summary": "<a href=\"https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260611/i48.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260611/p48#a260611p48\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jon Brodkin / <a href=\"http://arstechnica.com/\">Ars Technica</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/\">Ted Cruz and Ron Wyden introduce the JAWBONE Act, which would let Americans sue federal officials who try to coerce broadcasters or platforms to censor speech</a></b></span>&nbsp; &mdash;&nbsp; US Senators Ted Cruz (R-Texas) and Ron Wyden (D-Ore.) today introduced the JAWBONE Act, a proposed law that could fuel lawsuits &hellip; </p>",
+      "summary": "<a href=\"https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260611/i48.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260611/p48#a260611p48\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jon Brodkin / <a href=\"http://arstechnica.com/\">Ars Technica</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/\">Ted Cruz and Ron Wyden introduce the JAWBONE Act, which would let Americans sue US officials who try to coerce broadcasters or platforms into censoring speech</a></b></span>&nbsp; &mdash;&nbsp; US Senators Ted Cruz (R-Texas) and Ron Wyden (D-Ore.) today introduced the JAWBONE Act, a proposed law that could fuel lawsuits &hellip; </p>",
       "published": "2026-06-11T22:05:04+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -320,24 +527,6 @@
       "category": "deals"
     },
     {
-      "id": "2e8f6e81e5b4a3e22cc818280b1530ac0023ab68",
-      "title": "Agentic workplace startup Genspark raised a $100M Series B extension at a $2.6B post-money valuation, up 63% in just three months; it has raised $645M+ to date (Chris Metinko/Axios)",
-      "link": "https://www.techmeme.com/260611/p47#a260611p47",
-      "summary": "<a href=\"https://www.axios.com/pro/enterprise-software-deals/2026/06/11/genspark-extension-agentic-workplace\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260611/i47.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260611/p47#a260611p47\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Chris Metinko / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/pro/enterprise-software-deals/2026/06/11/genspark-extension-agentic-workplace\">Agentic workplace startup Genspark raised a $100M Series B extension at a $2.6B post-money valuation, up 63% in just three months; it has raised $645M+ to date</a></b></span>&nbsp; &mdash;&nbsp; Agentic workplace startup Genspark raised $100 million in Series B extension funding at a $2.6 billion post-money valuation, co-founder Wen Sang tells Axios Pro exclusively.</p>",
-      "published": "2026-06-11T21:45:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "cca7d941e4f90283a162be37a17de9b60a28b625",
-      "title": "Adobe reports Q2 revenue up 13% YoY to $6.62B, vs. $6.46B est., and raises its annual forecasts; CFO Dan Durn is leaving for Marvell; ADBE drops 5%+ after hours (Zaheer Kachwala/Reuters)",
-      "link": "https://www.techmeme.com/260611/p46#a260611p46",
-      "summary": "<a href=\"https://www.reuters.com/business/adobe-raises-annual-revenue-forecast-cfo-exit-2026-06-11/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260611/i46.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260611/p46#a260611p46\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Zaheer Kachwala / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/business/adobe-raises-annual-revenue-forecast-cfo-exit-2026-06-11/\">Adobe reports Q2 revenue up 13% YoY to $6.62B, vs. $6.46B est., and raises its annual forecasts; CFO Dan Durn is leaving for Marvell; ADBE drops 5%+ after hours</a></b></span>&nbsp; &mdash;&nbsp; Adobe (ADBE.O) raised its annual revenue and profit forecasts on Thursday, but the sudden exit of CFO Dan Durn added to concerns &hellip; </p>",
-      "published": "2026-06-11T21:30:03+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "ecaf9866f432d288288874876db02a8cca954d3a",
       "title": "EcoFlow’s 245Wh to 858Wh RIVER 3 series power stations are starting from $189 in Early Prime Day savings",
       "link": "https://9to5toys.com/2026/06/11/ecoflow-245wh-to-858wh-river-3-series-power-stations-from-189-early-prime-day/",
@@ -345,15 +534,6 @@
       "published": "2026-06-11T21:01:30+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "aac5ed4b1bab4fc057865eb68244f3a635f2f516",
-      "title": "Sources: Founders Fund's ~3% stake in SpaceX is now worth $50B+, after investing $600M; a16z will get the biggest return in its history, with a $10B+ stake (Bloomberg)",
-      "link": "https://www.techmeme.com/260611/p45#a260611p45",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-06-11/founders-fund-andreessen-set-for-record-returns-from-spacex-ipo\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260611/i45.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260611/p45#a260611p45\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-06-11/founders-fund-andreessen-set-for-record-returns-from-spacex-ipo\">Sources: Founders Fund's ~3% stake in SpaceX is now worth $50B+, after investing $600M; a16z will get the biggest return in its history, with a $10B+ stake</a></b></span>&nbsp; &mdash;&nbsp; A small number of firms are set to net tens of billions of dollars in returns from SpaceX's initial public offering &hellip; </p>",
-      "published": "2026-06-11T21:00:47+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "e5dad7c45bf0f3baff23a4f80542ee84431404d9",
@@ -381,6 +561,24 @@
       "published": "2026-06-11T20:27:25+00:00",
       "source": "TechCrunch",
       "category": "tech"
+    },
+    {
+      "id": "89589621ee38f2cb0adbc6eda947571f88ae3724",
+      "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
+      "link": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Gary O'Donoghue looks at the US president's mixed messaging over the war and the questions it raises.",
+      "published": "2026-06-11T20:22:16+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "4717f841a751e3217d8e379c39a595ece59f007e",
+      "title": "LocIn AI",
+      "link": "https://www.producthunt.com/products/locin-ai",
+      "summary": "<p>\n            Localize your app with tone-aware AI, automated workflows\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/locin-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169603?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-11T20:04:57+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "eb054126608f95c20775ad3a2aa7f77cdf48d41f",
@@ -417,15 +615,6 @@
       "published": "2026-06-11T19:55:28+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "7483df80135f82424616c87d64b5cdcd438ccad5",
-      "title": "SpaceX raises $75B in the biggest-ever IPO, pricing 555.6M shares at $135 each, giving it a market value of $1.77T (Bailey Lipschultz/Bloomberg)",
-      "link": "https://www.techmeme.com/260611/p44#a260611p44",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-06-11/elon-musk-s-spacex-set-to-make-history-with-record-breaking-ipo\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260611/i44.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260611/p44#a260611p44\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Bailey Lipschultz / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-06-11/elon-musk-s-spacex-set-to-make-history-with-record-breaking-ipo\">SpaceX raises $75B in the biggest-ever IPO, pricing 555.6M shares at $135 each, giving it a market value of $1.77T</a></b></span>&nbsp; &mdash;&nbsp; SpaceX has made history with the biggest-ever IPO, launching it into the top ranks of the largest public companies and putting founder Elon Musk on the verge of becoming the world's first trillionaire.</p>",
-      "published": "2026-06-11T19:43:20+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "beaa42fd50f090c57f459b3d08fcd805c028670d",
@@ -473,13 +662,22 @@
       "category": "tech"
     },
     {
-      "id": "83b1b7e40330312fe31fd1b94a30d8a72fa7766e",
-      "title": "Polish lawmakers pass legislation imposing prison sentences of up to five years for \"trash streaming\" of violent crimes, gambling promotion, and more (Anna Wlodarczak-Semczuk/Reuters)",
-      "link": "https://www.techmeme.com/260611/p43#a260611p43",
-      "summary": "<a href=\"https://www.reuters.com/business/media-telecom/poland-jail-online-streamers-violent-crime-rape-cruelty-up-5-years-2026-06-11/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260611/i43.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260611/p43#a260611p43\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Anna Wlodarczak-Semczuk / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/business/media-telecom/poland-jail-online-streamers-violent-crime-rape-cruelty-up-5-years-2026-06-11/\">Polish lawmakers pass legislation imposing prison sentences of up to five years for &ldquo;trash streaming&rdquo; of violent crimes, gambling promotion, and more</a></b></span>&nbsp; &mdash;&nbsp; Polish lawmakers voted on Thursday to crack down on so-called &lsquo;trash streaming&rsquo;, imposing jail terms of up to five years &hellip; </p>",
-      "published": "2026-06-11T19:05:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
+      "id": "43dca08ce7a4f0757bb7884d4a90e050a8f9d211",
+      "title": "ShellMate",
+      "link": "https://www.producthunt.com/products/shellmate-2",
+      "summary": "<p>\n            Manage SSH servers, credentials, and teams in one place\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/shellmate-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169557?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-11T18:43:32+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "bbf0862438756398136ecaf4814441d73cb5fe2a",
+      "title": "Clutch Alarm",
+      "link": "https://www.producthunt.com/products/clutch-alarm",
+      "summary": "<p>\n            Sleep through the night. Wake up for the goals.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clutch-alarm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169552?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-11T18:39:38+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "39f5660382cafe9ca728d1a950bdae46a0e6a8a2",
@@ -500,15 +698,6 @@
       "category": "deals"
     },
     {
-      "id": "f883e426ad3e176e7bce80ac3048da1881480620",
-      "title": "Some investors question SpaceX's projected $1.77T valuation, citing its $4.3B loss on $4.7B in revenue in Q1, concerns over space data centers, and more (New York Times)",
-      "link": "https://www.techmeme.com/260611/p42#a260611p42",
-      "summary": "<a href=\"https://www.nytimes.com/2026/06/11/technology/spacex-valuation-skeptics.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260611/i42.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260611/p42#a260611p42\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.nytimes.com/\">New York Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nytimes.com/2026/06/11/technology/spacex-valuation-skeptics.html\">Some investors question SpaceX's projected $1.77T valuation, citing its $4.3B loss on $4.7B in revenue in Q1, concerns over space data centers, and more</a></b></span>&nbsp; &mdash;&nbsp; Elon Musk's rocket company is spending big and losing money.&nbsp; That has raised questions about whether it can justify its valuation for its blockbuster initial public offering.</p>",
-      "published": "2026-06-11T18:30:03+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "f5c9de1548c35d651872be12ad98c9e3c02d4249",
       "title": "F1 teams spend millions on their simulators—what makes them different?",
       "link": "https://arstechnica.com/cars/2026/06/whats-so-special-about-a-formula-1-driver-in-the-loop-simulator/",
@@ -527,21 +716,21 @@
       "category": "deals"
     },
     {
+      "id": "9a0966971300fb19a9cdc65909ddce288788cd06",
+      "title": "Tide",
+      "link": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
+      "summary": "<p>\n            Layered voice notes that paint themselves\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tide-beautiful-layered-voice-notes?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169527?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-11T18:08:04+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "934b4356a748c8b297dd53f9e5d9cf89b8b43313",
       "title": "Blink’s six-piece outdoor camera kit is a great deal under $200",
       "link": "https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale",
       "summary": "You can save on a big set of outdoor security cameras ahead of Prime Day. Amazon has a five-pack of Blink cameras with a video doorbell included that’s marked down to $166.99. The bundle includes a Blink Battery Doorbell 2K+, five Blink Outdoor 2K+ cameras, and a Blink Sync Module Core. The doorbell is typically [&#8230;]",
       "published": "2026-06-11T18:04:43+00:00",
       "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "2c15dc94ca4c4e0c1edf94cf55c815943045f133",
-      "title": "Former a16z GP John O'Farrell criticizes the AI industry and his ex-partners for spending hundreds of millions to fight regulation, calling it \"a huge mistake\" (John O'Farrell/New York Times)",
-      "link": "https://www.techmeme.com/260611/p40#a260611p40",
-      "summary": "<a href=\"https://www.nytimes.com/2026/06/11/opinion/silicon-valley-ai-politics.html?unlocked_article_code=1.pVA.chnG.rXJUC1QSVd67&amp;smid=url-share\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260611/i40.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260611/p40#a260611p40\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> John O'Farrell / <a href=\"https://www.nytimes.com/\">New York Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nytimes.com/2026/06/11/opinion/silicon-valley-ai-politics.html?unlocked_article_code=1.pVA.chnG.rXJUC1QSVd67&amp;smid=url-share\">Former a16z GP John O'Farrell criticizes the AI industry and his ex-partners for spending hundreds of millions to fight regulation, calling it &ldquo;a huge mistake&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; I first came to America from Ireland in 1984, as a young engineer about to attend business school.</p>",
-      "published": "2026-06-11T18:00:34+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -605,15 +794,6 @@
       "summary": "Archaeologists found apparent scrape marks inside a skull; long bones may have been sharpened into tools.",
       "published": "2026-06-11T17:21:53+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "3b5d77995138a3d1f9df02d5204680811c146f1a",
-      "title": "Coinbase launches an AI agent that can execute trades and pay for premium research; users can give it access to their main account or have it operate separately (Ivan Mehta/TechCrunch)",
-      "link": "https://www.techmeme.com/260611/p39#a260611p39",
-      "summary": "<a href=\"https://techcrunch.com/2026/06/11/coinbase-debuts-ai-agent-that-can-trade-and-pay-for-premium-research/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260611/i39.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260611/p39#a260611p39\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ivan Mehta / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/06/11/coinbase-debuts-ai-agent-that-can-trade-and-pay-for-premium-research/\">Coinbase launches an AI agent that can execute trades and pay for premium research; users can give it access to their main account or have it operate separately</a></b></span>&nbsp; &mdash;&nbsp; As AI agent traffic surpasses human traffic on the internet, companies working in commerce and finance are building tools &hellip; </p>",
-      "published": "2026-06-11T17:20:02+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -788,15 +968,6 @@
       "category": "tech"
     },
     {
-      "id": "0576a12ff5ad3cc7d57dccd575591858ac031343",
-      "title": "I&#8217;ve found the Goldilocks of portable MIDI controllers",
-      "link": "https://www.theverge.com/tech/948024/arturia-minilab-37-midi-controller-review",
-      "summary": "I have tested more portable MIDI controllers than I can keep track of, and I will tell you right now: 37 keys is the ideal size. While Arturia's 25-key MiniLab MK3 is a solid controller that easily fits in a backpack, it feels a bit claustrophobic. The new $149 MiniLab 37 adds another octave, giving [&#8230;]",
-      "published": "2026-06-11T16:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "81aa97f61a4ad8c449988ea37c871126381d7c04",
       "title": "Deadly Sudan drone strike targets funeral procession",
       "link": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
@@ -867,15 +1038,6 @@
       "published": "2026-06-11T13:56:30+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "2032e3d2feb769f8e22c9d83af6d3e9772aa7ca9",
-      "title": "El Niño under way and threatens weather extremes, scientists say",
-      "link": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
-      "summary": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures.",
-      "published": "2026-06-11T13:26:24+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "d3f582a92f2908aacd83dd4e3469d0d9c27b6a29",
@@ -968,13 +1130,13 @@
       "category": "deals"
     },
     {
-      "id": "7c1376bbd3c961a43e277e521d780a1c61e487de",
-      "title": "What we know about US sea drone used in helicopter crew rescue mission",
-      "link": "https://www.bbc.com/news/articles/cx2xvnd5eqwo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify examines what we know about the drone boat and how the mission took place.",
-      "published": "2026-06-11T11:12:44+00:00",
-      "source": "BBC News",
-      "category": "world"
+      "id": "86013f8cb028e710cb6fb96a9c7e7cda3d118d70",
+      "title": "Meet Warren 3.0",
+      "link": "https://www.producthunt.com/products/underpay",
+      "summary": "<p>\n            Your voice-supported AI financial planning partner\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/underpay?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169266?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-11T11:04:31+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "82d80af62e540ed93f850f80d5ba6b7f2ab9e1dc",
@@ -1004,6 +1166,15 @@
       "category": "deals"
     },
     {
+      "id": "9e04724cc6d7f5d44b625c200ce4b80bb313291c",
+      "title": "pleNx — Plex client for Nintendo Switch",
+      "link": "https://www.producthunt.com/products/plenx-plex-client-for-nintendo-switch",
+      "summary": "<p>\n            The first native Plex client for Nintendo Switch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/plenx-plex-client-for-nintendo-switch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169254?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-11T10:44:23+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "ff93f87ec501c381d5fa4abc180ad640b0f8d02c",
       "title": "Vance says Israeli PM Netanyahu 'has got some things wrong'",
       "link": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&at_campaign=rss",
@@ -1013,40 +1184,13 @@
       "category": "world"
     },
     {
-      "id": "5ab573287ead3d525f87e0b51e8ebcb2c5ed393c",
-      "title": "KLIMS 2026: Honda Prelude Gets RM278,000 Malaysian Price Tag",
-      "link": "https://www.lowyat.net/2026/395499/klims-2026-honda-prelude-rm278000-malaysia/",
-      "summary": "<p>The Honda Prelude has finally gotten its local price tag. After about nine months after its Japanese launch, and just over six months of teasing a local launch, the company has finally officially launched the hybrid coupe at KLIMS 2026. This has also given us a much better look at the car. That being said, [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/395499/klims-2026-honda-prelude-rm278000-malaysia/\">KLIMS 2026: Honda Prelude Gets RM278,000 Malaysian Price Tag</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-06-11T10:16:47+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
-      "id": "d35803c398c84f2e372ee8349e7c1ab86e6d829d",
-      "title": "KLIMS 2026: Jetour T2 i-DM PHEV Open For Booking In Malaysia",
-      "link": "https://www.lowyat.net/2026/395509/klims-2026-jetour-t2-i-dm-phev-malaysia/",
-      "summary": "<p>Jetour Malaysia has officially unveiled and opened bookings for its new T2 i-DM SUV during KLIMS 2026 today. It joins the existing T2 model that was officially launched in Malaysia earlier this year, and is also the brand&#8217;s first plug-in hybrid vehicle to be made available locally. Visually, the T2 i-DM remains largely unchanged from [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/395509/klims-2026-jetour-t2-i-dm-phev-malaysia/\">KLIMS 2026: Jetour T2 i-DM PHEV Open For Booking In Malaysia</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-06-11T10:08:23+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
-      "id": "faa624f00c8356392712c67ada3df71a69259bc9",
-      "title": "vivo Y31s 5G Officially Arrives In Malaysia With Snapdragon 4 Gen 2 SoC",
-      "link": "https://www.lowyat.net/2026/395450/vivo-y31s-5g/",
-      "summary": "<p>The vivo Y31s 5G has officially launched on our shores. This smartphone mainly focuses on durability and endurance, making it suitable for users who are constantly on the go. According to the brand, the handset is meant to support drivers and blue-collar workers who rely on their phones for day-to-day productivity. In terms of specifications, [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/395450/vivo-y31s-5g/\">vivo Y31s 5G Officially Arrives In Malaysia With Snapdragon 4 Gen 2 SoC</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-06-11T08:45:01+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
-      "id": "68953cdaa2fbbbd0b9ea34a6d5641b94a387837a",
-      "title": "KLIMS 2026: Proton Officially Launches New eMAS 7 Premium Plus Model",
-      "link": "https://www.lowyat.net/2026/395470/klims-2026-proton-emas-7-premium-plus/",
-      "summary": "<p>Proton has officially launched the new eMAS 7 Premium Plus, introducing a new range-topping variant for its electric SUV lineup. The new model builds upon the existing Premium variant by offering a larger battery pack, extended driving range, and several additional comfort features. Visually, the eMAS 7 Premium Plus remains identical to the rest of [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/395470/klims-2026-proton-emas-7-premium-plus/\">KLIMS 2026: Proton Officially Launches New eMAS 7 Premium Plus Model</a> appeared first on <a href=\"https://www.lowyat.net\">Lowyat.NET</a>.</p>",
-      "published": "2026-06-11T08:40:07+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
+      "id": "16fa13288471d9ba23a6a061c3aefe895c8354aa",
+      "title": "KOSH Money",
+      "link": "https://www.producthunt.com/products/kosh-money",
+      "summary": "<p>\n            USD account & credit cards for freelancers & creators\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kosh-money?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169183?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-11T09:01:13+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "b6984904e06c20ed784705f7063058268c97419e",
@@ -1067,6 +1211,24 @@
       "category": "malaysia"
     },
     {
+      "id": "d4b75dadb0306878294e76ad8fa7dff929e5e650",
+      "title": "Insta360 Luna Ultra",
+      "link": "https://www.producthunt.com/products/insta-360",
+      "summary": "<p>\n            A gimbal camera that sees with you\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/insta-360?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169141?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-11T08:01:45+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "c553e410cad1f12fafba70ca26909e24f1ead016",
+      "title": "HyperSleep",
+      "link": "https://www.producthunt.com/products/hypersleep",
+      "summary": "<p>\n            Block social media until you've actually slept\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hypersleep?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169114?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-11T07:30:37+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "53bd9859a525c8cf0c991c3fabd3902378c3860e",
       "title": "Thai court sentences two men to death over Bangkok shrine bombing",
       "link": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&at_campaign=rss",
@@ -1074,33 +1236,6 @@
       "published": "2026-06-11T06:45:10+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "7e890e7128d0e876f35d1a6a51d581c3d5ba3811",
-      "title": "Cloudskill",
-      "link": "https://www.producthunt.com/products/cloudskill",
-      "summary": "<p>\n            Govern the AI skills your team depends on\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cloudskill?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169000?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-11T04:32:54+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "7a76c7624ad91befb9d326b3a80ee68f64ad4871",
-      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-      "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-      "summary": "The decision comes as India emerges as the world’s largest GCC market.",
-      "published": "2026-06-11T04:02:19+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "e5c41a53da0e9cad31676e55b2550751c1ffd4b3",
-      "title": "Anthropic’s Dario Amodei has just one direct report",
-      "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-      "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
-      "published": "2026-06-11T03:53:06+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "98b09bf7e024e5c8b0897c2c1f29bfe1ab6bb8d9",
@@ -1139,15 +1274,6 @@
       "category": "world"
     },
     {
-      "id": "e079f50768d0f70f3e037ca42a5ae34d290e2f89",
-      "title": "An Everest guide's miraculous survival raises questions for tourism industry",
-      "link": "https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Why was a cook leading clients up the world's highest peak? And why was he left to rescue himself?",
-      "published": "2026-06-10T22:17:09+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "cb13bd0abb3fc5c0486947404e94fc59403f83d1",
       "title": "Diabetes org apologizes for ejecting scientists over criticism of Trump",
       "link": "https://arstechnica.com/health/2026/06/diabetes-org-apologizes-for-ejecting-scientists-over-criticism-of-trump/",
@@ -1164,15 +1290,6 @@
       "published": "2026-06-10T21:30:44+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "a64fed7a35a67d1a5a35c4f2436d9030bec1086b",
-      "title": "PixelForge",
-      "link": "https://www.producthunt.com/products/pixelforge-put-anyone-into-your-game",
-      "summary": "<p>\n            Turn photos into game assets\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pixelforge-put-anyone-into-your-game?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1168807?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-10T20:27:49+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "1c48c0d4c141391b0d34e730d651d862964a96e8",
@@ -1202,15 +1319,6 @@
       "category": "tech"
     },
     {
-      "id": "8bfd31024bccb77a910df340a1258b027d921598",
-      "title": "Bond",
-      "link": "https://www.producthunt.com/products/bond-12",
-      "summary": "<p>\n            The AI to-do list that does itself\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bond-12?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1168743?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-10T18:43:49+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "f912a79c288577ce93f1aefc2dce8a9780ff53c7",
       "title": "Whale graveyard dating back five million years discovered",
       "link": "https://www.bbc.com/news/articles/c75ylx4xn10o?at_medium=RSS&at_campaign=rss",
@@ -1218,15 +1326,6 @@
       "published": "2026-06-10T18:24:09+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "e858b198b6782f8ce8532b3c38e9856fddbbccbd",
-      "title": "Riven",
-      "link": "https://www.producthunt.com/products/riven-reach-muscle-failure",
-      "summary": "<p>\n            Your Apple Watch knows when you've truly hit muscle failure\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/riven-reach-muscle-failure?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1168727?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-10T18:22:31+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "5ccebe10711aa2ebb83a698a75b6c82b224c23ee",
@@ -1245,15 +1344,6 @@
       "published": "2026-06-10T17:19:31+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "ee4742e77e733d711f5e782b8dd7478c60030036",
-      "title": "Onpilot",
-      "link": "https://www.producthunt.com/products/onpilot-ai",
-      "summary": "<p>\n            An AI workforce customized to your business\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/onpilot-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1168678?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-10T17:12:13+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "2be2d41a9d790472d51242320a699ff0999efea1",
@@ -1292,24 +1382,6 @@
       "category": "tech"
     },
     {
-      "id": "5b8e51929b07c4a526a1f5ca7f2dab3b289424c9",
-      "title": "Pakistan launches deadly air strikes in Afghanistan, reigniting tensions",
-      "link": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The fresh strikes come after weeks of relative calm in the restive border region between the two countries.",
-      "published": "2026-06-10T15:31:15+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "e59734a45fbe92a223a3345bc1bf63d09372bacb",
-      "title": "Norway crown princess's son to stay in custody before rape verdict, says court",
-      "link": "https://www.bbc.com/news/articles/c621lnee131o?at_medium=RSS&at_campaign=rss",
-      "summary": "Thr ruling overturns a lower court's decision on Monday ordering the release of the crown princess's 29-year-old son.",
-      "published": "2026-06-10T15:00:45+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "ac3a7b2fd8b7eaee77179cc9dba999e2fc7b0929",
       "title": "Israeli strikes in southern Lebanon kill 17, reports say",
       "link": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
@@ -1317,15 +1389,6 @@
       "published": "2026-06-10T14:44:49+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "c6c854ff6806505078dcacb43c0b669c50e601c1",
-      "title": "heyly.io",
-      "link": "https://www.producthunt.com/products/heyly-io-video-greeting-for-your-site",
-      "summary": "<p>\n            A video greeting + buttons where you ARE the testimonial\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/heyly-io-video-greeting-for-your-site?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1168521?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-10T13:42:09+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "1c271d680806825c5433463502f63c085cb9fbc0",
@@ -1355,15 +1418,6 @@
       "category": "events"
     },
     {
-      "id": "51e12e6f85949c0abfd6025272004090b74c45b7",
-      "title": "Patchrooms",
-      "link": "https://www.producthunt.com/products/patchrooms",
-      "summary": "<p>\n            Turn AI-app feedback into agent-ready patch context.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/patchrooms?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1168490?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-10T12:59:38+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "00b2584f7f78370cfbf5647fd346eb0886b49ea1",
       "title": "Gentari turns on 180kW DC Charger at Petronas Batu Ferringhi",
       "link": "https://soyacincau.com/2026/06/10/gentari-180kw-dc-charger-petronas-batu-ferringhi-penang/",
@@ -1371,24 +1425,6 @@
       "published": "2026-06-10T12:36:52+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "8ab0c1d58b8ae97189eab5a14a22a7bf564caab3",
-      "title": "CrustRecruiter",
-      "link": "https://www.producthunt.com/products/crustdata-2",
-      "summary": "<p>\n            Turn Claude into a recruiter that thinks like you\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/crustdata-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1168429?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-10T11:49:14+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "fa9b38e3b874fdbccd150e9b18a04ab1f9ec73b3",
-      "title": "Bugpilot",
-      "link": "https://www.producthunt.com/products/bugpilot-browser-bugs-to-ai-markdown",
-      "summary": "<p>\n            Turn errors, DOM, + screenshots into an AI-ready Markdown\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bugpilot-browser-bugs-to-ai-markdown?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1168377?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-10T10:43:55+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "90b90e3131ddd79ea4a39596fba0185aa04af64b",
@@ -1400,11 +1436,11 @@
       "category": "events"
     },
     {
-      "id": "379cdfcc537a127d3fcdd5eec0c4769e0f022a6f",
-      "title": "SlimSnap",
-      "link": "https://www.producthunt.com/products/slimsnap",
-      "summary": "<p>\n            Your AI doesn't know which button you mean\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/slimsnap?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1168276?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-10T08:43:39+00:00",
+      "id": "d66498d5fd66dcd69e4ff256c96c75b118877586",
+      "title": "Airbrush Studio",
+      "link": "https://www.producthunt.com/products/airbrush-studio",
+      "summary": "<p>\n            AI-powered photo editor for pro results w/o manual editing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/airbrush-studio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1168301?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-10T09:15:09+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1427,65 +1463,29 @@
       "category": "malaysia"
     },
     {
-      "id": "9ce1392e04757f09762599d2fdc01a238ecec94e",
-      "title": "Asmi AI",
-      "link": "https://www.producthunt.com/products/asmi-ai",
-      "summary": "<p>\n            AI that handles your personal chores in the real world\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/asmi-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1167625?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-09T14:42:15+00:00",
+      "id": "7d6debf7fc31ff6832cca97997e67047dd33b957",
+      "title": "NODUS PH Radar for Product Hunt",
+      "link": "https://www.producthunt.com/products/nodus-ph-radar-for-product-hunt",
+      "summary": "<p>\n            Product Hunt analytics beyond the daily leaderboard\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nodus-ph-radar-for-product-hunt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1166978?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-08T21:47:33+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "d8b49537b1aab65caf8d0ab4b9b0eed49b7f690c",
-      "title": "Proxee",
-      "link": "https://www.producthunt.com/products/proxee",
-      "summary": "<p>\n            Your localhost on your phone, synced.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/proxee?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1167306?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-09T08:53:28+00:00",
+      "id": "8fc48ced0463a9a268554ba0e329e031fe542fae",
+      "title": "Firma.dev",
+      "link": "https://www.producthunt.com/products/firma-dev",
+      "summary": "<p>\n            E-signatures API for your app averaging ~3¢ per envelope\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/firma-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1166716?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-08T15:48:32+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "bd1c77fbea7cc453543803fc3c61cb1f3d0cf769",
-      "title": "Juno",
-      "link": "https://www.producthunt.com/products/juno-13",
-      "summary": "<p>\n            AI Health Companion for Chronic Illness\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/juno-13?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1166749?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-08T16:19:04+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "4e873d18c9c8bd826f247fb1ed3d44e932e74b2e",
-      "title": "Lium AI",
-      "link": "https://www.producthunt.com/products/lium",
-      "summary": "<p>\n            AI for Complex Data\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lium?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1165826?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-07T16:06:24+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "63f2e7fa57dec3047d2184b7165e4e48a5c072bc",
-      "title": "Respan Gateway",
-      "link": "https://www.producthunt.com/products/keywords-ai",
-      "summary": "<p>\n            One AI gateway with built-in observability and evals\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/keywords-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1165274?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-06T20:52:00+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "38434bcb97e9e06e6a66262c29cdd9ed08cfaf4d",
-      "title": "Journey Now",
-      "link": "https://www.producthunt.com/products/journey-now",
-      "summary": "<p>\n            Learning copilot for human ambition via step-by-step plans\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/journey-now?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1157109?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-27T11:43:16+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "cebf2421dfa973cca9079e7d32a77d3aa29515fe",
-      "title": "Nodey",
-      "link": "https://www.producthunt.com/products/nodey-n8n-in-your-pocket",
-      "summary": "<p>\n            Your n8n command center, now on your phone\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nodey-n8n-in-your-pocket?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146416?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-05-13T20:56:09+00:00",
+      "id": "dfe01720fc6bcc0f41a96bb83c35977be69520ae",
+      "title": "Pond",
+      "link": "https://www.producthunt.com/products/pond-5",
+      "summary": "<p>\n            Fundraising, GTM, and bounties for startups\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pond-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1166087?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-08T00:28:00+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
