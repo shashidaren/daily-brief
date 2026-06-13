@@ -1,9 +1,81 @@
 {
-  "generatedAt": "2026-06-13T15:27:48.347591+00:00",
+  "generatedAt": "2026-06-13T17:15:46.477929+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "a0d4d9e3ed9671a859914300d96686ceb983a983",
+      "title": "Trump's name removed from Kennedy Center after court order",
+      "link": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday.",
+      "published": "2026-06-13T17:00:23+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "0136a7a6ae63613707e6ada6aebe0c04e86bbe8f",
+      "title": "OpenAI faces investigation from state attorneys general",
+      "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+      "published": "2026-06-13T16:47:18+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "7dc87e59ca5562f20f2d863d6bd51fbf385b22cc",
+      "title": "Sources: Amazon CEO Andy Jassy is among tech leaders who raised concerns with Trump officials about Mythos 5, setting in motion new export restrictions (The Information)",
+      "link": "https://www.techmeme.com/260613/p8#a260613p8",
+      "summary": "<p><a href=\"https://www.techmeme.com/260613/p8#a260613p8\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/articles/amazons-jassy-raised-concerns-anthropic-model-trump-crackdown\">Sources: Amazon CEO Andy Jassy is among tech leaders who raised concerns with Trump officials about Mythos 5, setting in motion new export restrictions</a></b></span>&nbsp; &mdash;&nbsp; Amazon CEO Andy Jassy was among the tech leaders who raised concerns to senior Trump administration officials this week about security risks &hellip; </p>",
+      "published": "2026-06-13T16:35:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "bb6c25c18030d9abfbeb4af9dc42a9aa8b59123d",
+      "title": "Microsoft hasn’t ruled out spinning off Xbox",
+      "link": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
+      "summary": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled out spinning it off into a separate company. A new report from The Information suggests that Microsoft has [&#8230;]",
+      "published": "2026-06-13T16:29:47+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "0e37327030f1be998c47190c9ba6dce8117a05b3",
+      "title": "Anthropic suspends new AI tools over US government security concerns",
+      "link": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+      "summary": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
+      "published": "2026-06-13T16:28:38+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "9f6273485fe2d32b899a5c3714d613158b5058ed",
+      "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
+      "link": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
+      "summary": "I’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or my personal favorite: rain sounds. But earbuds can be uncomfortable, and playing audio out loud isn’t exactly considerate when I’m staying at [&#8230;]",
+      "published": "2026-06-13T16:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "c7661eccf4d8193e68dad4bde6f7670ee2313221",
+      "title": "Bose’s latest QuietComfort Ultra are $70 off, marking a new low price",
+      "link": "https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale",
+      "summary": "If you’re planning on traveling anytime soon, Bose&#8217;s second-generation QuietComfort Ultra headphones are a great companion for long flights and train rides. Not only do they offer excellent noise cancellation, but they also retain the foldable design of their predecessor, making them easy to pack in a carry-on. They’re even easier to recommend today, now [&#8230;]",
+      "published": "2026-06-13T16:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "683334d5c0e12b4005d5453fe357558b8b9bdce9",
+      "title": "Kidnapped Nigerian retired general dies in captivity",
+      "link": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Maj Gen Rabe Abubakar's death highlights continuing security challenges facing parts of the country.",
+      "published": "2026-06-13T15:25:09+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "1a2de058a3c5525727e752853c33a59dfaefcdac",
       "title": "Woman seriously injured in shark attack at Sydney beach",
@@ -32,15 +104,6 @@
       "category": "tech"
     },
     {
-      "id": "0e37327030f1be998c47190c9ba6dce8117a05b3",
-      "title": "Anthropic suspends new AI tools over US government security concerns",
-      "link": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
-      "summary": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
-      "published": "2026-06-13T14:36:03+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "66f2086011486d928fa9f88c1f40a005f59ec90e",
       "title": "Never Post’s Mike Rugnetta on the creative process and the value of reliable power",
       "link": "https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire",
@@ -66,15 +129,6 @@
       "published": "2026-06-13T13:40:01+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "a5e92b81fefb62eec20b342245d8e055d8bd1fff",
-      "title": "Trump's name being removed from Kennedy Center after judge order",
-      "link": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday.",
-      "published": "2026-06-13T13:38:32+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "0fcc925b34ce903a536c39154b5fe859678a777f",
@@ -446,6 +500,15 @@
       "category": "tech"
     },
     {
+      "id": "812640db65f0b60c2ead05a80d435e560255e26f",
+      "title": "The costs and challenges facing the 2026 World Cup",
+      "link": "https://www.bbc.com/news/videos/c24ynjvm43qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The World Cup officially kicked off this week - but alongside the football, there are questions around heat, cost, the environmental impact and travel restrictions.",
+      "published": "2026-06-13T06:21:43+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "f64a293d59e5114e3b5ec8ede7fc6a28bd197912",
       "title": "An interview with Corning CEO Wendell Weeks on risk-sharing provisions that protect the company in multibillion-dollar fiber deals with Nvidia, Meta, and Amazon (Christopher Mims/Wall Street Journal)",
       "link": "https://www.techmeme.com/260613/p3#a260613p3",
@@ -563,15 +626,6 @@
       "category": "tech"
     },
     {
-      "id": "4483767257027c8da906fe299329e179e2f2e232",
-      "title": "Valve just imported 13 tons of VR headsets in one day",
-      "link": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console",
-      "summary": "On June 10th, the German container ship Posen docked in Los Angeles after a two-week voyage from Shanghai. As Valve watcher Brad Lynch notes, it was almost certainly carrying the first mass production shipments of the Steam Frame, Valve's new gaming headset. Import records show that Valve's distribution partner Ceva offloaded nearly 32 metric tons [&#8230;]",
-      "published": "2026-06-13T01:32:18+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "fef2c5cc27eae7d3d52a72abd511c7e57cfdf881",
       "title": "Crypto-data provider Blockworks says it has acquired its rival Messari; source: Blockworks paid more than $10M for Messari, which was valued at $300M in 2022 (Vicky Ge Huang/Wall Street Journal)",
       "link": "https://www.techmeme.com/260612/p32#a260612p32",
@@ -641,15 +695,6 @@
       "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
       "published": "2026-06-12T23:00:54+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "5702da2b39fd0b314dca73492a266e28318ab81e",
-      "title": "Sources detail frustration inside Meta's Applied AI team, formed in March to support Superintelligence Labs, over menial projects, \"soul-crushing\" work, more (Wired)",
-      "link": "https://www.techmeme.com/260612/p28#a260612p28",
-      "summary": "<a href=\"https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260612/i28.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260612/p28#a260612p28\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.wired.com/\">Wired</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/\">Sources detail frustration inside Meta's Applied AI team, formed in March to support Superintelligence Labs, over menial projects, &ldquo;soul-crushing&rdquo; work, more</a></b></span>&nbsp; &mdash;&nbsp; Executives and employees alike are struggling with Meta's chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.</p>",
-      "published": "2026-06-12T22:35:03+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -740,15 +785,6 @@
       "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
       "published": "2026-06-12T20:20:00+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "515036ecf46f1612170d7171e262f5771a2e249c",
-      "title": "Nothing CEO says phone prices are going to keep going up",
-      "link": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices",
-      "summary": "If you're thinking about upgrading your phone, \"the best time was yesterday,\" according to Nothing CEO and co-founder Carl Pei, echoing a message we heard during MWC. As Android Authority reports, Pei said in a post on X that the RAM shortage has already impacted Nothing's less expensive mid-range phone: \"For Phone 4A , memory [&#8230;]",
-      "published": "2026-06-12T20:02:48+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -896,15 +932,6 @@
       "category": "tech"
     },
     {
-      "id": "a4372f14a7d395ed2e745e39a5ab5ed99b16f305",
-      "title": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
-      "link": "https://www.bbc.com/news/articles/crlw3w84w30o?at_medium=RSS&at_campaign=rss",
-      "summary": "Sylvester Muigai Ndung'u was in Nanyuki to fetch a school uniform on Tuesday, his mother says.",
-      "published": "2026-06-12T16:41:53+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "86361a2bcdc1a6af8896f79914f001ffd6b3c146",
       "title": "Keep tabs on weight loss and muscle gain with this smart scale and tape measure combo down at $40",
       "link": "https://9to5toys.com/2026/06/12/renpho-smart-scale-and-body-tape-measure/",
@@ -1004,15 +1031,6 @@
       "category": "deals"
     },
     {
-      "id": "b3d18efeea445bc162a047e9c0a613ea50e3847a",
-      "title": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
-      "link": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
-      "summary": "José Luis Rodriguez Zapatero is suspected of being unable to show proof he paid import duties on the jewellery.",
-      "published": "2026-06-12T15:55:46+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "1ba3406091fb746a66413e01f2621f6d8ce5fe56",
       "title": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
       "link": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
@@ -1029,15 +1047,6 @@
       "published": "2026-06-12T15:34:37+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "d3ff7d24969697551f6d5b775f3a0867646406a3",
-      "title": "More time needed for deadly Air India crash inquiry, officials say",
-      "link": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
-      "summary": "A statement says \"significant progress\" has been made into investigating the crash, in which 260 people died a year ago.",
-      "published": "2026-06-12T15:09:40+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "ae0ffc2633c17c39ff96c41816438e23b6619120",
@@ -1211,6 +1220,15 @@
       "category": "deals"
     },
     {
+      "id": "01af0b543bad2a62925f8cbd78f77456c9ba8ca2",
+      "title": "'I will come home safely': Indian sailor's last words to wife before a US strike killed him",
+      "link": "https://www.bbc.com/news/articles/cx24vlj2nvyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Patnala Suresh and his wife were looking forward to celebrating their 15th wedding anniversary this month.",
+      "published": "2026-06-12T08:52:36+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "658ce064e820f392ffb1482d235b66e35134d76f",
       "title": "Medicyn",
       "link": "https://www.producthunt.com/products/medicyn",
@@ -1355,15 +1373,6 @@
       "category": "tech"
     },
     {
-      "id": "13409f1bc909a7cff0b921617bb2b8d7b1616f64",
-      "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
-      "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
-      "summary": "The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulnerable servers.",
-      "published": "2026-06-11T20:27:25+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "4717f841a751e3217d8e379c39a595ece59f007e",
       "title": "LocIn AI",
       "link": "https://www.producthunt.com/products/locin-ai",
@@ -1371,15 +1380,6 @@
       "published": "2026-06-11T20:04:57+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "8eadaafcdcad64a0cef7a0231b70d1c6f3edafce",
-      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-      "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-      "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
-      "published": "2026-06-11T19:58:01+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "ed3c0b156265ce12d11a9e9f590930a846eb18b1",
