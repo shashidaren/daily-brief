@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-06-13T17:15:46.477929+00:00",
+  "generatedAt": "2026-06-13T19:14:57.410586+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "292f5db5cfd3ef56328b744058fd249f723b709a",
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "published": "2026-06-13T19:11:41+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "b168c7ad5d7f5d54e36c9b4d9503b9d14fa649d5",
+      "title": "US-Iran deal scheduled to be signed on Sunday, says Trump",
+      "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Before the US president's comments, Iran expressed caution about the exact timing.",
+      "published": "2026-06-13T18:39:26+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "931239304ba26d9584e1dcdd64d123a30f672274",
+      "title": "Sealed Super Mario Bros. sells for a record $3 million",
+      "link": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
+      "summary": "A copy of Super Mario Bros., still in the box and sealed with its original sticker, just sold at Heritage Auctions for $3 million. That absolutely crushes the previous record of $2 million, also for a copy of Super Mario Bros., in 2021. That sale also came hot on the heels of a controversial auction [&#8230;]",
+      "published": "2026-06-13T18:37:21+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "b86f5312d714e9a0a0c7df9382279bde59e7e17d",
+      "title": "David Sacks says Dario Amodei refused to \"fix the jailbreak or de-deploy the model\" after \"a highly credible trusted partner\" reported a Fable jailbreak (David Sacks/@davidsacks)",
+      "link": "https://www.techmeme.com/260613/p9#a260613p9",
+      "summary": "<p><a href=\"https://www.techmeme.com/260613/p9#a260613p9\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> David Sacks / <a href=\"https://x.com/davidsacks\">@davidsacks</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://x.com/davidsacks/status/2065853007619588171\">David Sacks says Dario Amodei refused to &ldquo;fix the jailbreak or de-deploy the model&rdquo; after &ldquo;a highly credible trusted partner&rdquo; reported a Fable jailbreak</a></b></span>&nbsp; &mdash;&nbsp; I've had a number of conversations with folks inside and outside government about the current situation with Anthropic, and here is what I believe to be true: &mdash; As we know, Anthropic publicly released its Mythos class models earlier this week under the commercial name Fable.</p>",
+      "published": "2026-06-13T18:20:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "4c60b7bd3c1066b1a18bbb65d51a3ea6d37bcaa5",
+      "title": "Review: Disclosure Day is big on action, light on ideas",
+      "link": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
+      "summary": "There's nothing new or surprising, but it's still an entertaining film from one of our greatest directors.",
+      "published": "2026-06-13T17:17:44+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
     {
       "id": "a0d4d9e3ed9671a859914300d96686ceb983a983",
       "title": "Trump's name removed from Kennedy Center after court order",
@@ -338,15 +383,6 @@
       "category": "malaysia"
     },
     {
-      "id": "57c3987092c248473aabcb3e148002d3dba647b9",
-      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
-      "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
-      "published": "2026-06-13T11:15:18+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "7a3f04b6ec77ce4e2440ab6bc0a12011de7ac755",
       "title": "Five personnel killed, co-pilot survives as Indian Air Force transport plane crashes while landing in Assam",
       "link": "https://www.malaymail.com/news/world/2026/06/13/five-personnel-killed-co-pilot-survives-as-indian-air-force-transport-plane-crashes-while-landing-in-assam/223670",
@@ -362,15 +398,6 @@
       "summary": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.",
       "published": "2026-06-13T11:00:00+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "4ef28a18c68ca25255ebe3942336851948618d1b",
-      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
-      "summary": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of churning out short bursts of [&#8230;]",
-      "published": "2026-06-13T11:00:00+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -667,15 +694,6 @@
       "link": "https://www.techmeme.com/260612/p30#a260612p30",
       "summary": "<a href=\"https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260612/i30.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260612/p30#a260612p30\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security\">Source: the US Commerce Department decided to block foreign persons from accessing Fable 5 and Mythos 5 after a company claimed it was able to jailbreak Mythos</a></b></span>&nbsp; &mdash;&nbsp; The Trump administration is blocking foreign governments, companies and individuals from accessing Anthropic's most advanced AI models.</p>",
       "published": "2026-06-12T23:56:41+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "74ee21511cf1f2e6b3e9f098afd8d1dda62697f9",
-      "title": "OpenAI was subpoenaed on Friday by a coalition of state AGs for documents covering a wide range of its activities and impact on users (Wall Street Journal)",
-      "link": "https://www.techmeme.com/260612/p29#a260612p29",
-      "summary": "<a href=\"https://www.wsj.com/tech/openai-investigated-by-coalition-of-state-attorneys-general-088a3928?st=MTfREr&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260612/i29.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260612/p29#a260612p29\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/tech/openai-investigated-by-coalition-of-state-attorneys-general-088a3928?st=MTfREr&amp;reflink=desktopwebshare_permalink\">OpenAI was subpoenaed on Friday by a coalition of state AGs for documents covering a wide range of its activities and impact on users</a></b></span>&nbsp; &mdash;&nbsp; Company subpoenaed for documents covering wide range of its activities and impact on users&nbsp; &mdash;&nbsp; A coalition of state attorneys general has opened &hellip; </p>",
-      "published": "2026-06-12T23:25:02+00:00",
       "source": "Techmeme",
       "category": "tech"
     },
@@ -1238,15 +1256,6 @@
       "category": "events"
     },
     {
-      "id": "c27a56e213902071e1d04203f71771118f5e5e29",
-      "title": "Keep",
-      "link": "https://www.producthunt.com/products/keep-8",
-      "summary": "<p>\n            Full-screen 3D clock scenes for your iPhone or Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/keep-8?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169858?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-12T06:45:17+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "4b3be3d411dd908ac4f4e08affe26257c8379998",
       "title": "Qursor",
       "link": "https://www.producthunt.com/products/qursor",
@@ -1364,15 +1373,6 @@
       "category": "world"
     },
     {
-      "id": "2c1e9921f28fe4554f1abc559d1308426b3c09ee",
-      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-      "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-      "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
-      "published": "2026-06-11T20:33:10+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "4717f841a751e3217d8e379c39a595ece59f007e",
       "title": "LocIn AI",
       "link": "https://www.producthunt.com/products/locin-ai",
@@ -1382,13 +1382,13 @@
       "category": "events"
     },
     {
-      "id": "ed3c0b156265ce12d11a9e9f590930a846eb18b1",
-      "title": "Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act",
-      "link": "https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/",
-      "summary": "Cruz/Wyden bill would help Americans sue federal officials over censorship.",
-      "published": "2026-06-11T19:31:37+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
+      "id": "43dca08ce7a4f0757bb7884d4a90e050a8f9d211",
+      "title": "ShellMate",
+      "link": "https://www.producthunt.com/products/shellmate-2",
+      "summary": "<p>\n            Manage SSH servers, credentials, and teams in one place\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/shellmate-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169557?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-11T18:43:32+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "bbf0862438756398136ecaf4814441d73cb5fe2a",
@@ -1396,6 +1396,15 @@
       "link": "https://www.producthunt.com/products/clutch-alarm",
       "summary": "<p>\n            Sleep through the night. Wake up for the goals.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clutch-alarm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169552?app_id=339\">Link</a>\n          </p>",
       "published": "2026-06-11T18:39:38+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "9a0966971300fb19a9cdc65909ddce288788cd06",
+      "title": "Tide",
+      "link": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
+      "summary": "<p>\n            Layered voice notes that paint themselves\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tide-beautiful-layered-voice-notes?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169527?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-11T18:08:04+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1434,15 +1443,6 @@
       "published": "2026-06-11T08:25:53+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "d4b75dadb0306878294e76ad8fa7dff929e5e650",
-      "title": "Insta360 Luna Ultra",
-      "link": "https://www.producthunt.com/products/insta-360",
-      "summary": "<p>\n            A gimbal camera that sees with you\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/insta-360?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169141?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-11T08:01:45+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "c553e410cad1f12fafba70ca26909e24f1ead016",
