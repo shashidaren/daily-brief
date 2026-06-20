@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-06-20T17:18:45.836964+00:00",
+  "generatedAt": "2026-06-20T19:14:35.472020+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "8fb2c7b21c398ea1718d9f3bf8190c0732865114",
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over [&#8230;]",
+      "published": "2026-06-20T18:46:48+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "88b3193dd1592002c11ec2cf3124ea0ba3e63659",
+      "title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
+      "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran said Israel's continued attacks in Lebanon are a breach of Tehran's agreement with the US to end the war.",
+      "published": "2026-06-20T18:39:55+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "55499df747ebb28b374aad75f18508464785ff03",
+      "title": "Founders Fund’s outlier bet on humanely killed fish",
+      "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+      "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
+      "published": "2026-06-20T18:26:02+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "70a1e7dd5db617acc919040463464566b3cf1e03",
+      "title": "How success of AI-related companies in South Korea, Taiwan, and Japan is driving stock gains, bigger bonuses, and a retail investing frenzy in Asian markets (Wall Street Journal)",
+      "link": "https://www.techmeme.com/260620/p10#a260620p10",
+      "summary": "<a href=\"https://www.wsj.com/world/asia/stock-market-ai-chips-taiwan-korea-01b7d385?st=5KAQSi&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260620/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260620/p10#a260620p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/world/asia/stock-market-ai-chips-taiwan-korea-01b7d385?st=5KAQSi&amp;reflink=desktopwebshare_permalink\">How success of AI-related companies in South Korea, Taiwan, and Japan is driving stock gains, bigger bonuses, and a retail investing frenzy in Asian markets</a></b></span>&nbsp; &mdash;&nbsp; Global success of AI-related companies in South Korea, Taiwan and Japan stokes market fever&nbsp; &mdash;&nbsp; Na Se-bin has lost all sense of the value of money.</p>",
+      "published": "2026-06-20T18:15:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "4428feabbc07707dfa12a99a0a92cadd97ccd3f9",
+      "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+      "link": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died from her injuries after the Israeli strike.",
+      "published": "2026-06-20T17:40:43+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "553a4d893cc0a752f456094e877d61dde344c851",
+      "title": "Tourist dies in Dominican Republic luxury resort fire",
+      "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast.",
+      "published": "2026-06-20T17:33:25+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "2f816347fa67d7b4cca12f16e738c3501de27b9e",
       "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
@@ -39,15 +93,6 @@
       "published": "2026-06-20T16:15:01+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "88b3193dd1592002c11ec2cf3124ea0ba3e63659",
-      "title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
-      "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran said Israel's continued attacks in Lebanon are a breach of Tehran's agreement with the US to end the war.",
-      "published": "2026-06-20T16:07:44+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "02ba543725fa2dfbd832b7790a60ef9d96a6c1eb",
@@ -129,15 +174,6 @@
       "published": "2026-06-20T13:35:05+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "d8b41af4f999197f964a5f71fa6d24130662a1e1",
-      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-      "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 20 people have reportedly been killed by Israeli air strikes as the Israeli military said Hezbollah had fired at Israeli troops in southern Lebanon.",
-      "published": "2026-06-20T13:23:40+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "f58a80f1815b8faad84aff2ac0cfe5c0f38ff48c",
@@ -455,15 +491,6 @@
       "category": "deals"
     },
     {
-      "id": "553a4d893cc0a752f456094e877d61dde344c851",
-      "title": "Tourist dies in Dominican Republic luxury resort fire",
-      "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast.",
-      "published": "2026-06-20T07:40:20+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "4382e054f15bb94b9d31613e6f0989215cdb0046",
       "title": "SwitchBot’s Standing Circulator Fan is worth fighting for",
       "link": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
@@ -743,15 +770,6 @@
       "category": "deals"
     },
     {
-      "id": "2e5975ad05c4146fbde9963ddeba5fa57afc7e9b",
-      "title": "The departure of John Jumper, a key member of Google's AI coding development team, further strains Google's efforts to compete with Anthropic and OpenAI (Bloomberg)",
-      "link": "https://www.techmeme.com/260619/p20#a260619p20",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-06-19/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260619/i20.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260619/p20#a260619p20\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-06-19/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic\">The departure of John Jumper, a key member of Google's AI coding development team, further strains Google's efforts to compete with Anthropic and OpenAI</a></b></span>&nbsp; &mdash;&nbsp; Google DeepMind Vice President John Jumper, who won the 2024 Nobel Prize in chemistry for his work on artificial intelligence, is leaving the company to join Anthropic PBC.</p>",
-      "published": "2026-06-19T19:45:04+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "3800805d5a217b8b76462d7ef3f190ffb1a1630a",
       "title": "Land ChatGPT, Claude, and Gemini AI action for $70 (No subscription, $540 value)",
       "link": "https://9to5toys.com/2026/06/19/chatgpt-claude-gemini-ai/",
@@ -865,15 +883,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
       "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica [&#8230;]",
       "published": "2026-06-19T14:15:29+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "8cbbe4a8a1ab8fbe0b9a616727f20cce370ec29a",
-      "title": "Our long national sunscreen nightmare is almost over",
-      "link": "https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On TikTok, the tanned youths are explaining why they no longer wear sunscreen. In one video, a young man films [&#8230;]",
-      "published": "2026-06-19T14:00:00+00:00",
       "source": "The Verge",
       "category": "tech"
     },
@@ -1049,6 +1058,15 @@
       "category": "malaysia"
     },
     {
+      "id": "a3d74d4e20126b8190747630dd84145912d63106",
+      "title": "Midjourney Scanner",
+      "link": "https://www.producthunt.com/products/midjourney",
+      "summary": "<p>\n            60 second ultrasound-based full-body scanner that beats MRI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/midjourney?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1175715?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-19T03:18:43+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "db9e4909fbd0d846503695bcbc2f131795435d6e",
       "title": "pumaDB",
       "link": "https://www.producthunt.com/products/pumadb",
@@ -1166,6 +1184,15 @@
       "category": "tech"
     },
     {
+      "id": "124c6b24dfa69e8e5b064a15c002c36a7d264e47",
+      "title": "Firecrawl Research Index",
+      "link": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "summary": "<p>\n            An index for agents pushing the frontier of AI/ML research\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1175559?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-18T20:29:16+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "2f6452f8908ef4536fc67dbc3581ea72e38343ba",
       "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
       "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
@@ -1247,15 +1274,6 @@
       "category": "events"
     },
     {
-      "id": "78e79357ae73981addbc5ec6e6d6fa7ca03383c0",
-      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-      "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-      "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
-      "published": "2026-06-18T18:22:13+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "470149b5e98a05d33cf4ab9a42d7ef8e9b8acba7",
       "title": "After Senate vote, Trump admin backs off plans to kill ocean monitoring",
       "link": "https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/",
@@ -1263,6 +1281,15 @@
       "published": "2026-06-18T18:19:44+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
+    },
+    {
+      "id": "28682f4b24f67eb538e69684849c14db659e9547",
+      "title": "Claude Code Artifacts",
+      "link": "https://www.producthunt.com/products/claude-redesigned",
+      "summary": "<p>\n            Preview and share your coding work live as it happens\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-redesigned?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1175474?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-18T18:14:11+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "151af3a0daf7e7dfd9312350dee10cd6c87f6566",
@@ -1292,15 +1319,6 @@
       "category": "tech"
     },
     {
-      "id": "dfa2e80e1cc59543c7b6e05bf71b94875652f0c2",
-      "title": "Blazly Backlinker",
-      "link": "https://www.producthunt.com/products/blazly-backlinker",
-      "summary": "<p>\n            Automate your entire backlink generation\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/blazly-backlinker?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1175332?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-18T14:58:24+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "fd53d532860e8014570a39d1448483754687cc8e",
       "title": "The first long-duration resident of the ISS, a cosmonaut, has died",
       "link": "https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/",
@@ -1326,15 +1344,6 @@
       "published": "2026-06-18T13:13:16+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "cb522a576453ecd01de31257d57f2cab4dc15a9e",
-      "title": "QuackScreen",
-      "link": "https://www.producthunt.com/products/quackscreen",
-      "summary": "<p>\n            Capture, drag, share all from the MacBook notch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/quackscreen?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1175235?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-18T13:03:49+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "1551919bd0c90cb85b823a4043a8133ed6f227b3",
@@ -1441,15 +1450,6 @@
       "link": "https://www.producthunt.com/products/releasedock",
       "summary": "<p>\n            AI support agent, help center & changelogs in a single inbox\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/releasedock?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1173457?app_id=339\">Link</a>\n          </p>",
       "published": "2026-06-16T15:15:07+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "57ae15b2b3d631555f174bdb39102756ff55979c",
-      "title": "Prism",
-      "link": "https://www.producthunt.com/products/prism-28",
-      "summary": "<p>\n            Al Companion for macOS\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/prism-28?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1172820?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-15T23:29:26+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
