@@ -1,12 +1,57 @@
 {
-  "generatedAt": "2026-06-27T20:53:41.420915+00:00",
+  "generatedAt": "2026-06-27T21:57:33.892485+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
-      "id": "37175924526e09f090442921183596175fd3e67e",
-      "title": "Heatwave breaks more records in northern and central Europe",
+      "id": "ed84f3a718e859d0a106e86f861c665b126ca910",
+      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+      "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
+      "published": "2026-06-27T21:35:40+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "dfd91c05a03edcddf3034c53a9ed44e94bc177f7",
+      "title": "The rapid pace of AI progress has created a pervasive fear of missing out across Silicon Valley, fueling anxiety among founders, executives, employees, and VCs (Bloomberg)",
+      "link": "https://www.techmeme.com/260627/p13#a260627p13",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjUzMjY0MiwiZXhwIjoxNzgzMTM3NDQyLCJhcnRpY2xlSWQiOiJUSDhDWUZLSVVQUzQwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.Ki1RROjbzFVqlXR1nfze5sahC7lLwemqdmSYAoeRW8c\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260627/i13.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260627/p13#a260627p13\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjUzMjY0MiwiZXhwIjoxNzgzMTM3NDQyLCJhcnRpY2xlSWQiOiJUSDhDWUZLSVVQUzQwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.Ki1RROjbzFVqlXR1nfze5sahC7lLwemqdmSYAoeRW8c\">The rapid pace of AI progress has created a pervasive fear of missing out across Silicon Valley, fueling anxiety among founders, executives, employees, and VCs</a></b></span>&nbsp; &mdash;&nbsp; Claude Code is cutting into sleep time.&nbsp; &mdash;&nbsp; Matt Van Horn, a serial entrepreneur and father of four, never turns his laptop off anymore.</p>",
+      "published": "2026-06-27T21:35:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "b62865e5395bec3ea014b0fc79965b8a02ca7c05",
+      "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
+      "link": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
+      "summary": "Instagram users could soon see more ways to tune their content.",
+      "published": "2026-06-27T21:27:37+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "39447a2d8980b5a9413192475bf417706238e15e",
+      "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
+      "link": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
+      "summary": "Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selectable sample rates for lo-fi fun, sample reverse, an arpeggiator, equal-length autochopping, and it extends the maximum length of a sample from 20 seconds [&#8230;]",
+      "published": "2026-06-27T21:20:32+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "9c7e4641d5b73dd3645b4a567e798890971463e5",
+      "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+      "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
+      "published": "2026-06-27T21:12:51+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "e3f7c2eeabeaad8700e8782e41741c84cf0da488",
+      "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
       "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
       "summary": "An estimated 150 million people are now experiencing temperatures of over 35C across Europe.",
       "published": "2026-06-27T20:48:16+00:00",
@@ -39,15 +84,6 @@
       "published": "2026-06-27T19:35:01+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "9c7e4641d5b73dd3645b4a567e798890971463e5",
-      "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
-      "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
-      "published": "2026-06-27T19:18:57+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "7ee67caf36a28f913ce8271e21db5ffc35964778",
@@ -662,15 +698,6 @@
       "category": "tech"
     },
     {
-      "id": "cff3e24e8ee21587521137e98cfaef2e0a3c0dfa",
-      "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
-      "link": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
-      "summary": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling out at some retailers, so if you’ve been craving a popular [&#8230;]",
-      "published": "2026-06-27T02:54:45+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "828c7dd04f295939f777d6e33c55ce3552a65503",
       "title": "Fashion Weekly – Prime Day edition: New Balance, Polo Ralph Lauren, Nike, Levi’s, adidas, much more",
       "link": "https://9to5toys.com/2026/06/26/fashion-weekly-jun-26/",
@@ -680,13 +707,13 @@
       "category": "deals"
     },
     {
-      "id": "8e1eb64508f799fff74ac16ad677e406a03bdc24",
-      "title": "Sources: SpaceX and Charter have held executive-level talks on a consumer mobile phone offering, which would help SpaceX become a DTC mobile phone provider (Kelcee Griffis/Bloomberg)",
-      "link": "https://www.techmeme.com/260626/p33#a260626p33",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-06-26/spacex-charter-discussed-mobile-phone-partnership-in-us?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjUxNzk2NywiZXhwIjoxNzgzMTIyNzY3LCJhcnRpY2xlSWQiOiJUSDk0MFZUOU5KTFQwMCIsImJjb25uZWN0SWQiOiJFMzk0MDI4OTkwRDk0MUEzOUQwNDA3QUQyNDYzNzNBNiJ9.jXH-SnEbposo_p1XdrSNO_nyG-kdEM1NvOX0B3Ot9O8\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260626/i33.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260626/p33#a260626p33\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kelcee Griffis / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-06-26/spacex-charter-discussed-mobile-phone-partnership-in-us?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjUxNzk2NywiZXhwIjoxNzgzMTIyNzY3LCJhcnRpY2xlSWQiOiJUSDk0MFZUOU5KTFQwMCIsImJjb25uZWN0SWQiOiJFMzk0MDI4OTkwRDk0MUEzOUQwNDA3QUQyNDYzNzNBNiJ9.jXH-SnEbposo_p1XdrSNO_nyG-kdEM1NvOX0B3Ot9O8\">Sources: SpaceX and Charter have held executive-level talks on a consumer mobile phone offering, which would help SpaceX become a DTC mobile phone provider</a></b></span>&nbsp; &mdash;&nbsp; SpaceX and Charter Communications Inc. have held executive-level talks about partnering on a consumer mobile phone offering, according to people familiar with the matter.</p>",
-      "published": "2026-06-27T02:20:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
+      "id": "4eb6b4b186843259182ca4b594133b875ba8c27a",
+      "title": "Just how much trouble is Canada's economy in?",
+      "link": "https://www.bbc.co.uk/news/articles/c70y1y909pdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Five charts help illustrate the state of Canada's economy - and how it's performing compared to other wealthy nations.",
+      "published": "2026-06-27T01:58:40+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "81432c935b262a1d56f002965fc920d816c54a25",
@@ -698,8 +725,8 @@
       "category": "deals"
     },
     {
-      "id": "efbd62ecb557673a5c57585bf1035b4d3a957d1d",
-      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "id": "8be765212bb60ecdd85d4dfafbbb80ab77a15a6f",
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
       "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
       "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
       "published": "2026-06-27T01:01:37+00:00",
@@ -743,6 +770,24 @@
       "category": "world"
     },
     {
+      "id": "af91bca864237d8376edf52e88c9f6ac12fbdfdd",
+      "title": "GTA 6 will launch as download only - does that mean the disc is dead?",
+      "link": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
+      "summary": "Music and films are now largely digital-only - does the lack of a disc for GTA 6 mean gaming is going the same way?",
+      "published": "2026-06-26T23:03:04+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "67b44d2870262ef748d79d0f003cd39dcfb492c9",
+      "title": "Hit South African show gets the world talking about polygamy and cheating",
+      "link": "https://www.bbc.co.uk/news/articles/cx2djde7v2do?at_medium=RSS&at_campaign=rss",
+      "summary": "The Zulu-language series about a man with multiple wives is a worldwide hit.",
+      "published": "2026-06-26T23:02:23+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "f56e89a3072eafb5956e116f4fe7a6a34e6a5077",
       "title": "Could you handle a 20-plus hour flight? This airline is banking on it",
       "link": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&at_campaign=rss",
@@ -766,15 +811,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
       "summary": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
       "published": "2026-06-26T23:01:50+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "5aa17716a72d48d50118d1dd737592482c449381",
-      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
-      "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
-      "summary": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes.",
-      "published": "2026-06-26T22:55:28+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -959,15 +995,6 @@
       "category": "deals"
     },
     {
-      "id": "a44123ed50f6c631177a32c272972f95f0f9ab4d",
-      "title": "World Cup fans frustrated by 'confusing and expensive' tipping culture in US",
-      "link": "https://www.bbc.co.uk/news/articles/clyxgjykx7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "International fans visiting the US for the World Cup have become frustrated by the culture of having to tip servers, telling the BBC that tipping fatigue has set in.",
-      "published": "2026-06-26T18:20:04+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "cf221e99803320ad8b0ad54f144fcd6c947859ba",
       "title": "Netflix now requires every user profile to be tied to unique email address",
       "link": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
@@ -1065,15 +1092,6 @@
       "published": "2026-06-26T15:46:05+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "77c6c8984dd489571b54cc1efc2fb221ae56d51a",
-      "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
-      "link": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
-      "summary": "It relates to a 17-year-old girl - four men including her father and husband face years in jail if convicted.",
-      "published": "2026-06-26T15:34:39+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "ddb967e6dbfdac8ca7618f33aa643a53146093f9",
@@ -1175,15 +1193,6 @@
       "category": "tech"
     },
     {
-      "id": "5df22ad8c87bdfcf198e73457521d4912fa28963",
-      "title": "Christmas market attacker jailed for life for murdering six in Germany",
-      "link": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
-      "summary": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
-      "published": "2026-06-26T10:49:11+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "7585e79f555f0e8d1366064e570442b783b4f3ae",
       "title": "Swatch Seeks US$170 Million In Damages From Samsung Over Galaxy Watch Faces",
       "link": "https://www.lowyat.net/2026/397007/swatch-seeks-us170-million-damages-samsung-galaxy-watch-faces/",
@@ -1265,15 +1274,6 @@
       "category": "tech"
     },
     {
-      "id": "ab80cf71d0bae3376d99b9f315a6a472aecafda4",
-      "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
-      "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
-      "summary": "YouTube Shorts is getting a makeover.",
-      "published": "2026-06-25T22:02:12+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "9782e995774c986aeeddd5d66aaf437da228986e",
       "title": "Cewsco",
       "link": "https://www.producthunt.com/products/cewsco",
@@ -1344,6 +1344,15 @@
       "published": "2026-06-25T18:00:39+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
+    },
+    {
+      "id": "484457b4aa2f238d80c1b5be1d71127ae6847ed5",
+      "title": "LockIn MCP",
+      "link": "https://www.producthunt.com/products/lockin-mcp",
+      "summary": "<p>\n            Let AI block distractions for you when you need to lock in\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lockin-mcp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1180675?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-25T09:35:32+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "e32bd81fb4bbbddac5471fb2b47b8779988ebabc",
@@ -1423,15 +1432,6 @@
       "link": "https://www.producthunt.com/products/animdock-motion-templates-in-the-browser",
       "summary": "<p>\n            Create trend motions in your browser!\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/animdock-motion-templates-in-the-browser?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1177137?app_id=339\">Link</a>\n          </p>",
       "published": "2026-06-21T07:07:34+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "33a84e0595fc40459f472d14840861e51c0ec29f",
-      "title": "Atlas",
-      "link": "https://www.producthunt.com/products/nanonets",
-      "summary": "<p>\n            Every AI tool you use should know how your company works\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nanonets?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1176131?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-19T14:21:35+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
