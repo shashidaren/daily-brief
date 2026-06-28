@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-06-28T17:01:48.250497+00:00",
+  "generatedAt": "2026-06-28T19:08:15.062620+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "cb6772d6b26e0c151fe30bc639eae02b2826556e",
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+      "published": "2026-06-28T19:05:39+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "d409e15a5bcc69b6eb92584252ea8d89990bf6b8",
+      "title": "Sources: Baidu's chip unit Kunlunxin Technology plans a Hong Kong IPO at a $50B target valuation, asking investors to buy chips worth 3-7x their IPO investment (Qianer Liu/The Information)",
+      "link": "https://www.techmeme.com/260628/p11#a260628p11",
+      "summary": "<a href=\"https://www.theinformation.com/articles/baidus-chip-unit-asked-ipo-investors-buy-semiconductors\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260628/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260628/p11#a260628p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Qianer Liu / <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/articles/baidus-chip-unit-asked-ipo-investors-buy-semiconductors\">Sources: Baidu's chip unit Kunlunxin Technology plans a Hong Kong IPO at a $50B target valuation, asking investors to buy chips worth 3-7x their IPO investment</a></b></span>&nbsp; &mdash;&nbsp; In China, chip companies may have found a new clientele for their semiconductors: IPO investors.</p>",
+      "published": "2026-06-28T19:00:31+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "b07541b014f7762bd672a2374fb10d7331b59cb7",
+      "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pilot and 10 passengers - including five first-time parachutists - died in the incident, local officials said.",
+      "published": "2026-06-28T18:34:07+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "145fcd377c56b083da96ee98c801d849c7194366",
+      "title": "Australian government says it plans to double the maximum penalty for any social media company breaking its minimum age law and grant more powers to enforcers (Jackson Chen/Engadget)",
+      "link": "https://www.techmeme.com/260628/p10#a260628p10",
+      "summary": "<a href=\"https://www.engadget.com/2203358/australia-doubles-maximum-penalty-social-media-ban/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260628/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260628/p10#a260628p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jackson Chen / <a href=\"https://www.engadget.com/\">Engadget</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.engadget.com/2203358/australia-doubles-maximum-penalty-social-media-ban/\">Australian government says it plans to double the maximum penalty for any social media company breaking its minimum age law and grant more powers to enforcers</a></b></span>&nbsp; &mdash;&nbsp; The fine can now potentially hit 99 million AUD, or $68 million.&nbsp; &mdash;&nbsp; After becoming the first in the world to implement &hellip; </p>",
+      "published": "2026-06-28T18:25:04+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "bcbbfd7a62ea52d26d265dc19745127cbb6012eb",
+      "title": "China claims the world&#8217;s fastest supercomputer",
+      "link": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
+      "summary": "Despite trade restrictions, China has reclaimed the title of the world's fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan out of number one on the TOP500 ranking. That's despite strict limits on what high-powered computing components can be sold to China by US firms, which dominate the list, with America [&#8230;]",
+      "published": "2026-06-28T17:20:59+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "11535ba374d71c95ec57ced54e7e3cea13d749b2",
+      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization",
+      "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
+      "summary": "Has Silicon Valley been building the wrong things?",
+      "published": "2026-06-28T17:03:16+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "a8856f637e5042baecfb25c753835d79bd52ae62",
       "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
@@ -59,15 +113,6 @@
       "category": "tech"
     },
     {
-      "id": "b07541b014f7762bd672a2374fb10d7331b59cb7",
-      "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
-      "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pilot and 10 passengers died in the incident, local officials said.",
-      "published": "2026-06-28T15:51:19+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "ffa398785d68fde3332d4f13694503febf9de3ec",
       "title": "Fourteen killed in Saudi Arabia helicopter crash",
       "link": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
@@ -95,8 +140,8 @@
       "category": "tech"
     },
     {
-      "id": "1a88afb34c02bdfc31b2e866807a862061571d7c",
-      "title": "Australian man charged with murder after girl found dead in suitcase in Thailand",
+      "id": "77094dbef82986b99bafc9028f253c75c005782c",
+      "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
       "link": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
       "summary": "The 17-year-old's body was found discarded near a railway track on Saturday, police say.",
       "published": "2026-06-28T14:30:05+00:00",
@@ -608,15 +653,6 @@
       "category": "world"
     },
     {
-      "id": "dfd91c05a03edcddf3034c53a9ed44e94bc177f7",
-      "title": "The rapid pace of AI progress has created a pervasive fear of missing out across Silicon Valley, fueling anxiety among founders, executives, employees, and VCs (Bloomberg)",
-      "link": "https://www.techmeme.com/260627/p13#a260627p13",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjUzMjY0MiwiZXhwIjoxNzgzMTM3NDQyLCJhcnRpY2xlSWQiOiJUSDhDWUZLSVVQUzQwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.Ki1RROjbzFVqlXR1nfze5sahC7lLwemqdmSYAoeRW8c\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260627/i13.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260627/p13#a260627p13\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjUzMjY0MiwiZXhwIjoxNzgzMTM3NDQyLCJhcnRpY2xlSWQiOiJUSDhDWUZLSVVQUzQwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.Ki1RROjbzFVqlXR1nfze5sahC7lLwemqdmSYAoeRW8c\">The rapid pace of AI progress has created a pervasive fear of missing out across Silicon Valley, fueling anxiety among founders, executives, employees, and VCs</a></b></span>&nbsp; &mdash;&nbsp; Claude Code is cutting into sleep time.&nbsp; &mdash;&nbsp; Matt Van Horn, a serial entrepreneur and father of four, never turns his laptop off anymore.</p>",
-      "published": "2026-06-27T21:35:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "babcee44fb0af5cf54b7b3d713b22921a4929142",
       "title": "Budapest's first Pride since Orban left power",
       "link": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo?at_medium=RSS&at_campaign=rss",
@@ -669,15 +705,6 @@
       "published": "2026-06-27T20:03:26+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "05bbda53450900964fd7cbf48c019fb47a667016",
-      "title": "Sports clips' rise on platforms like YouTube has left broadcasters debating whether to use them to attract younger viewers or protect their subscription revenue (Lillian Rizzo/CNBC)",
-      "link": "https://www.techmeme.com/260627/p12#a260627p12",
-      "summary": "<a href=\"https://www.cnbc.com/2026/06/25/tiktok-youtube-sports-viewership.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260627/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260627/p12#a260627p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lillian Rizzo / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/06/25/tiktok-youtube-sports-viewership.html\">Sports clips' rise on platforms like YouTube has left broadcasters debating whether to use them to attract younger viewers or protect their subscription revenue</a></b></span>&nbsp; &mdash;&nbsp; As the New York Knicks clinched their first championship in 53 years and the NBA notched its highest Finals series ratings since 1998 &hellip; </p>",
-      "published": "2026-06-27T19:35:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "7ee67caf36a28f913ce8271e21db5ffc35964778",
@@ -740,15 +767,6 @@
       "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
       "published": "2026-06-27T14:00:00+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "db13c149d893476ba8ce12cac78ad4d2d51fa9ad",
-      "title": "Indie developers got tired of waiting for a new Star Fox, so they’re making their own",
-      "link": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games",
-      "summary": "Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering \"cocky little freaks!\" in time with a monkey encased in a Gundam suit, I'm simultaneously describing playing Star Fox 64 (Lylat Wars if you're nasty) in 1997 and streaming it [&#8230;]",
-      "published": "2026-06-27T14:00:00+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -1148,30 +1166,12 @@
       "category": "tech"
     },
     {
-      "id": "c26492536fc20b28586df408bbf337473f454679",
-      "title": "TikTok’s road to becoming a super app",
-      "link": "https://techcrunch.com/2026/06/26/tiktoks-road-to-becoming-a-super-app/",
-      "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
-      "published": "2026-06-26T16:29:48+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "8fb99c77c4d1840e2f09b1a84b4f5bf44f0fc27d",
       "title": "Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?",
       "link": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
       "summary": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn.",
       "published": "2026-06-26T16:24:59+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "34d5ef76bb08bfb6dec2ca238fa8ab8e702b5173",
-      "title": "It’s not about Anthropic vs. OpenAI anymore",
-      "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
-      "published": "2026-06-26T16:24:47+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1265,6 +1265,15 @@
       "category": "events"
     },
     {
+      "id": "ab3b9db96c8924c35cbd13ea15cf0cf3465de81e",
+      "title": "Basedash for Excel",
+      "link": "https://www.producthunt.com/products/basedash",
+      "summary": "<p>\n            Turn any Excel file into a live dashboard\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1181329?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-26T04:15:50+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "76f55ac8e10c78794edad3d49efbe333bbe2baea",
       "title": "MacBooks, Mac mini, iMac and iPads just got a lot more expensive in Malaysia",
       "link": "https://soyacincau.com/2026/06/26/apple-malaysia-price-increase-ipad-mac-macbooks/",
@@ -1337,15 +1346,6 @@
       "category": "tech"
     },
     {
-      "id": "484457b4aa2f238d80c1b5be1d71127ae6847ed5",
-      "title": "LockIn MCP",
-      "link": "https://www.producthunt.com/products/lockin-mcp",
-      "summary": "<p>\n            Let AI block distractions for you when you need to lock in\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lockin-mcp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1180675?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-25T09:35:32+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "e32bd81fb4bbbddac5471fb2b47b8779988ebabc",
       "title": "The Single-Stock Trap: Why True Tech Investing Means Moving Beyond a Few Famous Tickers",
       "link": "https://soyacincau.com/2026/06/25/why-diversification-matters-tech-investing/",
@@ -1364,20 +1364,20 @@
       "category": "malaysia"
     },
     {
+      "id": "8c0e856fc24476699f1f2b5529674b40ba8ee535",
+      "title": "Sleek Analytics",
+      "link": "https://www.producthunt.com/products/sleek-analytics",
+      "summary": "<p>\n            See who's on your site. Right now.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sleek-analytics?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1180525?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-25T05:52:23+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "238ec37b54466f23d56d073c5e021c8bfe8c27bc",
       "title": "Gemini Spark",
       "link": "https://www.producthunt.com/products/gemini-spark",
       "summary": "<p>\n            Your 24/7 personal AI agent\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gemini-spark?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1180522?app_id=339\">Link</a>\n          </p>",
       "published": "2026-06-25T05:47:05+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "1288d33501914ffd81b2b2670163a638b1d1ef45",
-      "title": "AI Slide Editor by CubeOne",
-      "link": "https://www.producthunt.com/products/cubeone",
-      "summary": "<p>\n            The editor PowerPoint should've shipped\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cubeone?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1180381?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-24T23:07:45+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1427,11 +1427,11 @@
       "category": "events"
     },
     {
-      "id": "bd677db0dec3fe08f4ca8e402caf5c6f582295b9",
-      "title": "DMV by Agent Community",
-      "link": "https://www.producthunt.com/products/dmv-department-of-machine-verification",
-      "summary": "<p>\n            A community-governed namespace for AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dmv-department-of-machine-verification?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1175512?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-18T19:14:03+00:00",
+      "id": "33a84e0595fc40459f472d14840861e51c0ec29f",
+      "title": "Atlas",
+      "link": "https://www.producthunt.com/products/nanonets",
+      "summary": "<p>\n            Every AI tool you use should know how your company works\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nanonets?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1176131?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-19T14:21:35+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
