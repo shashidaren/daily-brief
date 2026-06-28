@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-06-28T20:56:44.069227+00:00",
+  "generatedAt": "2026-06-28T21:59:37.807269+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "b99b75424bd4a5c88c12af8bfd2cdbf2935358f3",
+      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+      "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
+      "published": "2026-06-28T21:58:45+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "0f2cc15546009f5f6852c1077e494c3a38b04991",
+      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of [&#8230;]",
+      "published": "2026-06-28T21:42:51+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "3ff21b04d6ff185799bceb7f03e2d4e327202def",
+      "title": "California law targeting loud streaming ads takes effect on July 1",
+      "link": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+      "summary": "Streaming ads might be getting a lot quieter.",
+      "published": "2026-06-28T21:34:14+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "a93bb6f58036a1fa36649ba6afe534bad61d5337",
       "title": "Letter: Austria is pushing the EU to consider hosting Anthropic within its borders, highlighting EU efforts to boost bloc independence from US and Chinese tech (Marton Eder/Bloomberg)",
@@ -37,15 +64,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
       "summary": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
       "published": "2026-06-28T19:37:07+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "b99b75424bd4a5c88c12af8bfd2cdbf2935358f3",
-      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-      "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
-      "published": "2026-06-28T19:21:07+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -734,15 +752,6 @@
       "category": "tech"
     },
     {
-      "id": "c38571cdda20e19300e0cd3e61b564ba23bc04d4",
-      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
-      "link": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
-      "summary": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RAM and storage have driven Apple [&#8230;]",
-      "published": "2026-06-27T17:28:18+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "e502f7ee039e0bcd3ac09f0a2a19d6f026bcd723",
       "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
       "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
@@ -1162,15 +1171,6 @@
       "link": "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/",
       "summary": "The hack on car giant Jaguar Land Rover last year was one of the most disrupting, damaging, and costly hacks of the last few years.",
       "published": "2026-06-26T17:29:29+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "77a1c419c72a22bcfedf229d0f71e4c7434240c5",
-      "title": "Tesla settles FSD crash lawsuit as federal investigations continue",
-      "link": "https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/",
-      "summary": "The lawsuit was connected to a fatal 2023 crash involving a vehicle using the company's advanced driver assistance system known as Full Self-Driving.",
-      "published": "2026-06-26T16:32:55+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
