@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-07-04T17:58:44.411828+00:00",
+  "generatedAt": "2026-07-04T19:17:09.906100+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "a210a090e0eff9c5e8c9d316ec486db0c006e4ca",
+      "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
+      "link": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+      "summary": "The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NASA has enlisted Katalyst Space Technologies. The company's Link spacecraft launched Friday with the goal of intercepting [&#8230;]",
+      "published": "2026-07-04T19:06:27+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "908a15ec0d6df81fcab972a66271510e46618e82",
+      "title": "How some high-income families use AI-powered private schools and tutors, such as Alpha School, to teach their children life skills and tailor their curriculum (Katherine Bindley/Wall Street Journal)",
+      "link": "https://www.techmeme.com/260704/p10#a260704p10",
+      "summary": "<a href=\"https://www.wsj.com/us-news/education/alternative-education-wealthy-families-ai-cd7922b3?st=TeME61&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260704/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260704/p10#a260704p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Katherine Bindley / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/us-news/education/alternative-education-wealthy-families-ai-cd7922b3?st=TeME61&amp;reflink=desktopwebshare_permalink\">How some high-income families use AI-powered private schools and tutors, such as Alpha School, to teach their children life skills and tailor their curriculum</a></b></span>&nbsp; &mdash;&nbsp; People who can afford to send their grade-school kids anywhere are choosing new alternative education</p>",
+      "published": "2026-07-04T19:05:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "24d541de83c1a97327d86ff0a723e04711a0cc4b",
+      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+      "published": "2026-07-04T18:41:25+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "1bbc87c926dc6d9077de8ab4cfb7a74040b8eeba",
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "published": "2026-07-04T18:00:05+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "66d68201d1cc5bfde5f9da02c71bcf6cda7df41e",
       "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
@@ -39,6 +75,15 @@
       "published": "2026-07-04T16:49:36+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "37a5335e5f4ab5635f870de3b943732dd48fec5c",
+      "title": "Review: Supergirl is not the disaster its low box office suggests",
+      "link": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
+      "summary": "It’s a pretty good movie, but it needed to be a <em>great</em> movie to thrive in an oversaturated superhero market.",
+      "published": "2026-07-04T16:49:14+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
     },
     {
       "id": "1037eb13b0718b5bb63ec6a68feb99463e0b9940",
@@ -111,15 +156,6 @@
       "published": "2026-07-04T15:00:00+00:00",
       "source": "The Verge",
       "category": "tech"
-    },
-    {
-      "id": "24d541de83c1a97327d86ff0a723e04711a0cc4b",
-      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-      "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
-      "published": "2026-07-04T14:07:31+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "dca15d7a23db4d74586f21aad986102aac5d4e07",
@@ -788,15 +824,6 @@
       "category": "tech"
     },
     {
-      "id": "698ff0d0bde3e22e94b3a89d61ad32ac3490babb",
-      "title": "An interview with Sriram Krishnan, who says \"there will not be an FDA for AI\" under Trump, blames the AI backlash on the industry's \"doomer\" messaging, and more (Financial Times)",
-      "link": "https://www.techmeme.com/260703/p10#a260703p10",
-      "summary": "<a href=\"https://www.ft.com/content/5128e476-db8b-48ac-a8fb-0f16d0f5c2ed\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260703/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260703/p10#a260703p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/5128e476-db8b-48ac-a8fb-0f16d0f5c2ed\">An interview with Sriram Krishnan, who says &ldquo;there will not be an FDA for AI&rdquo; under Trump, blames the AI backlash on the industry's &ldquo;doomer&rdquo; messaging, and more</a></b></span>&nbsp; &mdash;&nbsp; Sriram Krishnan tells the FT the president is against a centralised regulator as AI backlash grows</p>",
-      "published": "2026-07-03T15:30:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "60c1f6627076d2a3e6a4ed723fb230fbe4b85678",
       "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
       "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
@@ -831,15 +858,6 @@
       "published": "2026-07-03T14:58:33+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "fc1b69cf4036e32e01ba1f146e5b7c295a2ea892",
-      "title": "This slim camera has a transparent LCD screen for a viewfinder",
-      "link": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen",
-      "summary": "Despite the fact that smartphones have become impressively capable shooters, standalone point-and-shoot cameras are enjoying a renaissance. The tiny Kodak Charmera is still wildly popular, while influencers are scrambling to find aging Canon cameras on eBay. Godox, a company best known for its photography lighting products, is the latest to join the simple camera craze, [&#8230;]",
-      "published": "2026-07-03T14:51:38+00:00",
-      "source": "The Verge",
-      "category": "tech"
     },
     {
       "id": "82963630d7aad60845d92b6c7c2520f2354e9044",
@@ -1256,15 +1274,6 @@
       "category": "tech"
     },
     {
-      "id": "ef865540540a15b7e39fc494a123c3b80b37eaf4",
-      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-      "published": "2026-07-02T15:20:51+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "54171ac83802273b1e8321f85f90cb00f936e7d8",
       "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
       "link": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
@@ -1328,15 +1337,6 @@
       "category": "events"
     },
     {
-      "id": "1e69c135d8250834aa45248c17ef97c83add0857",
-      "title": "Editorial: It's time to step up and have your say for science",
-      "link": "https://arstechnica.com/science/2026/07/editorial-the-most-important-thing-you-can-do-to-protect-science/",
-      "summary": "Your comments on a dangerous rule putting politicals in charge of science can matter.",
-      "published": "2026-07-02T10:00:27+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
       "id": "6353c6cae0783a39423452abf8b138f2513982ae",
       "title": "Porsche Taycan and Macan EV prices surge in Malaysia: Up to RM410k higher",
       "link": "https://soyacincau.com/2026/07/02/porsche-taycan-macan-ev-malaysia-price-hike/",
@@ -1364,6 +1364,15 @@
       "category": "malaysia"
     },
     {
+      "id": "8111abfe33134123d123313462b8e9112a79ed72",
+      "title": "Sidedoor",
+      "link": "https://www.producthunt.com/products/sidedoor-2",
+      "summary": "<p>\n            Paste any job, find who in your network can refer you\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sidedoor-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1186036?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-02T05:09:33+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "bc6a1b31cb1f50b17ae31c4196164c7f52c238d3",
       "title": "Banger Mail",
       "link": "https://www.producthunt.com/products/banger-mail",
@@ -1373,11 +1382,11 @@
       "category": "events"
     },
     {
-      "id": "fd15641a65c4a128326fb77d9d29f54b18a60e9b",
-      "title": "Quick Sub 2: Video Subtitling",
-      "link": "https://www.producthunt.com/products/quick-sub-2-video-subtitling",
-      "summary": "<p>\n            Quick, creative video subtitling with direct canvas control.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/quick-sub-2-video-subtitling?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1185923?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-01T23:54:47+00:00",
+      "id": "ff28c7aae36d00e718db92fb59b12ecf80533868",
+      "title": "scritty",
+      "link": "https://www.producthunt.com/products/scritty",
+      "summary": "<p>\n            Shared, searchable memory for every AI coding agent\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/scritty?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1185930?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-02T00:21:44+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1387,15 +1396,6 @@
       "link": "https://www.producthunt.com/products/pieter-post",
       "summary": "<p>\n            Connect your AI agent to postal mail\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pieter-post?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1185825?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-01T20:19:19+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "a54080dfd0fbb2bcba98bbd3868785ee8090c707",
-      "title": "PixFit",
-      "link": "https://www.producthunt.com/products/pixfit",
-      "summary": "<p>\n            Turn 1 creative into every ad format, instantly\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pixfit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1185785?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-01T19:00:03+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1427,11 +1427,11 @@
       "category": "events"
     },
     {
-      "id": "c38accccaa50ad6355566002a33879f4674f7452",
-      "title": "Needle",
-      "link": "https://www.producthunt.com/products/needle-3",
-      "summary": "<p>\n            The proactive GTM agent in Slack and Teams\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184640?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-30T13:17:55+00:00",
+      "id": "366fdc7acb1e7fa849a421377058cb5748b1f495",
+      "title": "Solaris",
+      "link": "https://www.producthunt.com/products/build-club",
+      "summary": "<p>\n            Your company’s AI adoption and upskilling platform\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/build-club?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184961?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-30T20:58:22+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
