@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T21:51:58.654079+00:00",
+  "generatedAt": "2026-07-04T22:51:33.930401+00:00",
   "counts": {
     "total": 165
   },
@@ -1364,15 +1364,6 @@
       "category": "malaysia"
     },
     {
-      "id": "8111abfe33134123d123313462b8e9112a79ed72",
-      "title": "Sidedoor",
-      "link": "https://www.producthunt.com/products/sidedoor-2",
-      "summary": "<p>\n            Paste any job, find who in your network can refer you\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sidedoor-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1186036?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-02T05:09:33+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "19da8900e4bfd06c91463c0902cc662e0958a540",
       "title": "Gaming Chat SDK by CometChat",
       "link": "https://www.producthunt.com/products/cometchat",
@@ -1382,11 +1373,20 @@
       "category": "events"
     },
     {
-      "id": "a83a8a8b58ce7e259602797c5017779f690a326b",
-      "title": "Basedash Actions",
-      "link": "https://www.producthunt.com/products/basedash",
-      "summary": "<p>\n            A BI tool that can take action for you\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1186004?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-02T04:14:53+00:00",
+      "id": "bc6a1b31cb1f50b17ae31c4196164c7f52c238d3",
+      "title": "Banger Mail",
+      "link": "https://www.producthunt.com/products/banger-mail",
+      "summary": "<p>\n            Shared mailboxes for teams and AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/banger-mail?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1185939?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-02T01:00:26+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "fd15641a65c4a128326fb77d9d29f54b18a60e9b",
+      "title": "Quick Sub 2: Video Subtitling",
+      "link": "https://www.producthunt.com/products/quick-sub-2-video-subtitling",
+      "summary": "<p>\n            Quick, creative video subtitling with direct canvas control.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/quick-sub-2-video-subtitling?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1185923?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-01T23:54:47+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1396,6 +1396,24 @@
       "link": "https://www.producthunt.com/products/html-contact",
       "summary": "<p>\n            A full form backend you can test before paying\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/html-contact?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1185869?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-01T21:35:21+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "1e5c15693eb2dacbc0689766a9ff4ec88090218a",
+      "title": "PieterPost MCP",
+      "link": "https://www.producthunt.com/products/pieter-post",
+      "summary": "<p>\n            Connect your AI agent to postal mail\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pieter-post?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1185825?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-01T20:19:19+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "a54080dfd0fbb2bcba98bbd3868785ee8090c707",
+      "title": "PixFit",
+      "link": "https://www.producthunt.com/products/pixfit",
+      "summary": "<p>\n            Turn 1 creative into every ad format, instantly\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pixfit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1185785?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-01T19:00:03+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1418,29 +1436,11 @@
       "category": "events"
     },
     {
-      "id": "31c1efa54398e35287fa33ae2ecbad68a2f269bd",
-      "title": "Macuse",
-      "link": "https://www.producthunt.com/products/macuse",
-      "summary": "<p>\n            Give Your AI Superpowers on macOS\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/macuse?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1185322?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-01T09:26:16+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "be3187917abc4bb9f6e112b3aeba2c277e37a581",
       "title": "Context.dev",
       "link": "https://www.producthunt.com/products/context-dev",
       "summary": "<p>\n            One API to scrape, enrich, and extract the internet\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1185115?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-01T03:33:28+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "c38accccaa50ad6355566002a33879f4674f7452",
-      "title": "Needle",
-      "link": "https://www.producthunt.com/products/needle-3",
-      "summary": "<p>\n            The proactive GTM agent in Slack and Teams\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184640?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-30T13:17:55+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
