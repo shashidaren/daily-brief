@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-07-05T21:55:09.286851+00:00",
+  "generatedAt": "2026-07-05T22:55:55.342375+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "01a8566deb0ee55e3ca9931f1aa8612408595652",
+      "title": "Some of the nation’s rich are letting AI teach their kids",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+      "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep and Alpha [&#8230;]",
+      "published": "2026-07-05T22:30:54+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "f1b968853bea1cb7c825fd228baeef026222b42e",
+      "title": "Tesla rolls out its Robotaxi service without a safety monitor in Miami, its fifth city, as it aims to expand to a dozen US states by the end of 2026 (Grace Kay/The Information)",
+      "link": "https://www.techmeme.com/260705/p10#a260705p10",
+      "summary": "<p><a href=\"https://www.techmeme.com/260705/p10#a260705p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Grace Kay / <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/briefings/tesla-expands-robotaxi-service-miami\">Tesla rolls out its Robotaxi service without a safety monitor in Miami, its fifth city, as it aims to expand to a dozen US states by the end of 2026</a></b></span>&nbsp; &mdash;&nbsp; Tesla said it rolled out its Robotaxi service in Miami on Friday, according to a post from its social media account on X.</p>",
+      "published": "2026-07-05T22:20:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
     {
       "id": "7092fe74e30b0226851bbf2f3e876c1c5118c6f6",
       "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
@@ -761,30 +779,12 @@
       "category": "malaysia"
     },
     {
-      "id": "6e7d1cc1b58a58cdde4658d47dae162ba15121e6",
-      "title": "Matic’s robot vacuum is getting a $250 price hike in September",
-      "link": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
-      "summary": "The Matic is our favorite robot vacuum by a pretty comfortable margin. If you&#8217;ve been thinking about buying one, you may want to plan on doing it sooner than later. The company will raise its price by $250 on September 9th, going from $1,245 to $1,495. Matic told The Verge that the new price reflects [&#8230;]",
-      "published": "2026-07-04T16:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "c214de33e0e3c336b2746f927663284a968bd6bf",
       "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
       "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
       "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
       "published": "2026-07-04T15:51:32+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "d3385f27ed81b1a9be86c384533dfd5dd3053d0a",
-      "title": "How ByteDance is making Hollywood inroads with its Seedance video generator, thanks to low pricing, striking realism, and features like timeline-based prompting (Nilesh Christopher/Los Angeles Times)",
-      "link": "https://www.techmeme.com/260704/p8#a260704p8",
-      "summary": "<a href=\"https://www.latimes.com/business/story/2026-07-03/bytedances-tiktok-took-over-social-media-now-its-video-ai-is-taking-over-hollywood\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260704/i8.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260704/p8#a260704p8\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Nilesh Christopher / <a href=\"http://www.latimes.com/\">Los Angeles Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.latimes.com/business/story/2026-07-03/bytedances-tiktok-took-over-social-media-now-its-video-ai-is-taking-over-hollywood\">How ByteDance is making Hollywood inroads with its Seedance video generator, thanks to low pricing, striking realism, and features like timeline-based prompting</a></b></span>&nbsp; &mdash;&nbsp; - 8 min Click here to listen to this article &hellip; - A viral AI video of Brad Pitt and Tom Cruise sparked industry outrage &hellip; </p>",
-      "published": "2026-07-04T15:20:01+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -1400,15 +1400,6 @@
       "category": "events"
     },
     {
-      "id": "1e5c15693eb2dacbc0689766a9ff4ec88090218a",
-      "title": "PieterPost MCP",
-      "link": "https://www.producthunt.com/products/pieter-post",
-      "summary": "<p>\n            Connect your AI agent to postal mail\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pieter-post?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1185825?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-01T20:19:19+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "c082cb27c5aa17b651774c8787ea96aa679d6e5d",
       "title": "nxt",
       "link": "https://www.producthunt.com/products/nxt-talk-to-your-to-do-list",
@@ -1459,6 +1450,15 @@
       "link": "https://www.producthunt.com/products/vida-5",
       "summary": "<p>\n            Clone yourself. Let AI do the work before you ask\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vida-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1174638?app_id=339\">Link</a>\n          </p>",
       "published": "2026-06-17T20:02:52+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "f46d307d0ea0e69970c323ffc0539b5255e7102a",
+      "title": "Fypro",
+      "link": "https://www.producthunt.com/products/fypro",
+      "summary": "<p>\n            Convert your TikTok followers into paying customers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fypro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1172870?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-16T01:50:12+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
