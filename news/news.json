@@ -1,17 +1,44 @@
 {
-  "generatedAt": "2026-07-08T21:01:37.371354+00:00",
+  "generatedAt": "2026-07-08T22:11:29.904229+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
-      "id": "6d2f674beb8bfbf8476d3fc479edc48102bc6bea",
-      "title": "US launches new wave of strikes against Iran after promising to 'hit them hard'",
+      "id": "03d2e95494f047b8585304306b697a4df7cf7ed4",
+      "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
+      "link": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
+      "summary": "The National Highway Traffic Safety Administration said emergency scenes are not \"edge cases.\"",
+      "published": "2026-07-08T21:49:33+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "6e5af34d6159f0daa5af31e4894432048cb14b78",
+      "title": "\"We cannot choose to become idiots\": The AI cheating scandal roiling Brown University",
+      "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+      "summary": "AI cheating leads to \"a failed society,\" professor says.",
+      "published": "2026-07-08T21:42:44+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "6370bd0ce67dab5777fa2ee62bca7f44698f57ab",
+      "title": "US launches more strikes on Iran with blasts reported in south of country",
       "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Explosions have been reported by Iranian state media in parts of the country's south.",
-      "published": "2026-07-08T20:56:36+00:00",
+      "summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
+      "published": "2026-07-08T21:40:40+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "0da3627fb7deac0b792fe25760c9c4ef4fce4ce8",
+      "title": "OpenAI says it found widespread task issues in SWE-Bench Pro, estimates ~30% of tasks are broken, and retracts its earlier recommendation to adopt the benchmark (OpenAI)",
+      "link": "https://www.techmeme.com/260708/p41#a260708p41",
+      "summary": "<a href=\"https://openai.com/index/separating-signal-from-noise-coding-evaluations\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260708/i41.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260708/p41#a260708p41\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://openai.com/\">OpenAI</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://openai.com/index/separating-signal-from-noise-coding-evaluations\">OpenAI says it found widespread task issues in SWE-Bench Pro, estimates ~30% of tasks are broken, and retracts its earlier recommendation to adopt the benchmark</a></b></span>&nbsp; &mdash;&nbsp; Through a detailed audit, we find widespread task issues in SWE-Bench Pro and estimate that ~30% of the tasks are broken.</p>",
+      "published": "2026-07-08T21:10:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
     },
     {
       "id": "e25bcf054a79bbe534e4d4bbb31db278e1a50075",
@@ -35,7 +62,7 @@
       "id": "1c5c24b5ce9ae92815ac3e4142612b5a024a56b4",
       "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
       "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-      "summary": "Earlier this week, a picture that seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+      "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
       "published": "2026-07-08T20:37:03+00:00",
       "source": "TechCrunch",
       "category": "tech"
@@ -95,6 +122,15 @@
       "category": "tech"
     },
     {
+      "id": "2b3bc061cda5cd4bca203f9c8d6d84bff23ba2e4",
+      "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
+      "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
+      "summary": "More young girls sue X over Grok CSAM; X accused of shielding child predators.",
+      "published": "2026-07-08T19:56:37+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
       "id": "38a268d10a3384d4a38600432b9ec6569467e4cf",
       "title": "Our Place’s normally $325 8-in-1 Wonder Oven Pro gets a $100 price cut to a new $225 low",
       "link": "https://9to5toys.com/2026/07/08/our-place-8-in-1-wonder-oven-pro-new-225-low/",
@@ -140,6 +176,15 @@
       "category": "tech"
     },
     {
+      "id": "2db21f931da5424cd2205877f98383615ebed975",
+      "title": "Judge rejects Kalshi attempt to override New York state gambling laws",
+      "link": "https://arstechnica.com/tech-policy/2026/07/new-york-can-restrict-sports-gambling-on-prediction-markets-us-judge-rules/",
+      "summary": "Kalshi tried to ignore gambling laws on its prediction market, NY governor says.",
+      "published": "2026-07-08T19:14:02+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
       "id": "a157448ddd932e1b0692a527a531b2090fbf6285",
       "title": "Mid-week Apple Books and audiobook deals from $1",
       "link": "https://9to5toys.com/2026/07/08/mid-week-apple-books-and-audiobook-deals-from-1-12/",
@@ -147,6 +192,15 @@
       "published": "2026-07-08T19:12:48+00:00",
       "source": "9to5Toys",
       "category": "deals"
+    },
+    {
+      "id": "db562e51c56be9a2866c34ff860297d67e16bf80",
+      "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+      "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+      "summary": "Both vulnerabilities allow untrusted users to gain root privileges.",
+      "published": "2026-07-08T19:01:19+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
     },
     {
       "id": "02d6b12c4a235443896c2859b8d4f531a24cafdf",
@@ -716,15 +770,6 @@
       "category": "world"
     },
     {
-      "id": "7dc73c16b245f340fa189ba7cac295de7f91e004",
-      "title": "The OpenAI Deployment Company agrees to acquire Northslope, an applied AI company founded by ex-Palantir employees, its second acquisition after buying Tomoro (Madison Mills/Axios)",
-      "link": "https://www.techmeme.com/260708/p26#a260708p26",
-      "summary": "<a href=\"https://www.axios.com/2026/07/08/openai-deployment-company-northslope-acquisition\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260708/i26.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260708/p26#a260708p26\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Madison Mills / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/2026/07/08/openai-deployment-company-northslope-acquisition\">The OpenAI Deployment Company agrees to acquire Northslope, an applied AI company founded by ex-Palantir employees, its second acquisition after buying Tomoro</a></b></span>&nbsp; &mdash;&nbsp; The OpenAI Deployment Company agreed to acquire Northslope, an applied AI firm, OpenAI shared exclusively with Axios &hellip; </p>",
-      "published": "2026-07-08T14:00:45+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "20bf14a5cff9833681a407e063c13b7557a2a48e",
       "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
       "link": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
@@ -777,15 +822,6 @@
       "published": "2026-07-08T13:00:00+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "2a082f683606efe1616642e3851f66639546740b",
-      "title": "Venus Williams-backed WeWard can now lock your apps until you hit your steps",
-      "link": "https://techcrunch.com/2026/07/08/venus-williams-backed-weward-can-now-lock-your-apps-until-you-hit-your-steps/",
-      "summary": "With funding from tennis star and angel investor Venus Williams, the French app WeWard says that it increases walking time by almost 25%.",
-      "published": "2026-07-08T13:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "eb3686a8609a91891df266ef933589bd418e4d22",
@@ -1274,42 +1310,6 @@
       "category": "tech"
     },
     {
-      "id": "bee4a97115ab6765c4e2442c15310b7aba0fc53c",
-      "title": "The Weather Channel increases streaming subscription prices by up to $20",
-      "link": "https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/",
-      "summary": "Livestreaming the channel through its app now starts at $5 per month.",
-      "published": "2026-07-07T18:29:24+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "911499391a7b8dbcf7f5956864e415adc9bbd2d6",
-      "title": "The Nintendo Switch's days are numbered—but what is that number?",
-      "link": "https://arstechnica.com/gaming/2026/07/the-nintendo-switchs-days-are-numbered-but-what-is-that-number/",
-      "summary": "Ars analysis suggests the 9-year-old console could keep selling for years.",
-      "published": "2026-07-07T18:16:29+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "3cb23b8f4d9504f2947d979acbe844f7bf381440",
-      "title": "This race car is made from plant fibers, volcanoes, ... and seawater?",
-      "link": "https://arstechnica.com/cars/2026/07/this-race-car-is-made-from-plant-fibers-volcanoes-and-seawater/",
-      "summary": "The T70S can be eligible for racing events or built to be road-legal.",
-      "published": "2026-07-07T16:45:18+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "0bd123f6c27fab87bd7bb011f27aa590b0e08bcc",
-      "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
-      "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
-      "summary": "It's early, but the plan is to reduce dependency on Nvidia and Huawei.",
-      "published": "2026-07-07T16:14:53+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
       "id": "f537704923210b9f7fabe3d0f3de986a5448531b",
       "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
       "link": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss",
@@ -1427,15 +1427,6 @@
       "category": "events"
     },
     {
-      "id": "5e8b26ee5febd6dd271432b0309aba11c2e36e5e",
-      "title": "AI Emaily",
-      "link": "https://www.producthunt.com/products/ai-emaily-unified-ai-inbox",
-      "summary": "<p>\n            Your AI inbox that writes like you + replies on autopilot\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ai-emaily-unified-ai-inbox?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1189175?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-06T09:37:56+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "e1ca5c96cd17fd9e7311a4e301a5b817eaf574a6",
       "title": "Orus",
       "link": "https://www.producthunt.com/products/farao",
@@ -1486,6 +1477,15 @@
       "link": "https://www.producthunt.com/products/ifttt",
       "summary": "<p>\n            Run your business with HubSpot, Figma, and more\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ifttt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1180294?app_id=339\">Link</a>\n          </p>",
       "published": "2026-06-24T20:01:08+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "5098cdc0ee04636231d92426bc6ca3ddcbc56d95",
+      "title": "Badge",
+      "link": "https://www.producthunt.com/products/badge-3",
+      "summary": "<p>\n            AI agents collect peer reviews to generate proof of work\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/badge-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1131659?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-04-24T16:55:34+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
