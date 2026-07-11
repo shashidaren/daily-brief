@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-07-11T18:51:08.501432+00:00",
+  "generatedAt": "2026-07-11T20:01:21.730055+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "b89b53b88f6a1f9a22e54c3d1bca923af1535032",
+      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "link": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
+      "summary": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
+      "published": "2026-07-11T19:32:07+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "08d35aea86a3613e82ba6cd26461b79ede3ca535",
+      "title": "Iran supreme leader calls for revenge after father's burial",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
+      "published": "2026-07-11T19:30:36+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "832b10e5b6343874d013373245d9d696a0e68478",
       "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
@@ -57,15 +75,6 @@
       "published": "2026-07-11T17:30:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "c51ed61990db4455489bf9223344b3f1e40eb8f9",
-      "title": "Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say",
-      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-      "summary": "US media say Iran has told US officials an attack on ships crossing the strait early this week was \"a mistake\".",
-      "published": "2026-07-11T16:55:57+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "c45fb21c0f95e5bf188240cd5e9a9f30540e052e",
@@ -824,15 +833,6 @@
       "category": "events"
     },
     {
-      "id": "26d687ee7ab59396e3a4fcb23d7737e550d650a0",
-      "title": "Dating can be hard in South Korea - so the monks stepped in",
-      "link": "https://www.bbc.co.uk/news/articles/cgmdkw7wmkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Dating can be hard in South Korea. A group of monks hope a 30-hour rural retreat can help.",
-      "published": "2026-07-10T22:02:09+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "573a5791bd9c62d2752999d4beff9ac8c4dabcf8",
       "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
       "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
@@ -1382,6 +1382,15 @@
       "category": "events"
     },
     {
+      "id": "4af6cad20d8022cc20bebe51e3ac9b7de6c3b2a7",
+      "title": "Mispher",
+      "link": "https://www.producthunt.com/products/mispher-agentic-transcription-for-mac",
+      "summary": "<p>\n            Dictate, rewrite, translate, and an agent in a single device\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mispher-agentic-transcription-for-mac?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1191918?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-09T09:36:54+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "b859065c0b8a561ea9f6b4f1f011aedd1436b0be",
       "title": "Microsoft Surface Laptop and Surface Pro with Snapdragon X2 available in Malaysia on 23 July, priced from RM6,999",
       "link": "https://soyacincau.com/2026/07/09/microsoft-surface-laptop-8-and-surface-pro-12-snapdragon-x2-malaysia-launch-preorder/",
@@ -1427,6 +1436,15 @@
       "category": "events"
     },
     {
+      "id": "92d5fbc150838bbd302ba7d2b65676a67b76fd89",
+      "title": "Juicy - Mac Battery App",
+      "link": "https://www.producthunt.com/products/juicy-battery-app",
+      "summary": "<p>\n            Beautiful Mac battery alerts, health insights & charge limit\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/juicy-battery-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1190361?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-07T15:30:20+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "f35223c0200d1c005737a160fa0bc3ed102c77ba",
       "title": "Kickbacks CLI",
       "link": "https://www.producthunt.com/products/kickbacks-cli",
@@ -1450,24 +1468,6 @@
       "link": "https://www.producthunt.com/products/plugthis-chrome-extension-generator",
       "summary": "<p>\n            Create your own Chrome Extensions by chatting with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/plugthis-chrome-extension-generator?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1189320?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-06T12:06:48+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "df5d5a69212bed82205cd2550cee3303c400af58",
-      "title": "Scarlett.",
-      "link": "https://www.producthunt.com/products/tryscarlett",
-      "summary": "<p>\n            Your AI Co-Worker in Slack & iMessage\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tryscarlett?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1187857?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-04T14:17:47+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "c61424a69a9672c0a6c80093dcaf742a144a464c",
-      "title": "ConnectMachine 2.0",
-      "link": "https://www.producthunt.com/products/connectmachine-2",
-      "summary": "<p>\n            AI digital business card that remembers everyone you meet\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/connectmachine-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1180569?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-25T07:07:34+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
