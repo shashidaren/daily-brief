@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-07-12T16:53:59.589875+00:00",
+  "generatedAt": "2026-07-12T17:54:32.377262+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "1ab5190ce34b578d47de4dc7a80717161f61a0b0",
+      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+      "published": "2026-07-12T17:40:34+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "7b638e424e6f29d810df356a11b4a3d15ba2416f",
       "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
@@ -41,19 +50,10 @@
       "category": "tech"
     },
     {
-      "id": "1ab5190ce34b578d47de4dc7a80717161f61a0b0",
-      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
-      "published": "2026-07-12T15:34:45+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "aec2909e5a3b4608f60cb50d1f3f15476eaf4d31",
-      "title": "David Willey, esteemed BBC foreign correspondent, dies aged 93",
+      "id": "3f671d9f561ab69455b346be91674a0df78ba22f",
+      "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
       "link": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
-      "summary": "Willey is best known for covering the Vatican, and reported on five popes during his long career.",
+      "summary": "One of the BBC's longest-serving foreign correspondents, he reported on five popes during his career.",
       "published": "2026-07-12T15:22:52+00:00",
       "source": "BBC News",
       "category": "world"
@@ -1310,6 +1310,15 @@
       "category": "events"
     },
     {
+      "id": "5301d4e184029aea318d97ae40a5436acb699446",
+      "title": "GPT-5.6",
+      "link": "https://www.producthunt.com/products/openai",
+      "summary": "<p>\n            A new standard for intelligence and efficiency\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1192267?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-09T17:08:01+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "b4ff6cd2f3a8bcdeb7d0229fd2baba9da8a46bed",
       "title": "ChargEV deploy 6 EV Charge Points at Aeon Mall Taiping",
       "link": "https://soyacincau.com/2026/07/09/chargev-deploy-6-ev-charge-points-at-aeon-mall-taiping/",
@@ -1427,11 +1436,11 @@
       "category": "events"
     },
     {
-      "id": "ec53d056f5edd06a323790595f181f5e78ba47f0",
-      "title": "Yasmine Works",
-      "link": "https://www.producthunt.com/products/yasmine-works",
-      "summary": "<p>\n            An AI coworker that lives in your Slack to get work done\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/yasmine-works?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1189393?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-06T13:29:46+00:00",
+      "id": "9371f082b542d1e87dadd3f256df3fbf6acee027",
+      "title": "PlugThis",
+      "link": "https://www.producthunt.com/products/plugthis-chrome-extension-generator",
+      "summary": "<p>\n            Create your own Chrome Extensions by chatting with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/plugthis-chrome-extension-generator?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1189320?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-06T12:06:48+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1441,15 +1450,6 @@
       "link": "https://www.producthunt.com/products/servicebeard",
       "summary": "<p>\n            Sync your mailbox with your issue tracker\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/servicebeard?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1188816?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-05T21:47:41+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "c61424a69a9672c0a6c80093dcaf742a144a464c",
-      "title": "ConnectMachine 2.0",
-      "link": "https://www.producthunt.com/products/connectmachine-2",
-      "summary": "<p>\n            AI digital business card that remembers everyone you meet\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/connectmachine-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1180569?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-25T07:07:34+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
