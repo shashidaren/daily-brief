@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T15:53:03.819605+00:00",
+  "generatedAt": "2026-07-12T16:53:59.589875+00:00",
   "counts": {
     "total": 165
   },
@@ -8,10 +8,37 @@
       "id": "7b638e424e6f29d810df356a11b4a3d15ba2416f",
       "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
       "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The strikes follow an attack on a Cyprus-flagged vessel travelling through the critical waterway.",
-      "published": "2026-07-12T15:35:38+00:00",
+      "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
+      "published": "2026-07-12T16:46:24+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "76f87006eb9c0c6fdbd677c4a66d78bb3d6cb2ab",
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "link": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "summary": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
+      "published": "2026-07-12T16:35:50+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "d20381ad7ac41b7321d9aee94fedb0be8ea63e78",
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details [&#8230;]",
+      "published": "2026-07-12T16:27:06+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "b3aaa95763ac38cc2e7803cc68eadd3d63d4699f",
+      "title": "TechCrunch Mobility: A robotaxi ultimatum",
+      "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "published": "2026-07-12T16:07:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
     },
     {
       "id": "1ab5190ce34b578d47de4dc7a80717161f61a0b0",
@@ -19,15 +46,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
       "summary": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
       "published": "2026-07-12T15:34:45+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "ac3f6d92d6bc2103622307f69d247862628e7b41",
-      "title": "'This landscape is completely charred': Inside the village at epicentre of Spain's wildfires",
-      "link": "https://www.bbc.co.uk/news/videos/cddl1yrldelo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Nick Beake sees homes razed to the ground and \"a sea of black\" in one of the villages hit hardest by Spain's deadly wildfires.",
-      "published": "2026-07-12T15:33:27+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -662,15 +680,6 @@
       "category": "world"
     },
     {
-      "id": "8796cdb40b37e5082aa2249e94b42a7adb65b712",
-      "title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
-      "link": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
-      "summary": "Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council established by the White House, the Pentagon, the Office of the Director of National Intelligence, the FBI, and \"the intelligence community.\" The Council will provide scientific reports and advice to the UAP Governing Board, in an effort to \"resolve the nature of UAP,\" or [&#8230;]",
-      "published": "2026-07-11T14:18:33+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "d67124abc5a1c2a25a486fcd20cc5c0be8bce301",
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
@@ -1166,15 +1175,6 @@
       "category": "tech"
     },
     {
-      "id": "798601448a5ef1d2f4081f358865c4676781507d",
-      "title": "Hugging Face’s CEO on why companies are done renting their AI",
-      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
-      "published": "2026-07-10T14:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "56b5fcfe450fc4e62db66e6ddbc2470a715b104d",
       "title": "Volkswagen Group tells its board how to fix it, unions disagree",
       "link": "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/",
@@ -1283,15 +1283,6 @@
       "category": "events"
     },
     {
-      "id": "ee68ca1c922a9ae40cda6838da276af24ab63501",
-      "title": "RepStandard",
-      "link": "https://www.producthunt.com/products/repstandard",
-      "summary": "<p>\n            Computer vision counts your reps in real time\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/repstandard?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1192582?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-10T04:31:51+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "4450bf13b69c9678d1d83d278d8fc39a3dd7727e",
       "title": "Tesla Model Y Long Range AWD discontinued from Malaysia lineup, inventory units still available",
       "link": "https://soyacincau.com/2026/07/10/tesla-model-y-long-range-awd-discontinued-malaysia/",
@@ -1308,15 +1299,6 @@
       "published": "2026-07-09T22:29:10+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "f1a73152352cd785931aa4f6e705a8824d43c4b0",
-      "title": "Ship OS by Notion",
-      "link": "https://www.producthunt.com/products/notion",
-      "summary": "<p>\n            The agent-native way to ship software\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/notion?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1192317?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-09T18:19:56+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "d02d834f8b4c3b69fc070053f1666a4fc4c6ef7e",
@@ -1418,6 +1400,15 @@
       "category": "events"
     },
     {
+      "id": "92d5fbc150838bbd302ba7d2b65676a67b76fd89",
+      "title": "Juicy - Mac Battery App",
+      "link": "https://www.producthunt.com/products/juicy-battery-app",
+      "summary": "<p>\n            Beautiful Mac battery alerts, health insights & charge limit\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/juicy-battery-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1190361?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-07T15:30:20+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "f35223c0200d1c005737a160fa0bc3ed102c77ba",
       "title": "Kickbacks CLI",
       "link": "https://www.producthunt.com/products/kickbacks-cli",
@@ -1450,6 +1441,15 @@
       "link": "https://www.producthunt.com/products/servicebeard",
       "summary": "<p>\n            Sync your mailbox with your issue tracker\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/servicebeard?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1188816?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-05T21:47:41+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "c61424a69a9672c0a6c80093dcaf742a144a464c",
+      "title": "ConnectMachine 2.0",
+      "link": "https://www.producthunt.com/products/connectmachine-2",
+      "summary": "<p>\n            AI digital business card that remembers everyone you meet\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/connectmachine-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1180569?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-25T07:07:34+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
