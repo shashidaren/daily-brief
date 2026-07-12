@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-07-12T21:41:36.173021+00:00",
+  "generatedAt": "2026-07-12T22:40:02.750804+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "31a11ba72502549222d184861323253027d945c8",
+      "title": "Sources: Cursor is building a general-purpose AI agent codenamed Sand, aimed at non-developers, that handles emails, texts, and documents to rival Claude Cowork (Grace Kay/The Information)",
+      "link": "https://www.techmeme.com/260712/p9#a260712p9",
+      "summary": "<a href=\"https://www.theinformation.com/articles/cursor-developing-ai-agent-compete-claude-cowork\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260712/i9.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260712/p9#a260712p9\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Grace Kay / <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/articles/cursor-developing-ai-agent-compete-claude-cowork\">Sources: Cursor is building a general-purpose AI agent codenamed Sand, aimed at non-developers, that handles emails, texts, and documents to rival Claude Cowork</a></b></span>&nbsp; &mdash;&nbsp; Cursor is developing a general-purpose AI agent meant to compete with popular tools like Anthropic's Claude Cowork &hellip; </p>",
+      "published": "2026-07-12T22:30:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "7b638e424e6f29d810df356a11b4a3d15ba2416f",
+      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
+      "published": "2026-07-12T22:17:40+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "1ab5190ce34b578d47de4dc7a80717161f61a0b0",
+      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+      "published": "2026-07-12T22:08:07+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "02247dde13eae6a0d5372270215c2ec2b65ff5da",
       "title": "OpenAI, Meta, and SpaceXAI may be able to put pressure on Anthropic by emphasizing cost efficiency, as business customers increasingly scrutinize AI spending (Bloomberg)",
@@ -66,24 +93,6 @@
       "published": "2026-07-12T18:30:01+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "1ab5190ce34b578d47de4dc7a80717161f61a0b0",
-      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
-      "published": "2026-07-12T17:40:34+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "7b638e424e6f29d810df356a11b4a3d15ba2416f",
-      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
-      "published": "2026-07-12T16:46:24+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "76f87006eb9c0c6fdbd677c4a66d78bb3d6cb2ab",
@@ -725,15 +734,6 @@
       "category": "tech"
     },
     {
-      "id": "c2d52e26c43b406752564f7c4144797ad10a2074",
-      "title": "US software development job postings on Indeed have grown by ~15% since the launch of Claude Code in February 2025, while overall job postings fell by 7% (Guillermo Gallacher/Indeed Hiring Lab)",
-      "link": "https://www.techmeme.com/260711/p6#a260711p6",
-      "summary": "<a href=\"https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260711/i6.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260711/p6#a260711p6\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Guillermo Gallacher / <a href=\"https://www.hiringlab.org/\">Indeed Hiring Lab</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/\">US software development job postings on Indeed have grown by ~15% since the launch of Claude Code in February 2025, while overall job postings fell by 7%</a></b></span>&nbsp; &mdash;&nbsp; Agentic AI may be flipping the relationship between AI exposure and job posting growth.&nbsp; &mdash;&nbsp; Key points:</p>",
-      "published": "2026-07-11T13:45:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "038d0ad2f15ba3455978186a1f2072e449eee165",
       "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
       "link": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
@@ -1310,15 +1310,6 @@
       "category": "events"
     },
     {
-      "id": "5301d4e184029aea318d97ae40a5436acb699446",
-      "title": "GPT-5.6",
-      "link": "https://www.producthunt.com/products/openai",
-      "summary": "<p>\n            A new standard for intelligence and efficiency\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1192267?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-09T17:08:01+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "b4ff6cd2f3a8bcdeb7d0229fd2baba9da8a46bed",
       "title": "ChargEV deploy 6 EV Charge Points at Aeon Mall Taiping",
       "link": "https://soyacincau.com/2026/07/09/chargev-deploy-6-ev-charge-points-at-aeon-mall-taiping/",
@@ -1353,6 +1344,15 @@
       "published": "2026-07-09T08:10:10+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "25adb1e9753ad8be2b3936f98a0c2e39a9b444c2",
+      "title": "ChatCut",
+      "link": "https://www.producthunt.com/products/chatcut-ai-video-editor",
+      "summary": "<p>\n            Your AI video editor in ChatGPT, desktop, and web\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/chatcut-ai-video-editor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1191785?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-09T06:50:16+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "f200ad3f6e8834837ee836d116eb6c52fa38ae39",
