@@ -1,9 +1,189 @@
 {
-  "generatedAt": "2026-07-16T14:53:55.438325+00:00",
+  "generatedAt": "2026-07-16T16:11:56.677210+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "db1be2af82a747dc9749cb90547504bda30d2b32",
+      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+      "link": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
+      "published": "2026-07-16T16:10:40+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "3a630ae8dee143e5082a254e2788be82f1b9931f",
+      "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
+      "link": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
+      "summary": "Travel agency Fora announced a $60 million Series D round led by Forerunner and Tactile Ventures, valuing the company at $1 billion.",
+      "published": "2026-07-16T16:08:40+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "ee995dfaeea83d98757db6b25284bb4ddff22377",
+      "title": "Google’s AI Mode now lets you link and interact with select apps",
+      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
+      "published": "2026-07-16T16:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "c9d701aef2bf285fb386aaa0b74c405cbc07625e",
+      "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook",
+      "link": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
+      "summary": "Google said users can soon access their notebooks through AI Mode in Search.",
+      "published": "2026-07-16T16:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "6353dac1470a3f2d32feae00c671bff8299b8381",
+      "title": "Today’s Apple TV deals up to 80% off: Joker 2-Film Bundle, Wicked, Snowpiercer complete, ParaNorman, more",
+      "link": "https://9to5toys.com/2026/07/16/today-apple-tv-deals-joker-bundle-snowpiercer/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Apple-TV-Jul-16.webp?w=1600\" /></div><p class=\"wp-block-paragraph\">Thursday’s lineup of the best Apple TV deals is now ready to roll, including titles like Joker 2-Film Bundle, Wicked 2-Film Collection, Morgan Freeman 3-movie Collection, Snowpiercer Complete Series, Halloween, ParaNorman, Watchmen Chapter 1 &amp; 2, and more. We are still tracking $50 off AirPods Pro 3 alongside the best price in several months on AirPods 4 with ANC, <a href=\"https://9to5toys.com/2026/07/15/amazon-m5-macbook-pro-price-m5-pro/\">M5 Pro/Max MacBook Pro models up to <strong>$400 off</strong></a>, and ongoing deals across the <a href=\"https://9to5toys.com/2026/07/14/upgrade-apple-watch-summer-series-11-all-colors/\">Apple Watch Series 11 lineup starting from <strong>$299</strong></a>. The Apple TV deals await below. </p>",
+      "published": "2026-07-16T15:56:08+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "bba78ccd7c04f29abba0c117aae22da9091e54ce",
+      "title": "San Diego-based Self Inspection, which uses AI to assess body damage on a car with as little tech as a smartphone camera, raised $10M led by Sheryl Sandberg (Sean O'Kane/TechCrunch)",
+      "link": "https://www.techmeme.com/260716/p40#a260716p40",
+      "summary": "<a href=\"https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i40.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p40#a260716p40\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sean O'Kane / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/\">San Diego-based Self Inspection, which uses AI to assess body damage on a car with as little tech as a smartphone camera, raised $10M led by Sheryl Sandberg</a></b></span>&nbsp; &mdash;&nbsp; Sheryl Sandberg has led a $10 million investment into Self Inspection, a San Diego-based startup that is also backed by former Tesla president Jon McNeill's DVx Ventures.</p>",
+      "published": "2026-07-16T15:45:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "05500741cd29c0d5b5c8866e985f5e8319a9f86a",
+      "title": "Yes, you can now order DoorDash from the command line",
+      "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
+      "published": "2026-07-16T15:38:55+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "79271335daa60af8643ff66fb3255f93895121ed",
+      "title": "UK cops say arrest of two young hackers disrupted the operations of an infamous hacking group",
+      "link": "https://techcrunch.com/2026/07/16/uk-cops-say-arrest-of-two-young-hackers-disrupted-the-operations-of-an-infamous-hacking-group/",
+      "summary": "Owen Flowers and Thalha Jubair, two members of the prolific Scattered Spider hacking group, pleaded guilty and were sentenced to five years and six months in jail for hacking London’s metropolitan transit system.",
+      "published": "2026-07-16T15:37:47+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "5de9ce8608fc995f7708e528d8a45154ef60929a",
+      "title": "Filing: a Chinese company says a fund in which its unit invested paid ~$420M for an indirect 0.8265% stake in DeepSeek, implying DeepSeek is valued at ~$52B (Eduardo Baptista/Reuters)",
+      "link": "https://www.techmeme.com/260716/p39#a260716p39",
+      "summary": "<a href=\"https://www.reuters.com/world/asia-pacific/chinese-filing-implies-deepseek-valuation-around-52-billion-2026-07-16/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i39.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p39#a260716p39\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Eduardo Baptista / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/asia-pacific/chinese-filing-implies-deepseek-valuation-around-52-billion-2026-07-16/\">Filing: a Chinese company says a fund in which its unit invested paid ~$420M for an indirect 0.8265% stake in DeepSeek, implying DeepSeek is valued at ~$52B</a></b></span>&nbsp; &mdash;&nbsp; China's Anhui Korrun (300577.SZ) said a fund in which its subsidiary invested deployed 2.90 billion yuan for an indirect 0.8265% stake in DeepSeek &hellip; </p>",
+      "published": "2026-07-16T15:35:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "05069c2ff03370b3926c99ea4cf90182c08d0ea5",
+      "title": "Period tracker Stardust shares users’ health data with analytics firm, says Mozilla research",
+      "link": "https://techcrunch.com/2026/07/16/period-tracker-stardust-shares-users-health-data-with-analytics-firm-says-mozilla-research/",
+      "summary": "One period tracker app tested by Mozilla was 'squeaky clean,' while another app was seen sharing users' health data with an analytics company, underscoring vast differences in user privacy among these apps.",
+      "published": "2026-07-16T15:33:28+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "20e6ac861349f52f5226acf190aa9f1e664d2fa3",
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
+      "published": "2026-07-16T15:31:09+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "046491c07f0817fb4135a937e9361d24ee2f6338",
+      "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
+      "link": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The air quality in large parts of Michigan, Minneapolis and Minnesota is deemed \"hazardous\" by authorities.",
+      "published": "2026-07-16T15:30:43+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "eec18fa4be199ab3a1276053890c2ebbbe13501b",
+      "title": "Visa launches the Visa Stablecoin Platform, an internal system for its network of about 15,000 financial institutions and 200M+ merchants to use stablecoins (Camila Grigera Naón/Fortune)",
+      "link": "https://www.techmeme.com/260716/p38#a260716p38",
+      "summary": "<a href=\"https://fortune.com/2026/07/16/exclusive-visa-new-platform-stablecoin-services-200-million-merchants/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i38.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p38#a260716p38\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Camila Grigera Na&oacute;n / <a href=\"http://www.fortune.com/\">Fortune</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://fortune.com/2026/07/16/exclusive-visa-new-platform-stablecoin-services-200-million-merchants/\">Visa launches the Visa Stablecoin Platform, an internal system for its network of about 15,000 financial institutions and 200M+ merchants to use stablecoins</a></b></span>&nbsp; &mdash;&nbsp; Stablecoins have changed how people think about moving money, and their exponential rise over the past year has pushed mainstream payment networks to figure out how to adapt.</p>",
+      "published": "2026-07-16T15:25:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "7c2b1465cfd51f0db188a027551761452f96f3d4",
+      "title": "Upgrade your home theater via Govee’s latest Matter TV Backlight 3 with a dual 4MP camera at lows from $94",
+      "link": "https://9to5toys.com/2026/07/16/govees-matter-tv-backlight-3-with-a-dual-4mp-camera-from-94/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Govee-TV-Backlight-3-with-Dual-4MP-Lens.jpg?quality=82&#038;strip=all&#038;w=1200\" /></div><p class=\"wp-block-paragraph\">Through its official Amazon storefront, Govee is offering its two new models of TV Backlight 3 with Dual 4MP Lens and Matter at their lowest prices. There’s the 11.8-foot model for 55 to 65-inch TVs down at $93.99 shipped (beats the direct website <a href=\"https://govee.sjv.io/WOJJeM\">by $16</a>), and the 16.4-foot model for 75 to 85-inch TVs down at $118.99 shipped (beats the direct website <a href=\"https://govee.sjv.io/WOJJeM\">by $21</a>). These two newer devices have only been on the market since late May and go for $110 and $140 at full price, and we’ve seen a handful of discounts in the time since bringing the costs down to these same rates. Once again, you can pick either up for your home theater with $16 and $21 savings for the best prices we have tracked. You can find more Govee smart lighting deals in the official Amazon storefront here.</p>",
+      "published": "2026-07-16T15:23:53+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "2d522545c48018af214817cb28b4cf5e03183baf",
+      "title": "OnePlus confirms it will no longer operate in North America or Europe but will continue in China, while Realme, another Oppo sub-brand, will exit China (CNET)",
+      "link": "https://www.techmeme.com/260716/p37#a260716p37",
+      "summary": "<a href=\"https://www.cnet.com/tech/mobile/oneplus-pulls-out-of-us-and-europe/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i37.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p37#a260716p37\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.cnet.com/news/\">CNET</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnet.com/tech/mobile/oneplus-pulls-out-of-us-and-europe/\">OnePlus confirms it will no longer operate in North America or Europe but will continue in China, while Realme, another Oppo sub-brand, will exit China</a></b></span>&nbsp; &mdash;&nbsp; &ldquo;Never settle&rdquo; takes on a whole new meaning, as the once-maverick phone-maker retreats from the US and Europe.</p>",
+      "published": "2026-07-16T15:15:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "308b4674d9aed11fd76f2652d12edc0d9ba0cd68",
+      "title": "China, Russia, Brazil, and 26 other countries sign an agreement to establish the World AI Cooperation Organization in Shanghai (Reuters)",
+      "link": "https://www.techmeme.com/260716/p36#a260716p36",
+      "summary": "<a href=\"https://www.reuters.com/world/china/twenty-nine-countries-sign-agreement-establish-global-ai-cooperation-body-2026-07-16/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i36.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p36#a260716p36\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/china/twenty-nine-countries-sign-agreement-establish-global-ai-cooperation-body-2026-07-16/\">China, Russia, Brazil, and 26 other countries sign an agreement to establish the World AI Cooperation Organization in Shanghai</a></b></span>&nbsp; &mdash;&nbsp; Twenty-nine countries on Thursday signed an agreement to establish the World AI Cooperation Organization, an intergovernmental body China says aims &hellip; </p>",
+      "published": "2026-07-16T15:10:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "b570331fef942ba9e2493b2b01258d908ba4ab6c",
+      "title": "This 2-pack of coiled USB-C cables now starts from $7.50 a pop (Multiple colors)",
+      "link": "https://9to5toys.com/2026/07/16/lisen-coiled-usb-c-cable-2-pack/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/LISEN-Coiled-USB-C-Cable-2-pack.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">LISEN Coiled USB-C Cable 2-pack</h2>\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-buy-from-15-reg-27\">Buy from $15 (Reg. $27)</h3>\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\">\n<figure class=\"wp-block-media-text__media\"><img alt=\"A red background with a white line\" class=\"wp-image-1220476 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/LISEN-Coiled-USB-C-Cable-2-pack-chart.png?w=968\" width=\"968\" /></figure>\n<div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\">\n</p><h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n<p><span>Well shoot, these are kind of fun. I just happen to really like the look of these cables, if not just for the old telephone vibe, but we are talking about some notable functionality here that will have them neatly coiled when you don’t need them stretched out, and you’re getting a pair of them as lows $7.50 a pop. </span></p>\n</div>\n</div>\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>",
+      "published": "2026-07-16T15:02:39+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "a72caec85661c11c4b9cb7725be8f83029730b52",
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
+      "published": "2026-07-16T15:02:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "4d165af71bb1619f73b0e82f82aaa5f5a0114705",
+      "title": "A hacker claims to have accessed Suno user info and source code, showing how it scraped music; Suno says no sensitive info was compromised in a November hack (Jason Koebler/404 Media)",
+      "link": "https://www.techmeme.com/260716/p35#a260716p35",
+      "summary": "<a href=\"https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i35.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p35#a260716p35\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jason Koebler / <a href=\"https://www.404media.co/\">404 Media</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/\">A hacker claims to have accessed Suno user info and source code, showing how it scraped music; Suno says no sensitive info was compromised in a November hack</a></b></span>&nbsp; &mdash;&nbsp; Hacked source code reveals how Suno scraped decades worth of music and podcasts from the internet to train its AI tool.</p>",
+      "published": "2026-07-16T15:00:35+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "84ad3a92e4af0beac5d8f44d608fa06f8ea8ce21",
+      "title": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
+      "link": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
+      "summary": "The startup, founded in 2021, lets enterprise customers use smartphones to scan and spot vehicle damage.",
+      "published": "2026-07-16T15:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "fe9f9e1060df614cb3a159c8fb2f46f3b49c8ae2",
       "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
@@ -17,7 +197,7 @@
       "id": "da1af7d39ed03b8e9d9956659f1cb1d78a0bdfdf",
       "title": "Children among dead at Algeria foster care home blaze - president",
       "link": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
-      "summary": "Eleven people have died and 19 other have suffered injuries in the overnight blaze, the authorities say.",
+      "summary": "Eleven people have died and 19 other have suffered injuries in the overnight fire, the authorities say.",
       "published": "2026-07-16T14:27:15+00:00",
       "source": "BBC News",
       "category": "world"
@@ -84,24 +264,6 @@
       "published": "2026-07-16T13:59:40+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "046491c07f0817fb4135a937e9361d24ee2f6338",
-      "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
-      "link": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The air quality in large parts of Michigan, Minneapolis and Minnesota is deemed \"hazardous\" by authorities.",
-      "published": "2026-07-16T13:56:54+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "db1be2af82a747dc9749cb90547504bda30d2b32",
-      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
-      "link": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
-      "published": "2026-07-16T13:51:28+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "36f988079ac46cc5dc92aa5f340cb747c59d2c1f",
@@ -302,15 +464,6 @@
       "category": "tech"
     },
     {
-      "id": "c7318e3e83e3aaeab7432ab285595286ad66d073",
-      "title": "Sources detail how xAI has been slowed down by internal chaos as Musk pushed for Grok to match Claude, amid signs it is turning a corner under Michael Nicolls (Carmen Arroyo/Bloomberg)",
-      "link": "https://www.techmeme.com/260716/p25#a260716p25",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-07-16/spacexai-identity-crisis-at-elon-musk-s-chatbot-company\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i25.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p25#a260716p25\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Carmen Arroyo / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-07-16/spacexai-identity-crisis-at-elon-musk-s-chatbot-company\">Sources detail how xAI has been slowed down by internal chaos as Musk pushed for Grok to match Claude, amid signs it is turning a corner under Michael Nicolls</a></b></span>&nbsp; &mdash;&nbsp; The company wants to compete with Anthropic's Claude but has been slowed down by internal chaos and an inconsistent strategy.</p>",
-      "published": "2026-07-16T12:50:03+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "ac8db6785144bd18d2b79d5ba35b2c05061f3a45",
       "title": "Huge deal drops latest Google Nest Doorbell to just $76 (Reg. $180 new, Best Buy open-box)",
       "link": "https://9to5toys.com/2026/07/16/huge-deal-google-nest-doorbell/",
@@ -338,15 +491,6 @@
       "category": "world"
     },
     {
-      "id": "2a254e64e3919b50dd97fc5a9a71b9262ced6039",
-      "title": "London-based Applied Computing, which is developing AI models for energy operations, raised $20M led by KBR, with participation from Databricks Ventures (Tamara Djurickovic/Tech.eu)",
-      "link": "https://www.techmeme.com/260716/p24#a260716p24",
-      "summary": "<a href=\"https://tech.eu/2026/07/16/applied-computing-lands-20m-to-expand-foundation-ai-for-energy/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i24.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p24#a260716p24\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Tamara Djurickovic / <a href=\"https://tech.eu/\">Tech.eu</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://tech.eu/2026/07/16/applied-computing-lands-20m-to-expand-foundation-ai-for-energy/\">London-based Applied Computing, which is developing AI models for energy operations, raised $20M led by KBR, with participation from Databricks Ventures</a></b></span>&nbsp; &mdash;&nbsp; Applied Computing has secured fresh funding to expand its AI platform for energy operations, supporting international growth &hellip; </p>",
-      "published": "2026-07-16T12:35:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "e133d39375f4840da979e72101cc9f6386e0074d",
       "title": "HP’s 2026 touchscreen OmniBook X Flip OLED 2-in-1 Copilot+ PC is a great back-to-school deal at $650 off",
       "link": "https://9to5toys.com/2026/07/16/hp-2026-touchscreen-omnibook-x-flip-oled-2-in-1-copilot-pc-650-off/",
@@ -356,24 +500,6 @@
       "category": "deals"
     },
     {
-      "id": "a7248e2fdbc45197a33425f686affe46dc348d23",
-      "title": "Munich-based Microagi, which collects factory and household data to train humanoid robots, raised $55M led by Hummingbird in Germany's largest ever seed round (Éanna Kelly/Sifted)",
-      "link": "https://www.techmeme.com/260716/p23#a260716p23",
-      "summary": "<a href=\"https://sifted.eu/articles/munich-robotics-startup-microagi-raises-55m-germanys-largest-ever-seed-round/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i23.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p23#a260716p23\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> &Eacute;anna Kelly / <a href=\"https://sifted.eu/\">Sifted</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://sifted.eu/articles/munich-robotics-startup-microagi-raises-55m-germanys-largest-ever-seed-round/\">Munich-based Microagi, which collects factory and household data to train humanoid robots, raised $55M led by Hummingbird in Germany's largest ever seed round</a></b></span>&nbsp; &mdash;&nbsp; The startup teaches robots how to work in factories and homes&nbsp; &mdash;&nbsp; Munich-based robotics company Microagi &hellip; </p>",
-      "published": "2026-07-16T12:30:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "1a976b6473821d68bf8dd7e073c07979b7a65c4d",
-      "title": "Ocado's stock drops 13%+, hitting a 13-year low, after it failed to show tangible progress in talks to secure new US partners for its warehouse automation tech (Sarah Young/Reuters)",
-      "link": "https://www.techmeme.com/260716/p22#a260716p22",
-      "summary": "<a href=\"https://www.reuters.com/business/retail-consumer/uks-ocado-says-talking-multiple-potential-partners-us-2026-07-16/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i22.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p22#a260716p22\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sarah Young / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/business/retail-consumer/uks-ocado-says-talking-multiple-potential-partners-us-2026-07-16/\">Ocado's stock drops 13%+, hitting a 13-year low, after it failed to show tangible progress in talks to secure new US partners for its warehouse automation tech</a></b></span>&nbsp; &mdash;&nbsp; Shares in British technology and online grocery group Ocado (OCDO.L) tumbled to a 13-year low on Thursday after it failed &hellip; </p>",
-      "published": "2026-07-16T12:25:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "e67a0fb821fae952d48ba67bdc7a5c7e59667755",
       "title": "Hyper’s latest 120Gbps  Thunderbolt 5 Dock with SSD enclosure for Mac hits Amazon low at $80 off",
       "link": "https://9to5toys.com/2026/07/16/hyper-thunderbolt-5-dock-ssd-mac-deal/",
@@ -381,15 +507,6 @@
       "published": "2026-07-16T12:24:11+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "c23b1802fceec9746a6bb8d57d7be4c99f66ebb2",
-      "title": "The EU issues two decisions under the DMA that order Google to provide rival AI assistants and search engines comparable access to Android and some Search data (Robert Hart/The Verge)",
-      "link": "https://www.techmeme.com/260716/p21#a260716p21",
-      "summary": "<a href=\"https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i21.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p21#a260716p21\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Robert Hart / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma\">The EU issues two decisions under the DMA that order Google to provide rival AI assistants and search engines comparable access to Android and some Search data</a></b></span>&nbsp; &mdash;&nbsp; The EU says Google must let rival search engines and AI assistants have comparable access to Android and some Search data to comply with the DMA.</p>",
-      "published": "2026-07-16T12:20:03+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "9c8e8b0e5ef6e54b479eb73977b5cd7bc49edfed",
@@ -417,15 +534,6 @@
       "published": "2026-07-16T12:11:56+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "dc0f8d9720308f43affa09d081cb68cf554df6ff",
-      "title": "The UK sentences two Scattered Spider members, who pled guilty to an August 2024 Transport for London cyberattack, to five and a half years in prison (Joe Tidy/BBC)",
-      "link": "https://www.techmeme.com/260716/p20#a260716p20",
-      "summary": "<a href=\"https://www.bbc.com/news/articles/c4gyg0y6yg2o\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i20.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p20#a260716p20\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Joe Tidy / <a href=\"http://www.bbc.com/news/\">BBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bbc.com/news/articles/c4gyg0y6yg2o\">The UK sentences two Scattered Spider members, who pled guilty to an August 2024 Transport for London cyberattack, to five and a half years in prison</a></b></span>&nbsp; &mdash;&nbsp; Two men who carried out a cyber-attack which crippled Transport For London (TfL) when they were teenagers have both been sentenced to five years and six months in prison.</p>",
-      "published": "2026-07-16T12:10:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "99f04ebdc261ef7c0ebd1b2464575e9e69298893",
@@ -662,15 +770,6 @@
       "category": "deals"
     },
     {
-      "id": "cb11efc50755aa4738ee6d7abd706a1c84975fa0",
-      "title": "Best Buy launches 1-day Samsung flash sale: Up to $600 off TVs, Galaxy S26 Ultra, more + 5x store credits",
-      "link": "https://9to5toys.com/2026/07/16/best-buy-samsung-flash-sale-tv-galaxy/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Best-Buy-Samsung-Flash-Sale.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Today only, Samsung has effectively taken over the <a href=\"https://bestbuycreators.7tiv.net/mOqkm7\">Best Buy Deals of the Day page</a> to offer as much <a href=\"https://bestbuycreators.7tiv.net/mOqkm7\">$600 off select TVs</a> as well as <a href=\"https://bestbuycreators.7tiv.net/mOqkm7\"><strong>$260 off</strong> S26 Ultra</a>, and more.<strong> </strong>But My Best Buy Plus and Total members are privy to bonus 5% rewards – basically FREE Best Buy credits with purchase. </p>",
-      "published": "2026-07-16T10:24:02+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "d349a9192c0df60749f8655dd3424a2e643b6f60",
       "title": "Chip giant TSMC pledges another $100bn to expand US production",
       "link": "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo?at_medium=RSS&at_campaign=rss",
@@ -833,6 +932,15 @@
       "category": "deals"
     },
     {
+      "id": "691548efea9fde2df1c3b643face4b32a57a0ad6",
+      "title": "Ventorah",
+      "link": "https://www.producthunt.com/products/ventorah-browser-cfd",
+      "summary": "<p>\n            run virtual wind tunnel aerodynamic analysis in your browser\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ventorah-browser-cfd?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197878?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-16T06:37:09+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "9c9dea0bde321350dfde66cb071b875e2989b121",
       "title": "DC Handal adds 9 EV Charge Points at Sunway Putra Mall",
       "link": "https://soyacincau.com/2026/07/16/dc-handal-ev-charger-sunway-putra-mall-kl/",
@@ -867,15 +975,6 @@
       "published": "2026-07-16T05:20:34+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "8e1f5bdf2aaca2009d3c21f0bfb7f23428dad1d0",
-      "title": "ClipMatch",
-      "link": "https://www.producthunt.com/products/clipmatch",
-      "summary": "<p>\n            Turn your camera roll into social content with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clipmatch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197826?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-16T05:16:07+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "8d487fd8faa2e32579b3e30b2b761a12ec6d26f7",
@@ -995,15 +1094,6 @@
       "category": "tech"
     },
     {
-      "id": "d346057a7dcefd3c6542ae978b90d96b920f9e96",
-      "title": "Amazon has Renewed Premium iPhone 17 Pro models at $220 off today, more up to $449 off",
-      "link": "https://9to5toys.com/2026/07/15/amazon-renewed-premium-iphone-17-pro-deals/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/iPhone-17-Pro-Max-deal.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">We have tracked some notable deals on Amazon’s refurbished iPhone 17 Pro units thus far, but the price drops on its top-quality Renewed Premium units haven’t but all that great until now. We are now tracking up to <strong>$220 off</strong> the new list prices on all three colors of the latest iPhone 17 Pro. </p>",
-      "published": "2026-07-15T22:13:00+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "ddbdde8c0685905e2190f68c6137d846b9c11dfb",
       "title": "Buzz Aldrin sells famous felt-tip pen that helped launch Apollo from the Moon",
       "link": "https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/",
@@ -1011,15 +1101,6 @@
       "published": "2026-07-15T22:10:41+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "7b5dc0c9b846cbd01b15bc6d6f61d4ffc5d57899",
-      "title": "Keep hedges and shrubs in tip-top shape with EGO’s 26-inch cordless electric trimmer bundle at a new $195 Amazon low",
-      "link": "https://9to5toys.com/2026/07/15/ego-26-inch-cordless-electric-hedge-trimmer-new-195-amazon-low/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/03/EGO-Power-56V-26-inch-Cordless-Hedge-Trimmer.jpg?quality=82&#038;strip=all&#038;w=1200\" /></div><p class=\"wp-block-paragraph\">Over at Amazon you can pick up the EGO Power+ 56V 26-inch Cordless Electric Hedge Trimmer with 2.5Ah battery for $195 shipped. Normally fetching $279 at full price, we’ve only seen this package discounted to $229 this year, while early summer 2025 was the last time we saw it fall all the way down to its previous $199 low. The deal here, though, is coming in $4 under that previous low for $84 total savings, marking a new all-time low from Amazon. </p>",
-      "published": "2026-07-15T21:56:05+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "30c743a9613d5b97ce90d740ddd698efedf7c7f4",
@@ -1076,39 +1157,12 @@
       "category": "tech"
     },
     {
-      "id": "38d71c3e3aa395b8579d923b00d50a311039c3d2",
-      "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
-      "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
-      "summary": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
-      "published": "2026-07-15T19:46:54+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "676e93e2fc30949c2574975162097433942f30c3",
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-      "published": "2026-07-15T19:41:38+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "d4231cd609b67db59257a7041a681ebcafc8f9c7",
       "title": "FCC to repeal 39% TV ownership cap in boost for Trump-friendly news orgs",
       "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-repeal-39-tv-ownership-cap-in-boost-for-trump-friendly-news-orgs/",
       "summary": "FCC chairman claims power to repeal TV ownership limit set by Congress.",
       "published": "2026-07-15T18:52:22+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "393b9c2f50707f4dd94e8c0f1f8ac346f2db54c5",
-      "title": "Microsoft patches bug in video game Age of Empires II",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
-      "summary": "The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite.",
-      "published": "2026-07-15T18:47:01+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1119,51 +1173,6 @@
       "published": "2026-07-15T18:39:58+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "de3d34297c269d248f650e27a6ca5cd718aa3807",
-      "title": "Apple bans home services from its upcoming Maps ads",
-      "link": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
-      "summary": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services businesses like plumbers, electricians, locksmiths, and roofers from advertising on Apple Maps, along with several other sensitive categories, suggesting Apple is taking a more curated approach to these ads.",
-      "published": "2026-07-15T18:21:22+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "c5caabf3f7391f9ad1de030ba06a9f3132d595f3",
-      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
-      "published": "2026-07-15T18:06:05+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "93f75d4a33a2b25e2dcfb2553fdab17a95c41ada",
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
-      "published": "2026-07-15T18:04:06+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "8d2f3fcd986899df533d7a93d379e1f5628456a5",
-      "title": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
-      "link": "https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/",
-      "summary": "Google's biggest solar and battery project stands in sharp contrast with xAI's nearby unpermitted power plant.",
-      "published": "2026-07-15T17:39:54+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "9312fa6652252f64f237a59cd726f79096804746",
-      "title": "FlightGlitch",
-      "link": "https://www.producthunt.com/products/flightglitch-airline-error-fare-alerts",
-      "summary": "<p>\n            Catch mistake fares before airlines fix them\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/flightglitch-airline-error-fare-alerts?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197503?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-15T17:36:23+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "d22bdc67f1a6c4d92a56144d839f21ede194365c",
@@ -1202,24 +1211,6 @@
       "category": "world"
     },
     {
-      "id": "212e01f95b95e71f9a828b93456efe3f9916fcb6",
-      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-      "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
-      "published": "2026-07-15T17:00:34+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "1424a0f10b0c315834a6f8d7b1cc076bea402758",
-      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
-      "published": "2026-07-15T17:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "6f9321b091f3eda7cd58003b34b2b16e81c6fab8",
       "title": "Third-party app stores coming to Google Play next week as Epic settlement withdrawn",
       "link": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/",
@@ -1236,15 +1227,6 @@
       "published": "2026-07-15T16:00:33+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "9508463996429df67ec62cab4dbb672cdc82802a",
-      "title": "Zro",
-      "link": "https://www.producthunt.com/products/zro",
-      "summary": "<p>\n            Private inference for coding agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197428?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-15T15:45:09+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "7e81513fe1fd039e2421317a87daed74f715c149",
@@ -1301,15 +1283,6 @@
       "category": "tech"
     },
     {
-      "id": "d9c4b50133c61a5d7fcbe8325077fc9cc8ad93af",
-      "title": "Kit For AI",
-      "link": "https://www.producthunt.com/products/kit-for-ai",
-      "summary": "<p>\n            The memory layer for AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kit-for-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197148?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-15T10:39:04+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "b654c5da50b81419e2c13b37a79697f1a2fe550f",
       "title": "Sotheby's big T. rex auction raises concerns hype and wealth are upending science",
       "link": "https://arstechnica.com/science/2026/07/sothebys-big-t-rex-auction-raises-concerns-hype-and-wealth-are-upending-science/",
@@ -1346,20 +1319,20 @@
       "category": "malaysia"
     },
     {
-      "id": "c7b3db6b544e47404d26112ad1d7bcbe279e0f89",
-      "title": "Alert Grouping by DrDroid",
-      "link": "https://www.producthunt.com/products/alert-audit-by-doctor-droid",
-      "summary": "<p>\n            Reduce Your Alerts Noise Completely\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/alert-audit-by-doctor-droid?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1196918?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-15T06:55:52+00:00",
+      "id": "c4bc6538c1992c4aa94565e279394256575d2c4c",
+      "title": "Node Health",
+      "link": "https://www.producthunt.com/products/node-health",
+      "summary": "<p>\n            Your private home for every lab result\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/node-health?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1196926?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-15T07:08:33+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "e7c8fb9daa95449679bd4251db9c84144220eb17",
-      "title": "Amami",
-      "link": "https://www.producthunt.com/products/amami",
-      "summary": "<p>\n            Analytics that lives inside your AI assistant \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/amami?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1196837?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-15T04:17:53+00:00",
+      "id": "c5eb5e9e25205e4942c3044414b784d7cf04dec5",
+      "title": "Nitrosend",
+      "link": "https://www.producthunt.com/products/nitrosend",
+      "summary": "<p>\n            Email for AI agents. They sign up, send and reply.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nitrosend?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1196771?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-15T01:41:49+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1445,6 +1418,15 @@
       "category": "tech"
     },
     {
+      "id": "b9f1f86334a2a1a199e79823ad36c83f9b9e8325",
+      "title": "In Parallel MCP",
+      "link": "https://www.producthunt.com/products/in-parallel",
+      "summary": "<p>\n            Your context, available to every agent.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/in-parallel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1196308?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-14T12:55:10+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "05f4ba6219329c0a3515e4a2628fc0114cb372da",
       "title": "Proton Saga Cross AMA02 spotted undergoing testing at Federal Highway",
       "link": "https://soyacincau.com/2026/07/14/proton-saga-cross-ama02-camo-federal-highway/",
@@ -1463,11 +1445,29 @@
       "category": "events"
     },
     {
-      "id": "6d47c13087fb3e2891547b28922550bc47185f75",
-      "title": "Microflow",
-      "link": "https://www.producthunt.com/products/microflow",
-      "summary": "<p>\n            Microcontrollers made simple.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/microflow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1195056?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-13T09:56:27+00:00",
+      "id": "599fbe9c35a3f7d7775a3d2d5d16364cc6553399",
+      "title": "Manta AI",
+      "link": "https://www.producthunt.com/products/manta-ai",
+      "summary": "<p>\n            Your AI agent for autonomous web app testing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/manta-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1195155?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-13T12:00:36+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "53ae50e7ae56a70226540d0a62a89cb3ea00829d",
+      "title": "SIMPLI",
+      "link": "https://www.producthunt.com/products/simpli-3",
+      "summary": "<p>\n            Split expenses in a live cosmos\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/simpli-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1194985?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-13T08:39:23+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "7ed2dbf7d19072261f31eb10c35f8406beaf08d9",
+      "title": "Cloud Halo",
+      "link": "https://www.producthunt.com/products/cloud-halo",
+      "summary": "<p>\n            Azure FinOps for MSPs with flat pricing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cloud-halo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1192893?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-10T12:04:10+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
