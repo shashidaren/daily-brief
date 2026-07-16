@@ -1,15 +1,357 @@
 {
-  "generatedAt": "2026-07-16T16:11:56.677210+00:00",
+  "generatedAt": "2026-07-16T17:59:45.189328+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
+      "id": "29a3040bb46e7797fa03f28c9ee8c9bdc2ae0adc",
+      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] policy\" to check for outdated [&#8230;]",
+      "published": "2026-07-16T17:58:37+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "3afd291fc74ffa7d114aa220832a5e2cc0ce2da3",
+      "title": "Ecovacs&#8217; self-cleaning Deebot X11 has hit a new low price",
+      "link": "https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale",
+      "summary": "Sometimes it feels like keeping your floors clean is one of those never-ending chores, which is why it's nice to have a versatile robot vacuum take it off your hands. The Ecovacs Deebot X11 robovac / mop hybrid is designed to do just that, and it's now $699 ($400 off) at Amazon and directly from [&#8230;]",
+      "published": "2026-07-16T17:57:15+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "2d07a690f637ac1c1f18324b4dfaa1dc2774ee0f",
+      "title": "At least one dead in Texas floods ravaging same area where campers died",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The same area devastated by floods last year - causing more than 130 deaths, including those at Camp Mystic - is once again being hit.",
+      "published": "2026-07-16T17:56:47+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "5291065bbec2886cb7ca582e6934239fb3487296",
+      "title": "Meta's Oversight Board says top AI models may be restricting free expression in its first evaluation of LLMs, as it seeks to expand its influence beyond Meta (Karissa Bell/Engadget)",
+      "link": "https://www.techmeme.com/260716/p45#a260716p45",
+      "summary": "<a href=\"https://www.engadget.com/2216274/the-oversight-board-says-leading-ai-models-might-be-restricting-free-expression/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i45.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p45#a260716p45\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Karissa Bell / <a href=\"https://www.engadget.com/\">Engadget</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.engadget.com/2216274/the-oversight-board-says-leading-ai-models-might-be-restricting-free-expression/\">Meta's Oversight Board says top AI models may be restricting free expression in its first evaluation of LLMs, as it seeks to expand its influence beyond Meta</a></b></span>&nbsp; &mdash;&nbsp; The group is trying to extend its influence beyond Meta.&nbsp; &mdash;&nbsp; The Oversight Board, the independent content moderation organization created &hellip; </p>",
+      "published": "2026-07-16T17:55:04+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "f559cde4c48ac79ccad99142ca13a5d3e3c8f05f",
+      "title": "Nothing gear up to $200 off this week: Headphone (a), Phone, buds, and more from $44",
+      "link": "https://9to5toys.com/2026/07/16/nothing-headphone-a-phone-buds/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Nothing-Roundup-July-16-2026.webp?w=1600\" /></div><p class=\"wp-block-paragraph\">While we are still awaiting the first solid price drop on the brand new Nothing Ear (3a) Noise Cancelling Earbuds, there are loads of notable deals from the brand live on Amazon right now. Alongside its ultra-affordable smartwatches and Nothing Phone (3) at $200 off, the real highlight from is the latest over-ear headphones. </p>",
+      "published": "2026-07-16T17:53:06+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "1f7e5a1377dedc5bd87494e027e6d5e86223f9d2",
+      "title": "Oil giant BP shutters its corporate venture arm after 20 years",
+      "link": "https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/",
+      "summary": "BP Ventures is shutting down, ending a nearly 20 year run that was marked by reportedly lackluster returns.",
+      "published": "2026-07-16T17:37:03+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "046491c07f0817fb4135a937e9361d24ee2f6338",
+      "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
+      "link": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The air quality in large parts of Michigan, Minneapolis and Minnesota is deemed \"hazardous\" by authorities.",
+      "published": "2026-07-16T17:36:43+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "db1be2af82a747dc9749cb90547504bda30d2b32",
       "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
       "link": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
       "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
-      "published": "2026-07-16T16:10:40+00:00",
+      "published": "2026-07-16T17:22:31+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "726250db63372af18111246174ebe6585409ad04",
+      "title": "Charge your entire everyday Apple kit on the go with this 65W Qi2.2 MagSafe power bank with lanyard cable down at $48 low",
+      "link": "https://9to5toys.com/2026/07/16/65w-qi2-2-magsafe-power-bank-with-lanyard-cable/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/06/LISEN-25W-wireless-power-bank.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Over at Amazon, you’ll find LISEN’s official B King storefront is offering its 10,000mAh 65W Qi2.2 MagSafe power bank for $47.99 shipped, once you enter promo code<em> <strong>XX2HL3TA</strong></em> during checkout. That matches the Prime Day price it hit last month, bringing this latest model down from its $80 usual going rate. The white version is also on sale for <strong>$59.84 shipped</strong> with a relatively lighter deal, so you can pick between the two and grab one without paying the full price today. This is one of the more capable Qi2.2 25W power banks out there right now, and you can learn more about it in detail below.</p>",
+      "published": "2026-07-16T17:18:58+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "640d5443b2f102843ae71c0bab7e28029df953bd",
+      "title": "'Moment of joy' as Uganda discharges last Ebola patient",
+      "link": "https://www.bbc.co.uk/news/articles/cx2myxjv172o?at_medium=RSS&at_campaign=rss",
+      "summary": "The good news from Uganda comes as the WHO chief warns the virus in DR Congo is spreading fast.",
+      "published": "2026-07-16T17:15:32+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "46918b1d83c9f0da86b2b2319de60d6589acb171",
+      "title": "Google says users in the US can now link to and interact with some apps in AI Mode, including Instacart, Canva, and YouTube Music (Aisha Malik/TechCrunch)",
+      "link": "https://www.techmeme.com/260716/p44#a260716p44",
+      "summary": "<a href=\"https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i44.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p44#a260716p44\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Aisha Malik / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/\">Google says users in the US can now link to and interact with some apps in AI Mode, including Instacart, Canva, and YouTube Music</a></b></span>&nbsp; &mdash;&nbsp; Google announced on Thursday that it now allows users to link and interact with some of their go-to apps right in AI Mode, the tech giant's conversational search experience.</p>",
+      "published": "2026-07-16T17:15:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "51adfb0fb42da3f67369339e53dbdd35e7d7f4f2",
+      "title": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
+      "link": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/",
+      "summary": "Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of the world’s largest food delivery platforms outside China.",
+      "published": "2026-07-16T17:12:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "a57a9963e0ebd5e7ab01aa47ff1fd2bc1bc152a5",
+      "title": "Today’s Android app deals and freebies: MEGA MAN X, Little Big Workshop, Ace Attorney Trilogy, more",
+      "link": "https://9to5toys.com/2026/07/16/today-android-app-deals-mega-man-x/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Google-Play-Jul-16.webp?w=1600\" /></div><p class=\"wp-block-paragraph\">Your afternoon lineup of the best Android game and app deals is now ready to roll, including titles like MEGA MAN X, Little Big Workshop, Ace Attorney Trilogy, GHOST TRICK, LEGO Bricktales, Endurance: dead space Premium, Neighbours from Hell 1 Premium, and more. Joining the ongoing deals on latest Google Pixel Flex Dual Port 67W USB-C Fast Charger and the <strong>$300</strong> price drops on Google Pixel 10 Pro, we also have the most affordable <a href=\"https://9to5toys.com/2026/07/16/most-affordable-pixel-10-deal/\">Pixel 10 unlocked at up to $308 off</a> and a giant dela on the <a href=\"https://9to5toys.com/2026/07/16/huge-deal-google-nest-doorbell/\">Google Nest Doorbell from just $76</a>. The apps await below. </p>",
+      "published": "2026-07-16T17:08:41+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "1ce07b8ebe6ea25643a6bff45a5fbb7a97907417",
+      "title": "Get distracting cables out of sight with this 12-foot 3-cord cover kit at $14.50 (Reg. $25)",
+      "link": "https://9to5toys.com/2026/07/16/delamu-12-foot-3-cord-cover-kit/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Delamu-12-Foot-3-Cord-Cover-Kit.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">Delamu 12-Foot 3-Cord Cover Kit</h2>\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $14.50 (Reg. $25)</h3>\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\">\n<figure class=\"wp-block-media-text__media\"><img alt=\"A red background with white lines\" class=\"wp-image-1220552 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Delamu-12-Foot-3-Cord-Cover-Kit-chart.png?w=968\" width=\"968\" /></figure>\n<div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\">\n</p><h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n<p><span>You probably know by now that I’m a big fan of this stuff. I’ve cover it frequently and go on and on about how much I use it. It’s true. It’s in just about every room in my house and as a result, visible cords are kept to an absolute minimum.</span></p>\n</div>\n</div>\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>",
+      "published": "2026-07-16T17:05:30+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "9a8f8ce55e444bfcbc2e46e88c7e6e8956ef4237",
+      "title": "Roblox unveils Build, which lets users create basic games through text prompts directly within its mobile app, powered by Roblox's models and open-source models (Jay Peters/The Verge)",
+      "link": "https://www.techmeme.com/260716/p43#a260716p43",
+      "summary": "<a href=\"https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i43.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p43#a260716p43\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jay Peters / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games\">Roblox unveils Build, which lets users create basic games through text prompts directly within its mobile app, powered by Roblox's models and open-source models</a></b></span>&nbsp; &mdash;&nbsp; It's the latest push into AI from Roblox, which has embraced the technology. &hellip; Roblox is about to let people make games &hellip; </p>",
+      "published": "2026-07-16T17:05:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "3984e287945cc6903a52a7cbc8baa6a0861e267c",
+      "title": "Colorful ergonomic office chair falls as low as $93.50 across several styles (Reg. $140)",
+      "link": "https://9to5toys.com/2026/07/16/marsail-colorful-ergonomic-office-chair/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Marsail-Colorful-Ergonomic-Office-Chair.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">Marsail Colorful Ergonomic Office Chair</h2>\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-buy-for-93-50-reg-140\">Buy for $93.50 (Reg. $140)</h3>\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\">\n<figure class=\"wp-block-media-text__media\"><img alt=\"A line of a heartbeat\" class=\"wp-image-1220545 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Marsail-Colorful-Ergonomic-Office-Chair-chart.png?w=968\" width=\"968\" /></figure>\n<div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\">\n</p><h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n<p><span>If you want to add a pop of color to your office, this chair is ready to do the trick. It’s available in several colorways, but this blue style currently has the best price down at $93.50 shipped.</span></p>\n</div>\n</div>\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>",
+      "published": "2026-07-16T17:02:18+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "8b028f04907ea7335c0fab6e19b021fa64e3b6b2",
+      "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
+      "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
+      "summary": "Beehiiv is launching an AI Copilot to help publishers with user growth and analytics",
+      "published": "2026-07-16T17:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "9f0552769ce9c780418caab2b475107d315bd8d3",
+      "title": "Score six Matter-certified light bulbs for your Apple Home while they’re only $5 each",
+      "link": "https://9to5toys.com/2026/07/16/linkind-matter-smart-light-bulbs-6-pack/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Linkind-Matter-Smart-Light-Bulbs-6-pack.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">Linkind Matter Smart Light Bulbs (6-pack)</h2>\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $30 (Reg. $43)</h3>\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\">\n<figure class=\"wp-block-media-text__media\"><img alt=\"A red background with white lines\" class=\"wp-image-1220539 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Linkind-Matter-Smart-Light-Bulbs-6-pack-chart.png?w=968\" width=\"968\" /></figure>\n<div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\">\n</p><h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n<p><span>I always like to have backup smart bulbs like this on hand, so I stock up when I see a sale like this. You’re looking at just $5 a pop right now for Matter-certified bulbs that will work with Apple, Google, Alexa, and many other smart home ecosystems.</span></p>\n</div>\n</div>\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>",
+      "published": "2026-07-16T16:59:37+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "5fe99309ba062a234205d14e01abe39e6e4653eb",
+      "title": "Google is better at playing the AI regulations game",
+      "link": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
+      "summary": "Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising. It may look like a defeat on paper for Google, which has spent years resisting exactly this kind of access, but it is a regulatory [&#8230;]",
+      "published": "2026-07-16T16:55:54+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "57e1f2e4f9d740d7f6d397191c564a4bfea86a01",
+      "title": "Amazon drop this 24-in-1 magnetic ratcheting screwdriver set at your door for $10 (Save 50%)",
+      "link": "https://9to5toys.com/2026/07/16/oria-24-in-1-magnetic-ratcheting-screwdriver-set/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/ORIA-24-in-1-Magnetic-Ratcheting-Screwdriver-Set.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">ORIA 24-in-1 Magnetic Ratcheting Screwdriver Set</h2>\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $10 (Reg. $20)</h3>\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\">\n<figure class=\"wp-block-media-text__media\"><img alt=\"A red background with a white line\" class=\"wp-image-1220534 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/ORIA-24-in-1-Magnetic-Ratcheting-Screwdriver-Set-chart.png?w=968\" width=\"968\" /></figure>\n<div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\">\n</p><h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n<p><span>Unlike a lot of screwdriver kits out there, this offering features a T-handle design that increases grip and stability while you work. There are 24 total pieces in this set, which should cover the basics and more.</span></p>\n</div>\n</div>\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>",
+      "published": "2026-07-16T16:54:34+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "880f3b63b1f5f883ca34e7b60a6b237b2e5660ed",
+      "title": "Almost all Nomad Apple Watch Bands now on sale: Up to 25% off sport, leather, titanium, more",
+      "link": "https://9to5toys.com/2026/07/16/nomad-all-apple-watch-band-deals/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Apple-Watch-band-deals-Nomad.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">As you perhaps know by now, the <a href=\"https://howl.link/u1u1ff4j6bq7t\">Nomad 2026 Anniversary Sale is now live</a> to deliver the brand’s most wide-ranging discount event of the year. We have already detailed the all-time lows on its latest <a href=\"https://9to5toys.com/2026/07/15/nomad-25w-qi2-stand-one-magsafe-cosmic-orange/\">25W Qi2 MagSafe chargers</a>, leather iPhone cases, and <a href=\"https://9to5toys.com/2026/07/14/rare-price-drops-nomad-tracking-card-apple-find-my-pro-orange-google/\">Find My Tracking Cards</a>, so let’s <a href=\"https://howl.link/lpw8cxq91geb7\">take a look at the Apple Watch band deals now</a>. </p>",
+      "published": "2026-07-16T16:52:19+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "52a5ad6d07eebb368fa9f28c663613d0ed9edda4",
+      "title": "Add wall outlets, USB-A, and Type-C to your ride with this 200W 8-in-1 power inverter, now $18",
+      "link": "https://9to5toys.com/2026/07/16/tessan-200w-8-in-1-car-power-inverter/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/TESSAN-200W-8-in-1-Car-Power-Inverter.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">TESSAN 200W 8-in-1 Car Power Inverter</h2>\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $18 (Reg. $23)</h3>\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\">\n<figure class=\"wp-block-media-text__media\"><img alt=\"A line drawing of a heart beat\" class=\"wp-image-1220529 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/TESSAN-200W-8-in-1-Car-Power-Inverter-chart.png?w=968\" width=\"968\" /></figure>\n<div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\">\n</p><h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n<p><span>While a lot of devices can be topped off with USB-A and Type-C these days, sometimes you want an AC outlet. This power inverter brings two to your vehicle for $18 Prime shipped. It also packs 6 USB outputs with USB-C that can reach 36W.</span></p>\n</div>\n</div>\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>",
+      "published": "2026-07-16T16:50:06+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "c85ad22c35ff208c134baee08443d44d289897ec",
+      "title": "LEGO’s 768-piece Horizon Adventures set with two minifigures + the Shell-Walker and Sawtooth is down at $29 right now",
+      "link": "https://9to5toys.com/2026/07/16/lego-horizon-adventures-aloy-varl-vs-shell-walker-sawtooth-set/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/LEGO-Horizon-Adventures-Aloy-Varl-vs.-Shell-Walker-Sawtooth-set.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">LEGO Horizon Adventures Aloy &amp; Varl vs. Shell-Walker &amp; Sawtooth set</h2>\n<h3 class=\"wp-block-heading has-text-align-center\" id=\"h-buy-for-29-reg-45\">Buy for $29 (Reg. $45)</h3>\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\">\n<figure class=\"wp-block-media-text__media\"><img alt=\"A red background with a line\" class=\"wp-image-1220523 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/LEGO-Horizon-Adventures-Aloy-Varl-vs.-Shell-Walker-Sawtooth-set-chart.png?w=968\" width=\"968\" /></figure>\n<div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\">\n</p><h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n<p><span>Stacking up to 768 pieces, this LEGO Horizon Adventures set lets you recreate the adventures of the game’s protagonist, Aloy, and her friend Varl (both in minifigure form and complete with weapons), as they battle the Shell-Walker and Sawtooth. The Shell-Walker comes with posable legs and arms, as well as an articulable claw, while Sawtooth comes full articulated with opening jaws, a swiveling torso, while also having a posable neck, head, and legs. It makes a great addition to any collections for builders and gamers alike. </span></p>\n<p></p>\n</div>\n</div>\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>",
+      "published": "2026-07-16T16:47:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "fba19db86d7548d9f4efad337bbb578f5853908b",
+      "title": "Roblox will let people use AI to make games on their phone",
+      "link": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
+      "summary": "Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that's already filled with content of questionable quality feel even more overloaded. The company has embraced AI with open arms, including a preview of an ambitious take on AI world models similar to Google's Project [&#8230;]",
+      "published": "2026-07-16T16:45:29+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "99cf060e921c5cce35b6536654e7f540db01c794",
+      "title": "Fora, which connects travel agents with travelers and offers agents AI tools, raised a $60M Series D at a $1B valuation led by Forerunner and Tactile Ventures (Dominic-Madori Davis/TechCrunch)",
+      "link": "https://www.techmeme.com/260716/p42#a260716p42",
+      "summary": "<a href=\"https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i42.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p42#a260716p42\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Dominic-Madori Davis / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/\">Fora, which connects travel agents with travelers and offers agents AI tools, raised a $60M Series D at a $1B valuation led by Forerunner and Tactile Ventures</a></b></span>&nbsp; &mdash;&nbsp; Travel agency Fora announced a $60 million Series D round led by Forerunner and Tactile Ventures, valuing the company at $1 billion.</p>",
+      "published": "2026-07-16T16:45:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "31bf777b0e5b9ee362d5ebc7d360e520510b7ad9",
+      "title": "X cracks down on creators who steal content",
+      "link": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
+      "summary": "X will use Grok AI to better detect stolen content, redirect payouts to original creators, and crack down on engagement bait.",
+      "published": "2026-07-16T16:40:36+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "98cfcef58145aa6c215b42cc7b6709c9bf99ace7",
+      "title": "Colorful adidas markdowns from $12: Germany Snap Back Cap, Jamaica x Bob Marley Shoes, more (Up to 50% off)",
+      "link": "https://9to5toys.com/2026/07/16/adidas-from-12-jul-16/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/adidas-Jul-16-6.webp?w=1600\" /></div><p class=\"wp-block-paragraph\">We just peeked at the official <a href=\"https://howl.link/la7ax8azwp604\">adidas sale page</a> and were on the hunt for colorful markdowns that are bound to pop this summer. Highlights include the Germany 26 Snap Back Cap, MESSI MINI BALL, and more. Just note that you can also score a <a href=\"https://9to5toys.com/2026/07/16/alex-vando-printed-button-down-shirt-5/\">snazzy button-down shirt at $14</a>, <a href=\"https://9to5toys.com/2026/07/16/bruno-marc-non-slip-lightweight-shoes/\">lightweight shoes for $24.50</a>, and much more in <a href=\"https://9to5toys.com/guides/apparel/\">our apparel guide</a>. Now that is all out of the way, here are today’s adidas deals.</p>",
+      "published": "2026-07-16T16:38:01+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "f4b2053d855eabbc60bb4434c8e29fcd453b431f",
+      "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+      "summary": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
+      "published": "2026-07-16T16:36:21+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "9ca3252814a7a8b1be7fb2dfd1ae604bbec8d1ce",
+      "title": "Might as well grab a new golf polo style down at $13.50 (Reg. $20)",
+      "link": "https://9to5toys.com/2026/07/16/alex-vando-black-square-golf-polo/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Alex-Vando-Black-Square-Golf-Polo.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">Alex Vando Black Square Golf Polo</h2>\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $13.50 (Reg. $20)</h3>\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\">\n<figure class=\"wp-block-media-text__media\"><img alt=\"A line drawing of a city\" class=\"wp-image-1220513 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Alex-Vando-Black-Square-Golf-Polo-chart.png?w=968\" width=\"968\" /></figure>\n<div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\">\n</p><h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n<p><span>Here’s yet another golf polo pattern you can add to your closet for a mere $13.50 Prime shipped. The pattern features black and white squares connected by lines, which is a look that would add some variety to my closet, and probably yours too.</span></p>\n</div>\n</div>\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>",
+      "published": "2026-07-16T16:35:55+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "3c95d72de8e36e8072dafe737a87cbdb88945dc8",
+      "title": "Bag these lightweight non-slip shoes for $24.50 (Save 54%)",
+      "link": "https://9to5toys.com/2026/07/16/bruno-marc-non-slip-lightweight-shoes/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Bruno-Marc-Non-Slip-Lightweight-Shoes.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">Bruno Marc Non-Slip Lightweight Shoes</h2>\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $24.50 (Reg. $45.50)</h3>\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\">\n<figure class=\"wp-block-media-text__media\"><img alt=\"A white line on a red background\" class=\"wp-image-1220498 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Bruno-Marc-Non-Slip-Lightweight-Shoes-chart.png?w=968\" width=\"968\" /></figure>\n<div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\">\n</p><h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n<p><span>Over the last several months I’ve been wearing a pair of all-white shoes like this just about every time I head out. I find the style to offer super clean look that pairs with just about anything. Today’s offer clocks in at just $24.50 Prime shipped too.</span></p>\n</div>\n</div>\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>",
+      "published": "2026-07-16T16:30:30+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "b8d5daaec524b8e74b11c57d3eded75675239f23",
+      "title": "OnePlus ends phone releases in US and Europe, further reducing smartphone choice",
+      "link": "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/",
+      "summary": "OnePlus promises to continue supporting the phones it's already released.",
+      "published": "2026-07-16T16:29:46+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "96a9ef047998c5bea104e7b53cf76f32d65ad1be",
+      "title": "Snag this snazzy button-down shirt for your closet while it’s only $14",
+      "link": "https://9to5toys.com/2026/07/16/alex-vando-printed-button-down-shirt-5/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Alex-Vando-Printed-Button-Down-Shirt_318ee5.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">Alex Vando Printed Button-Down Shirt</h2>\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $14 (Reg. $20)</h3>\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\">\n<figure class=\"wp-block-media-text__media\"><img alt=\"A white line on a red background\" class=\"wp-image-1220493 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Alex-Vando-Printed-Button-Down-Shirt-chart_2a4f33.png?w=968\" width=\"968\" /></figure>\n<div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\">\n</p><h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n<p><span>Button-down shirts like this are a go-to style in my wardrobe. They deliver a crisp and polished look that to my eye, stands out from the pack. Today’s offer clocks in for as little as $14 Prime shipped, which is 30% off the already-affordable $20 price tag.</span></p>\n</div>\n</div>\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>",
+      "published": "2026-07-16T16:26:56+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "301bafab85b3ec52dcb032fc51f6f6d241304758",
+      "title": "Pakistan resisting UK attempts to deport grooming gang leader",
+      "link": "https://www.bbc.co.uk/news/articles/clyxnvjy706o?at_medium=RSS&at_campaign=rss",
+      "summary": "The government of Pakistan says it has \"no connection whatsoever\" with the case of Shabir Ahmed.",
+      "published": "2026-07-16T16:26:32+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "0074393ce91fc942bb9d66395771d0d5f76803a4",
+      "title": "Google renames NotebookLM to Gemini Notebook and rolls out an update giving every notebook a secure cloud computer, letting it write and execute code natively (Josh Woodward/Google)",
+      "link": "https://www.techmeme.com/260716/p41#a260716p41",
+      "summary": "<a href=\"https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i41.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p41#a260716p41\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Josh Woodward / <a href=\"https://blog.google/\">Google</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/\">Google renames NotebookLM to Gemini Notebook and rolls out an update giving every notebook a secure cloud computer, letting it write and execute code natively</a></b></span>&nbsp; &mdash;&nbsp; We're renaming NotebookLM to Gemini Notebook.&nbsp; It's the same standalone product, now doing more across the Google ecosystem and updated with a secure cloud computer.</p>",
+      "published": "2026-07-16T16:25:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "b7ccb7277ad8d8015b3ce089c6df467163de3bc4",
+      "title": "Could China and Russia really destroy Starlink? Only with a boomerang.",
+      "link": "https://arstechnica.com/space/2026/07/could-china-and-russia-really-destroy-starlink-only-with-a-boomerang/",
+      "summary": "\"We will likely have similar concerns and discussions when China fields its Starlink-like constellation.\"",
+      "published": "2026-07-16T16:19:28+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "55cbb0027cf8714a5da8c76dc0902e44b5bfda4a",
+      "title": "Segway officially offers a discount on the 2026 Myon e-bike packed with smart features for $1,800",
+      "link": "https://9to5toys.com/2026/07/16/segway-first-discount-2026-myon-e-bike-1550/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Segway-Myon-electric-bike.jpg?quality=82&#038;strip=all&#038;w=1200\" /></div><p class=\"wp-block-paragraph\"><strong>Update 7/16:</strong> Segway has ended the full $450 first discount on this e-bike, but is continuing with a smaller <a href=\"https://www.awin1.com/cread.php?awinmid=93539&amp;awinaffid=1642421&amp;ued=https%3A%2F%2Fstore.segway.com%2Fsegway-ebike-myon-silver\">$200 discount to $1,799.99 shipped</a>. </p>\n<p class=\"wp-block-paragraph\">Riding right alongside the <a href=\"https://9to5toys.com/2026/07/13/segway-xyber-e-bike-bundled-with-extra-battery-2900-low/\">amazing Xyber e-bike and extra battery bundle deal</a>, Segway is officially offering the very first chance at savings on its <a href=\"https://www.awin1.com/cread.php?awinmid=93539&amp;awinaffid=1642421&amp;ued=https%3A%2F%2Fstore.segway.com%2Fsegway-ebike-myon-silver\">Myon Electric Bike for $1,549.99 shipped</a>. After its debut at CES 2026, this new e-bike model hit the market immediately after in January with a $2,000 MSRP, which is where it’s kept pricewise until today. Now, you can score the very first savings of $450 that is being slashed from the tag, setting the bar for future discounts down the road. </p>",
+      "published": "2026-07-16T16:19:11+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "9eff72255059731d13576af806bbede995bcf495",
+      "title": "Lenovo’s IdeaPad Slim 3x Snapdragon X Copilot+ PC hits one of its lowest prices today at $500",
+      "link": "https://9to5toys.com/2026/07/16/lenovo-ideapad-slim-3x-snapdragon-x-copilot-pc-hits-one-of-its-lowest-prices/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/06/Lenovo-IdeaPad-Slim-3X-Copilot-PC.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">As part of its <a href=\"https://howl.link/3r1428auql79f\">wider sale on Windows laptops</a>, Woot is offering <a href=\"https://howl.link/pnsij5wmdktqz\">Lenovo’s IdeaPad Slim 3x Snapdragon X Copilot+ PC for <strong>$499.99 shipped</strong></a>. Don’t forget to enter promo code <strong>50LAPTOP</strong> during checkout to see the discounted price. This is originally a $750 notebook that has more recently been fetching close to $650 at Amazon. Woot’s offer highlighted here takes $150 off its usual going rate to mark one of the lowest prices we have tracked for it to date. We haven’t seen many notable discounts on this model since it briefly hit $450 during last year’s Black Friday sale, and it still delivers strong value at today’s price. Head below for more details.</p>",
+      "published": "2026-07-16T16:18:35+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "e5f3ee95afcc89d75fb67ae4fbfebe98de584d1d",
+      "title": "Bring JBL’s 24-hour-ready Xtreme 4 portable Bluetooth Speaker with you through summer for $280 ($100 off)",
+      "link": "https://9to5toys.com/2026/07/16/jbl-xtreme-4-portable-bluetooth-speaker-280/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/JBL-Xtreme-4-Portable-Bluetooth-Speaker-Blue.jpg?quality=82&#038;strip=all&#038;w=1500\" /></div><p class=\"wp-block-paragraph\">Over at Amazon, you can pick up the JBL Xtreme 4 Portable Bluetooth Speaker down at $279.95 shipped in two colorways (camo, and blue) right now. You’d normally be paying $380 for this model at full price, which has been regularly discounted to $300 in 2026, though there have been a few falls lower to $280, $278, and the $250 low during last month’s Prime Day event. If you missed out on that late June low, you’re getting a solid $100 markdown here for the third-lowest price we have tracked this year. </p>",
+      "published": "2026-07-16T16:16:38+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "da1af7d39ed03b8e9d9956659f1cb1d78a0bdfdf",
+      "title": "Children among dead at Algeria foster care home blaze - president",
+      "link": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
+      "summary": "Eleven people have died and 19 other have suffered injuries in the overnight fire, the authorities say.",
+      "published": "2026-07-16T16:14:45+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -21,6 +363,15 @@
       "published": "2026-07-16T16:08:40+00:00",
       "source": "TechCrunch",
       "category": "tech"
+    },
+    {
+      "id": "c211fddd7fa7cabcd61f05c7340728d69c96b2e7",
+      "title": "JD Vance says Welsh castle was 'coolest thing I've ever seen'",
+      "link": "https://www.bbc.co.uk/news/articles/ckg8g5z83glo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Vice-President writes in his new book that a visit to north Wales in 2013 changed his perspective.",
+      "published": "2026-07-16T16:08:28+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "ee995dfaeea83d98757db6b25284bb4ddff22377",
@@ -41,6 +392,15 @@
       "category": "tech"
     },
     {
+      "id": "748b31199483e159fe47e90eb7b1f3b107eacb2b",
+      "title": "Google is renaming NotebookLM to Gemini Notebook",
+      "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before widely releasing [&#8230;]",
+      "published": "2026-07-16T16:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
       "id": "6353dac1470a3f2d32feae00c671bff8299b8381",
       "title": "Today’s Apple TV deals up to 80% off: Joker 2-Film Bundle, Wicked, Snowpiercer complete, ParaNorman, more",
       "link": "https://9to5toys.com/2026/07/16/today-apple-tv-deals-joker-bundle-snowpiercer/",
@@ -50,12 +410,39 @@
       "category": "deals"
     },
     {
+      "id": "1aca91708406f9e5834135d81d981cd79b6577f1",
+      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+      "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "summary": "Companies coming to market are raising money at fastest pace this century.",
+      "published": "2026-07-16T15:48:21+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
       "id": "bba78ccd7c04f29abba0c117aae22da9091e54ce",
       "title": "San Diego-based Self Inspection, which uses AI to assess body damage on a car with as little tech as a smartphone camera, raised $10M led by Sheryl Sandberg (Sean O'Kane/TechCrunch)",
       "link": "https://www.techmeme.com/260716/p40#a260716p40",
       "summary": "<a href=\"https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i40.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p40#a260716p40\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sean O'Kane / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/\">San Diego-based Self Inspection, which uses AI to assess body damage on a car with as little tech as a smartphone camera, raised $10M led by Sheryl Sandberg</a></b></span>&nbsp; &mdash;&nbsp; Sheryl Sandberg has led a $10 million investment into Self Inspection, a San Diego-based startup that is also backed by former Tesla president Jon McNeill's DVx Ventures.</p>",
       "published": "2026-07-16T15:45:02+00:00",
       "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "fd3f3fdfa67f7dbb827cf19e96787bbbebd5e518",
+      "title": "Time’s running out to save $10 on Splatoon Raiders physical preorders",
+      "link": "https://www.theverge.com/gadgets/966478/splatoon-raiders-preorder-the-sopranos-4k-bluray-deal-sale",
+      "summary": "Splatoon Raiders’ July 23rd launch day is almost here, so your window to preorder the physical version at a $10 discount is about to close. The digital version is $49.99, and so is the game on cartridge if you preorder at Walmart. Amazon previously honored the preorder discount, but it’s selling the game at full [&#8230;]",
+      "published": "2026-07-16T15:42:07+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "ae4ad820e5029aabe60da0389d91ecd69dfab83e",
+      "title": "Tesla driver in fatal Texas crash overrode FSD by pressing accelerator &#8216;100 percent,&#8217; investigators confirm",
+      "link": "https://www.theverge.com/transportation/966563/tesla-texas-crash-ntsb-investigation",
+      "summary": "The Tesla driver who fatally struck a woman after crashing into her home \"manually overrode\" the vehicle's Full Self-Driving (FSD) technology by pressing the gas pedal to 100 percent, the National Transportation Safety Board (NTSB) confirmed in a preliminary report on Wednesday. After examining the car's electronic data, investigators found that the Tesla Model 3 [&#8230;]",
+      "published": "2026-07-16T15:41:09+00:00",
+      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -77,10 +464,10 @@
       "category": "tech"
     },
     {
-      "id": "5de9ce8608fc995f7708e528d8a45154ef60929a",
-      "title": "Filing: a Chinese company says a fund in which its unit invested paid ~$420M for an indirect 0.8265% stake in DeepSeek, implying DeepSeek is valued at ~$52B (Eduardo Baptista/Reuters)",
+      "id": "8272c87d988b903dc73b24fab541e1834231b3ad",
+      "title": "Filing: a Chinese luggage maker says a fund in which it invested deployed ~$420M for an indirect 0.8265% stake in DeepSeek, implying DeepSeek is valued at ~$52B (Eduardo Baptista/Reuters)",
       "link": "https://www.techmeme.com/260716/p39#a260716p39",
-      "summary": "<a href=\"https://www.reuters.com/world/asia-pacific/chinese-filing-implies-deepseek-valuation-around-52-billion-2026-07-16/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i39.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p39#a260716p39\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Eduardo Baptista / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/asia-pacific/chinese-filing-implies-deepseek-valuation-around-52-billion-2026-07-16/\">Filing: a Chinese company says a fund in which its unit invested paid ~$420M for an indirect 0.8265% stake in DeepSeek, implying DeepSeek is valued at ~$52B</a></b></span>&nbsp; &mdash;&nbsp; China's Anhui Korrun (300577.SZ) said a fund in which its subsidiary invested deployed 2.90 billion yuan for an indirect 0.8265% stake in DeepSeek &hellip; </p>",
+      "summary": "<a href=\"https://www.reuters.com/world/asia-pacific/chinese-filing-implies-deepseek-valuation-around-52-billion-2026-07-16/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i39.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p39#a260716p39\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Eduardo Baptista / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/asia-pacific/chinese-filing-implies-deepseek-valuation-around-52-billion-2026-07-16/\">Filing: a Chinese luggage maker says a fund in which it invested deployed ~$420M for an indirect 0.8265% stake in DeepSeek, implying DeepSeek is valued at ~$52B</a></b></span>&nbsp; &mdash;&nbsp; China's Anhui Korrun (300577.SZ) said a fund in which its subsidiary invested deployed 2.90 billion yuan for an indirect .8265% stake &hellip; </p>",
       "published": "2026-07-16T15:35:01+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -104,19 +491,10 @@
       "category": "tech"
     },
     {
-      "id": "046491c07f0817fb4135a937e9361d24ee2f6338",
-      "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
-      "link": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The air quality in large parts of Michigan, Minneapolis and Minnesota is deemed \"hazardous\" by authorities.",
-      "published": "2026-07-16T15:30:43+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "eec18fa4be199ab3a1276053890c2ebbbe13501b",
-      "title": "Visa launches the Visa Stablecoin Platform, an internal system for its network of about 15,000 financial institutions and 200M+ merchants to use stablecoins (Camila Grigera Naón/Fortune)",
+      "id": "21c8565469fa191e861992a12889cc42cf77d7e3",
+      "title": "Visa debuts the Visa Stablecoin Platform, an internal system to help its network of ~15K financial institutions and 200M+ merchants more easily use stablecoins (Camila Grigera Naón/Fortune)",
       "link": "https://www.techmeme.com/260716/p38#a260716p38",
-      "summary": "<a href=\"https://fortune.com/2026/07/16/exclusive-visa-new-platform-stablecoin-services-200-million-merchants/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i38.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p38#a260716p38\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Camila Grigera Na&oacute;n / <a href=\"http://www.fortune.com/\">Fortune</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://fortune.com/2026/07/16/exclusive-visa-new-platform-stablecoin-services-200-million-merchants/\">Visa launches the Visa Stablecoin Platform, an internal system for its network of about 15,000 financial institutions and 200M+ merchants to use stablecoins</a></b></span>&nbsp; &mdash;&nbsp; Stablecoins have changed how people think about moving money, and their exponential rise over the past year has pushed mainstream payment networks to figure out how to adapt.</p>",
+      "summary": "<a href=\"https://fortune.com/2026/07/16/exclusive-visa-new-platform-stablecoin-services-200-million-merchants/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i38.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p38#a260716p38\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Camila Grigera Na&oacute;n / <a href=\"http://www.fortune.com/\">Fortune</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://fortune.com/2026/07/16/exclusive-visa-new-platform-stablecoin-services-200-million-merchants/\">Visa debuts the Visa Stablecoin Platform, an internal system to help its network of ~15K financial institutions and 200M+ merchants more easily use stablecoins</a></b></span>&nbsp; &mdash;&nbsp; Stablecoins have changed how people think about moving money, and their exponential rise over the past year &hellip; </p>",
       "published": "2026-07-16T15:25:01+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -131,21 +509,30 @@
       "category": "deals"
     },
     {
-      "id": "2d522545c48018af214817cb28b4cf5e03183baf",
-      "title": "OnePlus confirms it will no longer operate in North America or Europe but will continue in China, while Realme, another Oppo sub-brand, will exit China (CNET)",
+      "id": "a82775a3c27d4ee1281c72d5146d7536748b1f93",
+      "title": "OnePlus confirms it will no longer operate in North America or Europe but will keep operating in China, while Realme, another Oppo sub-brand, will exit China (CNET)",
       "link": "https://www.techmeme.com/260716/p37#a260716p37",
-      "summary": "<a href=\"https://www.cnet.com/tech/mobile/oneplus-pulls-out-of-us-and-europe/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i37.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p37#a260716p37\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.cnet.com/news/\">CNET</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnet.com/tech/mobile/oneplus-pulls-out-of-us-and-europe/\">OnePlus confirms it will no longer operate in North America or Europe but will continue in China, while Realme, another Oppo sub-brand, will exit China</a></b></span>&nbsp; &mdash;&nbsp; &ldquo;Never settle&rdquo; takes on a whole new meaning, as the once-maverick phone-maker retreats from the US and Europe.</p>",
+      "summary": "<a href=\"https://www.cnet.com/tech/mobile/oneplus-pulls-out-of-us-and-europe/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i37.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p37#a260716p37\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.cnet.com/news/\">CNET</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnet.com/tech/mobile/oneplus-pulls-out-of-us-and-europe/\">OnePlus confirms it will no longer operate in North America or Europe but will keep operating in China, while Realme, another Oppo sub-brand, will exit China</a></b></span>&nbsp; &mdash;&nbsp; &ldquo;Never settle&rdquo; takes on a whole new meaning, as the once-maverick phone-maker retreats from the US and Europe.</p>",
       "published": "2026-07-16T15:15:01+00:00",
       "source": "Techmeme",
       "category": "tech"
     },
     {
-      "id": "308b4674d9aed11fd76f2652d12edc0d9ba0cd68",
-      "title": "China, Russia, Brazil, and 26 other countries sign an agreement to establish the World AI Cooperation Organization in Shanghai (Reuters)",
+      "id": "b2469903e2df5e3f48feb4c8d75e5ca44bb907ee",
+      "title": "China, Russia, Belarus, Serbia, Cuba, Brazil, Venezuela, and 22 other countries sign an agreement to create the World AI Cooperation Organization in Shanghai (Reuters)",
       "link": "https://www.techmeme.com/260716/p36#a260716p36",
-      "summary": "<a href=\"https://www.reuters.com/world/china/twenty-nine-countries-sign-agreement-establish-global-ai-cooperation-body-2026-07-16/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i36.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p36#a260716p36\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/china/twenty-nine-countries-sign-agreement-establish-global-ai-cooperation-body-2026-07-16/\">China, Russia, Brazil, and 26 other countries sign an agreement to establish the World AI Cooperation Organization in Shanghai</a></b></span>&nbsp; &mdash;&nbsp; Twenty-nine countries on Thursday signed an agreement to establish the World AI Cooperation Organization, an intergovernmental body China says aims &hellip; </p>",
+      "summary": "<a href=\"https://www.reuters.com/world/china/twenty-nine-countries-sign-agreement-establish-global-ai-cooperation-body-2026-07-16/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i36.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p36#a260716p36\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/china/twenty-nine-countries-sign-agreement-establish-global-ai-cooperation-body-2026-07-16/\">China, Russia, Belarus, Serbia, Cuba, Brazil, Venezuela, and 22 other countries sign an agreement to create the World AI Cooperation Organization in Shanghai</a></b></span>&nbsp; &mdash;&nbsp; Twenty-nine countries on Thursday signed an agreement to establish the World AI Cooperation Organization, an intergovernmental body China &hellip; </p>",
       "published": "2026-07-16T15:10:01+00:00",
       "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "de10a5e29c779908db46504a4a51d2bc7f311085",
+      "title": "Apple&#8217;s OLED iPad Mini upgrade is on the way as prices continue to rise",
+      "link": "https://www.theverge.com/tech/966535/apple-oled-ipad-mini-rumor",
+      "summary": "The iPad Mini could get an OLED display upgrade as soon as October, according to Bloomberg's Mark Gurman. It would be the most significant refresh for the Mini since its 2021 redesign. An OLED iPad Mini has been rumored for months now, with Gurman previously reporting last year that it will also come with a [&#8230;]",
+      "published": "2026-07-16T15:04:12+00:00",
+      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -167,10 +554,10 @@
       "category": "tech"
     },
     {
-      "id": "4d165af71bb1619f73b0e82f82aaa5f5a0114705",
-      "title": "A hacker claims to have accessed Suno user info and source code, showing how it scraped music; Suno says no sensitive info was compromised in a November hack (Jason Koebler/404 Media)",
+      "id": "4a30475eb4730432bfb9377092a50c558a97ea3c",
+      "title": "A hacker claims to have accessed Suno's user info and source code, showing how it scraped music; Suno says no sensitive info was compromised in a November hack (Jason Koebler/404 Media)",
       "link": "https://www.techmeme.com/260716/p35#a260716p35",
-      "summary": "<a href=\"https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i35.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p35#a260716p35\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jason Koebler / <a href=\"https://www.404media.co/\">404 Media</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/\">A hacker claims to have accessed Suno user info and source code, showing how it scraped music; Suno says no sensitive info was compromised in a November hack</a></b></span>&nbsp; &mdash;&nbsp; Hacked source code reveals how Suno scraped decades worth of music and podcasts from the internet to train its AI tool.</p>",
+      "summary": "<a href=\"https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i35.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p35#a260716p35\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jason Koebler / <a href=\"https://www.404media.co/\">404 Media</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/\">A hacker claims to have accessed Suno's user info and source code, showing how it scraped music; Suno says no sensitive info was compromised in a November hack</a></b></span>&nbsp; &mdash;&nbsp; Hacked source code reveals how Suno scraped decades worth of music and podcasts from the internet to train its AI tool.</p>",
       "published": "2026-07-16T15:00:35+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -185,6 +572,15 @@
       "category": "tech"
     },
     {
+      "id": "48e24c9ee339c9ec0553efd414ba48202e12fced",
+      "title": "Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds",
+      "link": "https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/",
+      "summary": "NTSB findings back Elon Musk's claim that driver manually overrode FSD.",
+      "published": "2026-07-16T14:48:32+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
       "id": "fe9f9e1060df614cb3a159c8fb2f46f3b49c8ae2",
       "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
       "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
@@ -192,15 +588,6 @@
       "published": "2026-07-16T14:40:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "da1af7d39ed03b8e9d9956659f1cb1d78a0bdfdf",
-      "title": "Children among dead at Algeria foster care home blaze - president",
-      "link": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
-      "summary": "Eleven people have died and 19 other have suffered injuries in the overnight fire, the authorities say.",
-      "published": "2026-07-16T14:27:15+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "e9f363d5a351946145328f09a18029a5913484a8",
@@ -212,24 +599,6 @@
       "category": "tech"
     },
     {
-      "id": "8f73af27f1156fc5a4fc5f3e673477be3fe064bf",
-      "title": "Protests in Ukrainian cities against Zelensky's removal of defence minister",
-      "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.",
-      "published": "2026-07-16T14:22:11+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "8cdd7d7cbf9f88ea67cb80ee8e5de117130f83b4",
-      "title": "SSD prices are rough right now, but this 1TB pocket-sized drive is 40% off at $180 today",
-      "link": "https://9to5toys.com/2026/07/16/1tb-pocket-sized-drive-is-40-off-at-180-today/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Verbatim-SSD.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">We just spotted a deal at Amazon that drops Verbatim’s 1TB Pocket SSD down to $179.99 shipped. This is one of the more budget-friendly drives that typically goes for $300, and it’s available at an even better price today at $120 off. It’s too good to pass up this deal at 40% off, considering the SSD prices are constantly climbing, and good deals are increasingly hard to come by. It’s a great offer for anyone who wants a compact drive for everyday file transfers, backups, and portable storage. Head below for more details.</p>",
-      "published": "2026-07-16T14:16:43+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "df4be9f9c4f698d16c7574ccb30e82d6c50e32d6",
       "title": "Runta, which provides isolated sandboxes and guardrails for AI agents to prevent operational risks, raised a $20M seed led by a16z at a $100M+ valuation (Stephanie Palazzolo/The Information)",
       "link": "https://www.techmeme.com/260716/p34#a260716p34",
@@ -239,15 +608,6 @@
       "category": "tech"
     },
     {
-      "id": "6597c725a44749a9eaff3b07b8f2277a72d8133a",
-      "title": "Apple’s 24GB M5 MacBook Air is $150 off the new list price at Amazon right now",
-      "link": "https://9to5toys.com/2026/07/16/apple-24gb-m5-macbook-air-amazon/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/04/M5-MacBook-Air-best-deal-price.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Prices have gone up at Apple and there’s telling when this memory crisis is going to let up. With all of that in mind, we wanted to highlight some of the 24GB M5 MacBook Air deals you can land right now in case things just keep getting worse – Amazon has a few configurations at <strong>$150 off</strong> the new list prices. </p>",
-      "published": "2026-07-16T14:11:27+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "fadea6344af2313e52132c2b82c90d0e9bad08fb",
       "title": "‘No company is going to go to jail for you’: Proton’s CTO on balancing privacy, policy, and trust",
       "link": "https://www.theverge.com/podcast/966074/proton-cto-bart-butler-privacy-encryption-surveillance-age-verification",
@@ -255,15 +615,6 @@
       "published": "2026-07-16T14:00:00+00:00",
       "source": "The Verge",
       "category": "tech"
-    },
-    {
-      "id": "9b029844dc894e7b6381161cf75e19b21013d8fe",
-      "title": "Nintendo announces official Zelda toy line from Hasbro ahead of Ocarina of Time remake release",
-      "link": "https://9to5toys.com/2026/07/16/nintendo-announces-official-zelda-toy-line-hasbro/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Zelda-Toys-2027-Hasbro-Ocarina-of-Time.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">The <a href=\"https://9to5toys.com/2026/07/13/zelda-ocarin-time-remake-release-date-price/\">Zelda Ocarina of Time remake</a> is set for release in 2026, but as we await a proper gameplay reveal and the actual release date, Hasbro and Nintendo have now officially announced a licensing partnership to debut a series of new toys and collectibles based on the beloved Zelda franchise. </p>",
-      "published": "2026-07-16T13:59:40+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "36f988079ac46cc5dc92aa5f340cb747c59d2c1f",
@@ -284,15 +635,6 @@
       "category": "tech"
     },
     {
-      "id": "152479159e9d47b9216ed1f5015a0b15673531d1",
-      "title": "Today’s iOS app deals and freebies: Mega Man X, Street Fighter, Little Big Workshop, more",
-      "link": "https://9to5toys.com/2026/07/16/today-ios-app-deals-free-mega-man/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/App-Store-Jul-16.webp?w=1600\" /></div><p class=\"wp-block-paragraph\">Thursday’s lineup of the best iOS game and app deals is now ready to go, including titles like MEGA MAN X, MEGA MAN X DiVE Offline, Ace Attorney Trilogy, Street Fighter IV CE, Little Big Workshop, Dynamite Fishing World Games, Titan Quest: Ultimate Edition, and more. Alongside the ongoing AirPods Pro 3 discount, scope out the now even lower prices on Nomad’s <a href=\"https://9to5toys.com/2026/07/15/nomad-25w-qi2-stand-one-magsafe-cosmic-orange/\">25W Qi2 Stand One MagSafe charging station</a>, <a href=\"https://9to5toys.com/2026/07/16/airpods-4-anc-best-price-less/\">AirPods 4 with ANC</a> hitting the best price in months (here’s how to <a href=\"https://9to5toys.com/2026/07/16/airpods-4-anc-best-price-less/\">grab a set for $119</a> though), <a href=\"https://9to5toys.com/2026/07/15/amazon-renewed-premium-iphone-17-pro-deals/\">iPhone 17 Pro models at <strong>$220 off</strong></a>, and <a href=\"https://9to5toys.com/2026/07/15/amazon-m5-macbook-pro-price-m5-pro/\">M5 Pro/Max MacBook Pro models up to <strong>$400 off</strong></a>. The apps await below. </p>",
-      "published": "2026-07-16T13:36:34+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "2a0893f27b75b4c7633bd896d5614a8afde3b4aa",
       "title": "Sable, which is building an AI agent named Aiden that lives on a company's website to run live product demos and more, raised $45M from Sequoia and 8VC (Lily Mae Lazarus/Fortune)",
       "link": "https://www.techmeme.com/260716/p31#a260716p31",
@@ -311,84 +653,12 @@
       "category": "tech"
     },
     {
-      "id": "37a550a58341c871ea33a21a7627a57ea1f169c0",
-      "title": "Ninja’s Onyx Double Oven Pro smart XL countertop oven sports independent zones + 12-in-1 cooking at its $250 low ($150 off)",
-      "link": "https://9to5toys.com/2026/07/16/ninjas-onyx-double-oven-pro-smart-xl-countertop-oven-250-low/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Ninja-Double-Oven-Pro-Smart-XL-Countertop-Oven-Onyx-colorway.jpg?quality=82&#038;strip=all&#038;w=1500\" /></div><p class=\"wp-block-paragraph\">Over at Amazon you can find Ninja’s Double Oven Pro Smart XL 12-in-1 Countertop Oven in its Onyx colorway down at $249.99 shipped. Normally going for $400 at full price, this particular colorway saw discounts in 2026 cut the price down between $330 and $280 – including during Prime Day, which is when its silver counterpart dropped to this rate, while this Onyx one didn’t see the same deal until July. Now, you’re getting a second chance at the all-time lowest price we have tracked on this oven in general, saving you $150 in the process. You’ll also find tons more of Ninja’s appliance deals in the official Amazon storefront here. </p>",
-      "published": "2026-07-16T13:28:46+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "1945cb9e81826012b59d9a5688727cd4ba12aced",
-      "title": "Grubhub parent Wonder raised a $650M+ Series D at a $9B valuation, bringing its total raised to $3B+ since its founding in 2018, and plans to go public in 2027 (Lily Mae Lazarus/Fortune)",
-      "link": "https://www.techmeme.com/260716/p30#a260716p30",
-      "summary": "<a href=\"https://fortune.com/2026/07/16/exclusive-marc-lore-says-wonder-is-gearing-up-for-an-ipo-650-million-9-billion-valuation-cathie-wood-grubhub-food-delivery/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i30.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p30#a260716p30\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lily Mae Lazarus / <a href=\"http://www.fortune.com/\">Fortune</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://fortune.com/2026/07/16/exclusive-marc-lore-says-wonder-is-gearing-up-for-an-ipo-650-million-9-billion-valuation-cathie-wood-grubhub-food-delivery/\">Grubhub parent Wonder raised a $650M+ Series D at a $9B valuation, bringing its total raised to $3B+ since its founding in 2018, and plans to go public in 2027</a></b></span>&nbsp; &mdash;&nbsp; Marc Lore is ready to ring the bell.&nbsp; The serial entrepreneur&mdash;who previously sold Jet.com to Walmart for $3.3 billion &hellip; </p>",
-      "published": "2026-07-16T13:25:07+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "12c4fcb8cb5d291f6158f046ef3d2779bfdea734",
-      "title": "Samsung&#8217;s Galaxy Z Flip 8 leaks a week before launch event",
-      "link": "https://www.theverge.com/tech/966492/samsung-galaxy-z-flip-8-design-specs-leaked",
-      "summary": "Samsung's next flip phone might be tough to tell apart from last year's Galaxy Z Flip 7. As 9to5Google points out, leaked images and specs for the upcoming Galaxy Z Flip 8 shared by WinFuture are nearly identical to Samsung's current flip phone. According to the leak, Samsung is not planning to upgrade the Z [&#8230;]",
-      "published": "2026-07-16T13:23:50+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "52632e32b23431e412218100b59f637757ac3e79",
-      "title": "JBL’s Flip 7 waterproof Bluetooth speaker multiple colors hit $90 low (40% off)",
-      "link": "https://9to5toys.com/2026/07/16/jbl-flip-7-waterproof-bluetooth-speaker-multiple-colors-hit-90-low/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/JBL-Flip-7-speaker.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Alongside its now live <a href=\"https://9to5toys.com/2026/07/16/woot-countdown-to-birthday-sale-up-to-1000-off-samsung-monitors-from-290/\">Countdown to Birthday sale event</a>, Woot is offering <a href=\"https://howl.link/4hbpb1jurz0jg\">JBL’s Flip 7 portable Bluetooth speaker in multiple colors at <strong>$89.99 Prime shipped</strong></a> (a $6 delivery fee will apply otherwise). This is the latest Flip model from JBL, which typically goes for $150, so you’re saving 40% on it today. We’ve previously only seen the blue variant of this speaker briefly drop to the $85 mark, but today’s discounted price is the lowest we tracked for the rest of the finishes. Amazon currently has this speaker listed at $150, and they’ve never dropped below $95 there. It’s rare to see this model discounted in multiple finishes at once, so be sure to grab the color you like while the deal is live.</p>",
-      "published": "2026-07-16T13:21:21+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "ec6eff427f88c9f51cf78718d3cbe7a5dc231706",
-      "title": "1Password launches a new Claude integration for Mac that lets Anthropic's AI agent sign in to websites without seeing the user's password or 2FA code (Zac Hall/9to5Mac)",
-      "link": "https://www.techmeme.com/260716/p29#a260716p29",
-      "summary": "<a href=\"https://9to5mac.com/2026/07/16/1password-now-lets-claude-sign-in-to-websites-without-seeing-your-passwords/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i29.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p29#a260716p29\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Zac Hall / <a href=\"https://9to5mac.com/\">9to5Mac</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://9to5mac.com/2026/07/16/1password-now-lets-claude-sign-in-to-websites-without-seeing-your-passwords/\">1Password launches a new Claude integration for Mac that lets Anthropic's AI agent sign in to websites without seeing the user's password or 2FA code</a></b></span>&nbsp; &mdash;&nbsp; 1Password is launching a new Claude integration for Mac users today.&nbsp; It's designed to let Anthropic's AI agent sign in to websites without seeing &hellip; </p>",
-      "published": "2026-07-16T13:20:03+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "2b0b142a19a88372019af8a1345677230eafad15",
       "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
       "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
       "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
       "published": "2026-07-16T13:17:59+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "9b33351b28cec40b028a16570c6fe351b1169b2d",
-      "title": "Switch 2 game deals: Split Fiction $35, Splatoon Raiders pre-order price drop about to jump back up, more",
-      "link": "https://9to5toys.com/2026/07/16/switch-2-game-deals-split-fiction-splatoon-raiders/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/05/Split-Fiction-for-PS5.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Alongside the ongoing pre-order deals on upcoming new Switch 2 game releases – <a href=\"https://howl.link/fb5tvk0gpaiqr\">score that Splatoon Raiders deal soon</a> as it has already jumped up in price at Amazon, we are also adding a chance to land a deal on the <a href=\"https://howl.link/rtqv74s737esy\">Switch 2 version of the wonderful Split Fiction</a> today. A great little co-op experience, now with “enhanced co-op experience with GAMECHAT and GAMESHARE features, specifically designed for the Nintendo Switch 2,” Walmart is <a href=\"https://howl.link/rtqv74s737esy\">offering it down at $34.96 right now</a>. Carrying a $50 list price and currently out of stock at Amazon, this is the lowest price we can find and matching the best we have tracked on Amazon in the past. </p>\n<ul class=\"wp-block-list\">\n<li>Splatoon Raiders <a href=\"https://howl.link/fb5tvk0gpaiqr\"><strong>$50</strong> (Reg. $60)</a></li>\n<li>Switch Sports Resort <a href=\"https://howl.link/ia8ctxmuxznx6\"><strong>$50</strong> (Reg. $60)</a> | Walmart</li>\n<li>Switch Sports Resort $50 (Reg. $60) | Amazon</li>\n<li>Fire Emblem: Fortune’s Weave Nintendo Switch 2 Edition <a href=\"https://howl.link/xfqso101tehto\"><strong>$70</strong> (Reg. $80)</a></li>\n<li>Orbitals Nintendo Switch 2 Edition <a href=\"https://howl.link/1anba7jrtft4c\"><strong>$40</strong> (Reg. $50)</a></li>\n</ul>\n<div class=\"wp-block-spacer\" style=\"height: 10px;\"></div>\n<div class=\"wp-block-media-text is-stacked-on-mobile\">\n<figure class=\"wp-block-media-text__media\"><img alt=\"\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/06/Mario-Nintendo-x-Crocs-copy.jpg?quality=82&amp;strip=all\" /></figure>\n<div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\">\n</p><p class=\"wp-block-paragraph\"><a href=\"https://9to5toys.com/2026/07/15/all-new-crocs-x-super-mario-clogs-jibbitz-available-purchase-today/\">All-new Crocs x Super Mario Clogs and Jibbitz collection available for purchase today</a></p>\n</div>\n</div>\n<div class=\"wp-block-spacer\" style=\"height: 10px;\"></div>\n<div class=\"wp-block-media-text is-stacked-on-mobile\">\n<figure class=\"wp-block-media-text__media\"><img alt=\"\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/06/The-Legend-of-Zelda-Ocarina-of-Time-remake-first-look.jpg?quality=82&amp;strip=all\" /></figure>\n<div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\">\n</p><p class=\"wp-block-paragraph\"><a href=\"https://9to5toys.com/2026/07/13/zelda-ocarin-time-remake-release-date-price/\">Zelda Ocarina of Time remake leak roundup: Everything we know so far, release date, price, more</a></p>\n</div>\n</div>\n<div class=\"wp-block-spacer\" style=\"height: 10px;\"></div>\n<div class=\"wp-block-media-text is-stacked-on-mobile\">\n<figure class=\"wp-block-media-text__media\"><img alt=\"\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/LEGO-Donkey-Kong-Arcade-leak.jpg?quality=82&amp;strip=all\" /></figure>\n<div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\">\n</p><p class=\"wp-block-paragraph\"><a href=\"https://9to5toys.com/2026/07/10/first-look-new-nintendo-lego-donkey-kong-arcade/\">Nintendo x LEGO Donkey Kong Arcade set leaks online: First look image, details, and price</a></p>\n</div>\n</div>\n<div class=\"wp-block-spacer\" style=\"height: 10px;\"></div>\n<div class=\"wp-block-media-text is-stacked-on-mobile\">\n<figure class=\"wp-block-media-text__media\"><img alt=\"\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/01/Talking-Flower-preorder-now-live-copy.jpg?quality=82&amp;strip=all\" /></figure>\n<div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\">\n</p><p class=\"wp-block-paragraph\"><a href=\"https://9to5toys.com/2026/07/10/nintendo-talking-flower-amazon-deal/\">Nintendo’s Talking Flower collectible just hit the $30 Amazon all-time low</a></p>\n</div>\n</div>",
-      "published": "2026-07-16T13:17:06+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "890404a0883361095c0d25069a94edcf01940959",
-      "title": "Fireworks, which helps developers access AI chips and open-source models, raised $1.5B at a $17.5B valuation and says it has exceeded $1B in annualized revenue (Jordan Novet/CNBC)",
-      "link": "https://www.techmeme.com/260716/p28#a260716p28",
-      "summary": "<a href=\"https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i28.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p28#a260716p28\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jordan Novet / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html\">Fireworks, which helps developers access AI chips and open-source models, raised $1.5B at a $17.5B valuation and says it has exceeded $1B in annualized revenue</a></b></span>&nbsp; &mdash;&nbsp; The cost of the latest artificial intelligence models is increasingly breeding anxiety among finance executives &hellip; </p>",
-      "published": "2026-07-16T13:15:06+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "f5147ff32ffaafa0539e92b3975087a501508dae",
-      "title": "TMTG plans to launch the Truth API on August 1 to provide real-time data from trending Truth Social accounts to financial news organizations and trading firms (Sara Fischer/Axios)",
-      "link": "https://www.techmeme.com/260716/p27#a260716p27",
-      "summary": "<a href=\"https://www.axios.com/2026/07/16/truth-social-license-data-wall-street\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i27.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p27#a260716p27\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sara Fischer / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/2026/07/16/truth-social-license-data-wall-street\">TMTG plans to launch the Truth API on August 1 to provide real-time data from trending Truth Social accounts to financial news organizations and trading firms</a></b></span>&nbsp; &mdash;&nbsp; Trump Media &amp; Technology Group is launching a backend interface that will allow financial services companies to access real &hellip; </p>",
-      "published": "2026-07-16T13:10:00+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -399,15 +669,6 @@
       "published": "2026-07-16T13:08:28+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "840a88b1e3849e9eae5da7d9b3123baf5f4e9851",
-      "title": "EcoFlow flash sale offers dual bundles on power stations, expansion batteries, more – all from $879 for 48 hours",
-      "link": "https://9to5toys.com/2026/07/16/ecoflow-flash-sale-dual-bundles-power-stations-expansion-batteries-more-from-879/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/01/EcoFlow-DELTA-3-Classic-Portable-Power-Station.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">EcoFlow has <a href=\"https://www.awin1.com/cread.php?awinmid=59181&amp;awinaffid=1642421&amp;ued=https%3A%2F%2Fus.ecoflow.com%2Fpages%2Foutdoor-sale\">launched a 48-hour flash sale</a> with up to $2,500 savings on four dual-bundle units, like the one that gives you <a href=\"https://www.awin1.com/cread.php?awinmid=59181&amp;awinaffid=1642421&amp;ued=https%3A%2F%2Fus.ecoflow.com%2Fproducts%2Fecoflow-2-x-delta-3-classic-portable-power-station-1024wh-flash-sale%3Fvariant%3D55482704494665\">two DELTA 3 Classic Portable Power Stations at $879 shipped</a>, matching the price for two over at Amazon. It carries a $599 MSRP, though at Amazon we’ve been seeing it keep at $447, $445, and $439 since March, with Prime Day having jostled things lower to $417. While we have seen things go lower in the past, particularly at the start of this year and back in 2025, it’s still a solid chance to get things at one of the better prices in 2026 – $40 above the 2026 low we saw in January. Head below to check out the full lineup of doubled-up deals, and be sure to also <a href=\"https://9to5toys.com/2026/07/15/wellbots-13th-anniversary-ecoflow-4096wh-delta-pro-3-power-station-2261-more/\">check out these Wellbots Day 13th Anniversary Sale offers on EcoFlow power stations</a> that are providing major savings on units that have been keeping higher in price directly. </p>",
-      "published": "2026-07-16T13:05:29+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "42012868ee4dee1d5644d07c2140ccd64b8245aa",
@@ -437,42 +698,6 @@
       "category": "malaysia"
     },
     {
-      "id": "f780a0c090594d2eddb971ab7472907f85a093d1",
-      "title": "OnePlus never had a chance in the US",
-      "link": "https://www.theverge.com/tech/966274/oneplus-never-had-a-chance-in-the-us",
-      "summary": "After an eight-year run, OnePlus announced today that it has exited the United States. It's bittersweet, as the brand has been on a comeback tour of sorts with its excellent OnePlus 15 and widely praised (though still too expensive) OnePlus Open. The writing has been on the wall for a while now. T-Mobile stopped stocking [&#8230;]",
-      "published": "2026-07-16T13:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "2138713777a31d61cb931aa2bb925deee73de82e",
-      "title": "Claude can now use your 1Password credentials for you",
-      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login [&#8230;]",
-      "published": "2026-07-16T13:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "ede53ca12937f0ccb224d659e7086bc4da45ba0f",
-      "title": "Bunkerhill Health, which uses AI agents for hospital tasks like managing wait times, raised a $25M Series B led by Khosla, bringing its total funding to $55M (Allie Garfinkle/Fortune)",
-      "link": "https://www.techmeme.com/260716/p26#a260716p26",
-      "summary": "<a href=\"https://fortune.com/2026/07/16/bunkerhill-health-raises-55-million-ai-agents-work-inside-hospitals/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i26.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p26#a260716p26\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Allie Garfinkle / <a href=\"http://www.fortune.com/\">Fortune</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://fortune.com/2026/07/16/bunkerhill-health-raises-55-million-ai-agents-work-inside-hospitals/\">Bunkerhill Health, which uses AI agents for hospital tasks like managing wait times, raised a $25M Series B led by Khosla, bringing its total funding to $55M</a></b></span>&nbsp; &mdash;&nbsp; In 2017, Nishith Khandwala was a Stanford computer science student with an idea&mdash;that you could take existing radiology scans &hellip; </p>",
-      "published": "2026-07-16T12:55:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "ac8db6785144bd18d2b79d5ba35b2c05061f3a45",
-      "title": "Huge deal drops latest Google Nest Doorbell to just $76 (Reg. $180 new, Best Buy open-box)",
-      "link": "https://9to5toys.com/2026/07/16/huge-deal-google-nest-doorbell/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/12/Google-Nest-Doorbell-Wired-3rd-Gen.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">You will find the latest Google Nest Doorbell (wired, 3rd gen) marked down from $180 to just over $140 at Amazon right now to come within $5 or so to this year’s Prime Day deal, but you can score one for better than<a href=\"https://bestbuycreators.7tiv.net/EE55NK\"> half that price courtesy of this Best Buy open-box deal</a> today. </p>",
-      "published": "2026-07-16T12:48:22+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "00a4a7dd628f6a5102d93312a89c3c61264fa961",
       "title": "Volunteer firefighter suspected of starting devastating France forest fire",
       "link": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
@@ -480,33 +705,6 @@
       "published": "2026-07-16T12:44:26+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "640d5443b2f102843ae71c0bab7e28029df953bd",
-      "title": "'Moment of joy' as Uganda discharges last Ebola patient",
-      "link": "https://www.bbc.co.uk/news/articles/cx2myxjv172o?at_medium=RSS&at_campaign=rss",
-      "summary": "Most of the recent cases were among travellers from the Democratic Republic of Congo.",
-      "published": "2026-07-16T12:36:35+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "e133d39375f4840da979e72101cc9f6386e0074d",
-      "title": "HP’s 2026 touchscreen OmniBook X Flip OLED 2-in-1 Copilot+ PC is a great back-to-school deal at $650 off",
-      "link": "https://9to5toys.com/2026/07/16/hp-2026-touchscreen-omnibook-x-flip-oled-2-in-1-copilot-pc-650-off/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Hp-OmniBook-X-Flip-2-in-1-.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">While you can still grab <a href=\"https://9to5toys.com/2026/07/14/hp-intel-core-ultra-x7-powered-omnibook-x-copilot-pc-700-off/\">HP’s OmniBook X OLED Copilot+ PC</a> with a Core Ultra X7 processor <a href=\"https://9to5toys.com/2026/07/14/hp-intel-core-ultra-x7-powered-omnibook-x-copilot-pc-700-off/\">for <strong>$1,400</strong></a>, we just spotted another solid deal on its relatively affordable 2-in-1 variant. Best Buy is offering <a href=\"https://bestbuycreators.7tiv.net/qWk0bg\">HP’s OmniBook X Flip 2-in-1 touchscreen OLED laptop for <strong>$999.99 shipped</strong></a>. That’s down from its usual price of $1,650, so you’re looking at up to $650 in savings on it today. We’ve seen the standard variant of this 2026 OmniBook laptop go for less, but this is the first time this versatile 2-in-1 model is seeing a steep $650 discounted. It’s a pretty good option to consider if you’re looking to buy a capable Windows notebook, and it would also make for a great back-to-school machine under $1,000.</p>",
-      "published": "2026-07-16T12:31:42+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "e67a0fb821fae952d48ba67bdc7a5c7e59667755",
-      "title": "Hyper’s latest 120Gbps  Thunderbolt 5 Dock with SSD enclosure for Mac hits Amazon low at $80 off",
-      "link": "https://9to5toys.com/2026/07/16/hyper-thunderbolt-5-dock-ssd-mac-deal/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Hyper-HyperDrive-Next-Thunderbolt-5-Dock-with-SSD-Enclosure.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">If you have a modern Mac and are looking for a proper Thunderbolt 5 dock to upgrade your connectivity options and support multiple monitors, going with a cheap model can be very annoying. I have bumped into loads of problems with monitor setups and the like, and that’s why this rare deal on the latest Hyper HyperDrive Next Thunderbolt 5 Dock with SSD Enclosure is a solid one. </p>",
-      "published": "2026-07-16T12:24:11+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "9c8e8b0e5ef6e54b479eb73977b5cd7bc49edfed",
@@ -534,15 +732,6 @@
       "published": "2026-07-16T12:11:56+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "99f04ebdc261ef7c0ebd1b2464575e9e69298893",
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech industry's most important platforms and have [&#8230;]",
-      "published": "2026-07-16T12:06:51+00:00",
-      "source": "The Verge",
-      "category": "tech"
     },
     {
       "id": "15c8b903e21ad259f23e269fc6eb8280085e7efc",
@@ -581,15 +770,6 @@
       "category": "malaysia"
     },
     {
-      "id": "669491bd5dcdf45addfc5da3fd63e0357f21ac8e",
-      "title": "AirPods 4 with ANC hit best price in months, but here’s how to grab a set for $119 (Reg. $179 new)",
-      "link": "https://9to5toys.com/2026/07/16/airpods-4-anc-best-price-less/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/AirPods-4-with-ANC.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Apple’s AirPods Pro 3 are $50 off this week and we are still tracking nearly 25% off the base model AirPods 4 at <strong>$99</strong>. However, we also saw the latest AirPods 4 with ANC drop to the best price since March this morning at $145 and we wanted to offer up an even lower price on them to those interested – Amazon’s top quality Renewed Premium listing is down at <strong>$119 shipped</strong>. </p>",
-      "published": "2026-07-16T11:49:41+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "3057947fa64ad2668662f0abaa95534633ebcf82",
       "title": "Iran targets military bases as US launches wave of strikes",
       "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
@@ -597,15 +777,6 @@
       "published": "2026-07-16T11:48:49+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "3ca1b64319b547463acd4f7219b851ce975f6406",
-      "title": "Massive Windows laptop sale at up to $1,250 off now live at Woot: Copilot+ PCs and gaming notebooks from $250",
-      "link": "https://9to5toys.com/2026/07/16/massive-windows-laptop-sale-at-up-to-1250-off-now-live-at-woot/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Woot-windows-laptop-sale.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Alongside its now live <a href=\"https://9to5toys.com/2026/07/16/woot-countdown-to-birthday-sale-up-to-1000-off-samsung-monitors-from-290/\">Countdown to Birthday sale</a>, Woot is offering some notable <a href=\"https://howl.link/3r1428auql79f\">markdowns on a range of Windows laptops</a>, covering everything from affordable everyday machines to newer Copilot+ PCs. Prices for the models included in this sale start at <a href=\"https://howl.link/3r1428auql79f\"><strong>$299.99 Prime shipped</strong></a>, and you can also use promo code <strong>50LAPTOP</strong> to take an extra $50 off for additional savings. The sale also features gaming laptops from Alienware, MSI, and other brands, with discounts reaching as much as $1,250 on select notebooks. Just like the discounted monitors we’ve highlighted here, the laptops included in this sale event are all brand new, so head below for a closer look at the deals.</p>",
-      "published": "2026-07-16T11:39:18+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "89b9d89ac65973947eab499debef0e1d0d223e6a",
@@ -624,15 +795,6 @@
       "published": "2026-07-16T11:30:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "7145341e6548fe1ae496a2b375c8884e9e75f1f7",
-      "title": "Most affordable Pixel 10 unlocked up to $308 off via Best Buy open-box, Pro models up to $414 off",
-      "link": "https://9to5toys.com/2026/07/16/most-affordable-pixel-10-deal/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/03/Google-Pixel-10-best-price-2026.jpg?quality=82&#038;strip=all&#038;w=1500\" /></div><p class=\"wp-block-paragraph\">There are some seriously notable Google Pixel deals live this week ahead of the next-generation launch next for folks not looking to make full price on the series 11 phones and new watch. The $300 price drops on Google Pixel 10 Pro are still live, we have a rare discount on the latest Google Pixel Flex Dual Port 67W USB-C Fast Charger down at $45, and we just spotted a chance to score the <a href=\"https://bestbuycreators.7tiv.net/9VL2JW\">most affordable Pixel 10 phone at over <strong>$300 off</strong></a> as well. </p>",
-      "published": "2026-07-16T11:25:37+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "a160e11a4c28a0b8b250562e3bacea742885fdd0",
@@ -696,42 +858,6 @@
       "published": "2026-07-16T11:00:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "3b25c383b425420b01dcbaf4691683f6fee721f7",
-      "title": "Computer cops",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
-      "summary": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I was prohibited from entering, but from a number of nearby locations, I met with attendees who told me [&#8230;]",
-      "published": "2026-07-16T11:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "8a1af232690af04fe6645cd710d6535f3a7a4b7a",
-      "title": "Heads up: Silver Apple Watch Series 11 cell model just hit the best price ever at $169 off",
-      "link": "https://9to5toys.com/2026/07/16/silver-apple-watch-series-11-cell-model-deal/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Apple-Watch-Series-11-silver-46mm.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">The Apple Watch Series 11 deals are flying this weekend with the base models starting down at<strong>$299</strong> at <strong>$100 off</strong> the list price. But Amazon just dropped the price on the 46mm Apple Watch Series 11 GPS + Cell silver model to its best price ever this morning at $169 off. This deal will likely not stick around for long. </p>",
-      "published": "2026-07-16T10:54:27+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "ea4b37e2d5ee249c11e742bb5382dad6436bc9d7",
-      "title": "Woot’s Countdown to Birthday sale is taking up to $1,000 off Samsung Odyssey/M-series monitors today with deals from just $290",
-      "link": "https://9to5toys.com/2026/07/16/woot-countdown-to-birthday-sale-up-to-1000-off-samsung-monitors-from-290/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Woot-Samsung-monitor-sale.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Woot has just launched a new <a href=\"https://howl.link/z6pu212gx4akk\">Countdown to Birthday! sale</a>, dropping a wide selection of <a href=\"https://howl.link/z6pu212gx4akk\">Samsung gaming monitors</a> to some of their best prices yet. The prices for these discounted models start at <a href=\"https://howl.link/z6pu212gx4akk\"><strong>$289.99 Prime shipped</strong></a>, and you can <a href=\"https://howl.link/z6pu212gx4akk\">save up to a whopping <strong>$1,000</strong></a> on select models. Many of these displays are also hitting new all-time lows today, making this a great time to cash in and get a new display for your setup. All these monitors are in brand-new condition, unlike some open-box and refurbished listings we’ve seen in the past, and they’re all backed by up to a 3-year manufacturer warranty. Head below for a closer look at the deals.</p>",
-      "published": "2026-07-16T10:51:39+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "cfe66b94813d745a2d943f658136d68afd9f4785",
-      "title": "AirPods 4 with ANC hit best price in months at Amazon today, Pro 3 at $50 off, more from $99",
-      "link": "https://9to5toys.com/2026/07/16/airpods-4-anc-best-price-amazon/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/11/AirPods-Black-Friday-deals-AirPods-Pro-3.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">This week has ushered in a notable $50 price drop on Apple’s latest AirPods Pro 3 for folks who didn’t get a chance to land a set during the Prime Day festivities last month. But it also delivered an ongoing price drop on the most affordable AirPods 4 set at nearly 25% off and, as of this morning, the AirPods 4 with ANC have now dropped to the best price in several months at $144.99 shipped. </p>",
-      "published": "2026-07-16T10:41:42+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
     },
     {
       "id": "713d9e513c9e354cddc82ed8538c7028f2bf7398",
@@ -887,24 +1013,6 @@
       "category": "tech"
     },
     {
-      "id": "c176d63786161cbbd3af8610f107b14e656538f4",
-      "title": "OnePlus officially gives up on the US and Europe",
-      "link": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme",
-      "summary": "OnePlus has confirmed what industry observers have long expected: it's quitting the US and European markets, and will no longer launch new products in either region. Parent company Oppo promises that it will honor existing support and warranty agreements, with devices transitioning to its ColorOS for future updates. \"Software updates and after-sale support will be [&#8230;]",
-      "published": "2026-07-16T09:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "301bafab85b3ec52dcb032fc51f6f6d241304758",
-      "title": "Pakistan resisting UK attempts to deport grooming gang leader",
-      "link": "https://www.bbc.co.uk/news/articles/clyxnvjy706o?at_medium=RSS&at_campaign=rss",
-      "summary": "The government of Pakistan says it has \"no connection whatsoever\" with the case of Shabir Ahmed.",
-      "published": "2026-07-16T08:38:06+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "fe074981688d3e17b4d2b9a1deba8bc73b3c906a",
       "title": "Custom Switch 2 Dock Shells Turn The Console Into Classic Nintendo Machines (And Even The PS1)",
       "link": "https://www.lowyat.net/2026/398802/krasivoe-nintendo-switch-2-dock-shells/",
@@ -977,6 +1085,15 @@
       "category": "malaysia"
     },
     {
+      "id": "8e1f5bdf2aaca2009d3c21f0bfb7f23428dad1d0",
+      "title": "ClipMatch",
+      "link": "https://www.producthunt.com/products/clipmatch",
+      "summary": "<p>\n            Turn your camera roll into social content with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clipmatch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197826?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-16T05:16:07+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "8d487fd8faa2e32579b3e30b2b761a12ec6d26f7",
       "title": "Actor Sam Neill died from pneumonia, agent confirms",
       "link": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
@@ -995,13 +1112,13 @@
       "category": "tech"
     },
     {
-      "id": "92b8b36432ab554799b1b06384406eb6c2e7b6f3",
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
-      "published": "2026-07-16T04:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
+      "id": "8446aada5e4e6407bf21ef873cd3e7ce97f0052a",
+      "title": "Codex Micro",
+      "link": "https://www.producthunt.com/products/openai",
+      "summary": "<p>\n            Tactile controls for your Codex agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197773?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-16T03:23:59+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "49832aa6a8bd05f8e6b43b5625e374eba6a87793",
@@ -1013,13 +1130,13 @@
       "category": "malaysia"
     },
     {
-      "id": "56e93ac3910525f61b507776df853d953ecd2b6d",
-      "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
-      "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
-      "summary": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
-      "published": "2026-07-16T00:20:42+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
+      "id": "0adbcf37b42585ccde6f4c2a14a11f7e952d481e",
+      "title": "River",
+      "link": "https://www.producthunt.com/products/river-9",
+      "summary": "<p>\n            AI account executives that demo and close B2B deals\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/river-9?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197712?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-16T00:40:17+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "5d73590184651d15d0cbbbf4d7a730e5e1ac5c11",
@@ -1029,24 +1146,6 @@
       "published": "2026-07-16T00:20:11+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
-    },
-    {
-      "id": "df28bfa122214ec6d9aaaee7f39dd3112c135f86",
-      "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
-      "link": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
-      "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differentiates itself from the competition through the use of both full-range and dedicated bass drivers in each ear cup to boost deeper frequencies. Skullcandy admits [&#8230;]",
-      "published": "2026-07-16T00:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "1f951088d4c64563514bd403d2ddf22ebe36c6d5",
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-      "published": "2026-07-15T23:59:44+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "1340d4b881d9696ee88c1119d53de30adbfa4224",
@@ -1074,15 +1173,6 @@
       "published": "2026-07-15T23:02:49+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "0dff4efc283f1ef4f7deb9efc2e20e2fa1225e9a",
-      "title": "HP&#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal",
-      "link": "https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale",
-      "summary": "With storage and memory prices still at an all-time high, we’re happy to tell you about a solid deal on a good laptop when we find one, rare as they are. Best Buy is selling the HP OmniBook X Flip 2 in 1 for $999.99 (usually $1,649.99) with an Intel Core 7 Ultra CPU, 16GB [&#8230;]",
-      "published": "2026-07-15T22:47:11+00:00",
-      "source": "The Verge",
-      "category": "tech"
     },
     {
       "id": "bba5a6b812312eddbb6d08759d6ddb98bf59a6ae",
@@ -1121,30 +1211,12 @@
       "category": "tech"
     },
     {
-      "id": "7e5d01bdaeefce22850c08373a5012acb2f4664d",
-      "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
-      "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Civilian casualties are reported in a number of Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.",
-      "published": "2026-07-15T21:21:19+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "b0386788b647517132f8d6d84b821429f49a610e",
       "title": "Engineer identifies and explains every '90s computer seen in Jurassic Park",
       "link": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
       "summary": "Yes, it was, in fact, a Unix system.",
       "published": "2026-07-15T21:04:22+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "40fa5ff30f87859a9dce4a1de4270a6d545162e0",
-      "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
-      "link": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
-      "summary": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
-      "published": "2026-07-15T20:22:52+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -1184,24 +1256,6 @@
       "category": "events"
     },
     {
-      "id": "afd7eeba346fec73446e19a967b93fcc6d6e6d22",
-      "title": "French MPs approve assisted dying law with strict rules after years of argument",
-      "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
-      "published": "2026-07-15T17:29:26+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "2d39b75d80b1f0334b1818df808c2940c6030571",
-      "title": "Graft AI",
-      "link": "https://www.producthunt.com/products/graft-ai",
-      "summary": "<p>\n            Turn company operations into a living map for agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/graft-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197494?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-15T17:24:23+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "1d4f500a5d4cee9d45479f3f486c318367e50a65",
       "title": "More people around the world now favour China over the US, Pew study suggests",
       "link": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
@@ -1229,20 +1283,20 @@
       "category": "tech"
     },
     {
+      "id": "9508463996429df67ec62cab4dbb672cdc82802a",
+      "title": "Zro",
+      "link": "https://www.producthunt.com/products/zro",
+      "summary": "<p>\n            Private inference for coding agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197428?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-15T15:45:09+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "7e81513fe1fd039e2421317a87daed74f715c149",
       "title": "Inbix",
       "link": "https://www.producthunt.com/products/inbix",
       "summary": "<p>\n            Cloudflare-native Email Infrastructure for Developers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/inbix?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197412?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-15T15:17:54+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "00235c4ee022ccbfd71a47299b272b9d0ec58c56",
-      "title": "SonOf",
-      "link": "https://www.producthunt.com/products/sonof",
-      "summary": "<p>\n            Empty your backlog. Pay only when it ships\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sonof?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197343?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-15T14:09:29+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1283,6 +1337,15 @@
       "category": "tech"
     },
     {
+      "id": "d9c4b50133c61a5d7fcbe8325077fc9cc8ad93af",
+      "title": "Kit For AI",
+      "link": "https://www.producthunt.com/products/kit-for-ai",
+      "summary": "<p>\n            The memory layer for AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kit-for-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197148?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-15T10:39:04+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "b654c5da50b81419e2c13b37a79697f1a2fe550f",
       "title": "Sotheby's big T. rex auction raises concerns hype and wealth are upending science",
       "link": "https://arstechnica.com/science/2026/07/sothebys-big-t-rex-auction-raises-concerns-hype-and-wealth-are-upending-science/",
@@ -1319,20 +1382,20 @@
       "category": "malaysia"
     },
     {
-      "id": "c4bc6538c1992c4aa94565e279394256575d2c4c",
-      "title": "Node Health",
-      "link": "https://www.producthunt.com/products/node-health",
-      "summary": "<p>\n            Your private home for every lab result\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/node-health?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1196926?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-15T07:08:33+00:00",
+      "id": "c7b3db6b544e47404d26112ad1d7bcbe279e0f89",
+      "title": "Alert Grouping by DrDroid",
+      "link": "https://www.producthunt.com/products/alert-audit-by-doctor-droid",
+      "summary": "<p>\n            Reduce Your Alerts Noise Completely\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/alert-audit-by-doctor-droid?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1196918?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-15T06:55:52+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "c5eb5e9e25205e4942c3044414b784d7cf04dec5",
-      "title": "Nitrosend",
-      "link": "https://www.producthunt.com/products/nitrosend",
-      "summary": "<p>\n            Email for AI agents. They sign up, send and reply.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nitrosend?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1196771?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-15T01:41:49+00:00",
+      "id": "e7c8fb9daa95449679bd4251db9c84144220eb17",
+      "title": "Amami",
+      "link": "https://www.producthunt.com/products/amami",
+      "summary": "<p>\n            Analytics that lives inside your AI assistant \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/amami?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1196837?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-15T04:17:53+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1382,42 +1445,6 @@
       "category": "events"
     },
     {
-      "id": "72328f403ea3fe719223234d9c4683ff0f4a023e",
-      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
-      "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-      "summary": "Meta denies using AI to terminate workers with disabilities and medical problems.",
-      "published": "2026-07-14T20:05:53+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "6a6594d9469a26569cba466f1586d6ad2b4fbb3a",
-      "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
-      "link": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
-      "summary": "Federal officials have not confirmed a source yet—and there may be multiple sources.",
-      "published": "2026-07-14T19:00:02+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "26d89aaf9d2f5432f5fc0e21bf89a21eeccdac93",
-      "title": "US military sent explosive drone boats into combat for the first time",
-      "link": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
-      "summary": "US military’s drone boats struck an Iranian naval port as war heats up again.",
-      "published": "2026-07-14T18:00:01+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "af3de2a41f5277ebb6cbf4592b3c1da6b22f2fd0",
-      "title": "These painted e-tattoos could be the future of wearable biosensors",
-      "link": "https://arstechnica.com/science/2026/07/these-painted-e-tattoos-could-be-the-future-of-wearable-biosensors/",
-      "summary": "Conductive ink is painted directly onto the skin in colorful custom designs, drying into working electrodes.",
-      "published": "2026-07-14T17:31:58+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
       "id": "b9f1f86334a2a1a199e79823ad36c83f9b9e8325",
       "title": "In Parallel MCP",
       "link": "https://www.producthunt.com/products/in-parallel",
@@ -1445,38 +1472,11 @@
       "category": "events"
     },
     {
-      "id": "599fbe9c35a3f7d7775a3d2d5d16364cc6553399",
-      "title": "Manta AI",
-      "link": "https://www.producthunt.com/products/manta-ai",
-      "summary": "<p>\n            Your AI agent for autonomous web app testing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/manta-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1195155?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-13T12:00:36+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "53ae50e7ae56a70226540d0a62a89cb3ea00829d",
-      "title": "SIMPLI",
-      "link": "https://www.producthunt.com/products/simpli-3",
-      "summary": "<p>\n            Split expenses in a live cosmos\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/simpli-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1194985?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-13T08:39:23+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "7ed2dbf7d19072261f31eb10c35f8406beaf08d9",
-      "title": "Cloud Halo",
-      "link": "https://www.producthunt.com/products/cloud-halo",
-      "summary": "<p>\n            Azure FinOps for MSPs with flat pricing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cloud-halo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1192893?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-10T12:04:10+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "1adfac9ace2e4bd4833e1917c7b0006b92a84d52",
-      "title": "dot.",
-      "link": "https://www.producthunt.com/products/dot-7",
-      "summary": "<p>\n            The feedback layer for anything you build with AI.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dot-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1189620?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-06T18:22:12+00:00",
+      "id": "6b7a70256c5117855dc9597a0efa5d495f4677c8",
+      "title": "Paradigm",
+      "link": "https://www.producthunt.com/products/paradigm-3",
+      "summary": "<p>\n            Turn any goal into a personalized, adaptive learning path.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/paradigm-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1174789?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-06-18T02:09:41+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
