@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-07-16T20:50:33.262216+00:00",
+  "generatedAt": "2026-07-16T21:58:28.441115+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "ef4eaf53795ce307d1adf393733ae716a943660b",
+      "title": "Blasts reported in Iran as US launches new wave of strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row.",
+      "published": "2026-07-16T21:44:37+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "a6b94c501ca3c550535f08afd575a9bb7a47dae6",
+      "title": "US Homeland Security says it seized 30k+ SIM cards in June and July in a nationwide operation it claims dismantled infrastructure used in telephone fraud (Lorelei Smillie/Bloomberg)",
+      "link": "https://www.techmeme.com/260716/p57#a260716p57",
+      "summary": "<p><a href=\"https://www.techmeme.com/260716/p57#a260716p57\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lorelei Smillie / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-07-16/dhs-seizes-30-000-mobile-sim-cards-in-effort-to-stop-phone-fraud\">US Homeland Security says it seized 30k+ SIM cards in June and July in a nationwide operation it claims dismantled infrastructure used in telephone fraud</a></b></span>&nbsp; &mdash;&nbsp; US Homeland Security Investigations recently seized more than 30,000 mobile phone SIM cards from sites around the country &hellip; </p>",
+      "published": "2026-07-16T21:35:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "23b8cdb401036221d3c619697c8662c16cf0dd78",
+      "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
+      "link": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
+      "summary": "Get ready for more AI characters in Fortnite. Developer Epic Games is going to let Fortnite creators publish experiences featuring characters with AI-powered voices starting on July 30th, and ahead of that launch, it's created 36 characters with \"consistent voices and personas\" that creators can use as NPCs. The characters include Fortnite staples like Agent [&#8230;]",
+      "published": "2026-07-16T21:30:35+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "e26f3418a0b84b3ba4c4b1f4c7191b81a0e8a1bd",
+      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+      "link": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+      "summary": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
+      "published": "2026-07-16T21:22:31+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "e1d9a6ec93e8f6e9d2b3ef55e55efbd1ff6a6a7a",
+      "title": "Netflix says roughly 300 titles used generative AI this year, mostly in post-production, \"to deliver higher quality output more quickly and at a lower cost\" (Emma Roth/The Verge)",
+      "link": "https://www.techmeme.com/260716/p56#a260716p56",
+      "summary": "<a href=\"https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i56.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p56#a260716p56\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Emma Roth / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings\">Netflix says roughly 300 titles used generative AI this year, mostly in post-production, &ldquo;to deliver higher quality output more quickly and at a lower cost&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; Some titles used AI to create &lsquo;enhanced crowds, historical battle sequences, and worldbuilding establishing shots.&rsquo;</p>",
+      "published": "2026-07-16T21:00:13+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "8cb33733581a5790c08428d513972c1d1879ab20",
+      "title": "T-Mobile bungled forced plan migration, canceling some users' free lines",
+      "link": "https://arstechnica.com/tech-policy/2026/07/t-mobile-bungled-forced-plan-migration-canceling-some-users-free-lines/",
+      "summary": "T-Mobile to restore free lines lost during plan migration, but price hikes remain.",
+      "published": "2026-07-16T20:52:47+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
     {
       "id": "70b2400b64fdb798378a3cdb27b09d8d52f65973",
       "title": "Samsung’s 55-inch Frame art TV is $200 cheaper than usual",
@@ -11,6 +65,15 @@
       "summary": "Samsung’s Frame is different from your average 4K TV. Its biggest selling point involves what it does when you aren’t actively using it. It can display art, turning your living room into a gallery. The Frame has bezels that make it look like — you guessed it — framed art, and its matte finish can [&#8230;]",
       "published": "2026-07-16T20:47:30+00:00",
       "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "6ee3049df3e070336e31f7a0cff7157f3bdf9cf2",
+      "title": "It's official: EU will force Google to share search data and open up AI on Android",
+      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+      "summary": "Google says these changes could endanger user privacy and security.",
+      "published": "2026-07-16T20:41:45+00:00",
+      "source": "Ars Technica - All content",
       "category": "tech"
     },
     {
@@ -29,6 +92,15 @@
       "summary": "Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production. The streaming service revealed the news in its second-quarter earnings report released on Thursday, saying it's \"increasingly leveraging these tools to deliver higher quality output more quickly and at a lower cost.\" It also provided some examples of [&#8230;]",
       "published": "2026-07-16T20:29:27+00:00",
       "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "4f679f5f1b23d1b1d618faa56385ae38b5e5b0da",
+      "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+      "summary": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.",
+      "published": "2026-07-16T20:26:23+00:00",
+      "source": "Ars Technica - All content",
       "category": "tech"
     },
     {
@@ -77,6 +149,15 @@
       "category": "tech"
     },
     {
+      "id": "069f56ce73afb951f4bcf9b67c15e7791d8ee77e",
+      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+      "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+      "summary": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
+      "published": "2026-07-16T20:09:48+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
       "id": "50fee67c2e673ba9b5075d565d6cb6bea5d8ffab",
       "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
       "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
@@ -104,6 +185,15 @@
       "category": "world"
     },
     {
+      "id": "9b2ab6dd9d0f30f41f9c0940c15cb2e167d305f3",
+      "title": "Trump teleprompter aide made $100,000 betting on what Trump would say, reports say",
+      "link": "https://arstechnica.com/culture/2026/07/trump-teleprompter-aide-made-100000-betting-on-what-trump-would-say-reports-say/",
+      "summary": "If only someone could have predicted it.",
+      "published": "2026-07-16T19:55:46+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
       "id": "fa200ee52772da2ba05b9513ba327c400dc7e3eb",
       "title": "Why are people buying so many CDs?",
       "link": "https://www.theverge.com/entertainment/966726/cd-sales-vinyl-physical-media-luminate",
@@ -122,6 +212,15 @@
       "category": "deals"
     },
     {
+      "id": "63c49c15ba74acc5105c3a3816e8080b2bb50e38",
+      "title": "2026 Toyota RAV4 plug-in: Big battery means daily drives are all-electric",
+      "link": "https://arstechnica.com/cars/2026/07/2026-toyota-rav4-plug-in-review-good-but-skip-the-gr-sport/",
+      "summary": "Toyota's everyday small SUV should rarely require trips to the gas station.",
+      "published": "2026-07-16T19:46:22+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
       "id": "dc899088864aae89f051424e2d22bd46ba5939d8",
       "title": "Today’s Apple Books and audiobook deals from $1",
       "link": "https://9to5toys.com/2026/07/16/todays-apple-books-and-audiobook-deals-from-1-17/",
@@ -137,6 +236,24 @@
       "summary": "<a href=\"https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i52.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p52#a260716p52\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sarah Perez / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/\">DoorDash launches a limited beta of DoorDash CLI, which lets users place orders via an AI agent, available by waitlist to macOS developers in the US and Canada</a></b></span>&nbsp; &mdash;&nbsp; Sudo make me a sandwich.&nbsp; The future has arrived!&nbsp; DoorDash just introduced a limited beta of DoorDash CLI &hellip; </p>",
       "published": "2026-07-16T19:45:02+00:00",
       "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "03c8078f5fe992f757c5fc5c0ae9b82ab9729f5c",
+      "title": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
+      "link": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
+      "summary": "The social-engineering technique has primarily been a tool of financially motivated criminals.",
+      "published": "2026-07-16T19:28:33+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
+      "id": "80605caac92bc3d5b6143294c763eb18a3452a92",
+      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
+      "link": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+      "summary": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools.",
+      "published": "2026-07-16T19:18:23+00:00",
+      "source": "Ars Technica - All content",
       "category": "tech"
     },
     {
@@ -500,15 +617,6 @@
       "category": "tech"
     },
     {
-      "id": "99cf060e921c5cce35b6536654e7f540db01c794",
-      "title": "Fora, which connects travel agents with travelers and offers agents AI tools, raised a $60M Series D at a $1B valuation led by Forerunner and Tactile Ventures (Dominic-Madori Davis/TechCrunch)",
-      "link": "https://www.techmeme.com/260716/p42#a260716p42",
-      "summary": "<a href=\"https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i42.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p42#a260716p42\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Dominic-Madori Davis / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/\">Fora, which connects travel agents with travelers and offers agents AI tools, raised a $60M Series D at a $1B valuation led by Forerunner and Tactile Ventures</a></b></span>&nbsp; &mdash;&nbsp; Travel agency Fora announced a $60 million Series D round led by Forerunner and Tactile Ventures, valuing the company at $1 billion.</p>",
-      "published": "2026-07-16T16:45:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "31bf777b0e5b9ee362d5ebc7d360e520510b7ad9",
       "title": "X cracks down on creators who steal content",
       "link": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
@@ -543,15 +651,6 @@
       "published": "2026-07-16T16:26:32+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "0074393ce91fc942bb9d66395771d0d5f76803a4",
-      "title": "Google renames NotebookLM to Gemini Notebook and rolls out an update giving every notebook a secure cloud computer, letting it write and execute code natively (Josh Woodward/Google)",
-      "link": "https://www.techmeme.com/260716/p41#a260716p41",
-      "summary": "<a href=\"https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260716/i41.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260716/p41#a260716p41\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Josh Woodward / <a href=\"https://blog.google/\">Google</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/\">Google renames NotebookLM to Gemini Notebook and rolls out an update giving every notebook a secure cloud computer, letting it write and execute code natively</a></b></span>&nbsp; &mdash;&nbsp; We're renaming NotebookLM to Gemini Notebook.&nbsp; It's the same standalone product, now doing more across the Google ecosystem and updated with a secure cloud computer.</p>",
-      "published": "2026-07-16T16:25:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "b7ccb7277ad8d8015b3ce089c6df467163de3bc4",
@@ -623,15 +722,6 @@
       "summary": "Companies coming to market are raising money at fastest pace this century.",
       "published": "2026-07-16T15:48:21+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "fd3f3fdfa67f7dbb827cf19e96787bbbebd5e518",
-      "title": "Time’s running out to save $10 on Splatoon Raiders physical preorders",
-      "link": "https://www.theverge.com/gadgets/966478/splatoon-raiders-preorder-the-sopranos-4k-bluray-deal-sale",
-      "summary": "Splatoon Raiders’ July 23rd launch day is almost here, so your window to preorder the physical version at a $10 discount is about to close. The digital version is $49.99, and so is the game on cartridge if you preorder at Walmart. Amazon previously honored the preorder discount, but it’s selling the game at full [&#8230;]",
-      "published": "2026-07-16T15:42:07+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -824,15 +914,6 @@
       "category": "malaysia"
     },
     {
-      "id": "3057947fa64ad2668662f0abaa95534633ebcf82",
-      "title": "Iran targets military bases as US launches wave of strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
-      "published": "2026-07-16T11:48:49+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "89b9d89ac65973947eab499debef0e1d0d223e6a",
       "title": "British tabloids savage Tuchel after Argentina defeat as England squander World Cup dream",
       "link": "https://www.malaymail.com/news/sports/2026/07/16/british-tabloids-savage-tuchel-after-argentina-defeat-as-england-squander-world-cup-dream/227885",
@@ -840,15 +921,6 @@
       "published": "2026-07-16T11:32:38+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "62b7a414922e608ddbf7991af8626b8447dd438d",
-      "title": "Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
-      "link": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
-      "summary": "Aina is going to pilot a new device in the coming weeks.",
-      "published": "2026-07-16T11:30:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "a160e11a4c28a0b8b250562e3bacea742885fdd0",
@@ -1103,15 +1175,6 @@
       "category": "malaysia"
     },
     {
-      "id": "8e1f5bdf2aaca2009d3c21f0bfb7f23428dad1d0",
-      "title": "ClipMatch",
-      "link": "https://www.producthunt.com/products/clipmatch",
-      "summary": "<p>\n            Turn your camera roll into social content with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clipmatch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197826?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-16T05:16:07+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "8d487fd8faa2e32579b3e30b2b761a12ec6d26f7",
       "title": "Actor Sam Neill died from pneumonia, agent confirms",
       "link": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
@@ -1119,6 +1182,15 @@
       "published": "2026-07-16T04:28:22+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "8446aada5e4e6407bf21ef873cd3e7ce97f0052a",
+      "title": "Codex Micro",
+      "link": "https://www.producthunt.com/products/openai",
+      "summary": "<p>\n            Tactile controls for your Codex agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197773?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-16T03:23:59+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "49832aa6a8bd05f8e6b43b5625e374eba6a87793",
@@ -1135,15 +1207,6 @@
       "link": "https://www.producthunt.com/products/river-9",
       "summary": "<p>\n            AI account executives that demo and close B2B deals\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/river-9?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197712?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-16T00:40:17+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "c82a986be4c7ad4cffbeaf479c2e786d5bdff4ae",
-      "title": "Weave",
-      "link": "https://www.producthunt.com/products/weave-9",
-      "summary": "<p>\n            Think out loud and watch it become a living map.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/weave-9?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197696?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-15T23:37:50+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1211,38 +1274,11 @@
       "category": "tech"
     },
     {
-      "id": "d4231cd609b67db59257a7041a681ebcafc8f9c7",
-      "title": "FCC to repeal 39% TV ownership cap in boost for Trump-friendly news orgs",
-      "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-repeal-39-tv-ownership-cap-in-boost-for-trump-friendly-news-orgs/",
-      "summary": "FCC chairman claims power to repeal TV ownership limit set by Congress.",
-      "published": "2026-07-15T18:52:22+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "2c37f6ec17f97fe75fcdf6ec8dc16b9dc2b02290",
-      "title": "In memoriam: 7 of our favorite Sam Neill films",
-      "link": "https://arstechnica.com/culture/2026/07/in-memoriam-seven-of-our-favorite-sam-neill-films/",
-      "summary": "The actor, who starred in 1993's <em>Jurassic Park</em>, died Monday in Sydney, Australia, at the age of 78.",
-      "published": "2026-07-15T18:39:58+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
       "id": "d22bdc67f1a6c4d92a56144d839f21ede194365c",
       "title": "DevSwat",
       "link": "https://www.producthunt.com/products/resonantgenesis",
       "summary": "<p>\n            Turn codebases into interactive maps, graphs, and governance\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/resonantgenesis?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197501?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-15T17:33:34+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "2d39b75d80b1f0334b1818df808c2940c6030571",
-      "title": "Graft AI",
-      "link": "https://www.producthunt.com/products/graft-ai",
-      "summary": "<p>\n            Turn company operations into a living map for agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/graft-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197494?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-15T17:24:23+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1254,24 +1290,6 @@
       "published": "2026-07-15T17:02:41+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "6f9321b091f3eda7cd58003b34b2b16e81c6fab8",
-      "title": "Third-party app stores coming to Google Play next week as Epic settlement withdrawn",
-      "link": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/",
-      "summary": "With the settlement withdrawn, Google is now bound by the court's full antitrust remedies.",
-      "published": "2026-07-15T16:55:12+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "d444db96ee6de79afee4349fdd8fdbab05fc38ed",
-      "title": "OpenAI's first branded hardware is... a light-up keyboard?",
-      "link": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
-      "summary": "The Codex Micro is designed to monitor multiple agentic threads at a glance.",
-      "published": "2026-07-15T16:00:33+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
     },
     {
       "id": "9508463996429df67ec62cab4dbb672cdc82802a",
@@ -1310,33 +1328,6 @@
       "category": "malaysia"
     },
     {
-      "id": "ef8308cbf334aa1ae872b9d0cdb36d73197394bd",
-      "title": "A most improbable astronaut just went to space",
-      "link": "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/",
-      "summary": "\"I pretty much, at that point in time, gave up on being an astronaut.\"",
-      "published": "2026-07-15T11:30:07+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "c5fe80abb1f4b7bb24fb2822ce27f7f1caf478c6",
-      "title": "How hard is it to build orbital data centers, actually?",
-      "link": "https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/",
-      "summary": "\"The ISS radiators are expensive and heavy. We're focused on making them cheap and light.\"",
-      "published": "2026-07-15T11:00:09+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "b654c5da50b81419e2c13b37a79697f1a2fe550f",
-      "title": "Sotheby's big T. rex auction raises concerns hype and wealth are upending science",
-      "link": "https://arstechnica.com/science/2026/07/sothebys-big-t-rex-auction-raises-concerns-hype-and-wealth-are-upending-science/",
-      "summary": "Private buyers are increasingly outbidding museums for fossils.",
-      "published": "2026-07-15T10:30:39+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
       "id": "efc8b353593dadd6139d18b178b0fd542ce5aa95",
       "title": "Huawei MatePad Air 2026 with 144Hz PaperMatte OLED screen, six speakers previewed in Malaysia: Here’s what we know",
       "link": "https://soyacincau.com/2026/07/15/huawei-matepad-air-2026-specs-price/",
@@ -1344,6 +1335,15 @@
       "published": "2026-07-15T09:24:07+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "4ab45b296bd193e27437c05475c6dccbdd79f293",
+      "title": "BrickSolvr",
+      "link": "https://www.producthunt.com/products/bricksolvr",
+      "summary": "<p>\n            Turn any 3D model into a buildable brick model\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bricksolvr?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197006?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-15T08:30:49+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "14875167789dd26d50b8cf0a4d29c11e65a7594b",
@@ -1364,11 +1364,11 @@
       "category": "events"
     },
     {
-      "id": "e7c8fb9daa95449679bd4251db9c84144220eb17",
-      "title": "Amami",
-      "link": "https://www.producthunt.com/products/amami",
-      "summary": "<p>\n            Analytics that lives inside your AI assistant \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/amami?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1196837?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-15T04:17:53+00:00",
+      "id": "c7b3db6b544e47404d26112ad1d7bcbe279e0f89",
+      "title": "Alert Grouping by DrDroid",
+      "link": "https://www.producthunt.com/products/alert-audit-by-doctor-droid",
+      "summary": "<p>\n            Reduce Your Alerts Noise Completely\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/alert-audit-by-doctor-droid?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1196918?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-15T06:55:52+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1389,15 +1389,6 @@
       "published": "2026-07-14T23:30:35+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "3e1e3cd0a338d9f05888836368eb77ef6d980054",
-      "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
-      "link": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
-      "summary": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.",
-      "published": "2026-07-14T22:20:48+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
     },
     {
       "id": "4517c161736a2f5c39a331c080298e8d176d07b7",
@@ -1445,20 +1436,11 @@
       "category": "malaysia"
     },
     {
-      "id": "0cf781a2053b6a292598f9f573466c3e9849aa85",
-      "title": "Cito",
-      "link": "https://www.producthunt.com/products/cito",
-      "summary": "<p>\n            Hybrid academic search over 236M papers, built for agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cito?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1195588?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-13T20:26:53+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "6d47c13087fb3e2891547b28922550bc47185f75",
-      "title": "Microflow",
-      "link": "https://www.producthunt.com/products/microflow",
-      "summary": "<p>\n            Microcontrollers made simple.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/microflow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1195056?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-13T09:56:27+00:00",
+      "id": "599fbe9c35a3f7d7775a3d2d5d16364cc6553399",
+      "title": "Manta AI",
+      "link": "https://www.producthunt.com/products/manta-ai",
+      "summary": "<p>\n            Your AI agent for autonomous web app testing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/manta-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1195155?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-13T12:00:36+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1481,11 +1463,29 @@
       "category": "events"
     },
     {
+      "id": "1adfac9ace2e4bd4833e1917c7b0006b92a84d52",
+      "title": "dot.",
+      "link": "https://www.producthunt.com/products/dot-7",
+      "summary": "<p>\n            The feedback layer for anything you build with AI.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dot-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1189620?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-06T18:22:12+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "6b7a70256c5117855dc9597a0efa5d495f4677c8",
       "title": "Paradigm",
       "link": "https://www.producthunt.com/products/paradigm-3",
       "summary": "<p>\n            Turn any goal into a personalized, adaptive learning path.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/paradigm-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1174789?app_id=339\">Link</a>\n          </p>",
       "published": "2026-06-18T02:09:41+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "05c7c88f6646b1dba0a900e545a6b2ea28883d1e",
+      "title": "Albato AI",
+      "link": "https://www.producthunt.com/products/albato",
+      "summary": "<p>\n            Build AI-driven workflows across 1,000+ apps\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/albato?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1036558?app_id=339\">Link</a>\n          </p>",
+      "published": "2025-11-10T17:10:46+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
