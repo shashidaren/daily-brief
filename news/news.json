@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-07-18T18:53:07.229115+00:00",
+  "generatedAt": "2026-07-18T20:00:29.502902+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "3497f955cf0ad6070684415c006a029aec42b4b0",
+      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+      "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
+      "published": "2026-07-18T19:38:07+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "416db25d995e727cc8646a4acdbdc4b0c736865e",
+      "title": "Hungary's president agrees to stand down after parliament backs removal",
+      "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
+      "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
+      "published": "2026-07-18T19:34:16+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "5dca01654ba4bc2f3bfa703e6568a7ec9345fe1c",
+      "title": "Waymo says San Francisco service has resumed after one-hour pause",
+      "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+      "summary": "This isn’t the first time power outages have caused issues for Waymo.",
+      "published": "2026-07-18T19:30:23+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "701eb18d20193c04e25cfa2b0fd3b2d0ae1d32f2",
+      "title": "Prediction market political betting on insider info spreads in DC; sources: WH lawyers raised alarms over anonymous Polymarket bets on the Iran ceasefire timing (Wall Street Journal)",
+      "link": "https://www.techmeme.com/260718/p13#a260718p13",
+      "summary": "<a href=\"https://www.wsj.com/politics/policy/dc-government-prediction-market-betting-8134c3fc?st=g4Pf1U\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260718/i13.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260718/p13#a260718p13\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/politics/policy/dc-government-prediction-market-betting-8134c3fc?st=g4Pf1U\">Prediction market political betting on insider info spreads in DC; sources: WH lawyers raised alarms over anonymous Polymarket bets on the Iran ceasefire timing</a></b></span>&nbsp; &mdash;&nbsp; White House officials are grappling with how deeply political betting has worked itself into fabric of government</p>",
+      "published": "2026-07-18T19:10:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
     {
       "id": "8aca71d31f2596d3a50a6ce3e32005210b3a9372",
       "title": "Kimi: Threat or menace?",
@@ -14,15 +50,6 @@
       "category": "tech"
     },
     {
-      "id": "3497f955cf0ad6070684415c006a029aec42b4b0",
-      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-      "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The announcement comes after Jordan said it intercepted 10 Iranian missiles fired into its airspace overnight into Saturday.",
-      "published": "2026-07-18T18:41:36+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "8345d5f990e042ddb8f02dc80659b544a0787027",
       "title": "Google might not kneecap the Pixel 11a with an old processor",
       "link": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
@@ -30,15 +57,6 @@
       "published": "2026-07-18T18:25:08+00:00",
       "source": "The Verge",
       "category": "tech"
-    },
-    {
-      "id": "416db25d995e727cc8646a4acdbdc4b0c736865e",
-      "title": "Hungary's president agrees to stand down after parliament backs removal",
-      "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
-      "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
-      "published": "2026-07-18T17:33:28+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "8515d0a35369edac83310728ab32a0447d1ff9dc",
@@ -80,7 +98,7 @@
       "id": "fec3d9704832c8ccd573112a974c753f6a7b0ec0",
       "title": "Latest Logitech MX Master 4 with haptic feedback just hit the best price ever at $72",
       "link": "https://9to5toys.com/2026/07/18/logitech-mx-master-4-haptic-feedback-best-price/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/09/Logitech-MX-Master-4-mouse-launch.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">This deal might not stick around, but Walmart is offering a wild price drop on the latest <a href=\"https://howl.link/069tmakujmjji\">Logitech MX Master 4 for Mac with haptic feedback down at $71.99 shipped</a> right now. </p>",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/09/Logitech-MX-Master-4-mouse-launch.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\"><strong>Update:</strong> This deal is now longer available. We will keep a close eye on it. </p>\n<p class=\"wp-block-paragraph\">This deal might not stick around, but Walmart is offering a wild price drop on the latest <a href=\"https://howl.link/069tmakujmjji\">Logitech MX Master 4 for Mac with haptic feedback down at $71.99 shipped</a> right now. </p>",
       "published": "2026-07-18T16:10:15+00:00",
       "source": "9to5Toys",
       "category": "deals"
@@ -635,15 +653,6 @@
       "category": "deals"
     },
     {
-      "id": "d49e0fc287473577fa52a906d834a8750eaf93a1",
-      "title": "Memo: the DOJ says federal employees can now download TikTok on government devices, citing TikTok US' transfer of control, lifting a 2022 congressional ban (David Shepardson/Reuters)",
-      "link": "https://www.techmeme.com/260717/p28#a260717p28",
-      "summary": "<a href=\"https://www.reuters.com/world/federal-employees-can-download-tiktok-government-devices-doj-says-2026-07-17/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260717/i28.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260717/p28#a260717p28\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> David Shepardson / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/federal-employees-can-download-tiktok-government-devices-doj-says-2026-07-17/\">Memo: the DOJ says federal employees can now download TikTok on government devices, citing TikTok US' transfer of control, lifting a 2022 congressional ban</a></b></span>&nbsp; &mdash;&nbsp; The U.S. Justice Department said on Friday that federal employees can now download the short-video app TikTok on government devices.</p>",
-      "published": "2026-07-18T00:10:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "0d8abf19865b7f0b0196cd8723fd33822b78ddf8",
       "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
       "link": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
@@ -1063,15 +1072,6 @@
       "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
       "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
       "published": "2026-07-17T15:21:17+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "60e2f676a27e0aa8a13cdcca7565697db33dc535",
-      "title": "reMarkable’s new Paper Pure is good. That’s why I wrote this review on it.",
-      "link": "https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/",
-      "summary": "Remarkable's Paper Pure replaces Remarkable 2, and it is quite good.",
-      "published": "2026-07-17T14:47:27+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
