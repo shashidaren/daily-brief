@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-07-19T21:45:59.532173+00:00",
+  "generatedAt": "2026-07-19T22:43:25.277776+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "4ac0fa65437098be631745fb643be4ef1ab3b33c",
+      "title": "Hugging Face says an agentic AI system hacked its data pipeline, accessing several internal clusters and credentials; its own AI-based triage caught the breach (Hugging Face)",
+      "link": "https://www.techmeme.com/260719/p12#a260719p12",
+      "summary": "<a href=\"https://huggingface.co/blog/security-incident-july-2026\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260719/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260719/p12#a260719p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://huggingface.co/\">Hugging Face</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://huggingface.co/blog/security-incident-july-2026\">Hugging Face says an agentic AI system hacked its data pipeline, accessing several internal clusters and credentials; its own AI-based triage caught the breach</a></b></span>&nbsp; &mdash;&nbsp; Earlier this week, we detected and responded to an intrusion into part of our production infrastructure.</p>",
+      "published": "2026-07-19T22:15:24+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
     {
       "id": "ae4d2bb50c16ad5baf289245f784a8d5ec0d6eb0",
       "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
@@ -660,15 +669,6 @@
       "published": "2026-07-18T23:59:26+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "596f63b1c04c7dcc4e528c3facaf4c8976d5e7fa",
-      "title": "UK's incoming PM Andy Burnham is expected to scrap Keir Starmer's plans for digital ID cards; last year a petition opposing the cards attracted ~3M signatures (Geraldine McKelvie/The Guardian)",
-      "link": "https://www.techmeme.com/260718/p15#a260718p15",
-      "summary": "<a href=\"https://www.theguardian.com/politics/2026/jul/18/burnham-to-scrap-starmers-digital-id-scheme-in-reset-of-priorities\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260718/i15.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260718/p15#a260718p15\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Geraldine McKelvie / <a href=\"http://www.theguardian.com/\">The Guardian</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theguardian.com/politics/2026/jul/18/burnham-to-scrap-starmers-digital-id-scheme-in-reset-of-priorities\">UK's incoming PM Andy Burnham is expected to scrap Keir Starmer's plans for digital ID cards; last year a petition opposing the cards attracted ~3M signatures</a></b></span>&nbsp; &mdash;&nbsp; Incoming PM will reallocate unspecified resources from unpopular plan to helping with cost of living</p>",
-      "published": "2026-07-18T21:35:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "416db25d995e727cc8646a4acdbdc4b0c736865e",
@@ -1373,6 +1373,15 @@
       "category": "events"
     },
     {
+      "id": "0e56e952ccfcf82ec40a98b60858a7f0842b8f34",
+      "title": "Aye",
+      "link": "https://www.producthunt.com/products/aye-browser",
+      "summary": "<p>\n            Your teachable AI intern for everyday browser work\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/aye-browser?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197816?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-16T05:07:19+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "4801d5bf1130cd9a50dec430ce7fb70cf1ff9c19",
       "title": "OpenMarkdown",
       "link": "https://www.producthunt.com/products/openmarkdown",
@@ -1396,15 +1405,6 @@
       "link": "https://www.producthunt.com/products/acebuilder",
       "summary": "<p>\n            Build landing pages with Aceternity UI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/acebuilder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1196211?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-14T11:05:00+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "ed8185ec4d9890db082344a60c4fc9d1c2db47cd",
-      "title": "Pocket Screen",
-      "link": "https://www.producthunt.com/products/toybird-labs",
-      "summary": "<p>\n            Keep any Mac window visible in a floating mini screen\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/toybird-labs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1195968?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-14T06:58:59+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
