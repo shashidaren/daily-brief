@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-07-19T15:51:04.156492+00:00",
+  "generatedAt": "2026-07-19T16:50:19.699380+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "f4de9a2d37abc8c983a2e6cd0acd053491c68d10",
+      "title": "The FBI reportedly won’t investigate ICE anymore",
+      "link": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
+      "summary": "According to the New York Times, federal agents have been told that the FBI will no longer be investigating confrontations involving ICE agents. The DHS and DOJ denied the change in policy to The Times. The reported change in guidance follows renewed scrutiny of violence by ICE agents who have killed two people in the [&#8230;]",
+      "published": "2026-07-19T16:42:10+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "cd29b2bcba33210e06febaa37ee0725a1d2a8607",
+      "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
+      "published": "2026-07-19T16:35:02+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "65db770e9df448a8c5758f231ff84e6760a60837",
+      "title": "TechCrunch Mobility: The battle over robotaxi rules",
+      "link": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "published": "2026-07-19T16:05:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
     {
       "id": "16e967acae67505497d9ddf4989219473fe79ef6",
       "title": "Thoughts on why Jony Ive, a close friend of Laurene Powell Jobs, isn't named in Apple's OpenAI suit; sources: Apple tests AI to record Genius Bar customer chats (Mark Gurman/Bloomberg)",
@@ -48,6 +75,15 @@
       "published": "2026-07-19T15:17:23+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "64591476ea145ea5d4ce5fc6cd449243d29b762a",
+      "title": "Orchid is a delightfully retro and approachable hipster synth",
+      "link": "https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review",
+      "summary": "In 2017, I bought an old Magnus chord organ off Craigslist for $10. It's one of my favorite music gear purchases. Electric chord organs let you play full chords with just a press of a button, making them perfect for aspiring singer-songwriters or fooling around at home. But chord organs largely fell out of favor [&#8230;]",
+      "published": "2026-07-19T15:15:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
     },
     {
       "id": "86e76b23b31aefd755cba3baaa3bb88272501b04",
@@ -104,20 +140,11 @@
       "category": "tech"
     },
     {
-      "id": "2512ece5ce71705e97ab741ded6b1d1bcdbb2f39",
-      "title": "North Pole hosts 'world's coolest marathon' on drifting sea ice",
+      "id": "d83a24cc51ff9795181689faac3ececb2349676d",
+      "title": "Runners complete 'world's coolest marathon' on drifting North Pole ice",
       "link": "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss",
       "summary": "Organisers say 23 runners from seven countries took part in races at the Arctic's geographic North Pole.",
       "published": "2026-07-19T14:06:08+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "5237031a87a0a821c424c24e2c76484a5ca4d3be",
-      "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The vessel capsized between Georgetown and Port Kaituma, with 53 people so far rescued.",
-      "published": "2026-07-19T14:00:03+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -419,6 +446,15 @@
       "category": "deals"
     },
     {
+      "id": "b654daf87d11dce3c972bbf0d66c2b14415e7a55",
+      "title": "Neighbours actor Terence Donovan dies aged 90",
+      "link": "https://www.bbc.co.uk/news/articles/crmrznw82j4o?at_medium=RSS&at_campaign=rss",
+      "summary": "His son, actor Jason Donovan, posted to social media that his father died on Saturday night peacefully in Melbourne, Australia",
+      "published": "2026-07-19T08:18:32+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
       "id": "45226e10017e2e0eaf0d464c5a8188b7e69cd0f4",
       "title": "Xbox Commits To More Permanent Exclusives",
       "link": "https://www.lowyat.net/2026/398997/xbox-commits-to-permanent-exclusives/",
@@ -541,15 +577,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
       "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
       "published": "2026-07-18T23:59:26+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "e268e8b04466fec705e21d22f0ddf1336ee33073",
-      "title": "Private jets flock to Montana - but locals can't afford the trailer park",
-      "link": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rents in Bozeman, Montana have skyrocketed as wealthy out-of-towners flock to the city to experience the American West.",
-      "published": "2026-07-18T23:44:04+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -689,30 +716,12 @@
       "category": "world"
     },
     {
-      "id": "72fc26c80a5c37e043e54d80030885834aba7485",
-      "title": "GoPro&#8217;s discounted Max 2 bundle includes $100 worth of accessories",
-      "link": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
-      "summary": "A 360-degree camera is a great way to ensure you capture every bit of the action, but prices tend to be on the high end for models worth your attention. That’s why it’s notable that the GoPro Max 2 accessory bundle is discounted to $369 at Amazon (a dollar more at Best Buy and GoPro). [&#8230;]",
-      "published": "2026-07-18T15:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "340b9ee6ea52aa571c8cf42f192e1ca02872de01",
       "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
       "link": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
       "summary": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
       "published": "2026-07-18T14:32:00+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "ff689edd1d2f4ac0eb994977e5d569220c2b2daa",
-      "title": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time",
-      "link": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
-      "summary": "Carter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine, and Los Angeles magazine as well. Along the way, she's garnered a Scripps Howard Award, a National Press Club Journalism Award, and [&#8230;]",
-      "published": "2026-07-18T14:30:00+00:00",
-      "source": "The Verge",
       "category": "tech"
     },
     {
@@ -1166,15 +1175,6 @@
       "category": "tech"
     },
     {
-      "id": "30d3d462d96c3a398a2ea3e6f5de08dbc35cee86",
-      "title": "Parents want safer phones for kids. These companies are answering the call.",
-      "link": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-      "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
-      "published": "2026-07-17T16:12:46+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "7c0b5b2c88ea8d783aab8667aba9daf10aeccafb",
       "title": "ChargEV deploys additional EV chargers at Aeon Mall Cheras Selatan, up to 180kW",
       "link": "https://soyacincau.com/2026/07/18/chargev-aeon-mall-cheras-selatan-level-2-ev-charger/",
@@ -1290,15 +1290,6 @@
       "published": "2026-07-17T04:07:02+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "a3b7ca06036be973eec0a10b0825f96d7eea279d",
-      "title": "Scribble Party",
-      "link": "https://www.producthunt.com/products/scribble-party",
-      "summary": "<p>\n            A local-first whiteboard studio for teachers and creators\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/scribble-party?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1198652?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-17T02:55:51+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "f4d3715d968e308c1d7c6f003560611be9f2d9e8",
@@ -1441,6 +1432,15 @@
       "link": "https://www.producthunt.com/products/mirage-15",
       "summary": "<p>\n            Turn your SaaS into a clickable demo in 90 seconds.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mirage-15?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1193468?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-11T07:48:47+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "244f3b9a76eb1a81189735ff4f7fbdca066270cb",
+      "title": "Unabyss for Claude",
+      "link": "https://www.producthunt.com/products/unabyss",
+      "summary": "<p>\n            Shared memory across all apps and LLMs. In Claude\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/unabyss?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1193175?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-10T19:19:45+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
