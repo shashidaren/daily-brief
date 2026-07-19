@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T17:52:42.941329+00:00",
+  "generatedAt": "2026-07-19T18:57:43.616882+00:00",
   "counts": {
     "total": 165
   },
@@ -9,7 +9,16 @@
       "title": "Russia launches major ballistic missile attack on Ukrainian cities",
       "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
       "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
-      "published": "2026-07-19T17:43:20+00:00",
+      "published": "2026-07-19T18:25:40+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "cd29b2bcba33210e06febaa37ee0725a1d2a8607",
+      "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
+      "published": "2026-07-19T18:18:05+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -48,15 +57,6 @@
       "published": "2026-07-19T16:42:10+00:00",
       "source": "The Verge",
       "category": "tech"
-    },
-    {
-      "id": "cd29b2bcba33210e06febaa37ee0725a1d2a8607",
-      "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
-      "published": "2026-07-19T16:35:02+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "65db770e9df448a8c5758f231ff84e6760a60837",
@@ -158,10 +158,10 @@
       "category": "tech"
     },
     {
-      "id": "2a29a503aa24dbf2d0a96728b844b5abf7cb00af",
-      "title": "Alibaba launches preview of 2.4T parameter Qwen3.8 Max, says it's comparable to frontier AI models and second only to Fable 5, will make it \"open-weight soon\" (Bloomberg)",
+      "id": "abea6991b8ef6caf09a59cdf9218697dcbe575a7",
+      "title": "Alibaba launches a 2.4T parameter Qwen3.8 Max preview that it says rivals frontier AI models and is second only to Fable 5, plans to make it \"open-weight soon\" (Bloomberg)",
       "link": "https://www.techmeme.com/260719/p7#a260719p7",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260719/i7.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260719/p7#a260719p7\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model\">Alibaba launches preview of 2.4T parameter Qwen3.8 Max, says it's comparable to frontier AI models and second only to Fable 5, will make it &ldquo;open-weight soon&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; Alibaba Group Holding Ltd. launched a preview version of its flagship Qwen3.8 Max model, which it described as comparable &hellip; </p>",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260719/i7.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260719/p7#a260719p7\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model\">Alibaba launches a 2.4T parameter Qwen3.8 Max preview that it says rivals frontier AI models and is second only to Fable 5, plans to make it &ldquo;open-weight soon&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; Alibaba Group Holding Ltd. launched a preview version of its flagship Qwen3.8 Max model, which it described as comparable &hellip; </p>",
       "published": "2026-07-19T14:10:00+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -1292,6 +1292,15 @@
       "category": "malaysia"
     },
     {
+      "id": "a3b7ca06036be973eec0a10b0825f96d7eea279d",
+      "title": "Scribble Party",
+      "link": "https://www.producthunt.com/products/scribble-party",
+      "summary": "<p>\n            A local-first whiteboard studio for teachers and creators\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/scribble-party?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1198652?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-17T02:55:51+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "f4d3715d968e308c1d7c6f003560611be9f2d9e8",
       "title": "Kimi K3",
       "link": "https://www.producthunt.com/products/kimi-ai-assistant",
@@ -1355,11 +1364,11 @@
       "category": "tech"
     },
     {
-      "id": "66326c8165dd4f25811c3f82188662f78de62d2c",
-      "title": "Basedash Suggestions",
-      "link": "https://www.producthunt.com/products/basedash",
-      "summary": "<p>\n            Your AI data analyst, now with ideas of its own.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1198296?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-16T14:57:03+00:00",
+      "id": "81fc9fd60ad849309a91ff03a2ba959ef51d7296",
+      "title": "Timely",
+      "link": "https://www.producthunt.com/products/timely-9",
+      "summary": "<p>\n            Pull your calendar availability in 3 seconds\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/timely-9?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1198501?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-16T20:38:51+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1369,15 +1378,6 @@
       "link": "https://www.producthunt.com/products/kobbe",
       "summary": "<p>\n            Privacy-friendly web analytics with traffic and revenue.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kobbe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197935?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-16T07:41:42+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "f809475ab8a94e856e8be7f666d814a48d6539e4",
-      "title": "PixyCAD",
-      "link": "https://www.producthunt.com/products/pixycad-3d-solid-modelling",
-      "summary": "<p>\n            Fast & precise 3D CAD built natively for iPad and Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pixycad-3d-solid-modelling?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197914?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-16T07:15:45+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
