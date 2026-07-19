@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-07-19T16:50:19.699380+00:00",
+  "generatedAt": "2026-07-19T17:52:42.941329+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "dd31b3ea07e81706fe66d63b4c27f728ab93bbe5",
+      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
+      "published": "2026-07-19T17:43:20+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "9b24b627226cfabfa16e52bc3033eb43996750d7",
+      "title": "I hate that I don’t hate this song made with Suno",
+      "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]",
+      "published": "2026-07-19T17:35:54+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "2e1525713f68a1ba88cdf0568b933168a4170257",
+      "title": "Kalshi and Polymarket bets on the FIFA World Cup final top $5.69B; Dune Analytics says total wagers on the platforms surpassed $50B for the first time in June (Lauren McCarthy/New York Times)",
+      "link": "https://www.techmeme.com/260719/p9#a260719p9",
+      "summary": "<a href=\"https://www.nytimes.com/2026/07/18/business/world-cup-kalshi-polymarket.html?unlocked_article_code=1.y1A.plT-.cD3kDKUGV_iF&amp;smid=nytcore-ios-share\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260719/i9.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260719/p9#a260719p9\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lauren McCarthy / <a href=\"https://www.nytimes.com/\">New York Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.nytimes.com/2026/07/18/business/world-cup-kalshi-polymarket.html?unlocked_article_code=1.y1A.plT-.cD3kDKUGV_iF&amp;smid=nytcore-ios-share\">Kalshi and Polymarket bets on the FIFA World Cup final top $5.69B; Dune Analytics says total wagers on the platforms surpassed $50B for the first time in June</a></b></span>&nbsp; &mdash;&nbsp; When Argentina and Spain take the field on Sunday for the World Cup final, more than $5.69 billion will be riding on the winner &hellip; </p>",
+      "published": "2026-07-19T17:30:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "c7d22ee0daee8338d1f478372bd9870d079c5a0a",
+      "title": "US and Iran trade fire after two US soldiers killed in Jordan",
+      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
+      "published": "2026-07-19T17:22:23+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "f4de9a2d37abc8c983a2e6cd0acd053491c68d10",
       "title": "The FBI reportedly won’t investigate ICE anymore",
@@ -48,15 +84,6 @@
       "published": "2026-07-19T15:47:51+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "c7d22ee0daee8338d1f478372bd9870d079c5a0a",
-      "title": "US and Iran trade fire after two US soldiers killed in Jordan",
-      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
-      "published": "2026-07-19T15:35:18+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "34e5084b60bf2c5808595f9e06e6dd018687050d",
@@ -291,15 +318,6 @@
       "published": "2026-07-19T11:31:03+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "dd31b3ea07e81706fe66d63b4c27f728ab93bbe5",
-      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-      "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Five people are killed and at least 35 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.",
-      "published": "2026-07-19T11:28:24+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "b19c66fdcdb6f63835a99374449c1aa212f1a4d7",
@@ -660,24 +678,6 @@
       "published": "2026-07-18T17:29:50+00:00",
       "source": "BBC News",
       "category": "world"
-    },
-    {
-      "id": "a2dfe92bc55d798d0be5daf7e329506a0ec2f6b6",
-      "title": "How the Trump administration shifted from a \"light-touch\" approach to AI policy to an interventionist stance that led to restrictions on top AI models in the US (Leo Schwartz/The Information)",
-      "link": "https://www.techmeme.com/260718/p12#a260718p12",
-      "summary": "<a href=\"https://www.theinformation.com/articles/trumps-ai-agenda-collides-reality\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260718/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260718/p12#a260718p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Leo Schwartz / <a href=\"https://www.theinformation.com/\">The Information</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theinformation.com/articles/trumps-ai-agenda-collides-reality\">How the Trump administration shifted from a &ldquo;light-touch&rdquo; approach to AI policy to an interventionist stance that led to restrictions on top AI models in the US</a></b></span>&nbsp; &mdash;&nbsp; In January 2025, just three days after entering office for his second term, President Donald Trump signed &hellip; </p>",
-      "published": "2026-07-18T17:10:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "e6fb3921dafd0282ac1b68a1e49dd41e37baa136",
-      "title": "Google is open-sourcing its 3D emoji",
-      "link": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
-      "summary": "Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday. Things you might not necessarily worry about in a 2D illustration suddenly become very important when [&#8230;]",
-      "published": "2026-07-18T16:40:55+00:00",
-      "source": "The Verge",
-      "category": "tech"
     },
     {
       "id": "749f923b033db97732c32f1e106bcd67284da186",
@@ -1355,6 +1355,15 @@
       "category": "tech"
     },
     {
+      "id": "66326c8165dd4f25811c3f82188662f78de62d2c",
+      "title": "Basedash Suggestions",
+      "link": "https://www.producthunt.com/products/basedash",
+      "summary": "<p>\n            Your AI data analyst, now with ideas of its own.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1198296?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-16T14:57:03+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "c7522e827b27dd151434a79b15f96bb71a7f9469",
       "title": "Kobbe",
       "link": "https://www.producthunt.com/products/kobbe",
@@ -1364,11 +1373,11 @@
       "category": "events"
     },
     {
-      "id": "7e396d5a299d80bd891df074664f82396835ef53",
-      "title": "Yapper Leaderboard",
-      "link": "https://www.producthunt.com/products/yapper-leaderboard",
-      "summary": "<p>\n            See the biggest startup yappers on X/Twitter \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/yapper-leaderboard?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197899?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-16T06:58:13+00:00",
+      "id": "f809475ab8a94e856e8be7f666d814a48d6539e4",
+      "title": "PixyCAD",
+      "link": "https://www.producthunt.com/products/pixycad-3d-solid-modelling",
+      "summary": "<p>\n            Fast & precise 3D CAD built natively for iPad and Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pixycad-3d-solid-modelling?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1197914?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-16T07:15:45+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1405,15 +1414,6 @@
       "link": "https://www.producthunt.com/products/toybird-labs",
       "summary": "<p>\n            Keep any Mac window visible in a floating mini screen\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/toybird-labs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1195968?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-14T06:58:59+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "bcb0876d1f63256e42947e0883e915e8d5bfa052",
-      "title": "Pebbles Ai",
-      "link": "https://www.producthunt.com/products/pebbles-ai",
-      "summary": "<p>\n            AI sales platform for modern B2B teams\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pebbles-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1195845?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-14T04:03:42+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
