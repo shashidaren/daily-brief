@@ -1,9 +1,72 @@
 {
-  "generatedAt": "2026-07-20T22:52:07.373425+00:00",
+  "generatedAt": "2026-07-20T23:51:32.231152+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "6dc7edbba3c4abc7293423285c73cb756fc7738d",
+      "title": "Researchers found sandbox escapes or boundary bypasses in Cursor, Codex, Gemini CLI, and Antigravity by writing files trusted tools later use; most are patched (Ax Sharma/BleepingComputer)",
+      "link": "https://www.techmeme.com/260720/p41#a260720p41",
+      "summary": "<a href=\"https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260720/i41.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260720/p41#a260720p41\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ax Sharma / <a href=\"https://www.bleepingcomputer.com/\">BleepingComputer</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/\">Researchers found sandbox escapes or boundary bypasses in Cursor, Codex, Gemini CLI, and Antigravity by writing files trusted tools later use; most are patched</a></b></span>&nbsp; &mdash;&nbsp; Security researchers broke out of the sandboxes in four widely used AI coding agents, including Cursor, OpenAI's Codex &hellip; </p>",
+      "published": "2026-07-20T23:40:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "40be72a4ffdb61e5b75ed6e4ced224a2cf62b74f",
+      "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+      "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+      "summary": "The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
+      "published": "2026-07-20T23:39:35+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "ae96716914555b0e61b779fe60a0250e64c858b6",
+      "title": "Samsung debuts Samsung Galaxy Card, its first-ever US credit card, a Visa from Barclays; it offers 5% rewards for purchases directly from Samsung (John Velasco/Tom's Guide)",
+      "link": "https://www.techmeme.com/260720/p40#a260720p40",
+      "summary": "<a href=\"https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-card-takes-aim-at-apple-card-with-way-more-perks-and-rewards-heres-what-you-get\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260720/i40.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260720/p40#a260720p40\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> John Velasco / <a href=\"https://www.tomsguide.com/\">Tom's Guide</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-card-takes-aim-at-apple-card-with-way-more-perks-and-rewards-heres-what-you-get\">Samsung debuts Samsung Galaxy Card, its first-ever US credit card, a Visa from Barclays; it offers 5% rewards for purchases directly from Samsung</a></b></span>&nbsp; &mdash;&nbsp; You get 5% rewards when you buy stuff directly from Samsung&nbsp; &mdash;&nbsp; With Galaxy Unpacked 2026 set to kick off in a matter of days &hellip; </p>",
+      "published": "2026-07-20T23:20:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "542f59208fb2d9452a507d2ccb0a7ed70ca1e5f8",
+      "title": "The Trump threat: Why Europe is suddenly panic-buying fighter jets and drones",
+      "link": "https://www.malaymail.com/news/world/2026/07/21/the-trump-threat-why-europe-is-suddenly-panic-buying-fighter-jets-and-drones/228354",
+      "summary": "Defence dominates Farnborough as Europe accelerates rearmament, prioritising sovereignty amid the Ukraine war and shifti...",
+      "published": "2026-07-20T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "ac8df5e31256a3aaba9e953c2a428b46f77a95b3",
+      "title": "‘Why didn’t you fight back?’: The question Hong Kong’s sexual assault survivors want banned",
+      "link": "https://www.malaymail.com/news/world/2026/07/21/why-didnt-you-fight-back-the-question-hong-kongs-sexual-assault-survivors-want-banned/228356",
+      "summary": "HONG KONG, July 21 &mdash; Hong Kong NGO worker Jessie recalled freezing in panic when she said she was sexually assault...",
+      "published": "2026-07-20T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "e0f5d158154238007380ede19fc736c1249f7749",
+      "title": "Why is my TNB electricity bill suddenly high? The AFA fuel surcharge explained",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/21/why-is-my-tnb-electricity-bill-suddenly-high-the-afa-fuel-surcharge-explained/227856",
+      "summary": "KUALA LUMPUR, July 21 &mdash; If your June electricity bill looks higher than usual, you&rsquo;re not alone.Many Malaysi...",
+      "published": "2026-07-20T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "34f31a5f1b9a91e8279de663773ea0ee9d2480b4",
+      "title": "Taiwan warns of China’s ‘Anaconda Strategy’ as ship incursions jump in June",
+      "link": "https://www.malaymail.com/news/world/2026/07/21/taiwan-warns-of-chinas-anaconda-strategy-as-ship-incursions-jump-in-june/228353",
+      "summary": "Chinese government vessels around Taiwan rose sharply in June, signaling intensified \"grey zone\" pressure without direct...",
+      "published": "2026-07-20T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
     {
       "id": "a74bc10a14a7aeeb0bf264186106b810dc07a570",
       "title": "Trump imposes 50% tariff on Canadian imports",
@@ -41,12 +104,30 @@
       "category": "tech"
     },
     {
+      "id": "408f19f71f60f2e6cb28e7a8166a4bca69a50a3e",
+      "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
+      "link": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
+      "summary": "Pennsylvania cop charged with oppression and obstruction.",
+      "published": "2026-07-20T22:15:51+00:00",
+      "source": "Ars Technica - All content",
+      "category": "tech"
+    },
+    {
       "id": "45eca5f59ba6ca88a695474ad8d2bb43c225ddea",
       "title": "Judge approves Anthropic's $1.5B settlement with authors, the first major US case of its kind to settle; some authors opted out and have other ongoing lawsuits (Blake Brittain/Reuters)",
       "link": "https://www.techmeme.com/260720/p39#a260720p39",
       "summary": "<a href=\"https://www.reuters.com/world/us-judge-approves-anthropics-15-billion-settlement-copyright-lawsuit-2026-07-20/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260720/i39.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260720/p39#a260720p39\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Blake Brittain / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/world/us-judge-approves-anthropics-15-billion-settlement-copyright-lawsuit-2026-07-20/\">Judge approves Anthropic's $1.5B settlement with authors, the first major US case of its kind to settle; some authors opted out and have other ongoing lawsuits</a></b></span>&nbsp; &mdash;&nbsp; A federal judge in San Francisco on Monday signed off on artificial intelligence company Anthropic's landmark $1.5 billion settlement &hellip; </p>",
       "published": "2026-07-20T22:00:33+00:00",
       "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "b83c64447a764c75ee3838de63edfcbb02a9423c",
+      "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
+      "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+      "summary": "California and XPRIZE competition tests whether drones can stop wildfires early.",
+      "published": "2026-07-20T21:55:52+00:00",
+      "source": "Ars Technica - All content",
       "category": "tech"
     },
     {
@@ -92,6 +173,15 @@
       "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-07-20/blackstone-backed-ancestry-com-joins-risky-loan-refinancing-wave\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260720/i38.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260720/p38#a260720p38\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-07-20/blackstone-backed-ancestry-com-joins-risky-loan-refinancing-wave\">Source: Ancestry.com pitches a risky $1.75B term loan at 4 to 4.25 percentage points above the benchmark to refinance debt from its 2020 Blackstone acquisition</a></b></span>&nbsp; &mdash;&nbsp; Ancestry.com Inc. is seeking to refinance debt raised to fund its 2020 acquisition by Blackstone Group Inc. funds &hellip; </p>",
       "published": "2026-07-20T21:20:02+00:00",
       "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "be7d7e88f3a786abc970e3cf4f69bf2bcbe25f6a",
+      "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+      "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+      "summary": "Judge grants restraining order, saying merger \"likely to violate antitrust laws.\"",
+      "published": "2026-07-20T21:10:14+00:00",
+      "source": "Ars Technica - All content",
       "category": "tech"
     },
     {
@@ -149,9 +239,9 @@
       "category": "tech"
     },
     {
-      "id": "127ab1bea0616ba424a8f4c921a42d4a3de4212b",
+      "id": "cdb405340fc20b46e63eec40229b9fc23c6565da",
       "title": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
-      "link": "https://arstechnica.com/science/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
+      "link": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
       "summary": "The Trump administration is asking the Space Force to do a lot. This will require more launches.",
       "published": "2026-07-20T20:30:25+00:00",
       "source": "Ars Technica - All content",
@@ -338,8 +428,8 @@
       "category": "tech"
     },
     {
-      "id": "c637dee5e0f41b7a24ea2123aa05ebdfe3db4a60",
-      "title": "'If only people knew what a tick could do' - the deadly meat allergies caused by tick bites",
+      "id": "3eea83c0a25d14d297ae3be7e8bf9cfe76b22be7",
+      "title": "'If only people knew what a tick could do' - the deadly meat allergy caused by tick bites",
       "link": "https://www.bbc.co.uk/news/articles/cj6g03567edo?at_medium=RSS&at_campaign=rss",
       "summary": "Mammalian meat allergy is a growing problem along Australia's east coast - and it's caused by tick bites.",
       "published": "2026-07-20T18:01:00+00:00",
@@ -596,24 +686,6 @@
       "summary": "Online retailer AliExpress says it's shocked by largest DSA fine yet.",
       "published": "2026-07-20T15:32:45+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "84bb5c9e435b836d47a741357176e650bb0b13e0",
-      "title": "CAISI Director Chris Fall is resigning after taking over the federal AI testing institute in April; NIST Director Arvind Raman will serve as acting director (Maria Curi/Axios)",
-      "link": "https://www.techmeme.com/260720/p26#a260720p26",
-      "summary": "<a href=\"https://www.axios.com/2026/07/20/trump-ai-security-agency-head-resigns\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260720/i26.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260720/p26#a260720p26\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Maria Curi / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/2026/07/20/trump-ai-security-agency-head-resigns\">CAISI Director Chris Fall is resigning after taking over the federal AI testing institute in April; NIST Director Arvind Raman will serve as acting director</a></b></span>&nbsp; &mdash;&nbsp; Chris Fall, the director of the Center for AI Standards and Innovation, is resigning just three months after taking &hellip; </p>",
-      "published": "2026-07-20T15:26:24+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "e460d6bccf3c0791aa4cf208a23917a51daf8f57",
-      "title": "Source: Tencent is in talks to acquire Israeli game developer SuperPlay in a deal valuing SuperPlay at $1B-$1.5B; Playtika acquired SuperPlay in 2024 for $690M (Golan Hazani/CTech)",
-      "link": "https://www.techmeme.com/260720/p25#a260720p25",
-      "summary": "<a href=\"https://www.calcalistech.com/ctechnews/article/hkvfmqsvme\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260720/i25.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260720/p25#a260720p25\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Golan Hazani / <a href=\"https://www.calcalistech.com/\">CTech</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.calcalistech.com/ctechnews/article/hkvfmqsvme\">Source: Tencent is in talks to acquire Israeli game developer SuperPlay in a deal valuing SuperPlay at $1B-$1.5B; Playtika acquired SuperPlay in 2024 for $690M</a></b></span>&nbsp; &mdash;&nbsp; Exclusive: The transaction would transfer a fast-growing gaming studio, and a ballooning earnout commitment, to the Chinese technology giant.</p>",
-      "published": "2026-07-20T15:25:02+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -968,15 +1040,6 @@
       "category": "malaysia"
     },
     {
-      "id": "c5df4a1c8130085207ce754869cb4a85e2179142",
-      "title": "Oil rally cools as Iran hints diplomacy with US is still alive",
-      "link": "https://www.malaymail.com/news/money/2026/07/20/oil-rally-cools-as-iran-hints-diplomacy-with-us-is-still-alive/228368",
-      "summary": "HONG KONG, July 20 &mdash; Oil scaled back gains after hitting its highest price in a month on Monday as Iran said diplo...",
-      "published": "2026-07-20T09:25:16+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "b76c1833a5137b1873ae45cc82bdb0f99063e9a1",
       "title": "Premier hails AirBorneo’s RM374.88 fare, warns: raise it and you’ll face trouble",
       "link": "https://www.malaymail.com/news/malaysia/2026/07/20/premier-hails-airborneos-rm37488-fare-warns-raise-it-and-youll-face-trouble/228370",
@@ -993,33 +1056,6 @@
       "published": "2026-07-20T09:15:48+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "ad9894d3e162a1e5fb4411cd3ea9dae565688210",
-      "title": "Who was she? Renovation workers uncover mystery skeleton in coffin beneath Bangkok’s century-old temple (VIDEO)",
-      "link": "https://www.malaymail.com/news/world/2026/07/20/who-was-she-renovation-workers-uncover-mystery-skeleton-in-coffin-beneath-bangkoks-century-old-temple-video/228366",
-      "summary": "BANGKOK, July 20 &mdash; A renovation project at a 155-year-old Buddhist temple here took an unexpected turn when worker...",
-      "published": "2026-07-20T09:06:09+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "20d580b48c5e06a96e35fa477910c0f28f1d23d8",
-      "title": "Aminuddin urges integrity in Negeri Sembilan polls, condemns vandalism of campaign materials",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/20/aminuddin-urges-integrity-in-negeri-sembilan-polls-condemns-vandalism-of-campaign-materials/228367",
-      "summary": "PORT DICKSON, July 20 &mdash; Negeri Sembilan Menteri Besar Datuk Seri Aminuddin Harun has called on all political parti...",
-      "published": "2026-07-20T09:05:56+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "4eeaa12e55ed879218c10b6911afddb0411e7a69",
-      "title": "Zahid warns of fraud surge, says Cyber Crime Bill 2026 will fortify Malaysia’s defences",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/20/zahid-warns-of-fraud-surge-says-cyber-crime-bill-2026-will-fortify-malaysias-defences/228363",
-      "summary": "KUALA LUMPUR, July 20 &mdash; A total of 8,014 charges related to online fraud crimes have been recorded as of May this...",
-      "published": "2026-07-20T08:54:43+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "2de0d28089621cd50da9946a4e032ba3d0589b79",
@@ -1220,6 +1256,15 @@
       "category": "events"
     },
     {
+      "id": "1415809be910d071188078b338cb1be23687dd19",
+      "title": "Free AI Tools",
+      "link": "https://www.producthunt.com/products/free-ai-tools-4",
+      "summary": "<p>\n            Free browser tools for everyday tasks, no login\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/free-ai-tools-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1200702?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-19T16:14:15+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "65db770e9df448a8c5758f231ff84e6760a60837",
       "title": "TechCrunch Mobility: The battle over robotaxi rules",
       "link": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
@@ -1236,15 +1281,6 @@
       "published": "2026-07-19T15:47:51+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "497839e9f924ceea76a7c8a3fb389fa5f26c5665",
-      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-      "summary": "\"Everybody knows the Greeks are inside.\"",
-      "published": "2026-07-19T14:52:08+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
     },
     {
       "id": "4641a00eafeb71c42bd8f317e8f7f8cf07f9d64a",
@@ -1272,6 +1308,15 @@
       "published": "2026-07-19T02:42:06+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
+    },
+    {
+      "id": "4d962ceaa645c2db6a56cd1d4f73ff18ac432f5f",
+      "title": "Scriptyard",
+      "link": "https://www.producthunt.com/products/scriptyard",
+      "summary": "<p>\n            A free visual story development workspace\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/scriptyard?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1199946?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-18T15:44:43+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "1710a90281183ceae8ab9b41612ed64f3cab3989",
@@ -1382,33 +1427,6 @@
       "category": "events"
     },
     {
-      "id": "48d00b66986f02b948af728273d198bc4202e663",
-      "title": "Fubo hikes prices by $15 after restoring some NBCU channels lost in November",
-      "link": "https://arstechnica.com/gadgets/2026/07/fubo-hikes-prices-by-15-after-restoring-some-nbcu-channels-lost-in-november/",
-      "summary": "Fubo subscribers still don't have Versant channels.",
-      "published": "2026-07-17T16:24:21+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "1754be0c121cd41f6f9646ee481029f4aa9673f4",
-      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
-      "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
-      "summary": "Official estimates Google and Apple likely made millions in nudify app fees.",
-      "published": "2026-07-17T16:10:05+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "4576ecc38d7b395aa0498d0743dddc0fd88314a6",
-      "title": "Ars is looking for a senior technology reporter, and you might be it!",
-      "link": "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/",
-      "summary": "Desktops, laptops, phones, CPUs, GPUs, NAS—if you know this stuff, come work for us!",
-      "published": "2026-07-17T15:52:28+00:00",
-      "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
       "id": "3194c9072e1a6488033fb128b4b932981df5bfbe",
       "title": "Lunen.ai",
       "link": "https://www.producthunt.com/products/lunen-ai",
@@ -1463,29 +1481,11 @@
       "category": "events"
     },
     {
-      "id": "7dbf24285488aa5b7e3bfa74a7dcc4a85508b712",
-      "title": "Nautis",
-      "link": "https://www.producthunt.com/products/nautis",
-      "summary": "<p>\n            The AI-native Operating System for founders.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nautis?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1194885?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-13T07:03:58+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "b4c61b9ab52e5fa79a4693781db1717d9e542b86",
       "title": "Replay QA",
       "link": "https://www.producthunt.com/products/replayio",
       "summary": "<p>\n            Replay QA tells you what is broken before your users do\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/replayio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1186303?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-02T11:26:09+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "83b7f1044c33aa01d8b9ae1a86e53969cbe82633",
-      "title": "Fuzzy AI",
-      "link": "https://www.producthunt.com/products/fuzzy-ai-2",
-      "summary": "<p>\n            We warm your prospects before reaching out\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fuzzy-ai-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1178721?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-06-23T06:13:24+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     }
