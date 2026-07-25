@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-07-25T14:56:42.295328+00:00",
+  "generatedAt": "2026-07-25T16:02:07.213093+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "1d8d47049785ab704cbe7299995edb80a608cbef",
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+      "published": "2026-07-25T16:00:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "78dc988a8396f70308dfcf3c9a13d5ded9a92a94",
+      "title": "Sources: DeepSeek told investors it is suspending its second funding round after remarks attributed to Liang Wenfeng on US-China AI competition went viral (Pei Li/Bloomberg)",
+      "link": "https://www.techmeme.com/260725/p14#a260725p14",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260725/i14.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260725/p14#a260725p14\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Pei Li / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts\">Sources: DeepSeek told investors it is suspending its second funding round after remarks attributed to Liang Wenfeng on US-China AI competition went viral</a></b></span>&nbsp; &mdash;&nbsp; DeepSeek has told prospective investors in its second fundraising round that it's suspending the deal for now, people familiar with the matter said &hellip; </p>",
+      "published": "2026-07-25T15:40:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "aaab5d7f0a0608aa4753b2c7b2159819dc9571d2",
+      "title": "Synth historian Oli Freke will spend big on a good bicycle",
+      "link": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+      "summary": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins. He's even written a book tracing the evolution of the synthesizer from 1963 through 1995, [&#8230;]",
+      "published": "2026-07-25T15:15:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "e50a2fe9a0b6351939cf89a1eae3b091989cb638",
+      "title": "Teenage Engineering’s unique music machines are 30 percent off",
+      "link": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
+      "summary": "With elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are capable of helping you produce songs in real time from a single unit, with an eye-catching design language. A wide swath of the brand’s offerings are 30 percent off [&#8230;]",
+      "published": "2026-07-25T15:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
     {
       "id": "589dc0cdc5309ed1da4d7369b16a978e26bd0051",
       "title": "Sources: OpenAI and Anthropic quietly lobby Washington regulators to restrict open-source AI models, even as Sam Altman publicly says he supports open source AI (New York Times)",
@@ -557,7 +593,7 @@
       "id": "8c24dddf67f1289f09a34ae35dfd7043f73918e8",
       "title": "Banquish — Make the web your workspace",
       "link": "https://www.producthunt.com/products/banquish-make-the-web-your-workspace",
-      "summary": "<p>\n            Clip living pieces of the web onto one canvas\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/banquish-make-the-web-your-workspace?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1205941?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Clip living pieces of the web onto one canvas\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/banquish-make-the-web-your-workspace?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1205941?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-25T02:41:56+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -584,7 +620,7 @@
       "id": "43fda0c161d4728813e06a3b1f5996fea5d9a5d0",
       "title": "OpenComputer",
       "link": "https://www.producthunt.com/products/opencomputer",
-      "summary": "<p>\n            The easiest way to deploy a managed agent.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/opencomputer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1205923?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            The easiest way to deploy a managed agent.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/opencomputer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1205923?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-25T01:43:15+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -599,19 +635,10 @@
       "category": "tech"
     },
     {
-      "id": "ae11c1a3dc563368f0e966e0d1c1e6cc05f3451b",
-      "title": "After a backlash, Meta pauses its plan to \"rate limit\" Conversation Focus, an accessibility feature for its glasses that runs on-device (Sean Hollister/The Verge)",
-      "link": "https://www.techmeme.com/260724/p39#a260724p39",
-      "summary": "<a href=\"https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InJNNnpCYUMxN2giLCJwIjoiL3RlY2gvOTcwOTcwL2FmdGVyLWJhY2tsYXNoLW1ldGEtcGF1c2VzLXBsYW4tdG8tcmF0ZS1saW1pdC1pdHMtc21hcnQtZ2xhc3NlcyIsImV4cCI6MTc4NTM3MjE2OSwiaWF0IjoxNzg0OTQwMTY5fQ.9DFHwR9IK98hHwfhknWqaiuJd00Na_GecIg05RVv8oQ&amp;utm_medium=gift-link\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260724/i39.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260724/p39#a260724p39\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sean Hollister / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InJNNnpCYUMxN2giLCJwIjoiL3RlY2gvOTcwOTcwL2FmdGVyLWJhY2tsYXNoLW1ldGEtcGF1c2VzLXBsYW4tdG8tcmF0ZS1saW1pdC1pdHMtc21hcnQtZ2xhc3NlcyIsImV4cCI6MTc4NTM3MjE2OSwiaWF0IjoxNzg0OTQwMTY5fQ.9DFHwR9IK98hHwfhknWqaiuJd00Na_GecIg05RVv8oQ&amp;utm_medium=gift-link\">After a backlash, Meta pauses its plan to &ldquo;rate limit&rdquo; Conversation Focus, an accessibility feature for its glasses that runs on-device</a></b></span>&nbsp; &mdash;&nbsp; &ldquo;We're still exploring all our options for the best approach.&rdquo; &hellip; The company is not giving up on the idea of a subscription fee for certain features &mdash; that's still moving forward.</p>",
-      "published": "2026-07-25T01:05:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "4200ac1ccbba8757f45679e2cb18daad8f85f2ea",
       "title": "Seller by Facebook",
       "link": "https://www.producthunt.com/products/seller-by-facebook",
-      "summary": "<p>\n            The easiest way to sell on Facebook Marketplace\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/seller-by-facebook?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1205910?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            The easiest way to sell on Facebook Marketplace\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/seller-by-facebook?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1205910?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-25T00:53:34+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -620,7 +647,7 @@
       "id": "953597b89ee0288503062b54418fd2e83c99b5b9",
       "title": "Health in ChatGPT",
       "link": "https://www.producthunt.com/products/openai",
-      "summary": "<p>\n            Your personal health companion, powered by ChatGPT\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1205906?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Your personal health companion, powered by ChatGPT\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1205906?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-25T00:38:36+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -896,15 +923,6 @@
       "category": "tech"
     },
     {
-      "id": "5a6795c021fd40a93327f1c68a5d3436aae1928e",
-      "title": "Midjourney bought the astrology app Co-Star",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-      "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily horoscopes and allows you to check your [&#8230;]",
-      "published": "2026-07-24T19:06:58+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "8c251520f61f761940794c9835182d540f59acb9",
       "title": "Never pay for another documentary subscription:  Curiosity Stream for life at $128 (Reg. $400)",
       "link": "https://9to5toys.com/2026/07/24/never-pay-for-another-documentary-subscription-curiosity-stream-for-life-at-128-reg-400/",
@@ -912,15 +930,6 @@
       "published": "2026-07-24T18:43:03+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "455c509755ba48a940125a73a643ab1206d19f1c",
-      "title": "DJI camera clone company Xtra is halting and refunding all preorders",
-      "link": "https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders",
-      "summary": "After selling a barely disguised version of the hit DJI Osmo Pocket 3 in the United States last year, Xtra Technology seemed ready to sneak in its version of the new dual-lens Osmo Pocket 4 Pro, too. But today, Xtra has abruptly removed the new Xtra Muse 2 Pro from its website landing page, is [&#8230;]",
-      "published": "2026-07-24T18:27:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
     },
     {
       "id": "36b29a2591b4d4f6bb4d4507e9853f7b585e2b02",
@@ -1052,7 +1061,7 @@
       "id": "1f00bee7ef3213ddf17e3c845423c43e27b53a4c",
       "title": "Heard",
       "link": "https://www.producthunt.com/products/heard-2",
-      "summary": "<p>\n            Give Claude Code and Codex a voice\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/heard-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1205639?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Give Claude Code and Codex a voice\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/heard-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1205639?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-24T15:26:43+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1090,15 +1099,6 @@
       "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
       "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
       "published": "2026-07-24T15:13:57+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "2dc4485a767be01fae83fa1eba690fa7ebbe5e6f",
-      "title": "Midjourney acquired the astrology app Co-Star",
-      "link": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-      "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
-      "published": "2026-07-24T15:09:55+00:00",
       "source": "TechCrunch",
       "category": "tech"
     },
@@ -1241,7 +1241,7 @@
       "id": "556199aaa34da9bd23d3a29a96eaa49ad7f9b9c4",
       "title": "Speechius",
       "link": "https://www.producthunt.com/products/speechius",
-      "summary": "<p>\n            The teleprompter that actually listens\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/speechius?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1205334?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            The teleprompter that actually listens\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/speechius?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1205334?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-24T08:33:41+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1250,7 +1250,7 @@
       "id": "aedf5e5f7e76bff917d08c4012ca79ce939b5d08",
       "title": "ADE",
       "link": "https://www.producthunt.com/products/ade-agentic-development-environment",
-      "summary": "<p>\n            All your coding agents, synced everywhere, free forever\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ade-agentic-development-environment?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1205327?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            All your coding agents, synced everywhere, free forever\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ade-agentic-development-environment?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1205327?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-24T08:28:41+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1286,7 +1286,7 @@
       "id": "45602f65c4a650de8b546a2353d4dc198056f447",
       "title": "Velane",
       "link": "https://www.producthunt.com/products/velane",
-      "summary": "<p>\n            Cloud for your AI Agent's tools and functions\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/velane?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1204964?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Cloud for your AI Agent's tools and functions\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/velane?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1204964?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-23T20:34:12+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1355,6 +1355,15 @@
       "category": "malaysia"
     },
     {
+      "id": "71cff1946f232cc6fa2216e8471a87a0cdd2eddf",
+      "title": "Hotspot Meter",
+      "link": "https://www.producthunt.com/products/hotspot-meter-track-wi-fi-and-hotspots",
+      "summary": "<p>\n            A private data-usage meter for your Mac menu bar\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hotspot-meter-track-wi-fi-and-hotspots?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1204352?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-23T07:51:51+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "cc5103618fa73efd23ea48fa47fc0d1ba04ac5b1",
       "title": "HUAWEI Pura 90s Series: Elevating How You See, Create, and Stay Connected",
       "link": "https://soyacincau.com/2026/07/23/huawei-pura-90s-series-camera-ai-5g/",
@@ -1362,15 +1371,6 @@
       "published": "2026-07-23T07:28:53+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "06790b5cacd58f32fa61f09379d830e842b20067",
-      "title": "Liso",
-      "link": "https://www.producthunt.com/products/liso-listen-to-highlights",
-      "summary": "<p>\n            Highlight text on any page and turn it into audio.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/liso-listen-to-highlights?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1204219?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-23T05:19:03+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "614add0a11021cf33b86185734f282f264e825be",
@@ -1394,17 +1394,8 @@
       "id": "91178432bbf0639f3fbf9292bd543b56676643e0",
       "title": "Freesolo Flash",
       "link": "https://www.producthunt.com/products/freesolo-flash",
-      "summary": "<p>\n            Full-Stack Platform for Training Small Language Models\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/freesolo-flash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1204056?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Full-Stack Platform for Training Small Language Models\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/freesolo-flash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1204056?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-22T23:50:08+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "3adc9550be68a98e537a121acbb2bf81f0a5f31a",
-      "title": "YC has it",
-      "link": "https://www.producthunt.com/products/yc-has-it",
-      "summary": "<p>\n            Describe your problem, get the YC startup that solves it \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/yc-has-it?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1204015?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-22T22:13:47+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1412,7 +1403,7 @@
       "id": "7be8498d58f7f8a5d8cbe0a3be7b27c4af24a46a",
       "title": "Wisprkey",
       "link": "https://www.producthunt.com/products/wisprkey-mac-ai-assistant",
-      "summary": "<p>\n            Talk to any app on your Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wisprkey-mac-ai-assistant?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1203598?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Talk to any app on your Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wisprkey-mac-ai-assistant?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1203598?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-22T13:59:51+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1421,7 +1412,7 @@
       "id": "217f64d270d1d18b3f3d3809545cbf9d923ff24e",
       "title": "FluentDB",
       "link": "https://www.producthunt.com/products/fluentdb-2",
-      "summary": "<p>\n            The AI database client for Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fluentdb-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1203314?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            The AI database client for Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fluentdb-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1203314?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-22T08:36:28+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1430,7 +1421,7 @@
       "id": "40b0da284ed5c701b9dd640273f1959e3d9e274c",
       "title": "Islet",
       "link": "https://www.producthunt.com/products/islet-2",
-      "summary": "<p>\n            iPhone's Dynamic Island, brought to your Mac's notch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/islet-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1202982?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            iPhone's Dynamic Island, brought to your Mac's notch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/islet-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1202982?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-22T00:40:22+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1439,7 +1430,7 @@
       "id": "43dca08ce7a4f0757bb7884d4a90e050a8f9d211",
       "title": "ShellMate",
       "link": "https://www.producthunt.com/products/shellmate-2",
-      "summary": "<p>\n            The SSH workspace you'll actually enjoy using\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/shellmate-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1201154?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            The SSH workspace you'll actually enjoy using\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/shellmate-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1201154?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-20T07:15:54+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1448,7 +1439,7 @@
       "id": "e97b8e2c2f81b7a72b6018d85758f6ce20d6da40",
       "title": "Browser FX:",
       "link": "https://www.producthunt.com/products/browser-fx-chrome-audio-effects-midi",
-      "summary": "<p>\n            Transform your web audio with real-time effects\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/browser-fx-chrome-audio-effects-midi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1200988?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Transform your web audio with real-time effects\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/browser-fx-chrome-audio-effects-midi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1200988?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-20T01:31:54+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1457,7 +1448,7 @@
       "id": "6b66d37d96dc2e893d367cde3bf6ed34f006ce4f",
       "title": "Speech To Markdown",
       "link": "https://www.producthunt.com/products/speech-to-markdown",
-      "summary": "<p>\n            Harness local AI for notes\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/speech-to-markdown?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1200632?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Harness local AI for notes\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/speech-to-markdown?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1200632?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-19T14:30:46+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1466,8 +1457,17 @@
       "id": "cdef2d08a8186729ff633b70bb56b6834551b47b",
       "title": "Capsomnia",
       "link": "https://www.producthunt.com/products/capsomnia",
-      "summary": "<p>\n            Caps Lock keeps your Mac awake, even with the lid closed\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/capsomnia?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1200286?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Caps Lock keeps your Mac awake, even with the lid closed\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/capsomnia?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1200286?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-19T04:29:11+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "4dc24a0ac763ecc9e470269e50dc5f24fbe0716a",
+      "title": "Prosed",
+      "link": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "summary": "<p>\n            The AI book service that shows its work\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/prosed-turn-your-content-into-a-book?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1200227?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-19T01:23:23+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1475,7 +1475,7 @@
       "id": "f2fcc84ee533e8777e192eebf575ccab3f034113",
       "title": "Second Brain for Mac and Windows",
       "link": "https://www.producthunt.com/products/second-brain-cloudflare",
-      "summary": "<p>\n            Your AI memory, everywhere you work\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/second-brain-cloudflare?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1198621?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Your AI memory, everywhere you work\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/second-brain-cloudflare?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1198621?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-17T02:02:11+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1484,7 +1484,7 @@
       "id": "09de8edf8ddba6dc08dd7c2b871af1f4367123cf",
       "title": "HealthyNotch",
       "link": "https://www.producthunt.com/products/healthynotch",
-      "summary": "<p>\n            Work shouldn't cost you your health\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/healthynotch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1198277?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Work shouldn't cost you your health\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/healthynotch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1198277?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-16T14:38:59+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
