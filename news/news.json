@@ -1,17 +1,62 @@
 {
-  "generatedAt": "2026-07-26T16:01:44.462579+00:00",
+  "generatedAt": "2026-07-26T17:56:44.745485+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
+      "id": "ddc2e95bce19f9cc982eee7366e7d43ecb7802e7",
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+      "published": "2026-07-26T17:45:30+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "88e1e26832f02c5d81ae577ce52054be6cb25ee9",
+      "title": "Shein's IPO prospectus shows Q1 revenue of $9.05B, up 1% YoY, as it swings from $395M profit in Q1 2025 to $99M loss partly due to US' \"de minimis\" rule removal (Reuters)",
+      "link": "https://www.techmeme.com/260726/p6#a260726p6",
+      "summary": "<a href=\"https://www.reuters.com/legal/transactional/shein-reveals-key-financials-ahead-hong-kong-ipo-2026-07-26/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260726/i6.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260726/p6#a260726p6\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/legal/transactional/shein-reveals-key-financials-ahead-hong-kong-ipo-2026-07-26/\">Shein's IPO prospectus shows Q1 revenue of $9.05B, up 1% YoY, as it swings from $395M profit in Q1 2025 to $99M loss partly due to US' &ldquo;de minimis&rdquo; rule removal</a></b></span>&nbsp; &mdash;&nbsp; Shein swung to a $99 million net loss in the first quarter of this year, the draft Hong Kong listing prospectus &hellip; </p>",
+      "published": "2026-07-26T17:15:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "5ce9ca59cd69530408cd463db0c8293ef75980b7",
+      "title": "Inside one London founder house rewriting the founder-house rules",
+      "link": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "summary": "How one founder house is betting work-life balance can beat burnout .",
+      "published": "2026-07-26T17:03:19+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
       "id": "1299847843fbaa560aff62a04a78c47585712fc5",
       "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
       "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
       "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
-      "published": "2026-07-26T15:50:41+00:00",
+      "published": "2026-07-26T16:48:16+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "7bfddb19ee003b2bba6ab8fdf261f91a7830e24b",
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "published": "2026-07-26T16:33:13+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "6fbcfdf7d992284e9c8f08a913215493df53f02e",
+      "title": "TechCrunch Mobility: Uber bets on its former CEO",
+      "link": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "published": "2026-07-26T16:03:00+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
     },
     {
       "id": "47cd0c957e415d4ce3cf0eb634e88311a4f67e08",
@@ -66,15 +111,6 @@
       "published": "2026-07-26T14:04:51+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "ddc2e95bce19f9cc982eee7366e7d43ecb7802e7",
-      "title": "What we know so far about the Berlin Pride ramming attack",
-      "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
-      "published": "2026-07-26T13:40:29+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "1a6e8bf70e57d0b30293ed595b5ff5b08e54e678",
@@ -833,15 +869,6 @@
       "category": "deals"
     },
     {
-      "id": "32fb55458939dbf85bdaeb9fd58c456e1a4f3d0b",
-      "title": "A profile of Yang Zhilin, founder of Moonshot AI, which faced early doubts over revenue and model capabilities before its Kimi K3 delivered a \"DeepSeek moment\" (Financial Times)",
-      "link": "https://www.techmeme.com/260725/p8#a260725p8",
-      "summary": "<a href=\"https://www.ft.com/content/4730ad91-66aa-477c-9246-6d946afb0c8c?accessToken=zwAAAZ-V2Aafkc9HMK2RZqpHfNOSRm2UavsMjA.MEQCIFFQse3WZkO03-HtW1KpHRHSyXJikcbtRXscV0-HLRIRAiA55zHl7l-ehMK9kd6hrRNzg1rr6I13T2DBL_pfX-w-EA&amp;sharetype=gift&amp;token=fd3551ba-a528-44b0-9370-12f8085570a8&amp;syn-25a6b1a6=1\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260725/i8.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260725/p8#a260725p8\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/4730ad91-66aa-477c-9246-6d946afb0c8c?accessToken=zwAAAZ-V2Aafkc9HMK2RZqpHfNOSRm2UavsMjA.MEQCIFFQse3WZkO03-HtW1KpHRHSyXJikcbtRXscV0-HLRIRAiA55zHl7l-ehMK9kd6hrRNzg1rr6I13T2DBL_pfX-w-EA&amp;sharetype=gift&amp;token=fd3551ba-a528-44b0-9370-12f8085570a8&amp;syn-25a6b1a6=1\">A profile of Yang Zhilin, founder of Moonshot AI, which faced early doubts over revenue and model capabilities before its Kimi K3 delivered a &ldquo;DeepSeek moment&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; Known as &lsquo;Yang the genius&rsquo; by classmates, his new K3 model has closed the gap with leading US rivals</p>",
-      "published": "2026-07-25T06:35:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "1bb178a7b57fd404c8ac062647814266d7b8d89b",
       "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
       "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
@@ -1166,33 +1193,6 @@
       "category": "tech"
     },
     {
-      "id": "12df23ea141c05f77860ddac7e5cf747af44251a",
-      "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now",
-      "link": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-      "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
-      "published": "2026-07-24T17:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "5c94877cd8c294a30dbe6b91aa8b56c48567a7cf",
-      "title": "Anthropic launches Opus 5",
-      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-      "published": "2026-07-24T17:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "f71bdf8678987bf4f1f4b3321a95da1d1bebf299",
-      "title": "India’s move against Jack Dorsey’s Bitchat sparks legal debate",
-      "link": "https://techcrunch.com/2026/07/24/indias-move-against-jack-dorseys-bitchat-sparks-legal-debate/",
-      "summary": "The offline messaging app surged in popularity in India amid protests in New Delhi.",
-      "published": "2026-07-24T16:54:58+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "9fc6db77e87d99acf361579b8c5806b7c40af4d2",
       "title": "World chess chief faces endgame after EU announces Russia war sanctions",
       "link": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
@@ -1319,15 +1319,6 @@
       "category": "malaysia"
     },
     {
-      "id": "556199aaa34da9bd23d3a29a96eaa49ad7f9b9c4",
-      "title": "Speechius",
-      "link": "https://www.producthunt.com/products/speechius",
-      "summary": "<p>\n            The teleprompter that actually listens\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/speechius?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1205334?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-24T08:33:41+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "81cf19a7b00bc265bfb0df9fe613814cc5f45533",
       "title": "Samsung Galaxy Watch Ultra 2 and Watch 9 arrive in Malaysia: Snapdragon Wear Elite, brighter displays and AI health features",
       "link": "https://soyacincau.com/2026/07/24/samsung-galaxy-watch-ultra2-watch9-malaysia-launch-price-preorder/",
@@ -1445,6 +1436,15 @@
       "category": "events"
     },
     {
+      "id": "e97b8e2c2f81b7a72b6018d85758f6ce20d6da40",
+      "title": "Browser FX:",
+      "link": "https://www.producthunt.com/products/browser-fx-chrome-audio-effects-midi",
+      "summary": "<p>\n            Transform your web audio with real-time effects\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/browser-fx-chrome-audio-effects-midi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1200988?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-20T01:31:54+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "41c9e92002b9b08d28cbde4a02be59474708ed63",
       "title": "Openbase",
       "link": "https://www.producthunt.com/products/openbase-2",
@@ -1454,11 +1454,11 @@
       "category": "events"
     },
     {
-      "id": "cdef2d08a8186729ff633b70bb56b6834551b47b",
-      "title": "Capsomnia",
-      "link": "https://www.producthunt.com/products/capsomnia",
-      "summary": "<p>\n            Caps Lock keeps your Mac awake, even with the lid closed\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/capsomnia?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1200286?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-19T04:29:11+00:00",
+      "id": "6b66d37d96dc2e893d367cde3bf6ed34f006ce4f",
+      "title": "Speech To Markdown",
+      "link": "https://www.producthunt.com/products/speech-to-markdown",
+      "summary": "<p>\n            Harness local AI for notes\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/speech-to-markdown?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1200632?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-19T14:30:46+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
