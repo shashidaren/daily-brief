@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-07-26T19:05:08.530997+00:00",
+  "generatedAt": "2026-07-26T20:49:15.037066+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "ddc2e95bce19f9cc982eee7366e7d43ecb7802e7",
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
+      "published": "2026-07-26T20:34:23+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "eb269d5f1351481bb29502379f5a3fea6b66267e",
+      "title": "Making sense of the panic over Chinese AI",
+      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "published": "2026-07-26T19:40:57+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "ea17dafd09ca2e486ab9f7cad514afb4e2dca6b0",
+      "title": "Apple is banking on privacy to set its smart glasses apart",
+      "link": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+      "summary": "According to Mark Gurman, Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they'll launch by the end of 2027. Part of the hold-up may be around the company's efforts to get its privacy features and messaging in order. Smart glasses in general, and Meta's in particular, [&#8230;]",
+      "published": "2026-07-26T19:36:38+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "a0bb1c0d26fb045155fd30a645ae65b1aecb7cf1",
+      "title": "Once hailed as an AI visionary, Satya Nadella faces pressure as a compute crunch forces Microsoft to prioritize its own AI products over Azure cloud customers (Ashley Stewart/Business Insider)",
+      "link": "https://www.techmeme.com/260726/p7#a260726p7",
+      "summary": "<a href=\"https://www.businessinsider.com/inside-nadella-hardest-year-microsoft-ai-azure-github-2026-7\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260726/i7.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260726/p7#a260726p7\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ashley Stewart / <a href=\"https://www.businessinsider.com/\">Business Insider</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.businessinsider.com/inside-nadella-hardest-year-microsoft-ai-azure-github-2026-7\">Once hailed as an AI visionary, Satya Nadella faces pressure as a compute crunch forces Microsoft to prioritize its own AI products over Azure cloud customers</a></b></span>&nbsp; &mdash;&nbsp; Microsoft went all in on AI.&nbsp; Is its North Star now a noose?&nbsp; &mdash;&nbsp; Three years ago, Satya Nadella catapulted Microsoft to the front &hellip; </p>",
+      "published": "2026-07-26T19:35:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "852cc9db5a9592b61199a9b21253fbbd67a2745d",
+      "title": "Berlin Pride attack suspect shot and killed during police operation",
+      "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+      "published": "2026-07-26T19:21:26+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "ef86a8524c258c0f997d2e475259b88068354348",
       "title": "The US is charging an American citizen for wiping his phone at the border",
@@ -30,15 +75,6 @@
       "published": "2026-07-26T17:56:59+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "ddc2e95bce19f9cc982eee7366e7d43ecb7802e7",
-      "title": "What we know so far about the Berlin Pride ramming attack",
-      "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
-      "published": "2026-07-26T17:45:30+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "88e1e26832f02c5d81ae577ce52054be6cb25ee9",
@@ -464,15 +500,6 @@
       "category": "world"
     },
     {
-      "id": "cc38a4dbda0212f9d5f4f9cb103acb34a0ca664c",
-      "title": "What Love Island tells us about the changing face of dating",
-      "link": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
-      "summary": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
-      "published": "2026-07-25T23:31:49+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "1e02f2171f0febf21efb855396f87d47d9789857",
       "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
       "link": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
@@ -716,15 +743,6 @@
       "category": "tech"
     },
     {
-      "id": "f1138aac0a85e6e80cf3b7f560320479ca748fbc",
-      "title": "Is this e-reader case a gun?",
-      "link": "https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun",
-      "summary": "Is an e-reader case as dangerous as a Glock 19? Last month, Louisville, Kentucky-based creator Luke The Maker showed off a bizarre, 3D-printed, pistol-shaped case design for the popular minimalist Xteink X4 e-reader. The X4 lies vertically atop the plastic gun's slide, with a cutout on the side to access its buttons. Though the frame [&#8230;]",
-      "published": "2026-07-25T13:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "5664a269c77a5196288690276fde1351071f62d3",
       "title": "9to5Toys Battlestation Weekly: Black Friday in July PC gaming deals, Legion Go S SteamOS handheld $300 off, more",
       "link": "https://9to5toys.com/2026/07/25/9to5toys-battlestation-weekly-black-friday-in-july-sale-more/",
@@ -840,15 +858,6 @@
       "published": "2026-07-25T10:03:00+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "214c80dd52c3dcfb7e1abd0c4a2fe3e04791bb68",
-      "title": "Samsung announces a $200B+ contract to make chips for Broadcom through 2030, focusing on its 2nm and below process technologies for Broadcom's products (Hooyeon Kim/Bloomberg)",
-      "link": "https://www.techmeme.com/260725/p9#a260725p9",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-07-25/samsung-inks-200-billion-chip-supply-with-broadcom\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260725/i9.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260725/p9#a260725p9\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Hooyeon Kim / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-07-25/samsung-inks-200-billion-chip-supply-with-broadcom\">Samsung announces a $200B+ contract to make chips for Broadcom through 2030, focusing on its 2nm and below process technologies for Broadcom's products</a></b></span>&nbsp; &mdash;&nbsp; Samsung Electronics Co. won a contract worth more than $200 billion to make chips for Broadcom Inc., as the companies race to win a larger share of the AI infrastructure market.</p>",
-      "published": "2026-07-25T09:45:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "8204b30a7a2ac2ecde6f86a60f92e7bee1a43559",
@@ -1175,15 +1184,6 @@
       "category": "tech"
     },
     {
-      "id": "812f026d15de24b2eea8f1ffae7c28ffd38bf65d",
-      "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
-      "link": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
-      "summary": "Anduril is said to be raising a new round of funding that may push its valuation up to about $100 billion, per Reuters.",
-      "published": "2026-07-24T17:33:19+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "8d305437befea8f9c1017a677f2d803ffd34598d",
       "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
       "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
@@ -1207,15 +1207,6 @@
       "link": "https://www.producthunt.com/products/codexbar-lite",
       "summary": "<p>\n            Privacy-first Codex tracker for your macOS menu bar\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/codexbar-lite?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1205642?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-24T15:33:48+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "1f00bee7ef3213ddf17e3c845423c43e27b53a4c",
-      "title": "Heard",
-      "link": "https://www.producthunt.com/products/heard-2",
-      "summary": "<p>\n            Give Claude Code and Codex a voice\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/heard-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1205639?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-24T15:26:43+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1427,6 +1418,15 @@
       "category": "events"
     },
     {
+      "id": "217f64d270d1d18b3f3d3809545cbf9d923ff24e",
+      "title": "FluentDB",
+      "link": "https://www.producthunt.com/products/fluentdb-2",
+      "summary": "<p>\n            The AI database client for Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fluentdb-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1203314?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-22T08:36:28+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "9fea721cb7ad458befc22af6c952f5adde0025ff",
       "title": "Aymo AI",
       "link": "https://www.producthunt.com/products/aymo-ai",
@@ -1454,11 +1454,11 @@
       "category": "events"
     },
     {
-      "id": "cdef2d08a8186729ff633b70bb56b6834551b47b",
-      "title": "Capsomnia",
-      "link": "https://www.producthunt.com/products/capsomnia",
-      "summary": "<p>\n            Caps Lock keeps your Mac awake, even with the lid closed\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/capsomnia?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1200286?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-19T04:29:11+00:00",
+      "id": "6b66d37d96dc2e893d367cde3bf6ed34f006ce4f",
+      "title": "Speech To Markdown",
+      "link": "https://www.producthunt.com/products/speech-to-markdown",
+      "summary": "<p>\n            Harness local AI for notes\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/speech-to-markdown?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1200632?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-19T14:30:46+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
