@@ -1,12 +1,165 @@
 {
-  "generatedAt": "2026-07-30T22:10:33.243785+00:00",
+  "generatedAt": "2026-07-30T23:56:45.427298+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
-      "id": "5a0edd4ef8c67c8fca2be8049a65464a0d0ffe72",
-      "title": "Xbox CEO says the team has one year to start growing again",
+      "id": "69c7b300030e452297b1634c2b979a0c2369e271",
+      "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
+      "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel and Hamas have yet to comment on the announcement.",
+      "published": "2026-07-30T23:30:41+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "790eb8f77cc9b09aa68366008a55a821f55030e3",
+      "title": "Anthropic says it discovered three of its models had breached three organizations after launching a review in response to the OpenAI-Hugging Face incident (Anthropic)",
+      "link": "https://www.techmeme.com/260730/p61#a260730p61",
+      "summary": "<a href=\"https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i61.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p61#a260730p61\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.anthropic.com/\">Anthropic</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals\">Anthropic says it discovered three of its models had breached three organizations after launching a review in response to the OpenAI-Hugging Face incident</a></b></span>&nbsp; &mdash;&nbsp; In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet &hellip; </p>",
+      "published": "2026-07-30T23:30:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "d9b5a8ce49985a07d35dace1006b20c3c31fd256",
+      "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+      "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+      "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
+      "published": "2026-07-30T23:28:05+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "1836883b46873794389dabc69c704ad8a593c946",
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+      "published": "2026-07-30T23:25:58+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "5191401f82901ca0258a88e02b6d57fabce61ee4",
+      "title": "Sources: Zelenskyy asked Trump to secure Elon Musk's permission for the use of Starlink to guide drone strikes inside Russia, but Trump was noncommittal (The Atlantic)",
+      "link": "https://www.techmeme.com/260730/p60#a260730p60",
+      "summary": "<a href=\"https://www.theatlantic.com/national-security/2026/07/zelensky-asked-trump-for-a-favor-from-elon-musk/688122/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i60.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p60#a260730p60\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.theatlantic.com/\">The Atlantic</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theatlantic.com/national-security/2026/07/zelensky-asked-trump-for-a-favor-from-elon-musk/688122/\">Sources: Zelenskyy asked Trump to secure Elon Musk's permission for the use of Starlink to guide drone strikes inside Russia, but Trump was noncommittal</a></b></span>&nbsp; &mdash;&nbsp; Ukraine wants to start using Musk's Starlink to target ballistic-missile launchers inside Russia.&nbsp; &mdash;&nbsp; During closed-door talks &hellip; </p>",
+      "published": "2026-07-30T23:25:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "914f290e49cfd9809c59138d2321b18454494d79",
+      "title": "In a memo to employees, Xbox CEO Asha Sharma lays out priorities for the unit, including returning to player and revenue growth by the end of fiscal year 2027 (The Verge)",
+      "link": "https://www.techmeme.com/260730/p59#a260730p59",
+      "summary": "<a href=\"https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ik5PUGEzeFFTVUwiLCJwIjoiL2dhbWVzLzk3MzUyMC94Ym94LWNlby1tZW1vLW9uZS15ZWFyLWdyb3d0aCIsImV4cCI6MTc4NTg4MTczNCwiaWF0IjoxNzg1NDQ5NzM0fQ.algOvvB2pSSJyTRXYNP-weAUHyIZIquJVRaZLAr4rrA&amp;utm_medium=gift-link\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i59.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p59#a260730p59\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ik5PUGEzeFFTVUwiLCJwIjoiL2dhbWVzLzk3MzUyMC94Ym94LWNlby1tZW1vLW9uZS15ZWFyLWdyb3d0aCIsImV4cCI6MTc4NTg4MTczNCwiaWF0IjoxNzg1NDQ5NzM0fQ.algOvvB2pSSJyTRXYNP-weAUHyIZIquJVRaZLAr4rrA&amp;utm_medium=gift-link\">In a memo to employees, Xbox CEO Asha Sharma lays out priorities for the unit, including returning to player and revenue growth by the end of fiscal year 2027</a></b></span>&nbsp; &mdash;&nbsp; Asha Sharma wants Xbox to return to growth. Asha Sharma wants Xbox to return to growth.</p>",
+      "published": "2026-07-30T23:15:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "16944c3edcb4dbb8f2c8108854a33e144ca03ba4",
+      "title": "Anthropic says three of its models, including an internal research model, gained unauthorized access to real-world systems during internal cybersecurity testing (Sam Sabin/Axios)",
+      "link": "https://www.techmeme.com/260730/p58#a260730p58",
+      "summary": "<a href=\"https://www.axios.com/2026/07/30/anthropic-mythos-security-testing\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i58.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p58#a260730p58\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sam Sabin / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/2026/07/30/anthropic-mythos-security-testing\">Anthropic says three of its models, including an internal research model, gained unauthorized access to real-world systems during internal cybersecurity testing</a></b></span>&nbsp; &mdash;&nbsp; Some of Anthropic's most powerful models &mdash; including Mythos 5 and an internal research model &mdash; gained unauthorized access &hellip; </p>",
+      "published": "2026-07-30T23:10:05+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "878d04638b70717b9ec90f3a3c89e97fc1b894b0",
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+      "published": "2026-07-30T23:08:58+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "0eb8a39da8034b06af6581a5d93dc22a20699c0b",
+      "title": "The Commerce Dept. signed letters of intent for $874M in CHIPS Act funding in exchange for minority stakes in GlobalFoundries, Kepler, and five other companies (Miranda Nazzaro/The Hill)",
+      "link": "https://www.techmeme.com/260730/p57#a260730p57",
+      "summary": "<a href=\"https://thehill.com/policy/technology/6000186-commerce-ai-chips-stakes/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i57.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p57#a260730p57\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Miranda Nazzaro / <a href=\"http://www.thehill.com/\">The Hill</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://thehill.com/policy/technology/6000186-commerce-ai-chips-stakes/\">The Commerce Dept. signed letters of intent for $874M in CHIPS Act funding in exchange for minority stakes in GlobalFoundries, Kepler, and five other companies</a></b></span>&nbsp; &mdash;&nbsp; The Department of Commerce quietly announced this week it will designate more than $870 million in federal incentives &hellip; </p>",
+      "published": "2026-07-30T23:05:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "f1f10e15636ebbc8aebe4ee0920bb60f8735cbd5",
+      "title": "A fresh start: Teksi Madani policy looks at uplifting taxi drivers",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/31/a-fresh-start-teksi-madani-policy-looks-at-uplifting-taxi-drivers/229361",
+      "summary": "KUALA LUMPUR, July 31 &mdash; For many of Malaysia&rsquo;s ageing taxi drivers, dwindling passengers are only part of th...",
+      "published": "2026-07-30T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "8900705793204613e37da54aebae8a73210dabe4",
+      "title": "Digital detectives in Seoul hunt AI predators, deleting illicit porn and rescuing traumatised victims",
+      "link": "https://www.malaymail.com/news/life/2026/07/31/digital-detectives-in-seoul-hunt-ai-predators-deleting-illicit-porn-and-rescuing-traumatised-victims/229585",
+      "summary": "SEOUL, July 31 &mdash; Under banners emblazoned &ldquo;Solidarity&rdquo; and &ldquo;We stand together with victims&amp;rdquo...",
+      "published": "2026-07-30T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "32fa6df8cd1529a33e6028fe2ae6eee138f7e8f9",
+      "title": "Terengganu seafood fritters eatery keeps wood-fired tradition alive after three decades",
+      "link": "https://www.malaymail.com/news/life/2026/07/31/terengganu-seafood-fritters-eatery-keeps-wood-fired-tradition-alive-after-three-decades/229551",
+      "summary": "BANDAR PERMAISURI, July 31&nbsp;&mdash; A wood-fired stove that has been in use for more than three decades remains the...",
+      "published": "2026-07-30T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "009d14b11d61ca05f5fb01848173e9b2cf2597db",
+      "title": "Global council warns inequality deepens pandemics, urges debt relief and fair access to medicines",
+      "link": "https://www.malaymail.com/news/life/2026/07/31/global-council-warns-inequality-deepens-pandemics-urges-debt-relief-and-fair-access-to-medicines/229571",
+      "summary": "PARIS, July 31 &mdash; Economic inequality is the clearest way to predict how countries will fare during a pandemic, a h...",
+      "published": "2026-07-30T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "310140fd968e15e765b1af6b5716351c7837508d",
+      "title": "Crimea: Cliffs, fleets and history collide in Russia’s prized Black Sea peninsula",
+      "link": "https://www.malaymail.com/news/world/2026/07/31/crimea-cliffs-fleets-and-history-collide-in-russias-prized-black-sea-peninsula/229582",
+      "summary": "KYIV, July 31 &mdash; Ukraine has stepped up its targeting of Crimea, the Black Sea peninsula annexed by Russia from Ukr...",
+      "published": "2026-07-30T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "f353eb8c304387d4ed92eb3e6386ad032d5592a1",
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "published": "2026-07-30T22:41:41+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "0cc82112e7fa13ab10d03be628036c8172c2e54f",
+      "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+      "link": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
+      "summary": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company topped 1.5 billion paid subscriptions.",
+      "published": "2026-07-30T22:37:06+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "488d1fc43c568bb11e9398a954ce1db6c7e0a476",
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where people [&#8230;]",
+      "published": "2026-07-30T22:29:45+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "49f4d88965f1b884fd3d3479794d9e1a4deb7c62",
+      "title": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
       "link": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
       "summary": "After a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staff by the end of fiscal year 2027 (which runs through next June), \"we will return XBOX to player [&#8230;]",
       "published": "2026-07-30T22:10:13+00:00",
@@ -14,10 +167,10 @@
       "category": "tech"
     },
     {
-      "id": "ff5577c5185609cb4218b4eced1a1a51d506383a",
-      "title": "Coinbase reports Q2 revenue down 19% YoY to $1.2B, vs. $1.3B est., stablecoin revenue below est., and a wider-than-expected loss; COIN drops 6%+ after hours (CNBC)",
+      "id": "6a6a337b60204de0a64a1f1531fd87f3d4422ccd",
+      "title": "Coinbase reports Q2 revenue down 19% YoY to $1.2B, vs. $1.3B est., stablecoin revenue below est., and a wider-than-expected loss; COIN drops 5%+ after hours (CNBC)",
       "link": "https://www.techmeme.com/260730/p56#a260730p56",
-      "summary": "<a href=\"https://www.cnbc.com/2026/07/30/coinbase-coin-earnings-q2-2026.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i56.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p56#a260730p56\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/07/30/coinbase-coin-earnings-q2-2026.html\">Coinbase reports Q2 revenue down 19% YoY to $1.2B, vs. $1.3B est., stablecoin revenue below est., and a wider-than-expected loss; COIN drops 6%+ after hours</a></b></span>&nbsp; &mdash;&nbsp; Coinbase shares dropped in extended trading on Thursday after the crypto platform posted a wider-than-expected loss for the second quarter &hellip; </p>",
+      "summary": "<a href=\"https://www.cnbc.com/2026/07/30/coinbase-coin-earnings-q2-2026.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i56.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p56#a260730p56\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/07/30/coinbase-coin-earnings-q2-2026.html\">Coinbase reports Q2 revenue down 19% YoY to $1.2B, vs. $1.3B est., stablecoin revenue below est., and a wider-than-expected loss; COIN drops 5%+ after hours</a></b></span>&nbsp; &mdash;&nbsp; Coinbase shares dropped in extended trading on Thursday after the crypto platform posted a wider-than-expected loss for the second quarter &hellip; </p>",
       "published": "2026-07-30T22:00:01+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -59,19 +212,28 @@
       "category": "world"
     },
     {
+      "id": "fe24ea50fe511ac3f4696a1bf698c79e1ffe2829",
+      "title": "New Grand Theft Auto VI trailer/gameplay expected as soon as next week",
+      "link": "https://9to5toys.com/2026/07/30/new-grand-theft-auto-vi-trailer-gameplay/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/06/Grand-Theft-Auto-6-preorders.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Grand Theft Auto VI is coming, and quickly at that. Now less than 4 months away from your console, we are yet to see any gameplay for what might be the most anticipated game release in history, and the internet is anxiously waiting. It’s been over a year since we got a proper trailer, never mind gameplay, but, according to <a href=\"https://x.com/natethehate2/status/2082308922560385388?s=46\">an insider</a> with a very good track record, that will likely soon change, and it could be as soon as next week. </p>",
+      "published": "2026-07-30T21:13:00+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
       "id": "82e23e1063e0fdbd73e1c3dfbe00a9d442177408",
       "title": "Apple Q3: iPhone up 22% YoY to $54.25B, vs. $53.86B est., Mac up 29% to $10.35B, iPad down 6% to $6.19B, and Wearables, Home, and Accessories up 6% to $7.88B (Stephen Nellis/Reuters)",
       "link": "https://www.techmeme.com/260730/p54#a260730p54",
-      "summary": "<a href=\"https://www.reuters.com/business/retail-consumer/apple-revenue-profits-beat-expectations-iphone-mac-sales-2026-07-30/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i54.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p54#a260730p54\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Stephen Nellis / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/business/retail-consumer/apple-revenue-profits-beat-expectations-iphone-mac-sales-2026-07-30/\">Apple Q3: iPhone up 22% YoY to $54.25B, vs. $53.86B est., Mac up 29% to $10.35B, iPad down 6% to $6.19B, and Wearables, Home, and Accessories up 6% to $7.88B</a></b></span>&nbsp; &mdash;&nbsp; Apple (AAPL.O) on Thursday reported sales and profits that beat Wall Street expectations, fueled by its customers snapping up iPhones &hellip; </p>",
+      "summary": "<a href=\"https://www.reuters.com/business/retail-consumer/apple-revenue-profits-beat-expectations-iphone-mac-sales-2026-07-30/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i54.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p54#a260730p54\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Stephen Nellis / <a href=\"http://www.reuters.com/\">Reuters</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.reuters.com/business/retail-consumer/apple-revenue-profits-beat-expectations-iphone-mac-sales-2026-07-30/\">Apple Q3: iPhone up 22% YoY to $54.25B, vs. $53.86B est., Mac up 29% to $10.35B, iPad down 6% to $6.19B, and Wearables, Home, and Accessories up 6% to $7.88B</a></b></span>&nbsp; &mdash;&nbsp; Apple forecast sales for the current quarter ending in September would grow more slowly than Wall Street targeted as the iPhone maker struggled &hellip; </p>",
       "published": "2026-07-30T21:05:00+00:00",
       "source": "Techmeme",
       "category": "tech"
     },
     {
-      "id": "2ce5e0e437e2f8f27852ebc8055103f2fba491bd",
-      "title": "Apple reports Q3 revenue from Services, which includes the App Store, Apple TV, and more, grew 12% YoY to $30.74B, vs. $31.36B est.; AAPL drops 4%+ after hours (Todd Spangler/Variety)",
+      "id": "34066d5fcb98fb3a4d50b77a6211ebe5d356fa7f",
+      "title": "Apple reports Q3 revenue from Services, which includes the App Store, Apple TV, and more, grew 12% YoY to $30.74B, vs. $31.36B est.; AAPL drops 5%+ after hours (Todd Spangler/Variety)",
       "link": "https://www.techmeme.com/260730/p53#a260730p53",
-      "summary": "<a href=\"https://variety.com/2026/digital/news/apple-q3-2026-earnings-tim-cook-ceo-final-quarter-1236824534/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i53.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p53#a260730p53\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Todd Spangler / <a href=\"http://www.variety.com/\">Variety</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://variety.com/2026/digital/news/apple-q3-2026-earnings-tim-cook-ceo-final-quarter-1236824534/\">Apple reports Q3 revenue from Services, which includes the App Store, Apple TV, and more, grew 12% YoY to $30.74B, vs. $31.36B est.; AAPL drops 4%+ after hours</a></b></span>&nbsp; &mdash;&nbsp; For the three months ended June 27, Apple's Q3 of fiscal 2026, the tech giant reported total revenue of $109.4 billion, up 16%.</p>",
+      "summary": "<a href=\"https://variety.com/2026/digital/news/apple-q3-2026-earnings-tim-cook-ceo-final-quarter-1236824534/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i53.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p53#a260730p53\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Todd Spangler / <a href=\"http://www.variety.com/\">Variety</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://variety.com/2026/digital/news/apple-q3-2026-earnings-tim-cook-ceo-final-quarter-1236824534/\">Apple reports Q3 revenue from Services, which includes the App Store, Apple TV, and more, grew 12% YoY to $30.74B, vs. $31.36B est.; AAPL drops 5%+ after hours</a></b></span>&nbsp; &mdash;&nbsp; For the three months ended June 27, Apple's Q3 of fiscal 2026, the tech giant reported total revenue of $109.4 billion, up 16%.</p>",
       "published": "2026-07-30T20:55:00+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -89,7 +251,7 @@
       "id": "34754f8b85e5416fac6f68cc3e0e4d8ff01d1275",
       "title": "The loss of Situational Awareness",
       "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
-      "summary": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management,\" or \"Amaranth Advisors\" (named for the floral symbol for [&#8230;]",
+      "summary": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for [&#8230;]",
       "published": "2026-07-30T20:46:25+00:00",
       "source": "The Verge",
       "category": "tech"
@@ -104,10 +266,10 @@
       "category": "tech"
     },
     {
-      "id": "f32e8d104434e4712e1390d30293d55feefa1e60",
-      "title": "Reddit reports Q2 revenue up 61% YoY to $805M, vs. $730M est., forecasts Q3 revenue above est., says search referrals were \"choppy\"; RDDT drops 6%+ after hours (Jonathan Vanian/CNBC)",
+      "id": "e885884a3e316881f0c36413d3188925d261a458",
+      "title": "Reddit reports Q2 revenue up 61% YoY to $805M, vs. $730M est., forecasts Q3 revenue above est., says search referrals were \"choppy\"; RDDT drops 10%+ after hours (Jonathan Vanian/CNBC)",
       "link": "https://www.techmeme.com/260730/p51#a260730p51",
-      "summary": "<a href=\"https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i51.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p51#a260730p51\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jonathan Vanian / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html\">Reddit reports Q2 revenue up 61% YoY to $805M, vs. $730M est., forecasts Q3 revenue above est., says search referrals were &ldquo;choppy&rdquo;; RDDT drops 6%+ after hours</a></b></span>&nbsp; &mdash;&nbsp; Reddit reported second-quarter earnings on Thursday that beat on the top and the bottom lines, and the company issued guidance that sailed past expectations.</p>",
+      "summary": "<a href=\"https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i51.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p51#a260730p51\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jonathan Vanian / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html\">Reddit reports Q2 revenue up 61% YoY to $805M, vs. $730M est., forecasts Q3 revenue above est., says search referrals were &ldquo;choppy&rdquo;; RDDT drops 10%+ after hours</a></b></span>&nbsp; &mdash;&nbsp; Reddit reported second-quarter earnings on Thursday that beat on the top and the bottom lines, and the company issued guidance that sailed past expectations.</p>",
       "published": "2026-07-30T20:35:05+00:00",
       "source": "Techmeme",
       "category": "tech"
@@ -230,15 +392,6 @@
       "category": "deals"
     },
     {
-      "id": "ef21d74682353914bdf08f2b48e718d6644c3677",
-      "title": "Amazon researchers link the compromises of four npm packages, including axios, over the past 18 months to the North Korea-linked group tracked as Sapphire Sleet (Carly Page/The Register)",
-      "link": "https://www.techmeme.com/260730/p46#a260730p46",
-      "summary": "<a href=\"https://www.theregister.com/cyber-crime/2026/07/30/amazon-links-four-poisoned-npm-packages-to-one-north-korean-crew/5281120\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i46.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p46#a260730p46\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Carly Page / <a href=\"https://www.theregister.com/\">The Register</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theregister.com/cyber-crime/2026/07/30/amazon-links-four-poisoned-npm-packages-to-one-north-korean-crew/5281120\">Amazon researchers link the compromises of four npm packages, including axios, over the past 18 months to the North Korea-linked group tracked as Sapphire Sleet</a></b></span>&nbsp; &mdash;&nbsp; Researchers say Sapphire Sleet socially engineered maintainers before publishing malicious updates through trusted accounts</p>",
-      "published": "2026-07-30T18:45:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "f7c0e13691cf3c41e882cdd12c4c64f41757f0a9",
       "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
       "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
@@ -254,24 +407,6 @@
       "summary": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports.",
       "published": "2026-07-30T18:38:12+00:00",
       "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "4f92c40d1ca13f6e5e36e4a3fb4f974f834aff07",
-      "title": "At a hearing, a US judge says \"I don't see additional evidence\" from the Pentagon justifying its designation of Anthropic as a supply-chain risk (Maria Curi/Axios)",
-      "link": "https://www.techmeme.com/260730/p45#a260730p45",
-      "summary": "<a href=\"https://www.axios.com/2026/07/30/judge-pentagon-case-worse-anthropic\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i45.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p45#a260730p45\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Maria Curi / <a href=\"https://www.axios.com/\">Axios</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.axios.com/2026/07/30/judge-pentagon-case-worse-anthropic\">At a hearing, a US judge says &ldquo;I don't see additional evidence&rdquo; from the Pentagon justifying its designation of Anthropic as a supply-chain risk</a></b></span>&nbsp; &mdash;&nbsp; A federal judge on Thursday signaled she's become even more skeptical of the Pentagon's decision to blacklist Anthropic &hellip; </p>",
-      "published": "2026-07-30T18:30:00+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "039ee982743d72bdfb2443d5366335825e747497",
-      "title": "Source: Situational Awareness' assets have fallen to ~$10B after it liquidated some positions to meet margin calls, down from a reported $20B+ as of late May (Bloomberg)",
-      "link": "https://www.techmeme.com/260730/p44#a260730p44",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-07-30/situational-awareness-assets-fall-to-10-billion-after-losses\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i44.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p44#a260730p44\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-07-30/situational-awareness-assets-fall-to-10-billion-after-losses\">Source: Situational Awareness' assets have fallen to ~$10B after it liquidated some positions to meet margin calls, down from a reported $20B+ as of late May</a></b></span>&nbsp; &mdash;&nbsp; Assets at Leopold Aschenbrenner's hedge fund Situational Awareness have slumped to about $10 billion after it was forced to liquidate some positions to meet margin calls.</p>",
-      "published": "2026-07-30T18:15:01+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -293,30 +428,12 @@
       "category": "tech"
     },
     {
-      "id": "4c4dae288036ae9011968ccfe60ccc453d555418",
-      "title": "Okta agrees to acquire AI identity security startup Permiso; source: the acquisition is valued at just under $200M and is structured as an almost all-cash deal (Jagmeet Singh/TechCrunch)",
-      "link": "https://www.techmeme.com/260730/p43#a260730p43",
-      "summary": "<a href=\"https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i43.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p43#a260730p43\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jagmeet Singh / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/\">Okta agrees to acquire AI identity security startup Permiso; source: the acquisition is valued at just under $200M and is structured as an almost all-cash deal</a></b></span>&nbsp; &mdash;&nbsp; Okta on Thursday agreed to acquire AI identity security startup Permiso Security, betting that demand for protecting AI agents &hellip; </p>",
-      "published": "2026-07-30T18:05:13+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "faf9369af821465aac33eb1cdc5508de1a8d81b9",
       "title": "Govee&#8217;s portable smart lamp is down to one of its best prices to date",
       "link": "https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale",
       "summary": "Buying multiple lamps for different rooms can get expensive. Govee’s rechargeable Table Lamp Classic gives you one lamp you can use throughout your home instead of getting one for every room, and right now it’s down to $59 ($21 off) at Amazon. That’s just $4 shy of the all-time low set during Prime Day, and [&#8230;]",
       "published": "2026-07-30T18:01:26+00:00",
       "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "694835ddd5a3f83b653474d350d51491ac8d3a62",
-      "title": "Thinking Machines releases Inkling-Small, an open-weight model with 276B total and 12B active parameters, saying it \"achieves comparable performance\" to Inkling (Thinking Machines Lab)",
-      "link": "https://www.techmeme.com/260730/p42#a260730p42",
-      "summary": "<a href=\"https://thinkingmachines.ai/news/inkling-small/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i42.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p42#a260730p42\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://thinkingmachines.ai/\">Thinking Machines Lab</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://thinkingmachines.ai/news/inkling-small/\">Thinking Machines releases Inkling-Small, an open-weight model with 276B total and 12B active parameters, saying it &ldquo;achieves comparable performance&rdquo; to Inkling</a></b></span>&nbsp; &mdash;&nbsp; Try on Tinker  Model card  Hugging Face&nbsp; &mdash;&nbsp; Today, we are releasing Inkling-Small, an efficient open-weights model &hellip; </p>",
-      "published": "2026-07-30T18:00:33+00:00",
-      "source": "Techmeme",
       "category": "tech"
     },
     {
@@ -428,15 +545,6 @@
       "category": "deals"
     },
     {
-      "id": "c57257384a18df52695cf9e0c464cd1f7a4de5bf",
-      "title": "Google is working on Chrome updates that don’t require restarts",
-      "link": "https://www.theverge.com/tech/973174/google-chrome-update-no-restart",
-      "summary": "Google is working on a way to apply Chrome updates without requiring you to restart your browser. In a post on Thursday, Google outlines its approach to bug fixes in the age of AI, while noting that it's trying to make updates less disruptive by \"investing in 'dynamic patching' that will eliminate the need for [&#8230;]",
-      "published": "2026-07-30T17:00:00+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "c8d935855c006d0cbc9d25a15915e8b5ca40face",
       "title": "Ultra travel-friendly 25W Belkin MagSafe charging pad w/ kickstand and power adapter down at $34",
       "link": "https://9to5toys.com/2026/07/30/belkin-qi22-25w-wireless-charger-deal/",
@@ -514,15 +622,6 @@
       "link": "https://9to5toys.com/2026/07/30/kaliyadi-polarized-sunglasses-3-pack-17/",
       "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/KALIYADI-Polarized-Sunglasses-3-pack_2f7d10.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">KALIYADI Polarized Sunglasses (3-pack)</h2>\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $9 (Reg. $22)</h3>\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\">\n<figure class=\"wp-block-media-text__media\"><img alt=\"A red background with a white line\" class=\"wp-image-1222921 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/KALIYADI-Polarized-Sunglasses-3-pack-chart_7d5359.png?w=800\" width=\"968\" /></figure>\n<div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\">\n</p><h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n<p><span>If you’d like sunglasses that are a bit lighter than most, these swap out the traditional black frames for a transparent style. It’s a different take for sure, but I think these will look good on men and women alike.</span></p>\n</div>\n</div>\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>",
       "published": "2026-07-30T16:27:46+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "a2ae856347fe1207d18d0a8aa6f259953d6d8abd",
-      "title": "Bruno Marc’s PU leather low-top shoes are only $21 right now (Reg. $40)",
-      "link": "https://9to5toys.com/2026/07/30/bruno-marc-pu-leather-low-top-shoes/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Bruno-Marc-PU-Leather-Low-Top-Shoes.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">Bruno Marc PU Leather Low-Top Shoes</h2>\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $21 (Reg. $40)</h3>\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\">\n<figure class=\"wp-block-media-text__media\"><img alt=\"A red background with a white line\" class=\"wp-image-1222916 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Bruno-Marc-PU-Leather-Low-Top-Shoes-chart.png?w=800\" width=\"968\" /></figure>\n<div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\">\n</p><h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n<p><span>If you need a pair of shoes that won’t break the bank, I dig the look of these and also the price at just under $21 Prime shipped. I’ve personally been rocking a pair of similar Bruno Marc shoes for about a year now and they still look great.</span></p>\n</div>\n</div>\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>",
-      "published": "2026-07-30T16:24:14+00:00",
       "source": "9to5Toys",
       "category": "deals"
     },
@@ -644,57 +743,12 @@
       "category": "malaysia"
     },
     {
-      "id": "c7aa19727568089cc7dddd9e3f83dc7995ecbd4b",
-      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-      "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-      "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
-      "published": "2026-07-30T15:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "998bc5658f095dd92098ac367eccbd51093e927d",
       "title": "New MCP specification addresses the main barrier to enterprise adoption",
       "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
       "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
       "published": "2026-07-30T14:53:07+00:00",
       "source": "Ars Technica - All content",
-      "category": "tech"
-    },
-    {
-      "id": "24c8ebf91cdea5e5eaa77f53b8f9744e00bf0efd",
-      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-      "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-      "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
-      "published": "2026-07-30T14:48:32+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "924c9786e8158677079bb613cddb07eb42b526df",
-      "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
-      "link": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
-      "summary": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
-      "published": "2026-07-30T14:00:00+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "ec7f36b4a534812b8d4f72eea6d669843aa71dcf",
-      "title": "FTC sues Hims & Hers for allegedly sharing patients’ medical data with advertisers Meta and Snap",
-      "link": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
-      "summary": "The U.S. federal consumer watchdog said Hims &#038; Hers, which prescribes for sexual wellness and mental health conditions, used website trackers to share customers' information with advertisers.",
-      "published": "2026-07-30T13:30:52+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
-      "id": "d87181f128e66d91087a6abdc9cf96ffbe8a9af4",
-      "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
-      "link": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
-      "summary": "Federal safety regulators have given Zoox a temporary exemption that will allow the Amazon-owned autonomous vehicle technology company to charge customers for rides in its custom-built robotaxi.",
-      "published": "2026-07-30T13:09:03+00:00",
-      "source": "TechCrunch",
       "category": "tech"
     },
     {
@@ -860,33 +914,6 @@
       "category": "deals"
     },
     {
-      "id": "2e014bc0bf708dc08378f253d6a9e30900f105fa",
-      "title": "‘Papa Zola’ smash hit grosses RM69m, now set for global breakthrough September release",
-      "link": "https://www.malaymail.com/news/showbiz/2026/07/30/papa-zola-smash-hit-grosses-rm69m-now-set-for-global-breakthrough-september-release/229616",
-      "summary": "KUALA LUMPUR, July 30 &mdash; Monsta&rsquo;s animated feature film, Papa Zola The Movie, is set to make a remarkable bre...",
-      "published": "2026-07-30T11:40:11+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "11bd3251cbd07794aa6fc7bc72cabcf8cf252b95",
-      "title": "‘This is even fancier than the PM’s office’: Anwar launches Maybank’s new headquarters at Menara Merdeka Maybank",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/this-is-even-fancier-than-the-pms-office-anwar-launches-maybanks-new-headquarters-at-menara-merdeka-maybank/229615",
-      "summary": "KUALA LUMPUR, July 30 &mdash; Prime Minister Datuk Seri Anwar Ibrahim today officially launched Maybank&rsquo;s new head...",
-      "published": "2026-07-30T11:33:50+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "aff00acedf4dbf1579cbfcf8cf8f1a36e990e4e1",
-      "title": "YTL Hospitality REIT net profit surges to RM240.7m on lower finance costs",
-      "link": "https://www.malaymail.com/news/money/2026/07/30/ytl-hospitality-reit-net-profit-surges-to-rm2407m-on-lower-finance-costs/229614",
-      "summary": "KUALA LUMPUR, July 30 &mdash; YTL Hospitality Real Estate Investment Trust (YTL Hospitality REIT) recorded a higher net...",
-      "published": "2026-07-30T11:24:20+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "d880f69d9df6db4b60ff7044862c0ed13ac7cae2",
       "title": "Alleged Intel Nova Lake CPU With 12 Xe3P Graphics Core Could Require 65W To Fully Perform",
       "link": "https://www.lowyat.net/2026/400201/alleged-intel-nova-lake-cpu-with-12-xe3p-graphics-core-could-require-65w-to-fully-perform/",
@@ -894,24 +921,6 @@
       "published": "2026-07-30T11:10:14+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "7812ebaca395847a0b5f3f3a48453acf49ee8fe4",
-      "title": "Adidas shares plunge 17pc as World Cup marketing costs hammer quarterly profit",
-      "link": "https://www.malaymail.com/news/money/2026/07/30/adidas-shares-plunge-17pc-as-world-cup-marketing-costs-hammer-quarterly-profit/229612",
-      "summary": "FRANKFURT, July 30 &mdash; German sportswear maker Adidas missed profit expectations on Thursday after it reported resul...",
-      "published": "2026-07-30T11:08:44+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "7327e1f672ca9e5542c9ca4e6c51cc09f69dce8d",
-      "title": "MCMC, LLM sign MoU to boost highway communications infrastructure",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/mcmc-llm-sign-mou-to-boost-highway-communications-infrastructure/229613",
-      "summary": "CYBERJAYA, July 30 &mdash; The Malaysian Communications and Multimedia Commission (MCMC) and the Malaysian Highway Autho...",
-      "published": "2026-07-30T11:03:52+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "a641e3b6807715c39160549a2ee1b506ddcea18e",
@@ -1058,6 +1067,15 @@
       "category": "malaysia"
     },
     {
+      "id": "6a7dbdabd9cdcbdffa3263866e644ea17f44a684",
+      "title": "Sorinai",
+      "link": "https://www.producthunt.com/products/sorinai",
+      "summary": "<p>\n            The Interative AI Notepad for Meetings\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sorinai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1210366?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-30T05:29:16+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "648c319c76bea8818ba429d48ea39e0c39fd533a",
       "title": "CelcomDigi lets you buy smartphones with SPayLater at 0% instalment fee for 6 months",
       "link": "https://soyacincau.com/2026/07/30/celcomdigi-buy-smartphones-with-spaylater-6-months/",
@@ -1074,6 +1092,15 @@
       "published": "2026-07-30T03:03:12+00:00",
       "source": "BBC News",
       "category": "world"
+    },
+    {
+      "id": "ed563cc05c801180e372ec9703a1125f11ff1e32",
+      "title": "Virre",
+      "link": "https://www.producthunt.com/products/virre",
+      "summary": "<p>\n            A private relationship system for your career and network.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/virre?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1210292?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-30T02:58:26+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "c518eb3cbcd831baf0703b17de593e384ca9531f",
@@ -1202,15 +1229,6 @@
       "category": "events"
     },
     {
-      "id": "d7aa086dea4402206332893c7bdf442b6f111281",
-      "title": "Cursor Crane",
-      "link": "https://www.producthunt.com/products/cursor-crane",
-      "summary": "<p>\n            Control your Mac at the pace of your keyboard\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cursor-crane?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1210102?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-29T19:12:18+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "4df6a5956a3329298e41579e182f7e70a765f520",
       "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
       "link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
@@ -1301,15 +1319,6 @@
       "category": "tech"
     },
     {
-      "id": "a79d8c91db1d23841efcb50ff0f2c76a1ae657da",
-      "title": "PRNotch",
-      "link": "https://www.producthunt.com/products/prnotch",
-      "summary": "<p>\n            GitHub pull requests in your Mac's notch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/prnotch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1209848?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-29T13:52:23+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "b532f9eb965c74bf69c6ebe8d6c6c4dad919f25d",
       "title": "What happens when you put AI to work deciphering lost languages?",
       "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
@@ -1317,15 +1326,6 @@
       "published": "2026-07-29T13:23:31+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "93a7a6e5da9037116dba5c4d927d2cc036c05529",
-      "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
-      "link": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
-      "summary": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
-      "published": "2026-07-29T11:47:05+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "ae6b73cfcd926139665314577a70989e303a6afe",
