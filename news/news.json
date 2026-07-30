@@ -1,12 +1,390 @@
 {
-  "generatedAt": "2026-07-30T10:17:12.856061+00:00",
+  "generatedAt": "2026-07-30T12:25:24.445919+00:00",
   "counts": {
     "total": 165
   },
   "items": [
     {
-      "id": "51f86b35f239aca9b30a6556929a0e7690255e11",
-      "title": "TNG eWallet now an official JPA pension payout channel, comes with free Visa card",
+      "id": "68fa88ba1ce88b073c9e143b0b4ab6a763891aa2",
+      "title": "MACC recommends AI scanners at cargo terminals to strengthen dangerous goods checks",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/macc-recommends-ai-scanners-at-cargo-terminals-to-strengthen-dangerous-goods-checks/229625",
+      "summary": "PUTRAJAYA, July 30 &mdash; The Malaysian Anti-Corruption Commission (MACC) has submitted several improvement recommendat...",
+      "published": "2026-07-30T12:23:47+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "e776b72d667f8adfe856a50070b228a1d76376f3",
+      "title": "Workplace mental health policy draft expected by October, says health minister",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/workplace-mental-health-policy-draft-expected-by-october-says-health-minister/229624",
+      "summary": "REMBAU, July 30 &mdash; The Ministry of Health (MOH) aims to finalise the workplace mental health policy draft by Septem...",
+      "published": "2026-07-30T12:14:46+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "4fd98a5da4191abebe6e72df40e369ec90cf41b4",
+      "title": "High Court acquits preacher Fathi Na’im of rape, sexual assault charges",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/high-court-acquits-preacher-fathi-naim-of-rape-sexual-assault-charges/229623",
+      "summary": "KLANG, July 30 &mdash; The High Court has acquitted and discharged independent preacher Muhammad Fathi Na&rsquo;im Mazla...",
+      "published": "2026-07-30T12:12:04+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "c8dfac947353b7d92a68a1aa13471f13783751a9",
+      "title": "Intercontinental Exchange agrees to acquire electronic fixed-income trading platform MarketAxess for ~$6B in cash, a 33% premium, set to close in H1 2027 (Katherine Hamilton/Wall Street Journal)",
+      "link": "https://www.techmeme.com/260730/p19#a260730p19",
+      "summary": "<a href=\"https://www.wsj.com/finance/investing/intercontinental-exchange-to-buy-marketaxess-in-6-billion-deal-f5ff553a?st=SRySn3&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i19.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p19#a260730p19\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Katherine Hamilton / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/finance/investing/intercontinental-exchange-to-buy-marketaxess-in-6-billion-deal-f5ff553a?st=SRySn3&amp;reflink=desktopwebshare_permalink\">Intercontinental Exchange agrees to acquire electronic fixed-income trading platform MarketAxess for ~$6B in cash, a 33% premium, set to close in H1 2027</a></b></span>&nbsp; &mdash;&nbsp; The acquisition of MarketAxess is expected to close in the first half of 2027&nbsp; &mdash;&nbsp; Intercontinental Exchange agreed to acquire MarketAxess &hellip; </p>",
+      "published": "2026-07-30T12:10:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "b4cde4087d37d26f16914852257bac3e895405b7",
+      "title": "N. Sembilan polls: Anwar touts Pakatan manifesto as blueprint for continued state development",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/n-sembilan-polls-anwar-touts-pakatan-manifesto-as-blueprint-for-continued-state-development/229622",
+      "summary": "SEREMBAN, July 30 &mdash; Pakatan Harapan&rsquo;s (PH) manifesto for the Negeri Sembilan state election reflects the coa...",
+      "published": "2026-07-30T12:09:12+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "5d158717917acfd6774f3cd2ca94900a43e965bd",
+      "title": "Chicago‑born Pope Leo XIV says he loves US but won’t define himself American",
+      "link": "https://www.malaymail.com/news/life/2026/07/30/chicagoborn-pope-leo-xiv-says-he-loves-us-but-wont-define-himself-american/229620",
+      "summary": "ROME, July 30 &mdash; Pope Leo XIV has &ldquo;great love&rdquo; for the United States and what it stands for but doesn&amp;r...",
+      "published": "2026-07-30T12:07:30+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "f569ed076b6b42cdcf89106ea982507ed8b3b07b",
+      "title": "Kluang newborn death: Post-mortem confirms baby died from multiple stab wounds",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/kluang-newborn-death-post-mortem-confirms-baby-died-from-multiple-stab-wounds/229621",
+      "summary": "JOHOR BAHRU, July 30 &mdash; Police have confirmed that a newborn baby girl found in a toilet bowl at a terrace house us...",
+      "published": "2026-07-30T12:05:52+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "5c53b195cc578134349f47b0e625aaa18252bfb4",
+      "title": "Tabung Haji RCI report: AGC to assess findings for possible prosecution",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/tabung-haji-rci-report-agc-to-assess-findings-for-possible-prosecution/229619",
+      "summary": "KUALA LUMPUR, July 30 &mdash; The Attorney General&rsquo;s Chambers (AGC) will immediately review the Royal Commission o...",
+      "published": "2026-07-30T12:02:09+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "28aff0e6bee5849372809975073cf5f2c219e761",
+      "title": "Singapore organisation leads Ebola vaccine push as Congo outbreak kills nearly 1,500",
+      "link": "https://www.malaymail.com/news/singapore/2026/07/30/singapore-organisation-leads-ebola-vaccine-push-as-congo-outbreak-kills-nearly-1500/229618",
+      "summary": "PARIS, July 30 &mdash; A Singapore-based organisation announced Thursday it will develop an Ebola vaccine dubbed the &amp;ld...",
+      "published": "2026-07-30T12:01:04+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "9be764437c3a051fdfe34da581ee1653dc52a5eb",
+      "title": "A second lens makes DJI’s Osmo Pocket 4P my new favorite video camera",
+      "link": "https://www.theverge.com/gadgets/972456/dji-osmo-pocket-4p-review",
+      "summary": "DJI's Osmo Pocket 4P is a pretty simple proposition: an Osmo Pocket 4 with a second camera lens slapped inside. But is that extra lens worth the added size, weight, and cost relative to the regular Pocket 4? And how does it compare to the only rival on the market, Insta360's dual-lens Luna Ultra? It [&#8230;]",
+      "published": "2026-07-30T12:00:00+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "050d71076cf9076b9bdf71c2c566ab873f992ff6",
+      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+      "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
+      "published": "2026-07-30T11:48:50+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "80b76b6f7021658faa4f3776cd738d26fda0f4a7",
+      "title": "Get up to $950 back with Galaxy Z Fold 8/Ultra pre-orders at Amazon, but there are some things to consider first",
+      "link": "https://9to5toys.com/2026/07/30/950-galaxy-z-fold-8-ultra-preorders-amazon/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Galazy-Fold-8-preorder-Amazon-deals-02.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">While the official Samsung site is offering up to $1,230 in instant trade-in credit on $350 gift with trade-ins on pre-orders as well. </p>",
+      "published": "2026-07-30T11:44:17+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "2000a46fcd08034ea3a2adb7b2c37e8b787bc196",
+      "title": "Lawyer: Anwar will sue for defamation if PAS deputy president Tuan Ibrahim fails to respond in 48 hours",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/lawyer-anwar-will-sue-for-defamation-if-pas-deputy-president-tuan-ibrahim-fails-to-respond-in-48-hours/229617",
+      "summary": "KUALA LUMPUR, July 30 &mdash; Prime Minister Datuk Seri Anwar Ibrahim will sue PAS deputy president Datuk Seri Tuan Ibra...",
+      "published": "2026-07-30T11:44:08+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "b89d08bb7b94adaca02df9ad07b183a46892affc",
+      "title": "Impulse Gaming Now Selling Steam Machine For RM7,499",
+      "link": "https://www.lowyat.net/2026/400214/impulse-gaming-now-selling-steam-machine-for-rm7499/",
+      "summary": "<p>Impulse Gaming has confirmed that it is bringing in the Steam Machine, offering fans another physical retailer option besides M4G. There is, however, just one catch to the situation: for now, you&#8217;ll need to head down to the State of Johor Bahru if you want to purchase it. We confirmed with Impulse Gaming that, for [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/400214/impulse-gaming-now-selling-steam-machine-for-rm7499/\" rel=\"nofollow\">Impulse Gaming Now Selling Steam Machine For RM7,499</a> appeared first on <a href=\"https://www.lowyat.net\" rel=\"nofollow\">Lowyat.NET</a>.</p>",
+      "published": "2026-07-30T11:40:29+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "2e014bc0bf708dc08378f253d6a9e30900f105fa",
+      "title": "‘Papa Zola’ smash hit grosses RM69m, now set for global breakthrough September release",
+      "link": "https://www.malaymail.com/news/showbiz/2026/07/30/papa-zola-smash-hit-grosses-rm69m-now-set-for-global-breakthrough-september-release/229616",
+      "summary": "KUALA LUMPUR, July 30 &mdash; Monsta&rsquo;s animated feature film, Papa Zola The Movie, is set to make a remarkable bre...",
+      "published": "2026-07-30T11:40:11+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "4d567bc5fdcc0bd5d45831d75d10fd206be5b633",
+      "title": "Save $651 on HP’s RTX 5070Ti OMEN gaming desktop with 32GB RAM while it’s down to its lowest price at Walmart",
+      "link": "https://9to5toys.com/2026/07/30/hp-rtx-5070ti-omen-gaming-desktop-with-32gb-ram-lowest-price/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/HP-OMEN-45L-gaming-desktop.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Over at Walmart, you’ll find <a href=\"https://howl.link/xa5jyyyemfb6j\">HP’s OMEN 45L RTX 5070 Ti-powered gaming desktop down at <strong>$1,999 shipped</strong></a>. This is regularly a $2,650 machine, meaning you’re looking at a straight-up $651 discount on it right now. You’re looking at a powerful config here with an Intel Core Ultra 7 265K running the show with 32GB of RAM, and it’s one of the pricier offerings from HP. Today’s deal, however, takes a huge chunk of its price tag to make it easier on your wallet. This exact same OMEN 45L config alongside other OMEN configs are currently <a href=\"https://bestbuycreators.7tiv.net/DW17d2\">fetching their full prices at Best Buy</a>, and HP, in case you’re wondering has currently <a href=\"https://howl.link/hqs1y05ua32y3\">listed the same PC at $3,170</a>. Head below for more details.</p>",
+      "published": "2026-07-30T11:39:04+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "88ecc4fcb9210153fcfb53591fd3f41ebf801960",
+      "title": "Sources: Amazon staff find cases of \"catastrophically expensive\" AI costs due to a lack of controls, like $1.8M on Claude to match author details with listings (Rafe Rosner-Uddin/Financial Times)",
+      "link": "https://www.techmeme.com/260730/p18#a260730p18",
+      "summary": "<a href=\"https://www.ft.com/content/77baac40-d803-4084-94f3-a133653072cf\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i18.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p18#a260730p18\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Rafe Rosner-Uddin / <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/77baac40-d803-4084-94f3-a133653072cf\">Sources: Amazon staff find cases of &ldquo;catastrophically expensive&rdquo; AI costs due to a lack of controls, like $1.8M on Claude to match author details with listings</a></b></span>&nbsp; &mdash;&nbsp; E-commerce giant's staff said the new technology had caused budget overruns that sometimes took months to detect</p>",
+      "published": "2026-07-30T11:35:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "11bd3251cbd07794aa6fc7bc72cabcf8cf252b95",
+      "title": "‘This is even fancier than the PM’s office’: Anwar launches Maybank’s new headquarters at Menara Merdeka Maybank",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/this-is-even-fancier-than-the-pms-office-anwar-launches-maybanks-new-headquarters-at-menara-merdeka-maybank/229615",
+      "summary": "KUALA LUMPUR, July 30 &mdash; Prime Minister Datuk Seri Anwar Ibrahim today officially launched Maybank&rsquo;s new head...",
+      "published": "2026-07-30T11:33:50+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "bcc31fe73c33448203353322f681798ee525c8d7",
+      "title": "LinkedIn says it will keep GPU investment, compute, and storage capacity flat during FY 2027 after doubling GPU efficiency in the past six months (Paresh Dave/Wired)",
+      "link": "https://www.techmeme.com/260730/p17#a260730p17",
+      "summary": "<a href=\"https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i17.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p17#a260730p17\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Paresh Dave / <a href=\"http://www.wired.com/\">Wired</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/\">LinkedIn says it will keep GPU investment, compute, and storage capacity flat during FY 2027 after doubling GPU efficiency in the past six months</a></b></span>&nbsp; &mdash;&nbsp; Despite the ongoing AI boom, LinkedIn is holding the line on compute spending.&nbsp; Instead, it's challenging engineers to make every GPU count.</p>",
+      "published": "2026-07-30T11:25:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "aff00acedf4dbf1579cbfcf8cf8f1a36e990e4e1",
+      "title": "YTL Hospitality REIT net profit surges to RM240.7m on lower finance costs",
+      "link": "https://www.malaymail.com/news/money/2026/07/30/ytl-hospitality-reit-net-profit-surges-to-rm2407m-on-lower-finance-costs/229614",
+      "summary": "KUALA LUMPUR, July 30 &mdash; YTL Hospitality Real Estate Investment Trust (YTL Hospitality REIT) recorded a higher net...",
+      "published": "2026-07-30T11:24:20+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "d880f69d9df6db4b60ff7044862c0ed13ac7cae2",
+      "title": "Alleged Intel Nova Lake CPU With 12 Xe3P Graphics Core Could Require 65W To Fully Perform",
+      "link": "https://www.lowyat.net/2026/400201/alleged-intel-nova-lake-cpu-with-12-xe3p-graphics-core-could-require-65w-to-fully-perform/",
+      "summary": "<p>Rumours have it that the upcoming Intel Nova Lake processor, specifically, an alleged SKU with 12 Xe3P graphics cores, will require a 65W TDP in order to run effectively. There&#8217;s just one problem: the rumour doesn&#8217;t say if this is a base power or peak power, although the latter feels a little on the fence. [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/400201/alleged-intel-nova-lake-cpu-with-12-xe3p-graphics-core-could-require-65w-to-fully-perform/\" rel=\"nofollow\">Alleged Intel Nova Lake CPU With 12 Xe3P Graphics Core Could Require 65W To Fully Perform</a> appeared first on <a href=\"https://www.lowyat.net\" rel=\"nofollow\">Lowyat.NET</a>.</p>",
+      "published": "2026-07-30T11:10:14+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "4c2c8f983a8295b041c65681921deb41efd495b7",
+      "title": "Disney CEO Josh D'Amaro is leading a tech overhaul of Disney+ to close the gap with Netflix and YouTube, including better recommendations and vertical videos (Bloomberg)",
+      "link": "https://www.techmeme.com/260730/p16#a260730p16",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-07-30/disney-ceo-d-amaro-wants-to-overhaul-disney-streaming-to-compete-with-netflix\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i16.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p16#a260730p16\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-07-30/disney-ceo-d-amaro-wants-to-overhaul-disney-streaming-to-compete-with-netflix\">Disney CEO Josh D'Amaro is leading a tech overhaul of Disney+ to close the gap with Netflix and YouTube, including better recommendations and vertical videos</a></b></span>&nbsp; &mdash;&nbsp; Streaming has been a drag on Disney's share price as subscriber growth stalled.&nbsp; A tech overhaul and more foreign-language shows are in the cards.</p>",
+      "published": "2026-07-30T11:10:05+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "7812ebaca395847a0b5f3f3a48453acf49ee8fe4",
+      "title": "Adidas shares plunge 17pc as World Cup marketing costs hammer quarterly profit",
+      "link": "https://www.malaymail.com/news/money/2026/07/30/adidas-shares-plunge-17pc-as-world-cup-marketing-costs-hammer-quarterly-profit/229612",
+      "summary": "FRANKFURT, July 30 &mdash; German sportswear maker Adidas missed profit expectations on Thursday after it reported resul...",
+      "published": "2026-07-30T11:08:44+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "7a29dd502518139c48cce80a6dadeee52ea35fe7",
+      "title": "Google Pixelsnap Case for Pixel 10/Pro back down at $35 on Amazon (Reg. $60)",
+      "link": "https://9to5toys.com/2026/07/30/google-pixelsnap-case-pixel-10-pro-deals/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Google-PIxelsnap-gear-deals-6.webp?w=1600\" /></div><p class=\"wp-block-paragraph\">Just after catching a series of major summer deals across the Pixel 10 phone lineup, we wanted to highlight the notable 30% price drops on the official Google Pixelsnap Phone Case for Google Pixel 10 and Pixel 10 Pro over at Amazon. </p>",
+      "published": "2026-07-30T11:05:53+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "7327e1f672ca9e5542c9ca4e6c51cc09f69dce8d",
+      "title": "MCMC, LLM sign MoU to boost highway communications infrastructure",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/mcmc-llm-sign-mou-to-boost-highway-communications-infrastructure/229613",
+      "summary": "CYBERJAYA, July 30 &mdash; The Malaysian Communications and Multimedia Commission (MCMC) and the Malaysian Highway Autho...",
+      "published": "2026-07-30T11:03:52+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "ec92af3d52e2d125ec81cda71e4e11c0a7e755b4",
+      "title": "Best Buy launches 1-day Windows Copilot+ PC flash sale: Up to $600 off 2026 Surface Laptops and 2-in-1s, more from $300",
+      "link": "https://9to5toys.com/2026/07/30/best-buy-launches-1-day-windows-copilot-pc-flash-sale-up-to-600-off/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Best-Buy-flash-sale-on-Surface.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Alongside its ongoing <a href=\"https://bestbuycreators.7tiv.net/4aKALL\">Back to School sale</a> and as part of its <a href=\"https://bestbuycreators.7tiv.net/LKWMAM\">daily deals lineup</a>, Best Buy is offering a handful of <a href=\"https://bestbuycreators.7tiv.net/LKWMAM\">solid deals on Windows laptops</a> today with prices <a href=\"https://bestbuycreators.7tiv.net/LKWMAM\">starting at <strong>$299.99 shipped</strong></a>. The standout offers are on <a href=\"https://bestbuycreators.7tiv.net/LKWMAM\">Microsoft’s latest 2026 Surface Pro 2-in-1s and Surface Laptops</a>, which have now dropped to new all-time lows, beating the prices we first tracked earlier this week. There are also a couple of GIGABYTE gaming laptops included in the sale, with <a href=\"https://bestbuycreators.7tiv.net/LKWMAM\">discounts reaching as much as <strong>$600</strong></a>. Head below for a closer look at the most notable laptop deals available today.</p>",
+      "published": "2026-07-30T10:56:16+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "914cd6541e62d6c2f236ec3f835adc6ab0272da6",
+      "title": "An AI avatar of Brazil's jailed ex-president Jair Bolsonaro, who is banned from communicating publicly, is testing new AI rules ahead of Brazil's 2026 elections (Financial Times)",
+      "link": "https://www.techmeme.com/260730/p15#a260730p15",
+      "summary": "<a href=\"https://www.ft.com/content/e18c380f-c25d-4e91-8135-d9c2424ab720\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i15.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p15#a260730p15\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/e18c380f-c25d-4e91-8135-d9c2424ab720\">An AI avatar of Brazil's jailed ex-president Jair Bolsonaro, who is banned from communicating publicly, is testing new AI rules ahead of Brazil's 2026 elections</a></b></span>&nbsp; &mdash;&nbsp; Lawyers for former president insist he did not authorise the projection following legal challenge from leftwing groups</p>",
+      "published": "2026-07-30T10:55:00+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "94f1bdd3235e7a4e095d26f5aefa8b4eea4b7dea",
+      "title": "MACC forms special task force to review and examine Tabung Haji RCI report",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/macc-forms-special-task-force-to-review-and-examine-tabung-haji-rci-report/229611",
+      "summary": "PUTRAJAYA, July 30 &mdash; The Malaysian Anti-Corruption Commission (MACC) has set up a special task force to review and...",
+      "published": "2026-07-30T10:53:35+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "a641e3b6807715c39160549a2ee1b506ddcea18e",
+      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+      "published": "2026-07-30T10:49:14+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "d3b995ac8147ac2743e8b5083d827ad626033590",
+      "title": "Rare M5 MacBook Air deals: 10-Core base model $150 off, 13-inch w/ 70W charger at $1,199",
+      "link": "https://9to5toys.com/2026/07/30/rare-m5-macbook-air-deals/",
+      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/05/Midnight-MacBook-Air-M5-deal-01.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Alongside the ongoing $50 price drop on AirPods Pro 3 this week and some deals on upgraded MacBook Air configurations at up to <a href=\"https://9to5toys.com/2026/07/28/24gb-15-inch-m5-macbook-air-lowest-price/\"><strong>$200 off</strong></a>, today we spotted some discount on a more affordable 13-inch M5 MacBook Air. Firstly, a rare price drop on the base model with the <a href=\"https://bhpho.to/4wOypoV\">upgraded 10-Core GPU at <strong>$150 off</strong></a>, and next the same base model 13-inch but with the <a href=\"https://bhpho.to/3Rpxqfn\">upgraded 70W Apple Power Adapter down at $1,199</a>. </p>",
+      "published": "2026-07-30T10:46:51+00:00",
+      "source": "9to5Toys",
+      "category": "deals"
+    },
+    {
+      "id": "65ac132914d3a043b2f5a386b69822b2668fa24a",
+      "title": "How compute could become over 10x costlier as AI capabilities and monetization outpace supply, and a look at the implications if Anthropic hits $1T in revenue (Dwarkesh Patel/Dwarkesh Podcast)",
+      "link": "https://www.techmeme.com/260730/p14#a260730p14",
+      "summary": "<a href=\"https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i14.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p14#a260730p14\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Dwarkesh Patel / <a href=\"https://www.dwarkesh.com/\">Dwarkesh Podcast</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive\">How compute could become over 10x costlier as AI capabilities and monetization outpace supply, and a look at the implications if Anthropic hits $1T in revenue</a></b></span>&nbsp; &mdash;&nbsp; If a human-level software engineer that could run on an H100 equivalent, at current market rates for software engineers, that H100 should rent for over $250k a year.</p>",
+      "published": "2026-07-30T10:45:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "2c3da4aec6a0ade6c9a4da6c3c6c70fa7345ab7d",
+      "title": "Fahmi: Starlink To Trial Direct-To-Cell Satellite Service In Malaysia",
+      "link": "https://www.lowyat.net/2026/400206/starlink-direct-to-cell-malaysia-trial/",
+      "summary": "<p>Malaysia could soon join the growing list of countries testing satellite-to-phone connectivity, with Starlink planning to conduct a trial of its Direct-to-Device (D2D, or also known as Direct-to-Cell) technology in the country. Speaking at the memorandum of understanding (MoU) exchange between the Malaysian Highway Authority (LLM) and the Malaysian Communications and Multimedia Commission (MCMC) earlier, [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/400206/starlink-direct-to-cell-malaysia-trial/\" rel=\"nofollow\">Fahmi: Starlink To Trial Direct-To-Cell Satellite Service In Malaysia</a> appeared first on <a href=\"https://www.lowyat.net\" rel=\"nofollow\">Lowyat.NET</a>.</p>",
+      "published": "2026-07-30T10:39:03+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "9c89a3af4d57bebbaf75ca35f6224142f4904765",
+      "title": "Ringgit closes flat against US dollar, mostly higher versus regional currencies Thursday",
+      "link": "https://www.malaymail.com/news/money/2026/07/30/ringgit-closes-flat-against-us-dollar-mostly-higher-versus-regional-currencies-thursday/229609",
+      "summary": "KUALA LUMPUR, July 30 &mdash; The ringgit closed mostly higher against regional currencies and was flat against the US d...",
+      "published": "2026-07-30T10:38:17+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "efeb86de410edc3c98c41636c7a2942d3cbe036e",
+      "title": "ExploitGym creator and Berkeley researcher Jingxuan He says other AI models have tried to cheat but OpenAI's \"was at a much larger scale than we'd encountered\" (Bloomberg)",
+      "link": "https://www.techmeme.com/260730/p13#a260730p13",
+      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-07-29/creator-of-test-that-openai-models-tried-to-cheat-sounds-alarm\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i13.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p13#a260730p13\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-07-29/creator-of-test-that-openai-models-tried-to-cheat-sounds-alarm\">ExploitGym creator and Berkeley researcher Jingxuan He says other AI models have tried to cheat but OpenAI's &ldquo;was at a much larger scale than we'd encountered&rdquo;</a></b></span>&nbsp; &mdash;&nbsp; A group of university researchers that developed benchmarks to test the cybersecurity capabilities of AI systems &hellip; </p>",
+      "published": "2026-07-30T10:35:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "520f5e3999369eeca0bc5d21040162df87ce999a",
+      "title": "Nicaraguan leader proposes extending presidential term by another year",
+      "link": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer.",
+      "published": "2026-07-30T10:34:07+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "4e19f6d13d06436011d8fd38c165aa038ca9581d",
+      "title": "Bursa Malaysia charts new roadmap with tokenisation, ETFs and stronger IPO pipeline",
+      "link": "https://www.malaymail.com/news/money/2026/07/30/bursa-malaysia-charts-new-roadmap-with-tokenisation-etfs-and-stronger-ipo-pipeline/229601",
+      "summary": "KUALA LUMPUR, July 30 &mdash; Bursa Malaysia Bhd is set to unveil its strategic roadmap for 2027-2030 in the fourth quar...",
+      "published": "2026-07-30T10:33:13+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "6c29219e36cdb4c35eb3bd9f309252a0a6d50666",
+      "title": "SwitchBot makes a better fan",
+      "link": "https://www.theverge.com/tech/972986/switchbot-makes-a-better-fan",
+      "summary": "I was already a big fan of SwitchBot's big circulator fan I recently reviewed, and now we're getting the SwitchBot Battery Circulator Fan 2 Pro. Priced at $119.99, it ditches the height-adjustable stand but increases battery life, throw distance, and wind speed while adding native Matter-over-Wi-Fi, allowing it to join your smart home without needing [&#8230;]",
+      "published": "2026-07-30T10:30:55+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "82226ca9ddb01846843f6a6965e0953a548521ba",
+      "title": "You Can Now Book Bolt Rides Via ChatGPT",
+      "link": "https://www.lowyat.net/2026/400194/you-can-now-book-bolt-rides-via-chatgpt/",
+      "summary": "<p>The proliferation of generative AI sees it getting integrated into all sorts of things these days. One example is in the e-hailing field, with Grab previously offering a month of ChatGPT Plus to its Unlimited subscribers. More recently, Bolt has gotten in on the action, and in a more direct way. The Estonian company announced [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/400194/you-can-now-book-bolt-rides-via-chatgpt/\" rel=\"nofollow\">You Can Now Book Bolt Rides Via ChatGPT</a> appeared first on <a href=\"https://www.lowyat.net\" rel=\"nofollow\">Lowyat.NET</a>.</p>",
+      "published": "2026-07-30T10:30:32+00:00",
+      "source": "Lowyat.NET",
+      "category": "deals"
+    },
+    {
+      "id": "a10da2f8f74f187cb2684925057fb70c10826aab",
+      "title": "Penang JPJ issues 1,328 summonses to foreign drivers under Ops PeWA since Jan 1",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/penang-jpj-issues-1328-summonses-to-foreign-drivers-under-ops-pewa-since-jan-1/229604",
+      "summary": "BUTTERWORTH, July 30 &mdash; The Penang Road Transport Department (JPJ) has issued 1,328 summonses to foreign drivers fo...",
+      "published": "2026-07-30T10:27:41+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "a19605f00f957757db51eb58676cbe5d1e29919c",
+      "title": "The EU formally launches a bidding process to develop AI Gigafactories, expecting to unlock ~€30B of investment, closing on November 12 with awards in July 2027 (Edith Hancock/Wall Street Journal)",
+      "link": "https://www.techmeme.com/260730/p12#a260730p12",
+      "summary": "<a href=\"https://www.wsj.com/world/europe/eu-opens-call-for-creation-of-local-ai-gigafactories-c286213d?st=ERydLq&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i12.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p12#a260730p12\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Edith Hancock / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/world/europe/eu-opens-call-for-creation-of-local-ai-gigafactories-c286213d?st=ERydLq&amp;reflink=desktopwebshare_permalink\">The EU formally launches a bidding process to develop AI Gigafactories, expecting to unlock ~&euro;30B of investment, closing on November 12 with awards in July 2027</a></b></span>&nbsp; &mdash;&nbsp; The commission expects the call to unlock around $34.40 billion in investment&nbsp; &mdash;&nbsp; The European Union formally launched &hellip; </p>",
+      "published": "2026-07-30T10:25:02+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "78e8fd5b8802954135a50e89ae91f431c95e8286",
+      "title": "Malaysia highways to get 77 new telecommunications towers to improve coverage, says works minister",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/malaysia-highways-to-get-77-new-telecommunications-towers-to-improve-coverage-says-works-minister/229603",
+      "summary": "CYBERJAYA, July 30 &mdash; A total of 77 new telecommunications towers are targeted to be built along about 50 kilometre...",
+      "published": "2026-07-30T10:24:25+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "e83bcc3e4082aed3dc1b3961260aa387c18019ac",
+      "title": "Penang’s Jalan Magazine to close for three days from Aug 7 for LRT works",
+      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/penangs-jalan-magazine-to-close-for-three-days-from-aug-7-for-lrt-works/229602",
+      "summary": "GEORGE TOWN, July 30 &mdash; A section of Jalan Magazine towards Lebuh Carnarvon near Komtar here will be closed in stag...",
+      "published": "2026-07-30T10:20:40+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "8061b2b3ed94b220a372a353e4601c77118106f3",
+      "title": "Govt retirees can now choose TNG eWallet to receive their monthly pension",
       "link": "https://soyacincau.com/2026/07/30/tng-ewallet-now-an-official-jpa-pension-payout-channel-comes-with-free-visa-card/",
       "summary": "Touch &#8216;n Go Digital (TNG Digital) is supporting the Public Service Department (JPA) in a new financial inclusion initiative, offering TNG eWallet as an alternative payment channel for eligible pensioners. This move is aimed at retirees who face challenges receiving their monthly pensions through conventional banking channels, particularly in situations where bank accounts are frozen [&#8230;]",
       "published": "2026-07-30T10:12:10+00:00",
@@ -14,31 +392,13 @@
       "category": "malaysia"
     },
     {
-      "id": "fd4bf2f276deb13cc71cbf0a52bcd0bd9b359d2d",
-      "title": "Zayn Rayyan case: High Court to hear mother Ismanira’s appeal against five-year jail term on Aug 19",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/zayn-rayyan-case-high-court-to-hear-mother-ismaniras-appeal-against-five-year-jail-term-on-aug-19/229598",
-      "summary": "SHAH ALAM, July 30 &mdash; The High Court today set August 19 to hear Ismanira Abdul Manaf&rsquo;s appeal against her co...",
-      "published": "2026-07-30T10:11:49+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "c01f5a1197bfc4678bc44ce6462e4641f21c62f6",
-      "title": "OpenAI says using its Responses API harness with GPT-5.6 Sol tripled its ARC-AGI-3 score and used fewer tokens, after Sol with the official harness scored 7.8% (OpenAI)",
+      "id": "bc48d222990a2c11bb7bf31492beee4a2c2bba55",
+      "title": "OpenAI says using its Responses API harness with GPT-5.6 Sol tripled its ARC-AGI-3 score with fewer output tokens, after Sol with the official harness got 7.8% (OpenAI)",
       "link": "https://www.techmeme.com/260730/p11#a260730p11",
-      "summary": "<a href=\"https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p11#a260730p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://openai.com/\">OpenAI</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores\">OpenAI says using its Responses API harness with GPT-5.6 Sol tripled its ARC-AGI-3 score and used fewer tokens, after Sol with the official harness scored 7.8%</a></b></span>&nbsp; &mdash;&nbsp; A sped-up video of GPT-5.6 Sol attempting to solve puzzles in the ARC-AGI-3 benchmark, with the official harness (left) &hellip; </p>",
+      "summary": "<a href=\"https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i11.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p11#a260730p11\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://openai.com/\">OpenAI</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores\">OpenAI says using its Responses API harness with GPT-5.6 Sol tripled its ARC-AGI-3 score with fewer output tokens, after Sol with the official harness got 7.8%</a></b></span>&nbsp; &mdash;&nbsp; A sped-up video of GPT-5.6 Sol attempting to solve puzzles in the ARC-AGI-3 benchmark, with the official harness (left) &hellip; </p>",
       "published": "2026-07-30T10:10:02+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "b3e81de57bb3a138c958b591a0ca90cfca4f6b40",
-      "title": "Australian Electoral Commission reports 200,000 fines issued over 2025 election no‑shows",
-      "link": "https://www.malaymail.com/news/world/2026/07/30/australian-electoral-commission-reports-200000-fines-issued-over-2025-election-noshows/229597",
-      "summary": "CANBERRA, July 30 &mdash; More than 200,000 Australians who failed to cast their mandatory votes in the 2025 general ele...",
-      "published": "2026-07-30T10:09:23+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "b5c9ff59afece67e3504d3f808dd2f26a573187d",
@@ -59,15 +419,6 @@
       "category": "deals"
     },
     {
-      "id": "050d71076cf9076b9bdf71c2c566ab873f992ff6",
-      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine during a Russian attack on the city of Lviv.",
-      "published": "2026-07-30T09:56:06+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "dcf6400d3121fdc973353ae62780382afd778478",
       "title": "Innolight, China's leading maker of optical transceivers, closes 2% below its Hong Kong IPO price after raising ~$6.8B, the city's biggest listing since 2019 (Bloomberg)",
       "link": "https://www.techmeme.com/260730/p10#a260730p10",
@@ -86,22 +437,13 @@
       "category": "deals"
     },
     {
-      "id": "41aee277304d39dc79c3256a13126f81e16cedf5",
-      "title": "Sources: ex-OpenAI executive Leopold Aschenbrenner's Situational Awareness hedge fund has sought to raise capital after heavy losses during the recent AI rout (Financial Times)",
+      "id": "8cea084d194e468768f69bd36eaf3c442b0b5bda",
+      "title": "Sources: ex-OpenAI researcher Leopold Aschenbrenner's Situational Awareness hedge fund has sought to raise capital after heavy losses during the recent AI rout (Financial Times)",
       "link": "https://www.techmeme.com/260730/p9#a260730p9",
-      "summary": "<a href=\"https://www.ft.com/content/280336bf-dbed-405f-b38e-5af644a21549\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i9.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p9#a260730p9\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/280336bf-dbed-405f-b38e-5af644a21549\">Sources: ex-OpenAI executive Leopold Aschenbrenner's Situational Awareness hedge fund has sought to raise capital after heavy losses during the recent AI rout</a></b></span>&nbsp; &mdash;&nbsp; Hedge fund has held talks with existing investors and lenders in recent days&nbsp; &mdash;&nbsp; Situational Awareness, the $20bn hedge fund founded &hellip; </p>",
+      "summary": "<a href=\"https://www.ft.com/content/280336bf-dbed-405f-b38e-5af644a21549\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i9.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p9#a260730p9\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/280336bf-dbed-405f-b38e-5af644a21549\">Sources: ex-OpenAI researcher Leopold Aschenbrenner's Situational Awareness hedge fund has sought to raise capital after heavy losses during the recent AI rout</a></b></span>&nbsp; &mdash;&nbsp; Hedge fund has held talks with existing investors and lenders in recent days&nbsp; &mdash;&nbsp; Situational Awareness, the $20bn hedge fund founded &hellip; </p>",
       "published": "2026-07-30T09:40:05+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "4c6d14fbef896d66feb82fac433d6727eb953c78",
-      "title": "Driver charged with murder over Teluk Intan crash killing two teenage schoolgirls",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/driver-charged-with-murder-over-teluk-intan-crash-killing-two-teenage-schoolgirls/229587",
-      "summary": "TELUK INTAN, July 30 &mdash; The car driver involved in a road crash that claimed the lives of two teenage girls on Jala...",
-      "published": "2026-07-30T09:38:28+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "9ea9079920ee1acb166be0adeef52ed032d0a057",
@@ -113,15 +455,6 @@
       "category": "world"
     },
     {
-      "id": "fabd263a491105af33b87988f95f7fbb5eb69615",
-      "title": "High costs push Singapore private car numbers to lowest since 2019, rentals hit record",
-      "link": "https://www.malaymail.com/news/singapore/2026/07/30/high-costs-push-singapore-private-car-numbers-to-lowest-since-2019-rentals-hit-record/229595",
-      "summary": "SINGAPORE, July 30 &mdash; Singapore&rsquo;s private car population has fallen to its lowest level since 2019, while the...",
-      "published": "2026-07-30T09:21:43+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "50c1c0c8875599299e7e36a222d20a773b91b35b",
       "title": "Sony Looking To Buy Lens Maker Tamron",
       "link": "https://www.lowyat.net/2026/400185/sony-looking-to-buy-tamron/",
@@ -129,24 +462,6 @@
       "published": "2026-07-30T09:20:21+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "d6fe71fc58458a353d4de9e13bc1c200b04fedcf",
-      "title": "Special Parliament sitting on Tabung Haji RCI report set for Aug 11, says Anwar",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/special-parliament-sitting-on-tabung-haji-rci-report-set-for-aug-11-says-anwar/229594",
-      "summary": "KUALA LUMPUR, July 30 &mdash; Prime Minister Datuk Seri Anwar Ibrahim revealed that the special parliamentary sitting on...",
-      "published": "2026-07-30T09:20:09+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "f53ffef353ff9021c5ee48fc62b5a0a60b9dbb39",
-      "title": "The Tabung Haji RCI changes the political equation beyond Negeri Sembilan — Phar Kim Beng",
-      "link": "https://www.malaymail.com/news/what-you-think/2026/07/30/the-tabung-haji-rci-changes-the-political-equation-beyond-negeri-sembilan-phar-kim-beng/229592",
-      "summary": "JULY 30 &mdash; The release of the Royal Commission of Inquiry (RCI) into Lembaga Tabung Haji has transformed Malaysia&amp;r...",
-      "published": "2026-07-30T09:16:37+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "1fd9fc673f02ec1411d79d1e3160c28d2d731f4f",
@@ -158,22 +473,13 @@
       "category": "tech"
     },
     {
-      "id": "a9a2c113ec3d885a1f417d752b451bf4bba671b8",
-      "title": "Big listings incoming: Bursa expects up to two major IPOs before year-end",
-      "link": "https://www.malaymail.com/news/money/2026/07/30/big-listings-incoming-bursa-expects-up-to-two-major-ipos-before-year-end/229591",
-      "summary": "KUALA LUMPUR, July 30 &mdash; Bursa Malaysia Bhd expects one or two large initial public offerings (IPOs) in the second...",
-      "published": "2026-07-30T09:12:19+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "d3a411637f17015ed062d1ea7f239271717e1083",
-      "title": "All paws accounted for: 25 cats rescued from Japan mall gutted by quake-triggered explosion",
-      "link": "https://www.malaymail.com/news/world/2026/07/30/all-paws-accounted-for-25-cats-rescued-from-japan-mall-gutted-by-quake-triggered-explosion/229590",
-      "summary": "KUMAMOTO, July 30 &mdash; Twenty-five cats stuck inside a shopping mall in Japan gutted in an explosion after a major ea...",
-      "published": "2026-07-30T09:07:37+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
+      "id": "17d4886736fdb7ffe356679c33053b827322eb1a",
+      "title": "Thousands evacuated in Crete as European wildfires continue to rage",
+      "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+      "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+      "published": "2026-07-30T09:10:11+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "9a387295205c4d69ebf27da32894744e2fec23d5",
@@ -203,15 +509,6 @@
       "category": "deals"
     },
     {
-      "id": "4e13f3868f4bd3ebb063d5e9f0a8af480b36c13d",
-      "title": "PSD taps TNG eWallet to provide pension lifeline for retirees facing banking access issues",
-      "link": "https://www.malaymail.com/news/money/2026/07/30/psd-taps-tng-ewallet-to-provide-pension-lifeline-for-retirees-facing-banking-access-issues/229589",
-      "summary": "KUALA LUMPUR, July 30 &mdash; TNG Digital Sdn Bhd today underscored its support for the Public Service Department&rsquo;...",
-      "published": "2026-07-30T08:49:52+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "63b1d03360bcbd10e1d9b3949cd41bc653601a1c",
       "title": "Stripe says thousands of solo operators on its service generate $1M+ in annual revenue, and those making $10M+ nearly tripled between 2023 and 2025, aided by AI (Te-Ping Chen/Wall Street Journal)",
       "link": "https://www.techmeme.com/260730/p6#a260730p6",
@@ -230,120 +527,12 @@
       "category": "deals"
     },
     {
-      "id": "a641e3b6807715c39160549a2ee1b506ddcea18e",
-      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-      "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
-      "published": "2026-07-30T08:42:17+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "b705b60c525aa3aad6c15d631e8b63ad51c99ae2",
-      "title": "Committee overseeing haj operations needs statutory status, says Tabung Haji RCI",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/committee-overseeing-haj-operations-needs-statutory-status-says-tabung-haji-rci/229581",
-      "summary": "KUALA LUMPUR, July 30 &mdash; The Royal Commission of Inquiry (RCI) on Lembaga Tabung Haji (TH) has recommended that the...",
-      "published": "2026-07-30T08:35:17+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "dbeccd644d9d0c9d6148b376dd852bbbba5b8f40",
-      "title": "Nova Widianto to leave BAM after guiding Malaysia to historic mixed doubles badminton world title",
-      "link": "https://www.malaymail.com/news/sports/2026/07/30/nova-widianto-to-leave-bam-after-guiding-malaysia-to-historic-mixed-doubles-badminton-world-title/229586",
-      "summary": "KUALA LUMPUR, July 30 &mdash; Mixed Doubles Head Coach Nova Widianto will conclude his stint with the Badminton Associat...",
-      "published": "2026-07-30T08:33:29+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "f634ac8105ca895354cf0100080b448574677929",
-      "title": "Home Ministry starts refugee checks as Malaysia prepares to send back 5,000 Myanmar nationals",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/home-ministry-starts-refugee-checks-as-malaysia-prepares-to-send-back-5000-myanmar-nationals/229580",
-      "summary": "BUKIT KAYU HITAM, July 30 &mdash; The Home Ministry (KDN) has begun identifying, documenting and screening Rohingya refu...",
-      "published": "2026-07-30T08:24:43+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "b4d7d55e961b7cdcd82a2eee2c35b86d8615ae94",
-      "title": "Eddie Howe exits Newcastle just 16 months after ending club’s 56-year trophy drought",
-      "link": "https://www.malaymail.com/news/sports/2026/07/30/eddie-howe-set-for-newcastle-exit-just-16-months-after-ending-clubs-56-year-trophy-drought/229584",
-      "summary": "LONDON, July 30 &mdash; Eddie Howe is leaving his role as Newcastle manager after five years at St James&rsquo; Park, th...",
-      "published": "2026-07-30T08:23:38+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "6510ad2867cda0d452d8442f28568ee637f8b21d",
-      "title": "No easy route for the Lions! Singapore face hosts Indonesia and old rivals Malaysia in daunting Fifa Asean Cup draw",
-      "link": "https://www.malaymail.com/news/singapore/2026/07/30/no-easy-route-for-the-lions-singapore-face-hosts-indonesia-and-old-rivals-malaysia-in-daunting-fifa-asean-cup-draw/229583",
-      "summary": "SINGAPORE, July 30 &mdash; Singapore will test its progress against some of South-east Asia&rsquo;s toughest opposition...",
-      "published": "2026-07-30T08:19:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "a1a4d4fde6481c77f6b08c565290908f847abf25",
-      "title": "As polling day nears, what’s on Negeri Sembilan voters’ minds?",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/as-polling-day-nears-whats-on-negeri-sembilan-voters-minds/229456",
-      "summary": "SEREMBAN, July 30 &mdash; Over the past decade, Aina Mohamed, 33, has watched Negeri Sembilan evolve, with new public fa...",
-      "published": "2026-07-30T08:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "136183a7053e837ce65e5bdeda8256b72a8f1957",
-      "title": "Love scams and fake investments cost Terengganu RM21m in first half of 2026",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/love-scams-and-fake-investments-cost-terengganu-rm21m-in-first-half-of-2026/229578",
-      "summary": "KUALA TERENGGANU, July 30 &mdash; Terengganu continues to record an increase in commercial crime cases, with 1,009 cases...",
-      "published": "2026-07-30T07:56:16+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "261253de72dbbdc5ead79829cca72238c8591940",
-      "title": "Heart op recovery keeps Najib from court in bid to revive suit against ex-AG Thomas, but majority grants delay — with a warning",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/heart-op-recovery-keeps-najib-from-court-in-bid-to-revive-suit-against-ex-ag-thomas-but-majority-grants-delay-with-a-warning/229577",
-      "summary": "PUTRAJAYA, July 30 &mdash; In a 2-1 majority decision, the Apex Court today granted Datuk Seri Najib Tun Razak&rsquo;s a...",
-      "published": "2026-07-30T07:46:29+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "9de5bdc3264e56a8fef8e9c12f9c3b287069c39c",
       "title": "Wise rolls out DuitNow QR and DuitNow fund transfer feature in Malaysia",
       "link": "https://soyacincau.com/2026/07/30/wise-now-supports-duitnow-qr-and-duitnow-fund-transfers-in-malaysia/",
       "summary": "Wise has announced its direct integration into Malaysia’s national payments network, PayNet. This milestone makes Malaysia the ninth market globally, and the fifth in the Asia Pacific region, where Wise has secured direct access to a domestic payment system. As a result of this connection, the platform is introducing seamless payment features for its users, [&#8230;]",
       "published": "2026-07-30T07:39:07+00:00",
       "source": "SoyaCincau",
-      "category": "malaysia"
-    },
-    {
-      "id": "6d8de4a3db14121b0b4329287adc1bc40f77ed17",
-      "title": "Pakistan says US-Iran negotiations ‘ongoing’ on de-escalation, Hormuz",
-      "link": "https://www.malaymail.com/news/world/2026/07/30/pakistan-says-us-iran-negotiations-ongoing-on-de-escalation-hormuz/229576",
-      "summary": "ISLAMABAD, July 30 &mdash; Mediator Pakistan confirmed today that negotiations between the United States and Iran were &...",
-      "published": "2026-07-30T07:29:44+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "3bb7667019a3e8e8bff41a59e8044a2d526b865a",
-      "title": "Sabah sets aside RM100m for scholarships, targets future healthcare talent",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/30/sabah-sets-aside-rm100m-for-scholarships-targets-future-healthcare-talent/229575",
-      "summary": "KOTA KINABALU, July 30 &mdash; Sabah is setting aside more than RM100 million for state scholarships this year as it exp...",
-      "published": "2026-07-30T07:27:32+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "5cb9d7154f49159b1583e31babce1884024baaed",
-      "title": "Singtel confirms Optus stake talks as Australian unit faces court action over emergency-call failures",
-      "link": "https://www.malaymail.com/news/singapore/2026/07/30/singtel-confirms-optus-stake-talks-as-australian-unit-faces-court-action-over-emergency-call-failures/229573",
-      "summary": "SINGAPORE, July 30 &mdash; Singtel has confirmed it is in talks with several parties over a possible sale of a stake in...",
-      "published": "2026-07-30T07:25:28+00:00",
-      "source": "Malay Mail  -  All",
       "category": "malaysia"
     },
     {
@@ -374,24 +563,6 @@
       "category": "tech"
     },
     {
-      "id": "bc4bcb85370b0c577d72c31c1d6f323315896be5",
-      "title": "Though Google's SynthID tech for watermarking AI images is hard to break, there will always be ways to create AI-generated content without any labeling (Ryan Whitwam/Ars Technica)",
-      "link": "https://www.techmeme.com/260730/p4#a260730p4",
-      "summary": "<a href=\"https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i4.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p4#a260730p4\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Ryan Whitwam / <a href=\"https://arstechnica.com/\">Ars Technica</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/\">Though Google's SynthID tech for watermarking AI images is hard to break, there will always be ways to create AI-generated content without any labeling</a></b></span>&nbsp; &mdash;&nbsp; Deciding what's real on the Internet won't be easy in the future.&nbsp; &mdash;&nbsp; The scale of AI-generated media can be hard to grasp.</p>",
-      "published": "2026-07-30T06:30:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "98caeb0a68d1edf82a52e189ad2c1a45f46b1a5d",
-      "title": "A look at ByteDance's efforts to become China's leading company across all aspects of AI, from frontier models and video generation to infrastructure and chips (Financial Times)",
-      "link": "https://www.techmeme.com/260730/p3#a260730p3",
-      "summary": "<a href=\"https://www.ft.com/content/fde2dd97-317a-41b8-a746-d917c5680397?accessToken=zwAAAZ-xgTrfkdP94t2XMXpBuNOnRtkXxWgDlw.MEUCIEGNOinMBAok1x316ztlSZr6pA1hZXNuSxqKrKKuVf6WAiEA4L1c3yjASw7ivssNZ0Ekj2igLZO0dtdGbnyaskqfM24&amp;sharetype=gift&amp;token=3b94dd13-e9f2-4eb0-a194-5e5946634b70\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i3.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p3#a260730p3\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/fde2dd97-317a-41b8-a746-d917c5680397?accessToken=zwAAAZ-xgTrfkdP94t2XMXpBuNOnRtkXxWgDlw.MEUCIEGNOinMBAok1x316ztlSZr6pA1hZXNuSxqKrKKuVf6WAiEA4L1c3yjASw7ivssNZ0Ekj2igLZO0dtdGbnyaskqfM24&amp;sharetype=gift&amp;token=3b94dd13-e9f2-4eb0-a194-5e5946634b70\">A look at ByteDance's efforts to become China's leading company across all aspects of AI, from frontier models and video generation to infrastructure and chips</a></b></span>&nbsp; &mdash;&nbsp; The Chinese company behind TikTok is pouring resources into the technology.&nbsp; Some think it is a big gamble.</p>",
-      "published": "2026-07-30T06:10:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "9ea9158ee051471d85e2a493aa63cdac691b464d",
       "title": "Google Gemini Spark arrives in Malaysia: How agentic AI will handle your daily digital chores",
       "link": "https://soyacincau.com/2026/07/30/google-gemini-spark-arrives-in-malaysia-how-agentic-ai-will-handle-your-daily-digital-chores/",
@@ -399,15 +570,6 @@
       "published": "2026-07-30T05:32:42+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "7453f1ef4716c8ddc4fa73d10ff66c47506b9ac2",
-      "title": "Airlines are using AI to adjust seat prices more quickly, capturing more revenue while narrowing the pricing gaps that once let travelers find bargain fares (K Oanh Ha/Bloomberg)",
-      "link": "https://www.techmeme.com/260730/p2#a260730p2",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-07-29/higher-airfares-loom-on-busy-routes-as-ai-squeezes-out-bargains\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i2.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p2#a260730p2\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> K Oanh Ha / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-07-29/higher-airfares-loom-on-busy-routes-as-ai-squeezes-out-bargains\">Airlines are using AI to adjust seat prices more quickly, capturing more revenue while narrowing the pricing gaps that once let travelers find bargain fares</a></b></span>&nbsp; &mdash;&nbsp; Globetrotters hunting for airfare bargains are in for a rude awakening: the days of stumbling across a cheap seat on a popular flight could soon disappear.</p>",
-      "published": "2026-07-30T05:30:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
     },
     {
       "id": "6a7dbdabd9cdcbdffa3263866e644ea17f44a684",
@@ -428,24 +590,6 @@
       "category": "deals"
     },
     {
-      "id": "4a6519824d14e7329e1a0223e1ce63cf4361ea1f",
-      "title": "As the UK slips in Ookla's mobile download speed and Opensignal's network quality rankings, operators blame planning rules and low prices for underinvestment (Financial Times)",
-      "link": "https://www.techmeme.com/260730/p1#a260730p1",
-      "summary": "<a href=\"https://www.ft.com/content/db17cde4-eb38-4bac-9413-a3e8ea3a6630\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260730/i1.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260730/p1#a260730p1\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> <a href=\"https://www.ft.com/\">Financial Times</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.ft.com/content/db17cde4-eb38-4bac-9413-a3e8ea3a6630\">As the UK slips in Ookla's mobile download speed and Opensignal's network quality rankings, operators blame planning rules and low prices for underinvestment</a></b></span>&nbsp; &mdash;&nbsp; Operators blame planning rules and low prices for a lack of investment.&nbsp; Each morning, commuters heading into London's Blackfriars station &hellip; </p>",
-      "published": "2026-07-30T05:20:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "d80f8cc790694ce0d9d343ff4ccfe8892a841cf4",
-      "title": "Nike Air Zoom Hyperslide Is A Recovery Slide With Built-In Heat And Vibration",
-      "link": "https://www.lowyat.net/2026/400116/nike-air-zoom-hyperslide-recovery-slide/",
-      "summary": "<p>By this point, Nike is no stranger when it comes to footwear tech. If you’ve been keeping track, the footwear giant’s catalogue ranges from shoes that could boost one’s performance to ones that could automatically lace themselves. However, the brand&#8217;s latest collaborative product with Hyperice, the Nike Air Zoom Hyperslide, is instead designed with recovery [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/400116/nike-air-zoom-hyperslide-recovery-slide/\" rel=\"nofollow\">Nike Air Zoom Hyperslide Is A Recovery Slide With Built-In Heat And Vibration</a> appeared first on <a href=\"https://www.lowyat.net\" rel=\"nofollow\">Lowyat.NET</a>.</p>",
-      "published": "2026-07-30T05:15:21+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
       "id": "648c319c76bea8818ba429d48ea39e0c39fd533a",
       "title": "CelcomDigi lets you buy smartphones with SPayLater at 0% instalment fee for 6 months",
       "link": "https://soyacincau.com/2026/07/30/celcomdigi-buy-smartphones-with-spaylater-6-months/",
@@ -453,15 +597,6 @@
       "published": "2026-07-30T04:46:06+00:00",
       "source": "SoyaCincau",
       "category": "malaysia"
-    },
-    {
-      "id": "13a75dbce9acedce85539a41ebe67c2b6fb4daba",
-      "title": "Samsung Galaxy S26 FE May Be Pricier Than Its Predecessor, Says Leak",
-      "link": "https://www.lowyat.net/2026/400097/samsung-galaxy-s26-fe-may-be-pricier/",
-      "summary": "<p>As smartphone prices continue to creep upwards, even devices marketed as more affordable options are becoming harder on the wallet. One recent example is the Samsung Galaxy A27, which launched at a higher price than its predecessor despite making compromises in some areas. Unfortunately, it looks like the trend may also extend to the Samsung [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/400097/samsung-galaxy-s26-fe-may-be-pricier/\" rel=\"nofollow\">Samsung Galaxy S26 FE May Be Pricier Than Its Predecessor, Says Leak</a> appeared first on <a href=\"https://www.lowyat.net\" rel=\"nofollow\">Lowyat.NET</a>.</p>",
-      "published": "2026-07-30T03:08:16+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
     },
     {
       "id": "3aa39bb1d96a570825fe58938b88b0a8538d022b",
@@ -491,33 +626,6 @@
       "category": "world"
     },
     {
-      "id": "53ceef2f5160b23de115ba8a8d384c6bd383f14e",
-      "title": "UGREEN Officially Launches Honkai: Star Rail Collection With Limited Collectible Gift Box",
-      "link": "https://www.lowyat.net/2026/400078/ugreen-honkai-star-rail-collection/",
-      "summary": "<p>UGREEN has officially launched its first Honkai: Star Rail co-branded collection in Malaysia, bringing a selection of mobile charging and tracking accessories to fans of the space fantasy RPG. This collaboration actually marks the second time the brand has collaborated with HoYoverse, following last year’s Genshin Impact collection. Much like the previous collaboration, this collection [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/400078/ugreen-honkai-star-rail-collection/\" rel=\"nofollow\">UGREEN Officially Launches Honkai: Star Rail Collection With Limited Collectible Gift Box</a> appeared first on <a href=\"https://www.lowyat.net\" rel=\"nofollow\">Lowyat.NET</a>.</p>",
-      "published": "2026-07-30T02:54:03+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
-      "id": "1891326b28941a8480be83c734253a8614e70bf6",
-      "title": "In Q4, Microsoft's Anthropic investment saw a $3.2B gain, while its OpenAI investment was marked down ~$600M but has generated a $5B gain on a full-year basis (Julie Bort/TechCrunch)",
-      "link": "https://www.techmeme.com/260729/p52#a260729p52",
-      "summary": "<a href=\"https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260729/i52.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260729/p52#a260729p52\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Julie Bort / <a href=\"http://techcrunch.com/\">TechCrunch</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/\">In Q4, Microsoft's Anthropic investment saw a $3.2B gain, while its OpenAI investment was marked down ~$600M but has generated a $5B gain on a full-year basis</a></b></span>&nbsp; &mdash;&nbsp; When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked &hellip; </p>",
-      "published": "2026-07-30T02:50:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "e2ae8cfc4416eb6f7cf69b5af8c88d3c31f8db8e",
-      "title": "Selangor Govt To Assist Workers Affected By Panasonic Shah Alam Factory Closure",
-      "link": "https://www.lowyat.net/2026/400079/selangor-govt-panasonic-shah-alam/",
-      "summary": "<p>The Selangor government is preparing intervention measures for around 400 workers affected by the closure of Panasonic AVC Networks Kuala Lumpur Malaysia Sdn Bhd&#8217;s (PAVCKM) manufacturing plant in Shah Alam. The state expects to receive detailed information on the affected employees today, allowing agencies to begin coordinating assistance. During a press conference yesterday, Selangor Menteri [&#8230;]</p>\n<p>The post <a href=\"https://www.lowyat.net/2026/400079/selangor-govt-panasonic-shah-alam/\" rel=\"nofollow\">Selangor Govt To Assist Workers Affected By Panasonic Shah Alam Factory Closure</a> appeared first on <a href=\"https://www.lowyat.net\" rel=\"nofollow\">Lowyat.NET</a>.</p>",
-      "published": "2026-07-30T02:35:36+00:00",
-      "source": "Lowyat.NET",
-      "category": "deals"
-    },
-    {
       "id": "c340bf0cfe44437b9aa9ff8c27737f9a9f0f74b8",
       "title": "Pally",
       "link": "https://www.producthunt.com/products/pally",
@@ -536,40 +644,13 @@
       "category": "malaysia"
     },
     {
-      "id": "ba03b098e04b19b4c9d9fa804e12f77173629870",
-      "title": "The FCC's ban on foreign \"advanced robotic devices\" includes any new ground-based, software-controlled wireless robot over 4.4 pounds, including robot vacuums (Sean Hollister/The Verge)",
-      "link": "https://www.techmeme.com/260729/p51#a260729p51",
-      "summary": "<a href=\"https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlFwckoyTFFqWUciLCJwIjoiL3BvbGljeS85NzIzMTIvdXMtcm9ib3QtYmFuLXN3ZWVwLXVwLWNoaW5lc2UtdmFjdXVtcyIsImV4cCI6MTc4NTgwMDMyNywiaWF0IjoxNzg1MzY4MzI3fQ.9RiPLSqrJvOB6G0bdwgztiQn3vfc9av6OYj_Zx2nbZY&amp;utm_medium=gift-link\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260729/i51.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260729/p51#a260729p51\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Sean Hollister / <a href=\"https://www.theverge.com/\">The Verge</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlFwckoyTFFqWUciLCJwIjoiL3BvbGljeS85NzIzMTIvdXMtcm9ib3QtYmFuLXN3ZWVwLXVwLWNoaW5lc2UtdmFjdXVtcyIsImV4cCI6MTc4NTgwMDMyNywiaWF0IjoxNzg1MzY4MzI3fQ.9RiPLSqrJvOB6G0bdwgztiQn3vfc9av6OYj_Zx2nbZY&amp;utm_medium=gift-link\">The FCC's ban on foreign &ldquo;advanced robotic devices&rdquo; includes any new ground-based, software-controlled wireless robot over 4.4 pounds, including robot vacuums</a></b></span>&nbsp; &mdash;&nbsp; Did you hear it was just a ban on Chinese humanoid robots?&nbsp; It's not. &hellip; But spying doesn't require legs &mdash; and neither does the FCC's robot ban.</p>",
-      "published": "2026-07-30T02:00:41+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "55dbfde61ddf243632441a0a041454cc54521ea1",
-      "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
-      "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-      "summary": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
-      "published": "2026-07-30T01:53:25+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "83b232b8d7ca3e74c389784c81c0857da048d208",
-      "title": "Onyx Security, whose platform enables enterprises to deploy AI agents securely, raised a $113M Series B led by Bessemer, taking its total funding to $153M (Meir Orbach/CTech)",
-      "link": "https://www.techmeme.com/260729/p50#a260729p50",
-      "summary": "<a href=\"https://www.calcalistech.com/ctechnews/article/b1fsjydszg\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260729/i50.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260729/p50#a260729p50\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Meir Orbach / <a href=\"https://www.calcalistech.com/\">CTech</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.calcalistech.com/ctechnews/article/b1fsjydszg\">Onyx Security, whose platform enables enterprises to deploy AI agents securely, raised a $113M Series B led by Bessemer, taking its total funding to $153M</a></b></span>&nbsp; &mdash;&nbsp; Just four months after emerging from stealth, the Israeli startup is betting that securing AI agents will become one of cybersecurity's biggest markets.</p>",
-      "published": "2026-07-30T01:20:01+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
-      "id": "0756bf2ed582d8a4810fa724717ae395d22276a9",
-      "title": "Samsung reports Q2 revenue up 130% YoY to ~$118.1B, below ~$118.9B est., and operating profit up 1,814% to ~$61.46B, above ~$60.68B est., on robust AI demand (Jenny Lee/CNBC)",
-      "link": "https://www.techmeme.com/260729/p49#a260729p49",
-      "summary": "<a href=\"https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260729/i49.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260729/p49#a260729p49\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Jenny Lee / <a href=\"http://www.cnbc.com/\">CNBC</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html\">Samsung reports Q2 revenue up 130% YoY to ~$118.1B, below ~$118.9B est., and operating profit up 1,814% to ~$61.46B, above ~$60.68B est., on robust AI demand</a></b></span>&nbsp; &mdash;&nbsp; Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.</p>",
-      "published": "2026-07-30T00:45:02+00:00",
-      "source": "Techmeme",
-      "category": "tech"
+      "id": "4ba7302fbc827f6af5f88742c8e89727adb4fbea",
+      "title": "Premation",
+      "link": "https://www.producthunt.com/products/premation",
+      "summary": "<p>\n            An open-source AI alternative to After Effects\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/premation?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1210281?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-30T02:08:08+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "0a84db016ddb3fa3f9abeebb81c9537f37248635",
@@ -696,15 +777,6 @@
       "published": "2026-07-29T21:33:00+00:00",
       "source": "9to5Toys",
       "category": "deals"
-    },
-    {
-      "id": "2e08c4f2f80852b342183a745a44f4023bf14d53",
-      "title": "Yap",
-      "link": "https://www.producthunt.com/products/yap-5",
-      "summary": "<p>\n            Open-source voice dictation for Mac, fully on-device\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/yap-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1210183?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-29T21:28:30+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "934e3fe79d5d4438250660c7b1b8edb1af63f3f5",
@@ -883,15 +955,6 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
       "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or earlier [&#8230;]",
       "published": "2026-07-29T18:15:02+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "53abb9467e23cb4ae4c01c92c4a1c854e8526d30",
-      "title": "The US government just banned Roombas",
-      "link": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
-      "summary": "When the Trump administration announced yesterday that it was banning \"advanced robotic devices\" from entering the United States, the headlines were all about humanoids. But spying doesn't require legs - and neither does the FCC's robot ban. The robot ban will sweep up robot vacuum cleaners too, FCC media relations director Katie Gorscak confirms to [&#8230;]",
-      "published": "2026-07-29T18:13:09+00:00",
       "source": "The Verge",
       "category": "tech"
     },
@@ -1085,60 +1148,6 @@
       "category": "deals"
     },
     {
-      "id": "17be8981be21ed42865b42ce129b3ffc14616b47",
-      "title": "Full school day cellphone bans are more popular than ever",
-      "link": "https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever",
-      "summary": "As schools across the country continue to implement cellphone bans, a new Pew Research Center survey shows they continue to gain support. Seventy-seven percent of US adults support banning cellphones in middle and high school classes, and 48 percent support banning them for the entire school day. That's the first time more Americans have supported, [&#8230;]",
-      "published": "2026-07-29T16:42:44+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
-      "id": "e2b0827249fc3052c3638b8009980979d85c3bc0",
-      "title": "Skip the sunscreen with this UPF 50+ swim shirt down at $13 (Reg. $20)",
-      "link": "https://9to5toys.com/2026/07/29/g-gradual-upf-50-swim-shirts/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/G-Gradual-UPF-50-Swim-Shirts.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">G Gradual UPF 50+ Swim Shirts</h2>\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $13 (Reg. $20)</h3>\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\">\n<figure class=\"wp-block-media-text__media\"><img alt=\"A white line on a red background\" class=\"wp-image-1222719 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/G-Gradual-UPF-50-Swim-Shirts-chart.png?w=800\" width=\"968\" /></figure>\n<div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\">\n</p><h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n<p><span>I live near the beach, and about a year or so ago I started embracing swim shirts like this. It’s nice to have something that allows me to skip the sunscreen.</span></p>\n</div>\n</div>\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>",
-      "published": "2026-07-29T16:28:26+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "d672aab0de6ac0fa9ab5176a42d14e93df235857",
-      "title": "Empty your pockets and carry more with a sling bag, this tomtoc style is priced from $26.50 right now",
-      "link": "https://9to5toys.com/2026/07/29/tomtoc-15l-sling-bag-2/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/tomtoc-1.5L-Sling-Bag_d72c2d.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">tomtoc 1.5L Sling Bag</h2>\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $26.50 (Reg. $33)</h3>\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\">\n<figure class=\"wp-block-media-text__media\"><img alt=\"A line drawing of a city\" class=\"wp-image-1222714 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/tomtoc-1.5L-Sling-Bag-chart.png?w=800\" width=\"968\" /></figure>\n<div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\">\n</p><h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n<p><span>I’d say it’s been roughly a year since I switched over from carrying a wallet to a small sling bag like this. It’s nice to keep my pockets completely clear while also toting everything from my iPhone to AirPods, ID, cards, key fob, and more.</span></p>\n</div>\n</div>\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>",
-      "published": "2026-07-29T16:27:04+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "7e0ed049667ecf1ac7975fb1dffd4f7f7e6e13b1",
-      "title": "This two-tone dress shirt is yours for $15 Prime shipped",
-      "link": "https://9to5toys.com/2026/07/29/alex-vando-button-down-dress-shirt-3/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Alex-Vando-Button-Down-Dress-Shirt.png?w=1600\" /></div><h2 class=\"wp-block-heading has-text-align-center\">Alex Vando Button-Down Dress Shirt</h2>\n<h3 class=\"wp-block-heading has-text-align-center\">Buy for $15 (Reg. $18)</h3>\n<div class=\"wp-block-spacer\" style=\"height: 25px;\"></div>\n<div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top\">\n<figure class=\"wp-block-media-text__media\"><img alt=\"A red and white line drawing\" class=\"wp-image-1222709 size-full\" height=\"484\" src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Alex-Vando-Button-Down-Dress-Shirt-chart.png?w=800\" width=\"968\" /></figure>\n<div class=\"wp-block-media-text__content\">\n<p class=\"wp-block-paragraph\">\n</p><h3 class=\"wp-block-heading has-text-align-center\" id=\"h-what-we-love\"><strong>What we love</strong></h3>\n<p><span>I like that this dress shirt has a bit of added flair in the sleeves. This is something that’s bound to pop when you roll them up, making it a nice looking shirt for work, cooler fall days ahead, and more.</span></p>\n</div>\n</div>\n<div class=\"wp-block-spacer\" style=\"height: 27px;\"></div>",
-      "published": "2026-07-29T16:24:09+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "7705ce41f656cb886e9553ac75936b73083a50e7",
-      "title": "Bring RGBWWIC ambiance to walls/ceilings with Govee’s Strip Light with Skyline kit starting from $60",
-      "link": "https://9to5toys.com/2026/07/29/govee-strip-light-with-skyline-kit-starting-from-60/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2025/08/Govee-Strip-Light-with-Skyline-Kit-e1754942314620.jpg?quality=82&#038;strip=all&#038;w=1200\" /></div><p class=\"wp-block-paragraph\">Through its official Amazon storefront, Govee is offering its 13.1-foot RGBWWIC Strip Light with Skyline Kit at $59.99 shipped, beating the <a href=\"https://govee.sjv.io/Oeo7xP\">direct website by $10</a>, while the 19.7-foot model is down at $79.99 shipped, matching the price we’re seeing <a href=\"https://govee.sjv.io/yqPEzD\">direct from the brand’s website</a>. Normally going for $100 and $130 at full price, we’ve seen discounts in 2026 take the 13.1-foot model as low as $48, while the 19.7-foot model has gone as low as $75. The deals here give you $40 and $50 markdowns, landing them at the second-lowest and third-lowest prices we have tracked. There’s also plenty more smart lighting devices to <a href=\"https://link.amazon/B04lIVByH\">browse in the official Govee Amazon storefront here</a>. </p>",
-      "published": "2026-07-29T16:18:14+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
-      "id": "10367616b6f344deb2f9e9b48619f3b42c830ef4",
-      "title": "Mid-week Apple TV deals up to 65% off: X-Files collection, horror flicks, Pan’s Labyrinth, No Sudden Move, more",
-      "link": "https://9to5toys.com/2026/07/29/mid-week-apple-tv-deals-x-files-collection-horror/",
-      "summary": "<div class=\"feat-image\"><img src=\"https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Apple-TV-Jul-29-2.webp?w=1600\" /></div><p class=\"wp-block-paragraph\">Today’s lineup of the best Apple TV deals is now ready go, including titles like X-Files 2-Movie Collection, No Sudden Move, Bad Lieutenant: Port of Call New Orleans, Prince of Egypt / Joseph: King of Dreams Double Feature, and more. On your way down, scope out the AirPods Pro 3 at $50 off as well as the all-time low on the latest <a href=\"https://9to5toys.com/2026/07/26/airtag-2-today-best-price/\">AirTag 2</a>, <a href=\"https://9to5toys.com/2026/07/29/m5-pro-macbook-pro-deals/\"><strong>$500 off </strong>M5 Pro MacBook Pro</a> machines, 32% off the official <a href=\"https://9to5toys.com/2026/07/29/apple-black-iphone-17-pro-max-techwoven-case-deal/\">iPhone 17 Pro Max TechWoven MagSafe case</a>, and the most affordable <a href=\"https://9to5toys.com/2026/07/29/most-affordable-m5-macbook-air/\">15-inch M5 MacBook Air at $170 off</a>. The apps await below.</p>",
-      "published": "2026-07-29T16:06:46+00:00",
-      "source": "9to5Toys",
-      "category": "deals"
-    },
-    {
       "id": "25121c613cf85724ebd1e389d58092abd25a1955",
       "title": "Anthropic is finding bugs faster than Microsoft can fix them",
       "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
@@ -1328,24 +1337,6 @@
       "category": "malaysia"
     },
     {
-      "id": "370ab15d7e2cc1e1352a73def5a2fbca8f1cd2b0",
-      "title": "'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament",
-      "link": "https://www.bbc.co.uk/news/articles/c9q90qvwe14o?at_medium=RSS&at_campaign=rss",
-      "summary": "From \"delulu\" to \"FOMO\", Gen Z slang has made an unlikely journey from Instagram to parliament.",
-      "published": "2026-07-29T09:02:48+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "e633bd4b349ba3676d0de4f0b5e03ae2ae12c2a2",
-      "title": "BTS withdraw from Grammys, a month after Asian pop prize introduced",
-      "link": "https://www.bbc.co.uk/news/articles/clyjgyd0225o?at_medium=RSS&at_campaign=rss",
-      "summary": "All seven members of the band post a statement online, saying they will boycott the 2027 ceremony.",
-      "published": "2026-07-29T08:16:15+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "d21e643885fa92177bd083a6b6ff8db0215f77df",
       "title": "Greplica",
       "link": "https://www.producthunt.com/products/greplica",
@@ -1362,6 +1353,15 @@
       "published": "2026-07-29T01:00:36+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
+    },
+    {
+      "id": "7828aadc942344ce4b87225129f86648cb4fce69",
+      "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+      "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+      "summary": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
+      "published": "2026-07-28T23:25:53+00:00",
+      "source": "BBC News",
+      "category": "world"
     },
     {
       "id": "b03b4c39825e25dae09e1a50d21e77c14e5f3a5c",
@@ -1409,15 +1409,6 @@
       "category": "events"
     },
     {
-      "id": "1bab24dbd061f2f4fbfd8f69917c6f673802f64f",
-      "title": "SKI",
-      "link": "https://www.producthunt.com/products/ski",
-      "summary": "<p>\n            Free voice coding for Claude Code, Codex and more\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ski?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1208711?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-28T10:29:37+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "40b443233b3118875cc8c6924ee7d1b7f36680f9",
       "title": "Caimera",
       "link": "https://www.producthunt.com/products/caimera-2",
@@ -1432,6 +1423,15 @@
       "link": "https://www.producthunt.com/products/memmy",
       "summary": "<p>\n            Let every AI remember the same you.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/memmy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1203499?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-22T12:22:23+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "3680b50336bcd5441cc2a6234fbde193ab357aa9",
+      "title": "agentOS",
+      "link": "https://www.producthunt.com/products/agentos-3",
+      "summary": "<p>\n            254× cheaper sandbox alternative, powered by WebAssembly\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentos-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1202848?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-21T19:56:36+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
