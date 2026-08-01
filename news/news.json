@@ -1,15 +1,105 @@
 {
-  "generatedAt": "2026-08-01T22:47:10.145901+00:00",
+  "generatedAt": "2026-08-01T23:51:22.989350+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "b26b9d0688f85ebb8267fd11f54f6dfdf10e4f9b",
+      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+      "published": "2026-08-01T23:03:35+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "1769197ab09ae086015819b4b694b8cb3224a6d1",
+      "title": "Russian ship defies sanctions to send military vehicles to Mali",
+      "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
+      "published": "2026-08-01T23:03:23+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "42925998f4d15c967ebbad7166c61c532458fe4b",
+      "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
+      "link": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
+      "published": "2026-08-01T23:03:15+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "a75161f13cd1f5346cb9349e8ddd4b8a17af3f15",
+      "title": "Seismic shift in Malaysian politics as BN-PN ousts Pakatan heavyweights in Negeri Sembilan poll",
+      "link": "https://www.malaymail.com/news/malaysia/2026/08/02/seismic-shift-in-malaysian-politics-as-bn-pn-ousts-pakatan-heavyweights-in-negeri-sembilan-poll/229909",
+      "summary": "KUALA LUMPUR, Aug 2 &mdash; Negeri Sembilan woke up to a transformed political landscape this morning after voters decis...",
+      "published": "2026-08-01T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "db5e8d7f139f46dcc51a945b5515a566a2a2f31d",
+      "title": "How 60,000 migrants walked into Spain in three days — and why Morocco didn’t stop them",
+      "link": "https://www.malaymail.com/news/world/2026/08/02/how-60000-migrants-walked-into-spain-in-three-days-and-why-morocco-didnt-stop-them/229870",
+      "summary": "MADRID, Aug 2 &mdash; The sudden arrival of 60,000 migrants into Spain&rsquo;s north African enclave of Ceuta from Moroc...",
+      "published": "2026-08-01T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "29483842cd53c434e3117f85b83122769ba8bef6",
+      "title": "Got milk? Johor dairy project Jemaluang Dairy Valley is just getting started, targets 12m litres by end 2026 (VIDEO)",
+      "link": "https://www.malaymail.com/news/money/2026/08/02/got-milk-johor-dairy-project-jemaluang-dairy-valley-is-just-getting-started-targets-12m-litres-by-end-2026-video/229863",
+      "summary": "MERSING, Aug 2 &mdash; The Jemaluang Dairy Valley project has recorded encouraging progress, with fresh milk production...",
+      "published": "2026-08-01T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "d9f73e7a10be3b1d017cd28ad6d6a69c725050bd",
+      "title": "From misty toilets to shorter shifts, Japan workplaces get creative in the summer heat",
+      "link": "https://www.malaymail.com/news/life/2026/08/02/from-misty-toilets-to-shorter-shifts-japan-workplaces-get-creative-in-the-summer-heat/229855",
+      "summary": "TOKYO, Aug 2&nbsp;&mdash; Japanese companies have been implementing measures to protect workers amid the extreme summer...",
+      "published": "2026-08-01T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "5f329267c27c84efe19346e4fcd59b51c9f46b96",
+      "title": "Five new pesticides, one big PFAS question: Is Trump’s EPA drawing the line too narrowly?",
+      "link": "https://www.malaymail.com/news/world/2026/08/02/five-new-pesticides-one-big-pfas-question-is-trumps-epa-drawing-the-line-too-narrowly/229851",
+      "summary": "WASHINGTON, Aug 2&nbsp;&mdash; Since returning to power, President Donald Trump&rsquo;s administration has approved five...",
+      "published": "2026-08-01T23:00:00+00:00",
+      "source": "Malay Mail  -  All",
+      "category": "malaysia"
+    },
+    {
+      "id": "d392c867ab2a6149cae10055fb3dc487a6bd18e7",
+      "title": "The Sopranos star Vincent Pastore dies aged 80",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
+      "published": "2026-08-01T22:57:55+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "5226e690d69cc465c06af48903b5f4e18dd3ddcd",
       "title": "Tourist plane crashes in Peru, killing 13",
       "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
       "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
       "published": "2026-08-01T22:34:20+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "f9c5f4e9771914c12c6000b9221ef599371e4146",
+      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
+      "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
+      "summary": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
+      "published": "2026-08-01T22:06:18+00:00",
       "source": "BBC News",
       "category": "world"
     },
@@ -185,15 +275,6 @@
       "category": "tech"
     },
     {
-      "id": "82ed13fc93cb08146e33c810f77237417953db09",
-      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-      "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
-      "published": "2026-08-01T17:16:51+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "c9626a48a43f346130c6cfdb7451e78fed2fbd4e",
       "title": "Call for 'full review' as pressure grows on Infantino",
       "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
@@ -291,15 +372,6 @@
       "published": "2026-08-01T15:05:00+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "400655ff39a985609b039c992f11ddff2eff381e",
-      "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-      "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
-      "published": "2026-08-01T15:00:07+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "9e3e7620cd79e3be5fd5d649165f7973e7b06ab4",
@@ -635,24 +707,6 @@
       "category": "malaysia"
     },
     {
-      "id": "3229513621905c124709e745fc7315bcf2419669",
-      "title": "Uefa says Infantino broke every promise except the ‘shabby’ backroom ones",
-      "link": "https://www.malaymail.com/news/sports/2026/08/01/uefa-says-infantino-broke-every-promise-except-the-shabby-backroom-ones/229885",
-      "summary": "PARIS, Aug 1 &mdash; Fifa president Gianni Infantino has lost the &ldquo;confidence&rdquo; of European football&rsquo;s...",
-      "published": "2026-08-01T11:05:48+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "199f1d4a329da861eed44f66fdc942c21c3e8f0f",
-      "title": "Malaysia’s two Aarons join Pearly Tan-M. Thinaah in Taipei Open final party",
-      "link": "https://www.malaymail.com/news/sports/2026/08/01/malaysias-two-aarons-join-pearly-tan-m-thinaah-in-taipei-open-final-party/229884",
-      "summary": "TAIPEI, Aug 1 &mdash; Malaysia will have two badminton pairs chasing Yonex Taipei Open titles tomorrow after men&rsquo;s...",
-      "published": "2026-08-01T10:54:27+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
       "id": "98397f6e414a4deb50cbabd575196f83718730fc",
       "title": "Defcon's new badge is a security key you can see inside",
       "link": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
@@ -660,15 +714,6 @@
       "published": "2026-08-01T10:05:21+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "e0344605ec0f03f48851cd044fb98c57739fa585",
-      "title": "Indonesia steps up screening for crew bags after Malaysian pilot’s drug arrest in Jakarta",
-      "link": "https://www.malaymail.com/news/world/2026/08/01/indonesia-steps-up-screening-for-crew-bags-after-malaysian-pilots-drug-arrest-in-jakarta/229881",
-      "summary": "JAKARTA, Aug 1 &mdash; Indonesia&rsquo;s Customs and Excise authorities have tightened baggage screening for all flight...",
-      "published": "2026-08-01T10:05:12+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "1038d64b4247331bc9218c785c2a223f1e854d69",
@@ -687,24 +732,6 @@
       "published": "2026-08-01T10:00:19+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "104f8590102f3e799aeceb618be09d04693fb7e0",
-      "title": "(Unofficial) Negeri Sembilan polls: ‘PBN’ to form state govt, sets sights on Melaka next",
-      "link": "https://www.malaymail.com/news/malaysia/2026/08/01/negeri-sembilan-polls-close-race-for-the-state-government-begins/229867",
-      "summary": "KUALA LUMPUR, Aug 1 &mdash; Barisan Nasional chairman Datuk Seri Ahmad Zahid has thanked voters and supporters for givin...",
-      "published": "2026-08-01T10:00:00+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
-    },
-    {
-      "id": "cf5b0d5997e80c477f9ace90051235d0e9151ab7",
-      "title": "Counting begins for nearly 12,000 postal ballots as Negeri Sembilan polls enter final stretch",
-      "link": "https://www.malaymail.com/news/malaysia/2026/08/01/counting-begins-for-nearly-12000-postal-ballots-as-negeri-sembilan-polls-enter-final-stretch/229882",
-      "summary": "SEREMBAN, Aug 1 &mdash; Postal vote counting for the 16th Negeri Sembilan state election began at 5pm today.The process...",
-      "published": "2026-08-01T09:56:06+00:00",
-      "source": "Malay Mail  -  All",
-      "category": "malaysia"
     },
     {
       "id": "39db43fb2ab0178eaab36e0b14a7cbe6f6e2ea51",
@@ -833,8 +860,8 @@
       "category": "deals"
     },
     {
-      "id": "9436781ddfa4d96439c01119c29417180991df9b",
-      "title": "Chelsea was murdered 10 years ago - will a new police podcast catch her killer?",
+      "id": "a6b3e3e82c8b6f0e5b49eba6ccc97e807de166ba",
+      "title": "Police in the US are making their own true crime podcasts - will it help catch killers?",
       "link": "https://www.bbc.co.uk/news/articles/cpw9q0ekd9eo?at_medium=RSS&at_campaign=rss",
       "summary": "More police departments are trying to invigorate unsolved murder or missing cases through the power of podcasts.",
       "published": "2026-07-31T23:42:32+00:00",
@@ -863,7 +890,7 @@
       "id": "c2b4916e4f0834d2bbfc092939e8768ad4f67ad3",
       "title": "Basedash Audit Logs",
       "link": "https://www.producthunt.com/products/basedash",
-      "summary": "<p>\n            Every action in your BI tool, on the record.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1211927?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Every action in your BI tool, on the record.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1211927?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-31T22:29:36+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -930,15 +957,6 @@
       "published": "2026-07-31T21:19:39+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
-    },
-    {
-      "id": "096c6ef1b09758a6842ab607edd08d7544439974",
-      "title": "Greyhounds bound for Australia as New Zealand racing ban takes effect",
-      "link": "https://www.bbc.co.uk/news/articles/c5y62pe9g3no?at_medium=RSS&at_campaign=rss",
-      "summary": "At least two chartered flights carrying up to 150 greyhounds are set to fly to Australia's eastern states, the BBC understands.",
-      "published": "2026-07-31T21:09:39+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "e85d26aa31ca366e538cb001f8f4d0034c49d7a3",
@@ -1061,7 +1079,7 @@
       "id": "4b4993fd3d76d2d9e7b70921723e099cee7d454a",
       "title": "EssayKraft",
       "link": "https://www.producthunt.com/products/essaykraft",
-      "summary": "<p>\n            Native essay writing app for Mac and iPad \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/essaykraft?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1211804?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Native essay writing app for Mac and iPad \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/essaykraft?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1211804?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-31T18:27:31+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1187,7 +1205,7 @@
       "id": "a729bc2d6f5a0ae5749a57594c24c8324676bea0",
       "title": "DeepSeek-V4-Flash-0731",
       "link": "https://www.producthunt.com/products/deepseek",
-      "summary": "<p>\n            Frontier agent intelligence at Flash prices\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/deepseek?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1211631?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Frontier agent intelligence at Flash prices\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/deepseek?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1211631?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-31T13:38:23+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1205,7 +1223,7 @@
       "id": "508d72cfac4a61e84a7e2424f7dd3795018bca23",
       "title": "Kopai",
       "link": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
-      "summary": "<p>\n             Share your expertise, and let our agents earn for you.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1211566?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n             Share your expertise, and let our agents earn for you.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1211566?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-31T12:24:21+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1214,7 +1232,7 @@
       "id": "e06d911a3ac85ce4178d0f6a684e68b50e9b50c0",
       "title": "NudgeForMe",
       "link": "https://www.producthunt.com/products/nudgeforme",
-      "summary": "<p>\n            AI follow-up agent for missed email opportunities\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nudgeforme?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1211493?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            AI follow-up agent for missed email opportunities\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nudgeforme?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1211493?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-31T10:42:14+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1277,7 +1295,7 @@
       "id": "e1db5f57f739de55857c45418eabcc9bd40b4a8e",
       "title": "Yamanote 3D",
       "link": "https://www.producthunt.com/products/yamanote-3d",
-      "summary": "<p>\n            Ride Tokyo’s Yamanote Line in a 3D world\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/yamanote-3d?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1211399?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Ride Tokyo’s Yamanote Line in a 3D world\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/yamanote-3d?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1211399?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-31T08:42:08+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1286,7 +1304,7 @@
       "id": "1f3b480b7063baa0619291758806eeeca6da0abc",
       "title": "AgentMicro",
       "link": "https://www.producthunt.com/products/agentmicro",
-      "summary": "<p>\n            Live Codex task status in your macOS menu bar\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentmicro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1211380?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Live Codex task status in your macOS menu bar\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentmicro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1211380?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-31T08:27:23+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1322,7 +1340,7 @@
       "id": "93331bd5f3ad26315bfb9fc715f4911ef0aa5a79",
       "title": "witr",
       "link": "https://www.producthunt.com/products/witr",
-      "summary": "<p>\n            Why is this running? Trace process, port, container or file\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/witr?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1211309?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Why is this running? Trace process, port, container or file\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/witr?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1211309?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-31T06:39:43+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1335,15 +1353,6 @@
       "published": "2026-07-31T06:33:58+00:00",
       "source": "Lowyat.NET",
       "category": "deals"
-    },
-    {
-      "id": "e65b6269ad5aebef7ecbdfa50fbf2b9a956c96ec",
-      "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-      "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
-      "summary": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
-      "published": "2026-07-31T05:21:18+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "0637767fe1ddd239f5c021fbeb663aab47ab5286",
@@ -1367,7 +1376,7 @@
       "id": "03d6964fb2ff66ede81894a1dfbfe0e21ed4898c",
       "title": "MiniMax H3",
       "link": "https://www.producthunt.com/products/minimax",
-      "summary": "<p>\n            Unified video generation for motion design and branding\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/minimax?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1211205?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Unified video generation for motion design and branding\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/minimax?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1211205?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-31T03:17:18+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1376,26 +1385,17 @@
       "id": "6fa6cdcc1b45d10382a6faf8c7d41998cc7ab588",
       "title": "TerminalWidget",
       "link": "https://www.producthunt.com/products/terminalwidget",
-      "summary": "<p>\n            Put script output in your Desktop/Home screen widgets.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/terminalwidget?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1211111?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Put script output in your Desktop/Home screen widgets.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/terminalwidget?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1211111?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-30T23:30:48+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "2988237abcb66c4947f8fe961212d03c3d909578",
-      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-      "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-      "summary": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
-      "published": "2026-07-30T17:55:24+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
-      "id": "5b972e04e42b13c8112d077b508be23b20c00395",
-      "title": "Gemini Robotics 2",
-      "link": "https://www.producthunt.com/products/gemini-robotics-2",
-      "summary": "<p>\n            Google's AI brain for the next generation of robots\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gemini-robotics-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1210871?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-30T15:56:55+00:00",
+      "id": "4ff526525856e0f830df0d77cd432406eaf8070e",
+      "title": "DepthData",
+      "link": "https://www.producthunt.com/products/depthdata",
+      "summary": "<p>\n            The system of record for your company's AI spend.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/depthdata?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1211027?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-30T20:00:35+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1412,7 +1412,7 @@
       "id": "741be87bdf85a9d09d2171f03d6b6ef642f51a24",
       "title": "Mubert API",
       "link": "https://www.producthunt.com/products/mubert",
-      "summary": "<p>\n            Edit tracks & stems, get consistent music with new engine\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mubert?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1210445?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Edit tracks & stems, get consistent music with new engine\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mubert?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1210445?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-30T07:18:31+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1421,7 +1421,7 @@
       "id": "c4c295d27010bd01c17705725d009e1be9f5e208",
       "title": "SyncStaq",
       "link": "https://www.producthunt.com/products/syncstaq",
-      "summary": "<p>\n            Stripe billing data, always current in Google Sheets\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/syncstaq?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1210288?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Stripe billing data, always current in Google Sheets\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/syncstaq?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1210288?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-30T02:46:22+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1430,17 +1430,17 @@
       "id": "759deaad23afb574bd1485c95ce8c0ef7e2f23b6",
       "title": "Port22",
       "link": "https://www.producthunt.com/products/port22",
-      "summary": "<p>\n            Claude Code, Codex & more on your phone \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/port22?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1210161?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Claude Code, Codex & more on your phone \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/port22?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1210161?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-29T20:50:08+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
     {
-      "id": "a6950ef1c85b6b0af4c8f02be482699fdce1b80d",
-      "title": "TraceLLM",
-      "link": "https://www.producthunt.com/products/tracellm",
-      "summary": "<p>\n            OpenTelemetry for production AI applications\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tracellm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1209887?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-29T14:43:16+00:00",
+      "id": "1c40027abc890584cf7f19e8ee5ecd70f39997ec",
+      "title": "Poth Labs",
+      "link": "https://www.producthunt.com/products/poth-labs",
+      "summary": "<p>\n            The customer brain for your company\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/poth-labs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1209426?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-29T04:59:40+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1448,17 +1448,8 @@
       "id": "e6084dd146877b90917f9819ae1bf82c79182c8d",
       "title": "Tandem",
       "link": "https://www.producthunt.com/products/tandem-11",
-      "summary": "<p>\n            AI-native office leasing brokerage\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tandem-11?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1208443?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            AI-native office leasing brokerage\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tandem-11?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1208443?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-28T05:25:36+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "dba361b9fc7aba196b0be5377fac081ed280f80a",
-      "title": "Screencap",
-      "link": "https://www.producthunt.com/products/screencap",
-      "summary": "<p>\n            Turn your team's real workflows into AI training data\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/screencap?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1208135?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-27T18:58:18+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1466,7 +1457,7 @@
       "id": "fe4bf99ad0a8c5fb12d6851db55e74b68b489093",
       "title": "Cleanlist AI",
       "link": "https://www.producthunt.com/products/cleanlist-ai",
-      "summary": "<p>\n            Natural-language prospecting: find, enrich and sync leads.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cleanlist-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1207991?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            Natural-language prospecting: find, enrich and sync leads.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cleanlist-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1207991?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-27T15:47:32+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
@@ -1475,8 +1466,17 @@
       "id": "1e1ef63ee3ac31c0ad71dddb256d7be872ab5c76",
       "title": "Customer.io Summer Release",
       "link": "https://www.producthunt.com/products/customer-io",
-      "summary": "<p>\n            New ways to reach customers in the moments that matter\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/customer-io?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1204978?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            New ways to reach customers in the moments that matter\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/customer-io?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1204978?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-23T21:00:18+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
+      "id": "8e2138f2bb41013d2c56c639cd30111cb5598444",
+      "title": "Halo by Scam AI",
+      "link": "https://www.producthunt.com/products/scam-ai",
+      "summary": "<p>\n            Know who’s real on every video call\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/scam-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1201635?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-20T16:18:59+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
@@ -1484,7 +1484,7 @@
       "id": "9251dd29e92c66b78f50b9e26d1c4785dd81aa64",
       "title": "Terminal Candy",
       "link": "https://www.producthunt.com/products/terminal-candy",
-      "summary": "<p>\n            A native macOS terminal you can skin and theme\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/terminal-candy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1200935?app_id=339\">Link</a>\n          </p>",
+      "summary": "<p>\n            A native macOS terminal you can skin and theme\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/terminal-candy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1200935?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-19T22:21:18+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
