@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-08-02T16:54:36.261013+00:00",
+  "generatedAt": "2026-08-02T17:56:23.343322+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "cddf89f5263d446bb6748357726ef9a196ac08c3",
+      "title": "Experts say US law is unprepared for rogue AI agents and models, as recent OpenAI and Anthropic incidents raise questions over legal liability and repercussions (Lily Hay Newman/Wired)",
+      "link": "https://www.techmeme.com/260802/p8#a260802p8",
+      "summary": "<a href=\"https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260802/i8.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260802/p8#a260802p8\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Lily Hay Newman / <a href=\"http://www.wired.com/\">Wired</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/\">Experts say US law is unprepared for rogue AI agents and models, as recent OpenAI and Anthropic incidents raise questions over legal liability and repercussions</a></b></span>&nbsp; &mdash;&nbsp; Both major AI labs' models broke containment, escaped onto the internet, and hacked other companies.</p>",
+      "published": "2026-08-02T17:45:14+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "ddb8d58719c15e5e0c9fabdd1827852f74835539",
+      "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+      "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+      "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+      "published": "2026-08-02T17:30:03+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "332f2f05350512b11247de95ff2d0b931c59124e",
+      "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+      "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+      "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+      "published": "2026-08-02T17:05:07+00:00",
+      "source": "TechCrunch",
+      "category": "tech"
+    },
+    {
+      "id": "151acbeff493f1ea96fda9e126d72661a580cd8e",
+      "title": "At the scene of deadly Moscow bomb blast",
+      "link": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
+      "published": "2026-08-02T16:52:35+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "ea1d989c2a93ab4da91ac4d9bd88e48c98ced547",
       "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
@@ -66,15 +102,6 @@
       "published": "2026-08-02T15:23:19+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "55caa9cbd777419e972aedfbbc125290eca29c47",
-      "title": "Helicopters fighting Greece wildfires collide in mid-air",
-      "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames.",
-      "published": "2026-08-02T15:21:56+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "010d9cc95f4a9ebb3b711ed165c97eb477418945",
@@ -194,8 +221,8 @@
       "category": "malaysia"
     },
     {
-      "id": "36d49558f92475367db12a4c1111ddcd6628d190",
-      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "id": "f52c094db847632f84c7f53e775c03830023f336",
+      "title": "Five dead and 41 missing after Indonesia ferry catches fire",
       "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
       "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
       "published": "2026-08-02T11:49:40+00:00",
@@ -255,15 +282,6 @@
       "published": "2026-08-02T11:00:23+00:00",
       "source": "Malay Mail  -  All",
       "category": "malaysia"
-    },
-    {
-      "id": "376a91623a499a7ce33d43364198daf49ab34dbe",
-      "title": "Fastest runner to cross the Alps says it was an incredible experience",
-      "link": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
-      "summary": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries.",
-      "published": "2026-08-02T10:59:55+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "9f5fe2be83d300e97eb52635f9d5b797df74d6ea",
@@ -887,15 +905,6 @@
       "category": "deals"
     },
     {
-      "id": "8b462d14fa865d5751225efffce69e8be055612a",
-      "title": "This year's Defcon badges include Baochip-1x, an open source chip whose security is verifiable and that can also be used as a hardware security token (Kim Zetter/Wired)",
-      "link": "https://www.techmeme.com/260801/p10#a260801p10",
-      "summary": "<a href=\"https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260801/i10.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260801/p10#a260801p10\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Kim Zetter / <a href=\"http://www.wired.com/\">Wired</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/\">This year's Defcon badges include Baochip-1x, an open source chip whose security is verifiable and that can also be used as a hardware security token</a></b></span>&nbsp; &mdash;&nbsp; Created by legendary hardware hacker Andrew &ldquo;bunnie&rdquo; Huang, the badges for this year's famed security conference aim to push the boundaries of security and transparency.</p>",
-      "published": "2026-08-01T12:35:35+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "ddf32d1fdb7155327aa37a97b7bae79fdcadf031",
       "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
       "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
@@ -1029,15 +1038,6 @@
       "published": "2026-07-31T22:47:26+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "c2b4916e4f0834d2bbfc092939e8768ad4f67ad3",
-      "title": "Basedash Audit Logs",
-      "link": "https://www.producthunt.com/products/basedash",
-      "summary": "<p>\n            Every action in your BI tool, on the record.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1211927?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-31T22:29:36+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
     },
     {
       "id": "15c1b216238aa341fb3c25e23a03e79529100ca4",
@@ -1247,15 +1247,6 @@
       "category": "tech"
     },
     {
-      "id": "309affe434cefa0703989b11d4ef269e511d205d",
-      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-      "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-      "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
-      "published": "2026-07-31T16:49:08+00:00",
-      "source": "TechCrunch",
-      "category": "tech"
-    },
-    {
       "id": "1eb8a1d380160b237cc57ccf8de38cdf3c19a32e",
       "title": "Man invested $45M in a Nicolas Cage movie. It got stolen off Netflix’s desk.",
       "link": "https://arstechnica.com/tech-policy/2026/07/man-invested-45m-in-a-nicolas-cage-movie-it-got-stolen-off-netflixs-desk/",
@@ -1301,6 +1292,15 @@
       "category": "tech"
     },
     {
+      "id": "a729bc2d6f5a0ae5749a57594c24c8324676bea0",
+      "title": "DeepSeek-V4-Flash-0731",
+      "link": "https://www.producthunt.com/products/deepseek",
+      "summary": "<p>\n            Frontier agent intelligence at Flash prices\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/deepseek?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1211631?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-31T13:38:23+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "d87c303fc2ae52930ad5da1f7dce85f27a7e9d30",
       "title": "Pathogenic review: Damn, it feels good to be a virus",
       "link": "https://arstechnica.com/gaming/2026/07/pathogenic-review-damn-it-feels-good-to-be-a-virus/",
@@ -1308,6 +1308,15 @@
       "published": "2026-07-31T13:00:18+00:00",
       "source": "Ars Technica - All content",
       "category": "tech"
+    },
+    {
+      "id": "508d72cfac4a61e84a7e2424f7dd3795018bca23",
+      "title": "Kopai",
+      "link": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
+      "summary": "<p>\n             Share your expertise, and let our agents earn for you.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1211566?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-07-31T12:24:21+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
     },
     {
       "id": "e06d911a3ac85ce4178d0f6a684e68b50e9b50c0",
@@ -1441,15 +1450,6 @@
       "link": "https://www.producthunt.com/products/freqwave-eq-browser-audio-equalizer",
       "summary": "<p>\n            Customize your web audio with a real-time EQ\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/freqwave-eq-browser-audio-equalizer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1208915?app_id=339\">Link</a>\n          </p>",
       "published": "2026-07-28T13:53:12+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
-      "id": "e6084dd146877b90917f9819ae1bf82c79182c8d",
-      "title": "Tandem",
-      "link": "https://www.producthunt.com/products/tandem-11",
-      "summary": "<p>\n            AI-native office leasing brokerage\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tandem-11?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1208443?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-07-28T05:25:36+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
