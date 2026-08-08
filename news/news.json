@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-08-08T17:22:36.119219+00:00",
+  "generatedAt": "2026-08-08T18:26:26.898507+00:00",
   "counts": {
     "total": 165
   },
   "items": [
+    {
+      "id": "2a4221bca02f512932ca7ac07fdc52ccc6c5d6c9",
+      "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
+      "published": "2026-08-08T18:13:49+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "5d91556d5d78267deaa034fab1884821c61ff047",
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "published": "2026-08-08T18:06:25+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "b1e2699bb8a30867e67074f8884ab3bf476fd156",
+      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+      "published": "2026-08-08T17:58:42+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
+    {
+      "id": "c09dd77afdb48c96e50f74c982de01bea074d056",
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, [&#8230;]",
+      "published": "2026-08-08T17:53:34+00:00",
+      "source": "The Verge",
+      "category": "tech"
+    },
+    {
+      "id": "1fe36eb866baf2fedbb5506f246dafab2a614f57",
+      "title": "A profile of Russia's A7, a payment network that helps Russia bypass Western sanctions, handling ~20% of payments in Russian foreign trade, or $100B+ annually (Alexander Osipovich/Wall Street Journal)",
+      "link": "https://www.techmeme.com/260808/p8#a260808p8",
+      "summary": "<a href=\"https://www.wsj.com/world/russia/russias-hottest-startup-is-a-state-backed-sanctions-evasion-network-7afc488c?st=FJyLce&amp;reflink=desktopwebshare_permalink\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260808/i8.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260808/p8#a260808p8\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Alexander Osipovich / <a href=\"https://www.wsj.com/\">Wall Street Journal</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.wsj.com/world/russia/russias-hottest-startup-is-a-state-backed-sanctions-evasion-network-7afc488c?st=FJyLce&amp;reflink=desktopwebshare_permalink\">A profile of Russia's A7, a payment network that helps Russia bypass Western sanctions, handling ~20% of payments in Russian foreign trade, or $100B+ annually</a></b></span>&nbsp; &mdash;&nbsp; A7 says it handles nearly 20% of payments in Russian foreign trade, or more than $100 billion annually</p>",
+      "published": "2026-08-08T17:45:01+00:00",
+      "source": "Techmeme",
+      "category": "tech"
+    },
+    {
+      "id": "2480094f6ae203e1c4c2913074e969437c07bde6",
+      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
+      "published": "2026-08-08T17:23:31+00:00",
+      "source": "BBC News",
+      "category": "world"
+    },
     {
       "id": "996fd24ca4d7610783621426d79b8b1362008b1a",
       "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
@@ -12,15 +66,6 @@
       "published": "2026-08-08T16:34:22+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "b1e2699bb8a30867e67074f8884ab3bf476fd156",
-      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
-      "published": "2026-08-08T16:34:18+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "c37b7f0580675dec54e95dbb5e0241cce660e6c4",
@@ -68,15 +113,6 @@
       "category": "world"
     },
     {
-      "id": "5d91556d5d78267deaa034fab1884821c61ff047",
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-      "published": "2026-08-08T15:49:41+00:00",
-      "source": "BBC News",
-      "category": "world"
-    },
-    {
       "id": "1046a9ca48c74af4622a7c5798749b3112477841",
       "title": "Buc-ee’s dodges John Oliver to sue another small business",
       "link": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
@@ -93,15 +129,6 @@
       "published": "2026-08-08T15:45:00+00:00",
       "source": "Techmeme",
       "category": "tech"
-    },
-    {
-      "id": "2480094f6ae203e1c4c2913074e969437c07bde6",
-      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
-      "published": "2026-08-08T15:44:08+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "7d52c09cb46e751ee6e945c236b23512d072e685",
@@ -743,15 +770,6 @@
       "category": "deals"
     },
     {
-      "id": "bc6d62341d3cad50345c9db441c39530a1ce2272",
-      "title": "Sources: data center operator Switch filed confidentially for a US IPO, and a listing could take place as soon as November; Ben Horowitz is joining its board (Bailey Lipschultz/Bloomberg)",
-      "link": "https://www.techmeme.com/260807/p29#a260807p29",
-      "summary": "<a href=\"https://www.bloomberg.com/news/articles/2026-08-07/data-center-firm-switch-is-said-to-file-confidentially-for-ipo\"><img align=\"RIGHT\" border=\"0\" hspace=\"4\" src=\"http://www.techmeme.com/260807/i29.jpg\" vspace=\"4\" /></a>\n<p><a href=\"https://www.techmeme.com/260807/p29#a260807p29\" title=\"Techmeme permalink\"><img height=\"12\" src=\"http://www.techmeme.com/img/pml.png\" style=\"border: none; padding: 0; margin: 0;\" width=\"11\" /></a> Bailey Lipschultz / <a href=\"https://www.bloomberg.com/\">Bloomberg</a>:<br />\n<span style=\"font-size: 1.3em;\"><b><a href=\"https://www.bloomberg.com/news/articles/2026-08-07/data-center-firm-switch-is-said-to-file-confidentially-for-ipo\">Sources: data center operator Switch filed confidentially for a US IPO, and a listing could take place as soon as November; Ben Horowitz is joining its board</a></b></span>&nbsp; &mdash;&nbsp; Switch Inc. filed confidentially for a US IPO, according to people familiar with the matter, joining its data center peers &hellip; </p>",
-      "published": "2026-08-07T22:00:37+00:00",
-      "source": "Techmeme",
-      "category": "tech"
-    },
-    {
       "id": "324c55595a2c8c2eb37907231d2b1b2cee246c47",
       "title": "Europe's free satellite service just made it easier to track wildfires",
       "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
@@ -932,15 +950,6 @@
       "category": "world"
     },
     {
-      "id": "9078ff41a50235562fbbe8946fd6b64a61ce8355",
-      "title": "The only instant cameras worth your money",
-      "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
-      "summary": "There’s something magical about using instant cameras that smartphones can’t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won’t be all that good, but imperfections are part of the allure. We tested instant camera models from popular brands and landed [&#8230;]",
-      "published": "2026-08-07T18:04:08+00:00",
-      "source": "The Verge",
-      "category": "tech"
-    },
-    {
       "id": "04c627da3cdfe15ede57c308922154423197a630",
       "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
       "link": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
@@ -1083,15 +1092,6 @@
       "published": "2026-08-07T14:22:49+00:00",
       "source": "TechCrunch",
       "category": "tech"
-    },
-    {
-      "id": "be33306f69e6e736093278800f556f6ad98983ed",
-      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-      "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-      "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
-      "published": "2026-08-07T14:20:27+00:00",
-      "source": "BBC News",
-      "category": "world"
     },
     {
       "id": "d42bca50d313d2b6062dcef18c35e9b96811851d",
@@ -1247,6 +1247,15 @@
       "category": "malaysia"
     },
     {
+      "id": "915093bb3b102e67df5ed49cb28f4d6b815d6183",
+      "title": "Rescript for Desktop",
+      "link": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
+      "summary": "<p>\n            A free, open source, Descript alternative. Runs on-device.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1217040?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-08-07T04:56:04+00:00",
+      "source": "Product Hunt — The best new products, every day",
+      "category": "events"
+    },
+    {
       "id": "e0e5993d98cd0cbe6e18bfdbd4ebc45ce7f00781",
       "title": "DC Handal deploys 4x DC Charge points at C-Mart Changlun Kedah, up to 240kW",
       "link": "https://soyacincau.com/2026/08/07/dc-handal-ev-charger-at-c-mart-changlun-kedah/",
@@ -1355,15 +1364,6 @@
       "category": "events"
     },
     {
-      "id": "9cb7035fbd8b6c4da2dbb3646ea41afa056649b4",
-      "title": "Prompt Bridge",
-      "link": "https://www.producthunt.com/products/prompt-bridge-2",
-      "summary": "<p>\n            Keep AI Context Portable\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/prompt-bridge-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1216528?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-08-06T11:38:18+00:00",
-      "source": "Product Hunt — The best new products, every day",
-      "category": "events"
-    },
-    {
       "id": "7b25e12e2a761713b169200021c36a68bc960579",
       "title": "Soloop",
       "link": "https://www.producthunt.com/products/soloop",
@@ -1418,11 +1418,11 @@
       "category": "events"
     },
     {
-      "id": "fc03e1e51de01a88e6af39a4cf4bc35097d2bfe9",
-      "title": "Reference",
-      "link": "https://www.producthunt.com/products/reference-2",
-      "summary": "<p>\n            Local semantic search for AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/reference-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1215309?app_id=339\">Link</a>\n          </p>",
-      "published": "2026-08-05T05:07:59+00:00",
+      "id": "2bf725191018c7fd2c8aaaf83418dc2f0ead6e6d",
+      "title": "StepShot",
+      "link": "https://www.producthunt.com/products/stepshot-2",
+      "summary": "<p>\n            AI that turns real workflows into step-by-step guides\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/stepshot-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1215451?app_id=339\">Link</a>\n          </p>",
+      "published": "2026-08-05T08:17:49+00:00",
       "source": "Product Hunt — The best new products, every day",
       "category": "events"
     },
